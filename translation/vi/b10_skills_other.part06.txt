@@ -1,0 +1,114 @@
+@@ 4010
+Bạn tẩm chất độc lên vũ khí. Khi một kẻ địch bị giết, có cơ hội nó sẽ nổ tung thành một đám mây độc rộng 6 mét, gây sát thương cho kẻ địch chạm vào. 
+@@ 4011
+Hạ gục kẻ địch bằng đòn cận chiến sẽ khiến chúng nổ tung thành một luồng độc.
+@@ 4012
+Bạn yểm ma thuật bóng tối lên đạn, có cơ hội biến kẻ địch bị giết thành dơi Shadowling chiến đấu cho bạn trong mười giây. Death Ritual tăng thời gian triệu hồi và sát thương đòn đánh của Shadowling.
+@@ 4013
+Hạ gục kẻ địch bằng đòn tầm xa sẽ biến chúng thành dơi Shadowling tồn tại ngắn ngủi, chuyên tấn công kẻ địch
+@@ 4014
+Một luồng hơi thở bị nguyền làm kẻ địch trúng độc. Nếu bị giết, chúng sẽ biến thành Shadowling Fiend chiến đấu cho bạn trong mười giây. Lưu ý: kỹ năng Death Ritual tăng thời gian triệu hồi và sức tấn công của mọi Shadowling.
+@@ 4015
+Shadowling di chuyển và tấn công nhanh hơn 10%
+@@ 4016
+Shadowling di chuyển và tấn công nhanh hơn 20%
+@@ 4017
+Shadowling di chuyển và tấn công nhanh hơn 30%
+@@ 4018
+Shadowling tồn tại 11.5 giây và gây thêm 5% sát thương.
+@@ 4019
+Shadowling tồn tại 14.5 giây và gây thêm 15% sát thương.
+@@ 4020
+Shadowling tồn tại 13 giây và gây thêm 10% sát thương.
+@@ 4021
+Shadowling tồn tại 17.5 giây và gây thêm 25% sát thương.
+@@ 4022
+Shadowling tồn tại 16 giây và gây thêm 20% sát thương.
+@@ 4023
+Shadowling tồn tại 20.5 giây và gây thêm 35% sát thương.
+@@ 4024
+Shadowling tồn tại 19 giây và gây thêm 30% sát thương.
+@@ 4025
+Shadowling tồn tại 23.5 giây và gây thêm 45% sát thương.
+@@ 4026
+Shadowling tồn tại 22 giây và gây thêm 40% sát thương.
+@@ 4027
+Shadowling tồn tại 29.5 giây và gây thêm 65% sát thương.
+@@ 4028
+Shadowling tồn tại 28 giây và gây thêm 60% sát thương.
+@@ 4029
+Shadowling tồn tại 26.5 giây và gây thêm 55% sát thương.
+@@ 4030
+Shadowling tồn tại 25 giây và gây thêm 50% sát thương.
+@@ 4031
+Shadowling tồn tại 32.5 giây và gây thêm 75% sát thương.
+@@ 4032
+Shadowling tồn tại 31 giây và gây thêm 70% sát thương.
+@@ 4033
+Đồng minh Shadowling của bạn tồn tại lâu hơn và gây nhiều sát thương hơn.
+@@ 4034
+Phá vỡ giáp của kẻ địch gần đó, khuếch đại sát thương bạn gây lên chúng
+@@ 4035
+\nBạn trở nên điên cuồng, được tăng tốc độ và sát thương.\n
+@@ 4036
+Một lưỡi kiếm ảo ảnh mạnh mẽ chém xẻ kẻ địch
+@@ 4037
+\nNhiều mảnh ánh sáng xuyên thủng kẻ địch gần đó\n
+@@ 4038
+Một luồng năng lượng lách tách lan dọc mặt đất,\nhất văng kẻ địch trên đường đi\n
+@@ 4039
+Xiềng xích ảo ảnh làm choáng kẻ địch gần đó
+@@ 4040
+Bạn lao về phía trước, tung một loạt đòn tấn công mạnh mẽ bằng mọi vũ khí cận chiến đang trang bị. Di chuyển theo hướng con trỏ chuột, tiêu hao Mana trong khi lao đi.
+@@ 4041
+Một cú lướt tới tàn bạo gây sát thương cho mọi kẻ địch trên đường đi\n
+@@ 4042
+Một màn chắn bảo vệ hấp thụ sát thương Physical và Elemental, đồng thời đóng băng kẻ địch tấn công nó
+@@ 4043
+\nTriệu hồi một phương trận Skeletal\nWarrior tấn công kẻ địch\n
+@@ 4044
+Đập xuống đất, tạo ra những vết nứt rực cháy lan ra xuyên thủng kẻ địch
+@@ 4045
+Triệu hồi một bóng ma tấn công kẻ địch gần đó
+@@ 4046
+Triệu hồi một bóng ma dùng cung ma tấn công kẻ địch từ xa
+@@ 4047
+\nTạo ra một tấm khiên huyền bí phản lại đạn.\n
+@@ 4048
+Kẻ địch ở gần bạn bị làm chậm và đôi khi bị ngắt đòn. Hào quang kéo dài hai phút.\n\nMỗi lúc chỉ có thể kích hoạt một hào quang.
+@@ 4049
+Khi đang kích hoạt, đòn đánh tạo ra dư ảnh ma quái gây sát thương cho kẻ địch ngoài tầm thông thường, bằng 30% DPS của vũ khí.
+@@ 4050
+Khi đang kích hoạt, đòn đánh tạo ra dư ảnh ma quái gây sát thương cho kẻ địch ngoài tầm thông thường, bằng 42% DPS của vũ khí.
+@@ 4051
+Khi đang kích hoạt, đòn đánh tạo ra dư ảnh ma quái gây sát thương cho kẻ địch ngoài tầm thông thường, bằng 36% DPS của vũ khí.
+@@ 4052
+Khi đang kích hoạt, đòn đánh tạo ra dư ảnh ma quái gây sát thương cho kẻ địch ngoài tầm thông thường, bằng 54% DPS của vũ khí.
+@@ 4053
+Khi đang kích hoạt, đòn đánh tạo ra dư ảnh ma quái gây sát thương cho kẻ địch ngoài tầm thông thường, bằng 48% DPS của vũ khí.
+@@ 4054
+Khi đang kích hoạt, đòn đánh tạo ra dư ảnh ma quái gây sát thương cho kẻ địch ngoài tầm thông thường, bằng 66% DPS của vũ khí.
+@@ 4055
+Khi đang kích hoạt, đòn đánh tạo ra dư ảnh ma quái gây sát thương cho kẻ địch ngoài tầm thông thường, bằng 60% DPS của vũ khí.
+@@ 4056
+Khi đang kích hoạt, đòn đánh tạo ra dư ảnh ma quái gây sát thương cho kẻ địch ngoài tầm thông thường, bằng 78% DPS của vũ khí.
+@@ 4057
+Khi đang kích hoạt, đòn đánh tạo ra dư ảnh ma quái gây sát thương cho kẻ địch ngoài tầm thông thường, bằng 72% DPS của vũ khí.
+@@ 4058
+Khi đang kích hoạt, đòn đánh tạo ra dư ảnh ma quái gây sát thương cho kẻ địch ngoài tầm thông thường, bằng 96% DPS của vũ khí.
+@@ 4059
+Khi đang kích hoạt, đòn đánh tạo ra dư ảnh ma quái gây sát thương cho kẻ địch ngoài tầm thông thường, bằng 90% DPS của vũ khí.
+@@ 4060
+Khi đang kích hoạt, đòn đánh tạo ra dư ảnh ma quái gây sát thương cho kẻ địch ngoài tầm thông thường, bằng 84% DPS của vũ khí.
+@@ 4061
+Khi đang kích hoạt, đòn đánh tạo ra dư ảnh ma quái gây sát thương cho kẻ địch ngoài tầm thông thường
+@@ 4062
+Tung ra một sóng xung kích gây sát thương và đẩy lùi mọi kẻ địch gần đó\n
+@@ 4063
+Kẻ địch ở gần bạn tự động chịu sát thương theo thời gian. Hào quang kéo dài hai phút.\n\nMỗi lúc chỉ có thể kích hoạt một hào quang.
+@@ 4064
+Phát nổ khi chết, gây ra\n
+@@ 4065
+Một đòn tấn công mạnh mẽ thổi bay mọi kẻ địch phía trước bạn.\n
+@@ 4066
+Tấn công mọi kẻ địch phía trước bạn\nbằng tất cả vũ khí đang trang bị\n

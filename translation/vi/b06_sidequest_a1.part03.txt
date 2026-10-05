@@ -1,0 +1,76 @@
+@@ 2350
+- Bước hai
+@@ 2351
+Lấy |cFFD1FF7Avật phẩm|u từ |cFFD1FF7Ađịa điểm|u, ở |cFFD1FF7Akhu vực|u.
+@@ 2352
+Quay về gặp |cFFD1FF7ANPC nhiệm vụ|u ở |cFFD1FF7Ađịa điểm|u để nhận thưởng.
+@@ 2353
+- Lấy |cFFD1FF7Avật phẩm|u từ [champion] ở |cFFD1FF7Akhu vực|u
+@@ 2354
+- Mang |cFFD1FF7Avật phẩm|u về cho |cFFD1FF7ANPC nhiệm vụ|u
+@@ 2355
+Giới thiệu
+@@ 2356
+Quay lại
+@@ 2357
+Ôi, cảm ơn bạn nhiều lắm! Vậy mà tôi cứ tưởng mình sẽ không bao giờ được phù phép thứ gì nữa!\n\nTôi đang trên đường đến Estherian Enclave thì bị bọn cướp này phục kích. Khi nào hoàn hồn, tôi sẽ qua đó. Nếu có dịp thì ghé thăm tôi nhé!
+@@ 2358
+Ta thấy ngươi... xứng đáng.
+@@ 2359
+Đánh bại năm |cFFD1FF7ASpectral Champions|u ở |cFFD1FF7ACrows' Pass|u.
+@@ 2360
+Quay về gặp |cFFD1FF7AForgotten Hero|u để nhận thưởng.
+@@ 2361
+- Đánh bại các |cFFD1FF7ASpectral Champions|u ở |cFFD1FF7ACrows' Pass|u
+@@ 2362
+- Quay về gặp |cFFD1FF7AForgotten Hero|u ở |cFFD1FF7ACrows' Pass|u
+@@ 2363
+Ta đã chết từ rất lâu rồi, và trong suốt ngần ấy thế kỷ, ta chưa tìm được một linh hồn nào xứng đáng khoác lên mình tấm áo anh hùng như ta từng khoác, và dấn thân vào những cuộc phiêu lưu.\n\nNgươi có muốn trở thành người anh hùng đó không? Ta trao cho ngươi năm thử thách. Nếu ngươi vượt qua được tất cả, báu vật quý giá nhất của ta sẽ thuộc về ngươi...
+@@ 2364
+Ôi, các con của mẹ! Các con của mẹ! Các con có bị thương không? Có sao không? Tạ ơn các Guardian, những bảo bối của mẹ vẫn an toàn! Finnas đâu? Chồng tôi đâu rồi?\n\nÀ, tôi hiểu rồi. Chúng tôi sẽ đợi anh ấy ở đây cho đến khi anh ấy quay về.\n\nCảm ơn bạn rất nhiều - nhiều người không hiểu được vẻ đẹp của những sinh vật đặc biệt này... rõ ràng là bạn nhận ra bản tính hiền lành của chúng. Đây, hãy nhận lấy thứ này như chút lòng biết ơn của chúng tôi!
+@@ 2365
+Tìm Finnas trong |cFFD1FF7AWidow's Veil|u, nằm ở |cFFD1FF7ACrow's Pass|u.
+@@ 2366
+Quay về gặp Bellethe ở |cFFD1FF7ACrow's Pass|u để nhận thưởng.
+@@ 2367
+- Tìm |cFFD1FF7AFinnas|u, chồng của Bellethe, trong |cFFD1FF7AWidow's Veil|u
+@@ 2368
+- Quay về gặp |cFFD1FF7ABellethe|u ở |cFFD1FF7ACrows Pass|u
+@@ 2369
+Làm ơn, giúp tôi với! Mấy đứa nhỏ yêu quý của chúng tôi đã đi lạc vào cái hang đó! Chồng tôi, |cFFD1FF7AFinnas|u, đã liều mình đi theo tìm chúng, nhưng trong đó lúc nhúc những sinh vật gớm ghiếc, và anh ấy vẫn chưa quay về! \n\nÔi, tôi lo đến phát điên mất! Làm ơn, hãy tìm |cFFD1FF7AFinnas|u và các bé cưng của chúng tôi! Bạn phải giúp chúng tôi!
+@@ 2370
+Chồng tôi, Finnas, và tôi đang trên đường đến Estherian Enclave. Chúng tôi là dân khai hoang, có một trang trại nhỏ ở Frosted Hills. Thời tiết đang ngày càng khắc nghiệt, nên chúng tôi đi một chuyến cuối để mua nhu yếu phẩm trước mùa đông. Chúng tôi chỉ lơ là một chút thôi, vậy mà mấy đứa nhỏ cưng của chúng tôi đã đi lạc vào cái hang kinh khủng đó!
+@@ 2371
+Bạn... bạn đến cứu chúng tôi sao? Tạ ơn các Guardian!\n\nTôi đã cố giữ cho |cFFD1FF7ASnowbell|u và |cFFD1FF7ASunbeam|u an toàn trên này, nhưng tôi bị thương ở chân. Tôi không thể vừa mang chúng vừa tìm đường ra khỏi hang này được. Nếu bạn đưa chúng về cho |cFFD1FF7ABellethe|u, tôi sẽ tự đi ra sau, chậm rãi theo sức mình. Cảm ơn bạn đã giúp đỡ!
+@@ 2372
+Làm ơn... Tôi biết chuyện này nghe có vẻ lạ, nhưng Snowball và Sunbeam thật ra là những sinh vật rất hiền lành, không giống lũ quái thú sống ở Icedeep Caverns này. Chúng không thể tự sống sót dưới này được. Lũ nhện khác sẽ giết chúng để lao vào tôi. Làm ơn, hãy đưa chúng về cho vợ tôi, và ngay khi lấy lại hơi, tôi cũng sẽ tìm đường ra.
+@@ 2373
+Tìm và phá các |cFFD1FF7ABarricaded Doors|u trong |cFFD1FF7AWatchweald Temple|u để giải cứu các |cFFD1FF7ATemple Priests|u.
+@@ 2374
+- Mở |cFFD1FF7ABarricaded Doors|u 0/X để giải thoát |cFFD1FF7ATemple Priests|u
+@@ 2375
+- Bảo vệ |cFFD1FF7ABronze Head|u khỏi tay Sturmbeorn
+@@ 2376
+Tạ ơn các Guardian vì bạn đã đến! Một trận dịch đang càn quét |cFFD1FF7AWatchweald Temple|u, biến các |cFFD1FF7ATemple Priests|u thành Nether-Thrall! Vẫn còn vài tu sĩ chưa bị nhiễm bệnh ở bên trong, bị lũ Nether-Thrall vây kín. Tôi có thể bảo vệ họ, nếu tôi đến được chỗ họ... hoặc nếu họ đến được chỗ tôi.\n\nHãy tìm những nơi mà các |cFFD1FF7ATemple Priests|u có thể đã trốn khỏi lũ Nether-Thrall, rồi đưa họ về đây. Khi tất cả đều đã an toàn, chúng ta có thể tập trung giúp đỡ Guardian of the Wild.
+@@ 2377
+Lẽ ra tôi phải nhận ra có điều gì đó bất thường ở Grand Regent. Ngài ấy có vẻ không khỏe khi đến đây, nhưng lại khăng khăng đòi gặp Guardian of the Wild ngay lập tức. Nhưng có vẻ như bất kỳ ai tiếp xúc với ngài ấy cũng đều đổ bệnh... và chẳng bao lâu sau thì biến đổi. Một vài người ban đầu không bị nhiễm, và trong số đó có vài người đã tìm được chỗ trú ẩn khỏi lũ Nether-Thrall... nhưng nếu dịch bệnh lây đến họ, thì dù có ở an toàn sau những lớp rào chắn cũng chẳng ích gì.
+@@ 2378
+Ta là đại thi sĩ Trill... đã nghe danh ta chưa?\n\nĐó là... thật sự... một tài năng đáng kinh ngạc. Lời đồn... giữa quần chúng... ta vẫn chưa nghe thấy... về những chiến công anh hùng của ngươi.
+@@ 2379
+Tìm |cFFD1FF7ABronze Head|u trong |cFFD1FF7AWellspring Temple|u và giữ nó an toàn khỏi tay Sturmbeorn.
+@@ 2380
+- Tìm |cFFD1FF7ABronze Head|u trong |cFFD1FF7AWellspring Temple|u
+@@ 2381
+Tạ ơn các Guardian, cuối cùng cũng có người đến cứu chúng tôi! Bọn Sturmbeorn đã phá cửa xông vào đây cách đây ít lâu, và đang cướp phá ngôi đền! Commander Vale cùng Vanquisher Corps của cô ấy cũng đã đến giúp từ trước đó... nhưng chúng tôi chưa nhận được tin gì từ cô ấy kể từ khi cô ấy đi vào Inner Sanctum!\n\nTrong lúc tháo chạy khỏi ngôi đền, chúng tôi đã phải bỏ lại một báu vật vô giá: |cFFD1FF7ABronze Head|u of Grunnheim! Bạn có thể tìm nó và bảo đảm nó không rơi vào tay bọn Sturmbeorn không?
+@@ 2382
+Ở đây chúng tôi tương đối an toàn, nhưng bọn Sturmbeorn thô bạo chắc chắn sẽ phá hủy mọi thứ không làm bằng vàng! Ngôi đền là nơi lưu giữ những cổ vật và văn thư lịch sử có từ hàng nghìn năm, và tôi đau lòng khôn xiết khi nghĩ đến việc tất cả những báu vật đó bị mất đi!\n\nChúng tôi đã kịp gom được một số cổ vật khi tháo chạy, nhưng Bronze Head of Grunnheim đã bị bỏ lại! Làm ơn, hãy tìm nó! Một số ghi chép trong đó là tư liệu duy nhất mà chúng tôi có về những sự kiện lịch sử trọng đại!
+@@ 2383
+Làm tốt lắm, dù tôi ước gì chuyện đó không cần thiết. Dẫu sao, không có chỗ ở lâu dài, chúng sẽ khó mà trụ lại được ở đây... và khó mà tiếp tục cái nghề ghê tởm của chúng.\n\nNhưng khoan... tôi không thấy tên thủ lĩnh của chúng trong số những kẻ đã chết! Cũng chẳng thấy bất kỳ người Estherian nào mà chúng đã bắt giữ!
+@@ 2384
+Dùng các |cFFD1FF7AFlammable Lanterns|u để thiêu rụi những túp lều trong |cFFD1FF7ASlavers' Camp|u ở |cFFD1FF7AFrosted Hills|u.
+@@ 2385
+Quay về gặp |cFFFFBA00Josimon|u ở |cFFFFBA00Slavers' Camp|u thuộc |cFFFFBA00Frosted Hills|u.
+@@ 2386
+- Châm lửa các |cFFD1FF7AFlammable Lanterns|u trong |cFFD1FF7ASlavers' Camp|u
+@@ 2387
+- Quay về gặp |cFFD1FF7AJosimon|u ở |cFFD1FF7ASlavers' Camp|u

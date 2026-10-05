@@ -1,0 +1,1203 @@
+# b02_items_2: 601 strings. Format: "@@ id | mode | context" then the English text on the next line.
+@@ 678 | translate | UNITS/ITEMS/EMBER_01_PANTS_ALT_B.DAT | UNIT | DESCRIPTION
+Show them who wears the pants.
+@@ 679 | translate | UNITS/ITEMS/EMBER_01_PANTS_ALT_C.DAT | UNIT | DESCRIPTION
+The Battle-King expanded the dwarves' holding into an empire.
+@@ 680 | translate | UNITS/ITEMS/EMBER_01_RING.DAT | UNIT | DESCRIPTION
+It is important to have good hand-eye coordination.
+@@ 681 | translate | UNITS/ITEMS/EMBER_01_RING_ALT_B.DAT | UNIT | DESCRIPTION
+You have a splinter on your finger.
+@@ 682 | translate | UNITS/ITEMS/EMBER_01_RING_ALT_C.DAT | UNIT | DESCRIPTION
+Even the setting is well over a thousand years old.
+@@ 683 | translate | UNITS/ITEMS/EMBER_01_SHOULDERS.DAT | UNIT | DESCRIPTION
+The Emberheart relics are so named because of a layer of Ember in the armor plates.
+@@ 684 | translate | UNITS/ITEMS/EMBER_01_SHOULDERS_ALT_B.DAT | UNIT | DESCRIPTION
+The Emberclad armor was an attempt by human engineers to duplicate dwarven Ember-work armor.
+@@ 685 | translate | UNITS/ITEMS/EMBER_01_SHOULDERS_ALT_C.DAT | UNIT | DESCRIPTION
+Perhaps the loss of the Battle-King's armor explains how the dwarven empire collapsed.
+@@ 686 | translate | UNITS/ITEMS/ENGINEER_01_BOOTS_ALT_B.DAT | UNIT | DESCRIPTION
+Captain Logan always loved a good pair of walking boots.
+@@ 687 | translate | UNITS/ITEMS/ENGINEER_01_BOOTS_ALT_C.DAT | UNIT | DESCRIPTION
+Passed down from Engineer to Engineer for centuries.
+@@ 688 | translate | UNITS/ITEMS/ENGINEER_01_CHEST_ALT_B.DAT | UNIT | DESCRIPTION
+This armor served as the template for all Engineer armors.
+@@ 689 | translate | UNITS/ITEMS/ENGINEER_01_CHEST_ALT_C.DAT | UNIT | DESCRIPTION
+Once worn by Grand Master Varn of the Engineers' Guild.
+@@ 690 | translate | UNITS/ITEMS/ENGINEER_01_GLOVES_ALT_B.DAT | UNIT | DESCRIPTION
+You can lay these on whoever you like ... though they might object.
+@@ 691 | translate | UNITS/ITEMS/ENGINEER_01_GLOVES_ALT_C.DAT | UNIT | DESCRIPTION
+The Gearmaster was the first Engineer to reverse-engineer dwarven artifacts.
+@@ 692 | translate | UNITS/ITEMS/ENGINEER_01_PANTS_ALT_B.DAT | UNIT | DESCRIPTION
+Once the sole property of Grand Master Varn's first pupil.
+@@ 693 | translate | UNITS/ITEMS/ENGINEER_01_PANTS_ALT_C.DAT | UNIT | DESCRIPTION
+Kept in a secret vault since the reing of the Winter Magus.
+@@ 694 | translate | UNITS/ITEMS/ENGINEER_01_SHOULDERS.DAT | UNIT | DESCRIPTION
+Underneath all that grease and soot is a sturdy pair of shoulder-guards.
+@@ 695 | translate | UNITS/ITEMS/ENGINEER_01_SHOULDERS_ALT_B.DAT | UNIT | DESCRIPTION
+Dented, dinged, and damaged by ill use … but still impressive work.
+@@ 696 | translate | UNITS/ITEMS/ENGINEER_01_SHOULDERS_ALT_C.DAT | UNIT | DESCRIPTION
+Some of this oil is five hundred years old.
+@@ 697 | translate | UNITS/ITEMS/ENGINEER_02_AMULET.DAT | UNIT | DESCRIPTION
+Crafted from an ancient dwarven rail spike.
+@@ 698 | translate | UNITS/ITEMS/ENGINEER_02_AMULET_ALT_B.DAT | UNIT | DESCRIPTION
+It bears a tiny, repeating pattern of railspikes.
+@@ 699 | translate | UNITS/ITEMS/ENGINEER_02_AMULET_ALT_C.DAT | UNIT | DESCRIPTION
+Crafted from the first railspike of the Imperial Embercraft Line.
+@@ 700 | translate | UNITS/ITEMS/ENGINEER_02_BELT.DAT | UNIT | DESCRIPTION
+The first Embercraft was a fixed-route vehicle, named after its inventor.
+@@ 701 | translate | UNITS/ITEMS/ENGINEER_02_BELT_ALT_B.DAT | UNIT | DESCRIPTION
+Work yourself up a good head of steam.
+@@ 702 | translate | UNITS/ITEMS/ENGINEER_02_BELT_ALT_C.DAT | UNIT | DESCRIPTION
+Fashioned from the fan belt of the first Embercraft.
+@@ 703 | translate | UNITS/ITEMS/ENGINEER_02_BOOTS.DAT | UNIT | DESCRIPTION
+It only took one dropped dwarven gear to get Zugmeister to design these boots.
+@@ 704 | translate | UNITS/ITEMS/ENGINEER_02_BOOTS_ALT_B.DAT | UNIT | DESCRIPTION
+For when "iron-toed" just doesn't cover it.
+@@ 705 | translate | UNITS/ITEMS/ENGINEER_02_BOOTS_ALT_C.DAT | UNIT | DESCRIPTION
+The biggest of big shoes to fill.
+@@ 706 | translate | UNITS/ITEMS/ENGINEER_02_BOOTS_ALT_SET.DAT | UNIT | DESCRIPTION
+Engineers built these during construction of the Embercraft railway.
+@@ 707 | translate | UNITS/ITEMS/ENGINEER_02_CHEST.DAT | UNIT | DESCRIPTION
+Zugmeister is famous for deciphering dwarven designs to build Imperial Embercraft.
+@@ 708 | translate | UNITS/ITEMS/ENGINEER_02_CHEST_ALT_B.DAT | UNIT | DESCRIPTION
+The cold-forged version was a bit brittle.
+@@ 709 | translate | UNITS/ITEMS/ENGINEER_02_CHEST_ALT_C.DAT | UNIT | DESCRIPTION
+The last surviving railman coat from the Empire's construction era.
+@@ 710 | translate | UNITS/ITEMS/ENGINEER_02_CHEST_ALT_SET.DAT | UNIT | DESCRIPTION
+Engineers forged this out of railway scrap metal.
+@@ 711 | translate | UNITS/ITEMS/ENGINEER_02_GLOVES.DAT | UNIT | DESCRIPTION
+Zugmeister made these to prove her theories about dwarven design.
+@@ 712 | translate | UNITS/ITEMS/ENGINEER_02_GLOVES_ALT_B.DAT | UNIT | DESCRIPTION
+Powered by electrolytes.
+@@ 713 | translate | UNITS/ITEMS/ENGINEER_02_GLOVES_ALT_C.DAT | UNIT | DESCRIPTION
+You have no idea where those hands have been.
+@@ 714 | translate | UNITS/ITEMS/ENGINEER_02_GLOVES_ALT_SET.DAT | UNIT | DESCRIPTION
+Engineers on the Embercraft railway built these as a design exercise.
+@@ 715 | translate | UNITS/ITEMS/ENGINEER_02_HELMET.DAT | UNIT | DESCRIPTION
+It mechanically augments your own brain power!
+@@ 716 | translate | UNITS/ITEMS/ENGINEER_02_HELMET_ALT_B.DAT | UNIT | DESCRIPTION
+Originally designed for mining use, but also great for working late!
+@@ 717 | translate | UNITS/ITEMS/ENGINEER_02_HELMET_ALT_C.DAT | UNIT | DESCRIPTION
+The light that burns twice as bright!
+@@ 718 | translate | UNITS/ITEMS/ENGINEER_02_PANTS.DAT | UNIT | DESCRIPTION
+The seat's shiny veneer is marred by numerous bite marks.
+@@ 719 | translate | UNITS/ITEMS/ENGINEER_02_PANTS_ALT_B.DAT | UNIT | DESCRIPTION
+Also known as "Old Ironbottoms."
+@@ 720 | translate | UNITS/ITEMS/ENGINEER_02_PANTS_ALT_C.DAT | UNIT | DESCRIPTION
+Zugmeister's theories inform most of modern Imperial engineering.
+@@ 721 | translate | UNITS/ITEMS/ENGINEER_02_PANTS_ALT_SET.DAT | UNIT | DESCRIPTION
+The railforged armor was a curiosity, until someone realized how useful it was.
+@@ 722 | translate | UNITS/ITEMS/ENGINEER_02_RING.DAT | UNIT | DESCRIPTION
+Crafted from a rail spike and crusted with jewels.
+@@ 723 | translate | UNITS/ITEMS/ENGINEER_02_RING_ALT_B.DAT | UNIT | DESCRIPTION
+Fashioned from a piece of the original Embercraft.
+@@ 724 | translate | UNITS/ITEMS/ENGINEER_02_RING_ALT_C.DAT | UNIT | DESCRIPTION
+What Engineers have joined together, let none pull apart.
+@@ 725 | translate | UNITS/ITEMS/ENGINEER_02_SHOULDERS.DAT | UNIT | DESCRIPTION
+"Polished pauldrons provide powerful protection." - Imperial Army saying
+@@ 726 | translate | UNITS/ITEMS/ENGINEER_02_SHOULDERS_ALT_B.DAT | UNIT | DESCRIPTION
+It cannot make you smarter, but it can remind you to use your head.
+@@ 727 | translate | UNITS/ITEMS/ENGINEER_02_SHOULDERS_ALT_C.DAT | UNIT | DESCRIPTION
+The Construction Era yielded all manner of purpose-built treasures.
+@@ 728 | translate | UNITS/ITEMS/ENGINEER_03_AMULET.DAT | UNIT | DESCRIPTION
+Parts of the amulet resemble sharp, grasping claws.
+@@ 729 | translate | UNITS/ITEMS/ENGINEER_03_AMULET_ALT_B.DAT | UNIT | DESCRIPTION
+It smolders with power.
+@@ 730 | translate | UNITS/ITEMS/ENGINEER_03_AMULET_ALT_C.DAT | UNIT | DESCRIPTION
+It warms your heart.
+@@ 731 | translate | UNITS/ITEMS/ENGINEER_03_BELT.DAT | UNIT | DESCRIPTION
+The metal studs resemble short fangs ...
+@@ 732 | translate | UNITS/ITEMS/ENGINEER_03_BELT_ALT_B.DAT | UNIT | DESCRIPTION
+It releases little puffs of smoke from time to time.
+@@ 733 | translate | UNITS/ITEMS/ENGINEER_03_BELT_ALT_C.DAT | UNIT | DESCRIPTION
+It gives you a warm feeling, deep inside.
+@@ 734 | translate | UNITS/ITEMS/ENGINEER_03_BELT_ALT_SET.DAT | UNIT | DESCRIPTION
+The only surviving assembly-line model of the Polk Process.
+@@ 735 | translate | UNITS/ITEMS/ENGINEER_03_BOOTS.DAT | UNIT | DESCRIPTION
+Any more than sixty hours on your feet, and you lose productivity ...
+@@ 736 | translate | UNITS/ITEMS/ENGINEER_03_BOOTS_ALT_B.DAT | UNIT | DESCRIPTION
+Used to be you could tell a machinist by his missing toes.
+@@ 737 | translate | UNITS/ITEMS/ENGINEER_03_BOOTS_ALT_C.DAT | UNIT | DESCRIPTION
+Metal to the pedal.
+@@ 738 | translate | UNITS/ITEMS/ENGINEER_03_CHEST.DAT | UNIT | DESCRIPTION
+Serious metal for serious work.
+@@ 739 | translate | UNITS/ITEMS/ENGINEER_03_CHEST_ALT_B.DAT | UNIT | DESCRIPTION
+The apron is armor, boiler, and forge, all in one.
+@@ 740 | translate | UNITS/ITEMS/ENGINEER_03_CHEST_ALT_C.DAT | UNIT | DESCRIPTION
+It's got a pocket for everything!
+@@ 741 | translate | UNITS/ITEMS/ENGINEER_03_CHEST_ALT_SET.DAT | UNIT | DESCRIPTION
+Polk the Railmaster designed a machine to create armor.
+@@ 742 | translate | UNITS/ITEMS/ENGINEER_03_GLOVES.DAT | UNIT | DESCRIPTION
+For when you need to pick up hot metal with your hands.
+@@ 743 | translate | UNITS/ITEMS/ENGINEER_03_GLOVES_ALT_B.DAT | UNIT | DESCRIPTION
+You won't believe how convenient these gloves can be!
+@@ 744 | translate | UNITS/ITEMS/ENGINEER_03_GLOVES_ALT_C.DAT | UNIT | DESCRIPTION
+The ultimate hand tools.
+@@ 745 | translate | UNITS/ITEMS/ENGINEER_03_HELMET.DAT | UNIT | DESCRIPTION
+Everyone knows the Legend of the Faceless Railman.
+@@ 746 | translate | UNITS/ITEMS/ENGINEER_03_HELMET_ALT_B.DAT | UNIT | DESCRIPTION
+Because nothing ruins your day like a hot rivet in the face.
+@@ 747 | translate | UNITS/ITEMS/ENGINEER_03_HELMET_ALT_C.DAT | UNIT | DESCRIPTION
+In-your-face metal.
+@@ 748 | translate | UNITS/ITEMS/ENGINEER_03_HELMET_ALT_SET.DAT | UNIT | DESCRIPTION
+The Polk Process could create any piece of armor to fit.
+@@ 749 | translate | UNITS/ITEMS/ENGINEER_03_PANTS.DAT | UNIT | DESCRIPTION
+The Overseer managed the construction of the Emberway.
+@@ 750 | translate | UNITS/ITEMS/ENGINEER_03_PANTS_ALT_B.DAT | UNIT | DESCRIPTION
+Woven of fine-mesh steel, but they breathe like cotton.
+@@ 751 | translate | UNITS/ITEMS/ENGINEER_03_PANTS_ALT_C.DAT | UNIT | DESCRIPTION
+The blueprints for these are on file with the Industrium Council.
+@@ 752 | translate | UNITS/ITEMS/ENGINEER_03_PANTS_ALT_SET.DAT | UNIT | DESCRIPTION
+Polk's machines were destroyed by angry blacksmiths.
+@@ 753 | translate | UNITS/ITEMS/ENGINEER_03_RING.DAT | UNIT | DESCRIPTION
+Its gems glow in the dark like tiny, menacing eyes ...
+@@ 754 | translate | UNITS/ITEMS/ENGINEER_03_RING_ALT_B.DAT | UNIT | DESCRIPTION
+It creates smoke rings when you blow into it.
+@@ 755 | translate | UNITS/ITEMS/ENGINEER_03_RING_ALT_C.DAT | UNIT | DESCRIPTION
+The ultimate hand-warmer.
+@@ 756 | translate | UNITS/ITEMS/ENGINEER_03_SHOULDERS.DAT | UNIT | DESCRIPTION
+Not everyone can bear the weight of such awesomeness.
+@@ 757 | translate | UNITS/ITEMS/ENGINEER_03_SHOULDERS_ALT_B.DAT | UNIT | DESCRIPTION
+Wear it with pride!
+@@ 758 | translate | UNITS/ITEMS/ENGINEER_03_SHOULDERS_ALT_C.DAT | UNIT | DESCRIPTION
+They only get unbearably hot when you crank the furnace.
+@@ 759 | translate | UNITS/ITEMS/ENGINEER_03_SHOULDERS_ALT_SET.DAT | UNIT | DESCRIPTION
+Railmaster Polk's legacy is that armor is still handmade.
+@@ 760 | translate | UNITS/ITEMS/ENGINEER_04_AMULET.DAT | UNIT | DESCRIPTION
+Where art and science meet.
+@@ 761 | translate | UNITS/ITEMS/ENGINEER_04_AMULET_ALT_B.DAT | UNIT | DESCRIPTION
+Beautiful and functional.
+@@ 762 | translate | UNITS/ITEMS/ENGINEER_04_AMULET_ALT_C.DAT | UNIT | DESCRIPTION
+The long-lost badge of office of the Imperial Surveyor.
+@@ 763 | translate | UNITS/ITEMS/ENGINEER_04_BELT.DAT | UNIT | DESCRIPTION
+No matter where you go, there it is.
+@@ 764 | translate | UNITS/ITEMS/ENGINEER_04_BELT_ALT_B.DAT | UNIT | DESCRIPTION
+Bolruk forged a bloody path through the Giantlands.
+@@ 765 | translate | UNITS/ITEMS/ENGINEER_04_BELT_ALT_C.DAT | UNIT | DESCRIPTION
+It's always exactly as long as it needs to be.
+@@ 766 | translate | UNITS/ITEMS/ENGINEER_04_BOOTS.DAT | UNIT | DESCRIPTION
+Sometimes, a good pair of boots kept a surveyor alive.
+@@ 767 | translate | UNITS/ITEMS/ENGINEER_04_BOOTS_ALT_B.DAT | UNIT | DESCRIPTION
+Each of your steps is always exactly half a pace.
+@@ 768 | translate | UNITS/ITEMS/ENGINEER_04_BOOTS_ALT_C.DAT | UNIT | DESCRIPTION
+If you have to put your foot down, put it straight down.
+@@ 769 | translate | UNITS/ITEMS/ENGINEER_04_BOOTS_ALT_SET.DAT | UNIT | DESCRIPTION
+The dwarves believed all life sprang from the First-Forge.
+@@ 770 | translate | UNITS/ITEMS/ENGINEER_04_CHEST.DAT | UNIT | DESCRIPTION
+The Imperial Surveyor laid out the plans for Red Haven.
+@@ 771 | translate | UNITS/ITEMS/ENGINEER_04_CHEST_ALT_B.DAT | UNIT | DESCRIPTION
+The surveyors of old worked under dangerous conditions.
+@@ 772 | translate | UNITS/ITEMS/ENGINEER_04_CHEST_ALT_C.DAT | UNIT | DESCRIPTION
+Measured twice, crafted once.
+@@ 773 | translate | UNITS/ITEMS/ENGINEER_04_CHEST_ALT_SET.DAT | UNIT | DESCRIPTION
+Created in the legendary First-Forge.
+@@ 774 | translate | UNITS/ITEMS/ENGINEER_04_GLOVES.DAT | UNIT | DESCRIPTION
+Gyroscopically stabilized to remain perfectly level.
+@@ 775 | translate | UNITS/ITEMS/ENGINEER_04_GLOVES_ALT_B.DAT | UNIT | DESCRIPTION
+For when a steady hand is required.
+@@ 776 | translate | UNITS/ITEMS/ENGINEER_04_GLOVES_ALT_C.DAT | UNIT | DESCRIPTION
+Point in any direction you like ... provided you like "north."
+@@ 777 | translate | UNITS/ITEMS/ENGINEER_04_GLOVES_ALT_SET.DAT | UNIT | DESCRIPTION
+The First-Forge took on a divine significance to the dwarves.
+@@ 778 | translate | UNITS/ITEMS/ENGINEER_04_HELMET.DAT | UNIT | DESCRIPTION
+For those who just like to eyeball it.
+@@ 779 | translate | UNITS/ITEMS/ENGINEER_04_HELMET_ALT_B.DAT | UNIT | DESCRIPTION
+Includes a built-in theodolite.
+@@ 780 | translate | UNITS/ITEMS/ENGINEER_04_HELMET_ALT_C.DAT | UNIT | DESCRIPTION
+Look closer.
+@@ 781 | translate | UNITS/ITEMS/ENGINEER_04_HELMET_ALT_SET.DAT | UNIT | DESCRIPTION
+It might be the oldest helmet ever created.
+@@ 782 | translate | UNITS/ITEMS/ENGINEER_04_PANTS.DAT | UNIT | DESCRIPTION
+They include a telescoping leg to turn them into a tripod.
+@@ 783 | translate | UNITS/ITEMS/ENGINEER_04_PANTS_ALT_B.DAT | UNIT | DESCRIPTION
+Originally designed for underwater surveying.
+@@ 784 | translate | UNITS/ITEMS/ENGINEER_04_PANTS_ALT_C.DAT | UNIT | DESCRIPTION
+"Stand aside, everyone! I take large steps!" - famous soldier
+@@ 785 | translate | UNITS/ITEMS/ENGINEER_04_RING.DAT | UNIT | DESCRIPTION
+Northerners still tell tales of Bolruk Half-Giant.
+@@ 786 | translate | UNITS/ITEMS/ENGINEER_04_RING_ALT_B.DAT | UNIT | DESCRIPTION
+It tells you how much things are worth ... in ancient currency.
+@@ 787 | translate | UNITS/ITEMS/ENGINEER_04_RING_ALT_C.DAT | UNIT | DESCRIPTION
+Ignorance of the law is no excuse.
+@@ 788 | translate | UNITS/ITEMS/ENGINEER_04_RING_ALT_SET.DAT | UNIT | DESCRIPTION
+It bears the dwarven rune for "creator."
+@@ 789 | translate | UNITS/ITEMS/ENGINEER_04_SHOULDERS.DAT | UNIT | DESCRIPTION
+Built to serve as a pair of all-purpose attachment plates.
+@@ 790 | translate | UNITS/ITEMS/ENGINEER_04_SHOULDERS_ALT_B.DAT | UNIT | DESCRIPTION
+Handy for determining relative elevation.
+@@ 791 | translate | UNITS/ITEMS/ENGINEER_04_SHOULDERS_ALT_C.DAT | UNIT | DESCRIPTION
+Always perfectly aligned.
+@@ 792 | translate | UNITS/ITEMS/ENGINEER_05_AMULET.DAT | UNIT | DESCRIPTION
+The pattern of gears seems too planned; it must fit something.
+@@ 793 | translate | UNITS/ITEMS/ENGINEER_05_AMULET_ALT_B.DAT | UNIT | DESCRIPTION
+Without this medallion, the Clockwork Chimera cannot live.
+@@ 794 | translate | UNITS/ITEMS/ENGINEER_05_AMULET_ALT_C.DAT | UNIT | DESCRIPTION
+There are laws about this sort of thing.
+@@ 795 | translate | UNITS/ITEMS/ENGINEER_05_AMULET_ALT_SET.DAT | UNIT | DESCRIPTION
+The Grand Architect oversees all Imperial engineering.
+@@ 796 | translate | UNITS/ITEMS/ENGINEER_05_BELT.DAT | UNIT | DESCRIPTION
+It has a space for virtually every tool you use.
+@@ 797 | translate | UNITS/ITEMS/ENGINEER_05_BELT_ALT_B.DAT | UNIT | DESCRIPTION
+It only has a space for the tools you actually need.
+@@ 798 | translate | UNITS/ITEMS/ENGINEER_05_BELT_ALT_C.DAT | UNIT | DESCRIPTION
+An Engineer is only as good as his tools.
+@@ 799 | translate | UNITS/ITEMS/ENGINEER_05_BOOTS.DAT | UNIT | DESCRIPTION
+Great armor starts from the ground up.
+@@ 800 | translate | UNITS/ITEMS/ENGINEER_05_BOOTS_ALT_B.DAT | UNIT | DESCRIPTION
+The popularity of house carls quickly eventually faded.
+@@ 801 | translate | UNITS/ITEMS/ENGINEER_05_BOOTS_ALT_C.DAT | UNIT | DESCRIPTION
+Pulling. Them. Off.
+@@ 802 | translate | UNITS/ITEMS/ENGINEER_05_BOOTS_ALT_SET.DAT | UNIT | DESCRIPTION
+Superstructure always starts with a good foundation.
+@@ 803 | translate | UNITS/ITEMS/ENGINEER_05_CHEST.DAT | UNIT | DESCRIPTION
+The last wearer mainly designed slaughterhouses.
+@@ 804 | translate | UNITS/ITEMS/ENGINEER_05_CHEST_ALT_B.DAT | UNIT | DESCRIPTION
+Sometimes, you need all the support you can get.
+@@ 805 | translate | UNITS/ITEMS/ENGINEER_05_CHEST_ALT_C.DAT | UNIT | DESCRIPTION
+The Valgang kings employ fiercely loyal bodyguards.
+@@ 806 | translate | UNITS/ITEMS/ENGINEER_05_CHEST_ALT_SET.DAT | UNIT | DESCRIPTION
+The Emperor presented the Grand Architect with this armor.
+@@ 807 | translate | UNITS/ITEMS/ENGINEER_05_GLOVES.DAT | UNIT | DESCRIPTION
+If you can imagine it, you can draw it.
+@@ 808 | translate | UNITS/ITEMS/ENGINEER_05_GLOVES_ALT_B.DAT | UNIT | DESCRIPTION
+They give you a viselike grip ... so you don't need a vise.
+@@ 809 | translate | UNITS/ITEMS/ENGINEER_05_GLOVES_ALT_C.DAT | UNIT | DESCRIPTION
+Every architect knows to include a back door in his plans.
+@@ 810 | translate | UNITS/ITEMS/ENGINEER_05_GLOVES_ALT_SET.DAT | UNIT | DESCRIPTION
+The Grand Architect supervises construction in Vilderan.
+@@ 811 | translate | UNITS/ITEMS/ENGINEER_05_HELMET.DAT | UNIT | DESCRIPTION
+It helps you hold your head high.
+@@ 812 | translate | UNITS/ITEMS/ENGINEER_05_HELMET_ALT_B.DAT | UNIT | DESCRIPTION
+It includes a built-in magnifying glass.
+@@ 813 | translate | UNITS/ITEMS/ENGINEER_05_HELMET_ALT_C.DAT | UNIT | DESCRIPTION
+The built-in magnifying glass brings things into focus.
+@@ 814 | translate | UNITS/ITEMS/ENGINEER_05_HELMET_ALT_SET.DAT | UNIT | DESCRIPTION
+Like all of her armor, the Grand Architect's helm is powered by Ember.
+@@ 815 | translate | UNITS/ITEMS/ENGINEER_05_PANTS.DAT | UNIT | DESCRIPTION
+A house carl used to be a status symbol among the Valgang nobles.
+@@ 816 | translate | UNITS/ITEMS/ENGINEER_05_PANTS_ALT_B.DAT | UNIT | DESCRIPTION
+Designed to hold up under all manner of stress.
+@@ 817 | translate | UNITS/ITEMS/ENGINEER_05_PANTS_ALT_C.DAT | UNIT | DESCRIPTION
+Ideal for heavy lifting and heavy fighting.
+@@ 818 | translate | UNITS/ITEMS/ENGINEER_05_PANTS_ALT_SET.DAT | UNIT | DESCRIPTION
+The Grand Architect modified these to be more stable.
+@@ 819 | translate | UNITS/ITEMS/ENGINEER_05_RING.DAT | UNIT | DESCRIPTION
+Also a doctor, Shandor performed a lot of unnecessary surgery.
+@@ 820 | translate | UNITS/ITEMS/ENGINEER_05_RING_ALT_B.DAT | UNIT | DESCRIPTION
+Here's a fun fact: This ring is made from a pipe fitting.
+@@ 821 | translate | UNITS/ITEMS/ENGINEER_05_RING_ALT_C.DAT | UNIT | DESCRIPTION
+The ring's proportions are the smallest units of architectural measurements.
+@@ 822 | translate | UNITS/ITEMS/ENGINEER_05_SHOULDERS.DAT | UNIT | DESCRIPTION
+You're going to carry that weight a long time.
+@@ 823 | translate | UNITS/ITEMS/ENGINEER_05_SHOULDERS_ALT_B.DAT | UNIT | DESCRIPTION
+Designed to support the weight of a heavy battle-helm.
+@@ 824 | translate | UNITS/ITEMS/ENGINEER_05_SHOULDERS_ALT_C.DAT | UNIT | DESCRIPTION
+And now for something completely different.
+@@ 825 | translate | UNITS/ITEMS/ENGINEER_05_SHOULDERS_ALT_SET.DAT | UNIT | DESCRIPTION
+The Grand Architect redesigned these to distribute the weight more evenly.
+@@ 826 | translate | UNITS/ITEMS/ENGINEER_06_AMULET.DAT | UNIT | DESCRIPTION
+This medallion bears the rune of the ancient dwarven Engineers' Guild.
+@@ 827 | translate | UNITS/ITEMS/ENGINEER_06_AMULET_ALT_B.DAT | UNIT | DESCRIPTION
+The last vestige of an ancient style of ironworking.
+@@ 828 | translate | UNITS/ITEMS/ENGINEER_06_AMULET_ALT_C.DAT | UNIT | DESCRIPTION
+Beautiful, if unbelievably intricate.
+@@ 829 | translate | UNITS/ITEMS/ENGINEER_06_AMULET_ALT_SET.DAT | UNIT | DESCRIPTION
+The symbol of the first Emperor, found on all depictions of him.
+@@ 830 | translate | UNITS/ITEMS/ENGINEER_06_BELT.DAT | UNIT | DESCRIPTION
+The discovery of dwarven smithies spelled the end for traditional ironworking.
+@@ 831 | translate | UNITS/ITEMS/ENGINEER_06_BELT_ALT_B.DAT | UNIT | DESCRIPTION
+Ye who smelt it, belt it.
+@@ 832 | translate | UNITS/ITEMS/ENGINEER_06_BELT_ALT_C.DAT | UNIT | DESCRIPTION
+From a bygone era of craftsmanship.
+@@ 833 | translate | UNITS/ITEMS/ENGINEER_06_BELT_ALT_SET.DAT | UNIT | DESCRIPTION
+The pattern worked into the leather was once used by noble houses.
+@@ 834 | translate | UNITS/ITEMS/ENGINEER_06_BOOTS.DAT | UNIT | DESCRIPTION
+He singlehandedly fought off the Bonebiter Goblins, but no one ever knew his name.
+@@ 835 | translate | UNITS/ITEMS/ENGINEER_06_BOOTS_ALT_B.DAT | UNIT | DESCRIPTION
+The Butcher-Wizard of the Lake City created these.
+@@ 836 | translate | UNITS/ITEMS/ENGINEER_06_BOOTS_ALT_C.DAT | UNIT | DESCRIPTION
+A good pair of boots is the foundation of a suit of armor.
+@@ 837 | translate | UNITS/ITEMS/ENGINEER_06_BOOTS_ALT_SET.DAT | UNIT | DESCRIPTION
+These boots appear on statues of the first Emperor.
+@@ 838 | translate | UNITS/ITEMS/ENGINEER_06_CHEST.DAT | UNIT | DESCRIPTION
+Taskmaster Tempus taught the earliest Engineers.
+@@ 839 | translate | UNITS/ITEMS/ENGINEER_06_CHEST_ALT_B.DAT | UNIT | DESCRIPTION
+All other Engineer armors are based on this design.
+@@ 840 | translate | UNITS/ITEMS/ENGINEER_06_CHEST_ALT_C.DAT | UNIT | DESCRIPTION
+In the pocket is a one-way ticket to midnight.
+@@ 841 | translate | UNITS/ITEMS/ENGINEER_06_CHEST_ALT_SET.DAT | UNIT | DESCRIPTION
+Believed to have been the battle-armor of the first Emperor, before his ascension to the throne.
+@@ 842 | translate | UNITS/ITEMS/ENGINEER_06_GLOVES.DAT | UNIT | DESCRIPTION
+They were designed for the first Emperor's charioteer.
+@@ 843 | translate | UNITS/ITEMS/ENGINEER_06_GLOVES_ALT_B.DAT | UNIT | DESCRIPTION
+All the metal you can hold.
+@@ 844 | translate | UNITS/ITEMS/ENGINEER_06_GLOVES_ALT_C.DAT | UNIT | DESCRIPTION
+If you can't rule with an iron fist, you're doing it wrong.
+@@ 845 | translate | UNITS/ITEMS/ENGINEER_06_GLOVES_ALT_SET.DAT | UNIT | DESCRIPTION
+Found in a secret compartment beneath an old monument.
+@@ 846 | translate | UNITS/ITEMS/ENGINEER_06_HELMET.DAT | UNIT | DESCRIPTION
+Presented to the Royal Engineer to commemorate the completion of the Ember Line.
+@@ 847 | translate | UNITS/ITEMS/ENGINEER_06_HELMET_ALT_B.DAT | UNIT | DESCRIPTION
+For the serious headbanger.
+@@ 848 | translate | UNITS/ITEMS/ENGINEER_06_HELMET_ALT_C.DAT | UNIT | DESCRIPTION
+Taskmaster Tempus taught hard lessons, but her students laid the foundations of the Empire.
+@@ 849 | translate | UNITS/ITEMS/ENGINEER_06_HELMET_ALT_SET.DAT | UNIT | DESCRIPTION
+Early Imperial tapestries depict the Emperor wearing a similar helm.
+@@ 850 | translate | UNITS/ITEMS/ENGINEER_06_PANTS.DAT | UNIT | DESCRIPTION
+Smelts like teen spirit.
+@@ 851 | translate | UNITS/ITEMS/ENGINEER_06_PANTS_ALT_B.DAT | UNIT | DESCRIPTION
+Woven with iron threads to stay supple, but resist any blade.
+@@ 852 | translate | UNITS/ITEMS/ENGINEER_06_PANTS_ALT_C.DAT | UNIT | DESCRIPTION
+The Blacksmith of Bokrug wore these at the Emberforge.
+@@ 853 | translate | UNITS/ITEMS/ENGINEER_06_PANTS_ALT_SET.DAT | UNIT | DESCRIPTION
+Said to be stitched together with magic thread from the Brackenwilds.
+@@ 854 | translate | UNITS/ITEMS/ENGINEER_06_RING.DAT | UNIT | DESCRIPTION
+When they made this ring, they broke the mold.
+@@ 855 | translate | UNITS/ITEMS/ENGINEER_06_RING_ALT_B.DAT | UNIT | DESCRIPTION
+A cunning design of interlocking plates.
+@@ 856 | translate | UNITS/ITEMS/ENGINEER_06_RING_ALT_C.DAT | UNIT | DESCRIPTION
+Sounds like a fight!
+@@ 857 | translate | UNITS/ITEMS/ENGINEER_06_RING_ALT_SET.DAT | UNIT | DESCRIPTION
+It once symbolized highest authority in the Empire.
+@@ 858 | translate | UNITS/ITEMS/ENGINEER_06_SHOULDERS.DAT | UNIT | DESCRIPTION
+Born of sparks flying in the dead of the night.
+@@ 859 | translate | UNITS/ITEMS/ENGINEER_06_SHOULDERS_ALT_B.DAT | UNIT | DESCRIPTION
+The last piece of armor created in the Rail Forge.
+@@ 860 | translate | UNITS/ITEMS/ENGINEER_06_SHOULDERS_ALT_C.DAT | UNIT | DESCRIPTION
+The fractal filigree suggests intelligence in the design.
+@@ 861 | translate | UNITS/ITEMS/ENGINEER_06_SHOULDERS_ALT_SET.DAT | UNIT | DESCRIPTION
+Pauldrons like this were once common among primitive tribes.
+@@ 862 | translate | UNITS/ITEMS/FISH/FISH_ADZEFISH.DAT | UNIT | DESCRIPTION
+Right-click to feed fish to pet.\n\nThe Crab Egg transforms your pet into a heavily armored Crab Warrior.
+@@ 863 | translate | UNITS/ITEMS/FISH/FISH_ADZEFISH_BIG.DAT | UNIT | DESCRIPTION
+Right-click to feed fish to pet.\n\nThe Big Crab Egg transforms your pet into a heavily armored Crab Warrior.
+@@ 864 | translate | UNITS/ITEMS/FISH/FISH_ADZEFISH_PERM.DAT | UNIT | DESCRIPTION
+Right-click to feed fish to pet.\n\nThe Giant Crab Egg permanently transforms your pet into a heavily armored Crab Warrior.\n\nThis effect will last until another transforming fish is consumed.
+@@ 865 | translate | UNITS/ITEMS/FISH/FISH_BATFISH.DAT | UNIT | DESCRIPTION
+Right-click to feed fish to pet.\n\nThe Warsnout transforms your pet into a high damage Warbeast.
+@@ 866 | translate | UNITS/ITEMS/FISH/FISH_BATFISH_PERM.DAT | UNIT | DESCRIPTION
+Right-click to feed fish to pet.\n\nThe Giant Warsnout permanently transforms your pet into a high damage Warbeast.\n\nThis effect will last until another transforming fish is consumed.
+@@ 867 | translate | UNITS/ITEMS/FISH/FISH_BIRDFISH.DAT | UNIT | DESCRIPTION
+Right-click to feed fish to pet.\n\nThe Flying Fish transforms your pet into a Swampflyer capable of silencing targets.
+@@ 868 | translate | UNITS/ITEMS/FISH/FISH_BIRDFISH_BIG.DAT | UNIT | DESCRIPTION
+Right-click to feed fish to pet.\n\nThe Big Flying Fish transforms your pet into a Swampflyer capable of silencing targets.
+@@ 869 | translate | UNITS/ITEMS/FISH/FISH_BIRDFISH_PERM.DAT | UNIT | DESCRIPTION
+Right-click to feed fish to pet.\n\nThe Giant Flying Fishpermanently transforms your pet into a Swampflyer capable of silencing targets.\n\nThis effect will last until another transforming fish is consumed.
+@@ 870 | translate | UNITS/ITEMS/FISH/FISH_CAT_RETURN.DAT | UNIT | DESCRIPTION
+Right-click to feed fish to pet.\n\nWarning: Permanent Effect!
+@@ 871 | translate | UNITS/ITEMS/FISH/FISH_ELEMCRITBOOST.DAT | UNIT | DESCRIPTION
+Right-click to feed fish to pet
+@@ 872 | translate | UNITS/ITEMS/FISH/FISH_GOLDFIND.DAT | UNIT | DESCRIPTION
+Right-click to eat fish
+@@ 873 | translate | UNITS/ITEMS/FISH/FISH_GOLDFISH.DAT | UNIT | DESCRIPTION
+Not pet food! Just sell it.
+@@ 874 | translate | UNITS/ITEMS/FISH/FISH_LAMPFISH.DAT | UNIT | DESCRIPTION
+Right-click to feed fish to pet.\n\nThe Tunnel Shark transforms your pet into a Molebeast that has a chance to stun targets.
+@@ 875 | translate | UNITS/ITEMS/FISH/FISH_LAMPFISH_BIG.DAT | UNIT | DESCRIPTION
+Right-click to feed fish to pet.\n\nThe Big Tunnel Shark transforms your pet into a Molebeast that has a chance to stun targets.
+@@ 876 | translate | UNITS/ITEMS/FISH/FISH_LAMPFISH_PERM.DAT | UNIT | DESCRIPTION
+Right-click to feed fish to pet.\n\nThe Giant Tunnel Shark permanently transforms your pet into a Molebeast that has a chance to stun targets.\n\nThis effect will last until another transforming fish is consumed.
+@@ 877 | translate | UNITS/ITEMS/FISH/FISH_MUCKFISH.DAT | UNIT | DESCRIPTION
+Right-click to feed fish to pet.\n\nThe Jackal Bass transforms your pet into a Jackal with a venomous bite.
+@@ 878 | translate | UNITS/ITEMS/FISH/FISH_MUCKFISH_BIG.DAT | UNIT | DESCRIPTION
+Right-click to feed fish to pet.\n\nThe Big Jackal Bass transforms your pet into a Jackal with a venomous bite.
+@@ 879 | translate | UNITS/ITEMS/FISH/FISH_MUCKFISH_PERM.DAT | UNIT | DESCRIPTION
+Right-click to feed fish to pet.\n\nThe Giant Jackal Bass permanently transforms your pet into a Jackal with a venomous bite.\n\nThis effect will last until another transforming fish is consumed.
+@@ 880 | translate | UNITS/ITEMS/FISH/FISH_POCKETFISH.DAT | UNIT | DESCRIPTION
+Right-click to feed fish to pet.\n\nThe Largemouth Bass transforms your pet into a Mimic, a superior combat companion.
+@@ 881 | translate | UNITS/ITEMS/FISH/FISH_POCKETFISH_BIG.DAT | UNIT | DESCRIPTION
+Right-click to feed fish to pet.\n\nThe Big Largemouth Bass transforms your pet into a Mimic, a superior combat companion.
+@@ 882 | translate | UNITS/ITEMS/FISH/FISH_POCKETFISH_PERM.DAT | UNIT | DESCRIPTION
+Right-click to feed fish to pet.\n\nThe Giant Largemouth Bass permanently transforms your pet into a Mimic, a superior combat companion.\n\nThis effect will last until another transforming fish is consumed.
+@@ 883 | translate | UNITS/ITEMS/FISH/FISH_TORSOFISH.DAT | UNIT | DESCRIPTION
+Right-click to feed fish to pet.\n\nThe Bonefish transforms your pet into an armor shredding, half skeleton.
+@@ 884 | translate | UNITS/ITEMS/FISH/FISH_TORSOFISH_BIG.DAT | UNIT | DESCRIPTION
+Right-click to feed fish to pet.\n\nThe Big Bonefish transforms your pet into an armor shredding, half skeleton.
+@@ 885 | translate | UNITS/ITEMS/FISH/FISH_TORSOFISH_GIANT.DAT | UNIT | DESCRIPTION
+Right-click to feed fish to pet.\n\nThe Giant Bonefish transforms your pet into an armor shredding, half skeleton.\n\nThis effect will last until another transforming fish is consumed.
+@@ 886 | translate | UNITS/ITEMS/FISH/FISH_TREEFISH_PERM.DAT | UNIT | DESCRIPTION
+Right-click to feed fish to pet.\n\nThis effect will last until another transforming fish is consumed.
+@@ 887 | translate | UNITS/ITEMS/FISH/FISH_TROLLFISH.DAT | UNIT | DESCRIPTION
+Right-click to feed fish to pet.\n\nThis perplexing fish transforms your pet into a Giant Troll, a very superior combat companion.
+@@ 888 | translate | UNITS/ITEMS/FISH/FISH_TROUT.DAT | UNIT | DESCRIPTION
+Right-click to feed fish to pet.\n\nThe Web Fish transforms your pet into a Spider that shoots immobilizing webs at foes.
+@@ 889 | translate | UNITS/ITEMS/FISH/FISH_TROUT_PERM.DAT | UNIT | DESCRIPTION
+Right-click to feed fish to pet.\n\nThe Giant Web Fish permanently transforms your pet into a Spider that shoots immobilizing webs at foes.\n\nThis effect will last until another transforming fish is consumed.
+@@ 890 | translate | UNITS/ITEMS/FISH/FISH_VAMPIRIC_SPIDER.DAT | UNIT | DESCRIPTION
+Right-click to feed fish to pet.\n\nThe Spider Egg transforms your pet into a very strong Vampiric Spider whose attacks steal life to heal you.
+@@ 891 | translate | UNITS/ITEMS/FISTS/BASE_FIST.DAT | UNIT | DESCRIPTION
+Claw weapons do no splash damage but ignore half of armor on regular attacks
+@@ 892 | translate | UNITS/ITEMS/FISTS/FIST_U01.DAT | UNIT | DESCRIPTION
+The Valgang tribes consider it a rite of passage to slay a two-toed Mountain Sloth.
+@@ 893 | translate | UNITS/ITEMS/FISTS/FIST_U01B.DAT | UNIT | DESCRIPTION
+This sharp beauty will draw your eye, but it might take your nose.
+@@ 894 | translate | UNITS/ITEMS/FISTS/FIST_U01C.DAT | UNIT | DESCRIPTION
+A ceremonial weapon, used to dispatch the Frozen Dead.
+@@ 895 | translate | UNITS/ITEMS/FISTS/FIST_U02.DAT | UNIT | DESCRIPTION
+If it hits you, you'll understand how it got its name.
+@@ 896 | translate | UNITS/ITEMS/FISTS/FIST_U02B.DAT | UNIT | DESCRIPTION
+Hit 'em hard, and hit 'em fast. If they get up, hit 'em again.
+@@ 897 | translate | UNITS/ITEMS/FISTS/FIST_U02C.DAT | UNIT | DESCRIPTION
+The Ezrohir speak of this bludgeon with dread.
+@@ 898 | translate | UNITS/ITEMS/FISTS/FIST_U03.DAT | UNIT | DESCRIPTION
+It marks the two thin, bloody lines between pain and pleasure.
+@@ 899 | translate | UNITS/ITEMS/FISTS/FIST_U03B.DAT | UNIT | DESCRIPTION
+The last word in combat.
+@@ 900 | translate | UNITS/ITEMS/FISTS/FIST_U03C.DAT | UNIT | DESCRIPTION
+Put 'em down for the count.
+@@ 901 | translate | UNITS/ITEMS/FISTS/FIST_U03_SET_BULLETFIST.DAT | UNIT | DESCRIPTION
+On one hand, your aim is improving.
+@@ 902 | translate | UNITS/ITEMS/FISTS/FIST_U04.DAT | UNIT | DESCRIPTION
+If your enemies don't get the point, drill it into their heads.
+@@ 903 | translate | UNITS/ITEMS/FISTS/FIST_U04B.DAT | UNIT | DESCRIPTION
+Take it out for a spin!
+@@ 904 | translate | UNITS/ITEMS/FISTS/FIST_U04C.DAT | UNIT | DESCRIPTION
+Legends say the Netherim tried seven times to destroy it.
+@@ 905 | translate | UNITS/ITEMS/FISTS/FIST_U05.DAT | UNIT | DESCRIPTION
+"I'm doing my part!"
+@@ 906 | translate | UNITS/ITEMS/FISTS/FIST_U05B.DAT | UNIT | DESCRIPTION
+Drink deep of your enemies' despair!
+@@ 907 | translate | UNITS/ITEMS/FISTS/FIST_U05C.DAT | UNIT | DESCRIPTION
+Cut it out.
+@@ 908 | translate | UNITS/ITEMS/FISTS/FIST_U06.DAT | UNIT | DESCRIPTION
+Fashioned from the skull of the Tonatonga Serpent.
+@@ 909 | translate | UNITS/ITEMS/FISTS/FIST_U06B.DAT | UNIT | DESCRIPTION
+They are, in fact, "pearly white!"
+@@ 910 | translate | UNITS/ITEMS/FISTS/FIST_U06C.DAT | UNIT | DESCRIPTION
+Pound your enemies to mulch.
+@@ 911 | translate | UNITS/ITEMS/FISTS/FIST_U06D.DAT | UNIT | DESCRIPTION
+Maximum Velocity
+@@ 912 | translate | UNITS/ITEMS/FISTS/FIST_U06_SET_XTRO.DAT | UNIT | DESCRIPTION
+Daddy's home!
+@@ 913 | translate | UNITS/ITEMS/FISTS/FIST_U07.DAT | UNIT | DESCRIPTION
+In the prison colony on Eon Island, these stones are just lying on the ground.
+@@ 914 | translate | UNITS/ITEMS/FISTS/FIST_U07B.DAT | UNIT | DESCRIPTION
+"Ice conquers all." - Valgang saying
+@@ 915 | translate | UNITS/ITEMS/FISTS/FIST_U07C.DAT | UNIT | DESCRIPTION
+See how it catches the rays of the sun? Keep watching ...
+@@ 916 | translate | UNITS/ITEMS/FISTS/LEGENDARY_FIST01.DAT | UNIT | DESCRIPTION
+Deathsport, unike most claw weapons, does splash damage.\n\nLegendary Claw Collection\nNumber One of Five
+@@ 917 | translate | UNITS/ITEMS/FISTS/LEGENDARY_FIST02.DAT | UNIT | DESCRIPTION
+Legendary Claw Collection\nNumber Two of Five
+@@ 918 | translate | UNITS/ITEMS/FISTS/LEGENDARY_FIST03.DAT | UNIT | DESCRIPTION
+Legendary Claw Collection\nNumber Three of Five
+@@ 919 | translate | UNITS/ITEMS/FISTS/LEGENDARY_FIST04.DAT | UNIT | DESCRIPTION
+Legendary Claw Collection\nNumber Four of Five
+@@ 920 | translate | UNITS/ITEMS/FISTS/LEGENDARY_FIST05.DAT | UNIT | DESCRIPTION
+Legendary Claw Collection\nNumber Five of Five
+@@ 921 | translate | UNITS/ITEMS/FISTS/ZZZ_WEREWOLF_FIST.DAT | UNIT | DESCRIPTION
+He might want it back...
+@@ 922 | translate | UNITS/ITEMS/HUNTER_01_AMULET.DAT | UNIT | DESCRIPTION
+It gave the Warlock the power to find lost treasures.
+@@ 923 | translate | UNITS/ITEMS/HUNTER_01_AMULET_ALT_B.DAT | UNIT | DESCRIPTION
+It was once the badge of office of the man known only as the Oathbreaker.
+@@ 924 | translate | UNITS/ITEMS/HUNTER_01_AMULET_ALT_C.DAT | UNIT | DESCRIPTION
+It bears the inscription "Swords Over Spells."
+@@ 925 | translate | UNITS/ITEMS/HUNTER_01_BELT.DAT | UNIT | DESCRIPTION
+Flayed from the hides of Varkolyn casters.
+@@ 926 | translate | UNITS/ITEMS/HUNTER_01_BELT_ALT_B.DAT | UNIT | DESCRIPTION
+Fashioned from the shredded robes of the Oathbreaker.
+@@ 927 | translate | UNITS/ITEMS/HUNTER_01_BELT_ALT_C.DAT | UNIT | DESCRIPTION
+Many believe it warded the Witchfinder from the Netherim.
+@@ 928 | translate | UNITS/ITEMS/HUNTER_01_BOOTS.DAT | UNIT | DESCRIPTION
+The Warlock crushed the Varkolyn, then sent them to war against the Estherians.
+@@ 929 | translate | UNITS/ITEMS/HUNTER_01_BOOTS_ALT_B.DAT | UNIT | DESCRIPTION
+The Oathbreaker sided with the Estherians against the Varkolyn.
+@@ 930 | translate | UNITS/ITEMS/HUNTER_01_BOOTS_ALT_C.DAT | UNIT | DESCRIPTION
+Worn all throughout the hunt for the Warlock and Oathbreaker.
+@@ 931 | translate | UNITS/ITEMS/HUNTER_01_CHEST.DAT | UNIT | DESCRIPTION
+The Warlock of the Razorpeaks united the Varkolyn against the Estherians.
+@@ 932 | translate | UNITS/ITEMS/HUNTER_01_CHEST_ALT_B.DAT | UNIT | DESCRIPTION
+The Oathbreaker hatched the failed plot to overthrow Emperor Pol.
+@@ 933 | translate | UNITS/ITEMS/HUNTER_01_CHEST_ALT_C.DAT | UNIT | DESCRIPTION
+The Witchfinder rooted out corruption in the Empire.
+@@ 934 | translate | UNITS/ITEMS/HUNTER_01_GLOVES.DAT | UNIT | DESCRIPTION
+The Warlock's gloves were found miles apart, years apart.
+@@ 935 | translate | UNITS/ITEMS/HUNTER_01_GLOVES_ALT_B.DAT | UNIT | DESCRIPTION
+When the Oathbreaker went into exile, he was wearing these.
+@@ 936 | translate | UNITS/ITEMS/HUNTER_01_GLOVES_ALT_C.DAT | UNIT | DESCRIPTION
+The Witchfinder never returned from Vilderan.
+@@ 937 | translate | UNITS/ITEMS/HUNTER_01_HELMET.DAT | UNIT | DESCRIPTION
+The Warlock credited his quick thinking to this hat.
+@@ 938 | translate | UNITS/ITEMS/HUNTER_01_HELMET_ALT_B.DAT | UNIT | DESCRIPTION
+Some say the Warlock and the Oathbreaker were brothers.
+@@ 939 | translate | UNITS/ITEMS/HUNTER_01_HELMET_ALT_C.DAT | UNIT | DESCRIPTION
+The Witchfinder always said this hat made him a better swordsman ...
+@@ 940 | translate | UNITS/ITEMS/HUNTER_01_PANTS.DAT | UNIT | DESCRIPTION
+The legs are always covered in bat fur, for some reason.
+@@ 941 | translate | UNITS/ITEMS/HUNTER_01_PANTS_ALT_B.DAT | UNIT | DESCRIPTION
+Hand-sewn, from the hide of a giant lizard.
+@@ 942 | translate | UNITS/ITEMS/HUNTER_01_PANTS_ALT_C.DAT | UNIT | DESCRIPTION
+The Witchfinder's belongings appeared in an auction in Red Haven a hundred years ago.
+@@ 943 | translate | UNITS/ITEMS/HUNTER_01_RING.DAT | UNIT | DESCRIPTION
+The infamous Warlock cast this aside when he was exiled to Vilderan.
+@@ 944 | translate | UNITS/ITEMS/HUNTER_01_RING_ALT_B.DAT | UNIT | DESCRIPTION
+The Oathbreaker betrayed the Warlock to the Empire, and was banished with him.
+@@ 945 | translate | UNITS/ITEMS/HUNTER_01_RING_ALT_C.DAT | UNIT | DESCRIPTION
+The Witchfinder believed that the Warlock and the Oathbreaker were one and the same.
+@@ 946 | translate | UNITS/ITEMS/HUNTER_01_SHOULDERS.DAT | UNIT | DESCRIPTION
+The Warlock modeled these after Varkolyn physiology.
+@@ 947 | translate | UNITS/ITEMS/HUNTER_01_SHOULDERS_ALT_B.DAT | UNIT | DESCRIPTION
+The leather bears a resemblance to the wings of a Varkolyn.
+@@ 948 | translate | UNITS/ITEMS/HUNTER_01_SHOULDERS_ALT_C.DAT | UNIT | DESCRIPTION
+The Empire has had no official Witchfinder since the disappearance of the last one.
+@@ 949 | translate | UNITS/ITEMS/LEGENDARY2/LEGENDARY2_AXE05.DAT | UNIT | DESCRIPTION
+Long Lost Legendary Axe!
+@@ 950 | translate | UNITS/ITEMS/LEGENDARY2/LEGENDARY2_BOW05.DAT | UNIT | DESCRIPTION
+Long Lost Legendary Bow!
+@@ 951 | translate | UNITS/ITEMS/LEGENDARY2/LEGENDARY2_CANNON04.DAT | UNIT | DESCRIPTION
+Long Lost Legendary Cannon!
+@@ 952 | translate | UNITS/ITEMS/LEGENDARY2/LEGENDARY2_CROSSBOW03.DAT | UNIT | DESCRIPTION
+Long Lost Legendary Crossbow!
+@@ 953 | translate | UNITS/ITEMS/LEGENDARY2/LEGENDARY2_FIST06.DAT | UNIT | DESCRIPTION
+Long Lost Legendary Claw!
+@@ 954 | translate | UNITS/ITEMS/LEGENDARY2/LEGENDARY2_GREATAXE04.DAT | UNIT | DESCRIPTION
+Long Lost Legendary Greataxe!
+@@ 955 | translate | UNITS/ITEMS/LEGENDARY2/LEGENDARY2_GREATHAMMER04.DAT | UNIT | DESCRIPTION
+Long Lost Legendary Greathammer!
+@@ 956 | translate | UNITS/ITEMS/LEGENDARY2/LEGENDARY2_GREATSWORD04.DAT | UNIT | DESCRIPTION
+Long Lost Legendary Greatsword!
+@@ 957 | translate | UNITS/ITEMS/LEGENDARY2/LEGENDARY2_HAMMER05.DAT | UNIT | DESCRIPTION
+Long Lost Legendary Hammer!
+@@ 958 | translate | UNITS/ITEMS/LEGENDARY2/LEGENDARY2_PISTOL06.DAT | UNIT | DESCRIPTION
+Long Lost Legendary Pistol!
+@@ 959 | translate | UNITS/ITEMS/LEGENDARY2/LEGENDARY2_POLEARM04.DAT | UNIT | DESCRIPTION
+Long Lost Legendary Polearm!
+@@ 960 | translate | UNITS/ITEMS/LEGENDARY2/LEGENDARY2_RIFLE04.DAT | UNIT | DESCRIPTION
+Long Lost Legendary Rifle!
+@@ 961 | translate | UNITS/ITEMS/LEGENDARY2/LEGENDARY2_SHIELD05.DAT | UNIT | DESCRIPTION
+Long Lost Legendary Shield!
+@@ 962 | translate | UNITS/ITEMS/LEGENDARY2/LEGENDARY2_STAFF06.DAT | UNIT | DESCRIPTION
+Long Lost Legendary Staff!
+@@ 963 | translate | UNITS/ITEMS/LEGENDARY2/LEGENDARY2_SWORD05.DAT | UNIT | DESCRIPTION
+Long Lost Legendary Sword!
+@@ 964 | translate | UNITS/ITEMS/LEGENDARY2/LEGENDARY2_WAND06.DAT | UNIT | DESCRIPTION
+Long Lost Legendary Wand!
+@@ 965 | translate | UNITS/ITEMS/LEVELITEMS/A2_POI_LARGESKELETON_EYE_ITEM.DAT | UNIT | DESCRIPTION
+The gem looks as if it is an eye of an ancient beast.
+@@ 966 | translate | UNITS/ITEMS/LEVELITEMS/A3-ROTCRYPTGEM.DAT | UNIT | DESCRIPTION
+Return to the Altar near the entrance to the Rotting Crypt.
+@@ 967 | translate | UNITS/ITEMS/LEVELITEMS/BANDITBOTTLE.DAT | UNIT | DESCRIPTION
+A suspicious bottle of lotion.
+@@ 968 | translate | UNITS/ITEMS/LEVELITEMS/BANDITCELLUNLOCKKEY.DAT | UNIT | DESCRIPTION
+Key for prisons
+@@ 969 | translate | UNITS/ITEMS/LEVELITEMS/BANDITCHESTUNLOCKKEY.DAT | UNIT | DESCRIPTION
+A small key.
+@@ 970 | translate | UNITS/ITEMS/LEVELITEMS/BELL.DAT | UNIT | DESCRIPTION
+The bell is inscribed with ancient symbols.
+@@ 971 | translate | UNITS/ITEMS/LEVELITEMS/CASHBOX.DAT | UNIT | DESCRIPTION
+It's full of coins and securely locked.
+@@ 972 | translate | UNITS/ITEMS/LEVELITEMS/CHESTUNLOCKKEY.DAT | UNIT | DESCRIPTION
+The key has a chest carved on it.
+@@ 973 | translate | UNITS/ITEMS/LEVELITEMS/COINPURSE.DAT | UNIT | DESCRIPTION
+The leather is covered in fine scrollwork.
+@@ 974 | translate | UNITS/ITEMS/LEVELITEMS/DRAGONCRYSTALPICKUP.DAT | UNIT | DESCRIPTION
+A broken piece of a crystal Shard.\n
+@@ 975 | translate | UNITS/ITEMS/LEVELITEMS/DRAGONGATEKEY.DAT | UNIT | DESCRIPTION
+A key to the Gate.\n
+@@ 976 | translate | UNITS/ITEMS/LEVELITEMS/EVT_CENSER.DAT | UNIT | DESCRIPTION
+Incense still smoulders inside, emiting a peaceful scent.
+@@ 977 | translate | UNITS/ITEMS/LEVELITEMS/GOLEM SOUL.DAT | UNIT | DESCRIPTION
+The fiery residue of a Bone Golem
+@@ 978 | translate | UNITS/ITEMS/LEVELITEMS/IRIDIAN FOCUS.DAT | UNIT | DESCRIPTION
+A gem that warps light in a seemingly impossible way.
+@@ 979 | translate | UNITS/ITEMS/LEVELITEMS/KENNELKEY.DAT | UNIT | DESCRIPTION
+A key to the dog Kennel.
+@@ 980 | translate | UNITS/ITEMS/LEVELITEMS/MASTERKEY.DAT | UNIT | DESCRIPTION
+The large key for a large chest
+@@ 981 | translate | UNITS/ITEMS/LEVELITEMS/MEDALLION.DAT | UNIT | DESCRIPTION
+It's quite old, and crusted with dirt.
+@@ 982 | translate | UNITS/ITEMS/LEVELITEMS/NECKLACE.DAT | UNIT | DESCRIPTION
+There is no clear way to open the locket.
+@@ 983 | translate | UNITS/ITEMS/LEVELITEMS/PHASEBEAST-CHOICE_KEY.DAT | UNIT | DESCRIPTION
+Some kind of key-like object.
+@@ 984 | translate | UNITS/ITEMS/LEVELITEMS/PHASEBEAST-CRABLEGS.DAT | UNIT | DESCRIPTION
+Someone must want these.
+@@ 985 | translate | UNITS/ITEMS/LEVELITEMS/PHASEBEAST-FIREWOOD.DAT | UNIT | DESCRIPTION
+Good for building fires to stay warm.
+@@ 986 | translate | UNITS/ITEMS/LEVELITEMS/PHASEBEAST-MYSTERIOUSGEM.DAT | UNIT | DESCRIPTION
+What secrets does it hold?
+@@ 987 | translate | UNITS/ITEMS/LEVELITEMS/PHASEBEAST-SHOVEL.DAT | UNIT | DESCRIPTION
+An old shovel that will break when used.
+@@ 988 | translate | UNITS/ITEMS/LEVELITEMS/PHASEBEAST-TREASUREMAP.DAT | UNIT | DESCRIPTION
+Apparently 'X' marks many spots.
+@@ 989 | translate | UNITS/ITEMS/LEVELITEMS/PHASEBEASTANTIVENOM.DAT | UNIT | DESCRIPTION
+A delicious bottle of poison.
+@@ 990 | translate | UNITS/ITEMS/LEVELITEMS/PLUNGER.DAT | UNIT | DESCRIPTION
+A plunger to a Detonator
+@@ 991 | translate | UNITS/ITEMS/LEVELITEMS/POCKETWATCH.DAT | UNIT | DESCRIPTION
+A golden pocket watch.
+@@ 992 | translate | UNITS/ITEMS/LEVELITEMS/POWER CRYSTAL.DAT | UNIT | DESCRIPTION
+This can be used as a source of power.
+@@ 993 | translate | UNITS/ITEMS/LEVELITEMS/SPIDEREGG.DAT | UNIT | DESCRIPTION
+A rusted miner's key.
+@@ 994 | translate | UNITS/ITEMS/LEVELITEMS/TOWEROFMOONUNLOCKKEY.DAT | UNIT | DESCRIPTION
+Juthama Kasam's key
+@@ 995 | translate | UNITS/ITEMS/LEVELITEMS/WITCH_INGREDIENT_BONES.DAT | UNIT | DESCRIPTION
+The iron-hard thorns of an elder Wood Wraith
+@@ 996 | translate | UNITS/ITEMS/LEVELITEMS/WITCH_INGREDIENT_HEART.DAT | UNIT | DESCRIPTION
+The Black Heart of a Coward
+@@ 997 | translate | UNITS/ITEMS/LEVELITEMS/WITCH_INGREDIENT_HOOD.DAT | UNIT | DESCRIPTION
+The Mask of Grom the Murderer
+@@ 998 | translate | UNITS/ITEMS/MACES/HAMMER_U01.DAT | UNIT | DESCRIPTION
+It knows what scares you.
+@@ 999 | translate | UNITS/ITEMS/MACES/HAMMER_U01B.DAT | UNIT | DESCRIPTION
+"And the Wyrd was mighty."
+@@ 1000 | translate | UNITS/ITEMS/MACES/HAMMER_U01C.DAT | UNIT | DESCRIPTION
+Order! Order!
+@@ 1001 | translate | UNITS/ITEMS/MACES/HAMMER_U02.DAT | UNIT | DESCRIPTION
+Goblins call it "the Hammer That Ends the Battle."
+@@ 1002 | translate | UNITS/ITEMS/MACES/HAMMER_U02B.DAT | UNIT | DESCRIPTION
+The true test of a champion is how long it takes to kill him.
+@@ 1003 | translate | UNITS/ITEMS/MACES/HAMMER_U02C.DAT | UNIT | DESCRIPTION
+Show's over!
+@@ 1004 | translate | UNITS/ITEMS/MACES/HAMMER_U03.DAT | UNIT | DESCRIPTION
+For enemies who lead with their chins ...
+@@ 1005 | translate | UNITS/ITEMS/MACES/HAMMER_U03B.DAT | UNIT | DESCRIPTION
+If it ain't broke ... fix it.
+@@ 1006 | translate | UNITS/ITEMS/MACES/HAMMER_U03C.DAT | UNIT | DESCRIPTION
+It's all in your head.
+@@ 1007 | translate | UNITS/ITEMS/MACES/HAMMER_U04.DAT | UNIT | DESCRIPTION
+When you've got this mace, you're holding all the cards.
+@@ 1008 | translate | UNITS/ITEMS/MACES/HAMMER_U04B.DAT | UNIT | DESCRIPTION
+This mace will break a few hearts.
+@@ 1009 | translate | UNITS/ITEMS/MACES/HAMMER_U04C.DAT | UNIT | DESCRIPTION
+The beatings will continue until the morale improves.
+@@ 1010 | translate | UNITS/ITEMS/MACES/HAMMER_U04D.DAT | UNIT | DESCRIPTION
+Still putting the “Doom” in “Sexy.”
+@@ 1011 | translate | UNITS/ITEMS/MACES/HAMMER_U05.DAT | UNIT | DESCRIPTION
+Your own personal holy terror.
+@@ 1012 | translate | UNITS/ITEMS/MACES/HAMMER_U05B.DAT | UNIT | DESCRIPTION
+It kills what scares you.
+@@ 1013 | translate | UNITS/ITEMS/MACES/HAMMER_U05C.DAT | UNIT | DESCRIPTION
+Keeping the faithful faithful.
+@@ 1014 | translate | UNITS/ITEMS/MACES/HAMMER_U06.DAT | UNIT | DESCRIPTION
+A perfect duplicate of the maul ... at one-eighth the size.
+@@ 1015 | translate | UNITS/ITEMS/MACES/HAMMER_U06B.DAT | UNIT | DESCRIPTION
+Bang! Bang!
+@@ 1016 | translate | UNITS/ITEMS/MACES/HAMMER_U06C.DAT | UNIT | DESCRIPTION
+The weapon of the legendary "Old Man Warrior," Scalzius.
+@@ 1017 | translate | UNITS/ITEMS/MACES/HAMMER_U07.DAT | UNIT | DESCRIPTION
+Put their spirits to rest.
+@@ 1018 | translate | UNITS/ITEMS/MACES/HAMMER_U07B.DAT | UNIT | DESCRIPTION
+It beats some sense into those it beats senseless.
+@@ 1019 | translate | UNITS/ITEMS/MACES/HAMMER_U07C.DAT | UNIT | DESCRIPTION
+Payback's a bitch!
+@@ 1020 | translate | UNITS/ITEMS/MACES/LEGENDARY_HAMMER01.DAT | UNIT | DESCRIPTION
+Legendary Hammer Collection\nNumber One of Four
+@@ 1021 | translate | UNITS/ITEMS/MACES/LEGENDARY_HAMMER02.DAT | UNIT | DESCRIPTION
+Legendary Hammer Collection\nNumber Two of Four
+@@ 1022 | translate | UNITS/ITEMS/MACES/LEGENDARY_HAMMER03.DAT | UNIT | DESCRIPTION
+Legendary Hammer Collection\nNumber Three of Four
+@@ 1023 | translate | UNITS/ITEMS/MACES/LEGENDARY_HAMMER04.DAT | UNIT | DESCRIPTION
+Legendary Hammer Collection\nNumber Four of Four
+@@ 1024 | translate | UNITS/ITEMS/MACES/Z_HAMMER_U07_SET.DAT | UNIT | DESCRIPTION
+At last! AT LAST!
+@@ 1025 | translate | UNITS/ITEMS/MAPS/ARENA.DAT | UNIT | DESCRIPTION
+Right-click to open a portal to a lost dungeon
+@@ 1026 | translate | UNITS/ITEMS/MAPS/CATACOMBSMAP.DAT | UNIT | DESCRIPTION
+Enables entry to the Cursed Catacombs via the Mapworks
+@@ 1027 | translate | UNITS/ITEMS/MAPS/CATACOMBSMAPA105.DAT | UNIT | DESCRIPTION
+Enables entry to the Infernal Necropolis via the Mapworks
+@@ 1028 | translate | UNITS/ITEMS/MAPS/CATACOMBSMAPA56.DAT | UNIT | DESCRIPTION
+Enables entry to the Cursed Tombs via the Mapworks
+@@ 1029 | translate | UNITS/ITEMS/MAPS/CATACOMBSMAPA66.DAT | UNIT | DESCRIPTION
+Enables entry to the Cursed Mausoleum via the Mapworks
+@@ 1030 | translate | UNITS/ITEMS/MAPS/CATACOMBSMAPA76.DAT | UNIT | DESCRIPTION
+Enables entry to the Infernal Catacombs via the Mapworks
+@@ 1031 | translate | UNITS/ITEMS/MAPS/CATACOMBSMAPA86.DAT | UNIT | DESCRIPTION
+Enables entry to the Infernal Tombs via the Mapworks
+@@ 1032 | translate | UNITS/ITEMS/MAPS/CATACOMBSMAPA96.DAT | UNIT | DESCRIPTION
+Enables entry to the Infernal Mausoleum via the Mapworks
+@@ 1033 | translate | UNITS/ITEMS/MAPS/CATACOMBSMAPB.DAT | UNIT | DESCRIPTION
+Enables entry to the Defiled Burrow via the Mapworks
+@@ 1034 | translate | UNITS/ITEMS/MAPS/CATACOMBSMAPB105.DAT | UNIT | DESCRIPTION
+Enables entry to the Desecrated Sepulcher via the Mapworks
+@@ 1035 | translate | UNITS/ITEMS/MAPS/CATACOMBSMAPB56.DAT | UNIT | DESCRIPTION
+Enables entry to the Defiled Graves via the Mapworks
+@@ 1036 | translate | UNITS/ITEMS/MAPS/CATACOMBSMAPB66.DAT | UNIT | DESCRIPTION
+Enables entry to the Defiled Cemetery via the Mapworks
+@@ 1037 | translate | UNITS/ITEMS/MAPS/CATACOMBSMAPB76.DAT | UNIT | DESCRIPTION
+Enables entry to the Desecrated Burrow via the Mapworks
+@@ 1038 | translate | UNITS/ITEMS/MAPS/CATACOMBSMAPB86.DAT | UNIT | DESCRIPTION
+Enables entry to the Desecrated Graves via the Mapworks
+@@ 1039 | translate | UNITS/ITEMS/MAPS/CATACOMBSMAPB96.DAT | UNIT | DESCRIPTION
+Enables entry to the Desecrated Cemetery via the Mapworks
+@@ 1040 | translate | UNITS/ITEMS/MAPS/CATACOMBSMAPC.DAT | UNIT | DESCRIPTION
+Enables entry to the Ghastly Vault via the Mapworks
+@@ 1041 | translate | UNITS/ITEMS/MAPS/CATACOMBSMAPC105.DAT | UNIT | DESCRIPTION
+Enables entry to the Bloody Boneyard via the Mapworks
+@@ 1042 | translate | UNITS/ITEMS/MAPS/CATACOMBSMAPC56.DAT | UNIT | DESCRIPTION
+Enables entry to the Ghastly Crypt via the Mapworks
+@@ 1043 | translate | UNITS/ITEMS/MAPS/CATACOMBSMAPC66.DAT | UNIT | DESCRIPTION
+Enables entry to the Ghastly Mortuary via the Mapworks
+@@ 1044 | translate | UNITS/ITEMS/MAPS/CATACOMBSMAPC76.DAT | UNIT | DESCRIPTION
+Enables entry to the Bloody Vault via the Mapworks
+@@ 1045 | translate | UNITS/ITEMS/MAPS/CATACOMBSMAPC86.DAT | UNIT | DESCRIPTION
+Enables entry to the Bloody Crypt via the Mapworks
+@@ 1046 | translate | UNITS/ITEMS/MAPS/CATACOMBSMAPC96.DAT | UNIT | DESCRIPTION
+Enables entry to the Bloody Mortuary via the Mapworks
+@@ 1047 | translate | UNITS/ITEMS/MAPS/CAVESMAPA.DAT | UNIT | DESCRIPTION
+Enables entry to the Shadowy Grotto via the Mapworks
+@@ 1048 | translate | UNITS/ITEMS/MAPS/CAVESMAPA105.DAT | UNIT | DESCRIPTION
+Enables entry to the Abyssal Fissure via the Mapworks
+@@ 1049 | translate | UNITS/ITEMS/MAPS/CAVESMAPA66.DAT | UNIT | DESCRIPTION
+Enables entry to the Shadowy Caves via the Mapworks
+@@ 1050 | translate | UNITS/ITEMS/MAPS/CAVESMAPA76.DAT | UNIT | DESCRIPTION
+Enables entry to the Abyssal Grotto via the Mapworks
+@@ 1051 | translate | UNITS/ITEMS/MAPS/CAVESMAPA86.DAT | UNIT | DESCRIPTION
+Enables entry to the Abyssal Pit via the Mapworks
+@@ 1052 | translate | UNITS/ITEMS/MAPS/CAVESMAPA96.DAT | UNIT | DESCRIPTION
+Enables entry to the Abyssal Caves via the Mapworks
+@@ 1053 | translate | UNITS/ITEMS/MAPS/DRAGONMAPA.DAT | UNIT | DESCRIPTION
+Enables entry to the Wyvern Keep via the Mapworks
+@@ 1054 | translate | UNITS/ITEMS/MAPS/DRAGONMAPA105.DAT | UNIT | DESCRIPTION
+Enables entry to the Dragon Bastion via the Mapworks
+@@ 1055 | translate | UNITS/ITEMS/MAPS/DRAGONMAPA56.DAT | UNIT | DESCRIPTION
+Enables entry to the Wyvern Stronghold via the Mapworks
+@@ 1056 | translate | UNITS/ITEMS/MAPS/DRAGONMAPA66.DAT | UNIT | DESCRIPTION
+Enables entry to the Wyvern Citadel via the Mapworks
+@@ 1057 | translate | UNITS/ITEMS/MAPS/DRAGONMAPA76.DAT | UNIT | DESCRIPTION
+Enables entry to the Dragon Keep via the Mapworks
+@@ 1058 | translate | UNITS/ITEMS/MAPS/DRAGONMAPA86.DAT | UNIT | DESCRIPTION
+Enables entry to the Dragon Stronghold via the Mapworks
+@@ 1059 | translate | UNITS/ITEMS/MAPS/DRAGONMAPA96.DAT | UNIT | DESCRIPTION
+Enables entry to the Dragon Citadel via the Mapworks
+@@ 1060 | translate | UNITS/ITEMS/MAPS/DWARVENLABSMAPA.DAT | UNIT | DESCRIPTION
+Enables entry to the Forgotten Labs via the Mapworks
+@@ 1061 | translate | UNITS/ITEMS/MAPS/DWARVENLABSMAPA105.DAT | UNIT | DESCRIPTION
+Enables entry to the Deserted Foundry via the Mapworks
+@@ 1062 | translate | UNITS/ITEMS/MAPS/DWARVENLABSMAPA56.DAT | UNIT | DESCRIPTION
+Enables entry to the Forgotten Workshop via the Mapworks
+@@ 1063 | translate | UNITS/ITEMS/MAPS/DWARVENLABSMAPA66.DAT | UNIT | DESCRIPTION
+Enables entry to the Forgotten Factory via the Mapworks
+@@ 1064 | translate | UNITS/ITEMS/MAPS/DWARVENLABSMAPA76.DAT | UNIT | DESCRIPTION
+Enables entry to the Deserted Labs via the Mapworks
+@@ 1065 | translate | UNITS/ITEMS/MAPS/DWARVENLABSMAPA86.DAT | UNIT | DESCRIPTION
+Enables entry to the Deserted Workshop via the Mapworks
+@@ 1066 | translate | UNITS/ITEMS/MAPS/DWARVENLABSMAPA96.DAT | UNIT | DESCRIPTION
+Enables entry to the Deserted Factory via the Mapworks
+@@ 1067 | translate | UNITS/ITEMS/MAPS/ESTHERIANMAPA.DAT | UNIT | DESCRIPTION
+Enables entry to the Estherian Depths via the Mapworks
+@@ 1068 | translate | UNITS/ITEMS/MAPS/ESTHERIANMAPB.DAT | UNIT | DESCRIPTION
+Enables entry to the Ruined Shrine via the Mapworks
+@@ 1069 | translate | UNITS/ITEMS/MAPS/ESTHERIANMAPB105.DAT | UNIT | DESCRIPTION
+Enables entry to the Desolate Chantry via the Mapworks
+@@ 1070 | translate | UNITS/ITEMS/MAPS/ESTHERIANMAPB56.DAT | UNIT | DESCRIPTION
+Enables entry to the Ruined Sanctuary via the Mapworks
+@@ 1071 | translate | UNITS/ITEMS/MAPS/ESTHERIANMAPB66.DAT | UNIT | DESCRIPTION
+Enables entry to the Ruined Temple via the Mapworks
+@@ 1072 | translate | UNITS/ITEMS/MAPS/ESTHERIANMAPB76.DAT | UNIT | DESCRIPTION
+Enables entry to the Desolate Shrine via the Mapworks
+@@ 1073 | translate | UNITS/ITEMS/MAPS/ESTHERIANMAPB86.DAT | UNIT | DESCRIPTION
+Enables entry to the Desolate Sanctuary via the Mapworks
+@@ 1074 | translate | UNITS/ITEMS/MAPS/ESTHERIANMAPB96.DAT | UNIT | DESCRIPTION
+Enables entry to the Desolate Temple via the Mapworks
+@@ 1075 | translate | UNITS/ITEMS/MAPS/ESTHERIANMAPC.DAT | UNIT | DESCRIPTION
+Enables entry to the Infected Hollow via the Mapworks
+@@ 1076 | translate | UNITS/ITEMS/MAPS/ESTHERIANMAPC105.DAT | UNIT | DESCRIPTION
+Enables entry to the Blighted Sanctum via the Mapworks
+@@ 1077 | translate | UNITS/ITEMS/MAPS/ESTHERIANMAPC56.DAT | UNIT | DESCRIPTION
+Enables entry to the Infected Retreat via the Mapworks
+@@ 1078 | translate | UNITS/ITEMS/MAPS/ESTHERIANMAPC66.DAT | UNIT | DESCRIPTION
+Enables entry to the Infected Depths via the Mapworks
+@@ 1079 | translate | UNITS/ITEMS/MAPS/ESTHERIANMAPC86.DAT | UNIT | DESCRIPTION
+Enables entry to the Blighted Retreat via the Mapworks
+@@ 1080 | translate | UNITS/ITEMS/MAPS/ESTHERIANMAPC96.DAT | UNIT | DESCRIPTION
+Enables entry to the Blighted Depths via the Mapworks
+@@ 1081 | translate | UNITS/ITEMS/MAPS/ICECAVESMAPA.DAT | UNIT | DESCRIPTION
+Enables entry to the Frostbitten Caverns via the Mapworks
+@@ 1082 | translate | UNITS/ITEMS/MAPS/ICECAVESMAPA105.DAT | UNIT | DESCRIPTION
+Enables entry to the Frostshorn Breach via the Mapworks
+@@ 1083 | translate | UNITS/ITEMS/MAPS/ICECAVESMAPA56.DAT | UNIT | DESCRIPTION
+Enables entry to the Frostbitten Ravine via the Mapworks
+@@ 1084 | translate | UNITS/ITEMS/MAPS/ICECAVESMAPA66.DAT | UNIT | DESCRIPTION
+Enables entry to the Frostbitten Chasm via the Mapworks
+@@ 1085 | translate | UNITS/ITEMS/MAPS/ICECAVESMAPA76.DAT | UNIT | DESCRIPTION
+Enables entry to the Frostshorn Caverns via the Mapworks
+@@ 1086 | translate | UNITS/ITEMS/MAPS/ICECAVESMAPA86.DAT | UNIT | DESCRIPTION
+Enables entry to the Frostshorn Ravine via the Mapworks
+@@ 1087 | translate | UNITS/ITEMS/MAPS/ICECAVESMAPA96.DAT | UNIT | DESCRIPTION
+Enables entry to the Frostshorn Chasm via the Mapworks
+@@ 1088 | translate | UNITS/ITEMS/MAPS/JD_OVERWORLDTESTMAP.DAT | UNIT | DESCRIPTION
+Right-click to open a portal to the Wilds.
+@@ 1089 | translate | UNITS/ITEMS/MAPS/VAULTMAPA.DAT | UNIT | DESCRIPTION
+Enables entry to the Ransacked Halls via the Mapworks
+@@ 1090 | translate | UNITS/ITEMS/MAPS/VAULTMAPA105.DAT | UNIT | DESCRIPTION
+Enables entry to the Ezrohir Treasurey via the Mapworks
+@@ 1091 | translate | UNITS/ITEMS/MAPS/VAULTMAPA56.DAT | UNIT | DESCRIPTION
+Enables entry to the Ransacked Commons via the Mapworks
+@@ 1092 | translate | UNITS/ITEMS/MAPS/VAULTMAPA66.DAT | UNIT | DESCRIPTION
+Enables entry to the Ransacked Vault via the Mapworks
+@@ 1093 | translate | UNITS/ITEMS/MAPS/VAULTMAPA76.DAT | UNIT | DESCRIPTION
+Enables entry to the Ezrohir Halls via the Mapworks
+@@ 1094 | translate | UNITS/ITEMS/MAPS/VAULTMAPA86.DAT | UNIT | DESCRIPTION
+Enables entry to the Ezrohir Commons via the Mapworks
+@@ 1095 | translate | UNITS/ITEMS/MAPS/VAULTMAPA96.DAT | UNIT | DESCRIPTION
+Enables entry to the Ezrohir Vault via the Mapworks
+@@ 1096 | translate | UNITS/ITEMS/NETHERIM_01_AMULET_E.DAT | UNIT | DESCRIPTION
+The Shadowfolk put a little of themselves into their jewelry.
+@@ 1097 | translate | UNITS/ITEMS/NETHERIM_01_AMULET_E_ALT_B.DAT | UNIT | DESCRIPTION
+Wear this, and know what it means to be in the grip of shadows.
+@@ 1098 | translate | UNITS/ITEMS/NETHERIM_01_AMULET_E_ALT_C.DAT | UNIT | DESCRIPTION
+The Shadowfolk wanted this amulet to be hard to remove.
+@@ 1099 | translate | UNITS/ITEMS/NETHERIM_01_AMULET_F.DAT | UNIT | DESCRIPTION
+Shadows seem to somehow grow darker when it's near.
+@@ 1100 | translate | UNITS/ITEMS/NETHERIM_01_AMULET_F_ALT_B.DAT | UNIT | DESCRIPTION
+Your shadow seems blackened, even scorched.
+@@ 1101 | translate | UNITS/ITEMS/NETHERIM_01_AMULET_F_ALT_C.DAT | UNIT | DESCRIPTION
+The amulet seems to put off an umbral haze.
+@@ 1102 | translate | UNITS/ITEMS/NETHERIM_01_AMULET_I.DAT | UNIT | DESCRIPTION
+The Shadowfolk wanted it to become part of you.
+@@ 1103 | translate | UNITS/ITEMS/NETHERIM_01_AMULET_I_ALT_B.DAT | UNIT | DESCRIPTION
+At night, you can hear it whispering in an alien tongue.
+@@ 1104 | translate | UNITS/ITEMS/NETHERIM_01_AMULET_I_ALT_C.DAT | UNIT | DESCRIPTION
+"A needle out of midnight, aimed straight for your soul."
+@@ 1105 | translate | UNITS/ITEMS/NETHERIM_01_AMULET_P.DAT | UNIT | DESCRIPTION
+By the time you feel its bite, it's too late ...
+@@ 1106 | translate | UNITS/ITEMS/NETHERIM_01_AMULET_P_ALT_B.DAT | UNIT | DESCRIPTION
+It drives you to unspeakable acts ...
+@@ 1107 | translate | UNITS/ITEMS/NETHERIM_01_AMULET_P_ALT_C.DAT | UNIT | DESCRIPTION
+The Shadowfolk are said to come from the center of the world.
+@@ 1108 | translate | UNITS/ITEMS/NETHERIM_01_BELT.DAT | UNIT | DESCRIPTION
+The Shadowfolk were banished a thousand years ago.
+@@ 1109 | translate | UNITS/ITEMS/NETHERIM_01_BELT_ALT_B.DAT | UNIT | DESCRIPTION
+The black of the belt represents forbidden knowledge.
+@@ 1110 | translate | UNITS/ITEMS/NETHERIM_01_BELT_ALT_C.DAT | UNIT | DESCRIPTION
+You have the full support of the Shadowfolk.
+@@ 1111 | translate | UNITS/ITEMS/NETHERIM_01_BELT_ALT_SET.DAT | UNIT | DESCRIPTION
+The buckle hides a secret compartment with a dead bee inside.
+@@ 1112 | translate | UNITS/ITEMS/NETHERIM_01_BOOTS.DAT | UNIT | DESCRIPTION
+Tenebra wore these boots when she walked in shadow.
+@@ 1113 | translate | UNITS/ITEMS/NETHERIM_01_BOOTS_ALT_B.DAT | UNIT | DESCRIPTION
+"It is said: Walk among the clouds but live among the world."
+@@ 1114 | translate | UNITS/ITEMS/NETHERIM_01_BOOTS_ALT_C.DAT | UNIT | DESCRIPTION
+Step like a whisper;\nLaugh like a scream.
+@@ 1115 | translate | UNITS/ITEMS/NETHERIM_01_BOOTS_ALT_SET.DAT | UNIT | DESCRIPTION
+The Nameless Champion defended the Cult of the Obscure from their foes.
+@@ 1116 | translate | UNITS/ITEMS/NETHERIM_01_CHEST.DAT | UNIT | DESCRIPTION
+Tenebra was known as the Shadow Queen of the Black Palace.
+@@ 1117 | translate | UNITS/ITEMS/NETHERIM_01_CHEST_ALT_B.DAT | UNIT | DESCRIPTION
+It wraps you in its dark embrace.
+@@ 1118 | translate | UNITS/ITEMS/NETHERIM_01_CHEST_ALT_C.DAT | UNIT | DESCRIPTION
+Legends say it was worn by the mysterious King-in-Whispers.
+@@ 1119 | translate | UNITS/ITEMS/NETHERIM_01_CHEST_ALT_SET.DAT | UNIT | DESCRIPTION
+The Cult of the Obscure created this armor for the Nameless Champion.
+@@ 1120 | translate | UNITS/ITEMS/NETHERIM_01_GLOVES.DAT | UNIT | DESCRIPTION
+It's said that they are the hands of a ghost ... who still seeks their return.
+@@ 1121 | translate | UNITS/ITEMS/NETHERIM_01_GLOVES_ALT_B.DAT | UNIT | DESCRIPTION
+Tenebra strangled many a prisoner with these gauntlets.
+@@ 1122 | translate | UNITS/ITEMS/NETHERIM_01_GLOVES_ALT_C.DAT | UNIT | DESCRIPTION
+These bracers do not sparkle, as some might expect.
+@@ 1123 | translate | UNITS/ITEMS/NETHERIM_01_GLOVES_ALT_SET.DAT | UNIT | DESCRIPTION
+Some believe the Cult of the Obscure never existed.
+@@ 1124 | translate | UNITS/ITEMS/NETHERIM_01_HELMET.DAT | UNIT | DESCRIPTION
+The Shadow Queen could see through shadows.
+@@ 1125 | translate | UNITS/ITEMS/NETHERIM_01_HELMET_ALT_B.DAT | UNIT | DESCRIPTION
+The whispering is all in your head.
+@@ 1126 | translate | UNITS/ITEMS/NETHERIM_01_HELMET_ALT_C.DAT | UNIT | DESCRIPTION
+The Valgang frighten their children with tales of Mother Night.
+@@ 1127 | translate | UNITS/ITEMS/NETHERIM_01_HELMET_ALT_SET.DAT | UNIT | DESCRIPTION
+The Cult of the Obscure secretly controlled the world.
+@@ 1128 | translate | UNITS/ITEMS/NETHERIM_01_PANTS.DAT | UNIT | DESCRIPTION
+They almost seem to absorb the light ...
+@@ 1129 | translate | UNITS/ITEMS/NETHERIM_01_PANTS_ALT_B.DAT | UNIT | DESCRIPTION
+"And the Potentate took the shadow as his, and went mad."
+@@ 1130 | translate | UNITS/ITEMS/NETHERIM_01_PANTS_ALT_C.DAT | UNIT | DESCRIPTION
+The way they feel on you is rather unsettling ...
+@@ 1131 | translate | UNITS/ITEMS/NETHERIM_01_PANTS_ALT_SET.DAT | UNIT | DESCRIPTION
+The Nameless Champion might actually have been multiple people.
+@@ 1132 | translate | UNITS/ITEMS/NETHERIM_01_RING_E.DAT | UNIT | DESCRIPTION
+Gathered in darkness, lost to light, ringed in madness, far from sight.
+@@ 1133 | translate | UNITS/ITEMS/NETHERIM_01_RING_E_ALT_B.DAT | UNIT | DESCRIPTION
+You have darkness wrapped around your little finger.
+@@ 1134 | translate | UNITS/ITEMS/NETHERIM_01_RING_E_ALT_C.DAT | UNIT | DESCRIPTION
+It feels like darkness, all around you ...
+@@ 1135 | translate | UNITS/ITEMS/NETHERIM_01_RING_F.DAT | UNIT | DESCRIPTION
+The Blackburnes ruled Silverisle for centuries.
+@@ 1136 | translate | UNITS/ITEMS/NETHERIM_01_RING_F_ALT_B.DAT | UNIT | DESCRIPTION
+The first Lady Blackburne received this ring as a wedding gift.
+@@ 1137 | translate | UNITS/ITEMS/NETHERIM_01_RING_F_ALT_C.DAT | UNIT | DESCRIPTION
+Lord Blackburne of Silverisle surrended this to the Emperor as a sign of fealty.
+@@ 1138 | translate | UNITS/ITEMS/NETHERIM_01_RING_I.DAT | UNIT | DESCRIPTION
+Doom waits in the shadows.
+@@ 1139 | translate | UNITS/ITEMS/NETHERIM_01_RING_I_ALT_B.DAT | UNIT | DESCRIPTION
+Shadows gather, shadows call.\nShadows circle, night soon fall.
+@@ 1140 | translate | UNITS/ITEMS/NETHERIM_01_RING_I_ALT_C.DAT | UNIT | DESCRIPTION
+Legends speak of "the Dark That Shatters the Stars."
+@@ 1141 | translate | UNITS/ITEMS/NETHERIM_01_RING_P.DAT | UNIT | DESCRIPTION
+The stone is like a little splinter of darkness.
+@@ 1142 | translate | UNITS/ITEMS/NETHERIM_01_RING_P_ALT_B.DAT | UNIT | DESCRIPTION
+A tiny splinter of gloom that gets on your finger and into your mind.
+@@ 1143 | translate | UNITS/ITEMS/NETHERIM_01_RING_P_ALT_C.DAT | UNIT | DESCRIPTION
+A shadow at your back, a thorn in your side.
+@@ 1144 | translate | UNITS/ITEMS/NETHERIM_01_SHOULDERS.DAT | UNIT | DESCRIPTION
+It is said that the wearer can hear the sound of a weeping Estherian coming from them.
+@@ 1145 | translate | UNITS/ITEMS/NETHERIM_01_SHOULDERS_ALT_B.DAT | UNIT | DESCRIPTION
+It contains the hopes and dreams of all its previous wearers.
+@@ 1146 | translate | UNITS/ITEMS/NETHERIM_01_SHOULDERS_ALT_C.DAT | UNIT | DESCRIPTION
+The stories say that Mother Night steals children and turns them into dolls.
+@@ 1147 | translate | UNITS/ITEMS/NETHERIM_01_SHOULDERS_ALT_SET.DAT | UNIT | DESCRIPTION
+The Cult of the Obscure vanished with the death of the Nameless Champion.
+@@ 1148 | translate | UNITS/ITEMS/NETHERIM_02_AMULET_E.DAT | UNIT | DESCRIPTION
+The Estherians speak of how the Laughing Wights murdered lone travelers in the Steppes.
+@@ 1149 | translate | UNITS/ITEMS/NETHERIM_02_AMULET_E_ALT_B.DAT | UNIT | DESCRIPTION
+"The Wyrd was fashioned into lightning, to strike their foes."
+@@ 1150 | translate | UNITS/ITEMS/NETHERIM_02_AMULET_E_ALT_C.DAT | UNIT | DESCRIPTION
+The Estherians created special weapons to battle the Laughing Wights.
+@@ 1151 | translate | UNITS/ITEMS/NETHERIM_02_AMULET_F.DAT | UNIT | DESCRIPTION
+It is said that when a specter is destroyed, it vanishes in a flare of ghostly light.
+@@ 1152 | translate | UNITS/ITEMS/NETHERIM_02_AMULET_F_ALT_B.DAT | UNIT | DESCRIPTION
+"The heart of a specter is a living thing." -- old proverb
+@@ 1153 | translate | UNITS/ITEMS/NETHERIM_02_AMULET_F_ALT_C.DAT | UNIT | DESCRIPTION
+The Laughing Wights gave off a kind of pale glow, known as "wightfire."
+@@ 1154 | translate | UNITS/ITEMS/NETHERIM_02_AMULET_I.DAT | UNIT | DESCRIPTION
+It looks into you, and sees your doubts and fears. And it whispers to you: "Doom."
+@@ 1155 | translate | UNITS/ITEMS/NETHERIM_02_AMULET_I_ALT_B.DAT | UNIT | DESCRIPTION
+A tiny gossamer wisp seems to dance deep within it.
+@@ 1156 | translate | UNITS/ITEMS/NETHERIM_02_AMULET_I_ALT_C.DAT | UNIT | DESCRIPTION
+It knows you can hear it.
+@@ 1157 | translate | UNITS/ITEMS/NETHERIM_02_AMULET_P.DAT | UNIT | DESCRIPTION
+"By fang and by claw, the Wyrd shaped the world."
+@@ 1158 | translate | UNITS/ITEMS/NETHERIM_02_AMULET_P_ALT_B.DAT | UNIT | DESCRIPTION
+Perhaps the only physical proof of the existence of the Laughing Wights.
+@@ 1159 | translate | UNITS/ITEMS/NETHERIM_02_AMULET_P_ALT_C.DAT | UNIT | DESCRIPTION
+Like a bite out of hell.
+@@ 1160 | translate | UNITS/ITEMS/NETHERIM_02_BELT.DAT | UNIT | DESCRIPTION
+"Those who wielded the Wyrd forged a symbol of their power."
+@@ 1161 | translate | UNITS/ITEMS/NETHERIM_02_BELT_ALT_B.DAT | UNIT | DESCRIPTION
+No mortal eyes have ever beheld such horror.
+@@ 1162 | translate | UNITS/ITEMS/NETHERIM_02_BELT_ALT_C.DAT | UNIT | DESCRIPTION
+Wearing it lends you a certain ghostly pallor.
+@@ 1163 | translate | UNITS/ITEMS/NETHERIM_02_BELT_ALT_SET.DAT | UNIT | DESCRIPTION
+"Fear the Incubus, for it has the power to cloud mortal minds."
+@@ 1164 | translate | UNITS/ITEMS/NETHERIM_02_BOOTS.DAT | UNIT | DESCRIPTION
+The Laughing Wights were said to drive their victims mad with fear.
+@@ 1165 | translate | UNITS/ITEMS/NETHERIM_02_BOOTS_ALT_B.DAT | UNIT | DESCRIPTION
+They just feel ... wrong, somehow ...
+@@ 1166 | translate | UNITS/ITEMS/NETHERIM_02_BOOTS_ALT_C.DAT | UNIT | DESCRIPTION
+When you wear them, you walk in someone else's footsteps.
+@@ 1167 | translate | UNITS/ITEMS/NETHERIM_02_BOOTS_ALT_SET.DAT | UNIT | DESCRIPTION
+When the Incubus was defeated, Empress Sirix fell dead.
+@@ 1168 | translate | UNITS/ITEMS/NETHERIM_02_CHEST.DAT | UNIT | DESCRIPTION
+The Grimknight led the grimlings on their invasion of the Goblin Marches.
+@@ 1169 | translate | UNITS/ITEMS/NETHERIM_02_CHEST_ALT_B.DAT | UNIT | DESCRIPTION
+The Estherians created this for their champion, who wiped out the Laughing Wights.
+@@ 1170 | translate | UNITS/ITEMS/NETHERIM_02_CHEST_ALT_C.DAT | UNIT | DESCRIPTION
+The Winter Wraith haunted the Frosted Hills for centuries.
+@@ 1171 | translate | UNITS/ITEMS/NETHERIM_02_CHEST_ALT_SET.DAT | UNIT | DESCRIPTION
+The Incubus drove Empress Sirix III completely insane.
+@@ 1172 | translate | UNITS/ITEMS/NETHERIM_02_GLOVES_ALT_B.DAT | UNIT | DESCRIPTION
+The grimlings drove all the way to Riddledeep before being turned back.
+@@ 1173 | translate | UNITS/ITEMS/NETHERIM_02_GLOVES_ALT_C.DAT | UNIT | DESCRIPTION
+The Bloodless Count rule from the Black Palace for centuries.
+@@ 1174 | translate | UNITS/ITEMS/NETHERIM_02_GLOVES_ALT_SET.DAT | UNIT | DESCRIPTION
+Watch those hands.
+@@ 1175 | translate | UNITS/ITEMS/NETHERIM_02_HELMET.DAT | UNIT | DESCRIPTION
+The Grimknight's helm was forged in the shape of a grinning demon.
+@@ 1176 | translate | UNITS/ITEMS/NETHERIM_02_HELMET_ALT_B.DAT | UNIT | DESCRIPTION
+"The Midnight King must never know your name." - old proverb
+@@ 1177 | translate | UNITS/ITEMS/NETHERIM_02_HELMET_ALT_C.DAT | UNIT | DESCRIPTION
+Said to have belonged to the King of the Laughing Wights.
+@@ 1178 | translate | UNITS/ITEMS/NETHERIM_02_HELMET_ALT_SET.DAT | UNIT | DESCRIPTION
+It fills your head with all manner of dark thoughts ...
+@@ 1179 | translate | UNITS/ITEMS/NETHERIM_02_PANTS.DAT | UNIT | DESCRIPTION
+It is said that the Netherim spawned mortal offspring.
+@@ 1180 | translate | UNITS/ITEMS/NETHERIM_02_PANTS_ALT_B.DAT | UNIT | DESCRIPTION
+Something in the darkness finds you ... entertaining.
+@@ 1181 | translate | UNITS/ITEMS/NETHERIM_02_PANTS_ALT_C.DAT | UNIT | DESCRIPTION
+For those of you who aren't comfortable in your own skins.
+@@ 1182 | translate | UNITS/ITEMS/NETHERIM_02_PANTS_ALT_SET.DAT | UNIT | DESCRIPTION
+The Incubus has appeared many times throughout history.
+@@ 1183 | translate | UNITS/ITEMS/NETHERIM_02_RING_E.DAT | UNIT | DESCRIPTION
+Necromius was Master of Tombs in Riddledeep for over a century.
+@@ 1184 | translate | UNITS/ITEMS/NETHERIM_02_RING_E_ALT_B.DAT | UNIT | DESCRIPTION
+The gemstone reflects an alien vista ... with things looking back at you.
+@@ 1185 | translate | UNITS/ITEMS/NETHERIM_02_RING_E_ALT_C.DAT | UNIT | DESCRIPTION
+All your deepest fears, exquisitely crafted in fine gold.
+@@ 1186 | translate | UNITS/ITEMS/NETHERIM_02_RING_F.DAT | UNIT | DESCRIPTION
+It burns with an otherworldly fire.
+@@ 1187 | translate | UNITS/ITEMS/NETHERIM_02_RING_F_ALT_B.DAT | UNIT | DESCRIPTION
+It burns with a ghostly flame.
+@@ 1188 | translate | UNITS/ITEMS/NETHERIM_02_RING_F_ALT_C.DAT | UNIT | DESCRIPTION
+"The Wyrd burned with a light that struck men mad."
+@@ 1189 | translate | UNITS/ITEMS/NETHERIM_02_RING_I.DAT | UNIT | DESCRIPTION
+"The Wyrd fragmented under the weight of their magic."
+@@ 1190 | translate | UNITS/ITEMS/NETHERIM_02_RING_I_ALT_B.DAT | UNIT | DESCRIPTION
+"The splinters of the Wyrd pierced the souls of broken men."
+@@ 1191 | translate | UNITS/ITEMS/NETHERIM_02_RING_I_ALT_C.DAT | UNIT | DESCRIPTION
+"When the Wyrd saw what the Theurges had done to it, it was filled with rage."
+@@ 1192 | translate | UNITS/ITEMS/NETHERIM_02_RING_P.DAT | UNIT | DESCRIPTION
+It contains the essence of a hungry ghost.
+@@ 1193 | translate | UNITS/ITEMS/NETHERIM_02_RING_P_ALT_B.DAT | UNIT | DESCRIPTION
+Merely touching it sends a shiver down your spine.
+@@ 1194 | translate | UNITS/ITEMS/NETHERIM_02_RING_P_ALT_C.DAT | UNIT | DESCRIPTION
+It makes your blood run cold.
+@@ 1195 | translate | UNITS/ITEMS/NETHERIM_02_SHOULDERS.DAT | UNIT | DESCRIPTION
+Wearing them feels like having a cold, dead hand clutching your shoulder.
+@@ 1196 | translate | UNITS/ITEMS/NETHERIM_02_SHOULDERS_ALT_B.DAT | UNIT | DESCRIPTION
+You've got a good head on your shoulders.  Two, actually.
+@@ 1197 | translate | UNITS/ITEMS/NETHERIM_02_SHOULDERS_ALT_C.DAT | UNIT | DESCRIPTION
+"He who laughs at the dead takes up the mantle of the Laughing Wights."
+@@ 1198 | translate | UNITS/ITEMS/NETHERIM_02_SHOULDERS_ALT_SET.DAT | UNIT | DESCRIPTION
+The Incubus has not appeared since the death of Empress Sirix.
+@@ 1199 | translate | UNITS/ITEMS/PISTOLS/LEGENDARY_PISTOL01.DAT | UNIT | DESCRIPTION
+Legendary Pistol Collection\nNumber One of Five
+@@ 1200 | translate | UNITS/ITEMS/PISTOLS/LEGENDARY_PISTOL02.DAT | UNIT | DESCRIPTION
+Legendary Pistol Collection\nNumber Two of Five
+@@ 1201 | translate | UNITS/ITEMS/PISTOLS/LEGENDARY_PISTOL03.DAT | UNIT | DESCRIPTION
+Legendary Pistol Collection\nNumber Three of Five
+@@ 1202 | translate | UNITS/ITEMS/PISTOLS/LEGENDARY_PISTOL04.DAT | UNIT | DESCRIPTION
+Legendary Pistol Collection\nNumber Four of Five
+@@ 1203 | translate | UNITS/ITEMS/PISTOLS/LEGENDARY_PISTOL05.DAT | UNIT | DESCRIPTION
+Is it a pistol, or a shotgonne?\n\nLegendary Pistol Collection\nNumber Five of Five
+@@ 1204 | translate | UNITS/ITEMS/PISTOLS/PISTOL_U01.DAT | UNIT | DESCRIPTION
+I feel like I'm going to break this thing!
+@@ 1205 | translate | UNITS/ITEMS/PISTOLS/PISTOL_U01B.DAT | UNIT | DESCRIPTION
+It tears holes in webs ... and the things that make them.
+@@ 1206 | translate | UNITS/ITEMS/PISTOLS/PISTOL_U01C.DAT | UNIT | DESCRIPTION
+Never start anything you can't finish.
+@@ 1207 | translate | UNITS/ITEMS/PISTOLS/PISTOL_U02.DAT | UNIT | DESCRIPTION
+Kills zombies dead!
+@@ 1208 | translate | UNITS/ITEMS/PISTOLS/PISTOL_U02B.DAT | UNIT | DESCRIPTION
+Say hello!
+@@ 1209 | translate | UNITS/ITEMS/PISTOLS/PISTOL_U02C.DAT | UNIT | DESCRIPTION
+Always a hit at parties!
+@@ 1210 | translate | UNITS/ITEMS/PISTOLS/PISTOL_U03.DAT | UNIT | DESCRIPTION
+Let's get down to it ...
+@@ 1211 | translate | UNITS/ITEMS/PISTOLS/PISTOL_U03B.DAT | UNIT | DESCRIPTION
+Someone's going to need to suck the poison out ...
+@@ 1212 | translate | UNITS/ITEMS/PISTOLS/PISTOL_U03C.DAT | UNIT | DESCRIPTION
+This'll make their ears ring ...
+@@ 1213 | translate | UNITS/ITEMS/PISTOLS/PISTOL_U03_SET_BULLETFIST.DAT | UNIT | DESCRIPTION
+They'll never know what hit 'em ... or from where.
+@@ 1214 | translate | UNITS/ITEMS/PISTOLS/PISTOL_U04.DAT | UNIT | DESCRIPTION
+The Tu'tara will curse your name.
+@@ 1215 | translate | UNITS/ITEMS/PISTOLS/PISTOL_U04B.DAT | UNIT | DESCRIPTION
+What is it, boy? Is it danger?
+@@ 1216 | translate | UNITS/ITEMS/PISTOLS/PISTOL_U04C.DAT | UNIT | DESCRIPTION
+A close-up weapon, for when things get ... hairy.
+@@ 1217 | translate | UNITS/ITEMS/PISTOLS/PISTOL_U05.DAT | UNIT | DESCRIPTION
+I'm afraid this is going to hurt ... quite a lot.
+@@ 1218 | translate | UNITS/ITEMS/PISTOLS/PISTOL_U05B.DAT | UNIT | DESCRIPTION
+Wound them with your words.\nAnd by "words," I mean "bullets."
+@@ 1219 | translate | UNITS/ITEMS/PISTOLS/PISTOL_U05C.DAT | UNIT | DESCRIPTION
+It's got a great beat, and you can dance to it.
+@@ 1220 | translate | UNITS/ITEMS/PISTOLS/PISTOL_U05_SET_SOLIMA.DAT | UNIT | DESCRIPTION
+Because the foes you really hate can never be dead enough.
+@@ 1221 | translate | UNITS/ITEMS/PISTOLS/PISTOL_U05_SET_SOLIMA2.DAT | UNIT | DESCRIPTION
+Four barrels ... for when you just cannot wait for your foes to be dead.
+@@ 1222 | translate | UNITS/ITEMS/PISTOLS/PISTOL_U06.DAT | UNIT | DESCRIPTION
+"The Gun That Will Tame Vilderan!" - old advertisement
+@@ 1223 | translate | UNITS/ITEMS/PISTOLS/PISTOL_U06B.DAT | UNIT | DESCRIPTION
+"Don't Battle an Automaton Without It!" - old advertisement
+@@ 1224 | translate | UNITS/ITEMS/PISTOLS/PISTOL_U06C.DAT | UNIT | DESCRIPTION
+"The Deadliest Handgun Ever Made!" - old advertisement
+@@ 1225 | translate | UNITS/ITEMS/PISTOLS/PISTOL_U07.DAT | UNIT | DESCRIPTION
+Banned in six kingdoms.
+@@ 1226 | translate | UNITS/ITEMS/PISTOLS/PISTOL_U07B.DAT | UNIT | DESCRIPTION
+Only two things are sure in the world: death and taxes.
+@@ 1227 | translate | UNITS/ITEMS/PISTOLS/PISTOL_U07C.DAT | UNIT | DESCRIPTION
+Do you feel lucky?\nWell, do you, punk?
+@@ 1228 | translate | UNITS/ITEMS/PISTOLS/ZZZ_GRELLS_PISTOL2.DAT | UNIT | DESCRIPTION
+Grell lost it. You found it.
+@@ 1229 | translate | UNITS/ITEMS/POLEARMS/LEGENDARY_POLEARM01.DAT | UNIT | DESCRIPTION
+Legendary Polearm Collection\nNumber One of Three
+@@ 1230 | translate | UNITS/ITEMS/POLEARMS/LEGENDARY_POLEARM02.DAT | UNIT | DESCRIPTION
+Legendary Polearm Collection\nNumber Two of Three
+@@ 1231 | translate | UNITS/ITEMS/POLEARMS/LEGENDARY_POLEARM03.DAT | UNIT | DESCRIPTION
+Legendary Polearm Collection\nNumber Three of Three
+@@ 1232 | translate | UNITS/ITEMS/POLEARMS/POLEARM_U01.DAT | UNIT | DESCRIPTION
+You've got this battle all sewn up!
+@@ 1233 | translate | UNITS/ITEMS/POLEARMS/POLEARM_U01B.DAT | UNIT | DESCRIPTION
+The weapon that won the War for the Giantlands.
+@@ 1234 | translate | UNITS/ITEMS/POLEARMS/POLEARM_U01C.DAT | UNIT | DESCRIPTION
+Show a little hate.
+@@ 1235 | translate | UNITS/ITEMS/POLEARMS/POLEARM_U02.DAT | UNIT | DESCRIPTION
+It was used to slay the Eight-Legged Lord, in the Frosted Hills.
+@@ 1236 | translate | UNITS/ITEMS/POLEARMS/POLEARM_U02B.DAT | UNIT | DESCRIPTION
+Sometimes, you just have to burn out the infection.
+@@ 1237 | translate | UNITS/ITEMS/POLEARMS/POLEARM_U02C.DAT | UNIT | DESCRIPTION
+Even after a thousand years, the dwarven runes look new.
+@@ 1238 | translate | UNITS/ITEMS/POLEARMS/POLEARM_U03.DAT | UNIT | DESCRIPTION
+"The Caliph smote the spirits, and his blade was as fire to kindling." - History of the Ezrohir
+@@ 1239 | translate | UNITS/ITEMS/POLEARMS/POLEARM_U03B.DAT | UNIT | DESCRIPTION
+"Fate strikes with a twisted blade." - Zeraphi proverb
+@@ 1240 | translate | UNITS/ITEMS/POLEARMS/POLEARM_U03C.DAT | UNIT | DESCRIPTION
+Thrust, twist, pull. It's based on a tool for mummification.
+@@ 1241 | translate | UNITS/ITEMS/POLEARMS/POLEARM_U04.DAT | UNIT | DESCRIPTION
+This is the only one of the Brassblades known to have survived the Mana Wars.
+@@ 1242 | translate | UNITS/ITEMS/POLEARMS/POLEARM_U04B.DAT | UNIT | DESCRIPTION
+Just when they thought it was safe to go back to war.
+@@ 1243 | translate | UNITS/ITEMS/POLEARMS/POLEARM_U04C.DAT | UNIT | DESCRIPTION
+Kill anything that moves.
+@@ 1244 | translate | UNITS/ITEMS/POLEARMS/POLEARM_U05.DAT | UNIT | DESCRIPTION
+Made from the only known specimen of Bluefire Ember.
+@@ 1245 | translate | UNITS/ITEMS/POLEARMS/POLEARM_U05B.DAT | UNIT | DESCRIPTION
+Don't stop fighting until the battle is won.
+@@ 1246 | translate | UNITS/ITEMS/POLEARMS/POLEARM_U05C.DAT | UNIT | DESCRIPTION
+The blade's surface shimmers and ripples in the heat.
+@@ 1247 | translate | UNITS/ITEMS/POLEARMS/POLEARM_U06.DAT | UNIT | DESCRIPTION
+Forged specifically to slay the Ummglour Troll.
+@@ 1248 | translate | UNITS/ITEMS/POLEARMS/POLEARM_U06B.DAT | UNIT | DESCRIPTION
+Forged for those foes with particularly thick skins ...
+@@ 1249 | translate | UNITS/ITEMS/POLEARMS/POLEARM_U06C.DAT | UNIT | DESCRIPTION
+Cut your biggest foes down to size.
+@@ 1250 | translate | UNITS/ITEMS/POLEARMS/POLEARM_U07.DAT | UNIT | DESCRIPTION
+Created from the shards a mysterious ember fallen from heaven.
+@@ 1251 | translate | UNITS/ITEMS/POLEARMS/POLEARM_U07B.DAT | UNIT | DESCRIPTION
+A burst of steam at the right moment impels the head deeper into your foe's body.
+@@ 1252 | translate | UNITS/ITEMS/POLEARMS/POLEARM_U07C.DAT | UNIT | DESCRIPTION
+The spear is willing, and flesh is weak.
+@@ 1253 | translate | UNITS/ITEMS/POLEARMS/POLEARM_VANQ01.DAT | UNIT | DESCRIPTION
+this is a monster prop, do not spawn
+@@ 1254 | translate | UNITS/ITEMS/PONYA_01_AMULET_E.DAT | UNIT | DESCRIPTION
+The prized possession of the legendary "Gentleman Sage."
+@@ 1255 | translate | UNITS/ITEMS/PONYA_01_AMULET_E_ALT_B.DAT | UNIT | DESCRIPTION
+The inscription reads: "Humor is a valid strategy."
+@@ 1256 | translate | UNITS/ITEMS/PONYA_01_AMULET_E_ALT_C.DAT | UNIT | DESCRIPTION
+Given to Lord Hardy by his loving family.
+@@ 1257 | translate | UNITS/ITEMS/PONYA_01_AMULET_E_ALT_SET.DAT | UNIT | DESCRIPTION
+Many believe this amulet is the key to the Commodore's treasure.
+@@ 1258 | translate | UNITS/ITEMS/PONYA_01_AMULET_F.DAT | UNIT | DESCRIPTION
+Always remember to make time for gaming.
+@@ 1259 | translate | UNITS/ITEMS/PONYA_01_AMULET_F_ALT_B.DAT | UNIT | DESCRIPTION
+"A life without games is a life without pleasure." - proverb
+@@ 1260 | translate | UNITS/ITEMS/PONYA_01_AMULET_F_ALT_C.DAT | UNIT | DESCRIPTION
+The Fetcher King was a master strategist of the Zeraphi.
+@@ 1261 | translate | UNITS/ITEMS/PONYA_01_AMULET_I.DAT | UNIT | DESCRIPTION
+This necklace includes a small piece from an ancient game.
+@@ 1262 | translate | UNITS/ITEMS/PONYA_01_AMULET_I_ALT_B.DAT | UNIT | DESCRIPTION
+It incorporates a curved sliver of ivory, shaped like an elephant's tusk.
+@@ 1263 | translate | UNITS/ITEMS/PONYA_01_AMULET_I_ALT_C.DAT | UNIT | DESCRIPTION
+A relic of the Sargonian royal dynasty.
+@@ 1264 | translate | UNITS/ITEMS/PONYA_01_AMULET_P.DAT | UNIT | DESCRIPTION
+The ancients practiced Ponga as a test of their reflexes.
+@@ 1265 | translate | UNITS/ITEMS/PONYA_01_AMULET_P_ALT_B.DAT | UNIT | DESCRIPTION
+The dreaded Pacma devoured everything in its path.
+@@ 1266 | translate | UNITS/ITEMS/PONYA_01_AMULET_P_ALT_C.DAT | UNIT | DESCRIPTION
+The Wumpus was once hunted all across the land.
+@@ 1267 | translate | UNITS/ITEMS/PONYA_01_BELT.DAT | UNIT | DESCRIPTION
+It bears the symbols of the Cross and Circle sect.
+@@ 1268 | translate | UNITS/ITEMS/PONYA_01_BELT_ALT_B.DAT | UNIT | DESCRIPTION
+The leather is decorated with the Liubo family crest.
+@@ 1269 | translate | UNITS/ITEMS/PONYA_01_BELT_ALT_C.DAT | UNIT | DESCRIPTION
+The belt is decorated with tiles of bone.
+@@ 1270 | translate | UNITS/ITEMS/PONYA_01_BELT_ALT_SET.DAT | UNIT | DESCRIPTION
+The markings tell the tale of Commodore Astrovulpus.
+@@ 1271 | translate | UNITS/ITEMS/PONYA_01_BOOTS.DAT | UNIT | DESCRIPTION
+Worn by the champion of the Ponya, the "Peace-Bringer."
+@@ 1272 | translate | UNITS/ITEMS/PONYA_01_BOOTS_ALT_B.DAT | UNIT | DESCRIPTION
+The infamous "Dog" fell just shy of making a name for himself.
+@@ 1273 | translate | UNITS/ITEMS/PONYA_01_BOOTS_ALT_C.DAT | UNIT | DESCRIPTION
+Dog was wearing these boots when he fell in battle against the Varkolyn Heirophant.
+@@ 1274 | translate | UNITS/ITEMS/PONYA_01_BOOTS_ALT_ROHAC.DAT | UNIT | DESCRIPTION
+For those who are "more than heroes."
+@@ 1275 | translate | UNITS/ITEMS/PONYA_01_BOOTS_ALT_SET.DAT | UNIT | DESCRIPTION
+Those who knew Astrovulpus remember him fondly.
+@@ 1276 | translate | UNITS/ITEMS/PONYA_01_CHEST.DAT | UNIT | DESCRIPTION
+The beastlings are little more than a myth now.
+@@ 1277 | translate | UNITS/ITEMS/PONYA_01_CHEST_ALT_B.DAT | UNIT | DESCRIPTION
+The Ponya Peace-Bringer was a combination of monarch and marshal.
+@@ 1278 | translate | UNITS/ITEMS/PONYA_01_CHEST_ALT_C.DAT | UNIT | DESCRIPTION
+Worn by the infamous Bamboo Bandit of the Nine-Kings Provinces.

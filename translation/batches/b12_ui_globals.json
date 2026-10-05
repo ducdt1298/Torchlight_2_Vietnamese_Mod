@@ -1,0 +1,4296 @@
+{
+ "batch": "b12_ui_globals",
+ "count": 715,
+ "items": [
+  {
+   "id": 5065,
+   "mode": "translate",
+   "ctx": "EMOTES/EMOTES.DAT | EMOTE | CHAT_TEXT_FEMALE",
+   "en": "|cFFF5DB94[PLAYERNAME] palms her face in consternation.|u"
+  },
+  {
+   "id": 5066,
+   "mode": "translate",
+   "ctx": "EMOTES/EMOTES.DAT | EMOTE | CHAT_TEXT_FEMALE",
+   "en": "|cFFF5DB94[PLAYERNAME] shows her guns.|u"
+  },
+  {
+   "id": 5067,
+   "mode": "translate",
+   "ctx": "EMOTES/EMOTES.DAT | EMOTE | CHAT_TEXT_MALE",
+   "en": "|cFFEAAA15[PLAYERNAME] rolls [RAND_INT_0_100].|u"
+  },
+  {
+   "id": 5068,
+   "mode": "translate",
+   "ctx": "EMOTES/EMOTES.DAT | EMOTE | CHAT_TEXT_MALE",
+   "en": "|cFFF5DB94[PLAYERNAME] Claps slowly with irony.|u"
+  },
+  {
+   "id": 5069,
+   "mode": "translate",
+   "ctx": "EMOTES/EMOTES.DAT | EMOTE | CHAT_TEXT_MALE",
+   "en": "|cFFF5DB94[PLAYERNAME] beckons you to follow.|u"
+  },
+  {
+   "id": 5070,
+   "mode": "translate",
+   "ctx": "EMOTES/EMOTES.DAT | EMOTE | CHAT_TEXT_MALE",
+   "en": "|cFFF5DB94[PLAYERNAME] blows a kiss.|u"
+  },
+  {
+   "id": 5071,
+   "mode": "translate",
+   "ctx": "EMOTES/EMOTES.DAT | EMOTE | CHAT_TEXT_MALE",
+   "en": "|cFFF5DB94[PLAYERNAME] bows.|u"
+  },
+  {
+   "id": 5072,
+   "mode": "translate",
+   "ctx": "EMOTES/EMOTES.DAT | EMOTE | CHAT_TEXT_MALE",
+   "en": "|cFFF5DB94[PLAYERNAME] burps.|u"
+  },
+  {
+   "id": 5073,
+   "mode": "translate",
+   "ctx": "EMOTES/EMOTES.DAT | EMOTE | CHAT_TEXT_MALE",
+   "en": "|cFFF5DB94[PLAYERNAME] coughs.|u"
+  },
+  {
+   "id": 5074,
+   "mode": "translate",
+   "ctx": "EMOTES/EMOTES.DAT | EMOTE | CHAT_TEXT_MALE",
+   "en": "|cFFF5DB94[PLAYERNAME] dances brokenly.|u"
+  },
+  {
+   "id": 5075,
+   "mode": "translate",
+   "ctx": "EMOTES/EMOTES.DAT | EMOTE | CHAT_TEXT_MALE",
+   "en": "|cFFF5DB94[PLAYERNAME] dances.|u"
+  },
+  {
+   "id": 5076,
+   "mode": "translate",
+   "ctx": "EMOTES/EMOTES.DAT | EMOTE | CHAT_TEXT_MALE",
+   "en": "|cFFF5DB94[PLAYERNAME] despairs.|u"
+  },
+  {
+   "id": 5077,
+   "mode": "translate",
+   "ctx": "EMOTES/EMOTES.DAT | EMOTE | CHAT_TEXT_MALE",
+   "en": "|cFFF5DB94[PLAYERNAME] has no clue.|u"
+  },
+  {
+   "id": 5078,
+   "mode": "translate",
+   "ctx": "EMOTES/EMOTES.DAT | EMOTE | CHAT_TEXT_MALE",
+   "en": "|cFFF5DB94[PLAYERNAME] is trolling Justin!|u"
+  },
+  {
+   "id": 5079,
+   "mode": "translate",
+   "ctx": "EMOTES/EMOTES.DAT | EMOTE | CHAT_TEXT_MALE",
+   "en": "|cFFF5DB94[PLAYERNAME] is very regretful of a recent action.|u"
+  },
+  {
+   "id": 5080,
+   "mode": "translate",
+   "ctx": "EMOTES/EMOTES.DAT | EMOTE | CHAT_TEXT_MALE",
+   "en": "|cFFF5DB94[PLAYERNAME] is victorious!|u"
+  },
+  {
+   "id": 5081,
+   "mode": "translate",
+   "ctx": "EMOTES/EMOTES.DAT | EMOTE | CHAT_TEXT_MALE",
+   "en": "|cFFF5DB94[PLAYERNAME] laughs.|u"
+  },
+  {
+   "id": 5082,
+   "mode": "translate",
+   "ctx": "EMOTES/EMOTES.DAT | EMOTE | CHAT_TEXT_MALE",
+   "en": "|cFFF5DB94[PLAYERNAME] palms his face in consternation.|u"
+  },
+  {
+   "id": 5083,
+   "mode": "translate",
+   "ctx": "EMOTES/EMOTES.DAT | EMOTE | CHAT_TEXT_MALE",
+   "en": "|cFFF5DB94[PLAYERNAME] rocks out on the kit.|u"
+  },
+  {
+   "id": 5084,
+   "mode": "translate",
+   "ctx": "EMOTES/EMOTES.DAT | EMOTE | CHAT_TEXT_MALE",
+   "en": "|cFFF5DB94[PLAYERNAME] rocks out on the lute.|u"
+  },
+  {
+   "id": 5085,
+   "mode": "translate",
+   "ctx": "EMOTES/EMOTES.DAT | EMOTE | CHAT_TEXT_MALE",
+   "en": "|cFFF5DB94[PLAYERNAME] salutes.|u"
+  },
+  {
+   "id": 5086,
+   "mode": "translate",
+   "ctx": "EMOTES/EMOTES.DAT | EMOTE | CHAT_TEXT_MALE",
+   "en": "|cFFF5DB94[PLAYERNAME] says \"oops.\"|u"
+  },
+  {
+   "id": 5087,
+   "mode": "translate",
+   "ctx": "EMOTES/EMOTES.DAT | EMOTE | CHAT_TEXT_MALE",
+   "en": "|cFFF5DB94[PLAYERNAME] shows his guns.|u"
+  },
+  {
+   "id": 5088,
+   "mode": "translate",
+   "ctx": "EMOTES/EMOTES.DAT | EMOTE | CHAT_TEXT_MALE",
+   "en": "|cFFF5DB94[PLAYERNAME] slaps a face.|u"
+  },
+  {
+   "id": 5089,
+   "mode": "translate",
+   "ctx": "EMOTES/EMOTES.DAT | EMOTE | CHAT_TEXT_MALE",
+   "en": "|cFFF5DB94[PLAYERNAME] starts crying.|u"
+  },
+  {
+   "id": 5090,
+   "mode": "translate",
+   "ctx": "EMOTES/EMOTES.DAT | EMOTE | CHAT_TEXT_MALE",
+   "en": "|cFFF5DB94[PLAYERNAME] taunts.|u"
+  },
+  {
+   "id": 5091,
+   "mode": "translate",
+   "ctx": "EMOTES/EMOTES.DAT | EMOTE | CHAT_TEXT_MALE",
+   "en": "|cFFF5DB94[PLAYERNAME] tries to jump but can't.|u"
+  },
+  {
+   "id": 5092,
+   "mode": "translate",
+   "ctx": "EMOTES/EMOTES.DAT | EMOTE | CHAT_TEXT_MALE",
+   "en": "|cFFF5DB94[PLAYERNAME][COMMAND_PARAM]|u"
+  },
+  {
+   "id": 5093,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #001942a5",
+   "en": "Cannot enchant item"
+  },
+  {
+   "id": 5094,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #00541521",
+   "en": "Console commands used."
+  },
+  {
+   "id": 5095,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #0067ad93",
+   "en": "mins"
+  },
+  {
+   "id": 5096,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #00689c33",
+   "en": "secs"
+  },
+  {
+   "id": 5097,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #0068eb38",
+   "en": "Unblocked [CHARACTERNAME]."
+  },
+  {
+   "id": 5098,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #03a7c317",
+   "en": "You were kicked from the game!"
+  },
+  {
+   "id": 5099,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #04c537c0",
+   "en": "Invalid username or password"
+  },
+  {
+   "id": 5100,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #04c537c0",
+   "en": "Invalid username or password\\\\nor\\\\naccount not associated with purchase"
+  },
+  {
+   "id": 5101,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #04c537c0",
+   "en": "Invalid username or password\\nor\\naccount not associated with purchase"
+  },
+  {
+   "id": 5102,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #06bf07a1",
+   "en": "|cFFFF0000Unable to load because specific mods are missing( see mod details ).|u"
+  },
+  {
+   "id": 5103,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #06d75cda",
+   "en": "Place item here to pass down"
+  },
+  {
+   "id": 5104,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #08944773",
+   "en": "Fastest Attack Speed"
+  },
+  {
+   "id": 5105,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #09da6d7d",
+   "en": "s"
+  },
+  {
+   "id": 5106,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #0a39a7b3",
+   "en": "Slowest Attack Speed"
+  },
+  {
+   "id": 5107,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #0aab5c5a",
+   "en": "You caught nothing"
+  },
+  {
+   "id": 5108,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #0aab5c5a",
+   "en": "You caught nothing!"
+  },
+  {
+   "id": 5109,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #0b9d9454",
+   "en": "Failed to block - invalid name!"
+  },
+  {
+   "id": 5110,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #0bbac33f",
+   "en": "Whisper sent."
+  },
+  {
+   "id": 5111,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #0c71d952",
+   "en": "Deaths"
+  },
+  {
+   "id": 5112,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #0c8c1dbf",
+   "en": "Login failed"
+  },
+  {
+   "id": 5113,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #0db3724b",
+   "en": "Unable to connect to authentication server"
+  },
+  {
+   "id": 5114,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #0db3724b",
+   "en": "Unable to connect to authentication server."
+  },
+  {
+   "id": 5115,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #0e1606cc",
+   "en": "Gold Gathered"
+  },
+  {
+   "id": 5116,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #0e16d0de",
+   "en": "Recover"
+  },
+  {
+   "id": 5117,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #0e638ec8",
+   "en": "Death"
+  },
+  {
+   "id": 5118,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #0ef3b8e5",
+   "en": "melee"
+  },
+  {
+   "id": 5119,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #113e6c1c",
+   "en": "Time played per level is too short."
+  },
+  {
+   "id": 5120,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #143618d0",
+   "en": "2-handed"
+  },
+  {
+   "id": 5121,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #1502fec9",
+   "en": "as Poison Damage"
+  },
+  {
+   "id": 5122,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #15ff5212",
+   "en": "Failed to vote kick - invalid name!"
+  },
+  {
+   "id": 5123,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #16163409",
+   "en": "requires Dexterity"
+  },
+  {
+   "id": 5124,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #17c8e95a",
+   "en": "Press 'Destroy' to destroy gems"
+  },
+  {
+   "id": 5125,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #19c82637",
+   "en": "Shift-click to buy"
+  },
+  {
+   "id": 5126,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #1b74d1ef",
+   "en": "Unknown mod: "
+  },
+  {
+   "id": 5127,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #1c6c33ed",
+   "en": "Map Monster Affixes"
+  },
+  {
+   "id": 5128,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #1c7648eb",
+   "en": "Failed to remove friend - invalid name!"
+  },
+  {
+   "id": 5129,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #1f3937d0",
+   "en": "Charm Spell"
+  },
+  {
+   "id": 5130,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #1f8657ff",
+   "en": "Return to Portal"
+  },
+  {
+   "id": 5131,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #203614e5",
+   "en": "ranged"
+  },
+  {
+   "id": 5132,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #207b2e04",
+   "en": "Retire"
+  },
+  {
+   "id": 5133,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #21cd2f9a",
+   "en": "Fame Increased"
+  },
+  {
+   "id": 5134,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #21e0f1da",
+   "en": "as Physical Damage"
+  },
+  {
+   "id": 5135,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #21f2ee9a",
+   "en": "Physical Damage"
+  },
+  {
+   "id": 5136,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #2210758c",
+   "en": "You are now flagged for PvP."
+  },
+  {
+   "id": 5137,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #2271c7b8",
+   "en": "per second"
+  },
+  {
+   "id": 5138,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #25d885c9",
+   "en": "Connected successfully."
+  },
+  {
+   "id": 5139,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #2860dff6",
+   "en": "Your pet cannot depart from here!"
+  },
+  {
+   "id": 5140,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #28cb9697",
+   "en": "Right-click to equip"
+  },
+  {
+   "id": 5141,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #2a78437b",
+   "en": "Resurrect here, but lose [XP] Experience and [FAME] Fame."
+  },
+  {
+   "id": 5142,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #2afe4ece",
+   "en": "Click for Social Options"
+  },
+  {
+   "id": 5143,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #2d2a8fde",
+   "en": "single handed melee"
+  },
+  {
+   "id": 5144,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #2df30724",
+   "en": "as Fire Damage"
+  },
+  {
+   "id": 5145,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #2f04f06d",
+   "en": "Hold [CTRL] and left-click to"
+  },
+  {
+   "id": 5146,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #3132fbde",
+   "en": "Failed to whisper - invalid name!"
+  },
+  {
+   "id": 5147,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #3286ac03",
+   "en": "[CHARACTERNAME] is not suspicious."
+  },
+  {
+   "id": 5148,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #335bb07f",
+   "en": "[CHARACTERNAME] is suspicious"
+  },
+  {
+   "id": 5149,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #34bfc215",
+   "en": "Character is un-playable because it was created with an unknown mod. Mod Guid: "
+  },
+  {
+   "id": 5150,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #355e90d5",
+   "en": "No Active Portal"
+  },
+  {
+   "id": 5151,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #358c8374",
+   "en": "Press 'Enchant' to receive a random effect"
+  },
+  {
+   "id": 5152,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #35e52b30",
+   "en": "You plunge the"
+  },
+  {
+   "id": 5153,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #3651cb51",
+   "en": "Press 'Recover' to recover gems"
+  },
+  {
+   "id": 5154,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #37887c93",
+   "en": "Items Enchanted"
+  },
+  {
+   "id": 5155,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #387e2b67",
+   "en": "has unblocked you."
+  },
+  {
+   "id": 5156,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #389b6afc",
+   "en": "[CHARACTERNAME1] voted to kick [CHARACTERNAME2] from the game."
+  },
+  {
+   "id": 5157,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #392c040f",
+   "en": "Shift-click to sell"
+  },
+  {
+   "id": 5158,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #3985ed7f",
+   "en": "Players and Pets"
+  },
+  {
+   "id": 5159,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #3985ed7f",
+   "en": "Players and Pets:"
+  },
+  {
+   "id": 5160,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #3ae855bd",
+   "en": "Glancing Blow"
+  },
+  {
+   "id": 5161,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #3d8fa832",
+   "en": "Attempts Remaining"
+  },
+  {
+   "id": 5162,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #4086050d",
+   "en": "Waypoint Activated"
+  },
+  {
+   "id": 5163,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #40c4a384",
+   "en": "Barrels Broken"
+  },
+  {
+   "id": 5164,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #40d1b257",
+   "en": "Character Saved"
+  },
+  {
+   "id": 5165,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #40e3f6fa",
+   "en": "Average Attack Speed"
+  },
+  {
+   "id": 5166,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #40f6a268",
+   "en": "You cannot retire until you reach level "
+  },
+  {
+   "id": 5167,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #4413a9bf",
+   "en": "Left hand require"
+  },
+  {
+   "id": 5168,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #44eebdc5",
+   "en": " . Following items will be lost:\\n"
+  },
+  {
+   "id": 5169,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #46207d2f",
+   "en": "Block Chance"
+  },
+  {
+   "id": 5170,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #46abfdd4",
+   "en": "of Weapon Damage"
+  },
+  {
+   "id": 5171,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #4739cdd5",
+   "en": "Drag a spell here to learn it"
+  },
+  {
+   "id": 5172,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #4751c779",
+   "en": "You caught a"
+  },
+  {
+   "id": 5173,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #4817a3fb",
+   "en": "Fast Attack Speed"
+  },
+  {
+   "id": 5174,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #4bcd2cab",
+   "en": "Incorrect number of stat points."
+  },
+  {
+   "id": 5175,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #4bcd2f43",
+   "en": "Incorrect number of skill points."
+  },
+  {
+   "id": 5176,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #4d048f8b",
+   "en": "Offensive Spell"
+  },
+  {
+   "id": 5177,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #4f1a5573",
+   "en": "Ancestors:"
+  },
+  {
+   "id": 5178,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #4f65d8c1",
+   "en": "Set Item: "
+  },
+  {
+   "id": 5179,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #534af6b4",
+   "en": "No Tier upgrades available."
+  },
+  {
+   "id": 5180,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #54376e4f",
+   "en": "two handed"
+  },
+  {
+   "id": 5181,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #545efe85",
+   "en": " Following skills will be lost:\\n"
+  },
+  {
+   "id": 5182,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #553a03c1",
+   "en": "Voted to kick player [CHARACTERNAME] from game."
+  },
+  {
+   "id": 5183,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #553d6213",
+   "en": "Items Transmuted"
+  },
+  {
+   "id": 5184,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #56c5bf24",
+   "en": "was killed."
+  },
+  {
+   "id": 5185,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #592b77d7",
+   "en": "Warp to portal in "
+  },
+  {
+   "id": 5186,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #596716a8",
+   "en": "Very Slow Attack Speed"
+  },
+  {
+   "id": 5187,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #5a357d07",
+   "en": "Max sockets"
+  },
+  {
+   "id": 5188,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #5b772033",
+   "en": "Items Identified"
+  },
+  {
+   "id": 5189,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #5d05db9a",
+   "en": "has entered the area"
+  },
+  {
+   "id": 5190,
+   "mode": "translate",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #5d2c0ac4",
+   "en": "Resurrect in town and lose nothing."
+  },
+  {
+   "id": 5191,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #5da88d84",
+   "en": "No gems to recover"
+  },
+  {
+   "id": 5192,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #5dd272bf",
+   "en": "Potions Used"
+  },
+  {
+   "id": 5193,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #5e19ec54",
+   "en": "Left-Click to assign Skills or Items"
+  },
+  {
+   "id": 5194,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #5e60cc21",
+   "en": "but nothing happens"
+  },
+  {
+   "id": 5195,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #5f0672ce",
+   "en": "Incomplete"
+  },
+  {
+   "id": 5196,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #5f2611ce",
+   "en": "- Complete"
+  },
+  {
+   "id": 5197,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #60d5668a",
+   "en": "Not enough XP for current level."
+  },
+  {
+   "id": 5198,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #61b9c660",
+   "en": "Bad Map: Dungeon not found"
+  },
+  {
+   "id": 5199,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #62c87d00",
+   "en": "Attempting Connection"
+  },
+  {
+   "id": 5200,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #62c87d00",
+   "en": "Attempting connection"
+  },
+  {
+   "id": 5201,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #631ecfa0",
+   "en": "Unable to disconnect"
+  },
+  {
+   "id": 5202,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #633483d0",
+   "en": "Class Skill"
+  },
+  {
+   "id": 5203,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #6339c32e",
+   "en": "Maximum enchantments reached"
+  },
+  {
+   "id": 5204,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #647277f2",
+   "en": "and accidentally removes all enchantments"
+  },
+  {
+   "id": 5205,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #648dc7b3",
+   "en": "Requires item level"
+  },
+  {
+   "id": 5206,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #64b12989",
+   "en": "Press 'Retire' to pass down Heirloom"
+  },
+  {
+   "id": 5207,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #67f25e13",
+   "en": "Traps Sprung"
+  },
+  {
+   "id": 5208,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #685984ca",
+   "en": " Inventory spot missing, items will be lost:\\n"
+  },
+  {
+   "id": 5209,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #6937912c",
+   "en": "You are no longer flagged for PvP."
+  },
+  {
+   "id": 5210,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #699197af",
+   "en": "|cFFFF0000You were rejected for not meeting this game's level requirements.|u"
+  },
+  {
+   "id": 5211,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #6a3ab458",
+   "en": "Level is greater than maximum level."
+  },
+  {
+   "id": 5212,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #6b13c3c0",
+   "en": "Item(s) Identified"
+  },
+  {
+   "id": 5213,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #6b5758e6",
+   "en": "into the light"
+  },
+  {
+   "id": 5214,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #6bcd612f",
+   "en": "has disconnected."
+  },
+  {
+   "id": 5215,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #6c18178e",
+   "en": "Chest Armor"
+  },
+  {
+   "id": 5216,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #70ec7126",
+   "en": "Points Remaining"
+  },
+  {
+   "id": 5217,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #738eac7f",
+   "en": "Your quest log is full!"
+  },
+  {
+   "id": 5218,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #753bff77",
+   "en": "two-handed ranged"
+  },
+  {
+   "id": 5219,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #7657f6d3",
+   "en": "Skills/Spells Cast"
+  },
+  {
+   "id": 5220,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #76ec7890",
+   "en": "has blocked you."
+  },
+  {
+   "id": 5221,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #78693291",
+   "en": "Your next adventure will begin at Level"
+  },
+  {
+   "id": 5222,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #787b15d5",
+   "en": " Following monsters will not be created:\\n"
+  },
+  {
+   "id": 5223,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #7b066a4f",
+   "en": "Connecting to host..."
+  },
+  {
+   "id": 5224,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #7b3e8908",
+   "en": "Unable to disconnected"
+  },
+  {
+   "id": 5225,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #7b3f2ae8",
+   "en": "|cFFEAAA15Requires restart for mods to be installed.|u"
+  },
+  {
+   "id": 5226,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #7d048f9d",
+   "en": "Defensive Spell"
+  },
+  {
+   "id": 5227,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #7da2855c",
+   "en": "as Magical Damage"
+  },
+  {
+   "id": 5228,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #821b1ede",
+   "en": "Fish Caught"
+  },
+  {
+   "id": 5229,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #822b8427",
+   "en": "Failed to unblock - invalid name!"
+  },
+  {
+   "id": 5230,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #8778d23d",
+   "en": "Critical Chance"
+  },
+  {
+   "id": 5231,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #87e5ae4c",
+   "en": "Removed [CHARACTERNAME] as a friend!"
+  },
+  {
+   "id": 5232,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #87ea94bc",
+   "en": "You cannot open a Waypoint Portal here."
+  },
+  {
+   "id": 5233,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #891099d9",
+   "en": "and creates new sockets"
+  },
+  {
+   "id": 5234,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #8997a6a0",
+   "en": "Slow Attack Speed"
+  },
+  {
+   "id": 5235,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #8a150bc0",
+   "en": "Use an Identify Scroll to reveal enchantments or reach level"
+  },
+  {
+   "id": 5236,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #8ba3e0ab",
+   "en": "m"
+  },
+  {
+   "id": 5237,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #8bc0db04",
+   "en": "The item is destroyed, recovering the gems within"
+  },
+  {
+   "id": 5238,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #8cc60ad8",
+   "en": "are destroyed"
+  },
+  {
+   "id": 5239,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #8d56a444",
+   "en": "Connection failed: Version mismatch"
+  },
+  {
+   "id": 5240,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #8d590a78",
+   "en": "Connection failed: Incorrect password"
+  },
+  {
+   "id": 5241,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #8d5c83f4",
+   "en": "Connection failed: Blocked by player in game"
+  },
+  {
+   "id": 5242,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #8d5cb687",
+   "en": "Connection failed: Bad password"
+  },
+  {
+   "id": 5243,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #8d5e37b2",
+   "en": "Connection failed: Game full"
+  },
+  {
+   "id": 5244,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #8d5e37b2",
+   "en": "Connection failed: Game no longer exists"
+  },
+  {
+   "id": 5245,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #8f43f30f",
+   "en": "Max enchantments"
+  },
+  {
+   "id": 5246,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #93ae5891",
+   "en": "The enchanter adds a powerful enchantment!"
+  },
+  {
+   "id": 5247,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #93bd2e21",
+   "en": "I'm leaving to buy the full version of the game!"
+  },
+  {
+   "id": 5248,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #93dee711",
+   "en": "Right and left hands require"
+  },
+  {
+   "id": 5249,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #94403659",
+   "en": "Item must be identified before use"
+  },
+  {
+   "id": 5250,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #9710f381",
+   "en": "single handed ranged"
+  },
+  {
+   "id": 5251,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #9754da1a",
+   "en": "[CHARACTERNAME] was kicked from the game."
+  },
+  {
+   "id": 5252,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #9849d8c2",
+   "en": "<playername> is busy."
+  },
+  {
+   "id": 5253,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #98e713f3",
+   "en": "Very Fast Attack Speed"
+  },
+  {
+   "id": 5254,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #9a21d6f5",
+   "en": "Point Of Interest"
+  },
+  {
+   "id": 5255,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #9a5bd7f9",
+   "en": "two-handed melee"
+  },
+  {
+   "id": 5256,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #9c399561",
+   "en": "Quests Completed"
+  },
+  {
+   "id": 5257,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #9f3bcf44",
+   "en": "You caught a fish containing"
+  },
+  {
+   "id": 5258,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #a236ee31",
+   "en": "Automatically identified at level"
+  },
+  {
+   "id": 5259,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #a294daa0",
+   "en": "All Skills"
+  },
+  {
+   "id": 5260,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #a34392d2",
+   "en": "Steps Taken"
+  },
+  {
+   "id": 5261,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #a3a94644",
+   "en": "Blocked [CHARACTERNAME] from future games."
+  },
+  {
+   "id": 5262,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #a40140fb",
+   "en": "Right hand require"
+  },
+  {
+   "id": 5263,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #a867bbac",
+   "en": "as All Damage Types"
+  },
+  {
+   "id": 5264,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #a96ac39f",
+   "en": "Item Modified"
+  },
+  {
+   "id": 5265,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #ac1526ee",
+   "en": "Connected to host. Connecting to peers..."
+  },
+  {
+   "id": 5266,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #ad94a323",
+   "en": " not active. Inventory spot missing, items will be lost:\\n"
+  },
+  {
+   "id": 5267,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #add3478d",
+   "en": "Dual-wield only"
+  },
+  {
+   "id": 5268,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #addddf6d",
+   "en": "Times Gambled"
+  },
+  {
+   "id": 5269,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #af97d71e",
+   "en": "<playername> is already trading."
+  },
+  {
+   "id": 5270,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #af991663",
+   "en": "has removed you as a friend."
+  },
+  {
+   "id": 5271,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #afa340b3",
+   "en": "as Electric Damage"
+  },
+  {
+   "id": 5272,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #b15e6b51",
+   "en": "Has played modded games."
+  },
+  {
+   "id": 5273,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #b2b505f5",
+   "en": "No player with the given name exists in the current level."
+  },
+  {
+   "id": 5274,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #b5edd9a3",
+   "en": "requires Defense"
+  },
+  {
+   "id": 5275,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #b7fb649e",
+   "en": "Duel wield only"
+  },
+  {
+   "id": 5276,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #b8fc9b7a",
+   "en": "Added [CHARACTERNAME] as a friend!"
+  },
+  {
+   "id": 5277,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #bb2f338b",
+   "en": "Wrong Password"
+  },
+  {
+   "id": 5278,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #bb8b4150",
+   "en": "Chests Opened"
+  },
+  {
+   "id": 5279,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #c2b266b7",
+   "en": "Failed to send private message - invalid name!"
+  },
+  {
+   "id": 5280,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #c2f60b1a",
+   "en": "You attain the rank of"
+  },
+  {
+   "id": 5281,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #c2f60b1a",
+   "en": "You have attained the rank of"
+  },
+  {
+   "id": 5282,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #c4321462",
+   "en": "Conflict with Control"
+  },
+  {
+   "id": 5283,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #c4c5e12d",
+   "en": "Return to Town"
+  },
+  {
+   "id": 5284,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #c71ade96",
+   "en": "The gems within the"
+  },
+  {
+   "id": 5285,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #c8b9a7ac",
+   "en": "as Ice Damage"
+  },
+  {
+   "id": 5286,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #c9a4803b",
+   "en": "Cannot enchant"
+  },
+  {
+   "id": 5287,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #cac393e4",
+   "en": "Signed in"
+  },
+  {
+   "id": 5288,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #cba178d7",
+   "en": "Connection failed"
+  },
+  {
+   "id": 5289,
+   "mode": "translate",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #cbf21359",
+   "en": "Resurrect at the entrance to this area, but lose [GOLD] Gold."
+  },
+  {
+   "id": 5290,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #cbf21359",
+   "en": "Resurrect at the entrance to this floor, but lose [GOLD] Gold."
+  },
+  {
+   "id": 5291,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #cd3d18c8",
+   "en": "Combine ingredients\\\\nto learn"
+  },
+  {
+   "id": 5292,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #cd3d18c8",
+   "en": "Combine ingredients\\nto learn"
+  },
+  {
+   "id": 5293,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #ce98063e",
+   "en": "Enchant price:"
+  },
+  {
+   "id": 5294,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #d1be372b",
+   "en": "Restart required for mod(s): "
+  },
+  {
+   "id": 5295,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #d36fff35",
+   "en": "Unidentified items cannot be used-"
+  },
+  {
+   "id": 5296,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #d37db28c",
+   "en": "Monsters Defeated"
+  },
+  {
+   "id": 5297,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #d3e42e3e",
+   "en": "Damage per Second"
+  },
+  {
+   "id": 5298,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #d3e42e3e",
+   "en": "damage per second"
+  },
+  {
+   "id": 5299,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #d43618d0",
+   "en": "1-handed"
+  },
+  {
+   "id": 5300,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #d4377585",
+   "en": "one handed"
+  },
+  {
+   "id": 5301,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #d4ca4e0e",
+   "en": "Place item here to recover gems"
+  },
+  {
+   "id": 5302,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #d5a466a2",
+   "en": "requires Strength"
+  },
+  {
+   "id": 5303,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #d5aa0d6a",
+   "en": "Place item here to destroy gems"
+  },
+  {
+   "id": 5304,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #d5bfcef9",
+   "en": "Place item here to enchant"
+  },
+  {
+   "id": 5305,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #d7073ffc",
+   "en": "Heirloom"
+  },
+  {
+   "id": 5306,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #d726b8fc",
+   "en": "No item to pass down"
+  },
+  {
+   "id": 5307,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #d9d27454",
+   "en": "Portals Used"
+  },
+  {
+   "id": 5308,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #dca51cca",
+   "en": "No gems to destroy"
+  },
+  {
+   "id": 5309,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #ddeefd0a",
+   "en": "Current Rank"
+  },
+  {
+   "id": 5310,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #ded7bef4",
+   "en": "Demo Mode"
+  },
+  {
+   "id": 5311,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #defb12c6",
+   "en": "Levels Explored"
+  },
+  {
+   "id": 5312,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #e0628f6b",
+   "en": "of Weapon DPS"
+  },
+  {
+   "id": 5313,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #e09e0d95",
+   "en": "Un-learn this spell"
+  },
+  {
+   "id": 5314,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #e11fe67b",
+   "en": "h"
+  },
+  {
+   "id": 5315,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #e12d3b72",
+   "en": "Requires Level"
+  },
+  {
+   "id": 5316,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #e13f7efd",
+   "en": "requires Magic"
+  },
+  {
+   "id": 5317,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #e1d9e5ad",
+   "en": "Requires Class"
+  },
+  {
+   "id": 5318,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #e4c3279d",
+   "en": "Time Played"
+  },
+  {
+   "id": 5319,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #e64d5642",
+   "en": "Empty Socket"
+  },
+  {
+   "id": 5320,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #e6abfece",
+   "en": "Weapon Damage"
+  },
+  {
+   "id": 5321,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #eb3b9455",
+   "en": "New Quest"
+  },
+  {
+   "id": 5322,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #eb963bcc",
+   "en": "Already Looted!"
+  },
+  {
+   "id": 5323,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #ecd7d842",
+   "en": "Shift-click to transfer"
+  },
+  {
+   "id": 5324,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #ed3721b9",
+   "en": "Equipment Augmented!"
+  },
+  {
+   "id": 5325,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #ed62b1b4",
+   "en": "Shattered"
+  },
+  {
+   "id": 5326,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #ef644373",
+   "en": "Always Enabled"
+  },
+  {
+   "id": 5327,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #efa5190a",
+   "en": "Champions Defeated"
+  },
+  {
+   "id": 5328,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #efa6312b",
+   "en": " not active. Following items will be lost:\\n"
+  },
+  {
+   "id": 5329,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #efa6312f",
+   "en": " not active. Following monsters will not be created:\\n"
+  },
+  {
+   "id": 5330,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #efa63131",
+   "en": " not active. Following skills will be lost: "
+  },
+  {
+   "id": 5331,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #f4b6c1a2",
+   "en": "Disenchant chance:"
+  },
+  {
+   "id": 5332,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #f50ed39c",
+   "en": "Shoulder Armor"
+  },
+  {
+   "id": 5333,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #f5dce027",
+   "en": "and adds new enchantments"
+  },
+  {
+   "id": 5334,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #f610f271",
+   "en": "Ctrl-click to split stack"
+  },
+  {
+   "id": 5335,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #f6b76603",
+   "en": "Playing as"
+  },
+  {
+   "id": 5336,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #f7282620",
+   "en": "Buy Price"
+  },
+  {
+   "id": 5337,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #f7dff77e",
+   "en": "Duplicate login"
+  },
+  {
+   "id": 5338,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #f87330d5",
+   "en": "UNKNOWN MOD WITH GUID:"
+  },
+  {
+   "id": 5339,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #f9be358b",
+   "en": "Next Unlock Level"
+  },
+  {
+   "id": 5340,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #fc454bea",
+   "en": "Failed to add as friend - invalid name!"
+  },
+  {
+   "id": 5341,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #fd470974",
+   "en": "Cheated items equipped"
+  },
+  {
+   "id": 5342,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #fe46cdaf",
+   "en": "has befriended you."
+  },
+  {
+   "id": 5343,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #fef9505d",
+   "en": "The enchanter performs the ancient rites on the"
+  },
+  {
+   "id": 5344,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | #ff439bd0",
+   "en": "No enchantments"
+  },
+  {
+   "id": 5345,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | ABSORBED",
+   "en": "Absorbed"
+  },
+  {
+   "id": 5346,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | ALL",
+   "en": "All"
+  },
+  {
+   "id": 5347,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | ALL",
+   "en": "Physical & Elemental"
+  },
+  {
+   "id": 5348,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | ALWAYS",
+   "en": "Always"
+  },
+  {
+   "id": 5349,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | ANY",
+   "en": "any"
+  },
+  {
+   "id": 5350,
+   "mode": "translate",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | ARMOR",
+   "en": "Armor"
+  },
+  {
+   "id": 5351,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | ARMOR",
+   "en": "armor"
+  },
+  {
+   "id": 5352,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | AUGMENTED",
+   "en": "Augmented!"
+  },
+  {
+   "id": 5353,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | BELT",
+   "en": "Belt"
+  },
+  {
+   "id": 5354,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | BLOCKED",
+   "en": "Blocked"
+  },
+  {
+   "id": 5355,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | BOOTS",
+   "en": "Boots"
+  },
+  {
+   "id": 5356,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | BUY",
+   "en": "Buy"
+  },
+  {
+   "id": 5357,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | CASUAL",
+   "en": "Casual"
+  },
+  {
+   "id": 5358,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | CINEMATIC",
+   "en": "Cinematic"
+  },
+  {
+   "id": 5359,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | CLAW",
+   "en": "Claw"
+  },
+  {
+   "id": 5360,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | COLLAR",
+   "en": "Collar"
+  },
+  {
+   "id": 5361,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | COMPLETE",
+   "en": "COMPLETE"
+  },
+  {
+   "id": 5362,
+   "mode": "translate",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | COMPLETE",
+   "en": "Complete"
+  },
+  {
+   "id": 5363,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | CONTINUE",
+   "en": "Continue"
+  },
+  {
+   "id": 5364,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | COOLDOWN",
+   "en": "Cooldown"
+  },
+  {
+   "id": 5365,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | CRITICAL",
+   "en": "Critical"
+  },
+  {
+   "id": 5366,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | CRITICALSTRIKE",
+   "en": "Critical Strike"
+  },
+  {
+   "id": 5367,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | DAMAGE",
+   "en": "Damage"
+  },
+  {
+   "id": 5368,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | DEAD",
+   "en": "Dead"
+  },
+  {
+   "id": 5369,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | DEFEATED",
+   "en": "Defeated"
+  },
+  {
+   "id": 5370,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | DESTROY",
+   "en": "Destroy"
+  },
+  {
+   "id": 5371,
+   "mode": "translate",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | DEXTERITY",
+   "en": "Dexterity"
+  },
+  {
+   "id": 5372,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | DIALOG",
+   "en": "Dialog"
+  },
+  {
+   "id": 5373,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | DIFFICULTY",
+   "en": "Difficulty"
+  },
+  {
+   "id": 5374,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | DISCONNECTED",
+   "en": "Disconnected"
+  },
+  {
+   "id": 5375,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | DODGE",
+   "en": "Dodge"
+  },
+  {
+   "id": 5376,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | EASY",
+   "en": "Easy"
+  },
+  {
+   "id": 5377,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | ELECTRIC",
+   "en": "Electric"
+  },
+  {
+   "id": 5378,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | ELITE",
+   "en": "Elite"
+  },
+  {
+   "id": 5379,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | EMPTY",
+   "en": "Empty"
+  },
+  {
+   "id": 5380,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | ENCHANT",
+   "en": "Enchant"
+  },
+  {
+   "id": 5381,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | ENCHANTED",
+   "en": "Enchanted"
+  },
+  {
+   "id": 5382,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | ENCHANTMENTS",
+   "en": "Enchantments"
+  },
+  {
+   "id": 5383,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | EQUIPPED",
+   "en": "equipped"
+  },
+  {
+   "id": 5384,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | EXIT",
+   "en": "Exit"
+  },
+  {
+   "id": 5385,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | FAME",
+   "en": "Fame"
+  },
+  {
+   "id": 5386,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | FIRE",
+   "en": "Fire"
+  },
+  {
+   "id": 5387,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | FISHING",
+   "en": "Fishing"
+  },
+  {
+   "id": 5388,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | FLEEING",
+   "en": "Fleeing"
+  },
+  {
+   "id": 5389,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | FLOOR",
+   "en": "Floor"
+  },
+  {
+   "id": 5390,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | FOCUS",
+   "en": "Focus"
+  },
+  {
+   "id": 5391,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | FOUND",
+   "en": "Found"
+  },
+  {
+   "id": 5392,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | FREE",
+   "en": "Free"
+  },
+  {
+   "id": 5393,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | GAME",
+   "en": "Game"
+  },
+  {
+   "id": 5394,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | GLOVES",
+   "en": "Gloves"
+  },
+  {
+   "id": 5395,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | GP",
+   "en": "GP"
+  },
+  {
+   "id": 5396,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | HARD",
+   "en": "Hard"
+  },
+  {
+   "id": 5397,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | HARDCORE",
+   "en": "Hardcore"
+  },
+  {
+   "id": 5398,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | HELMET",
+   "en": "Helmet"
+  },
+  {
+   "id": 5399,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | HOUR",
+   "en": "hour"
+  },
+  {
+   "id": 5400,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | HOURS",
+   "en": "hour(s)"
+  },
+  {
+   "id": 5401,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | HOURS",
+   "en": "hours"
+  },
+  {
+   "id": 5402,
+   "mode": "translate",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | HP",
+   "en": "HP"
+  },
+  {
+   "id": 5403,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | ICE",
+   "en": "Ice"
+  },
+  {
+   "id": 5404,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | INFLICTS",
+   "en": "Inflicts "
+  },
+  {
+   "id": 5405,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | ITEMLEVEL",
+   "en": "Item Level"
+  },
+  {
+   "id": 5406,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | K13",
+   "en": "hrs"
+  },
+  {
+   "id": 5407,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | L2",
+   "en": "Or"
+  },
+  {
+   "id": 5408,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | LEFTHAND",
+   "en": "left hand"
+  },
+  {
+   "id": 5409,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | LEGGINGS",
+   "en": "Leggings"
+  },
+  {
+   "id": 5410,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | LEVEL",
+   "en": "Level"
+  },
+  {
+   "id": 5411,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | LEVELUP",
+   "en": "Level Up"
+  },
+  {
+   "id": 5412,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | MAGICAL",
+   "en": "Magical"
+  },
+  {
+   "id": 5413,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | MANA",
+   "en": "Mana"
+  },
+  {
+   "id": 5414,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | MANACOST",
+   "en": "Mana Cost"
+  },
+  {
+   "id": 5415,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | MINUTE",
+   "en": "minute"
+  },
+  {
+   "id": 5416,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | MINUTES",
+   "en": "minute(s)"
+  },
+  {
+   "id": 5417,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | MINUTES",
+   "en": "minutes"
+  },
+  {
+   "id": 5418,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | MISS",
+   "en": "Miss"
+  },
+  {
+   "id": 5419,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | MOD",
+   "en": "Mod: "
+  },
+  {
+   "id": 5420,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | MON",
+   "en": "mon"
+  },
+  {
+   "id": 5421,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | MONITOR",
+   "en": "Monitor"
+  },
+  {
+   "id": 5422,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | MONSTERS",
+   "en": "Monsters"
+  },
+  {
+   "id": 5423,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | MONSTERS",
+   "en": "Monsters:"
+  },
+  {
+   "id": 5424,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | MP",
+   "en": "MP"
+  },
+  {
+   "id": 5425,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | NEXTLEVEL",
+   "en": "Next Level"
+  },
+  {
+   "id": 5426,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | NG",
+   "en": "NG"
+  },
+  {
+   "id": 5427,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | NORMAL",
+   "en": "Normal"
+  },
+  {
+   "id": 5428,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | OPTIONS",
+   "en": "Options"
+  },
+  {
+   "id": 5429,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | PARRIED",
+   "en": "Parried"
+  },
+  {
+   "id": 5430,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | PF4",
+   "en": "Pet"
+  },
+  {
+   "id": 5431,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | PHYSICAL",
+   "en": "Physical"
+  },
+  {
+   "id": 5432,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | PIECES",
+   "en": "pieces"
+  },
+  {
+   "id": 5433,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | POISON",
+   "en": "Poison"
+  },
+  {
+   "id": 5434,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | POTION",
+   "en": "Potion"
+  },
+  {
+   "id": 5435,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | PRICE",
+   "en": "price"
+  },
+  {
+   "id": 5436,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | PURCHASE",
+   "en": "Purchase"
+  },
+  {
+   "id": 5437,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | QUEST",
+   "en": "Quest"
+  },
+  {
+   "id": 5438,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | QUESTCOMPLETE",
+   "en": "Quest Complete"
+  },
+  {
+   "id": 5439,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | QUESTITEM",
+   "en": "(Quest Item)"
+  },
+  {
+   "id": 5440,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | QUESTITEM",
+   "en": "Quest Item"
+  },
+  {
+   "id": 5441,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | QUESTS",
+   "en": "Quests"
+  },
+  {
+   "id": 5442,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | RANK",
+   "en": "Rank"
+  },
+  {
+   "id": 5443,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | RARE",
+   "en": "Rare"
+  },
+  {
+   "id": 5444,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | REACHED",
+   "en": "reached"
+  },
+  {
+   "id": 5445,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | REFLECTED",
+   "en": "Reflected"
+  },
+  {
+   "id": 5446,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | REQUIRES",
+   "en": "Requires"
+  },
+  {
+   "id": 5447,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | REQUIRES",
+   "en": "Requires "
+  },
+  {
+   "id": 5448,
+   "mode": "translate",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | RESURRECT",
+   "en": "Resurrect"
+  },
+  {
+   "id": 5449,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | RETIRED",
+   "en": "Retired"
+  },
+  {
+   "id": 5450,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | RIGHTHAND",
+   "en": "right hand"
+  },
+  {
+   "id": 5451,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | RING",
+   "en": "Ring"
+  },
+  {
+   "id": 5452,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | SCROLL",
+   "en": "Scroll"
+  },
+  {
+   "id": 5453,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | SECOND",
+   "en": "second"
+  },
+  {
+   "id": 5454,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | SECONDARYEFFECTS",
+   "en": "Secondary Effects"
+  },
+  {
+   "id": 5455,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | SECONDS",
+   "en": "second(s)"
+  },
+  {
+   "id": 5456,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | SECONDS",
+   "en": "seconds"
+  },
+  {
+   "id": 5457,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | SELL",
+   "en": "Sell"
+  },
+  {
+   "id": 5458,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | SELLPRICE",
+   "en": "Sell Price"
+  },
+  {
+   "id": 5459,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | SELLPRICE",
+   "en": "sell price"
+  },
+  {
+   "id": 5460,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | SET",
+   "en": "Set"
+  },
+  {
+   "id": 5461,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | SHIELD",
+   "en": "Shield"
+  },
+  {
+   "id": 5462,
+   "mode": "translate",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | SOCKETABLE",
+   "en": "Socketable"
+  },
+  {
+   "id": 5463,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | SOCKETS",
+   "en": "Sockets"
+  },
+  {
+   "id": 5464,
+   "mode": "translate",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | STRENGTH",
+   "en": "Strength"
+  },
+  {
+   "id": 5465,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | STUD",
+   "en": "Stud"
+  },
+  {
+   "id": 5466,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | TAG",
+   "en": "Tag"
+  },
+  {
+   "id": 5467,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | THROWN",
+   "en": "Thrown"
+  },
+  {
+   "id": 5468,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | TRINKET",
+   "en": "Trinket"
+  },
+  {
+   "id": 5469,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | TYPE",
+   "en": "Type"
+  },
+  {
+   "id": 5470,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | UNIDENTIFIED",
+   "en": "Unidentified"
+  },
+  {
+   "id": 5471,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | UNIQUE",
+   "en": "Unique"
+  },
+  {
+   "id": 5472,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | UNKNOWN",
+   "en": "UNKNOWN"
+  },
+  {
+   "id": 5473,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | UNKNOWN",
+   "en": "Unknown"
+  },
+  {
+   "id": 5474,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | VERYHARD",
+   "en": "Very Hard"
+  },
+  {
+   "id": 5475,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | VETERAN",
+   "en": "Veteran"
+  },
+  {
+   "id": 5476,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | VITALITY",
+   "en": "Vitality"
+  },
+  {
+   "id": 5477,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | WAND",
+   "en": "Wand"
+  },
+  {
+   "id": 5478,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | WAYPOINTS",
+   "en": "Waypoints"
+  },
+  {
+   "id": 5479,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | WEAPON",
+   "en": "Weapon"
+  },
+  {
+   "id": 5480,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | WEAPONS",
+   "en": "Weapons"
+  },
+  {
+   "id": 5481,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | WHISPERS",
+   "en": "whispers"
+  },
+  {
+   "id": 5482,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #6d04c7ef | XP",
+   "en": "XP"
+  },
+  {
+   "id": 5483,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #f1ee82e2 | #42122ccd",
+   "en": "You are trying to buy an item that you cannot use yet, either because you are not high enough level, or don't meet the stat requirements. Any requirements you don't meet are displayed in red text."
+  },
+  {
+   "id": 5484,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #f1ee82e2 | TIP_ENCHANT",
+   "en": "This is the |cFFFFBA00Enchantment interface|u. Place items here and pay the fee to receive random enchantments. But remember: There's a chance that all of your item's enchantments will be removed."
+  },
+  {
+   "id": 5485,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #f1ee82e2 | TIP_FISHING",
+   "en": "This is a |cFFFFBA00fishing hole|u. Click the hook icon when the circle goes red and you hear the splash of a bite. Most of the fish you catch may be used to transform your pet into other creatures. You may even catch special items from the depths."
+  },
+  {
+   "id": 5486,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #f1ee82e2 | TIP_GAMBLE",
+   "en": "This is the |cFFFFBA00Gambling interface|u. All of the merchant's items have unknown properties; you'll have to purchase them to find out what they do. Every item is guaranteed to be magical."
+  },
+  {
+   "id": 5487,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #f1ee82e2 | TIP_HEALTHLOW",
+   "en": "Your |cFFFFBA00health is low|u. To heal yourself and avoid an untimely demise, |cFFFFBA00right-click on a health potion|u to drink it. You may also press the corresponding number key of any potion mapped to the quick-slot bar at the bottom of the screen."
+  },
+  {
+   "id": 5488,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #f1ee82e2 | TIP_HOWTOATTACK",
+   "en": "|cFFFFBA00Left click|u to attack an enemy with your weapon. |cFFFFBA00Right Click|u to cast your readied |cFFFFBA00Skill|u, which is more powerful than your regular attack, but consumes Mana."
+  },
+  {
+   "id": 5489,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #f1ee82e2 | TIP_INVENTORY",
+   "en": "This is your |cFFFFBA00inventory screen|u. Drag weapons and armor into the appropriate slots to equip them. Drop items by dragging them into the play area. Useable items may be activated by right-clicking on them. To use items on your pet, drag them to the pet bowl icon at the top left of the screen, or hold |cFFFFBA00[SHIFT]|u while right-clicking them."
+  },
+  {
+   "id": 5490,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #f1ee82e2 | TIP_INVENTORYFULL",
+   "en": "Your |cFFFFBA00inventory is full|u. Either drop unwanted items, or give them to your pet by opening your pet's inventory and dragging items to empty slots."
+  },
+  {
+   "id": 5491,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #f1ee82e2 | TIP_LEVELUP",
+   "en": "You've gained a level! Click on the |cFFFFBA00Level Up|u button on the left side of the screen to apply your newfound wisdom."
+  },
+  {
+   "id": 5492,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #f1ee82e2 | TIP_MANALOW",
+   "en": "Your |cFFFFBA00Mana is low|u. Mana is used to perform skills or cast spells. Mana recharges over time, but for a quick boost, |cFFFFBA00drink a mana potion by right-clicking on it|u. You may also press the corresponding number key of any potion mapped to the quick-slot bar at the bottom of the screen."
+  },
+  {
+   "id": 5493,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #f1ee82e2 | TIP_MERCHANT",
+   "en": "This is the |cFFFFBA00merchant interface|u - drag items from the left to the right to buy them, and vice-versa to sell.  You can perform an instantaneous transaction by holding |cFFFFBA00[SHIFT]|u while clicking on an item. You can also buy and sell from your pet's inventory, located in the bottom left."
+  },
+  {
+   "id": 5494,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #f1ee82e2 | TIP_PETFLEE",
+   "en": "Your |cFFFFBA00pet is fleeing|u: It will no longer attack and cannot pick up items for you. Pet health will slowly recover automatically, but you may heal your pet by dragging a potion to the pet bowl icon at the top left of the screen, holding |cFFFFBA00[SHIFT]|u while right-clicking it, or hitting |cFFFFBA00[SHIFT-Z]|u."
+  },
+  {
+   "id": 5495,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #f1ee82e2 | TIP_PETINVENTORY",
+   "en": "This is your |cFFFFBA00pet's inventory|u. Your pet can carry as many items as you can. You can also have your pet pick up items directly from the ground by holding |cFFFFBA00[SHIFT]|u and clicking on them. Your pet can also equip a limited selection of items to improve its abilities."
+  },
+  {
+   "id": 5496,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #f1ee82e2 | TIP_PETINVENTORYFULL",
+   "en": "Your |cFFFFBA00pet's inventory is full|u. You can |cFFFFBA00send your pet back to town|u by clicking on the |cFFFFBA00green arrow button|u in the pet interface. Your pet will depart for a short time to go sell the contents of its inventory and then bring the profits back to you!"
+  },
+  {
+   "id": 5497,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #f1ee82e2 | TIP_QUESTCOMPLETE",
+   "en": "You have |cFFFFBA00completed a quest|u. To receive your reward, speak to the individual that gave you the quest; you can identify quest NPCs by the |cFFFFBA00?|u above their heads. You can speed things up by using a |cFFFFBA00Waypoint Portal Scroll|u to return directly to Town."
+  },
+  {
+   "id": 5498,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #f1ee82e2 | TIP_SHAREDSTASH",
+   "en": "This is your |cFFFFBA00Shared Stash|u. Placing items here makes them accessible to other characters you have created."
+  },
+  {
+   "id": 5499,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #f1ee82e2 | TIP_SOCKETABLE",
+   "en": "You have discovered a |cFFFFBA00socketable item|u! Socketable items imbue your weapons and armor with new magical properties when inserted. If you discover an item with sockets, simply install the gemstone by |cFFFFBA00dropping it onto the item|u."
+  },
+  {
+   "id": 5500,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #f1ee82e2 | TIP_SPELL",
+   "en": "You have inscribed a |cFFFFBA00new spell|u to your spellbook; you may now cast it as you would any other skill.  Skills and spells can be mapped to the quickslots on the bottom of the screen by clicking on them."
+  },
+  {
+   "id": 5501,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #f1ee82e2 | TIP_SPELLFIND",
+   "en": "You have found a |cFFFFBA00spell scroll|u! In the Spells tab of your inventory, you can |cFFFFBA00right-click on the scroll|u or drop it into one of your spell slots to learn it, and you'll gain a new ability. You can also teach your pet spells by dropping them into the appropriate slots in their inventory."
+  },
+  {
+   "id": 5502,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #f1ee82e2 | TIP_STASH",
+   "en": "This is your |cFFFFBA00Stash|u. You can place items here for long-term storage. If your inventory is getting full, offload some artifacts here."
+  },
+  {
+   "id": 5503,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #f1ee82e2 | TIP_STATS",
+   "en": "You have new |cFFFFBA00Stat Points|u to distribute! Click the button next to each attribute to improve that aspect of your character. You also have new Skill Points that may be used to improve your character's abilities in the Skill Menu (press S)."
+  },
+  {
+   "id": 5504,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #f1ee82e2 | TIP_TRANSMUTE",
+   "en": "This is the |cFFFFBA00Transmutation interface|u. Place items here and attempt to combine them with the transmute button. There are many recipes for transmuting items, so try different combinations."
+  },
+  {
+   "id": 5505,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #f1ee82e2 | TIP_UNIDENTIFIED",
+   "en": "You have discovered a |cFFFFBA00magical item|u! It is |cFFFFBA00unidentified|u, which means that its magic powers are undiscovered. Identify it by |cFFFFBA00right-clicking an Identify Scroll|u, then |cFFFFBA00left-clicking on the item|u."
+  },
+  {
+   "id": 5506,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | #f1ee82e2 | TIP_WELCOME",
+   "en": "Welcome to |cFFFFBA00Torchlight 2|u! Explore the area by |cFFFFBA00left-clicking to move around|u. Visit the individuals at the inn, and then, when you are ready, find your way northeast. Thank you for playing Torchlight 2!"
+  },
+  {
+   "id": 5507,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | LOADINGTIPS | TJ0",
+   "en": "Click on the |cFFFFBA00Send Pet To Town|u icon in your pet's inventory or near his health badge to send them off to sell your excess items, so that you can keep adventuring."
+  },
+  {
+   "id": 5508,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | LOADINGTIPS | TJ0",
+   "en": "Don't save your |cFFFFBA00Ember|u for later! Use them in any piece of equipment with an open |cFFFFBA00Socket|u. You will find better varieties soon, and the ancient art of combining gems to make better ones has been lost in this era."
+  },
+  {
+   "id": 5509,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | LOADINGTIPS | TJ0",
+   "en": "Electrical damage has a chance to randomly |cFFFFBA00Shock|u enemies for 3 to 5 seconds. When you hit a shocked target, the impact releases 3 small Charged Bolts that can strike multiple targets up to 10 meters away."
+  },
+  {
+   "id": 5510,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | LOADINGTIPS | TJ0",
+   "en": "Elemental Armors, like Fire Armor, help reduce the elemental damage you take, as well as reducing the chance of harmful effects, like Burning."
+  },
+  {
+   "id": 5511,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | LOADINGTIPS | TJ0",
+   "en": "Feed fish to your pet to turn them into creatures with varying abilities, strengths, and weaknesses."
+  },
+  {
+   "id": 5512,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | LOADINGTIPS | TJ0",
+   "en": "Fire damage can randomly cause enemies to |cFFFFBA00Burn|u, doing extra damage over 3 to 7 seconds. Burning bypasses armor and is good for taking down tougher enemies."
+  },
+  {
+   "id": 5513,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | LOADINGTIPS | TJ0",
+   "en": "Higher level monsters do more |cFFFFBA00Damage|u and have more |cFFFFBA00Armor|u and |cFFFFBA00Health|u. These key combat statistics make fighting monsters above your own an increasingly difficult task."
+  },
+  {
+   "id": 5514,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | LOADINGTIPS | TJ0",
+   "en": "Hold |cFFFFBA00[ALT]|u to see any items scattered on the ground, or toggle this view with the magnifying glass icon."
+  },
+  {
+   "id": 5515,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | LOADINGTIPS | TJ0",
+   "en": "Holding |cFFFFBA00[CTRL]|u while attacking will only move you or use a skill if you have a target highlit. This is useful to prevent inadvertent movement during fast combat."
+  },
+  {
+   "id": 5516,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | LOADINGTIPS | TJ0",
+   "en": "Holding |cFFFFBA00[SHIFT]|u while attacking will force you to remain in place during combat."
+  },
+  {
+   "id": 5517,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | LOADINGTIPS | TJ0",
+   "en": "Holding |cFFFFBA00[SHIFT]|u while clicking on an item in a Merchant screen will instantly sell or buy it."
+  },
+  {
+   "id": 5518,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | LOADINGTIPS | TJ0",
+   "en": "Holding |cFFFFBA00[SHIFT]|u while clicking on an item will cause your pet to run and pick it up."
+  },
+  {
+   "id": 5519,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | LOADINGTIPS | TJ0",
+   "en": "Ice damage can randomly cause enemies to |cFFFFBA00Freeze|u, slowing their attacks, skills and movement by 33% for 3 to 4 seconds."
+  },
+  {
+   "id": 5520,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | LOADINGTIPS | TJ0",
+   "en": "If you are wielding two similar weapons, like any two melee weapons or two pistols, you have a chance to |cFFFFBA00Execute|u, striking with both weapons at one time. Investing in your Focus attribute improves this chance."
+  },
+  {
+   "id": 5521,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | LOADINGTIPS | TJ0",
+   "en": "If you find good loot which your character can't use, consider trading it with another player or keeping it in your |cFFFFBA00Shared Stash|u for your other characters to use."
+  },
+  {
+   "id": 5522,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | LOADINGTIPS | TJ0",
+   "en": "If you find yourself dying too much, try to increase your armor. Higher armor equipment reduces damage that monsters deal to you."
+  },
+  {
+   "id": 5523,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | LOADINGTIPS | TJ0",
+   "en": "In |cFFFFBA00Multi-Player|u games, any loot that you find will be visible only to you. Feel free to take everything! The other players will get their own loot. "
+  },
+  {
+   "id": 5524,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | LOADINGTIPS | TJ0",
+   "en": "In |cFFFFBA00Multi-Player|u games, the monsters you fight will do more damage to you and take more damage to defeat, based on the numbers of players nearby. Those nearby players will also get full experience for each monster killed."
+  },
+  {
+   "id": 5525,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | LOADINGTIPS | TJ0",
+   "en": "Most enchanters can |cFFFFBA00enchant|u any item two times.  Others are more skilled and can grant a third or fourth enchantment! Enchanters can also remove existing enchantments allowing items to be enchanted again."
+  },
+  {
+   "id": 5526,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | LOADINGTIPS | TJ0",
+   "en": "Most melee weapons do |cFFFFBA00Splash Damage|u, hitting adjacent monsters in an arc in front of you. Two-handed weapons have longer and wider arcs and do a larger amount of damage to these Splash targets."
+  },
+  {
+   "id": 5527,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | LOADINGTIPS | TJ0",
+   "en": "Poison damage has a chance to randomly |cFFFFBA00Poison|u enemies, reducing their armor and damage dealing by 33% for 3 to 5 seconds."
+  },
+  {
+   "id": 5528,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | LOADINGTIPS | TJ0",
+   "en": "Press the |cFFFFBA00[Space Bar]|u to quickly close any currently open interface panels. If no panels are open, instead it will access your Inventory and Character panels."
+  },
+  {
+   "id": 5529,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | LOADINGTIPS | TJ0",
+   "en": "Press |cFFFFBA00M|u to toggle the |cFFFFBA00minimap|u, and use the |cFFFFBA00[|u and |cFFFFBA00]|u keys to zoom in and out."
+  },
+  {
+   "id": 5530,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | LOADINGTIPS | TJ0",
+   "en": "Remember to |cFFFFBA00feed Fish to your Pet!|u It will make your pet stronger and give you a critical combat boost when the going gets tough. Look for fishing holes in the wilderness."
+  },
+  {
+   "id": 5531,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | LOADINGTIPS | TJ0",
+   "en": "Some equipment can only be used if you meet level or stat requirements. Requirements you don't currently meet are displayed in red."
+  },
+  {
+   "id": 5532,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | LOADINGTIPS | TJ0",
+   "en": "The damage you do is reduced by your target's |cFFFFBA00Armor|u; more Armor means less damage.  Attacks can score a |cFFFFBA00Critical Hit|u, doing extra damage. Check the |cFFFFBA00Arcane Statistics|u panel  for more combat details. "
+  },
+  {
+   "id": 5533,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | LOADINGTIPS | TJ0",
+   "en": "The |cFFFFBA00[Z]|u key will drink your best Health Potion. The |cFFFFBA00[X]|u key will drink your best Mana Potion. |cFFFFBA00[Shift-Z]|u key will heal your pet instead of you."
+  },
+  {
+   "id": 5534,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | LOADINGTIPS | TJ0",
+   "en": "Unidentified items may be identified by using an |cFFFFBA00identify scroll|u. Right-click on the item to identify it if and it will automatically use any identify scrolls you have."
+  },
+  {
+   "id": 5535,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | LOADINGTIPS | TJ0",
+   "en": "Use the mouse-wheel to zoom in and out. Clicking the mouse-wheel button will reset your view."
+  },
+  {
+   "id": 5536,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | LOADINGTIPS | TJ0",
+   "en": "When quest items are picked up, they are stored in your Quest Log |cFFFFBA00[Q]|u, not in your inventory"
+  },
+  {
+   "id": 5537,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | LOADINGTIPS | TJ0",
+   "en": "When you gain a level, remember to assign any points you may have earned to improve your player's attributes. These attributes increase damage and improve defenses."
+  },
+  {
+   "id": 5538,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | LOADINGTIPS | TJ0",
+   "en": "Your |cFFFFBA00Pet|u can now buy basic items like potions and scrolls from town.  Check out the fourth tab in your pet's inventory to access the |cFFFFBA00Shopping List|u. Items purchased this way will be added to your inventory when your pet returns."
+  },
+  {
+   "id": 5539,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | LOADINGTIPS | TJ0",
+   "en": "|cFF94CC94Green|u items have minor enchantments. |cFF9696CFBlue|u items are more rare and powerful. |cFFdbAE12Gold|u items are unique and have the best enchantments. |cFFD17AFFPurple|u items are related to quests."
+  },
+  {
+   "id": 5540,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | LOADINGTIPS | TJ0",
+   "en": "|cFFFFBA00Cannons|u and |cFFFFBA00Shotgonnes|u attack multiple enemies in wide, but short arcs. |cFFFFBA00Crossbows|u have the longest range. |cFFFFBA00Pistols|u are fast, but have shorter range. |cFFFFBA00Bows|u have an average range."
+  },
+  {
+   "id": 5541,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | LOADINGTIPS | TJ0",
+   "en": "|cFFFFBA00Claw|u weapons are fast, but don't hit adjacent monsters. |cFFFFBA00Hammers|u tend to be slow but interrupt monster attacks and skills. |cFFFFBA00Axes|u do more consistent damage. |cFFFFBA00Polearms|u have longer range."
+  },
+  {
+   "id": 5542,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | LOADINGTIPS | TJ0",
+   "en": "|cFFFFBA00Left-click|u on monsters to attack them. Hold the left mouse button down to continuously attack."
+  },
+  {
+   "id": 5543,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | LOADINGTIPS | TJ0",
+   "en": "|cFFFFBA00Passive|u skills are always in effect, but sometimes you need to have the right weapon equipped."
+  },
+  {
+   "id": 5544,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | LOADINGTIPS | TJ0",
+   "en": "|cFFFFBA00Purple Damage|u numbers mean you have 'fumbled' the attack, which reduces damage. Press |cFFFFBA00[ J ]|u to view the Arcane Statistics Panel and learn about this and other combat mechanics."
+  },
+  {
+   "id": 5545,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | LOADINGTIPS | TJ0",
+   "en": "|cFFFFBA00Right-click|u to use your currently assigned |cFFFFBA00skill or spell|u.   You can also use |cFFFFBA00TAB|u to switch between it and an alternate skill, noted on the right skill interface at the bottom of the screen."
+  },
+  {
+   "id": 5546,
+   "mode": "decide",
+   "ctx": "GLOBALS.DAT | LOADINGTIPS | TJ0",
+   "en": "|cFFFFBA00Wands|u and |cFFFFBA00Staves|u do mostly elemental damage, which tends to be useful for Embermage skills and perhaps any character investing in Focus."
+  },
+  {
+   "id": 5547,
+   "mode": "translate",
+   "ctx": "KEYMAPPING/HELPERBINDINGS.DAT | KEYBIND | DISPLAYNAME",
+   "en": "CombatLog"
+  },
+  {
+   "id": 5548,
+   "mode": "translate",
+   "ctx": "KEYMAPPING/HELPERBINDINGS.DAT | KEYBIND | DISPLAYNAME",
+   "en": "Console"
+  },
+  {
+   "id": 5549,
+   "mode": "translate",
+   "ctx": "KEYMAPPING/HELPERBINDINGS.DAT | KEYBIND | DISPLAYNAME",
+   "en": "FPS Details"
+  },
+  {
+   "id": 5550,
+   "mode": "translate",
+   "ctx": "KEYMAPPING/HELPERBINDINGS.DAT | KEYBIND | DISPLAYNAME",
+   "en": "Level Data"
+  },
+  {
+   "id": 5551,
+   "mode": "translate",
+   "ctx": "KEYMAPPING/HELPERBINDINGS.DAT | KEYBIND | DISPLAYNAME",
+   "en": "Peer Data"
+  },
+  {
+   "id": 5552,
+   "mode": "translate",
+   "ctx": "KEYMAPPING/HELPERBINDINGS.DAT | KEYBIND | DISPLAYNAME",
+   "en": "Player Effect Data"
+  },
+  {
+   "id": 5553,
+   "mode": "translate",
+   "ctx": "KEYMAPPING/HELPERBINDINGS.DAT | KEYBIND | DISPLAYNAME",
+   "en": "Player Quest Data"
+  },
+  {
+   "id": 5554,
+   "mode": "translate",
+   "ctx": "KEYMAPPING/HELPERBINDINGS.DAT | KEYBIND | DISPLAYNAME",
+   "en": "Sound Debug"
+  },
+  {
+   "id": 5555,
+   "mode": "translate",
+   "ctx": "KEYMAPPING/HELPERBINDINGS.DAT | KEYBIND | DISPLAYNAME",
+   "en": "Steam Stats Data"
+  },
+  {
+   "id": 5556,
+   "mode": "translate",
+   "ctx": "KEYMAPPING/HELPERBINDINGS.DAT | KEYBIND | DISPLAYNAME",
+   "en": "Time Of Day"
+  },
+  {
+   "id": 5557,
+   "mode": "translate",
+   "ctx": "KEYMAPPING/KEYBIND.DAT | KEYBIND | DISPLAYNAME",
+   "en": "Active Skill Swap"
+  },
+  {
+   "id": 5558,
+   "mode": "translate",
+   "ctx": "KEYMAPPING/KEYBIND.DAT | KEYBIND | DISPLAYNAME",
+   "en": "Arcane Statistics"
+  },
+  {
+   "id": 5559,
+   "mode": "translate",
+   "ctx": "KEYMAPPING/KEYBIND.DAT | KEYBIND | DISPLAYNAME",
+   "en": "Attack Only Valid Targets"
+  },
+  {
+   "id": 5560,
+   "mode": "translate",
+   "ctx": "KEYMAPPING/KEYBIND.DAT | KEYBIND | DISPLAYNAME",
+   "en": "Auto-Target"
+  },
+  {
+   "id": 5561,
+   "mode": "translate",
+   "ctx": "KEYMAPPING/KEYBIND.DAT | KEYBIND | DISPLAYNAME",
+   "en": "Automap"
+  },
+  {
+   "id": 5562,
+   "mode": "translate",
+   "ctx": "KEYMAPPING/KEYBIND.DAT | KEYBIND | DISPLAYNAME",
+   "en": "Automap Reset"
+  },
+  {
+   "id": 5563,
+   "mode": "translate",
+   "ctx": "KEYMAPPING/KEYBIND.DAT | KEYBIND | DISPLAYNAME",
+   "en": "Automap Zoom In"
+  },
+  {
+   "id": 5564,
+   "mode": "translate",
+   "ctx": "KEYMAPPING/KEYBIND.DAT | KEYBIND | DISPLAYNAME",
+   "en": "Automap Zoom Out"
+  },
+  {
+   "id": 5565,
+   "mode": "translate",
+   "ctx": "KEYMAPPING/KEYBIND.DAT | KEYBIND | DISPLAYNAME",
+   "en": "Camera Zoom In"
+  },
+  {
+   "id": 5566,
+   "mode": "translate",
+   "ctx": "KEYMAPPING/KEYBIND.DAT | KEYBIND | DISPLAYNAME",
+   "en": "Camera Zoom Out"
+  },
+  {
+   "id": 5567,
+   "mode": "translate",
+   "ctx": "KEYMAPPING/KEYBIND.DAT | KEYBIND | DISPLAYNAME",
+   "en": "Cast Active Skill"
+  },
+  {
+   "id": 5568,
+   "mode": "translate",
+   "ctx": "KEYMAPPING/KEYBIND.DAT | KEYBIND | DISPLAYNAME",
+   "en": "Character Stats Menu"
+  },
+  {
+   "id": 5569,
+   "mode": "translate",
+   "ctx": "KEYMAPPING/KEYBIND.DAT | KEYBIND | DISPLAYNAME",
+   "en": "Close All Menus"
+  },
+  {
+   "id": 5570,
+   "mode": "translate",
+   "ctx": "KEYMAPPING/KEYBIND.DAT | KEYBIND | DISPLAYNAME",
+   "en": "Cycle Skills Down"
+  },
+  {
+   "id": 5571,
+   "mode": "translate",
+   "ctx": "KEYMAPPING/KEYBIND.DAT | KEYBIND | DISPLAYNAME",
+   "en": "Cycle Skills Up"
+  },
+  {
+   "id": 5572,
+   "mode": "translate",
+   "ctx": "KEYMAPPING/KEYBIND.DAT | KEYBIND | DISPLAYNAME",
+   "en": "Function 1"
+  },
+  {
+   "id": 5573,
+   "mode": "translate",
+   "ctx": "KEYMAPPING/KEYBIND.DAT | KEYBIND | DISPLAYNAME",
+   "en": "Function 10"
+  },
+  {
+   "id": 5574,
+   "mode": "translate",
+   "ctx": "KEYMAPPING/KEYBIND.DAT | KEYBIND | DISPLAYNAME",
+   "en": "Function 11"
+  },
+  {
+   "id": 5575,
+   "mode": "translate",
+   "ctx": "KEYMAPPING/KEYBIND.DAT | KEYBIND | DISPLAYNAME",
+   "en": "Function 12"
+  },
+  {
+   "id": 5576,
+   "mode": "translate",
+   "ctx": "KEYMAPPING/KEYBIND.DAT | KEYBIND | DISPLAYNAME",
+   "en": "Function 2"
+  },
+  {
+   "id": 5577,
+   "mode": "translate",
+   "ctx": "KEYMAPPING/KEYBIND.DAT | KEYBIND | DISPLAYNAME",
+   "en": "Function 3"
+  },
+  {
+   "id": 5578,
+   "mode": "translate",
+   "ctx": "KEYMAPPING/KEYBIND.DAT | KEYBIND | DISPLAYNAME",
+   "en": "Function 4"
+  },
+  {
+   "id": 5579,
+   "mode": "translate",
+   "ctx": "KEYMAPPING/KEYBIND.DAT | KEYBIND | DISPLAYNAME",
+   "en": "Function 5"
+  },
+  {
+   "id": 5580,
+   "mode": "translate",
+   "ctx": "KEYMAPPING/KEYBIND.DAT | KEYBIND | DISPLAYNAME",
+   "en": "Function 6"
+  },
+  {
+   "id": 5581,
+   "mode": "translate",
+   "ctx": "KEYMAPPING/KEYBIND.DAT | KEYBIND | DISPLAYNAME",
+   "en": "Function 7"
+  },
+  {
+   "id": 5582,
+   "mode": "translate",
+   "ctx": "KEYMAPPING/KEYBIND.DAT | KEYBIND | DISPLAYNAME",
+   "en": "Function 8"
+  },
+  {
+   "id": 5583,
+   "mode": "translate",
+   "ctx": "KEYMAPPING/KEYBIND.DAT | KEYBIND | DISPLAYNAME",
+   "en": "Function 9"
+  },
+  {
+   "id": 5584,
+   "mode": "translate",
+   "ctx": "KEYMAPPING/KEYBIND.DAT | KEYBIND | DISPLAYNAME",
+   "en": "Hold Position"
+  },
+  {
+   "id": 5585,
+   "mode": "translate",
+   "ctx": "KEYMAPPING/KEYBIND.DAT | KEYBIND | DISPLAYNAME",
+   "en": "Inventory"
+  },
+  {
+   "id": 5586,
+   "mode": "translate",
+   "ctx": "KEYMAPPING/KEYBIND.DAT | KEYBIND | DISPLAYNAME",
+   "en": "Map Visibility"
+  },
+  {
+   "id": 5587,
+   "mode": "translate",
+   "ctx": "KEYMAPPING/KEYBIND.DAT | KEYBIND | DISPLAYNAME",
+   "en": "Move"
+  },
+  {
+   "id": 5588,
+   "mode": "translate",
+   "ctx": "KEYMAPPING/KEYBIND.DAT | KEYBIND | DISPLAYNAME",
+   "en": "Move/Attack"
+  },
+  {
+   "id": 5589,
+   "mode": "translate",
+   "ctx": "KEYMAPPING/KEYBIND.DAT | KEYBIND | DISPLAYNAME",
+   "en": "Options Menu"
+  },
+  {
+   "id": 5590,
+   "mode": "translate",
+   "ctx": "KEYMAPPING/KEYBIND.DAT | KEYBIND | DISPLAYNAME",
+   "en": "Pet Inventory"
+  },
+  {
+   "id": 5591,
+   "mode": "translate",
+   "ctx": "KEYMAPPING/KEYBIND.DAT | KEYBIND | DISPLAYNAME",
+   "en": "Quest Menu"
+  },
+  {
+   "id": 5592,
+   "mode": "translate",
+   "ctx": "KEYMAPPING/KEYBIND.DAT | KEYBIND | DISPLAYNAME",
+   "en": "Quick Save"
+  },
+  {
+   "id": 5593,
+   "mode": "translate",
+   "ctx": "KEYMAPPING/KEYBIND.DAT | KEYBIND | DISPLAYNAME",
+   "en": "Reset Camera"
+  },
+  {
+   "id": 5594,
+   "mode": "translate",
+   "ctx": "KEYMAPPING/KEYBIND.DAT | KEYBIND | DISPLAYNAME",
+   "en": "Show Items"
+  },
+  {
+   "id": 5595,
+   "mode": "translate",
+   "ctx": "KEYMAPPING/KEYBIND.DAT | KEYBIND | DISPLAYNAME",
+   "en": "Skill Menu"
+  },
+  {
+   "id": 5596,
+   "mode": "translate",
+   "ctx": "KEYMAPPING/KEYBIND.DAT | KEYBIND | DISPLAYNAME",
+   "en": "Weapon Swap"
+  },
+  {
+   "id": 5597,
+   "mode": "translate",
+   "ctx": "KEYMAPPING/QUICKKEYS.DAT | KEYBIND | DISPLAYNAME",
+   "en": "Best Health Potion"
+  },
+  {
+   "id": 5598,
+   "mode": "translate",
+   "ctx": "KEYMAPPING/QUICKKEYS.DAT | KEYBIND | DISPLAYNAME",
+   "en": "Best Mana Potion"
+  },
+  {
+   "id": 5599,
+   "mode": "translate",
+   "ctx": "KEYMAPPING/QUICKKEYS.DAT | KEYBIND | DISPLAYNAME",
+   "en": "Best Pet Health Potion"
+  },
+  {
+   "id": 5600,
+   "mode": "translate",
+   "ctx": "KEYMAPPING/QUICKKEYS.DAT | KEYBIND | DISPLAYNAME",
+   "en": "Best Pet Mana Potion"
+  },
+  {
+   "id": 5601,
+   "mode": "translate",
+   "ctx": "KEYMAPPING/QUICKKEYS.DAT | KEYBIND | DISPLAYNAME",
+   "en": "Quickslot 0"
+  },
+  {
+   "id": 5602,
+   "mode": "translate",
+   "ctx": "KEYMAPPING/QUICKKEYS.DAT | KEYBIND | DISPLAYNAME",
+   "en": "Quickslot 1"
+  },
+  {
+   "id": 5603,
+   "mode": "translate",
+   "ctx": "KEYMAPPING/QUICKKEYS.DAT | KEYBIND | DISPLAYNAME",
+   "en": "Quickslot 2"
+  },
+  {
+   "id": 5604,
+   "mode": "translate",
+   "ctx": "KEYMAPPING/QUICKKEYS.DAT | KEYBIND | DISPLAYNAME",
+   "en": "Quickslot 3"
+  },
+  {
+   "id": 5605,
+   "mode": "translate",
+   "ctx": "KEYMAPPING/QUICKKEYS.DAT | KEYBIND | DISPLAYNAME",
+   "en": "Quickslot 4"
+  },
+  {
+   "id": 5606,
+   "mode": "translate",
+   "ctx": "KEYMAPPING/QUICKKEYS.DAT | KEYBIND | DISPLAYNAME",
+   "en": "Quickslot 5"
+  },
+  {
+   "id": 5607,
+   "mode": "translate",
+   "ctx": "KEYMAPPING/QUICKKEYS.DAT | KEYBIND | DISPLAYNAME",
+   "en": "Quickslot 6"
+  },
+  {
+   "id": 5608,
+   "mode": "translate",
+   "ctx": "KEYMAPPING/QUICKKEYS.DAT | KEYBIND | DISPLAYNAME",
+   "en": "Quickslot 7"
+  },
+  {
+   "id": 5609,
+   "mode": "translate",
+   "ctx": "KEYMAPPING/QUICKKEYS.DAT | KEYBIND | DISPLAYNAME",
+   "en": "Quickslot 8"
+  },
+  {
+   "id": 5610,
+   "mode": "translate",
+   "ctx": "KEYMAPPING/QUICKKEYS.DAT | KEYBIND | DISPLAYNAME",
+   "en": "Quickslot 9"
+  },
+  {
+   "id": 5611,
+   "mode": "translate",
+   "ctx": "PERKS/KILL10GOBLINS.DAT | PERK | DETAILS",
+   "en": "Converts each point of Fame earned into gold. And hopefully this will wrap around and do another line and well ... you know do stuff that would be cool!"
+  },
+  {
+   "id": 5612,
+   "mode": "translate",
+   "ctx": "PERKS/KILL10GOBLINS.DAT | PERK | NAME",
+   "en": "Filthy Lucre"
+  },
+  {
+   "id": 5613,
+   "mode": "translate",
+   "ctx": "RECIPES/2SETS_1RANDOMSET.DAT | #2070ae44 | RESULT",
+   "en": "A Random Set Item"
+  },
+  {
+   "id": 5614,
+   "mode": "translate",
+   "ctx": "RECIPES/2SETS_1RANDOMSET.DAT | INGREDIENT | DESCRIPTION",
+   "en": "Any set item"
+  },
+  {
+   "id": 5615,
+   "mode": "translate",
+   "ctx": "RECIPES/2SPELLS_1RANDOMSPELL.DAT | #2070ae44 | RESULT",
+   "en": "A Random Spell"
+  },
+  {
+   "id": 5616,
+   "mode": "translate",
+   "ctx": "RECIPES/2SPELLS_1RANDOMSPELL.DAT | INGREDIENT | DESCRIPTION",
+   "en": "Any spell"
+  },
+  {
+   "id": 5617,
+   "mode": "translate",
+   "ctx": "RECIPES/COMPONENT.DAT | #2070ae44 | RESULT",
+   "en": "A Random Unique"
+  },
+  {
+   "id": 5618,
+   "mode": "translate",
+   "ctx": "RECIPES/COMPONENT.DAT | INGREDIENT | DESCRIPTION",
+   "en": "Any Unique item"
+  },
+  {
+   "id": 5619,
+   "mode": "translate",
+   "ctx": "RECIPES/SKULLSANDRAREGEMS.DAT | #2070ae44 | RESULT",
+   "en": "High Grade Socketable"
+  },
+  {
+   "id": 5620,
+   "mode": "translate",
+   "ctx": "RECIPES/SOCKET.DAT | #2070ae44 | RESULT",
+   "en": "Add Socket to Item"
+  },
+  {
+   "id": 5621,
+   "mode": "translate",
+   "ctx": "RECIPES/SOCKET.DAT | INGREDIENT | DESCRIPTION",
+   "en": "Any gem of equal or greater level"
+  },
+  {
+   "id": 5622,
+   "mode": "translate",
+   "ctx": "RECIPES/SOCKET.DAT | INGREDIENT | DESCRIPTION",
+   "en": "Any unsocketed item"
+  },
+  {
+   "id": 5623,
+   "mode": "translate",
+   "ctx": "RESURRECT/RES_IN_DUNGEON.DAT | RESURRECTION | TITLE",
+   "en": "Entrance"
+  },
+  {
+   "id": 5624,
+   "mode": "translate",
+   "ctx": "RESURRECT/RES_IN_PLACE.DAT | RESURRECTION | DESCRIPTION",
+   "en": "Resurrect here, but lose [GOLD] Gold."
+  },
+  {
+   "id": 5625,
+   "mode": "translate",
+   "ctx": "RESURRECT/RES_IN_TOWN.DAT | RESURRECTION | TITLE",
+   "en": "Town"
+  },
+  {
+   "id": 5626,
+   "mode": "translate",
+   "ctx": "STATS/ARBITERAVATAR.DAT | STAT | DISPLAYNAME",
+   "en": "Avatar State"
+  },
+  {
+   "id": 5627,
+   "mode": "translate",
+   "ctx": "STATS/ARBITERHITCOUNTER.DAT | STAT | DISPLAYNAME",
+   "en": "Arbiter Hit Counter"
+  },
+  {
+   "id": 5628,
+   "mode": "translate",
+   "ctx": "STATS/BERSERKERRAGE.DAT | STAT | DISPLAYNAME",
+   "en": "Rage"
+  },
+  {
+   "id": 5629,
+   "mode": "translate",
+   "ctx": "STATS/BERSERKERRAGESTATE.DAT | STAT | DISPLAYNAME",
+   "en": "Berserker Rage State"
+  },
+  {
+   "id": 5630,
+   "mode": "translate",
+   "ctx": "STATS/BERSERKERRETALIATE.DAT | STAT | DISPLAYNAME",
+   "en": "Berserker retaliate"
+  },
+  {
+   "id": 5631,
+   "mode": "translate",
+   "ctx": "STATS/CHAMPSHIELD.DAT | STAT | DISPLAYNAME",
+   "en": "Champ Shield"
+  },
+  {
+   "id": 5632,
+   "mode": "translate",
+   "ctx": "STATS/CHARACTER DAMAGE MAX.DAT | STAT | DISPLAYNAME",
+   "en": "Character Damage Max"
+  },
+  {
+   "id": 5633,
+   "mode": "translate",
+   "ctx": "STATS/CHARACTER DPS BEST.DAT | STAT | DISPLAYNAME",
+   "en": "character dps best"
+  },
+  {
+   "id": 5634,
+   "mode": "translate",
+   "ctx": "STATS/CHARACTER DPS LEFTHAND.DAT | STAT | DISPLAYNAME",
+   "en": "character max damage righthand"
+  },
+  {
+   "id": 5635,
+   "mode": "translate",
+   "ctx": "STATS/CHARACTER STRENGTH.DAT | STAT | DISPLAYNAME",
+   "en": "CHARACTER STRENGTH"
+  },
+  {
+   "id": 5636,
+   "mode": "translate",
+   "ctx": "STATS/COMBOBLOOD.DAT | STAT | DISPLAYNAME",
+   "en": "Blood Combo Stat"
+  },
+  {
+   "id": 5637,
+   "mode": "translate",
+   "ctx": "STATS/COMBOELECTRIC.DAT | STAT | DISPLAYNAME",
+   "en": "Electric Combo Stat"
+  },
+  {
+   "id": 5638,
+   "mode": "translate",
+   "ctx": "STATS/COMBOFIRE.DAT | STAT | DISPLAYNAME",
+   "en": "Fire Combo Stat"
+  },
+  {
+   "id": 5639,
+   "mode": "translate",
+   "ctx": "STATS/COMBOICE.DAT | STAT | DISPLAYNAME",
+   "en": "Ice Combo Stat"
+  },
+  {
+   "id": 5640,
+   "mode": "translate",
+   "ctx": "STATS/COMBOPOISON.DAT | STAT | DISPLAYNAME",
+   "en": "Poison Combo Stat"
+  },
+  {
+   "id": 5641,
+   "mode": "translate",
+   "ctx": "STATS/CONSUMEDEAD.DAT | STAT | DISPLAYNAME",
+   "en": "Consume Dead"
+  },
+  {
+   "id": 5642,
+   "mode": "translate",
+   "ctx": "STATS/CURRENT_PLAYER_SKILL_PTS.DAT | STAT | DISPLAYNAME",
+   "en": "Current Player Skill Pts"
+  },
+  {
+   "id": 5643,
+   "mode": "translate",
+   "ctx": "STATS/CURRENT_PLAYER_STAT_PTS.DAT | STAT | DISPLAYNAME",
+   "en": "Current Player Stat Pts"
+  },
+  {
+   "id": 5644,
+   "mode": "translate",
+   "ctx": "STATS/DEFENSE.DAT | STAT | DISPLAYNAME",
+   "en": "Defense"
+  },
+  {
+   "id": 5645,
+   "mode": "translate",
+   "ctx": "STATS/EFFECT LEVEL.DAT | STAT | DISPLAYNAME",
+   "en": "Effect Level"
+  },
+  {
+   "id": 5646,
+   "mode": "translate",
+   "ctx": "STATS/ELECTRIFIED.DAT | STAT | DISPLAYNAME",
+   "en": "Electrified"
+  },
+  {
+   "id": 5647,
+   "mode": "translate",
+   "ctx": "STATS/EXPERIENCE LEVEL.DAT | STAT | DISPLAYNAME",
+   "en": "Character Level"
+  },
+  {
+   "id": 5648,
+   "mode": "translate",
+   "ctx": "STATS/GOALFLAG1.DAT | STAT | DISPLAYNAME",
+   "en": "GoalFlag1"
+  },
+  {
+   "id": 5649,
+   "mode": "translate",
+   "ctx": "STATS/GUTPUNCHED.DAT | STAT | DISPLAYNAME",
+   "en": "GUTPUNCHED"
+  },
+  {
+   "id": 5650,
+   "mode": "translate",
+   "ctx": "STATS/HITCOUNTERSEQUENTIAL.DAT | STAT | DISPLAYNAME",
+   "en": "Hit Counter Sequential"
+  },
+  {
+   "id": 5651,
+   "mode": "translate",
+   "ctx": "STATS/HITCOUNTERSIMULTANEOUS.DAT | STAT | DISPLAYNAME",
+   "en": "Hit Counter Simultaneous"
+  },
+  {
+   "id": 5652,
+   "mode": "translate",
+   "ctx": "STATS/IMMOBILIZED.DAT | STAT | DISPLAYNAME",
+   "en": "Immobilized"
+  },
+  {
+   "id": 5653,
+   "mode": "translate",
+   "ctx": "STATS/KILLCOUNT_ANY.DAT | STAT | DISPLAYNAME",
+   "en": "Monsters Slain"
+  },
+  {
+   "id": 5654,
+   "mode": "translate",
+   "ctx": "STATS/KILLCOUNT_CHAMPIONS.DAT | STAT | DISPLAYNAME",
+   "en": "Champions Slain"
+  },
+  {
+   "id": 5655,
+   "mode": "translate",
+   "ctx": "STATS/KILLCOUNT_DWARF.DAT | STAT | DISPLAYNAME",
+   "en": "Undead Dwarves Slain"
+  },
+  {
+   "id": 5656,
+   "mode": "translate",
+   "ctx": "STATS/KILLCOUNT_EZROHIR.DAT | STAT | DISPLAYNAME",
+   "en": "Ezrohir Slain"
+  },
+  {
+   "id": 5657,
+   "mode": "translate",
+   "ctx": "STATS/KILLCOUNT_FUNGUS.DAT | STAT | DISPLAYNAME",
+   "en": "Mycons Slain"
+  },
+  {
+   "id": 5658,
+   "mode": "translate",
+   "ctx": "STATS/KILLCOUNT_GOBLIN.DAT | STAT | DISPLAYNAME",
+   "en": "Goblins Slain"
+  },
+  {
+   "id": 5659,
+   "mode": "translate",
+   "ctx": "STATS/KILLCOUNT_MECHS.DAT | STAT | DISPLAYNAME",
+   "en": "Mechanical Enemies Slain"
+  },
+  {
+   "id": 5660,
+   "mode": "translate",
+   "ctx": "STATS/KILLCOUNT_NETHERIM.DAT | STAT | DISPLAYNAME",
+   "en": "Netherim Slain"
+  },
+  {
+   "id": 5661,
+   "mode": "translate",
+   "ctx": "STATS/KILLCOUNT_SPIDERS.DAT | STAT | DISPLAYNAME",
+   "en": "Spiders Slain"
+  },
+  {
+   "id": 5662,
+   "mode": "translate",
+   "ctx": "STATS/KILLCOUNT_STURMBEORN.DAT | STAT | DISPLAYNAME",
+   "en": "Sturmbeorn Slain"
+  },
+  {
+   "id": 5663,
+   "mode": "translate",
+   "ctx": "STATS/KILLCOUNT_TROGS.DAT | STAT | DISPLAYNAME",
+   "en": "Trogs Slain"
+  },
+  {
+   "id": 5664,
+   "mode": "translate",
+   "ctx": "STATS/KILLCOUNT_TUTARAN.DAT | STAT | DISPLAYNAME",
+   "en": "Tu'tarans Slain"
+  },
+  {
+   "id": 5665,
+   "mode": "translate",
+   "ctx": "STATS/KILLCOUNT_UNDEAD.DAT | STAT | DISPLAYNAME",
+   "en": "Undead Slain"
+  },
+  {
+   "id": 5666,
+   "mode": "translate",
+   "ctx": "STATS/KILLCOUNT_VARKOLYN.DAT | STAT | DISPLAYNAME",
+   "en": "Varkolyn Slain"
+  },
+  {
+   "id": 5667,
+   "mode": "translate",
+   "ctx": "STATS/LEYLINEBUFF.DAT | STAT | DISPLAYNAME",
+   "en": "Leyline Buff"
+  },
+  {
+   "id": 5668,
+   "mode": "translate",
+   "ctx": "STATS/LEYLINECREATIONCOUNTER.DAT | STAT | DISPLAYNAME",
+   "en": "Leyline Creation Counter"
+  },
+  {
+   "id": 5669,
+   "mode": "translate",
+   "ctx": "STATS/MAGIC.DAT | STAT | DISPLAYNAME",
+   "en": "Magic"
+  },
+  {
+   "id": 5670,
+   "mode": "translate",
+   "ctx": "STATS/MANA.DAT | STAT | DISPLAYNAME",
+   "en": "mana"
+  },
+  {
+   "id": 5671,
+   "mode": "translate",
+   "ctx": "STATS/MAX HP.DAT | STAT | DISPLAYNAME",
+   "en": "Max HP"
+  },
+  {
+   "id": 5672,
+   "mode": "translate",
+   "ctx": "STATS/MAXMANA.DAT | STAT | DISPLAYNAME",
+   "en": "Max Mana"
+  },
+  {
+   "id": 5673,
+   "mode": "translate",
+   "ctx": "STATS/NUMBEROFATTACKS.DAT | STAT | DISPLAYNAME",
+   "en": "Number of Attacks"
+  },
+  {
+   "id": 5674,
+   "mode": "translate",
+   "ctx": "STATS/PLAYER CHARGE PERCENT.DAT | STAT | DISPLAYNAME",
+   "en": "Charge Percent"
+  },
+  {
+   "id": 5675,
+   "mode": "translate",
+   "ctx": "STATS/PLAYER CHARGES.DAT | STAT | DISPLAYNAME",
+   "en": "Charges"
+  },
+  {
+   "id": 5676,
+   "mode": "translate",
+   "ctx": "STATS/PLAYER MAXED CHARGE.DAT | STAT | DISPLAYNAME",
+   "en": "Player Maxed Charge"
+  },
+  {
+   "id": 5677,
+   "mode": "translate",
+   "ctx": "STATS/RAILMANBONUS.DAT | STAT | DISPLAYNAME",
+   "en": "railman bonus"
+  },
+  {
+   "id": 5678,
+   "mode": "translate",
+   "ctx": "STATS/RATLINSLAYER.DAT | STAT | DISPLAYNAME",
+   "en": "zombieslayer"
+  },
+  {
+   "id": 5679,
+   "mode": "translate",
+   "ctx": "STATS/SHADOWBIND.DAT | STAT | DISPLAYNAME",
+   "en": "Shadow Bind Stat"
+  },
+  {
+   "id": 5680,
+   "mode": "translate",
+   "ctx": "STATS/SHIELD ARMOR.DAT | STAT | DISPLAYNAME",
+   "en": "Shield Armor"
+  },
+  {
+   "id": 5681,
+   "mode": "translate",
+   "ctx": "TRIGGERABLES/ARBITER_AVATAR.DAT | TRIGGERABLEACTION | DESCRIPTION",
+   "en": "Enter an enlightened state, requiring no mana to cast spells and greatly increasing casting speed"
+  },
+  {
+   "id": 5682,
+   "mode": "translate",
+   "ctx": "TRIGGERABLES/ARBITER_FIRE_BRAND.DAT | TRIGGERABLEACTION | DESCRIPTION",
+   "en": "Life steals when hitting enemies on fire"
+  },
+  {
+   "id": 5683,
+   "mode": "translate",
+   "ctx": "TRIGGERABLES/ARBITER_ICE_BRAND.DAT | TRIGGERABLEACTION | DESCRIPTION",
+   "en": "Mana regen when hitting frozen enemies"
+  },
+  {
+   "id": 5684,
+   "mode": "translate",
+   "ctx": "TRIGGERABLES/ARBITER_LIGHTNING_BRAND.DAT | TRIGGERABLEACTION | DESCRIPTION",
+   "en": "Damage buff when hitting electrified enemies"
+  },
+  {
+   "id": 5685,
+   "mode": "translate",
+   "ctx": "TRIGGERABLES/ARBITER_MANA_VAMPIRE.DAT | TRIGGERABLEACTION | DESCRIPTION",
+   "en": "Gain Mana on crit"
+  },
+  {
+   "id": 5686,
+   "mode": "translate",
+   "ctx": "TRIGGERABLES/BERSERKER_BERSERK.DAT | TRIGGERABLEACTION | DESCRIPTION",
+   "en": "Enter a berserk state, always critting and dealign bonus crit damage.  Each crit consumes some charge until the bar is empty"
+  },
+  {
+   "id": 5687,
+   "mode": "translate",
+   "ctx": "TRIGGERABLES/BERSERKER_BERSERK_CRIT.DAT | TRIGGERABLEACTION | DESCRIPTION",
+   "en": "On Crit and Enraged, start timer"
+  },
+  {
+   "id": 5688,
+   "mode": "translate",
+   "ctx": "TRIGGERABLES/BERSERKER_CHARGE_LEECH.DAT | TRIGGERABLEACTION | DESCRIPTION",
+   "en": "Gain Faster Charge Rate After Execute"
+  },
+  {
+   "id": 5689,
+   "mode": "translate",
+   "ctx": "TRIGGERABLES/BERSERKER_FRENZY_PASSIVE.DAT | TRIGGERABLEACTION | DESCRIPTION",
+   "en": "Frenzy on kills"
+  },
+  {
+   "id": 5690,
+   "mode": "translate",
+   "ctx": "TRIGGERABLES/BERSERKER_LIFE_LEECH.DAT | TRIGGERABLEACTION | DESCRIPTION",
+   "en": "Gain Health on Crit"
+  },
+  {
+   "id": 5691,
+   "mode": "translate",
+   "ctx": "TRIGGERABLES/BERSERKER_REDWOLF.DAT | TRIGGERABLEACTION | DESCRIPTION",
+   "en": "Summons a Red Wolf to attack your enemies when you crit"
+  },
+  {
+   "id": 5692,
+   "mode": "translate",
+   "ctx": "TRIGGERABLES/BERSERKER_RETALIATION.DAT | TRIGGERABLEACTION | DESCRIPTION",
+   "en": "Retaliate against enemies in melee range who attack you"
+  },
+  {
+   "id": 5693,
+   "mode": "translate",
+   "ctx": "TRIGGERABLES/ITEM_RATLIN_SLAYER_5_EFFECT.DAT | TRIGGERABLEACTION | DESCRIPTION",
+   "en": "|cFFEAAA15Augmented Weapon:\\n     Kill 5 Ratlins to Upgrade (<stat:GOALFLAG1>/5 killed)"
+  },
+  {
+   "id": 5694,
+   "mode": "translate",
+   "ctx": "TRIGGERABLES/ITEM_SLAYER_ANY_200.DAT | TRIGGERABLEACTION | DESCRIPTION",
+   "en": "|cFFEAAA15Augmented Weapon:\\n     Kill 250 monsters to Upgrade (<stat:killcount_any>/250 killed)"
+  },
+  {
+   "id": 5695,
+   "mode": "translate",
+   "ctx": "TRIGGERABLES/ITEM_SLAYER_ANY_25.DAT | TRIGGERABLEACTION | DESCRIPTION",
+   "en": "|cFFEAAA15Augmented Weapon:\\n     Kill 25 monsters to Upgrade (<stat:killcount_any>/25 killed)"
+  },
+  {
+   "id": 5696,
+   "mode": "translate",
+   "ctx": "TRIGGERABLES/ITEM_SLAYER_CHAMPION_10.DAT | TRIGGERABLEACTION | DESCRIPTION",
+   "en": "|cFFEAAA15Augmented Weapon:\\n     Kill 10 Champion Creatures to Upgrade (<stat:killcount_champions>/10 killed)"
+  },
+  {
+   "id": 5697,
+   "mode": "translate",
+   "ctx": "TRIGGERABLES/ITEM_SLAYER_CHAMPION_100.DAT | TRIGGERABLEACTION | DESCRIPTION",
+   "en": "|cFFEAAA15Augmented Weapon:\\n     Kill 100 Champion Creatures to Upgrade (<stat:killcount_champions>/100 killed)"
+  },
+  {
+   "id": 5698,
+   "mode": "translate",
+   "ctx": "TRIGGERABLES/ITEM_SLAYER_DWARF_100.DAT | TRIGGERABLEACTION | DESCRIPTION",
+   "en": "|cFFEAAA15Augmented Weapon:\\n     Kill 20 Dwarves to Upgrade (<stat:KILLCOUNT_DWARF>/20 killed)"
+  },
+  {
+   "id": 5699,
+   "mode": "translate",
+   "ctx": "TRIGGERABLES/ITEM_SLAYER_DWARF_1000.DAT | TRIGGERABLEACTION | DESCRIPTION",
+   "en": "|cFFEAAA15Augmented Weapon:\\n     Kill 200 Dwarves to Upgrade (<stat:KILLCOUNT_DWARF>/200 killed)"
+  },
+  {
+   "id": 5700,
+   "mode": "translate",
+   "ctx": "TRIGGERABLES/ITEM_SLAYER_EZROHIR_100.DAT | TRIGGERABLEACTION | DESCRIPTION",
+   "en": "|cFFEAAA15Augmented Weapon:\\n     Kill 50 Ezrohir to Upgrade (<stat:killcount_ezrohir>/50 killed)"
+  },
+  {
+   "id": 5701,
+   "mode": "translate",
+   "ctx": "TRIGGERABLES/ITEM_SLAYER_FUNGUS_100.DAT | TRIGGERABLEACTION | DESCRIPTION",
+   "en": "|cFFEAAA15Augmented Weapon:\\n     Kill 20 Mycons to Upgrade (<stat:killcount_fungus>/20 killed)"
+  },
+  {
+   "id": 5702,
+   "mode": "translate",
+   "ctx": "TRIGGERABLES/ITEM_SLAYER_FUNGUS_1000.DAT | TRIGGERABLEACTION | DESCRIPTION",
+   "en": "|cFFEAAA15Augmented Weapon:\\n     Kill 200 Mycons to Upgrade (<stat:killcount_fungus>/200 killed)"
+  },
+  {
+   "id": 5703,
+   "mode": "translate",
+   "ctx": "TRIGGERABLES/ITEM_SLAYER_GOBLIN_100.DAT | TRIGGERABLEACTION | DESCRIPTION",
+   "en": "|cFFEAAA15Augmented Weapon:\\n     Kill 20 Goblins to Upgrade (<stat:killcount_goblin>/20 killed)"
+  },
+  {
+   "id": 5704,
+   "mode": "translate",
+   "ctx": "TRIGGERABLES/ITEM_SLAYER_MECHANICAL_100.DAT | TRIGGERABLEACTION | DESCRIPTION",
+   "en": "|cFFEAAA15Augmented Weapon:\\n     Kill 20 Mechanical Creatures to Upgrade (<stat:killcount_mechs>/20 killed)"
+  },
+  {
+   "id": 5705,
+   "mode": "translate",
+   "ctx": "TRIGGERABLES/ITEM_SLAYER_NETHERIM_100.DAT | TRIGGERABLEACTION | DESCRIPTION",
+   "en": "|cFFEAAA15Augmented Weapon:\\n     Kill 50 Netherim to Upgrade (<stat:killcount_netherim>/50 killed)"
+  },
+  {
+   "id": 5706,
+   "mode": "translate",
+   "ctx": "TRIGGERABLES/ITEM_SLAYER_SPIDER_100.DAT | TRIGGERABLEACTION | DESCRIPTION",
+   "en": "|cFFEAAA15Augmented Weapon:\\n     Kill 20 Spiders to Upgrade (<stat:killcount_spiders>/20 killed)"
+  },
+  {
+   "id": 5707,
+   "mode": "translate",
+   "ctx": "TRIGGERABLES/ITEM_SLAYER_SPIDER_1000.DAT | TRIGGERABLEACTION | DESCRIPTION",
+   "en": "|cFFEAAA15Augmented Weapon:\\n     Kill 200 Spiders to Upgrade (<stat:killcount_spiders>/200 killed)"
+  },
+  {
+   "id": 5708,
+   "mode": "translate",
+   "ctx": "TRIGGERABLES/ITEM_SLAYER_STURMBEORN_100.DAT | TRIGGERABLEACTION | DESCRIPTION",
+   "en": "|cFFEAAA15Augmented Weapon:\\n     Kill 20 Sturmbeorn to Upgrade (<stat:killcount_sturmbeorn>/20 killed)"
+  },
+  {
+   "id": 5709,
+   "mode": "translate",
+   "ctx": "TRIGGERABLES/ITEM_SLAYER_TROG_100.DAT | TRIGGERABLEACTION | DESCRIPTION",
+   "en": "|cFFEAAA15Augmented Weapon:\\n     Kill 20 Trogs to Upgrade (<stat:killcount_trogs>/20 killed)"
+  },
+  {
+   "id": 5710,
+   "mode": "translate",
+   "ctx": "TRIGGERABLES/ITEM_SLAYER_TROG_1000.DAT | TRIGGERABLEACTION | DESCRIPTION",
+   "en": "|cFFEAAA15Augmented Weapon:\\n     Kill 200 Trogs to Upgrade (<stat:killcount_trogs>/200 killed)"
+  },
+  {
+   "id": 5711,
+   "mode": "translate",
+   "ctx": "TRIGGERABLES/ITEM_SLAYER_TUTARAN_100.DAT | TRIGGERABLEACTION | DESCRIPTION",
+   "en": "|cFFEAAA15Augmented Weapon:\\n     Kill 50 Tu'tarans to Upgrade (<stat:killcount_tutaran>/50 killed)"
+  },
+  {
+   "id": 5712,
+   "mode": "translate",
+   "ctx": "TRIGGERABLES/ITEM_SLAYER_UNDEAD_100.DAT | TRIGGERABLEACTION | DESCRIPTION",
+   "en": "|cFFEAAA15Augmented Weapon:\\n     Kill 100 Undead Creatures to Upgrade (<stat:KILLCOUNT_UNDEAD>/100 killed)"
+  },
+  {
+   "id": 5713,
+   "mode": "translate",
+   "ctx": "TRIGGERABLES/ITEM_SLAYER_UNDEAD_1000.DAT | TRIGGERABLEACTION | DESCRIPTION",
+   "en": "|cFFEAAA15Augmented Weapon:\\n     Kill 1000 Undead Creatures to Upgrade (<stat:KILLCOUNT_UNDEAD>/1000 killed)"
+  },
+  {
+   "id": 5714,
+   "mode": "translate",
+   "ctx": "TRIGGERABLES/ITEM_SLAYER_VARKOLYN_100.DAT | TRIGGERABLEACTION | DESCRIPTION",
+   "en": "|cFFEAAA15Augmented Weapon:\\n     Kill 20 Varkolyn to Upgrade (<stat:killcount_varkolyn>/20 killed)"
+  },
+  {
+   "id": 5715,
+   "mode": "translate",
+   "ctx": "TRIGGERABLES/ITEM_SLAYER_VARKOLYN_1000.DAT | TRIGGERABLEACTION | DESCRIPTION",
+   "en": "|cFFEAAA15Augmented Weapon:\\n     Kill 200 Varkolyn to Upgrade (<stat:killcount_varkolyn>/200 killed)"
+  },
+  {
+   "id": 5716,
+   "mode": "translate",
+   "ctx": "TRIGGERABLES/ITEM_ZOMBIE_SLAYER_100_SUMMONER.DAT | TRIGGERABLEACTION | DESCRIPTION",
+   "en": "|cFFEAAA15Augmented Weapon:\\n     Kill 50 Zombies to Upgrade (<stat:ZOMBIESLAYER>/50 killed)"
+  },
+  {
+   "id": 5717,
+   "mode": "translate",
+   "ctx": "TRIGGERABLES/ON_HIT_LIGHTNING.DAT | TRIGGERABLEACTION | DESCRIPTION",
+   "en": "Lightning enhanced critical attacks!"
+  },
+  {
+   "id": 5718,
+   "mode": "translate",
+   "ctx": "TRIGGERABLES/RANDOMSLAYER_CHAMP10_ATTACKSPEED.DAT | TRIGGERABLEACTION | DESCRIPTION",
+   "en": "|cFFEAAA15Augmented Weapon:\\n     Kill 10 Champion creatures to upgrade (<stat:killcount_champions_10_attackspeed>/10 killed)"
+  },
+  {
+   "id": 5719,
+   "mode": "translate",
+   "ctx": "TRIGGERABLES/RANDOMSLAYER_CHAMP10_CRIT.DAT | TRIGGERABLEACTION | DESCRIPTION",
+   "en": "|cFFEAAA15Augmented Weapon:\\n     Kill 10 Champion creatures to upgrade (<stat:killcount_champions_10_crit>/10 killed)"
+  },
+  {
+   "id": 5720,
+   "mode": "translate",
+   "ctx": "TRIGGERABLES/RANDOMSLAYER_CHAMP10_DAMAGEPCT.DAT | TRIGGERABLEACTION | DESCRIPTION",
+   "en": "|cFFEAAA15Augmented Weapon:\\n     Kill 10 Champion creatures to upgrade (<stat:killcount_champions_10_damagepct>/10 killed)"
+  },
+  {
+   "id": 5721,
+   "mode": "translate",
+   "ctx": "TRIGGERABLES/RANDOMSLAYER_CHAMP10_DOT.DAT | TRIGGERABLEACTION | DESCRIPTION",
+   "en": "|cFFEAAA15Augmented Weapon:\\n     Kill 10 Champion creatures to upgrade (<stat:killcount_champions_10_dot>/10 killed)"
+  },
+  {
+   "id": 5722,
+   "mode": "translate",
+   "ctx": "TRIGGERABLES/RANDOMSLAYER_CHAMP10_DUALWIELD.DAT | TRIGGERABLEACTION | DESCRIPTION",
+   "en": "|cFFEAAA15Augmented Weapon:\\n     Kill 10 Champion creatures to upgrade (<stat:killcount_champions_10_dualwield>/10 killed)"
+  },
+  {
+   "id": 5723,
+   "mode": "translate",
+   "ctx": "TRIGGERABLES/RANDOMSLAYER_CHAMP10_EXECUTE.DAT | TRIGGERABLEACTION | DESCRIPTION",
+   "en": "|cFFEAAA15Augmented Weapon:\\n     Kill 10 Champion creatures to upgrade (<stat:killcount_champions_10_execute>/10 killed)"
+  },
+  {
+   "id": 5724,
+   "mode": "translate",
+   "ctx": "TRIGGERABLES/RANDOMSLAYER_CHAMP10_IMMOB.DAT | TRIGGERABLEACTION | DESCRIPTION",
+   "en": "|cFFEAAA15Augmented Weapon:\\n     Kill 10 Champion creatures to upgrade (<stat:killcount_champions_10_immob>/10 killed)"
+  },
+  {
+   "id": 5725,
+   "mode": "translate",
+   "ctx": "TRIGGERABLES/RANDOMSLAYER_CHAMP10_KNOCKBACK.DAT | TRIGGERABLEACTION | DESCRIPTION",
+   "en": "|cFFEAAA15Augmented Weapon:\\n     Kill 10 Champion creatures to upgrade (<stat:killcount_champions_10_knockback>/10 killed)"
+  },
+  {
+   "id": 5726,
+   "mode": "translate",
+   "ctx": "TRIGGERABLES/RANDOMSLAYER_CHAMP10_LIFESTEAL.DAT | TRIGGERABLEACTION | DESCRIPTION",
+   "en": "|cFFEAAA15Augmented Weapon:\\n     Kill 10 Champion creatures to upgrade (<stat:killcount_champions_10_lifesteal>/10 killed)"
+  },
+  {
+   "id": 5727,
+   "mode": "translate",
+   "ctx": "TRIGGERABLES/RANDOMSLAYER_CHAMP10_MANASTEAL.DAT | TRIGGERABLEACTION | DESCRIPTION",
+   "en": "|cFFEAAA15Augmented Weapon:\\n     Kill 10 Champion creatures to upgrade (<stat:killcount_champions_10_manasteal>/10 killed)"
+  },
+  {
+   "id": 5728,
+   "mode": "translate",
+   "ctx": "TRIGGERABLES/RANDOMSLAYER_CHAMP10_MISSILERANGE.DAT | TRIGGERABLEACTION | DESCRIPTION",
+   "en": "|cFFEAAA15Augmented Weapon:\\n     Kill 10 Champion creatures to upgrade (<stat:killcount_champions_10_missilerange>/10 killed)"
+  },
+  {
+   "id": 5729,
+   "mode": "translate",
+   "ctx": "TRIGGERABLES/RANDOMSLAYER_CHAMP10_PROC_CHAOTICRIFT.DAT | TRIGGERABLEACTION | DESCRIPTION",
+   "en": "|cFFEAAA15Augmented Weapon:\\n     Kill 10 Champion creatures to upgrade (<stat:killcount_champions_10_proc_chaoticrift>/10 killed)"
+  },
+  {
+   "id": 5730,
+   "mode": "translate",
+   "ctx": "TRIGGERABLES/RANDOMSLAYER_CHAMP10_PROC_FULLHEAL.DAT | TRIGGERABLEACTION | DESCRIPTION",
+   "en": "|cFFEAAA15Augmented Weapon:\\n     Kill 10 Champion creatures to upgrade (<stat:killcount_champions_10_proc_fullheal>/10 killed)"
+  },
+  {
+   "id": 5731,
+   "mode": "translate",
+   "ctx": "TRIGGERABLES/RANDOMSLAYER_CHAMP10_PROC_STORMCLAW.DAT | TRIGGERABLEACTION | DESCRIPTION",
+   "en": "|cFFEAAA15Augmented Weapon:\\n     Kill 10 Champion creatures to upgrade (<stat:killcount_champions_10_stormclaw>/10 killed)"
+  },
+  {
+   "id": 5732,
+   "mode": "translate",
+   "ctx": "TRIGGERABLES/RANDOMSLAYER_CHAMP10_PROC_ZOMBIE.DAT | TRIGGERABLEACTION | DESCRIPTION",
+   "en": "|cFFEAAA15Augmented Weapon:\\n     Kill 10 Champion creatures to upgrade (<stat:killcount_champions_10_proc_zombie>/10 killed)"
+  },
+  {
+   "id": 5733,
+   "mode": "translate",
+   "ctx": "TRIGGERABLES/RANDOMSLAYER_CHAMP10_SHIELDBREAKER.DAT | TRIGGERABLEACTION | DESCRIPTION",
+   "en": "|cFFEAAA15Augmented Weapon:\\n     Kill 10 Champion creatures to upgrade (<stat:killcount_champions_10_shieldbreaker>/10 killed)"
+  },
+  {
+   "id": 5734,
+   "mode": "translate",
+   "ctx": "TRIGGERABLES/RANDOMSLAYER_CHAMP10_SHORTSTUN.DAT | TRIGGERABLEACTION | DESCRIPTION",
+   "en": "|cFFEAAA15Augmented Weapon:\\n     Kill 10 Champion creatures to upgrade (<stat:killcount_champions_10_shortstun>/10 killed)"
+  },
+  {
+   "id": 5735,
+   "mode": "translate",
+   "ctx": "TRIGGERABLES/RANDOMSLAYER_CHAMP10_SPLASH.DAT | TRIGGERABLEACTION | DESCRIPTION",
+   "en": "|cFFEAAA15Augmented Weapon:\\n     Kill 10 Champion creatures to upgrade (<stat:killcount_champions_10_splash>/10 killed)"
+  },
+  {
+   "id": 5736,
+   "mode": "translate",
+   "ctx": "TRIGGERABLES/RANDOMSLAYER_CHAMP10_TANGLE.DAT | TRIGGERABLEACTION | DESCRIPTION",
+   "en": "|cFFEAAA15Augmented Weapon:\\n     Kill 10 Champion creatures to upgrade (<stat:killcount_champions_10_tangle>/10 killed)"
+  },
+  {
+   "id": 5737,
+   "mode": "translate",
+   "ctx": "TRIGGERABLES/RANDOMSLAYER_CHAMP10_TURNALIGNMENT.DAT | TRIGGERABLEACTION | DESCRIPTION",
+   "en": "|cFFEAAA15Augmented Weapon:\\n     Kill 10 Champion creatures to upgrade (<stat:killcount_champions_10_turnalignment>/10 killed)"
+  },
+  {
+   "id": 5738,
+   "mode": "translate",
+   "ctx": "TRIGGERABLES/RANDOMSLAYER_MONSTER250_ATTACKSPEED.DAT | TRIGGERABLEACTION | DESCRIPTION",
+   "en": "|cFFEAAA15Augmented Weapon:\\n     Kill 250 enemies to upgrade (<stat:killcount_any_250_attackspeed>/250 killed)"
+  },
+  {
+   "id": 5739,
+   "mode": "translate",
+   "ctx": "TRIGGERABLES/RANDOMSLAYER_MONSTER250_CRIT.DAT | TRIGGERABLEACTION | DESCRIPTION",
+   "en": "|cFFEAAA15Augmented Weapon:\\n     Kill 250 enemies to upgrade (<stat:killcount_any_250_crit>/250 killed)"
+  },
+  {
+   "id": 5740,
+   "mode": "translate",
+   "ctx": "TRIGGERABLES/RANDOMSLAYER_MONSTER250_DAMAGEPCT.DAT | TRIGGERABLEACTION | DESCRIPTION",
+   "en": "|cFFEAAA15Augmented Weapon:\\n     Kill 250 enemies to upgrade (<stat:killcount_any_250_damagepct>/250 killed)"
+  },
+  {
+   "id": 5741,
+   "mode": "translate",
+   "ctx": "TRIGGERABLES/RANDOMSLAYER_MONSTER250_DOT.DAT | TRIGGERABLEACTION | DESCRIPTION",
+   "en": "|cFFEAAA15Augmented Weapon:\\n     Kill 250 enemies to upgrade (<stat:killcount_any_250_dot>/250 killed)"
+  },
+  {
+   "id": 5742,
+   "mode": "translate",
+   "ctx": "TRIGGERABLES/RANDOMSLAYER_MONSTER250_DUALWIELD.DAT | TRIGGERABLEACTION | DESCRIPTION",
+   "en": "|cFFEAAA15Augmented Weapon:\\n     Kill 250 enemies to upgrade (<stat:killcount_any_250_dualwield>/250 killed)"
+  },
+  {
+   "id": 5743,
+   "mode": "translate",
+   "ctx": "TRIGGERABLES/RANDOMSLAYER_MONSTER250_EXECUTE.DAT | TRIGGERABLEACTION | DESCRIPTION",
+   "en": "|cFFEAAA15Augmented Weapon:\\n     Kill 250 enemies to upgrade (<stat:killcount_any_250_execute>/250 killed)"
+  },
+  {
+   "id": 5744,
+   "mode": "translate",
+   "ctx": "TRIGGERABLES/RANDOMSLAYER_MONSTER250_IMMOB.DAT | TRIGGERABLEACTION | DESCRIPTION",
+   "en": "|cFFEAAA15Augmented Weapon:\\n     Kill 250 enemies to upgrade (<stat:killcount_any_250_immob>/250 killed)"
+  },
+  {
+   "id": 5745,
+   "mode": "translate",
+   "ctx": "TRIGGERABLES/RANDOMSLAYER_MONSTER250_KNOCKBACK.DAT | TRIGGERABLEACTION | DESCRIPTION",
+   "en": "|cFFEAAA15Augmented Weapon:\\n     Kill 250 enemies to upgrade (<stat:killcount_any_250_knockback>/250 killed)"
+  },
+  {
+   "id": 5746,
+   "mode": "translate",
+   "ctx": "TRIGGERABLES/RANDOMSLAYER_MONSTER250_LIFESTEAL.DAT | TRIGGERABLEACTION | DESCRIPTION",
+   "en": "|cFFEAAA15Augmented Weapon:\\n     Kill 250 enemies to upgrade (<stat:killcount_any_250_lifesteal>/250 killed)"
+  },
+  {
+   "id": 5747,
+   "mode": "translate",
+   "ctx": "TRIGGERABLES/RANDOMSLAYER_MONSTER250_MANASTEAL.DAT | TRIGGERABLEACTION | DESCRIPTION",
+   "en": "|cFFEAAA15Augmented Weapon:\\n     Kill 250 enemies to upgrade (<stat:killcount_any_250_manasteal>/250 killed)"
+  },
+  {
+   "id": 5748,
+   "mode": "translate",
+   "ctx": "TRIGGERABLES/RANDOMSLAYER_MONSTER250_MISSILERANGE.DAT | TRIGGERABLEACTION | DESCRIPTION",
+   "en": "|cFFEAAA15Augmented Weapon:\\n     Kill 250 enemies to upgrade (<stat:killcount_any_250_missilerange>/250 killed)"
+  },
+  {
+   "id": 5749,
+   "mode": "translate",
+   "ctx": "TRIGGERABLES/RANDOMSLAYER_MONSTER250_PROC_CHAOTICRIFT.DAT | TRIGGERABLEACTION | DESCRIPTION",
+   "en": "|cFFEAAA15Augmented Weapon:\\n     Kill 250 enemies to upgrade (<stat:killcount_any_250_proc_chaoticrift>/250 killed)"
+  },
+  {
+   "id": 5750,
+   "mode": "translate",
+   "ctx": "TRIGGERABLES/RANDOMSLAYER_MONSTER250_PROC_FULLHEAL.DAT | TRIGGERABLEACTION | DESCRIPTION",
+   "en": "|cFFEAAA15Augmented Weapon:\\n     Kill 250 enemies to upgrade (<stat:killcount_any_250_proc_fullheal>/250 killed)"
+  },
+  {
+   "id": 5751,
+   "mode": "translate",
+   "ctx": "TRIGGERABLES/RANDOMSLAYER_MONSTER250_PROC_STORMCLAW.DAT | TRIGGERABLEACTION | DESCRIPTION",
+   "en": "|cFFEAAA15Augmented Weapon:\\n     Kill 250 enemies to upgrade (<stat:killcount_any_250_proc_stormclaw>/250 killed)"
+  },
+  {
+   "id": 5752,
+   "mode": "translate",
+   "ctx": "TRIGGERABLES/RANDOMSLAYER_MONSTER250_PROC_ZOMBIE.DAT | TRIGGERABLEACTION | DESCRIPTION",
+   "en": "|cFFEAAA15Augmented Weapon:\\n     Kill 250 enemies to upgrade (<stat:killcount_any_250_proc_zombie>/250 killed)"
+  },
+  {
+   "id": 5753,
+   "mode": "translate",
+   "ctx": "TRIGGERABLES/RANDOMSLAYER_MONSTER250_SHIELDBREAKER.DAT | TRIGGERABLEACTION | DESCRIPTION",
+   "en": "|cFFEAAA15Augmented Weapon:\\n     Kill 250 enemies to upgrade (<stat:killcount_any_250_shieldbreaker>/250 killed)"
+  },
+  {
+   "id": 5754,
+   "mode": "translate",
+   "ctx": "TRIGGERABLES/RANDOMSLAYER_MONSTER250_SHORTSTUN.DAT | TRIGGERABLEACTION | DESCRIPTION",
+   "en": "|cFFEAAA15Augmented Weapon:\\n     Kill 250 enemies to upgrade (<stat:killcount_any_250_shortstun>/250 killed)"
+  },
+  {
+   "id": 5755,
+   "mode": "translate",
+   "ctx": "TRIGGERABLES/RANDOMSLAYER_MONSTER250_SPLASH.DAT | TRIGGERABLEACTION | DESCRIPTION",
+   "en": "|cFFEAAA15Augmented Weapon:\\n     Kill 250 enemies to upgrade (<stat:killcount_any_250_splash>/250 killed)"
+  },
+  {
+   "id": 5756,
+   "mode": "translate",
+   "ctx": "TRIGGERABLES/RANDOMSLAYER_MONSTER250_TANGLE.DAT | TRIGGERABLEACTION | DESCRIPTION",
+   "en": "|cFFEAAA15Augmented Weapon:\\n     Kill 250 enemies to upgrade (<stat:killcount_any_250_tangle>/250 killed)"
+  },
+  {
+   "id": 5757,
+   "mode": "translate",
+   "ctx": "TRIGGERABLES/RANDOMSLAYER_MONSTER250_TURNALIGNMENT.DAT | TRIGGERABLEACTION | DESCRIPTION",
+   "en": "|cFFEAAA15Augmented Weapon:\\n     Kill 250 enemies to upgrade (<stat:killcount_any_250_turnalignment>/250 killed)"
+  },
+  {
+   "id": 5758,
+   "mode": "translate",
+   "ctx": "TRIGGERABLES/RANDOMSLAYER_MONSTER25_ATTACKSPEED.DAT | TRIGGERABLEACTION | DESCRIPTION",
+   "en": "|cFFEAAA15Augmented Weapon:\\n     Kill 25 enemies to upgrade (<stat:killcount_any_25_attackspeed>/25 killed)"
+  },
+  {
+   "id": 5759,
+   "mode": "translate",
+   "ctx": "TRIGGERABLES/RANDOMSLAYER_MONSTER25_CRIT.DAT | TRIGGERABLEACTION | DESCRIPTION",
+   "en": "|cFFEAAA15Augmented Weapon:\\n     Kill 25 enemies to upgrade (<stat:killcount_any_25_crit>/25 killed)"
+  },
+  {
+   "id": 5760,
+   "mode": "translate",
+   "ctx": "TRIGGERABLES/RANDOMSLAYER_MONSTER25_DAMAGEPCT.DAT | TRIGGERABLEACTION | DESCRIPTION",
+   "en": "|cFFEAAA15Augmented Weapon:\\n     Kill 25 enemies to upgrade (<stat:killcount_any_25_damagepct>/25 killed)"
+  },
+  {
+   "id": 5761,
+   "mode": "translate",
+   "ctx": "TRIGGERABLES/RANDOMSLAYER_MONSTER25_DOT.DAT | TRIGGERABLEACTION | DESCRIPTION",
+   "en": "|cFFEAAA15Augmented Weapon:\\n     Kill 25 enemies to upgrade (<stat:killcount_any_25_dot>/25 killed)"
+  },
+  {
+   "id": 5762,
+   "mode": "translate",
+   "ctx": "TRIGGERABLES/RANDOMSLAYER_MONSTER25_DUALWIELD.DAT | TRIGGERABLEACTION | DESCRIPTION",
+   "en": "|cFFEAAA15Augmented Weapon:\\n     Kill 25 enemies to upgrade (<stat:killcount_any_25_dualwield>/25 killed)"
+  },
+  {
+   "id": 5763,
+   "mode": "translate",
+   "ctx": "TRIGGERABLES/RANDOMSLAYER_MONSTER25_EXECUTE.DAT | TRIGGERABLEACTION | DESCRIPTION",
+   "en": "|cFFEAAA15Augmented Weapon:\\n     Kill 25 enemies to upgrade (<stat:killcount_any_25_execute>/25 killed)"
+  },
+  {
+   "id": 5764,
+   "mode": "translate",
+   "ctx": "TRIGGERABLES/RANDOMSLAYER_MONSTER25_IMMOB.DAT | TRIGGERABLEACTION | DESCRIPTION",
+   "en": "|cFFEAAA15Augmented Weapon:\\n     Kill 25 enemies to upgrade (<stat:killcount_any_25_immob>/25 killed)"
+  },
+  {
+   "id": 5765,
+   "mode": "translate",
+   "ctx": "TRIGGERABLES/RANDOMSLAYER_MONSTER25_KNOCKBACK.DAT | TRIGGERABLEACTION | DESCRIPTION",
+   "en": "|cFFEAAA15Augmented Weapon:\\n     Kill 25 enemies to upgrade (<stat:killcount_any_25_knockback>/25 killed)"
+  },
+  {
+   "id": 5766,
+   "mode": "translate",
+   "ctx": "TRIGGERABLES/RANDOMSLAYER_MONSTER25_LIFESTEAL.DAT | TRIGGERABLEACTION | DESCRIPTION",
+   "en": "|cFFEAAA15Augmented Weapon:\\n     Kill 25 enemies to upgrade (<stat:killcount_any_25_lifesteal>/25 killed)"
+  },
+  {
+   "id": 5767,
+   "mode": "translate",
+   "ctx": "TRIGGERABLES/RANDOMSLAYER_MONSTER25_MANASTEAL.DAT | TRIGGERABLEACTION | DESCRIPTION",
+   "en": "|cFFEAAA15Augmented Weapon:\\n     Kill 25 enemies to upgrade (<stat:killcount_any_25_manasteal>/25 killed)"
+  },
+  {
+   "id": 5768,
+   "mode": "translate",
+   "ctx": "TRIGGERABLES/RANDOMSLAYER_MONSTER25_MISSILERANGE.DAT | TRIGGERABLEACTION | DESCRIPTION",
+   "en": "|cFFEAAA15Augmented Weapon:\\n     Kill 25 enemies to upgrade (<stat:killcount_any_25_missilerange>/25 killed)"
+  },
+  {
+   "id": 5769,
+   "mode": "translate",
+   "ctx": "TRIGGERABLES/RANDOMSLAYER_MONSTER25_PROC_CHAOTICRIFT.DAT | TRIGGERABLEACTION | DESCRIPTION",
+   "en": "|cFFEAAA15Augmented Weapon:\\n     Kill 25 enemies to upgrade (<stat:killcount_any_25_proc_chaoticrift>/25 killed)"
+  },
+  {
+   "id": 5770,
+   "mode": "translate",
+   "ctx": "TRIGGERABLES/RANDOMSLAYER_MONSTER25_PROC_FULLHEAL.DAT | TRIGGERABLEACTION | DESCRIPTION",
+   "en": "|cFFEAAA15Augmented Weapon:\\n     Kill 25 enemies to upgrade (<stat:killcount_any_25_proc_fullheal>/25 killed)"
+  },
+  {
+   "id": 5771,
+   "mode": "translate",
+   "ctx": "TRIGGERABLES/RANDOMSLAYER_MONSTER25_PROC_STRORMCLAW.DAT | TRIGGERABLEACTION | DESCRIPTION",
+   "en": "|cFFEAAA15Augmented Weapon:\\n     Kill 25 enemies to upgrade (<stat:killcount_any_25_stormclaw>/25 killed)"
+  },
+  {
+   "id": 5772,
+   "mode": "translate",
+   "ctx": "TRIGGERABLES/RANDOMSLAYER_MONSTER25_PROC_ZOMBIE.DAT | TRIGGERABLEACTION | DESCRIPTION",
+   "en": "|cFFEAAA15Augmented Weapon:\\n     Kill 25 enemies to upgrade (<stat:killcount_any_25_proc_zombie>/25 killed)"
+  },
+  {
+   "id": 5773,
+   "mode": "translate",
+   "ctx": "TRIGGERABLES/RANDOMSLAYER_MONSTER25_SHIELDBREAKER.DAT | TRIGGERABLEACTION | DESCRIPTION",
+   "en": "|cFFEAAA15Augmented Weapon:\\n     Kill 25 enemies to upgrade (<stat:killcount_any_25_shieldbreaker>/25 killed)"
+  },
+  {
+   "id": 5774,
+   "mode": "translate",
+   "ctx": "TRIGGERABLES/RANDOMSLAYER_MONSTER25_SHORTSTUN.DAT | TRIGGERABLEACTION | DESCRIPTION",
+   "en": "|cFFEAAA15Augmented Weapon:\\n     Kill 25 enemies to upgrade (<stat:killcount_any_25_shortstun>/25 killed)"
+  },
+  {
+   "id": 5775,
+   "mode": "translate",
+   "ctx": "TRIGGERABLES/RANDOMSLAYER_MONSTER25_SPLASH.DAT | TRIGGERABLEACTION | DESCRIPTION",
+   "en": "|cFFEAAA15Augmented Weapon:\\n     Kill 25 enemies to upgrade (<stat:killcount_any_25_splash>/25 killed)"
+  },
+  {
+   "id": 5776,
+   "mode": "translate",
+   "ctx": "TRIGGERABLES/RANDOMSLAYER_MONSTER25_TANGLE.DAT | TRIGGERABLEACTION | DESCRIPTION",
+   "en": "|cFFEAAA15Augmented Weapon:\\n     Kill 25 enemies to upgrade (<stat:killcount_any_25_tangle>/25 killed)"
+  },
+  {
+   "id": 5777,
+   "mode": "translate",
+   "ctx": "TRIGGERABLES/RANDOMSLAYER_MONSTER25_TURNALIGNMENT.DAT | TRIGGERABLEACTION | DESCRIPTION",
+   "en": "|cFFEAAA15Augmented Weapon:\\n     Kill 25 enemies to upgrade (<stat:killcount_any_25_turnalignment>/25 killed)"
+  },
+  {
+   "id": 5778,
+   "mode": "translate",
+   "ctx": "TRIGGERABLES/WANDERER_DEPLETE.DAT | TRIGGERABLEACTION | DESCRIPTION",
+   "en": "Enter a state of calm, dealing bonus weapon DPS and stunning your next target."
+  },
+  {
+   "id": 5779,
+   "mode": "translate",
+   "ctx": "TRIGGERABLES/WANDERER_MAX.DAT | TRIGGERABLEACTION | DESCRIPTION",
+   "en": "Enter a focused state, adding further critical hit, dodge, and bonuses as long as the wanderer is fully charged"
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+@@ 4137
+-[VALUE]% tỉ lệ Execute
+@@ 4187
+Tăng [VALUE]% tỉ lệ Fumble
+@@ 4188
+Tăng [VALUE]% mức phạt sát thương Fumble
+@@ 4295
+Tăng [VALUE]% tỉ lệ Fumble trong [DURATION]
+@@ 4296
+Tăng [VALUE]% mức phạt sát thương Fumble trong [DURATION]
+@@ 4360
++[VALUE]% tỉ lệ Execute
+@@ 4481
+Giảm [VALUE]% tỉ lệ Fumble
+@@ 4482
+Giảm [VALUE]% mức phạt sát thương Fumble
+@@ 4613
+Giảm [VALUE]% tỉ lệ Fumble trong [DURATION]
+@@ 4614
+Giảm [VALUE]% mức phạt sát thương Fumble trong [DURATION]

@@ -1,0 +1,300 @@
+@@ 4517
++[VALUE]% tỉ lệ chí mạng trong [DURATION]
+@@ 4518
++[VALUE]% Dexterity trong [DURATION]
+@@ 4519
++[VALUE]% tỉ lệ né tránh trong [DURATION]
+@@ 4520
++[VALUE]% Focus trong [DURATION]
+@@ 4521
++[VALUE]% máu trong [DURATION]
+@@ 4522
++[VALUE]% tỉ lệ ngắt đòn trong [DURATION]
+@@ 4523
++[VALUE]% Mana trong [DURATION]
+@@ 4524
++[VALUE]% sát thương vũ khí cận chiến trong [DURATION]
+@@ 4525
++[VALUE]% sát thương vũ khí cận chiến trong [DURATION]
+@@ 4526
++[VALUE]% hiệu quả Potion trong [DURATION]
+@@ 4527
++[VALUE]% sát thương vũ khí tầm xa trong [DURATION]
+@@ 4528
++[VALUE]% sát thương vũ khí tầm xa trong [DURATION]
+@@ 4529
++[VALUE]% Strength trong [DURATION]
+@@ 4530
++[VALUE]% Vitality trong [DURATION]
+@@ 4531
++[VALUE]% sát thương Wand và Staff trong [DURATION]
+@@ 4532
++[VALUE]% tỉ lệ đỡ đòn trong [DURATION]
+@@ 4533
++[VALUE]% giáp của Pet và tay sai trong [DURATION]
+@@ 4534
++[VALUE]% sát thương của Pet và tay sai trong [DURATION]
+@@ 4535
++[VALUE]% máu của Pet và tay sai trong [DURATION]
+@@ 4536
++[VALUE]% tốc độ của Pet và tay sai trong [DURATION]
+@@ 4537
++[VALUE]% giáp [DMGTYPE] trong [DURATION]
+@@ 4538
++[VALUE]% sát thương [DMGTYPE] trong [DURATION]
+@@ 4539
++[VALUE]% Mana tiêu hao của kỹ năng trong [DURATION]
+@@ 4540
++[VALUE]% |c00ff9933Charge|u mất đi mỗi giây do hao hụt trong [DURATION] tới
+@@ 4541
++[VALUE]m tầm bắn của Bow, Crossbow, Pistol và Wand trong [DURATION]
+@@ 4542
+-[VALUE] mọi loại giáp mỗi đòn đánh trong [DURATION]
+@@ 4543
+-[VALUE] yêu cầu trang bị giáp trong [DURATION]
+@@ 4544
+-[VALUE] yêu cầu học phép trong [DURATION]
+@@ 4545
+-[VALUE] mọi yêu cầu chỉ số nhân vật của vật phẩm trong [DURATION]
+@@ 4546
+-[VALUE] yêu cầu trang bị pháp sư trong [DURATION]
+@@ 4547
+-[VALUE] yêu cầu trang bị chiến binh trong [DURATION]
+@@ 4548
+-[VALUE] yêu cầu trang bị tầm xa trong [DURATION]
+@@ 4549
+Tạo [VALUE]% |c00ff9933Charge|u mỗi giây trong [DURATION]
+@@ 4550
+Tăng [VALUE] điểm Charge trên thanh trong [DURATION]
+@@ 4551
+Tay sai gây [VALUE_OT] sát thương [DMGTYPE] trong [DURATION]
+@@ 4552
+Câm lặng trong [DURATION]
+@@ 4553
+Đổi vị trí với Pet sau [VALUE] giây
+@@ 4554
+Khóa mục tiêu trong [DURATION] giây
+@@ 4555
+Thời gian trước khi |c00ff9933Charge|u hao hụt được kéo dài thêm [VALUE] giây trong [DURATION]
+@@ 4556
+Thời gian biến hình tăng [VALUE]% trong [DURATION].
+@@ 4557
+Sát thương [DMGTYPE] nhận vào giảm [VALUE]% trong [DURATION]
+@@ 4558
+Sát thương [DMGTYPE] nhận vào giảm [VALUE] trong [DURATION]
+@@ 4559
+[VALUE3]% tỉ lệ làm mù [VALUE]% trong [DURATION]
+@@ 4560
+[VALUE3]% tỉ lệ sinh ra [VALUE1] đơn vị khi chết trong [DURATION]
+@@ 4561
+[VALUE3]% tỉ lệ sinh ra [VALUE1] đơn vị trong [DURATION]
+@@ 4562
+[VALUE5]% tỉ lệ gây [VALUE_OT] sát thương [DMGTYPE] trong [DURATION]
+@@ 4563
+Hồi [VALUE] máu trong [DURATION]
+@@ 4564
+Hút [VALUE] máu cho chủ nhân khi đánh trúng trong [DURATION]
+@@ 4565
+Hút [VALUE] máu khi đánh trúng trong [DURATION]
+@@ 4566
+Hồi [VALUE] Mana trong [DURATION]
+@@ 4567
+Hút [VALUE] Mana khi đánh trúng trong [DURATION]
+@@ 4568
+[VALUE] sát thương [DMGTYPE] phản lại trong [DURATION]
+@@ 4569
+Hấp thụ [VALUE] điểm sát thương [DMGTYPE] trong [DURATION]
+@@ 4570
+Giảm [VALUE]% sát thương khi cầm hai vũ khí trong [DURATION]
+@@ 4571
+Phản [VALUE]% sát thương lại kẻ tấn công trong [DURATION]
+@@ 4572
+[VALUE]% hồi máu trong [DURATION]
+@@ 4573
+[VALUE]% hút máu trong [DURATION]
+@@ 4574
+[VALUE]% hút máu cho chủ nhân trong [DURATION]
+@@ 4575
+[VALUE]% kháng bất động trong [DURATION]
+@@ 4576
+Tăng [VALUE]% tỉ lệ đánh trượt trong [DURATION]
+@@ 4577
+[VALUE]% kháng đẩy lùi trong [DURATION]
+@@ 4578
+[VALUE]% hút Mana trong [DURATION]
+@@ 4579
+Tăng [VALUE]% tầm nhìn trong [DURATION]
+@@ 4580
+[VALUE]% kháng làm chậm trong [DURATION]
+@@ 4581
+[VALUE]% kháng choáng trong [DURATION]
+@@ 4582
+Tăng [VALUE]% góc nhìn trong [DURATION]
+@@ 4583
+Tăng [VALUE]% sát thương chí mạng trong [DURATION]
+@@ 4584
+[VALUE]% tỉ lệ để chủ nhân chuyển mục tiêu sang đơn vị trong phạm vi [VALUE2] mét trong [DURATION] giây
+@@ 4585
+[VALUE]% tỉ lệ làm mù trong [DURATION]
+@@ 4586
+[VALUE]% tỉ lệ đỡ đòn trong [DURATION]
+@@ 4587
+[VALUE]% tỉ lệ thiêu đốt trong [DURATION]
+@@ 4588
+[VALUE]% tỉ lệ đóng băng trong [DURATION]
+@@ 4589
+[VALUE]% tỉ lệ gây trúng độc trong [DURATION]
+@@ 4590
+[VALUE]% tỉ lệ gây sốc điện trong [DURATION]
+@@ 4591
+[VALUE]% tỉ lệ làm choáng mục tiêu trong [DURATION]
+@@ 4592
+[VALUE]% tỉ lệ khiêu khích quái cách xa [VALUE2] mét trong [DURATION]
+@@ 4593
+[VALUE]% tỉ lệ thi triển [NAME] vào mục tiêu trong [DURATION]
+@@ 4594
+[VALUE]% tỉ lệ thi triển [NAME] trong [DURATION]
+@@ 4595
+[VALUE]% tỉ lệ thi triển [NAME] từ mục tiêu trong [DURATION]
+@@ 4596
+[VALUE]% tỉ lệ thi triển [NAME] khi chết trong [DURATION]
+@@ 4597
+[VALUE]% tỉ lệ thi triển [NAME] khi tiêu diệt kẻ địch trong [DURATION]
+@@ 4598
+[VALUE]% tỉ lệ thi triển [NAME] khi đánh trúng trong [DURATION]
+@@ 4599
+[VALUE]% tỉ lệ thi triển [NAME] lên mục tiêu trong [DURATION]
+@@ 4600
+[VALUE]% tỉ lệ thi triển [NAME] khi bạn bị đánh trúng trong [DURATION]
+@@ 4601
+[VALUE]% tỉ lệ vô hiệu hóa bẫy trong [DURATION]
+@@ 4602
+[VALUE]% tỉ lệ làm bất động mục tiêu trong [DURATION]
+@@ 4603
+[VALUE]% tỉ lệ phản đạn với [VALUE3AND4]% DPS vũ khí\n     trong [DURATION]
+@@ 4604
+Giảm [VALUE]% thời gian Pet đi về thị trấn trong [DURATION]
+@@ 4605
+Tăng [VALUE]% tốc độ di chuyển trong [DURATION]
+@@ 4606
+Giá mua bán với thương nhân tốt hơn [VALUE]% trong [DURATION]
+@@ 4607
+Tăng [VALUE]% may mắn tìm đồ ma thuật trong [DURATION]
+@@ 4608
+Tăng [VALUE]% lượng kinh nghiệm nhận được trong [DURATION]
+@@ 4609
+Tăng [VALUE]% lượng Fame nhận được trong [DURATION]
+@@ 4610
+Tăng [VALUE]% lượng vàng nhặt được trong [DURATION]
+@@ 4611
+Tăng [VALUE]% may mắn câu cá trong [DURATION]
+@@ 4612
+Giảm [VALUE]% yêu cầu cấp của vật phẩm trong [DURATION]
+@@ 4613
+Giảm [VALUE]% tỉ lệ ra đòn hỏng trong [DURATION]
+@@ 4614
+Giảm [VALUE]% mức phạt sát thương khi ra đòn hỏng trong [DURATION]
+@@ 4615
+[VALUE]% kháng mù trong [DURATION]
+@@ 4616
+[VALUE]% kháng dịch chuyển trong [DURATION]
+@@ 4617
+[VALUE_OT] sát thương [DMGTYPE] trong [DURATION]
+@@ 4618
+Tốc độ hao hụt |c00ff9933Charge|u giảm [VALUE]% trong [DURATION]
+@@ 4619
+Tốc độ tích |c00ff9933Charge|u tăng [VALUE]% trong [DURATION]
+@@ 4620
+Chặn đòn tấn công cho đến khi các tấm giáp bị phá hủy
+@@ 4621
+Champion Beast - Chặn đòn tấn công cho đến khi các tấm giáp bị phá hủy
+@@ 4622
+Bọc giáp - Chặn đòn cho đến khi lớp giáp bị phá hủy
+@@ 4623
+Lướt trong bóng tối
+@@ 4624
+Thủ lĩnh băng cướp - Ném thùng thuốc nổ
+@@ 4625
+Thủ lĩnh băng cướp - Ném bình lửa
+@@ 4626
+Khiên chặn sát thương
+@@ 4627
+Miễn nhiễm đẩy lùi - Không thể bị ngắt đòn
+@@ 4628
+Thủ lĩnh Estherian
+@@ 4629
+Ném rìu bổ củi - Không thể bị ngắt đòn
+@@ 4630
+Mũi tên Corpsefire - Miễn nhiễm đẩy lùi - Không thể bị ngắt đòn
+@@ 4631
+Ánh nhìn hóa đá
+@@ 4632
+Champion Basilisk
+@@ 4633
+Champion Beast - Ánh nhìn hóa đá
+@@ 4634
+Phun ra những vũng lửa - Kháng Fire
+@@ 4635
+Khạc nước bọt độc hại
+@@ 4636
+Ổ sinh sản Blight Slug
+@@ 4637
+Dùng lưỡi quấn bẫy
+@@ 4638
+Sinh ra Roachling
+@@ 4639
+Sinh ra Sandrat
+@@ 4640
+Triệu hồi mây xương
+@@ 4641
+Lưỡi kiếm năng lượng
+@@ 4642
+Tia Mana - Kiếm phân tách
+@@ 4643
+Kiến trúc sư Ezrohir - Vuốt tóm - Tấn công bằng tia - Đạn truy đuổi - Tấn công sốc điện
+@@ 4644
+Lao vào tấn công - Nôn mửa tấn công - Nhảy lên đập - Ném tảng đá - Ăn xác chết
+@@ 4645
+Phép giả kim mạnh mẽ - Dịch chuyển tức thời - Crystal Sentry - Triệu hồi Nether Imp - Tia ngưng đọng - Heartblast
+@@ 4646
+Phép giả kim mạnh mẽ - Dịch chuyển tức thời - Crystal Sentry
+@@ 4647
+Phép giả kim mạnh mẽ - Dịch chuyển tức thời - Crystal Sentry - Triệu hồi Nether Imp - Tia ngưng đọng
+@@ 4648
+Thi triển phép mạnh mẽ - Dịch chuyển tức thời - Triệu hồi Mirror Image
+@@ 4649
+\n
+@@ 4650
+Thi triển phép mạnh mẽ - Dịch chuyển tức thời
+@@ 4651
+Thi triển phép mạnh mẽ
+@@ 4652
+Phun lửa - Nhảy vồ - Quật đuôi - Bổ nhào đập - Tấn công bằng cánh
+@@ 4653
+Hơi thở axit - Lồng xương - Gai xương - Đòn đập
+@@ 4654
+Kết hợp năng lực các mặt nạ - Tia ngưng đọng - Dịch chuyển tức thời
+@@ 4655
+Dịch chuyển tức thời - Tấn công bằng móng vuốt - Xé toạc mặt đất
+@@ 4656
+Dịch chuyển tức thời - Hồi máu cho các chị em - Triệu hồi nhện
+@@ 4657
+Dịch chuyển tức thời - Thi triển phép Fire
+@@ 4658
+Sister of Corruption
+@@ 4659
+Sister of Venom
+@@ 4660
+Sister of Embers
+@@ 4661
+Hộ vệ Mana bị nô dịch - Tấn công bằng tên lửa - Lao tới tấn công - Tấn công phép
+@@ 4662
+Hộ vệ bị tha hóa
+@@ 4663
+Mỗi lúc chỉ có một Jester có thể bị tổn thương
+@@ 4664
+Đập đất - Lướt phản lực - Loạt tên lửa - Nã pháo
+@@ 4665
+Tướng Sturmbeorn - Trút xuống một loạt đạn pháo nổ\n
+@@ 4666
+Nhảy vồ - Rìu Fire và Ice - Ném rìu - Khiến tay sai nổi điên\n

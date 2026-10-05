@@ -1,0 +1,1431 @@
+# b12_ui_globals: 715 strings. Format: "@@ id | mode | context" then the English text on the next line.
+@@ 5065 | translate | EMOTES/EMOTES.DAT | EMOTE | CHAT_TEXT_FEMALE
+|cFFF5DB94[PLAYERNAME] palms her face in consternation.|u
+@@ 5066 | translate | EMOTES/EMOTES.DAT | EMOTE | CHAT_TEXT_FEMALE
+|cFFF5DB94[PLAYERNAME] shows her guns.|u
+@@ 5067 | translate | EMOTES/EMOTES.DAT | EMOTE | CHAT_TEXT_MALE
+|cFFEAAA15[PLAYERNAME] rolls [RAND_INT_0_100].|u
+@@ 5068 | translate | EMOTES/EMOTES.DAT | EMOTE | CHAT_TEXT_MALE
+|cFFF5DB94[PLAYERNAME] Claps slowly with irony.|u
+@@ 5069 | translate | EMOTES/EMOTES.DAT | EMOTE | CHAT_TEXT_MALE
+|cFFF5DB94[PLAYERNAME] beckons you to follow.|u
+@@ 5070 | translate | EMOTES/EMOTES.DAT | EMOTE | CHAT_TEXT_MALE
+|cFFF5DB94[PLAYERNAME] blows a kiss.|u
+@@ 5071 | translate | EMOTES/EMOTES.DAT | EMOTE | CHAT_TEXT_MALE
+|cFFF5DB94[PLAYERNAME] bows.|u
+@@ 5072 | translate | EMOTES/EMOTES.DAT | EMOTE | CHAT_TEXT_MALE
+|cFFF5DB94[PLAYERNAME] burps.|u
+@@ 5073 | translate | EMOTES/EMOTES.DAT | EMOTE | CHAT_TEXT_MALE
+|cFFF5DB94[PLAYERNAME] coughs.|u
+@@ 5074 | translate | EMOTES/EMOTES.DAT | EMOTE | CHAT_TEXT_MALE
+|cFFF5DB94[PLAYERNAME] dances brokenly.|u
+@@ 5075 | translate | EMOTES/EMOTES.DAT | EMOTE | CHAT_TEXT_MALE
+|cFFF5DB94[PLAYERNAME] dances.|u
+@@ 5076 | translate | EMOTES/EMOTES.DAT | EMOTE | CHAT_TEXT_MALE
+|cFFF5DB94[PLAYERNAME] despairs.|u
+@@ 5077 | translate | EMOTES/EMOTES.DAT | EMOTE | CHAT_TEXT_MALE
+|cFFF5DB94[PLAYERNAME] has no clue.|u
+@@ 5078 | translate | EMOTES/EMOTES.DAT | EMOTE | CHAT_TEXT_MALE
+|cFFF5DB94[PLAYERNAME] is trolling Justin!|u
+@@ 5079 | translate | EMOTES/EMOTES.DAT | EMOTE | CHAT_TEXT_MALE
+|cFFF5DB94[PLAYERNAME] is very regretful of a recent action.|u
+@@ 5080 | translate | EMOTES/EMOTES.DAT | EMOTE | CHAT_TEXT_MALE
+|cFFF5DB94[PLAYERNAME] is victorious!|u
+@@ 5081 | translate | EMOTES/EMOTES.DAT | EMOTE | CHAT_TEXT_MALE
+|cFFF5DB94[PLAYERNAME] laughs.|u
+@@ 5082 | translate | EMOTES/EMOTES.DAT | EMOTE | CHAT_TEXT_MALE
+|cFFF5DB94[PLAYERNAME] palms his face in consternation.|u
+@@ 5083 | translate | EMOTES/EMOTES.DAT | EMOTE | CHAT_TEXT_MALE
+|cFFF5DB94[PLAYERNAME] rocks out on the kit.|u
+@@ 5084 | translate | EMOTES/EMOTES.DAT | EMOTE | CHAT_TEXT_MALE
+|cFFF5DB94[PLAYERNAME] rocks out on the lute.|u
+@@ 5085 | translate | EMOTES/EMOTES.DAT | EMOTE | CHAT_TEXT_MALE
+|cFFF5DB94[PLAYERNAME] salutes.|u
+@@ 5086 | translate | EMOTES/EMOTES.DAT | EMOTE | CHAT_TEXT_MALE
+|cFFF5DB94[PLAYERNAME] says "oops."|u
+@@ 5087 | translate | EMOTES/EMOTES.DAT | EMOTE | CHAT_TEXT_MALE
+|cFFF5DB94[PLAYERNAME] shows his guns.|u
+@@ 5088 | translate | EMOTES/EMOTES.DAT | EMOTE | CHAT_TEXT_MALE
+|cFFF5DB94[PLAYERNAME] slaps a face.|u
+@@ 5089 | translate | EMOTES/EMOTES.DAT | EMOTE | CHAT_TEXT_MALE
+|cFFF5DB94[PLAYERNAME] starts crying.|u
+@@ 5090 | translate | EMOTES/EMOTES.DAT | EMOTE | CHAT_TEXT_MALE
+|cFFF5DB94[PLAYERNAME] taunts.|u
+@@ 5091 | translate | EMOTES/EMOTES.DAT | EMOTE | CHAT_TEXT_MALE
+|cFFF5DB94[PLAYERNAME] tries to jump but can't.|u
+@@ 5092 | translate | EMOTES/EMOTES.DAT | EMOTE | CHAT_TEXT_MALE
+|cFFF5DB94[PLAYERNAME][COMMAND_PARAM]|u
+@@ 5093 | decide | GLOBALS.DAT | #6d04c7ef | #001942a5
+Cannot enchant item
+@@ 5094 | decide | GLOBALS.DAT | #6d04c7ef | #00541521
+Console commands used.
+@@ 5095 | decide | GLOBALS.DAT | #6d04c7ef | #0067ad93
+mins
+@@ 5096 | decide | GLOBALS.DAT | #6d04c7ef | #00689c33
+secs
+@@ 5097 | decide | GLOBALS.DAT | #6d04c7ef | #0068eb38
+Unblocked [CHARACTERNAME].
+@@ 5098 | decide | GLOBALS.DAT | #6d04c7ef | #03a7c317
+You were kicked from the game!
+@@ 5099 | decide | GLOBALS.DAT | #6d04c7ef | #04c537c0
+Invalid username or password
+@@ 5100 | decide | GLOBALS.DAT | #6d04c7ef | #04c537c0
+Invalid username or password\\nor\\naccount not associated with purchase
+@@ 5101 | decide | GLOBALS.DAT | #6d04c7ef | #04c537c0
+Invalid username or password\nor\naccount not associated with purchase
+@@ 5102 | decide | GLOBALS.DAT | #6d04c7ef | #06bf07a1
+|cFFFF0000Unable to load because specific mods are missing( see mod details ).|u
+@@ 5103 | decide | GLOBALS.DAT | #6d04c7ef | #06d75cda
+Place item here to pass down
+@@ 5104 | decide | GLOBALS.DAT | #6d04c7ef | #08944773
+Fastest Attack Speed
+@@ 5105 | decide | GLOBALS.DAT | #6d04c7ef | #09da6d7d
+s
+@@ 5106 | decide | GLOBALS.DAT | #6d04c7ef | #0a39a7b3
+Slowest Attack Speed
+@@ 5107 | decide | GLOBALS.DAT | #6d04c7ef | #0aab5c5a
+You caught nothing
+@@ 5108 | decide | GLOBALS.DAT | #6d04c7ef | #0aab5c5a
+You caught nothing!
+@@ 5109 | decide | GLOBALS.DAT | #6d04c7ef | #0b9d9454
+Failed to block - invalid name!
+@@ 5110 | decide | GLOBALS.DAT | #6d04c7ef | #0bbac33f
+Whisper sent.
+@@ 5111 | decide | GLOBALS.DAT | #6d04c7ef | #0c71d952
+Deaths
+@@ 5112 | decide | GLOBALS.DAT | #6d04c7ef | #0c8c1dbf
+Login failed
+@@ 5113 | decide | GLOBALS.DAT | #6d04c7ef | #0db3724b
+Unable to connect to authentication server
+@@ 5114 | decide | GLOBALS.DAT | #6d04c7ef | #0db3724b
+Unable to connect to authentication server.
+@@ 5115 | decide | GLOBALS.DAT | #6d04c7ef | #0e1606cc
+Gold Gathered
+@@ 5116 | decide | GLOBALS.DAT | #6d04c7ef | #0e16d0de
+Recover
+@@ 5117 | decide | GLOBALS.DAT | #6d04c7ef | #0e638ec8
+Death
+@@ 5118 | decide | GLOBALS.DAT | #6d04c7ef | #0ef3b8e5
+melee
+@@ 5119 | decide | GLOBALS.DAT | #6d04c7ef | #113e6c1c
+Time played per level is too short.
+@@ 5120 | decide | GLOBALS.DAT | #6d04c7ef | #143618d0
+2-handed
+@@ 5121 | decide | GLOBALS.DAT | #6d04c7ef | #1502fec9
+as Poison Damage
+@@ 5122 | decide | GLOBALS.DAT | #6d04c7ef | #15ff5212
+Failed to vote kick - invalid name!
+@@ 5123 | decide | GLOBALS.DAT | #6d04c7ef | #16163409
+requires Dexterity
+@@ 5124 | decide | GLOBALS.DAT | #6d04c7ef | #17c8e95a
+Press 'Destroy' to destroy gems
+@@ 5125 | decide | GLOBALS.DAT | #6d04c7ef | #19c82637
+Shift-click to buy
+@@ 5126 | decide | GLOBALS.DAT | #6d04c7ef | #1b74d1ef
+Unknown mod: 
+@@ 5127 | decide | GLOBALS.DAT | #6d04c7ef | #1c6c33ed
+Map Monster Affixes
+@@ 5128 | decide | GLOBALS.DAT | #6d04c7ef | #1c7648eb
+Failed to remove friend - invalid name!
+@@ 5129 | decide | GLOBALS.DAT | #6d04c7ef | #1f3937d0
+Charm Spell
+@@ 5130 | decide | GLOBALS.DAT | #6d04c7ef | #1f8657ff
+Return to Portal
+@@ 5131 | decide | GLOBALS.DAT | #6d04c7ef | #203614e5
+ranged
+@@ 5132 | decide | GLOBALS.DAT | #6d04c7ef | #207b2e04
+Retire
+@@ 5133 | decide | GLOBALS.DAT | #6d04c7ef | #21cd2f9a
+Fame Increased
+@@ 5134 | decide | GLOBALS.DAT | #6d04c7ef | #21e0f1da
+as Physical Damage
+@@ 5135 | decide | GLOBALS.DAT | #6d04c7ef | #21f2ee9a
+Physical Damage
+@@ 5136 | decide | GLOBALS.DAT | #6d04c7ef | #2210758c
+You are now flagged for PvP.
+@@ 5137 | decide | GLOBALS.DAT | #6d04c7ef | #2271c7b8
+per second
+@@ 5138 | decide | GLOBALS.DAT | #6d04c7ef | #25d885c9
+Connected successfully.
+@@ 5139 | decide | GLOBALS.DAT | #6d04c7ef | #2860dff6
+Your pet cannot depart from here!
+@@ 5140 | decide | GLOBALS.DAT | #6d04c7ef | #28cb9697
+Right-click to equip
+@@ 5141 | decide | GLOBALS.DAT | #6d04c7ef | #2a78437b
+Resurrect here, but lose [XP] Experience and [FAME] Fame.
+@@ 5142 | decide | GLOBALS.DAT | #6d04c7ef | #2afe4ece
+Click for Social Options
+@@ 5143 | decide | GLOBALS.DAT | #6d04c7ef | #2d2a8fde
+single handed melee
+@@ 5144 | decide | GLOBALS.DAT | #6d04c7ef | #2df30724
+as Fire Damage
+@@ 5145 | decide | GLOBALS.DAT | #6d04c7ef | #2f04f06d
+Hold [CTRL] and left-click to
+@@ 5146 | decide | GLOBALS.DAT | #6d04c7ef | #3132fbde
+Failed to whisper - invalid name!
+@@ 5147 | decide | GLOBALS.DAT | #6d04c7ef | #3286ac03
+[CHARACTERNAME] is not suspicious.
+@@ 5148 | decide | GLOBALS.DAT | #6d04c7ef | #335bb07f
+[CHARACTERNAME] is suspicious
+@@ 5149 | decide | GLOBALS.DAT | #6d04c7ef | #34bfc215
+Character is un-playable because it was created with an unknown mod. Mod Guid: 
+@@ 5150 | decide | GLOBALS.DAT | #6d04c7ef | #355e90d5
+No Active Portal
+@@ 5151 | decide | GLOBALS.DAT | #6d04c7ef | #358c8374
+Press 'Enchant' to receive a random effect
+@@ 5152 | decide | GLOBALS.DAT | #6d04c7ef | #35e52b30
+You plunge the
+@@ 5153 | decide | GLOBALS.DAT | #6d04c7ef | #3651cb51
+Press 'Recover' to recover gems
+@@ 5154 | decide | GLOBALS.DAT | #6d04c7ef | #37887c93
+Items Enchanted
+@@ 5155 | decide | GLOBALS.DAT | #6d04c7ef | #387e2b67
+has unblocked you.
+@@ 5156 | decide | GLOBALS.DAT | #6d04c7ef | #389b6afc
+[CHARACTERNAME1] voted to kick [CHARACTERNAME2] from the game.
+@@ 5157 | decide | GLOBALS.DAT | #6d04c7ef | #392c040f
+Shift-click to sell
+@@ 5158 | decide | GLOBALS.DAT | #6d04c7ef | #3985ed7f
+Players and Pets
+@@ 5159 | decide | GLOBALS.DAT | #6d04c7ef | #3985ed7f
+Players and Pets:
+@@ 5160 | decide | GLOBALS.DAT | #6d04c7ef | #3ae855bd
+Glancing Blow
+@@ 5161 | decide | GLOBALS.DAT | #6d04c7ef | #3d8fa832
+Attempts Remaining
+@@ 5162 | decide | GLOBALS.DAT | #6d04c7ef | #4086050d
+Waypoint Activated
+@@ 5163 | decide | GLOBALS.DAT | #6d04c7ef | #40c4a384
+Barrels Broken
+@@ 5164 | decide | GLOBALS.DAT | #6d04c7ef | #40d1b257
+Character Saved
+@@ 5165 | decide | GLOBALS.DAT | #6d04c7ef | #40e3f6fa
+Average Attack Speed
+@@ 5166 | decide | GLOBALS.DAT | #6d04c7ef | #40f6a268
+You cannot retire until you reach level 
+@@ 5167 | decide | GLOBALS.DAT | #6d04c7ef | #4413a9bf
+Left hand require
+@@ 5168 | decide | GLOBALS.DAT | #6d04c7ef | #44eebdc5
+ . Following items will be lost:\n
+@@ 5169 | decide | GLOBALS.DAT | #6d04c7ef | #46207d2f
+Block Chance
+@@ 5170 | decide | GLOBALS.DAT | #6d04c7ef | #46abfdd4
+of Weapon Damage
+@@ 5171 | decide | GLOBALS.DAT | #6d04c7ef | #4739cdd5
+Drag a spell here to learn it
+@@ 5172 | decide | GLOBALS.DAT | #6d04c7ef | #4751c779
+You caught a
+@@ 5173 | decide | GLOBALS.DAT | #6d04c7ef | #4817a3fb
+Fast Attack Speed
+@@ 5174 | decide | GLOBALS.DAT | #6d04c7ef | #4bcd2cab
+Incorrect number of stat points.
+@@ 5175 | decide | GLOBALS.DAT | #6d04c7ef | #4bcd2f43
+Incorrect number of skill points.
+@@ 5176 | decide | GLOBALS.DAT | #6d04c7ef | #4d048f8b
+Offensive Spell
+@@ 5177 | decide | GLOBALS.DAT | #6d04c7ef | #4f1a5573
+Ancestors:
+@@ 5178 | decide | GLOBALS.DAT | #6d04c7ef | #4f65d8c1
+Set Item: 
+@@ 5179 | decide | GLOBALS.DAT | #6d04c7ef | #534af6b4
+No Tier upgrades available.
+@@ 5180 | decide | GLOBALS.DAT | #6d04c7ef | #54376e4f
+two handed
+@@ 5181 | decide | GLOBALS.DAT | #6d04c7ef | #545efe85
+ Following skills will be lost:\n
+@@ 5182 | decide | GLOBALS.DAT | #6d04c7ef | #553a03c1
+Voted to kick player [CHARACTERNAME] from game.
+@@ 5183 | decide | GLOBALS.DAT | #6d04c7ef | #553d6213
+Items Transmuted
+@@ 5184 | decide | GLOBALS.DAT | #6d04c7ef | #56c5bf24
+was killed.
+@@ 5185 | decide | GLOBALS.DAT | #6d04c7ef | #592b77d7
+Warp to portal in 
+@@ 5186 | decide | GLOBALS.DAT | #6d04c7ef | #596716a8
+Very Slow Attack Speed
+@@ 5187 | decide | GLOBALS.DAT | #6d04c7ef | #5a357d07
+Max sockets
+@@ 5188 | decide | GLOBALS.DAT | #6d04c7ef | #5b772033
+Items Identified
+@@ 5189 | decide | GLOBALS.DAT | #6d04c7ef | #5d05db9a
+has entered the area
+@@ 5190 | translate | GLOBALS.DAT | #6d04c7ef | #5d2c0ac4
+Resurrect in town and lose nothing.
+@@ 5191 | decide | GLOBALS.DAT | #6d04c7ef | #5da88d84
+No gems to recover
+@@ 5192 | decide | GLOBALS.DAT | #6d04c7ef | #5dd272bf
+Potions Used
+@@ 5193 | decide | GLOBALS.DAT | #6d04c7ef | #5e19ec54
+Left-Click to assign Skills or Items
+@@ 5194 | decide | GLOBALS.DAT | #6d04c7ef | #5e60cc21
+but nothing happens
+@@ 5195 | decide | GLOBALS.DAT | #6d04c7ef | #5f0672ce
+Incomplete
+@@ 5196 | decide | GLOBALS.DAT | #6d04c7ef | #5f2611ce
+- Complete
+@@ 5197 | decide | GLOBALS.DAT | #6d04c7ef | #60d5668a
+Not enough XP for current level.
+@@ 5198 | decide | GLOBALS.DAT | #6d04c7ef | #61b9c660
+Bad Map: Dungeon not found
+@@ 5199 | decide | GLOBALS.DAT | #6d04c7ef | #62c87d00
+Attempting Connection
+@@ 5200 | decide | GLOBALS.DAT | #6d04c7ef | #62c87d00
+Attempting connection
+@@ 5201 | decide | GLOBALS.DAT | #6d04c7ef | #631ecfa0
+Unable to disconnect
+@@ 5202 | decide | GLOBALS.DAT | #6d04c7ef | #633483d0
+Class Skill
+@@ 5203 | decide | GLOBALS.DAT | #6d04c7ef | #6339c32e
+Maximum enchantments reached
+@@ 5204 | decide | GLOBALS.DAT | #6d04c7ef | #647277f2
+and accidentally removes all enchantments
+@@ 5205 | decide | GLOBALS.DAT | #6d04c7ef | #648dc7b3
+Requires item level
+@@ 5206 | decide | GLOBALS.DAT | #6d04c7ef | #64b12989
+Press 'Retire' to pass down Heirloom
+@@ 5207 | decide | GLOBALS.DAT | #6d04c7ef | #67f25e13
+Traps Sprung
+@@ 5208 | decide | GLOBALS.DAT | #6d04c7ef | #685984ca
+ Inventory spot missing, items will be lost:\n
+@@ 5209 | decide | GLOBALS.DAT | #6d04c7ef | #6937912c
+You are no longer flagged for PvP.
+@@ 5210 | decide | GLOBALS.DAT | #6d04c7ef | #699197af
+|cFFFF0000You were rejected for not meeting this game's level requirements.|u
+@@ 5211 | decide | GLOBALS.DAT | #6d04c7ef | #6a3ab458
+Level is greater than maximum level.
+@@ 5212 | decide | GLOBALS.DAT | #6d04c7ef | #6b13c3c0
+Item(s) Identified
+@@ 5213 | decide | GLOBALS.DAT | #6d04c7ef | #6b5758e6
+into the light
+@@ 5214 | decide | GLOBALS.DAT | #6d04c7ef | #6bcd612f
+has disconnected.
+@@ 5215 | decide | GLOBALS.DAT | #6d04c7ef | #6c18178e
+Chest Armor
+@@ 5216 | decide | GLOBALS.DAT | #6d04c7ef | #70ec7126
+Points Remaining
+@@ 5217 | decide | GLOBALS.DAT | #6d04c7ef | #738eac7f
+Your quest log is full!
+@@ 5218 | decide | GLOBALS.DAT | #6d04c7ef | #753bff77
+two-handed ranged
+@@ 5219 | decide | GLOBALS.DAT | #6d04c7ef | #7657f6d3
+Skills/Spells Cast
+@@ 5220 | decide | GLOBALS.DAT | #6d04c7ef | #76ec7890
+has blocked you.
+@@ 5221 | decide | GLOBALS.DAT | #6d04c7ef | #78693291
+Your next adventure will begin at Level
+@@ 5222 | decide | GLOBALS.DAT | #6d04c7ef | #787b15d5
+ Following monsters will not be created:\n
+@@ 5223 | decide | GLOBALS.DAT | #6d04c7ef | #7b066a4f
+Connecting to host...
+@@ 5224 | decide | GLOBALS.DAT | #6d04c7ef | #7b3e8908
+Unable to disconnected
+@@ 5225 | decide | GLOBALS.DAT | #6d04c7ef | #7b3f2ae8
+|cFFEAAA15Requires restart for mods to be installed.|u
+@@ 5226 | decide | GLOBALS.DAT | #6d04c7ef | #7d048f9d
+Defensive Spell
+@@ 5227 | decide | GLOBALS.DAT | #6d04c7ef | #7da2855c
+as Magical Damage
+@@ 5228 | decide | GLOBALS.DAT | #6d04c7ef | #821b1ede
+Fish Caught
+@@ 5229 | decide | GLOBALS.DAT | #6d04c7ef | #822b8427
+Failed to unblock - invalid name!
+@@ 5230 | decide | GLOBALS.DAT | #6d04c7ef | #8778d23d
+Critical Chance
+@@ 5231 | decide | GLOBALS.DAT | #6d04c7ef | #87e5ae4c
+Removed [CHARACTERNAME] as a friend!
+@@ 5232 | decide | GLOBALS.DAT | #6d04c7ef | #87ea94bc
+You cannot open a Waypoint Portal here.
+@@ 5233 | decide | GLOBALS.DAT | #6d04c7ef | #891099d9
+and creates new sockets
+@@ 5234 | decide | GLOBALS.DAT | #6d04c7ef | #8997a6a0
+Slow Attack Speed
+@@ 5235 | decide | GLOBALS.DAT | #6d04c7ef | #8a150bc0
+Use an Identify Scroll to reveal enchantments or reach level
+@@ 5236 | decide | GLOBALS.DAT | #6d04c7ef | #8ba3e0ab
+m
+@@ 5237 | decide | GLOBALS.DAT | #6d04c7ef | #8bc0db04
+The item is destroyed, recovering the gems within
+@@ 5238 | decide | GLOBALS.DAT | #6d04c7ef | #8cc60ad8
+are destroyed
+@@ 5239 | decide | GLOBALS.DAT | #6d04c7ef | #8d56a444
+Connection failed: Version mismatch
+@@ 5240 | decide | GLOBALS.DAT | #6d04c7ef | #8d590a78
+Connection failed: Incorrect password
+@@ 5241 | decide | GLOBALS.DAT | #6d04c7ef | #8d5c83f4
+Connection failed: Blocked by player in game
+@@ 5242 | decide | GLOBALS.DAT | #6d04c7ef | #8d5cb687
+Connection failed: Bad password
+@@ 5243 | decide | GLOBALS.DAT | #6d04c7ef | #8d5e37b2
+Connection failed: Game full
+@@ 5244 | decide | GLOBALS.DAT | #6d04c7ef | #8d5e37b2
+Connection failed: Game no longer exists
+@@ 5245 | decide | GLOBALS.DAT | #6d04c7ef | #8f43f30f
+Max enchantments
+@@ 5246 | decide | GLOBALS.DAT | #6d04c7ef | #93ae5891
+The enchanter adds a powerful enchantment!
+@@ 5247 | decide | GLOBALS.DAT | #6d04c7ef | #93bd2e21
+I'm leaving to buy the full version of the game!
+@@ 5248 | decide | GLOBALS.DAT | #6d04c7ef | #93dee711
+Right and left hands require
+@@ 5249 | decide | GLOBALS.DAT | #6d04c7ef | #94403659
+Item must be identified before use
+@@ 5250 | decide | GLOBALS.DAT | #6d04c7ef | #9710f381
+single handed ranged
+@@ 5251 | decide | GLOBALS.DAT | #6d04c7ef | #9754da1a
+[CHARACTERNAME] was kicked from the game.
+@@ 5252 | decide | GLOBALS.DAT | #6d04c7ef | #9849d8c2
+<playername> is busy.
+@@ 5253 | decide | GLOBALS.DAT | #6d04c7ef | #98e713f3
+Very Fast Attack Speed
+@@ 5254 | decide | GLOBALS.DAT | #6d04c7ef | #9a21d6f5
+Point Of Interest
+@@ 5255 | decide | GLOBALS.DAT | #6d04c7ef | #9a5bd7f9
+two-handed melee
+@@ 5256 | decide | GLOBALS.DAT | #6d04c7ef | #9c399561
+Quests Completed
+@@ 5257 | decide | GLOBALS.DAT | #6d04c7ef | #9f3bcf44
+You caught a fish containing
+@@ 5258 | decide | GLOBALS.DAT | #6d04c7ef | #a236ee31
+Automatically identified at level
+@@ 5259 | decide | GLOBALS.DAT | #6d04c7ef | #a294daa0
+All Skills
+@@ 5260 | decide | GLOBALS.DAT | #6d04c7ef | #a34392d2
+Steps Taken
+@@ 5261 | decide | GLOBALS.DAT | #6d04c7ef | #a3a94644
+Blocked [CHARACTERNAME] from future games.
+@@ 5262 | decide | GLOBALS.DAT | #6d04c7ef | #a40140fb
+Right hand require
+@@ 5263 | decide | GLOBALS.DAT | #6d04c7ef | #a867bbac
+as All Damage Types
+@@ 5264 | decide | GLOBALS.DAT | #6d04c7ef | #a96ac39f
+Item Modified
+@@ 5265 | decide | GLOBALS.DAT | #6d04c7ef | #ac1526ee
+Connected to host. Connecting to peers...
+@@ 5266 | decide | GLOBALS.DAT | #6d04c7ef | #ad94a323
+ not active. Inventory spot missing, items will be lost:\n
+@@ 5267 | decide | GLOBALS.DAT | #6d04c7ef | #add3478d
+Dual-wield only
+@@ 5268 | decide | GLOBALS.DAT | #6d04c7ef | #addddf6d
+Times Gambled
+@@ 5269 | decide | GLOBALS.DAT | #6d04c7ef | #af97d71e
+<playername> is already trading.
+@@ 5270 | decide | GLOBALS.DAT | #6d04c7ef | #af991663
+has removed you as a friend.
+@@ 5271 | decide | GLOBALS.DAT | #6d04c7ef | #afa340b3
+as Electric Damage
+@@ 5272 | decide | GLOBALS.DAT | #6d04c7ef | #b15e6b51
+Has played modded games.
+@@ 5273 | decide | GLOBALS.DAT | #6d04c7ef | #b2b505f5
+No player with the given name exists in the current level.
+@@ 5274 | decide | GLOBALS.DAT | #6d04c7ef | #b5edd9a3
+requires Defense
+@@ 5275 | decide | GLOBALS.DAT | #6d04c7ef | #b7fb649e
+Duel wield only
+@@ 5276 | decide | GLOBALS.DAT | #6d04c7ef | #b8fc9b7a
+Added [CHARACTERNAME] as a friend!
+@@ 5277 | decide | GLOBALS.DAT | #6d04c7ef | #bb2f338b
+Wrong Password
+@@ 5278 | decide | GLOBALS.DAT | #6d04c7ef | #bb8b4150
+Chests Opened
+@@ 5279 | decide | GLOBALS.DAT | #6d04c7ef | #c2b266b7
+Failed to send private message - invalid name!
+@@ 5280 | decide | GLOBALS.DAT | #6d04c7ef | #c2f60b1a
+You attain the rank of
+@@ 5281 | decide | GLOBALS.DAT | #6d04c7ef | #c2f60b1a
+You have attained the rank of
+@@ 5282 | decide | GLOBALS.DAT | #6d04c7ef | #c4321462
+Conflict with Control
+@@ 5283 | decide | GLOBALS.DAT | #6d04c7ef | #c4c5e12d
+Return to Town
+@@ 5284 | decide | GLOBALS.DAT | #6d04c7ef | #c71ade96
+The gems within the
+@@ 5285 | decide | GLOBALS.DAT | #6d04c7ef | #c8b9a7ac
+as Ice Damage
+@@ 5286 | decide | GLOBALS.DAT | #6d04c7ef | #c9a4803b
+Cannot enchant
+@@ 5287 | decide | GLOBALS.DAT | #6d04c7ef | #cac393e4
+Signed in
+@@ 5288 | decide | GLOBALS.DAT | #6d04c7ef | #cba178d7
+Connection failed
+@@ 5289 | translate | GLOBALS.DAT | #6d04c7ef | #cbf21359
+Resurrect at the entrance to this area, but lose [GOLD] Gold.
+@@ 5290 | decide | GLOBALS.DAT | #6d04c7ef | #cbf21359
+Resurrect at the entrance to this floor, but lose [GOLD] Gold.
+@@ 5291 | decide | GLOBALS.DAT | #6d04c7ef | #cd3d18c8
+Combine ingredients\\nto learn
+@@ 5292 | decide | GLOBALS.DAT | #6d04c7ef | #cd3d18c8
+Combine ingredients\nto learn
+@@ 5293 | decide | GLOBALS.DAT | #6d04c7ef | #ce98063e
+Enchant price:
+@@ 5294 | decide | GLOBALS.DAT | #6d04c7ef | #d1be372b
+Restart required for mod(s): 
+@@ 5295 | decide | GLOBALS.DAT | #6d04c7ef | #d36fff35
+Unidentified items cannot be used-
+@@ 5296 | decide | GLOBALS.DAT | #6d04c7ef | #d37db28c
+Monsters Defeated
+@@ 5297 | decide | GLOBALS.DAT | #6d04c7ef | #d3e42e3e
+Damage per Second
+@@ 5298 | decide | GLOBALS.DAT | #6d04c7ef | #d3e42e3e
+damage per second
+@@ 5299 | decide | GLOBALS.DAT | #6d04c7ef | #d43618d0
+1-handed
+@@ 5300 | decide | GLOBALS.DAT | #6d04c7ef | #d4377585
+one handed
+@@ 5301 | decide | GLOBALS.DAT | #6d04c7ef | #d4ca4e0e
+Place item here to recover gems
+@@ 5302 | decide | GLOBALS.DAT | #6d04c7ef | #d5a466a2
+requires Strength
+@@ 5303 | decide | GLOBALS.DAT | #6d04c7ef | #d5aa0d6a
+Place item here to destroy gems
+@@ 5304 | decide | GLOBALS.DAT | #6d04c7ef | #d5bfcef9
+Place item here to enchant
+@@ 5305 | decide | GLOBALS.DAT | #6d04c7ef | #d7073ffc
+Heirloom
+@@ 5306 | decide | GLOBALS.DAT | #6d04c7ef | #d726b8fc
+No item to pass down
+@@ 5307 | decide | GLOBALS.DAT | #6d04c7ef | #d9d27454
+Portals Used
+@@ 5308 | decide | GLOBALS.DAT | #6d04c7ef | #dca51cca
+No gems to destroy
+@@ 5309 | decide | GLOBALS.DAT | #6d04c7ef | #ddeefd0a
+Current Rank
+@@ 5310 | decide | GLOBALS.DAT | #6d04c7ef | #ded7bef4
+Demo Mode
+@@ 5311 | decide | GLOBALS.DAT | #6d04c7ef | #defb12c6
+Levels Explored
+@@ 5312 | decide | GLOBALS.DAT | #6d04c7ef | #e0628f6b
+of Weapon DPS
+@@ 5313 | decide | GLOBALS.DAT | #6d04c7ef | #e09e0d95
+Un-learn this spell
+@@ 5314 | decide | GLOBALS.DAT | #6d04c7ef | #e11fe67b
+h
+@@ 5315 | decide | GLOBALS.DAT | #6d04c7ef | #e12d3b72
+Requires Level
+@@ 5316 | decide | GLOBALS.DAT | #6d04c7ef | #e13f7efd
+requires Magic
+@@ 5317 | decide | GLOBALS.DAT | #6d04c7ef | #e1d9e5ad
+Requires Class
+@@ 5318 | decide | GLOBALS.DAT | #6d04c7ef | #e4c3279d
+Time Played
+@@ 5319 | decide | GLOBALS.DAT | #6d04c7ef | #e64d5642
+Empty Socket
+@@ 5320 | decide | GLOBALS.DAT | #6d04c7ef | #e6abfece
+Weapon Damage
+@@ 5321 | decide | GLOBALS.DAT | #6d04c7ef | #eb3b9455
+New Quest
+@@ 5322 | decide | GLOBALS.DAT | #6d04c7ef | #eb963bcc
+Already Looted!
+@@ 5323 | decide | GLOBALS.DAT | #6d04c7ef | #ecd7d842
+Shift-click to transfer
+@@ 5324 | decide | GLOBALS.DAT | #6d04c7ef | #ed3721b9
+Equipment Augmented!
+@@ 5325 | decide | GLOBALS.DAT | #6d04c7ef | #ed62b1b4
+Shattered
+@@ 5326 | decide | GLOBALS.DAT | #6d04c7ef | #ef644373
+Always Enabled
+@@ 5327 | decide | GLOBALS.DAT | #6d04c7ef | #efa5190a
+Champions Defeated
+@@ 5328 | decide | GLOBALS.DAT | #6d04c7ef | #efa6312b
+ not active. Following items will be lost:\n
+@@ 5329 | decide | GLOBALS.DAT | #6d04c7ef | #efa6312f
+ not active. Following monsters will not be created:\n
+@@ 5330 | decide | GLOBALS.DAT | #6d04c7ef | #efa63131
+ not active. Following skills will be lost: 
+@@ 5331 | decide | GLOBALS.DAT | #6d04c7ef | #f4b6c1a2
+Disenchant chance:
+@@ 5332 | decide | GLOBALS.DAT | #6d04c7ef | #f50ed39c
+Shoulder Armor
+@@ 5333 | decide | GLOBALS.DAT | #6d04c7ef | #f5dce027
+and adds new enchantments
+@@ 5334 | decide | GLOBALS.DAT | #6d04c7ef | #f610f271
+Ctrl-click to split stack
+@@ 5335 | decide | GLOBALS.DAT | #6d04c7ef | #f6b76603
+Playing as
+@@ 5336 | decide | GLOBALS.DAT | #6d04c7ef | #f7282620
+Buy Price
+@@ 5337 | decide | GLOBALS.DAT | #6d04c7ef | #f7dff77e
+Duplicate login
+@@ 5338 | decide | GLOBALS.DAT | #6d04c7ef | #f87330d5
+UNKNOWN MOD WITH GUID:
+@@ 5339 | decide | GLOBALS.DAT | #6d04c7ef | #f9be358b
+Next Unlock Level
+@@ 5340 | decide | GLOBALS.DAT | #6d04c7ef | #fc454bea
+Failed to add as friend - invalid name!
+@@ 5341 | decide | GLOBALS.DAT | #6d04c7ef | #fd470974
+Cheated items equipped
+@@ 5342 | decide | GLOBALS.DAT | #6d04c7ef | #fe46cdaf
+has befriended you.
+@@ 5343 | decide | GLOBALS.DAT | #6d04c7ef | #fef9505d
+The enchanter performs the ancient rites on the
+@@ 5344 | decide | GLOBALS.DAT | #6d04c7ef | #ff439bd0
+No enchantments
+@@ 5345 | decide | GLOBALS.DAT | #6d04c7ef | ABSORBED
+Absorbed
+@@ 5346 | decide | GLOBALS.DAT | #6d04c7ef | ALL
+All
+@@ 5347 | decide | GLOBALS.DAT | #6d04c7ef | ALL
+Physical & Elemental
+@@ 5348 | decide | GLOBALS.DAT | #6d04c7ef | ALWAYS
+Always
+@@ 5349 | decide | GLOBALS.DAT | #6d04c7ef | ANY
+any
+@@ 5350 | translate | GLOBALS.DAT | #6d04c7ef | ARMOR
+Armor
+@@ 5351 | decide | GLOBALS.DAT | #6d04c7ef | ARMOR
+armor
+@@ 5352 | decide | GLOBALS.DAT | #6d04c7ef | AUGMENTED
+Augmented!
+@@ 5353 | decide | GLOBALS.DAT | #6d04c7ef | BELT
+Belt
+@@ 5354 | decide | GLOBALS.DAT | #6d04c7ef | BLOCKED
+Blocked
+@@ 5355 | decide | GLOBALS.DAT | #6d04c7ef | BOOTS
+Boots
+@@ 5356 | decide | GLOBALS.DAT | #6d04c7ef | BUY
+Buy
+@@ 5357 | decide | GLOBALS.DAT | #6d04c7ef | CASUAL
+Casual
+@@ 5358 | decide | GLOBALS.DAT | #6d04c7ef | CINEMATIC
+Cinematic
+@@ 5359 | decide | GLOBALS.DAT | #6d04c7ef | CLAW
+Claw
+@@ 5360 | decide | GLOBALS.DAT | #6d04c7ef | COLLAR
+Collar
+@@ 5361 | decide | GLOBALS.DAT | #6d04c7ef | COMPLETE
+COMPLETE
+@@ 5362 | translate | GLOBALS.DAT | #6d04c7ef | COMPLETE
+Complete
+@@ 5363 | decide | GLOBALS.DAT | #6d04c7ef | CONTINUE
+Continue
+@@ 5364 | decide | GLOBALS.DAT | #6d04c7ef | COOLDOWN
+Cooldown
+@@ 5365 | decide | GLOBALS.DAT | #6d04c7ef | CRITICAL
+Critical
+@@ 5366 | decide | GLOBALS.DAT | #6d04c7ef | CRITICALSTRIKE
+Critical Strike
+@@ 5367 | decide | GLOBALS.DAT | #6d04c7ef | DAMAGE
+Damage
+@@ 5368 | decide | GLOBALS.DAT | #6d04c7ef | DEAD
+Dead
+@@ 5369 | decide | GLOBALS.DAT | #6d04c7ef | DEFEATED
+Defeated
+@@ 5370 | decide | GLOBALS.DAT | #6d04c7ef | DESTROY
+Destroy
+@@ 5371 | translate | GLOBALS.DAT | #6d04c7ef | DEXTERITY
+Dexterity
+@@ 5372 | decide | GLOBALS.DAT | #6d04c7ef | DIALOG
+Dialog
+@@ 5373 | decide | GLOBALS.DAT | #6d04c7ef | DIFFICULTY
+Difficulty
+@@ 5374 | decide | GLOBALS.DAT | #6d04c7ef | DISCONNECTED
+Disconnected
+@@ 5375 | decide | GLOBALS.DAT | #6d04c7ef | DODGE
+Dodge
+@@ 5376 | decide | GLOBALS.DAT | #6d04c7ef | EASY
+Easy
+@@ 5377 | decide | GLOBALS.DAT | #6d04c7ef | ELECTRIC
+Electric
+@@ 5378 | decide | GLOBALS.DAT | #6d04c7ef | ELITE
+Elite
+@@ 5379 | decide | GLOBALS.DAT | #6d04c7ef | EMPTY
+Empty
+@@ 5380 | decide | GLOBALS.DAT | #6d04c7ef | ENCHANT
+Enchant
+@@ 5381 | decide | GLOBALS.DAT | #6d04c7ef | ENCHANTED
+Enchanted
+@@ 5382 | decide | GLOBALS.DAT | #6d04c7ef | ENCHANTMENTS
+Enchantments
+@@ 5383 | decide | GLOBALS.DAT | #6d04c7ef | EQUIPPED
+equipped
+@@ 5384 | decide | GLOBALS.DAT | #6d04c7ef | EXIT
+Exit
+@@ 5385 | decide | GLOBALS.DAT | #6d04c7ef | FAME
+Fame
+@@ 5386 | decide | GLOBALS.DAT | #6d04c7ef | FIRE
+Fire
+@@ 5387 | decide | GLOBALS.DAT | #6d04c7ef | FISHING
+Fishing
+@@ 5388 | decide | GLOBALS.DAT | #6d04c7ef | FLEEING
+Fleeing
+@@ 5389 | decide | GLOBALS.DAT | #6d04c7ef | FLOOR
+Floor
+@@ 5390 | decide | GLOBALS.DAT | #6d04c7ef | FOCUS
+Focus
+@@ 5391 | decide | GLOBALS.DAT | #6d04c7ef | FOUND
+Found
+@@ 5392 | decide | GLOBALS.DAT | #6d04c7ef | FREE
+Free
+@@ 5393 | decide | GLOBALS.DAT | #6d04c7ef | GAME
+Game
+@@ 5394 | decide | GLOBALS.DAT | #6d04c7ef | GLOVES
+Gloves
+@@ 5395 | decide | GLOBALS.DAT | #6d04c7ef | GP
+GP
+@@ 5396 | decide | GLOBALS.DAT | #6d04c7ef | HARD
+Hard
+@@ 5397 | decide | GLOBALS.DAT | #6d04c7ef | HARDCORE
+Hardcore
+@@ 5398 | decide | GLOBALS.DAT | #6d04c7ef | HELMET
+Helmet
+@@ 5399 | decide | GLOBALS.DAT | #6d04c7ef | HOUR
+hour
+@@ 5400 | decide | GLOBALS.DAT | #6d04c7ef | HOURS
+hour(s)
+@@ 5401 | decide | GLOBALS.DAT | #6d04c7ef | HOURS
+hours
+@@ 5402 | translate | GLOBALS.DAT | #6d04c7ef | HP
+HP
+@@ 5403 | decide | GLOBALS.DAT | #6d04c7ef | ICE
+Ice
+@@ 5404 | decide | GLOBALS.DAT | #6d04c7ef | INFLICTS
+Inflicts 
+@@ 5405 | decide | GLOBALS.DAT | #6d04c7ef | ITEMLEVEL
+Item Level
+@@ 5406 | decide | GLOBALS.DAT | #6d04c7ef | K13
+hrs
+@@ 5407 | decide | GLOBALS.DAT | #6d04c7ef | L2
+Or
+@@ 5408 | decide | GLOBALS.DAT | #6d04c7ef | LEFTHAND
+left hand
+@@ 5409 | decide | GLOBALS.DAT | #6d04c7ef | LEGGINGS
+Leggings
+@@ 5410 | decide | GLOBALS.DAT | #6d04c7ef | LEVEL
+Level
+@@ 5411 | decide | GLOBALS.DAT | #6d04c7ef | LEVELUP
+Level Up
+@@ 5412 | decide | GLOBALS.DAT | #6d04c7ef | MAGICAL
+Magical
+@@ 5413 | decide | GLOBALS.DAT | #6d04c7ef | MANA
+Mana
+@@ 5414 | decide | GLOBALS.DAT | #6d04c7ef | MANACOST
+Mana Cost
+@@ 5415 | decide | GLOBALS.DAT | #6d04c7ef | MINUTE
+minute
+@@ 5416 | decide | GLOBALS.DAT | #6d04c7ef | MINUTES
+minute(s)
+@@ 5417 | decide | GLOBALS.DAT | #6d04c7ef | MINUTES
+minutes
+@@ 5418 | decide | GLOBALS.DAT | #6d04c7ef | MISS
+Miss
+@@ 5419 | decide | GLOBALS.DAT | #6d04c7ef | MOD
+Mod: 
+@@ 5420 | decide | GLOBALS.DAT | #6d04c7ef | MON
+mon
+@@ 5421 | decide | GLOBALS.DAT | #6d04c7ef | MONITOR
+Monitor
+@@ 5422 | decide | GLOBALS.DAT | #6d04c7ef | MONSTERS
+Monsters
+@@ 5423 | decide | GLOBALS.DAT | #6d04c7ef | MONSTERS
+Monsters:
+@@ 5424 | decide | GLOBALS.DAT | #6d04c7ef | MP
+MP
+@@ 5425 | decide | GLOBALS.DAT | #6d04c7ef | NEXTLEVEL
+Next Level
+@@ 5426 | decide | GLOBALS.DAT | #6d04c7ef | NG
+NG
+@@ 5427 | decide | GLOBALS.DAT | #6d04c7ef | NORMAL
+Normal
+@@ 5428 | decide | GLOBALS.DAT | #6d04c7ef | OPTIONS
+Options
+@@ 5429 | decide | GLOBALS.DAT | #6d04c7ef | PARRIED
+Parried
+@@ 5430 | decide | GLOBALS.DAT | #6d04c7ef | PF4
+Pet
+@@ 5431 | decide | GLOBALS.DAT | #6d04c7ef | PHYSICAL
+Physical
+@@ 5432 | decide | GLOBALS.DAT | #6d04c7ef | PIECES
+pieces
+@@ 5433 | decide | GLOBALS.DAT | #6d04c7ef | POISON
+Poison
+@@ 5434 | decide | GLOBALS.DAT | #6d04c7ef | POTION
+Potion
+@@ 5435 | decide | GLOBALS.DAT | #6d04c7ef | PRICE
+price
+@@ 5436 | decide | GLOBALS.DAT | #6d04c7ef | PURCHASE
+Purchase
+@@ 5437 | decide | GLOBALS.DAT | #6d04c7ef | QUEST
+Quest
+@@ 5438 | decide | GLOBALS.DAT | #6d04c7ef | QUESTCOMPLETE
+Quest Complete
+@@ 5439 | decide | GLOBALS.DAT | #6d04c7ef | QUESTITEM
+(Quest Item)
+@@ 5440 | decide | GLOBALS.DAT | #6d04c7ef | QUESTITEM
+Quest Item
+@@ 5441 | decide | GLOBALS.DAT | #6d04c7ef | QUESTS
+Quests
+@@ 5442 | decide | GLOBALS.DAT | #6d04c7ef | RANK
+Rank
+@@ 5443 | decide | GLOBALS.DAT | #6d04c7ef | RARE
+Rare
+@@ 5444 | decide | GLOBALS.DAT | #6d04c7ef | REACHED
+reached
+@@ 5445 | decide | GLOBALS.DAT | #6d04c7ef | REFLECTED
+Reflected
+@@ 5446 | decide | GLOBALS.DAT | #6d04c7ef | REQUIRES
+Requires
+@@ 5447 | decide | GLOBALS.DAT | #6d04c7ef | REQUIRES
+Requires 
+@@ 5448 | translate | GLOBALS.DAT | #6d04c7ef | RESURRECT
+Resurrect
+@@ 5449 | decide | GLOBALS.DAT | #6d04c7ef | RETIRED
+Retired
+@@ 5450 | decide | GLOBALS.DAT | #6d04c7ef | RIGHTHAND
+right hand
+@@ 5451 | decide | GLOBALS.DAT | #6d04c7ef | RING
+Ring
+@@ 5452 | decide | GLOBALS.DAT | #6d04c7ef | SCROLL
+Scroll
+@@ 5453 | decide | GLOBALS.DAT | #6d04c7ef | SECOND
+second
+@@ 5454 | decide | GLOBALS.DAT | #6d04c7ef | SECONDARYEFFECTS
+Secondary Effects
+@@ 5455 | decide | GLOBALS.DAT | #6d04c7ef | SECONDS
+second(s)
+@@ 5456 | decide | GLOBALS.DAT | #6d04c7ef | SECONDS
+seconds
+@@ 5457 | decide | GLOBALS.DAT | #6d04c7ef | SELL
+Sell
+@@ 5458 | decide | GLOBALS.DAT | #6d04c7ef | SELLPRICE
+Sell Price
+@@ 5459 | decide | GLOBALS.DAT | #6d04c7ef | SELLPRICE
+sell price
+@@ 5460 | decide | GLOBALS.DAT | #6d04c7ef | SET
+Set
+@@ 5461 | decide | GLOBALS.DAT | #6d04c7ef | SHIELD
+Shield
+@@ 5462 | translate | GLOBALS.DAT | #6d04c7ef | SOCKETABLE
+Socketable
+@@ 5463 | decide | GLOBALS.DAT | #6d04c7ef | SOCKETS
+Sockets
+@@ 5464 | translate | GLOBALS.DAT | #6d04c7ef | STRENGTH
+Strength
+@@ 5465 | decide | GLOBALS.DAT | #6d04c7ef | STUD
+Stud
+@@ 5466 | decide | GLOBALS.DAT | #6d04c7ef | TAG
+Tag
+@@ 5467 | decide | GLOBALS.DAT | #6d04c7ef | THROWN
+Thrown
+@@ 5468 | decide | GLOBALS.DAT | #6d04c7ef | TRINKET
+Trinket
+@@ 5469 | decide | GLOBALS.DAT | #6d04c7ef | TYPE
+Type
+@@ 5470 | decide | GLOBALS.DAT | #6d04c7ef | UNIDENTIFIED
+Unidentified
+@@ 5471 | decide | GLOBALS.DAT | #6d04c7ef | UNIQUE
+Unique
+@@ 5472 | decide | GLOBALS.DAT | #6d04c7ef | UNKNOWN
+UNKNOWN
+@@ 5473 | decide | GLOBALS.DAT | #6d04c7ef | UNKNOWN
+Unknown
+@@ 5474 | decide | GLOBALS.DAT | #6d04c7ef | VERYHARD
+Very Hard
+@@ 5475 | decide | GLOBALS.DAT | #6d04c7ef | VETERAN
+Veteran
+@@ 5476 | decide | GLOBALS.DAT | #6d04c7ef | VITALITY
+Vitality
+@@ 5477 | decide | GLOBALS.DAT | #6d04c7ef | WAND
+Wand
+@@ 5478 | decide | GLOBALS.DAT | #6d04c7ef | WAYPOINTS
+Waypoints
+@@ 5479 | decide | GLOBALS.DAT | #6d04c7ef | WEAPON
+Weapon
+@@ 5480 | decide | GLOBALS.DAT | #6d04c7ef | WEAPONS
+Weapons
+@@ 5481 | decide | GLOBALS.DAT | #6d04c7ef | WHISPERS
+whispers
+@@ 5482 | decide | GLOBALS.DAT | #6d04c7ef | XP
+XP
+@@ 5483 | decide | GLOBALS.DAT | #f1ee82e2 | #42122ccd
+You are trying to buy an item that you cannot use yet, either because you are not high enough level, or don't meet the stat requirements. Any requirements you don't meet are displayed in red text.
+@@ 5484 | decide | GLOBALS.DAT | #f1ee82e2 | TIP_ENCHANT
+This is the |cFFFFBA00Enchantment interface|u. Place items here and pay the fee to receive random enchantments. But remember: There's a chance that all of your item's enchantments will be removed.
+@@ 5485 | decide | GLOBALS.DAT | #f1ee82e2 | TIP_FISHING
+This is a |cFFFFBA00fishing hole|u. Click the hook icon when the circle goes red and you hear the splash of a bite. Most of the fish you catch may be used to transform your pet into other creatures. You may even catch special items from the depths.
+@@ 5486 | decide | GLOBALS.DAT | #f1ee82e2 | TIP_GAMBLE
+This is the |cFFFFBA00Gambling interface|u. All of the merchant's items have unknown properties; you'll have to purchase them to find out what they do. Every item is guaranteed to be magical.
+@@ 5487 | decide | GLOBALS.DAT | #f1ee82e2 | TIP_HEALTHLOW
+Your |cFFFFBA00health is low|u. To heal yourself and avoid an untimely demise, |cFFFFBA00right-click on a health potion|u to drink it. You may also press the corresponding number key of any potion mapped to the quick-slot bar at the bottom of the screen.
+@@ 5488 | decide | GLOBALS.DAT | #f1ee82e2 | TIP_HOWTOATTACK
+|cFFFFBA00Left click|u to attack an enemy with your weapon. |cFFFFBA00Right Click|u to cast your readied |cFFFFBA00Skill|u, which is more powerful than your regular attack, but consumes Mana.
+@@ 5489 | decide | GLOBALS.DAT | #f1ee82e2 | TIP_INVENTORY
+This is your |cFFFFBA00inventory screen|u. Drag weapons and armor into the appropriate slots to equip them. Drop items by dragging them into the play area. Useable items may be activated by right-clicking on them. To use items on your pet, drag them to the pet bowl icon at the top left of the screen, or hold |cFFFFBA00[SHIFT]|u while right-clicking them.
+@@ 5490 | decide | GLOBALS.DAT | #f1ee82e2 | TIP_INVENTORYFULL
+Your |cFFFFBA00inventory is full|u. Either drop unwanted items, or give them to your pet by opening your pet's inventory and dragging items to empty slots.
+@@ 5491 | decide | GLOBALS.DAT | #f1ee82e2 | TIP_LEVELUP
+You've gained a level! Click on the |cFFFFBA00Level Up|u button on the left side of the screen to apply your newfound wisdom.
+@@ 5492 | decide | GLOBALS.DAT | #f1ee82e2 | TIP_MANALOW
+Your |cFFFFBA00Mana is low|u. Mana is used to perform skills or cast spells. Mana recharges over time, but for a quick boost, |cFFFFBA00drink a mana potion by right-clicking on it|u. You may also press the corresponding number key of any potion mapped to the quick-slot bar at the bottom of the screen.
+@@ 5493 | decide | GLOBALS.DAT | #f1ee82e2 | TIP_MERCHANT
+This is the |cFFFFBA00merchant interface|u - drag items from the left to the right to buy them, and vice-versa to sell.  You can perform an instantaneous transaction by holding |cFFFFBA00[SHIFT]|u while clicking on an item. You can also buy and sell from your pet's inventory, located in the bottom left.
+@@ 5494 | decide | GLOBALS.DAT | #f1ee82e2 | TIP_PETFLEE
+Your |cFFFFBA00pet is fleeing|u: It will no longer attack and cannot pick up items for you. Pet health will slowly recover automatically, but you may heal your pet by dragging a potion to the pet bowl icon at the top left of the screen, holding |cFFFFBA00[SHIFT]|u while right-clicking it, or hitting |cFFFFBA00[SHIFT-Z]|u.
+@@ 5495 | decide | GLOBALS.DAT | #f1ee82e2 | TIP_PETINVENTORY
+This is your |cFFFFBA00pet's inventory|u. Your pet can carry as many items as you can. You can also have your pet pick up items directly from the ground by holding |cFFFFBA00[SHIFT]|u and clicking on them. Your pet can also equip a limited selection of items to improve its abilities.
+@@ 5496 | decide | GLOBALS.DAT | #f1ee82e2 | TIP_PETINVENTORYFULL
+Your |cFFFFBA00pet's inventory is full|u. You can |cFFFFBA00send your pet back to town|u by clicking on the |cFFFFBA00green arrow button|u in the pet interface. Your pet will depart for a short time to go sell the contents of its inventory and then bring the profits back to you!
+@@ 5497 | decide | GLOBALS.DAT | #f1ee82e2 | TIP_QUESTCOMPLETE
+You have |cFFFFBA00completed a quest|u. To receive your reward, speak to the individual that gave you the quest; you can identify quest NPCs by the |cFFFFBA00?|u above their heads. You can speed things up by using a |cFFFFBA00Waypoint Portal Scroll|u to return directly to Town.
+@@ 5498 | decide | GLOBALS.DAT | #f1ee82e2 | TIP_SHAREDSTASH
+This is your |cFFFFBA00Shared Stash|u. Placing items here makes them accessible to other characters you have created.
+@@ 5499 | decide | GLOBALS.DAT | #f1ee82e2 | TIP_SOCKETABLE
+You have discovered a |cFFFFBA00socketable item|u! Socketable items imbue your weapons and armor with new magical properties when inserted. If you discover an item with sockets, simply install the gemstone by |cFFFFBA00dropping it onto the item|u.
+@@ 5500 | decide | GLOBALS.DAT | #f1ee82e2 | TIP_SPELL
+You have inscribed a |cFFFFBA00new spell|u to your spellbook; you may now cast it as you would any other skill.  Skills and spells can be mapped to the quickslots on the bottom of the screen by clicking on them.
+@@ 5501 | decide | GLOBALS.DAT | #f1ee82e2 | TIP_SPELLFIND
+You have found a |cFFFFBA00spell scroll|u! In the Spells tab of your inventory, you can |cFFFFBA00right-click on the scroll|u or drop it into one of your spell slots to learn it, and you'll gain a new ability. You can also teach your pet spells by dropping them into the appropriate slots in their inventory.
+@@ 5502 | decide | GLOBALS.DAT | #f1ee82e2 | TIP_STASH
+This is your |cFFFFBA00Stash|u. You can place items here for long-term storage. If your inventory is getting full, offload some artifacts here.
+@@ 5503 | decide | GLOBALS.DAT | #f1ee82e2 | TIP_STATS
+You have new |cFFFFBA00Stat Points|u to distribute! Click the button next to each attribute to improve that aspect of your character. You also have new Skill Points that may be used to improve your character's abilities in the Skill Menu (press S).
+@@ 5504 | decide | GLOBALS.DAT | #f1ee82e2 | TIP_TRANSMUTE
+This is the |cFFFFBA00Transmutation interface|u. Place items here and attempt to combine them with the transmute button. There are many recipes for transmuting items, so try different combinations.
+@@ 5505 | decide | GLOBALS.DAT | #f1ee82e2 | TIP_UNIDENTIFIED
+You have discovered a |cFFFFBA00magical item|u! It is |cFFFFBA00unidentified|u, which means that its magic powers are undiscovered. Identify it by |cFFFFBA00right-clicking an Identify Scroll|u, then |cFFFFBA00left-clicking on the item|u.
+@@ 5506 | decide | GLOBALS.DAT | #f1ee82e2 | TIP_WELCOME
+Welcome to |cFFFFBA00Torchlight 2|u! Explore the area by |cFFFFBA00left-clicking to move around|u. Visit the individuals at the inn, and then, when you are ready, find your way northeast. Thank you for playing Torchlight 2!
+@@ 5507 | decide | GLOBALS.DAT | LOADINGTIPS | TJ0
+Click on the |cFFFFBA00Send Pet To Town|u icon in your pet's inventory or near his health badge to send them off to sell your excess items, so that you can keep adventuring.
+@@ 5508 | decide | GLOBALS.DAT | LOADINGTIPS | TJ0
+Don't save your |cFFFFBA00Ember|u for later! Use them in any piece of equipment with an open |cFFFFBA00Socket|u. You will find better varieties soon, and the ancient art of combining gems to make better ones has been lost in this era.
+@@ 5509 | decide | GLOBALS.DAT | LOADINGTIPS | TJ0
+Electrical damage has a chance to randomly |cFFFFBA00Shock|u enemies for 3 to 5 seconds. When you hit a shocked target, the impact releases 3 small Charged Bolts that can strike multiple targets up to 10 meters away.
+@@ 5510 | decide | GLOBALS.DAT | LOADINGTIPS | TJ0
+Elemental Armors, like Fire Armor, help reduce the elemental damage you take, as well as reducing the chance of harmful effects, like Burning.
+@@ 5511 | decide | GLOBALS.DAT | LOADINGTIPS | TJ0
+Feed fish to your pet to turn them into creatures with varying abilities, strengths, and weaknesses.
+@@ 5512 | decide | GLOBALS.DAT | LOADINGTIPS | TJ0
+Fire damage can randomly cause enemies to |cFFFFBA00Burn|u, doing extra damage over 3 to 7 seconds. Burning bypasses armor and is good for taking down tougher enemies.
+@@ 5513 | decide | GLOBALS.DAT | LOADINGTIPS | TJ0
+Higher level monsters do more |cFFFFBA00Damage|u and have more |cFFFFBA00Armor|u and |cFFFFBA00Health|u. These key combat statistics make fighting monsters above your own an increasingly difficult task.
+@@ 5514 | decide | GLOBALS.DAT | LOADINGTIPS | TJ0
+Hold |cFFFFBA00[ALT]|u to see any items scattered on the ground, or toggle this view with the magnifying glass icon.
+@@ 5515 | decide | GLOBALS.DAT | LOADINGTIPS | TJ0
+Holding |cFFFFBA00[CTRL]|u while attacking will only move you or use a skill if you have a target highlit. This is useful to prevent inadvertent movement during fast combat.
+@@ 5516 | decide | GLOBALS.DAT | LOADINGTIPS | TJ0
+Holding |cFFFFBA00[SHIFT]|u while attacking will force you to remain in place during combat.
+@@ 5517 | decide | GLOBALS.DAT | LOADINGTIPS | TJ0
+Holding |cFFFFBA00[SHIFT]|u while clicking on an item in a Merchant screen will instantly sell or buy it.
+@@ 5518 | decide | GLOBALS.DAT | LOADINGTIPS | TJ0
+Holding |cFFFFBA00[SHIFT]|u while clicking on an item will cause your pet to run and pick it up.
+@@ 5519 | decide | GLOBALS.DAT | LOADINGTIPS | TJ0
+Ice damage can randomly cause enemies to |cFFFFBA00Freeze|u, slowing their attacks, skills and movement by 33% for 3 to 4 seconds.
+@@ 5520 | decide | GLOBALS.DAT | LOADINGTIPS | TJ0
+If you are wielding two similar weapons, like any two melee weapons or two pistols, you have a chance to |cFFFFBA00Execute|u, striking with both weapons at one time. Investing in your Focus attribute improves this chance.
+@@ 5521 | decide | GLOBALS.DAT | LOADINGTIPS | TJ0
+If you find good loot which your character can't use, consider trading it with another player or keeping it in your |cFFFFBA00Shared Stash|u for your other characters to use.
+@@ 5522 | decide | GLOBALS.DAT | LOADINGTIPS | TJ0
+If you find yourself dying too much, try to increase your armor. Higher armor equipment reduces damage that monsters deal to you.
+@@ 5523 | decide | GLOBALS.DAT | LOADINGTIPS | TJ0
+In |cFFFFBA00Multi-Player|u games, any loot that you find will be visible only to you. Feel free to take everything! The other players will get their own loot. 
+@@ 5524 | decide | GLOBALS.DAT | LOADINGTIPS | TJ0
+In |cFFFFBA00Multi-Player|u games, the monsters you fight will do more damage to you and take more damage to defeat, based on the numbers of players nearby. Those nearby players will also get full experience for each monster killed.
+@@ 5525 | decide | GLOBALS.DAT | LOADINGTIPS | TJ0
+Most enchanters can |cFFFFBA00enchant|u any item two times.  Others are more skilled and can grant a third or fourth enchantment! Enchanters can also remove existing enchantments allowing items to be enchanted again.
+@@ 5526 | decide | GLOBALS.DAT | LOADINGTIPS | TJ0
+Most melee weapons do |cFFFFBA00Splash Damage|u, hitting adjacent monsters in an arc in front of you. Two-handed weapons have longer and wider arcs and do a larger amount of damage to these Splash targets.
+@@ 5527 | decide | GLOBALS.DAT | LOADINGTIPS | TJ0
+Poison damage has a chance to randomly |cFFFFBA00Poison|u enemies, reducing their armor and damage dealing by 33% for 3 to 5 seconds.
+@@ 5528 | decide | GLOBALS.DAT | LOADINGTIPS | TJ0
+Press the |cFFFFBA00[Space Bar]|u to quickly close any currently open interface panels. If no panels are open, instead it will access your Inventory and Character panels.
+@@ 5529 | decide | GLOBALS.DAT | LOADINGTIPS | TJ0
+Press |cFFFFBA00M|u to toggle the |cFFFFBA00minimap|u, and use the |cFFFFBA00[|u and |cFFFFBA00]|u keys to zoom in and out.
+@@ 5530 | decide | GLOBALS.DAT | LOADINGTIPS | TJ0
+Remember to |cFFFFBA00feed Fish to your Pet!|u It will make your pet stronger and give you a critical combat boost when the going gets tough. Look for fishing holes in the wilderness.
+@@ 5531 | decide | GLOBALS.DAT | LOADINGTIPS | TJ0
+Some equipment can only be used if you meet level or stat requirements. Requirements you don't currently meet are displayed in red.
+@@ 5532 | decide | GLOBALS.DAT | LOADINGTIPS | TJ0
+The damage you do is reduced by your target's |cFFFFBA00Armor|u; more Armor means less damage.  Attacks can score a |cFFFFBA00Critical Hit|u, doing extra damage. Check the |cFFFFBA00Arcane Statistics|u panel  for more combat details. 
+@@ 5533 | decide | GLOBALS.DAT | LOADINGTIPS | TJ0
+The |cFFFFBA00[Z]|u key will drink your best Health Potion. The |cFFFFBA00[X]|u key will drink your best Mana Potion. |cFFFFBA00[Shift-Z]|u key will heal your pet instead of you.
+@@ 5534 | decide | GLOBALS.DAT | LOADINGTIPS | TJ0
+Unidentified items may be identified by using an |cFFFFBA00identify scroll|u. Right-click on the item to identify it if and it will automatically use any identify scrolls you have.
+@@ 5535 | decide | GLOBALS.DAT | LOADINGTIPS | TJ0
+Use the mouse-wheel to zoom in and out. Clicking the mouse-wheel button will reset your view.
+@@ 5536 | decide | GLOBALS.DAT | LOADINGTIPS | TJ0
+When quest items are picked up, they are stored in your Quest Log |cFFFFBA00[Q]|u, not in your inventory
+@@ 5537 | decide | GLOBALS.DAT | LOADINGTIPS | TJ0
+When you gain a level, remember to assign any points you may have earned to improve your player's attributes. These attributes increase damage and improve defenses.
+@@ 5538 | decide | GLOBALS.DAT | LOADINGTIPS | TJ0
+Your |cFFFFBA00Pet|u can now buy basic items like potions and scrolls from town.  Check out the fourth tab in your pet's inventory to access the |cFFFFBA00Shopping List|u. Items purchased this way will be added to your inventory when your pet returns.
+@@ 5539 | decide | GLOBALS.DAT | LOADINGTIPS | TJ0
+|cFF94CC94Green|u items have minor enchantments. |cFF9696CFBlue|u items are more rare and powerful. |cFFdbAE12Gold|u items are unique and have the best enchantments. |cFFD17AFFPurple|u items are related to quests.
+@@ 5540 | decide | GLOBALS.DAT | LOADINGTIPS | TJ0
+|cFFFFBA00Cannons|u and |cFFFFBA00Shotgonnes|u attack multiple enemies in wide, but short arcs. |cFFFFBA00Crossbows|u have the longest range. |cFFFFBA00Pistols|u are fast, but have shorter range. |cFFFFBA00Bows|u have an average range.
+@@ 5541 | decide | GLOBALS.DAT | LOADINGTIPS | TJ0
+|cFFFFBA00Claw|u weapons are fast, but don't hit adjacent monsters. |cFFFFBA00Hammers|u tend to be slow but interrupt monster attacks and skills. |cFFFFBA00Axes|u do more consistent damage. |cFFFFBA00Polearms|u have longer range.
+@@ 5542 | decide | GLOBALS.DAT | LOADINGTIPS | TJ0
+|cFFFFBA00Left-click|u on monsters to attack them. Hold the left mouse button down to continuously attack.
+@@ 5543 | decide | GLOBALS.DAT | LOADINGTIPS | TJ0
+|cFFFFBA00Passive|u skills are always in effect, but sometimes you need to have the right weapon equipped.
+@@ 5544 | decide | GLOBALS.DAT | LOADINGTIPS | TJ0
+|cFFFFBA00Purple Damage|u numbers mean you have 'fumbled' the attack, which reduces damage. Press |cFFFFBA00[ J ]|u to view the Arcane Statistics Panel and learn about this and other combat mechanics.
+@@ 5545 | decide | GLOBALS.DAT | LOADINGTIPS | TJ0
+|cFFFFBA00Right-click|u to use your currently assigned |cFFFFBA00skill or spell|u.   You can also use |cFFFFBA00TAB|u to switch between it and an alternate skill, noted on the right skill interface at the bottom of the screen.
+@@ 5546 | decide | GLOBALS.DAT | LOADINGTIPS | TJ0
+|cFFFFBA00Wands|u and |cFFFFBA00Staves|u do mostly elemental damage, which tends to be useful for Embermage skills and perhaps any character investing in Focus.
+@@ 5547 | translate | KEYMAPPING/HELPERBINDINGS.DAT | KEYBIND | DISPLAYNAME
+CombatLog
+@@ 5548 | translate | KEYMAPPING/HELPERBINDINGS.DAT | KEYBIND | DISPLAYNAME
+Console
+@@ 5549 | translate | KEYMAPPING/HELPERBINDINGS.DAT | KEYBIND | DISPLAYNAME
+FPS Details
+@@ 5550 | translate | KEYMAPPING/HELPERBINDINGS.DAT | KEYBIND | DISPLAYNAME
+Level Data
+@@ 5551 | translate | KEYMAPPING/HELPERBINDINGS.DAT | KEYBIND | DISPLAYNAME
+Peer Data
+@@ 5552 | translate | KEYMAPPING/HELPERBINDINGS.DAT | KEYBIND | DISPLAYNAME
+Player Effect Data
+@@ 5553 | translate | KEYMAPPING/HELPERBINDINGS.DAT | KEYBIND | DISPLAYNAME
+Player Quest Data
+@@ 5554 | translate | KEYMAPPING/HELPERBINDINGS.DAT | KEYBIND | DISPLAYNAME
+Sound Debug
+@@ 5555 | translate | KEYMAPPING/HELPERBINDINGS.DAT | KEYBIND | DISPLAYNAME
+Steam Stats Data
+@@ 5556 | translate | KEYMAPPING/HELPERBINDINGS.DAT | KEYBIND | DISPLAYNAME
+Time Of Day
+@@ 5557 | translate | KEYMAPPING/KEYBIND.DAT | KEYBIND | DISPLAYNAME
+Active Skill Swap
+@@ 5558 | translate | KEYMAPPING/KEYBIND.DAT | KEYBIND | DISPLAYNAME
+Arcane Statistics
+@@ 5559 | translate | KEYMAPPING/KEYBIND.DAT | KEYBIND | DISPLAYNAME
+Attack Only Valid Targets
+@@ 5560 | translate | KEYMAPPING/KEYBIND.DAT | KEYBIND | DISPLAYNAME
+Auto-Target
+@@ 5561 | translate | KEYMAPPING/KEYBIND.DAT | KEYBIND | DISPLAYNAME
+Automap
+@@ 5562 | translate | KEYMAPPING/KEYBIND.DAT | KEYBIND | DISPLAYNAME
+Automap Reset
+@@ 5563 | translate | KEYMAPPING/KEYBIND.DAT | KEYBIND | DISPLAYNAME
+Automap Zoom In
+@@ 5564 | translate | KEYMAPPING/KEYBIND.DAT | KEYBIND | DISPLAYNAME
+Automap Zoom Out
+@@ 5565 | translate | KEYMAPPING/KEYBIND.DAT | KEYBIND | DISPLAYNAME
+Camera Zoom In
+@@ 5566 | translate | KEYMAPPING/KEYBIND.DAT | KEYBIND | DISPLAYNAME
+Camera Zoom Out
+@@ 5567 | translate | KEYMAPPING/KEYBIND.DAT | KEYBIND | DISPLAYNAME
+Cast Active Skill
+@@ 5568 | translate | KEYMAPPING/KEYBIND.DAT | KEYBIND | DISPLAYNAME
+Character Stats Menu
+@@ 5569 | translate | KEYMAPPING/KEYBIND.DAT | KEYBIND | DISPLAYNAME
+Close All Menus
+@@ 5570 | translate | KEYMAPPING/KEYBIND.DAT | KEYBIND | DISPLAYNAME
+Cycle Skills Down
+@@ 5571 | translate | KEYMAPPING/KEYBIND.DAT | KEYBIND | DISPLAYNAME
+Cycle Skills Up
+@@ 5572 | translate | KEYMAPPING/KEYBIND.DAT | KEYBIND | DISPLAYNAME
+Function 1
+@@ 5573 | translate | KEYMAPPING/KEYBIND.DAT | KEYBIND | DISPLAYNAME
+Function 10
+@@ 5574 | translate | KEYMAPPING/KEYBIND.DAT | KEYBIND | DISPLAYNAME
+Function 11
+@@ 5575 | translate | KEYMAPPING/KEYBIND.DAT | KEYBIND | DISPLAYNAME
+Function 12
+@@ 5576 | translate | KEYMAPPING/KEYBIND.DAT | KEYBIND | DISPLAYNAME
+Function 2
+@@ 5577 | translate | KEYMAPPING/KEYBIND.DAT | KEYBIND | DISPLAYNAME
+Function 3
+@@ 5578 | translate | KEYMAPPING/KEYBIND.DAT | KEYBIND | DISPLAYNAME
+Function 4
+@@ 5579 | translate | KEYMAPPING/KEYBIND.DAT | KEYBIND | DISPLAYNAME
+Function 5
+@@ 5580 | translate | KEYMAPPING/KEYBIND.DAT | KEYBIND | DISPLAYNAME
+Function 6
+@@ 5581 | translate | KEYMAPPING/KEYBIND.DAT | KEYBIND | DISPLAYNAME
+Function 7
+@@ 5582 | translate | KEYMAPPING/KEYBIND.DAT | KEYBIND | DISPLAYNAME
+Function 8
+@@ 5583 | translate | KEYMAPPING/KEYBIND.DAT | KEYBIND | DISPLAYNAME
+Function 9
+@@ 5584 | translate | KEYMAPPING/KEYBIND.DAT | KEYBIND | DISPLAYNAME
+Hold Position
+@@ 5585 | translate | KEYMAPPING/KEYBIND.DAT | KEYBIND | DISPLAYNAME
+Inventory
+@@ 5586 | translate | KEYMAPPING/KEYBIND.DAT | KEYBIND | DISPLAYNAME
+Map Visibility
+@@ 5587 | translate | KEYMAPPING/KEYBIND.DAT | KEYBIND | DISPLAYNAME
+Move
+@@ 5588 | translate | KEYMAPPING/KEYBIND.DAT | KEYBIND | DISPLAYNAME
+Move/Attack
+@@ 5589 | translate | KEYMAPPING/KEYBIND.DAT | KEYBIND | DISPLAYNAME
+Options Menu
+@@ 5590 | translate | KEYMAPPING/KEYBIND.DAT | KEYBIND | DISPLAYNAME
+Pet Inventory
+@@ 5591 | translate | KEYMAPPING/KEYBIND.DAT | KEYBIND | DISPLAYNAME
+Quest Menu
+@@ 5592 | translate | KEYMAPPING/KEYBIND.DAT | KEYBIND | DISPLAYNAME
+Quick Save
+@@ 5593 | translate | KEYMAPPING/KEYBIND.DAT | KEYBIND | DISPLAYNAME
+Reset Camera
+@@ 5594 | translate | KEYMAPPING/KEYBIND.DAT | KEYBIND | DISPLAYNAME
+Show Items
+@@ 5595 | translate | KEYMAPPING/KEYBIND.DAT | KEYBIND | DISPLAYNAME
+Skill Menu
+@@ 5596 | translate | KEYMAPPING/KEYBIND.DAT | KEYBIND | DISPLAYNAME
+Weapon Swap
+@@ 5597 | translate | KEYMAPPING/QUICKKEYS.DAT | KEYBIND | DISPLAYNAME
+Best Health Potion
+@@ 5598 | translate | KEYMAPPING/QUICKKEYS.DAT | KEYBIND | DISPLAYNAME
+Best Mana Potion
+@@ 5599 | translate | KEYMAPPING/QUICKKEYS.DAT | KEYBIND | DISPLAYNAME
+Best Pet Health Potion
+@@ 5600 | translate | KEYMAPPING/QUICKKEYS.DAT | KEYBIND | DISPLAYNAME
+Best Pet Mana Potion
+@@ 5601 | translate | KEYMAPPING/QUICKKEYS.DAT | KEYBIND | DISPLAYNAME
+Quickslot 0
+@@ 5602 | translate | KEYMAPPING/QUICKKEYS.DAT | KEYBIND | DISPLAYNAME
+Quickslot 1
+@@ 5603 | translate | KEYMAPPING/QUICKKEYS.DAT | KEYBIND | DISPLAYNAME
+Quickslot 2
+@@ 5604 | translate | KEYMAPPING/QUICKKEYS.DAT | KEYBIND | DISPLAYNAME
+Quickslot 3
+@@ 5605 | translate | KEYMAPPING/QUICKKEYS.DAT | KEYBIND | DISPLAYNAME
+Quickslot 4
+@@ 5606 | translate | KEYMAPPING/QUICKKEYS.DAT | KEYBIND | DISPLAYNAME
+Quickslot 5
+@@ 5607 | translate | KEYMAPPING/QUICKKEYS.DAT | KEYBIND | DISPLAYNAME
+Quickslot 6
+@@ 5608 | translate | KEYMAPPING/QUICKKEYS.DAT | KEYBIND | DISPLAYNAME
+Quickslot 7
+@@ 5609 | translate | KEYMAPPING/QUICKKEYS.DAT | KEYBIND | DISPLAYNAME
+Quickslot 8
+@@ 5610 | translate | KEYMAPPING/QUICKKEYS.DAT | KEYBIND | DISPLAYNAME
+Quickslot 9
+@@ 5611 | translate | PERKS/KILL10GOBLINS.DAT | PERK | DETAILS
+Converts each point of Fame earned into gold. And hopefully this will wrap around and do another line and well ... you know do stuff that would be cool!
+@@ 5612 | translate | PERKS/KILL10GOBLINS.DAT | PERK | NAME
+Filthy Lucre
+@@ 5613 | translate | RECIPES/2SETS_1RANDOMSET.DAT | #2070ae44 | RESULT
+A Random Set Item
+@@ 5614 | translate | RECIPES/2SETS_1RANDOMSET.DAT | INGREDIENT | DESCRIPTION
+Any set item
+@@ 5615 | translate | RECIPES/2SPELLS_1RANDOMSPELL.DAT | #2070ae44 | RESULT
+A Random Spell
+@@ 5616 | translate | RECIPES/2SPELLS_1RANDOMSPELL.DAT | INGREDIENT | DESCRIPTION
+Any spell
+@@ 5617 | translate | RECIPES/COMPONENT.DAT | #2070ae44 | RESULT
+A Random Unique
+@@ 5618 | translate | RECIPES/COMPONENT.DAT | INGREDIENT | DESCRIPTION
+Any Unique item
+@@ 5619 | translate | RECIPES/SKULLSANDRAREGEMS.DAT | #2070ae44 | RESULT
+High Grade Socketable
+@@ 5620 | translate | RECIPES/SOCKET.DAT | #2070ae44 | RESULT
+Add Socket to Item
+@@ 5621 | translate | RECIPES/SOCKET.DAT | INGREDIENT | DESCRIPTION
+Any gem of equal or greater level
+@@ 5622 | translate | RECIPES/SOCKET.DAT | INGREDIENT | DESCRIPTION
+Any unsocketed item
+@@ 5623 | translate | RESURRECT/RES_IN_DUNGEON.DAT | RESURRECTION | TITLE
+Entrance
+@@ 5624 | translate | RESURRECT/RES_IN_PLACE.DAT | RESURRECTION | DESCRIPTION
+Resurrect here, but lose [GOLD] Gold.
+@@ 5625 | translate | RESURRECT/RES_IN_TOWN.DAT | RESURRECTION | TITLE
+Town
+@@ 5626 | translate | STATS/ARBITERAVATAR.DAT | STAT | DISPLAYNAME
+Avatar State
+@@ 5627 | translate | STATS/ARBITERHITCOUNTER.DAT | STAT | DISPLAYNAME
+Arbiter Hit Counter
+@@ 5628 | translate | STATS/BERSERKERRAGE.DAT | STAT | DISPLAYNAME
+Rage
+@@ 5629 | translate | STATS/BERSERKERRAGESTATE.DAT | STAT | DISPLAYNAME
+Berserker Rage State
+@@ 5630 | translate | STATS/BERSERKERRETALIATE.DAT | STAT | DISPLAYNAME
+Berserker retaliate
+@@ 5631 | translate | STATS/CHAMPSHIELD.DAT | STAT | DISPLAYNAME
+Champ Shield
+@@ 5632 | translate | STATS/CHARACTER DAMAGE MAX.DAT | STAT | DISPLAYNAME
+Character Damage Max
+@@ 5633 | translate | STATS/CHARACTER DPS BEST.DAT | STAT | DISPLAYNAME
+character dps best
+@@ 5634 | translate | STATS/CHARACTER DPS LEFTHAND.DAT | STAT | DISPLAYNAME
+character max damage righthand
+@@ 5635 | translate | STATS/CHARACTER STRENGTH.DAT | STAT | DISPLAYNAME
+CHARACTER STRENGTH
+@@ 5636 | translate | STATS/COMBOBLOOD.DAT | STAT | DISPLAYNAME
+Blood Combo Stat
+@@ 5637 | translate | STATS/COMBOELECTRIC.DAT | STAT | DISPLAYNAME
+Electric Combo Stat
+@@ 5638 | translate | STATS/COMBOFIRE.DAT | STAT | DISPLAYNAME
+Fire Combo Stat
+@@ 5639 | translate | STATS/COMBOICE.DAT | STAT | DISPLAYNAME
+Ice Combo Stat
+@@ 5640 | translate | STATS/COMBOPOISON.DAT | STAT | DISPLAYNAME
+Poison Combo Stat
+@@ 5641 | translate | STATS/CONSUMEDEAD.DAT | STAT | DISPLAYNAME
+Consume Dead
+@@ 5642 | translate | STATS/CURRENT_PLAYER_SKILL_PTS.DAT | STAT | DISPLAYNAME
+Current Player Skill Pts
+@@ 5643 | translate | STATS/CURRENT_PLAYER_STAT_PTS.DAT | STAT | DISPLAYNAME
+Current Player Stat Pts
+@@ 5644 | translate | STATS/DEFENSE.DAT | STAT | DISPLAYNAME
+Defense
+@@ 5645 | translate | STATS/EFFECT LEVEL.DAT | STAT | DISPLAYNAME
+Effect Level
+@@ 5646 | translate | STATS/ELECTRIFIED.DAT | STAT | DISPLAYNAME
+Electrified
+@@ 5647 | translate | STATS/EXPERIENCE LEVEL.DAT | STAT | DISPLAYNAME
+Character Level
+@@ 5648 | translate | STATS/GOALFLAG1.DAT | STAT | DISPLAYNAME
+GoalFlag1
+@@ 5649 | translate | STATS/GUTPUNCHED.DAT | STAT | DISPLAYNAME
+GUTPUNCHED
+@@ 5650 | translate | STATS/HITCOUNTERSEQUENTIAL.DAT | STAT | DISPLAYNAME
+Hit Counter Sequential
+@@ 5651 | translate | STATS/HITCOUNTERSIMULTANEOUS.DAT | STAT | DISPLAYNAME
+Hit Counter Simultaneous
+@@ 5652 | translate | STATS/IMMOBILIZED.DAT | STAT | DISPLAYNAME
+Immobilized
+@@ 5653 | translate | STATS/KILLCOUNT_ANY.DAT | STAT | DISPLAYNAME
+Monsters Slain
+@@ 5654 | translate | STATS/KILLCOUNT_CHAMPIONS.DAT | STAT | DISPLAYNAME
+Champions Slain
+@@ 5655 | translate | STATS/KILLCOUNT_DWARF.DAT | STAT | DISPLAYNAME
+Undead Dwarves Slain
+@@ 5656 | translate | STATS/KILLCOUNT_EZROHIR.DAT | STAT | DISPLAYNAME
+Ezrohir Slain
+@@ 5657 | translate | STATS/KILLCOUNT_FUNGUS.DAT | STAT | DISPLAYNAME
+Mycons Slain
+@@ 5658 | translate | STATS/KILLCOUNT_GOBLIN.DAT | STAT | DISPLAYNAME
+Goblins Slain
+@@ 5659 | translate | STATS/KILLCOUNT_MECHS.DAT | STAT | DISPLAYNAME
+Mechanical Enemies Slain
+@@ 5660 | translate | STATS/KILLCOUNT_NETHERIM.DAT | STAT | DISPLAYNAME
+Netherim Slain
+@@ 5661 | translate | STATS/KILLCOUNT_SPIDERS.DAT | STAT | DISPLAYNAME
+Spiders Slain
+@@ 5662 | translate | STATS/KILLCOUNT_STURMBEORN.DAT | STAT | DISPLAYNAME
+Sturmbeorn Slain
+@@ 5663 | translate | STATS/KILLCOUNT_TROGS.DAT | STAT | DISPLAYNAME
+Trogs Slain
+@@ 5664 | translate | STATS/KILLCOUNT_TUTARAN.DAT | STAT | DISPLAYNAME
+Tu'tarans Slain
+@@ 5665 | translate | STATS/KILLCOUNT_UNDEAD.DAT | STAT | DISPLAYNAME
+Undead Slain
+@@ 5666 | translate | STATS/KILLCOUNT_VARKOLYN.DAT | STAT | DISPLAYNAME
+Varkolyn Slain
+@@ 5667 | translate | STATS/LEYLINEBUFF.DAT | STAT | DISPLAYNAME
+Leyline Buff
+@@ 5668 | translate | STATS/LEYLINECREATIONCOUNTER.DAT | STAT | DISPLAYNAME
+Leyline Creation Counter
+@@ 5669 | translate | STATS/MAGIC.DAT | STAT | DISPLAYNAME
+Magic
+@@ 5670 | translate | STATS/MANA.DAT | STAT | DISPLAYNAME
+mana
+@@ 5671 | translate | STATS/MAX HP.DAT | STAT | DISPLAYNAME
+Max HP
+@@ 5672 | translate | STATS/MAXMANA.DAT | STAT | DISPLAYNAME
+Max Mana
+@@ 5673 | translate | STATS/NUMBEROFATTACKS.DAT | STAT | DISPLAYNAME
+Number of Attacks
+@@ 5674 | translate | STATS/PLAYER CHARGE PERCENT.DAT | STAT | DISPLAYNAME
+Charge Percent
+@@ 5675 | translate | STATS/PLAYER CHARGES.DAT | STAT | DISPLAYNAME
+Charges
+@@ 5676 | translate | STATS/PLAYER MAXED CHARGE.DAT | STAT | DISPLAYNAME
+Player Maxed Charge
+@@ 5677 | translate | STATS/RAILMANBONUS.DAT | STAT | DISPLAYNAME
+railman bonus
+@@ 5678 | translate | STATS/RATLINSLAYER.DAT | STAT | DISPLAYNAME
+zombieslayer
+@@ 5679 | translate | STATS/SHADOWBIND.DAT | STAT | DISPLAYNAME
+Shadow Bind Stat
+@@ 5680 | translate | STATS/SHIELD ARMOR.DAT | STAT | DISPLAYNAME
+Shield Armor
+@@ 5681 | translate | TRIGGERABLES/ARBITER_AVATAR.DAT | TRIGGERABLEACTION | DESCRIPTION
+Enter an enlightened state, requiring no mana to cast spells and greatly increasing casting speed
+@@ 5682 | translate | TRIGGERABLES/ARBITER_FIRE_BRAND.DAT | TRIGGERABLEACTION | DESCRIPTION
+Life steals when hitting enemies on fire
+@@ 5683 | translate | TRIGGERABLES/ARBITER_ICE_BRAND.DAT | TRIGGERABLEACTION | DESCRIPTION
+Mana regen when hitting frozen enemies
+@@ 5684 | translate | TRIGGERABLES/ARBITER_LIGHTNING_BRAND.DAT | TRIGGERABLEACTION | DESCRIPTION
+Damage buff when hitting electrified enemies
+@@ 5685 | translate | TRIGGERABLES/ARBITER_MANA_VAMPIRE.DAT | TRIGGERABLEACTION | DESCRIPTION
+Gain Mana on crit
+@@ 5686 | translate | TRIGGERABLES/BERSERKER_BERSERK.DAT | TRIGGERABLEACTION | DESCRIPTION
+Enter a berserk state, always critting and dealign bonus crit damage.  Each crit consumes some charge until the bar is empty
+@@ 5687 | translate | TRIGGERABLES/BERSERKER_BERSERK_CRIT.DAT | TRIGGERABLEACTION | DESCRIPTION
+On Crit and Enraged, start timer
+@@ 5688 | translate | TRIGGERABLES/BERSERKER_CHARGE_LEECH.DAT | TRIGGERABLEACTION | DESCRIPTION
+Gain Faster Charge Rate After Execute
+@@ 5689 | translate | TRIGGERABLES/BERSERKER_FRENZY_PASSIVE.DAT | TRIGGERABLEACTION | DESCRIPTION
+Frenzy on kills
+@@ 5690 | translate | TRIGGERABLES/BERSERKER_LIFE_LEECH.DAT | TRIGGERABLEACTION | DESCRIPTION
+Gain Health on Crit
+@@ 5691 | translate | TRIGGERABLES/BERSERKER_REDWOLF.DAT | TRIGGERABLEACTION | DESCRIPTION
+Summons a Red Wolf to attack your enemies when you crit
+@@ 5692 | translate | TRIGGERABLES/BERSERKER_RETALIATION.DAT | TRIGGERABLEACTION | DESCRIPTION
+Retaliate against enemies in melee range who attack you
+@@ 5693 | translate | TRIGGERABLES/ITEM_RATLIN_SLAYER_5_EFFECT.DAT | TRIGGERABLEACTION | DESCRIPTION
+|cFFEAAA15Augmented Weapon:\n     Kill 5 Ratlins to Upgrade (<stat:GOALFLAG1>/5 killed)
+@@ 5694 | translate | TRIGGERABLES/ITEM_SLAYER_ANY_200.DAT | TRIGGERABLEACTION | DESCRIPTION
+|cFFEAAA15Augmented Weapon:\n     Kill 250 monsters to Upgrade (<stat:killcount_any>/250 killed)
+@@ 5695 | translate | TRIGGERABLES/ITEM_SLAYER_ANY_25.DAT | TRIGGERABLEACTION | DESCRIPTION
+|cFFEAAA15Augmented Weapon:\n     Kill 25 monsters to Upgrade (<stat:killcount_any>/25 killed)
+@@ 5696 | translate | TRIGGERABLES/ITEM_SLAYER_CHAMPION_10.DAT | TRIGGERABLEACTION | DESCRIPTION
+|cFFEAAA15Augmented Weapon:\n     Kill 10 Champion Creatures to Upgrade (<stat:killcount_champions>/10 killed)
+@@ 5697 | translate | TRIGGERABLES/ITEM_SLAYER_CHAMPION_100.DAT | TRIGGERABLEACTION | DESCRIPTION
+|cFFEAAA15Augmented Weapon:\n     Kill 100 Champion Creatures to Upgrade (<stat:killcount_champions>/100 killed)
+@@ 5698 | translate | TRIGGERABLES/ITEM_SLAYER_DWARF_100.DAT | TRIGGERABLEACTION | DESCRIPTION
+|cFFEAAA15Augmented Weapon:\n     Kill 20 Dwarves to Upgrade (<stat:KILLCOUNT_DWARF>/20 killed)
+@@ 5699 | translate | TRIGGERABLES/ITEM_SLAYER_DWARF_1000.DAT | TRIGGERABLEACTION | DESCRIPTION
+|cFFEAAA15Augmented Weapon:\n     Kill 200 Dwarves to Upgrade (<stat:KILLCOUNT_DWARF>/200 killed)
+@@ 5700 | translate | TRIGGERABLES/ITEM_SLAYER_EZROHIR_100.DAT | TRIGGERABLEACTION | DESCRIPTION
+|cFFEAAA15Augmented Weapon:\n     Kill 50 Ezrohir to Upgrade (<stat:killcount_ezrohir>/50 killed)
+@@ 5701 | translate | TRIGGERABLES/ITEM_SLAYER_FUNGUS_100.DAT | TRIGGERABLEACTION | DESCRIPTION
+|cFFEAAA15Augmented Weapon:\n     Kill 20 Mycons to Upgrade (<stat:killcount_fungus>/20 killed)
+@@ 5702 | translate | TRIGGERABLES/ITEM_SLAYER_FUNGUS_1000.DAT | TRIGGERABLEACTION | DESCRIPTION
+|cFFEAAA15Augmented Weapon:\n     Kill 200 Mycons to Upgrade (<stat:killcount_fungus>/200 killed)
+@@ 5703 | translate | TRIGGERABLES/ITEM_SLAYER_GOBLIN_100.DAT | TRIGGERABLEACTION | DESCRIPTION
+|cFFEAAA15Augmented Weapon:\n     Kill 20 Goblins to Upgrade (<stat:killcount_goblin>/20 killed)
+@@ 5704 | translate | TRIGGERABLES/ITEM_SLAYER_MECHANICAL_100.DAT | TRIGGERABLEACTION | DESCRIPTION
+|cFFEAAA15Augmented Weapon:\n     Kill 20 Mechanical Creatures to Upgrade (<stat:killcount_mechs>/20 killed)
+@@ 5705 | translate | TRIGGERABLES/ITEM_SLAYER_NETHERIM_100.DAT | TRIGGERABLEACTION | DESCRIPTION
+|cFFEAAA15Augmented Weapon:\n     Kill 50 Netherim to Upgrade (<stat:killcount_netherim>/50 killed)
+@@ 5706 | translate | TRIGGERABLES/ITEM_SLAYER_SPIDER_100.DAT | TRIGGERABLEACTION | DESCRIPTION
+|cFFEAAA15Augmented Weapon:\n     Kill 20 Spiders to Upgrade (<stat:killcount_spiders>/20 killed)
+@@ 5707 | translate | TRIGGERABLES/ITEM_SLAYER_SPIDER_1000.DAT | TRIGGERABLEACTION | DESCRIPTION
+|cFFEAAA15Augmented Weapon:\n     Kill 200 Spiders to Upgrade (<stat:killcount_spiders>/200 killed)
+@@ 5708 | translate | TRIGGERABLES/ITEM_SLAYER_STURMBEORN_100.DAT | TRIGGERABLEACTION | DESCRIPTION
+|cFFEAAA15Augmented Weapon:\n     Kill 20 Sturmbeorn to Upgrade (<stat:killcount_sturmbeorn>/20 killed)
+@@ 5709 | translate | TRIGGERABLES/ITEM_SLAYER_TROG_100.DAT | TRIGGERABLEACTION | DESCRIPTION
+|cFFEAAA15Augmented Weapon:\n     Kill 20 Trogs to Upgrade (<stat:killcount_trogs>/20 killed)
+@@ 5710 | translate | TRIGGERABLES/ITEM_SLAYER_TROG_1000.DAT | TRIGGERABLEACTION | DESCRIPTION
+|cFFEAAA15Augmented Weapon:\n     Kill 200 Trogs to Upgrade (<stat:killcount_trogs>/200 killed)
+@@ 5711 | translate | TRIGGERABLES/ITEM_SLAYER_TUTARAN_100.DAT | TRIGGERABLEACTION | DESCRIPTION
+|cFFEAAA15Augmented Weapon:\n     Kill 50 Tu'tarans to Upgrade (<stat:killcount_tutaran>/50 killed)
+@@ 5712 | translate | TRIGGERABLES/ITEM_SLAYER_UNDEAD_100.DAT | TRIGGERABLEACTION | DESCRIPTION
+|cFFEAAA15Augmented Weapon:\n     Kill 100 Undead Creatures to Upgrade (<stat:KILLCOUNT_UNDEAD>/100 killed)
+@@ 5713 | translate | TRIGGERABLES/ITEM_SLAYER_UNDEAD_1000.DAT | TRIGGERABLEACTION | DESCRIPTION
+|cFFEAAA15Augmented Weapon:\n     Kill 1000 Undead Creatures to Upgrade (<stat:KILLCOUNT_UNDEAD>/1000 killed)
+@@ 5714 | translate | TRIGGERABLES/ITEM_SLAYER_VARKOLYN_100.DAT | TRIGGERABLEACTION | DESCRIPTION
+|cFFEAAA15Augmented Weapon:\n     Kill 20 Varkolyn to Upgrade (<stat:killcount_varkolyn>/20 killed)
+@@ 5715 | translate | TRIGGERABLES/ITEM_SLAYER_VARKOLYN_1000.DAT | TRIGGERABLEACTION | DESCRIPTION
+|cFFEAAA15Augmented Weapon:\n     Kill 200 Varkolyn to Upgrade (<stat:killcount_varkolyn>/200 killed)
+@@ 5716 | translate | TRIGGERABLES/ITEM_ZOMBIE_SLAYER_100_SUMMONER.DAT | TRIGGERABLEACTION | DESCRIPTION
+|cFFEAAA15Augmented Weapon:\n     Kill 50 Zombies to Upgrade (<stat:ZOMBIESLAYER>/50 killed)
+@@ 5717 | translate | TRIGGERABLES/ON_HIT_LIGHTNING.DAT | TRIGGERABLEACTION | DESCRIPTION
+Lightning enhanced critical attacks!
+@@ 5718 | translate | TRIGGERABLES/RANDOMSLAYER_CHAMP10_ATTACKSPEED.DAT | TRIGGERABLEACTION | DESCRIPTION
+|cFFEAAA15Augmented Weapon:\n     Kill 10 Champion creatures to upgrade (<stat:killcount_champions_10_attackspeed>/10 killed)
+@@ 5719 | translate | TRIGGERABLES/RANDOMSLAYER_CHAMP10_CRIT.DAT | TRIGGERABLEACTION | DESCRIPTION
+|cFFEAAA15Augmented Weapon:\n     Kill 10 Champion creatures to upgrade (<stat:killcount_champions_10_crit>/10 killed)
+@@ 5720 | translate | TRIGGERABLES/RANDOMSLAYER_CHAMP10_DAMAGEPCT.DAT | TRIGGERABLEACTION | DESCRIPTION
+|cFFEAAA15Augmented Weapon:\n     Kill 10 Champion creatures to upgrade (<stat:killcount_champions_10_damagepct>/10 killed)
+@@ 5721 | translate | TRIGGERABLES/RANDOMSLAYER_CHAMP10_DOT.DAT | TRIGGERABLEACTION | DESCRIPTION
+|cFFEAAA15Augmented Weapon:\n     Kill 10 Champion creatures to upgrade (<stat:killcount_champions_10_dot>/10 killed)
+@@ 5722 | translate | TRIGGERABLES/RANDOMSLAYER_CHAMP10_DUALWIELD.DAT | TRIGGERABLEACTION | DESCRIPTION
+|cFFEAAA15Augmented Weapon:\n     Kill 10 Champion creatures to upgrade (<stat:killcount_champions_10_dualwield>/10 killed)
+@@ 5723 | translate | TRIGGERABLES/RANDOMSLAYER_CHAMP10_EXECUTE.DAT | TRIGGERABLEACTION | DESCRIPTION
+|cFFEAAA15Augmented Weapon:\n     Kill 10 Champion creatures to upgrade (<stat:killcount_champions_10_execute>/10 killed)
+@@ 5724 | translate | TRIGGERABLES/RANDOMSLAYER_CHAMP10_IMMOB.DAT | TRIGGERABLEACTION | DESCRIPTION
+|cFFEAAA15Augmented Weapon:\n     Kill 10 Champion creatures to upgrade (<stat:killcount_champions_10_immob>/10 killed)
+@@ 5725 | translate | TRIGGERABLES/RANDOMSLAYER_CHAMP10_KNOCKBACK.DAT | TRIGGERABLEACTION | DESCRIPTION
+|cFFEAAA15Augmented Weapon:\n     Kill 10 Champion creatures to upgrade (<stat:killcount_champions_10_knockback>/10 killed)
+@@ 5726 | translate | TRIGGERABLES/RANDOMSLAYER_CHAMP10_LIFESTEAL.DAT | TRIGGERABLEACTION | DESCRIPTION
+|cFFEAAA15Augmented Weapon:\n     Kill 10 Champion creatures to upgrade (<stat:killcount_champions_10_lifesteal>/10 killed)
+@@ 5727 | translate | TRIGGERABLES/RANDOMSLAYER_CHAMP10_MANASTEAL.DAT | TRIGGERABLEACTION | DESCRIPTION
+|cFFEAAA15Augmented Weapon:\n     Kill 10 Champion creatures to upgrade (<stat:killcount_champions_10_manasteal>/10 killed)
+@@ 5728 | translate | TRIGGERABLES/RANDOMSLAYER_CHAMP10_MISSILERANGE.DAT | TRIGGERABLEACTION | DESCRIPTION
+|cFFEAAA15Augmented Weapon:\n     Kill 10 Champion creatures to upgrade (<stat:killcount_champions_10_missilerange>/10 killed)
+@@ 5729 | translate | TRIGGERABLES/RANDOMSLAYER_CHAMP10_PROC_CHAOTICRIFT.DAT | TRIGGERABLEACTION | DESCRIPTION
+|cFFEAAA15Augmented Weapon:\n     Kill 10 Champion creatures to upgrade (<stat:killcount_champions_10_proc_chaoticrift>/10 killed)
+@@ 5730 | translate | TRIGGERABLES/RANDOMSLAYER_CHAMP10_PROC_FULLHEAL.DAT | TRIGGERABLEACTION | DESCRIPTION
+|cFFEAAA15Augmented Weapon:\n     Kill 10 Champion creatures to upgrade (<stat:killcount_champions_10_proc_fullheal>/10 killed)
+@@ 5731 | translate | TRIGGERABLES/RANDOMSLAYER_CHAMP10_PROC_STORMCLAW.DAT | TRIGGERABLEACTION | DESCRIPTION
+|cFFEAAA15Augmented Weapon:\n     Kill 10 Champion creatures to upgrade (<stat:killcount_champions_10_stormclaw>/10 killed)
+@@ 5732 | translate | TRIGGERABLES/RANDOMSLAYER_CHAMP10_PROC_ZOMBIE.DAT | TRIGGERABLEACTION | DESCRIPTION
+|cFFEAAA15Augmented Weapon:\n     Kill 10 Champion creatures to upgrade (<stat:killcount_champions_10_proc_zombie>/10 killed)
+@@ 5733 | translate | TRIGGERABLES/RANDOMSLAYER_CHAMP10_SHIELDBREAKER.DAT | TRIGGERABLEACTION | DESCRIPTION
+|cFFEAAA15Augmented Weapon:\n     Kill 10 Champion creatures to upgrade (<stat:killcount_champions_10_shieldbreaker>/10 killed)
+@@ 5734 | translate | TRIGGERABLES/RANDOMSLAYER_CHAMP10_SHORTSTUN.DAT | TRIGGERABLEACTION | DESCRIPTION
+|cFFEAAA15Augmented Weapon:\n     Kill 10 Champion creatures to upgrade (<stat:killcount_champions_10_shortstun>/10 killed)
+@@ 5735 | translate | TRIGGERABLES/RANDOMSLAYER_CHAMP10_SPLASH.DAT | TRIGGERABLEACTION | DESCRIPTION
+|cFFEAAA15Augmented Weapon:\n     Kill 10 Champion creatures to upgrade (<stat:killcount_champions_10_splash>/10 killed)
+@@ 5736 | translate | TRIGGERABLES/RANDOMSLAYER_CHAMP10_TANGLE.DAT | TRIGGERABLEACTION | DESCRIPTION
+|cFFEAAA15Augmented Weapon:\n     Kill 10 Champion creatures to upgrade (<stat:killcount_champions_10_tangle>/10 killed)
+@@ 5737 | translate | TRIGGERABLES/RANDOMSLAYER_CHAMP10_TURNALIGNMENT.DAT | TRIGGERABLEACTION | DESCRIPTION
+|cFFEAAA15Augmented Weapon:\n     Kill 10 Champion creatures to upgrade (<stat:killcount_champions_10_turnalignment>/10 killed)
+@@ 5738 | translate | TRIGGERABLES/RANDOMSLAYER_MONSTER250_ATTACKSPEED.DAT | TRIGGERABLEACTION | DESCRIPTION
+|cFFEAAA15Augmented Weapon:\n     Kill 250 enemies to upgrade (<stat:killcount_any_250_attackspeed>/250 killed)
+@@ 5739 | translate | TRIGGERABLES/RANDOMSLAYER_MONSTER250_CRIT.DAT | TRIGGERABLEACTION | DESCRIPTION
+|cFFEAAA15Augmented Weapon:\n     Kill 250 enemies to upgrade (<stat:killcount_any_250_crit>/250 killed)
+@@ 5740 | translate | TRIGGERABLES/RANDOMSLAYER_MONSTER250_DAMAGEPCT.DAT | TRIGGERABLEACTION | DESCRIPTION
+|cFFEAAA15Augmented Weapon:\n     Kill 250 enemies to upgrade (<stat:killcount_any_250_damagepct>/250 killed)
+@@ 5741 | translate | TRIGGERABLES/RANDOMSLAYER_MONSTER250_DOT.DAT | TRIGGERABLEACTION | DESCRIPTION
+|cFFEAAA15Augmented Weapon:\n     Kill 250 enemies to upgrade (<stat:killcount_any_250_dot>/250 killed)
+@@ 5742 | translate | TRIGGERABLES/RANDOMSLAYER_MONSTER250_DUALWIELD.DAT | TRIGGERABLEACTION | DESCRIPTION
+|cFFEAAA15Augmented Weapon:\n     Kill 250 enemies to upgrade (<stat:killcount_any_250_dualwield>/250 killed)
+@@ 5743 | translate | TRIGGERABLES/RANDOMSLAYER_MONSTER250_EXECUTE.DAT | TRIGGERABLEACTION | DESCRIPTION
+|cFFEAAA15Augmented Weapon:\n     Kill 250 enemies to upgrade (<stat:killcount_any_250_execute>/250 killed)
+@@ 5744 | translate | TRIGGERABLES/RANDOMSLAYER_MONSTER250_IMMOB.DAT | TRIGGERABLEACTION | DESCRIPTION
+|cFFEAAA15Augmented Weapon:\n     Kill 250 enemies to upgrade (<stat:killcount_any_250_immob>/250 killed)
+@@ 5745 | translate | TRIGGERABLES/RANDOMSLAYER_MONSTER250_KNOCKBACK.DAT | TRIGGERABLEACTION | DESCRIPTION
+|cFFEAAA15Augmented Weapon:\n     Kill 250 enemies to upgrade (<stat:killcount_any_250_knockback>/250 killed)
+@@ 5746 | translate | TRIGGERABLES/RANDOMSLAYER_MONSTER250_LIFESTEAL.DAT | TRIGGERABLEACTION | DESCRIPTION
+|cFFEAAA15Augmented Weapon:\n     Kill 250 enemies to upgrade (<stat:killcount_any_250_lifesteal>/250 killed)
+@@ 5747 | translate | TRIGGERABLES/RANDOMSLAYER_MONSTER250_MANASTEAL.DAT | TRIGGERABLEACTION | DESCRIPTION
+|cFFEAAA15Augmented Weapon:\n     Kill 250 enemies to upgrade (<stat:killcount_any_250_manasteal>/250 killed)
+@@ 5748 | translate | TRIGGERABLES/RANDOMSLAYER_MONSTER250_MISSILERANGE.DAT | TRIGGERABLEACTION | DESCRIPTION
+|cFFEAAA15Augmented Weapon:\n     Kill 250 enemies to upgrade (<stat:killcount_any_250_missilerange>/250 killed)
+@@ 5749 | translate | TRIGGERABLES/RANDOMSLAYER_MONSTER250_PROC_CHAOTICRIFT.DAT | TRIGGERABLEACTION | DESCRIPTION
+|cFFEAAA15Augmented Weapon:\n     Kill 250 enemies to upgrade (<stat:killcount_any_250_proc_chaoticrift>/250 killed)
+@@ 5750 | translate | TRIGGERABLES/RANDOMSLAYER_MONSTER250_PROC_FULLHEAL.DAT | TRIGGERABLEACTION | DESCRIPTION
+|cFFEAAA15Augmented Weapon:\n     Kill 250 enemies to upgrade (<stat:killcount_any_250_proc_fullheal>/250 killed)
+@@ 5751 | translate | TRIGGERABLES/RANDOMSLAYER_MONSTER250_PROC_STORMCLAW.DAT | TRIGGERABLEACTION | DESCRIPTION
+|cFFEAAA15Augmented Weapon:\n     Kill 250 enemies to upgrade (<stat:killcount_any_250_proc_stormclaw>/250 killed)
+@@ 5752 | translate | TRIGGERABLES/RANDOMSLAYER_MONSTER250_PROC_ZOMBIE.DAT | TRIGGERABLEACTION | DESCRIPTION
+|cFFEAAA15Augmented Weapon:\n     Kill 250 enemies to upgrade (<stat:killcount_any_250_proc_zombie>/250 killed)
+@@ 5753 | translate | TRIGGERABLES/RANDOMSLAYER_MONSTER250_SHIELDBREAKER.DAT | TRIGGERABLEACTION | DESCRIPTION
+|cFFEAAA15Augmented Weapon:\n     Kill 250 enemies to upgrade (<stat:killcount_any_250_shieldbreaker>/250 killed)
+@@ 5754 | translate | TRIGGERABLES/RANDOMSLAYER_MONSTER250_SHORTSTUN.DAT | TRIGGERABLEACTION | DESCRIPTION
+|cFFEAAA15Augmented Weapon:\n     Kill 250 enemies to upgrade (<stat:killcount_any_250_shortstun>/250 killed)
+@@ 5755 | translate | TRIGGERABLES/RANDOMSLAYER_MONSTER250_SPLASH.DAT | TRIGGERABLEACTION | DESCRIPTION
+|cFFEAAA15Augmented Weapon:\n     Kill 250 enemies to upgrade (<stat:killcount_any_250_splash>/250 killed)
+@@ 5756 | translate | TRIGGERABLES/RANDOMSLAYER_MONSTER250_TANGLE.DAT | TRIGGERABLEACTION | DESCRIPTION
+|cFFEAAA15Augmented Weapon:\n     Kill 250 enemies to upgrade (<stat:killcount_any_250_tangle>/250 killed)
+@@ 5757 | translate | TRIGGERABLES/RANDOMSLAYER_MONSTER250_TURNALIGNMENT.DAT | TRIGGERABLEACTION | DESCRIPTION
+|cFFEAAA15Augmented Weapon:\n     Kill 250 enemies to upgrade (<stat:killcount_any_250_turnalignment>/250 killed)
+@@ 5758 | translate | TRIGGERABLES/RANDOMSLAYER_MONSTER25_ATTACKSPEED.DAT | TRIGGERABLEACTION | DESCRIPTION
+|cFFEAAA15Augmented Weapon:\n     Kill 25 enemies to upgrade (<stat:killcount_any_25_attackspeed>/25 killed)
+@@ 5759 | translate | TRIGGERABLES/RANDOMSLAYER_MONSTER25_CRIT.DAT | TRIGGERABLEACTION | DESCRIPTION
+|cFFEAAA15Augmented Weapon:\n     Kill 25 enemies to upgrade (<stat:killcount_any_25_crit>/25 killed)
+@@ 5760 | translate | TRIGGERABLES/RANDOMSLAYER_MONSTER25_DAMAGEPCT.DAT | TRIGGERABLEACTION | DESCRIPTION
+|cFFEAAA15Augmented Weapon:\n     Kill 25 enemies to upgrade (<stat:killcount_any_25_damagepct>/25 killed)
+@@ 5761 | translate | TRIGGERABLES/RANDOMSLAYER_MONSTER25_DOT.DAT | TRIGGERABLEACTION | DESCRIPTION
+|cFFEAAA15Augmented Weapon:\n     Kill 25 enemies to upgrade (<stat:killcount_any_25_dot>/25 killed)
+@@ 5762 | translate | TRIGGERABLES/RANDOMSLAYER_MONSTER25_DUALWIELD.DAT | TRIGGERABLEACTION | DESCRIPTION
+|cFFEAAA15Augmented Weapon:\n     Kill 25 enemies to upgrade (<stat:killcount_any_25_dualwield>/25 killed)
+@@ 5763 | translate | TRIGGERABLES/RANDOMSLAYER_MONSTER25_EXECUTE.DAT | TRIGGERABLEACTION | DESCRIPTION
+|cFFEAAA15Augmented Weapon:\n     Kill 25 enemies to upgrade (<stat:killcount_any_25_execute>/25 killed)
+@@ 5764 | translate | TRIGGERABLES/RANDOMSLAYER_MONSTER25_IMMOB.DAT | TRIGGERABLEACTION | DESCRIPTION
+|cFFEAAA15Augmented Weapon:\n     Kill 25 enemies to upgrade (<stat:killcount_any_25_immob>/25 killed)
+@@ 5765 | translate | TRIGGERABLES/RANDOMSLAYER_MONSTER25_KNOCKBACK.DAT | TRIGGERABLEACTION | DESCRIPTION
+|cFFEAAA15Augmented Weapon:\n     Kill 25 enemies to upgrade (<stat:killcount_any_25_knockback>/25 killed)
+@@ 5766 | translate | TRIGGERABLES/RANDOMSLAYER_MONSTER25_LIFESTEAL.DAT | TRIGGERABLEACTION | DESCRIPTION
+|cFFEAAA15Augmented Weapon:\n     Kill 25 enemies to upgrade (<stat:killcount_any_25_lifesteal>/25 killed)
+@@ 5767 | translate | TRIGGERABLES/RANDOMSLAYER_MONSTER25_MANASTEAL.DAT | TRIGGERABLEACTION | DESCRIPTION
+|cFFEAAA15Augmented Weapon:\n     Kill 25 enemies to upgrade (<stat:killcount_any_25_manasteal>/25 killed)
+@@ 5768 | translate | TRIGGERABLES/RANDOMSLAYER_MONSTER25_MISSILERANGE.DAT | TRIGGERABLEACTION | DESCRIPTION
+|cFFEAAA15Augmented Weapon:\n     Kill 25 enemies to upgrade (<stat:killcount_any_25_missilerange>/25 killed)
+@@ 5769 | translate | TRIGGERABLES/RANDOMSLAYER_MONSTER25_PROC_CHAOTICRIFT.DAT | TRIGGERABLEACTION | DESCRIPTION
+|cFFEAAA15Augmented Weapon:\n     Kill 25 enemies to upgrade (<stat:killcount_any_25_proc_chaoticrift>/25 killed)
+@@ 5770 | translate | TRIGGERABLES/RANDOMSLAYER_MONSTER25_PROC_FULLHEAL.DAT | TRIGGERABLEACTION | DESCRIPTION
+|cFFEAAA15Augmented Weapon:\n     Kill 25 enemies to upgrade (<stat:killcount_any_25_proc_fullheal>/25 killed)
+@@ 5771 | translate | TRIGGERABLES/RANDOMSLAYER_MONSTER25_PROC_STRORMCLAW.DAT | TRIGGERABLEACTION | DESCRIPTION
+|cFFEAAA15Augmented Weapon:\n     Kill 25 enemies to upgrade (<stat:killcount_any_25_stormclaw>/25 killed)
+@@ 5772 | translate | TRIGGERABLES/RANDOMSLAYER_MONSTER25_PROC_ZOMBIE.DAT | TRIGGERABLEACTION | DESCRIPTION
+|cFFEAAA15Augmented Weapon:\n     Kill 25 enemies to upgrade (<stat:killcount_any_25_proc_zombie>/25 killed)
+@@ 5773 | translate | TRIGGERABLES/RANDOMSLAYER_MONSTER25_SHIELDBREAKER.DAT | TRIGGERABLEACTION | DESCRIPTION
+|cFFEAAA15Augmented Weapon:\n     Kill 25 enemies to upgrade (<stat:killcount_any_25_shieldbreaker>/25 killed)
+@@ 5774 | translate | TRIGGERABLES/RANDOMSLAYER_MONSTER25_SHORTSTUN.DAT | TRIGGERABLEACTION | DESCRIPTION
+|cFFEAAA15Augmented Weapon:\n     Kill 25 enemies to upgrade (<stat:killcount_any_25_shortstun>/25 killed)
+@@ 5775 | translate | TRIGGERABLES/RANDOMSLAYER_MONSTER25_SPLASH.DAT | TRIGGERABLEACTION | DESCRIPTION
+|cFFEAAA15Augmented Weapon:\n     Kill 25 enemies to upgrade (<stat:killcount_any_25_splash>/25 killed)
+@@ 5776 | translate | TRIGGERABLES/RANDOMSLAYER_MONSTER25_TANGLE.DAT | TRIGGERABLEACTION | DESCRIPTION
+|cFFEAAA15Augmented Weapon:\n     Kill 25 enemies to upgrade (<stat:killcount_any_25_tangle>/25 killed)
+@@ 5777 | translate | TRIGGERABLES/RANDOMSLAYER_MONSTER25_TURNALIGNMENT.DAT | TRIGGERABLEACTION | DESCRIPTION
+|cFFEAAA15Augmented Weapon:\n     Kill 25 enemies to upgrade (<stat:killcount_any_25_turnalignment>/25 killed)
+@@ 5778 | translate | TRIGGERABLES/WANDERER_DEPLETE.DAT | TRIGGERABLEACTION | DESCRIPTION
+Enter a state of calm, dealing bonus weapon DPS and stunning your next target.
+@@ 5779 | translate | TRIGGERABLES/WANDERER_MAX.DAT | TRIGGERABLEACTION | DESCRIPTION
+Enter a focused state, adding further critical hit, dodge, and bonuses as long as the wanderer is fully charged

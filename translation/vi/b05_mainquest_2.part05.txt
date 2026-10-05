@@ -1,0 +1,54 @@
+@@ 2247
+Bạn đã nạp lại năng lượng cho Power Source!  Khi được lắp vào, cỗ máy tự động sẽ hoạt động trở lại và ... nếu mọi việc suôn sẻ ... nó sẽ mở Great Door để bạn tiếp tục truy đuổi Alchemist.\n\nTrong khi đó, Alchemist đã ở trong những hầm mỏ cổ của người lùn hàng giờ liền.  Nếu giờ hắn vẫn chưa tới Clockwork Core, thì hẳn cũng đã ở gần một cách nguy hiểm.\n\nThời gian không còn nhiều.
+@@ 2248
+Đây là lối vào duy nhất dẫn xuống các hầm mỏ này mà chúng tôi tìm được, nên gần như chắc chắn Alchemist đang ở trong đó.  Có lẽ điều đó nghĩa là hắn đã gần đạt được mục tiêu, dù đó là gì đi nữa ... và nghĩa là hắn sẽ làm mọi cách để ngăn bạn cản đường hắn.  Hắn sẽ càng liều lĩnh, càng nguy hiểm hơn.
+@@ 2249
+Ngươi là ai? NGƯƠI muốn gì?
+@@ 2250
+Đi qua Rivenskull Gorge đến Sundered Battlefield. Tìm cách nạp lại năng lượng cho |cFFFFBA00Power Source|u trong |cFFFFBA00Emberworks|u, rồi quay về gặp Professor Stoker ở Imperial Camp.
+@@ 2251
+- Đến Sundered Battlefield qua Rivenskull Gorge; tiến vào |cFFFFBA00Emberworks|u và nạp lại năng lượng cho |cFFFFBA00Power Source|u
+@@ 2252
+Đây chỉ là trở ngại nhỏ thôi. Chúng tôi biết về những Power Source này nhờ những chuyến thám hiểm |cFFFFBA00Emberworks|u, ở phía bên kia Sundered Battlefield. Ở đó chúng tôi đã tìm thấy những cỗ máy mà người lùn cổ đại từng dùng để chế tạo chúng. Nếu bạn đến được Emberworks, việc nạp lại năng lượng cho nó sẽ dễ như trở bàn tay.\n\nBạn sẽ phải băng qua |cFFFFBA00Rivenskull Pass|u để đến được chiến trường. Khi đã nạp năng lượng cho Power Source, hãy quay lại đây, rồi chúng ta sẽ lắp nó vào Automaton.\n
+@@ 2253
+Alchemist đang ngày càng vuột xa khỏi tầm tay! Theo lời khuyên của Professor Stoker, bạn đã tìm được một Power Source cho cỗ máy tự động cổ của người lùn, nhưng năng lượng của nó đã cạn kiệt. Vậy nên, trong khi Alchemist ngày càng tiến gần Clockwork Core, bạn buộc phải lùng sục một chiến trường cổ của người lùn để tìm cách nạp lại năng lượng cho Power Source.
+@@ 2254
+Tôi vừa xem lại cỗ máy tự động, và tôi nghĩ tổng năng lượng nạp vào không cần quá lớn... chỉ cần đủ để kích các động cơ servo của nó đóng mở cánh cửa. Dù sao thì chúng ta cũng đâu cần nó phải chiến đấu!\n\nThế cũng tốt. Những cỗ máy cũ trong |cFFFFBA00Emberworks|u của người lùn có thể vẫn còn hoạt động, nhưng cũng chỉ lay lắt thôi... và dù có thể mày mò ra cách cho chúng chạy, chúng ta cũng không biết chính xác làm sao để khai thác tối đa chúng. Dù sao thì đó cũng chính là lý do Empire cử đoàn thám hiểm này đến mà!\n
+@@ 2255
+Đúng rồi!  Chính nó đấy! Để tôi lắp cái này vào, rồi cầu mong là nó hoạt động!
+@@ 2256
+- Đến Sundered Battlefield qua Rivenskull Gorge; tìm |cFFFFBA00Emberworks|u và nạp lại năng lượng cho |cFFFFBA00Power Source|u
+@@ 2257
+- Mang |cFFFFBA00Power Source|u về cho Professor Stoker ở |cFFFFBA00Imperial Camp|u
+@@ 2258
+Đánh bại |cFFFFBA00Alchemist|u và lấy lại |cFFFFBA00Ordrak's Heart|u.
+@@ 2259
+- Đánh bại |cFFFFBA00Alchemist|u và lấy lại |cFFFFBA00Ordrak's Heart|u
+@@ 2260
+Alchemist đang ở bên trong Broken Mine, trên đường đi phá hủy Clockwork Core và thả Netherim tràn vào thế giới. Nhưng kế hoạch của hắn phụ thuộc vào việc dùng Ordrak's Heart làm vũ khí; nếu bạn giật được nó khỏi tay hắn, bạn có thể ngăn chặn hắn, ngăn chặn cả Netherim, và cứu lấy thế giới!
+@@ 2261
+Cả thế giới nợ ngươi một ân tình mà họ khó lòng hiểu hết, nói gì đến chuyện đền đáp.
+@@ 2262
+Đánh bại |cFFFFBA00Netherlord|u.
+@@ 2263
+Lắp |cFFFFBA00Ordrak's Heart|u vào |cFFFFBA00Clockwork Core|u.
+@@ 2264
+- Đánh bại |cFFFFBA00Netherlord|u
+@@ 2265
+- Lắp đặt |cFFFFBA00Ordrak's Heart|u
+@@ 2266
+Alchemist đã bị đánh bại, và bạn đã có Ordrak's Heart! Nhiệm vụ của bạn sắp đến hồi kết.\n\nTuy nhiên, ở đâu đó sâu hơn bên trong Clockwork Core, lũ Netherim ô uế vẫn đang gồng mình cào xé những bức tường của thực tại, cố xé toạc một lối để tràn vào thế giới.\n\nVà chỉ còn mình bạn đứng chắn giữa chúng và ngày tận thế.
+@@ 2267
+Tìm lối vào |cFFFFBA00Broken Mines|u ở |cFFFFBA00Minehead|u.\n
+@@ 2268
+Tiến vào |cFFFFBA00Broken Mines|u và tìm |cFFFFBA00Alchemist|u.
+@@ 2269
+- Tiến vào |cFFFFBA00Broken Mines|u\n
+@@ 2270
+- Tìm |cFFFFBA00Alchemist|u
+@@ 2271
+Ngươi phải đuổi kịp |cFFFFBA00Alchemist|u trước khi hắn tới |cFFFFBA00Clockwork Core|u. Với sức mạnh của Ordrak's Heart, hắn có thể phá hủy rào chắn giữa các thế giới, và điều đó đồng nghĩa với sự kết thúc của vạn vật.\n\nNgươi phải đánh bại Alchemist và đoạt lấy Ordrak's Heart. Hắn định dùng nó để hủy diệt, nhưng giờ đây, khi đã được truyền năng lượng đánh cắp từ các Guardian, nó có đủ sức mạnh để khôi phục Clockwork Core và hàn gắn những tổn hại của rào chắn.
+@@ 2272
+Chỉ vài giờ trước, Alchemist đã càn quét qua Imperial Camp giữa đống tàn tích của người lùn ở Grunnheim, rồi xông vào các hầm mỏ của người lùn và khóa chặt Great Door sau lưng.\n\nTrong lúc bạn tìm cách mở lại cánh cửa, Alchemist đã tự do hoành hành bên trong các hầm mỏ, ngày càng tiến gần hơn đến mục tiêu tối thượng của hắn tại Clockwork Core.\n\nNếu Alchemist tới được Clockwork Core, hắn sẽ dùng Ordrak's Heart để phá hủy nó ... và thế giới sẽ diệt vong.
+@@ 2273
+Alchemist sẽ tìm cách dùng Ordrak's Heart để phá hủy Clockwork Core. Nếu hắn thành công, chính thực tại sẽ bị xé toạc, và Netherim sẽ tràn vào như thác lũ. Thế giới sẽ diệt vong.\n\nNhưng Netherim đã không nói hết mọi điều với Alchemist. Theo một nghĩa nào đó, Ordrak từng là một Guardian, và trái tim của hắn mạnh mẽ hơn chúng tưởng. Hẳn nhiên Netherim đã làm nó tha hóa, nhưng nếu nó được dùng vào mục đích tốt... chẳng hạn như hồi sinh Clockwork Core... thì thế giới sẽ lại được an toàn trước giống loài của chúng, và có lẽ là mãi mãi.

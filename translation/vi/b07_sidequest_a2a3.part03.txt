@@ -1,0 +1,80 @@
+@@ 2506
+Dùng |cFFD1FF7Achìa khóa|u để vào |cFFD1FF7AVyrax's Tower|u ở |cFFD1FF7ARivenskull Gorge|u.
+@@ 2507
+- Tìm |cFFD1FF7Achìa khóa|u vào |cFFD1FF7AVyrax's Tower|u trong |cFFD1FF7AForgotten Halls|u.
+@@ 2508
+- Tiến vào |cFFD1FF7AVyrax's Tower|u ở |cFFD1FF7ARivenskull Gorge|u.
+@@ 2509
+Lại gặp bạn rồi! Tôi nghĩ mình có thể đền đáp ơn giúp đỡ mà bạn đã dành cho chúng tôi.\n\nTôi đã nghiên cứu một chút và phát hiện ra vài thông tin thú vị về |cFFD1FF7AVyrax|u, con rồng cổ đại vẫn đang trú ngụ trong tòa tháp ở |cFFD1FF7ARivenskull Gorge|u. Hắn bị chính người anh em của mình là |cFFD1FF7AThiss|u giam cầm ở đó - kẻ mà hình hài ma quái giờ đang nằm bên dưới chúng ta, trong chính |cFFD1FF7AForgotten Halls|u này.\n\nĐiều thú vị là thế này - trong kho báu của |cFFD1FF7AVyrax|u có một viên |cFFD1FF7AHeartfire Stone|u, ban cho người sở hữu sức mạnh của |cFFD1FF7Alửa rồng|u. Đó là một cổ vật hiếm có và đầy uy lực, chắc chắn sẽ giúp ích cho bạn. Nếu bạn tìm được chiếc chìa khóa ở bên dưới, bạn có thể vào được |cFFD1FF7AVyrax's Tower|u và giành lấy |cFFD1FF7AHeartfire Stone|u cho riêng mình!
+@@ 2510
+Nếu muốn tìm |cFFD1FF7AHeartfire Stone|u, trước tiên bạn cần lấy được chìa khóa vào |cFFD1FF7AVyrax's Tower|u ở sâu trong |cFFD1FF7AForgotten Halls|u.\n\nChúc bạn may mắn!
+@@ 2511
+Đánh bại |cFFD1FF7AVyrax|u trên đỉnh tháp.
+@@ 2512
+- Đánh bại |cFFD1FF7AVyrax|u trên đỉnh tháp.
+@@ 2513
+Ồ, đây đúng là những mẫu vật tuyệt hảo. Bạn thực sự đã vượt xa mong đợi của tôi. Và để đền công vất vả của bạn, hãy nhận lấy thứ này: một Super Mana Potion tôi đã chế ra trong lúc chờ bạn quay lại.\n\nCảm ơn bạn lần nữa!
+@@ 2514
+Tiến vào |cFFD1FF7AMuckery|u ở |cFFD1FF7ADank Hollow|u và đánh bại lũ |cFFD1FF7AMyconids|u để thu thập |cFFD1FF7AEmber Truffles|u.
+@@ 2515
+Quay về gặp |cFFD1FF7AImperial Botanist|u ở |cFFD1FF7ADank Hollow|u để nhận thưởng.
+@@ 2516
+- Vào |cFFD1FF7AMuckery|u ở |cFFD1FF7ADank Hollow|u; đánh bại |cFFD1FF7AMyconids|u để thu thập |cFFD1FF7AEmber Truffles|u
+@@ 2517
+- Quay về gặp |cFFD1FF7AImperial Botanist|u ở |cFFD1FF7ADank Hollow|u
+@@ 2518
+Vậy là bạn đang truy đuổi Alchemist à? Có lẽ tôi giúp được bạn đấy. Tôi là một nhà thực vật học, phục vụ Đế chế bằng việc thu thập đủ loại cây cỏ nhiễm Ember. Và tôi đã tìm thấy cả một kho báu |cFFD1FF7AEmber Truffles|u thực thụ ở dưới |cFFD1FF7AMuckery|u … nhưng vài cái trong số đó đã có tri giác rồi, khiến tôi rất khó thu hái chúng.\n\nNếu bạn mang cho tôi, chẳng hạn, một tá |cFFD1FF7AEmber Truffles|u, tôi sẽ giữ lại mười cái cho Đế chế, và dùng hai cái còn lại để chế một |cFFD1FF7ASuper Mana Potion|u cho bạn. Chúng ta thỏa thuận nhé?
+@@ 2519
+Để tôi kể cho bạn nghe đôi chút về Ember Truffles. Rất nhiều loài cây, thậm chí cả một số loài vật, sẽ hấp thụ tinh chất Ember nếu chúng tiếp xúc với Ember ở nồng độ đủ cao. Người ta có thể thu hoạch những cây cối và con vật đó, rồi chưng cất Ember từ chúng để con người có thể hấp thụ được. Việc này chủ yếu do các Imperial Alchemist đảm nhận … có lẽ đó chính là chuyện đã xảy ra với gã mà bạn đang tìm.\n\nNhưng đôi khi, ngoài tự nhiên, cây cối và động vật hấp thụ Ember và nó … biến đổi chúng. Chúng bắt đầu tự di chuyển. Một số thậm chí còn phát triển được trí khôn sơ khai. Phần lớn trường hợp thì cũng không đến mức kinh khủng lắm … nhưng khi cái cây hay con vật đó đủ to lớn hoặc nguy hiểm, thì chà, chúng có thể trở nên khá hung tợn. Có khi bạn còn từng đối mặt với một hai sinh vật đã hấp thụ hơi quá nhiều Ember rồi ấy chứ.
+@@ 2520
+Vừa rồi ... vừa rồi thật kinh khủng. Chúng tấn công bất ngờ. Chúng cứ thế hiện ra từ hư không, quằn quại trườn ra từ khoảng không, như thể chúng đã xé thủng thực tại vậy. Chúng lần lượt giết hết những người còn lại trong đội tuần tra của tôi ... thế rồi khi bạn đến mà bạn lại không nhìn thấy chúng, tôi bắt đầu nghi ngờ chính đầu óc mình!\n\nCảm ơn vì đã tin tôi.
+@@ 2521
+Đánh bại lũ |cFFD1FF7ANetherim|u ở |cFFD1FF7ABlightbogs|u.
+@@ 2522
+Nói chuyện với |cFFD1FF7AInjured Vanquisher|u ở |cFFD1FF7ABlightbogs|u.
+@@ 2523
+- Đánh bại lũ |cFFD1FF7ANetherim|u ở |cFFD1FF7ABlightbogs|u
+@@ 2524
+- Nói chuyện với |cFFD1FF7AInjured Vanquisher|u ở |cFFD1FF7ABlightbogs|u
+@@ 2525
+Tạ ơn các Guardian, bạn đã tới! Lũ ... quỷ này cứ thế từ đâu xuất hiện! Đến giờ tôi vẫn cầm chân được chúng, nhưng có bạn ở đây, chúng ta sẽ sớm đánh bại chúng!\n\nSao bạn lại nhìn tôi như thế? Bạn không thấy chúng à? Chúng ở khắp xung quanh chúng ta đấy! Làm ơn ... bạn phải tin tôi!
+@@ 2526
+Không có thời gian tán gẫu đâu! Chúng ta phải giết lũ quái này, nhanh lên!
+@@ 2527
+Tìm "|cFFD1FF7ANether-Rift|u" dưới đáy hố mỏ |cFFD1FF7AGravedeep|u ở |cFFD1FF7ASundered Battlefield|u, rồi tìm cách đóng nó lại.
+@@ 2528
+- Tìm "|cFFD1FF7ANether-Rift|u" trong |cFFD1FF7AGravedeep|u ở |cFFD1FF7ASundered Battlefield|u
+@@ 2529
+- Đóng "|cFFD1FF7ANether-Rift|u"
+@@ 2530
+Nghe này: nếu bạn định đến |cFFD1FF7ASundered Battlefield|u, có chuyện bạn nên biết. Chúng tôi đang khảo sát ngoài đó thì phát hiện ra một thứ gì đó như ... một cái lỗ, lơ lửng giữa không trung, trong cái hố mỏ mà chúng tôi vẫn gọi là |cFFD1FF7AGravedeep|u. Hiện giờ cái lỗ còn rất nhỏ, nhưng chúng tôi có thể thấy những thứ ở bên trong ... những thứ hùng mạnh, nhưng khủng khiếp. Đầy ác ý.\n\nNếu bạn đến đó, hãy thử tìm cái lỗ ấy. Nếu may mắn thì nó đã biến mất. Còn nếu không, bạn nên cố hết sức tìm cách đóng nó lại, trước khi những thứ chúng tôi thấy lọt qua được!
+@@ 2531
+Bạn đã thấy "Nether-Rift" mà tôi kể chưa? Nó đã lớn đến mức nào rồi?
+@@ 2532
+Không thể tin nổi. |cFFD1FF7AVương miện|u! Cuối cùng nó lại thuộc về bọn ta! A-hahahaha! Phải rồi, đặt nó vào cái khe đằng kia-
+@@ 2533
+Tiến vào |cFFD1FF7AForgotten Halls|u và đối đầu với Spectral Dragon |cFFD1FF7AThiss|u. Đoạt lại chiếc |cFFD1FF7Avương miện|u cho kẻ bí ẩn đứng sau Emberworks Door.
+@@ 2534
+Mang chiếc |cFFD1FF7Avương miện|u về cho kẻ bí ẩn đứng sau |cFFD1FF7AEmberworks Door|u.
+@@ 2535
+- Lấy chiếc |cFFD1FF7Avương miện|u từ |cFFD1FF7AForgotten Halls|u
+@@ 2536
+- Quay lại |cFFD1FF7AEmberworks Door|u.
+@@ 2537
+Ngươi muốn đi qua cánh cửa NÀY á? Ha! Chà, đâu có đơn giản thế. Thứ gì cũng có giá của nó - đến giờ hẳn ngươi phải biết điều đó rồi.\n\nNếu ngươi giải quyết giúp bọn ta một vấn đề, bọn ta sẽ giải quyết giúp ngươi một vấn đề. |cFFD1FF7AThiss|u, con Spectral Dragon vĩ đại, đã giữ một thứ của bọn ta suốt bao năm dài. Bọn ta muốn lấy lại nó - và ngươi sẽ lấy nó về cho bọn ta, ồ phải đấy.\n\nĐó là một chiếc |cFFD1FF7Avương miện|u, một...báu vật gia truyền mà hắn đã cướp của bọn ta. Tất nhiên, hắn sẽ không dễ dàng giao nó ra đâu. Nhưng cánh cửa này thì bất-khả-XÂM-NHẬP - nên ngươi đi thử vận với Thiss còn có cơ hội hơn nhiều so với việc lảng vảng chờ ở đây.\n\nNgươi có thể tìm thấy Thiss trong |cFFD1FF7AForgotten Halls|u... chúc may mắn! Ngươi sẽ cần đến nó đấy!
+@@ 2538
+Ngươi có chiếc |cFFD1FF7Avương miện|u chưa? Chưa à? Thế thì ngươi đến đây làm gì? |cFFD1FF7AThiss|u ở trong |cFFD1FF7AForgotten Halls|u. Nhanh cái chân lên.
+@@ 2539
+Bu lông với bánh răng ơi! Bạn tìm được rồi! Thịt của |cFFD1FF7ABlue Boletus|u! Ôi, cảm ơn bạn nhiều lắm lắm!\n\nChúng tôi sẽ sớm điều chế được thuốc chữa căn bệnh này! Các anh em họ của tôi được cứu rồi! Xin hãy nhận lấy thứ này để đền đáp công sức của bạn, bạn tôi.
+@@ 2540
+Bạn đang tìm thịt |cFFD1FF7ABlue Boletus|u để chữa chứng Black Blindness đang hành hạ các anh em họ của Sprocket.
+@@ 2541
+Bạn đã lấy được thịt |cFFD1FF7ABlue Boletus|u từ Boletus Rex. Hãy mang nó về cho Sprocket ở Imperial Camp.
+@@ 2542
+Tìm thịt |cFFD1FF7ABlue Boletus|u trong |cFFD1FF7AFungal Caves|u
+@@ 2543
+Quay về gặp Sprocket ở Imperial Camp
+@@ 2544
+Ôi, làm ơn - có lẽ bạn giúp được chúng tôi! Nghe theo lời khuyên của thầy lang trong làng, chúng tôi đã lặn lội đến đây tìm thuốc chữa. Các anh em họ của tôi đang mắc chứng Black Blindness, một căn bệnh chỉ có ở giống loài chúng tôi.\n\nCách chữa duy nhất được biết đến là bào chế từ thịt của |cFFD1FF7ABlue Boletus|u - một loài Mycon chỉ mọc trong |cFFD1FF7AFungal Caves|u gần đây. Có điều, tôi thấy chúng, ờ, TO hơn tôi tưởng nhiều.\n\nCó lẽ BẠN có thể lấy giúp chúng tôi ít thịt Blue Boletus chăng? Chúng tôi sẽ mang ơn bạn mãi mãi!
+@@ 2545
+Black Blindness là một căn bệnh quái ác - nó làm mờ mắt và khiến người bệnh không thể nói được, và nếu không được chữa trị trong vài tuần, bệnh có thể trở thành vĩnh viễn. Các anh em họ tội nghiệp của tôi!\n\nXin hãy nhanh chóng lấy thịt |cFFD1FF7ABlue Boletus|u về! Bạn là hy vọng duy nhất của chúng tôi!

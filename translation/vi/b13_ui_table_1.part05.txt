@@ -1,0 +1,280 @@
+@@ 6340
+Rời khỏi\nForsaken Gate
+@@ 6341
+Rời khỏi\nGravedeep
+@@ 6342
+Rời khỏi\nPrison Caravan
+@@ 6343
+Rời khỏi\nSadwa Mesa
+@@ 6344
+Rời khỏi\nSkull Hollow
+@@ 6345
+Rời khỏi\nSlavers' Camp
+@@ 6346
+Rời khỏi\nStorm Armory
+@@ 6347
+Rời khỏi\nStygian Aerie Approach
+@@ 6348
+Rời khỏi\nThe Beast Warrens
+@@ 6349
+Rời khỏi\nThe Bone Clutch
+@@ 6350
+Rời khỏi\nThe Cairn Pit
+@@ 6351
+Rời khỏi\nThe Downfalls
+@@ 6352
+Rời khỏi\nThe Embercraft
+@@ 6353
+Rời khỏi\nThe Lost Hold
+@@ 6354
+Rời khỏi\nThe Rot Gardens
+@@ 6355
+Rời khỏi\nThe Ship Graveyard
+@@ 6356
+Rời khỏi\nThe Swarmstacks
+@@ 6357
+Rời khỏi\nWatchweald Approach
+@@ 6358
+Rời khỏi\nWellspring Approach
+@@ 6359
+Rời khỏi\nWicker Grove
+@@ 6360
+Rời khỏi\nWidowmaker Woods
+@@ 6361
+Ô vũ khí tay trái (Trống)
+@@ 6362
+Tấn công bằng chuột trái
+@@ 6363
+Legendary 
+@@ 6364
+Ô Leggings (Trống)
+@@ 6365
+Để tôi kể bạn nghe đôi chút về Ember Truffle.  Rất nhiều loài cây và thậm chí một số loài vật hấp thụ tinh chất Ember nếu chúng tiếp xúc với nồng độ đủ cao.  Có thể thu hoạch những loài cây và vật đó, rồi chưng cất Ember từ chúng để con người có thể hấp thụ.  Việc này chủ yếu do các nhà giả kim của Đế chế đảm nhận, và có lẽ đó chính là chuyện đã xảy ra với gã mà bạn đang tìm.\n\nNhưng đôi khi, ngoài tự nhiên, cây cối và động vật hấp thụ Ember và bị nó biến đổi.  Chúng bắt đầu tự di chuyển.  Một số thậm chí còn phát triển trí khôn sơ khai.  Phần lớn thì chuyện đó cũng không quá khủng khiếp, nhưng khi cái cây hay con vật đó đủ lớn hoặc đủ nguy hiểm, chà, chúng có thể trở nên khá hung dữ.  Có lẽ bạn cũng đã đụng độ một hai sinh vật hấp thụ hơi quá nhiều Ember rồi.
+@@ 6366
+Khoảng cấp
+@@ 6367
+Khoảng cấp của máy chủ
+@@ 6368
+Khoảng cấp*
+@@ 6369
+Lich Grave
+@@ 6370
+Lift Down
+@@ 6371
+Lift Up
+@@ 6372
+Lighting Info
+@@ 6373
+Lighting Only
+@@ 6374
+Liệt kê phòng có hoặc không có mật khẩu
+@@ 6375
+Tải
+@@ 6376
+Tùy chọn sảnh chờ
+@@ 6377
+Đã khóa
+@@ 6378
+Locked Bandit Chest
+@@ 6379
+Locked Golden Chest
+@@ 6380
+Locked Kennel Door
+@@ 6381
+Locked Vyrax's Tower
+@@ 6382
+Đăng nhập
+@@ 6383
+Đăng nhập
+@@ 6384
+Đăng xuất
+@@ 6385
+Đã đăng nhập
+@@ 6386
+Đăng nhập thất bại
+@@ 6387
+Vật chứa đã lục soát
+@@ 6388
+Kỹ năng Lore
+@@ 6389
+Thấp
+@@ 6390
+Cảnh báo giọng nói khi thiếu tài nguyên
+@@ 6391
+May mắn cộng thêm
+@@ 6392
+MMB
+@@ 6393
+MOD NAME
+@@ 6394
+MWDOWN
+@@ 6395
+MWUP
+@@ 6396
+Sát thương phép
+@@ 6397
+Lượng Mana
+@@ 6398
+Hồi phục Mana
+@@ 6399
+Quản lý tài khoản
+@@ 6400
+Điều khiển bản đồ
+@@ 6401
+Độ đậm bản đồ phủ
+@@ 6402
+Độ đậm bản đồ phủ điều chỉnh độ đậm nhạt của \nbản đồ khi hiển thị đè lên khu vực chơi.
+@@ 6403
+Mapworks đang khởi động
+@@ 6404
+An toàn Mapworks
+@@ 6405
+Mask of Kings
+@@ 6406
+Mask of Queens
+@@ 6407
+Mask of Wariz
+@@ 6408
+Masque of the Red Death
+@@ 6409
+Số người chơi tối đa
+@@ 6410
+Số lần phù phép tối đa: <STAT1>
+@@ 6411
+Máu tối đa (HP)
+@@ 6412
+Mana tối đa (MP)
+@@ 6413
+Cấp tối đa của người chơi được phép vào phòng
+@@ 6414
+Số người chơi tối đa được phép trong phòng
+@@ 6415
+Trung bình
+@@ 6416
+Memory Using/Max: <STAT1>/<STAT2>
+@@ 6417
+Merryweather Bush
+@@ 6418
+Tin nhắn đã nhận
+@@ 6419
+Tin nhắn đã gửi
+@@ 6420
+Cấp tối thiểu của người chơi được phép vào phòng
+@@ 6421
+Vật phẩm linh tinh đang bán
+@@ 6422
+Tầm bắn cộng thêm
+@@ 6423
+Tỉ lệ phản đạn
+@@ 6424
+DPS phản đạn
+@@ 6425
+Thiếu Latchkey Ember
+@@ 6426
+Thiếu mod
+@@ 6427
+Phát hiện thiếu mod!
+@@ 6428
+Thiếu Passkey Ember
+@@ 6429
+Chi tiết bộ sưu tập mod
+@@ 6430
+Cấu hình mod
+@@ 6431
+Chi tiết mod
+@@ 6432
+Bộ lọc mod
+@@ 6433
+Lịch sử mod
+@@ 6434
+Đang bật chế độ Mod - Dùng thư mục lưu của mod
+@@ 6435
+Cảnh báo mod
+@@ 6436
+Sát thương mỗi giây đã điều chỉnh của vũ khí này
+@@ 6437
+Sát thương Electric mỗi đòn đã điều chỉnh của vũ khí này
+@@ 6438
+Sát thương Fire mỗi đòn đã điều chỉnh của vũ khí này
+@@ 6439
+Sát thương Ice mỗi đòn đã điều chỉnh của vũ khí này
+@@ 6440
+Sát thương Physical mỗi đòn đã điều chỉnh của vũ khí này
+@@ 6441
+Sát thương Poison mỗi đòn đã điều chỉnh của vũ khí này
+@@ 6442
+Phím bổ trợ
+@@ 6443
+Mod đang bật
+@@ 6444
+Mod đang được cài đặt
+@@ 6445
+Mondon's Vestment
+@@ 6446
+Mondons Vestment
+@@ 6447
+Quái vật! Quái vật!\n\nCó một con quái vật ở đằng kia! Tôi đang đi trên đường thì mấy người lính này đi ngang qua ... tôi nghĩ họ là lính ... và bảo có một con quái vật đang tiến thẳng về phía chúng tôi! Họ bảo tôi chạy đi! Thế là tôi vứt cả túi đồ mà chạy!\n\nBạn có nghĩ mấy người lính đó cần giúp không? Chỉ là ... tôi cũng cần quay lại đó. Tôi để |cFFEAAA15Coin Purse|u trong túi đồ ... nhưng tôi không muốn bị con quái vật ăn thịt!\n\nTrông bạn có vẻ đáng tin. Tôi trả tiền để bạn quay lại lấy túi tiền đó cho tôi được không?
+@@ 6448
+Quái đã nổ tung
+@@ 6449
+Quái đã hạ
+@@ 6450
+Mod gần đây nhất
+@@ 6451
+Mountain of the Cannibal God
+@@ 6452
+Tắt nhạc
+@@ 6453
+Tắt âm thanh
+@@ 6454
+Mysterious Socket
+@@ 6455
+LƯU Ý: Bạn chỉ có thể lấy lại điểm kỹ năng khi nhân vật ở cấp 10 trở xuống.
+@@ 6456
+LƯU Ý: Bạn chỉ có thể lấy lại 3 điểm kỹ năng cuối cùng đã đầu tư.
+@@ 6457
+NUM 0
+@@ 6458
+NUM 1
+@@ 6459
+NUM 2
+@@ 6460
+NUM 3
+@@ 6461
+NUM 4
+@@ 6462
+NUM 5
+@@ 6463
+NUM 6
+@@ 6464
+NUM 7
+@@ 6465
+NUM 8
+@@ 6466
+NUM 9
+@@ 6467
+Tên của phòng
+@@ 6468
+Vượt qua mê cung
+@@ 6469
+Gần cấp của tôi
+@@ 6470
+Cần Bell
+@@ 6471
+Network bytes/sec out: <STAT1> in: <STAT2>
+@@ 6472
+Game mới
+@@ 6473
+New Game Plus
+@@ 6474
+Bậc New Game Plus
+@@ 6475
+Ngoại hình tiếp theo
+@@ 6476
+Khuôn mặt tiếp theo
+@@ 6477
+Màu tóc tiếp theo
+@@ 6478
+Kiểu tóc tiếp theo
+@@ 6479
+Vật phẩm tiếp theo

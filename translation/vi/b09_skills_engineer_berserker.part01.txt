@@ -1,0 +1,200 @@
+@@ 2944
+Bạn tung ra một loạt nhát chém tàn bạo, đánh ba đòn vào mọi kẻ địch trong phạm vi 4 mét. Giáp của kẻ địch bị suy yếu sau mỗi đòn.
+@@ 2945
+Yêu cầu trang bị vũ khí cận chiến ở tay phải
+@@ 2946
+Bạn miễn nhiễm với đẩy lùi và hiệu ứng làm chậm khi đang thi triển Ravage
+@@ 2947
+Thời gian suy yếu giáp được kéo dài lên 6 giây
+@@ 2948
+Phạm vi tăng lên 5 mét
+@@ 2949
+Bạn rơi vào trạng thái cuồng nộ, sát thương được khuếch đại dựa trên số kẻ địch trong phạm vi 4 mét. Cơn cuồng nộ kéo dài 60 giây.
+@@ 2950
+Sát thương bạn phải nhận cũng giảm theo số kẻ địch ở gần
+@@ 2951
+Phạm vi hào quang tăng lên 5 mét
+@@ 2952
+Phạm vi hào quang tăng lên 6 mét
+@@ 2953
+Lá cờ cổ xưa của bộ tộc ban cho bạn và đồng minh thêm né tránh, kháng đẩy lùi và tăng tốc độ tích Charge khi ở trong phạm vi ảnh hưởng 9 mét của nó.
+@@ 2954
+Tăng tốc độ hồi phục Mana
+@@ 2955
+Phạm vi ảnh hưởng tăng lên 15 mét
+@@ 2956
+Thời gian hiệu lực của lá cờ tăng gấp đôi
+@@ 2957
+Trở lại bình thường
+@@ 2958
+Nổi cơn thịnh nộ, chỉ tung đòn chí mạng cho đến khi thanh Charge cạn.
+@@ 2959
+Bạn tung một cú đánh hất từ dưới lên tàn khốc, gây sát thương lớn lên một mục tiêu. Mỗi đòn trúng liên tiếp giúp bạn mạnh thêm. Raze không tạo |c00ff9933Charge|u.
+@@ 2960
+Mục tiêu bị làm chậm
+@@ 2961
+Mục tiêu bị giảm độ chính xác đòn đánh
+@@ 2962
+Mục tiêu bị làm choáng
+@@ 2963
+Linh hồn sói bóng đêm nhập vào bạn! Khi kỹ năng còn hiệu lực, bạn liên tục lao xuyên qua kẻ địch, khiến chúng chảy máu trên đường bạn lướt qua.
+@@ 2964
+Giáp của kẻ địch giảm 20% trong 6 giây
+@@ 2965
+Giáp của kẻ địch giảm 30% trong 8 giây
+@@ 2966
+Giáp của kẻ địch giảm 40% trong 10 giây
+@@ 2967
+Khả năng né tránh của bạn tăng lên 100% trong giây tiếp theo, sau đó:\n80% trong một giây kế tiếp,\n60% trong một giây kế tiếp,\n40% trong một giây kế tiếp, rồi\n20% trong giây cuối cùng.\n
+@@ 2968
+Bạn xé toạc mọi kẻ địch ngay trước mặt, khiến chúng chảy máu trong 6 giây. Tầm đánh gốc là 2.7 mét trong vòng cung 120 độ. Eviscerate bị giảm 67% tốc độ tích |c00ff9933Charge|u.
+@@ 2969
+Tầm đánh tăng lên 3 mét và vòng cung tăng lên 180 độ\nChảy máu mạnh hơn trong thời gian ngắn hơn, còn 4 giây
+@@ 2970
+Tầm đánh tăng lên 3.3 mét và vòng cung tăng lên 240 độ\nChảy máu mạnh hơn trong thời gian ngắn hơn, còn 2 giây
+@@ 2971
+Tầm đánh tăng lên 4 mét
+@@ 2972
+Bạn xé toạc mọi kẻ địch ngay trước mặt, chém 3 lần. Đòn Eviscerate chỉ nhận một nửa lượng |c00ff9933Charge|u thông thường.
+@@ 2973
+CŨ! Không còn sử dụng
+@@ 2974
+Mặt đất nứt toác và 5 mạch nước phun trào lên tại vị trí mục tiêu, làm mù và gây sát thương cho kẻ địch bằng không khí và nước siêu nóng.
+@@ 2975
+Tạo ra 7 mạch nước phun
+@@ 2976
+Kẻ địch còn bị thiêu đốt
+@@ 2977
+Tạo ra 9 mạch nước phun
+@@ 2978
+Berserker cắm một mũi gai băng vào kẻ địch. Mũi gai phát nổ sau 2 giây, gây sát thương Ice lên kẻ địch xung quanh, đóng băng chúng và giảm kháng Ice.\n\nCắm mũi gai băng thứ hai vào mũi thứ nhất sẽ khiến cả hai cùng vỡ tan, tăng sát thương và ảnh hưởng khu vực rộng hơn.
+@@ 2979
+Bạn đẩy lùi một kẻ địch bằng một đòn tàn khốc. Sau một thoáng, mục tiêu phát nổ, gây sát thương cho mọi kẻ địch trong phạm vi 4 mét.
+@@ 2980
+Bán kính vụ nổ tăng lên 5 mét
+@@ 2981
+Bán kính vụ nổ tăng lên 6 mét
+@@ 2982
+Bán kính vụ nổ tăng lên 7 mét
+@@ 2983
+Bản năng hoang dã giúp bạn làm chủ Rage và chuyển hóa nó thành máu, đồng thời ban thêm kháng sát thương Physical. Lượng cộng thêm tỉ lệ thuận với lượng Rage tiêu hao; nửa thanh Rage cho bạn một nửa lợi ích được liệt kê.
+@@ 2984
+Thời gian hồi giảm còn 12 giây
+@@ 2985
+Thời gian hồi giảm còn 8 giây
+@@ 2986
+Thời gian hồi giảm còn 4 giây
+@@ 2987
+Phạm vi: 5 mét
+@@ 2988
+Phạm vi: 7.5 mét
+@@ 2989
+Phạm vi: 10 mét
+@@ 2990
+Phạm vi: 12.5 mét
+@@ 2991
+Bạn gầm lên đầy phẫn nộ, khiến kẻ địch xung quanh hoảng sợ. Kẻ địch bị ảnh hưởng sẽ bị làm chậm và giảm khả năng tự vệ trong vài giây.
+@@ 2992
+Phạm vi tăng lên 7.5 mét
+@@ 2993
+Phạm vi tăng lên 10 mét
+@@ 2994
+Phạm vi tăng lên 12.5 mét
+@@ 2995
+Bạn vận dụng những cơn gió bấc lạnh giá để phun ra một luồng hơi thở băng giá, làm bất động kẻ địch và khiến chúng dễ chịu sát thương hơn. Luồng hơi vươn xa 5 mét với góc 90 độ.
+@@ 2996
+Tầm tăng lên 6 mét với góc 120 độ.
+@@ 2997
+Tầm tăng lên 7 mét với góc 150 độ.
+@@ 2998
+Tầm tăng lên 8 mét với góc 150 độ. Cho phép kích hoạt hiệu ứng hút máu và hút mana.
+@@ 2999
+44% tỉ lệ tạo |c00ff9933Charge|u khi bị đánh trúng
+@@ 3000
+52% tỉ lệ tạo |c00ff9933Charge|u khi bị đánh trúng
+@@ 3001
+48% tỉ lệ tạo |c00ff9933Charge|u khi bị đánh trúng
+@@ 3002
+60% tỉ lệ tạo |c00ff9933Charge|u khi bị đánh trúng
+@@ 3003
+56% tỉ lệ tạo |c00ff9933Charge|u khi bị đánh trúng
+@@ 3004
+68% tỉ lệ tạo |c00ff9933Charge|u khi bị đánh trúng
+@@ 3005
+64% tỉ lệ tạo |c00ff9933Charge|u khi bị đánh trúng
+@@ 3006
+76% tỉ lệ tạo |c00ff9933Charge|u khi bị đánh trúng
+@@ 3007
+72% tỉ lệ tạo |c00ff9933Charge|u khi bị đánh trúng
+@@ 3008
+92% tỉ lệ tạo |c00ff9933Charge|u khi bị đánh trúng
+@@ 3009
+88% tỉ lệ tạo |c00ff9933Charge|u khi bị đánh trúng
+@@ 3010
+84% tỉ lệ tạo |c00ff9933Charge|u khi bị đánh trúng
+@@ 3011
+80% tỉ lệ tạo |c00ff9933Charge|u khi bị đánh trúng
+@@ 3012
+100% tỉ lệ tạo |c00ff9933Charge|u khi bị đánh trúng
+@@ 3013
+96% tỉ lệ tạo |c00ff9933Charge|u khi bị đánh trúng
+@@ 3014
+Bạn triệu hồi một tấm khiên băng phản đạn ngược về phía kẻ tấn công. Bạn còn có tỉ lệ nhận 10% |c00ff9933thanh Charge|u khi khiên bị đánh trúng. Khiên tồn tại trong 10 giây.
+@@ 3015
+Khiên phản lại 75% sát thương của đạn
+@@ 3016
+Khiên phản lại 100% sát thương của đạn
+@@ 3017
+Khiên phản lại 125% sát thương của đạn
+@@ 3018
+Bạn đẩy lùi kẻ địch bằng một đòn tàn khốc, khiến chúng mất khả năng chiến đấu trong vài giây. Nếu kẻ địch chết vì Gut Punch, nó sẽ phát nổ, gây sát thương cho kẻ địch xung quanh.
+@@ 3019
+Mỗi đòn chí mạng hồi 5% máu tối đa
+@@ 3020
+Mỗi đòn chí mạng hồi 6% máu tối đa
+@@ 3021
+Mỗi đòn chí mạng hồi 5.5% máu tối đa
+@@ 3022
+Mỗi đòn chí mạng hồi 7% máu tối đa
+@@ 3023
+Mỗi đòn chí mạng hồi 6.5% máu tối đa
+@@ 3024
+Mỗi đòn chí mạng hồi 8% máu tối đa
+@@ 3025
+Mỗi đòn chí mạng hồi 7.5% máu tối đa
+@@ 3026
+Mỗi đòn chí mạng hồi 9% máu tối đa
+@@ 3027
+Mỗi đòn chí mạng hồi 8.5% máu tối đa
+@@ 3028
+Mỗi đòn chí mạng hồi 11% máu tối đa
+@@ 3029
+Mỗi đòn chí mạng hồi 10.5% máu tối đa
+@@ 3030
+Mỗi đòn chí mạng hồi 10% máu tối đa
+@@ 3031
+Mỗi đòn chí mạng hồi 9.5% máu tối đa
+@@ 3032
+Mỗi đòn chí mạng hồi 12% máu tối đa
+@@ 3033
+Mỗi đòn chí mạng hồi 11.5% máu tối đa
+@@ 3034
+Mỗi khi bạn tung đòn chí mạng bằng vũ khí cận chiến, bạn hút tinh hoa sự sống từ cuộc tàn sát để chữa lành vết thương.
+@@ 3035
+Sự tập trung cao độ giúp bạn làm chủ Rage và lập tức chuyển hóa nó thành Mana, đồng thời ban thêm kháng sát thương Elemental. Lượng cộng thêm tỉ lệ thuận với lượng Rage tiêu hao.
+@@ 3036
+Thời gian hiệu lực của Frenzy tăng lên 6.5 giây
+@@ 3037
+Thời gian hiệu lực của Frenzy tăng lên 7.5 giây
+@@ 3038
+Thời gian hiệu lực của Frenzy tăng lên 7 giây
+@@ 3039
+Thời gian hiệu lực của Frenzy tăng lên 8.5 giây
+@@ 3040
+Thời gian hiệu lực của Frenzy tăng lên 8 giây
+@@ 3041
+Thời gian hiệu lực của Frenzy tăng lên 9.5 giây
+@@ 3042
+Thời gian hiệu lực của Frenzy tăng lên 9 giây
+@@ 3043
+Thời gian hiệu lực của Frenzy tăng lên 10.5 giây

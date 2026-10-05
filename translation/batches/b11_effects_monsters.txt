@@ -1,0 +1,1997 @@
+# b11_effects_monsters: 998 strings. Format: "@@ id | mode | context" then the English text on the next line.
+@@ 4067 | translate | EFFECTSLIST.DAT | EFFECT | BADDES
++[VALUE] Pull
+@@ 4068 | translate | EFFECTSLIST.DAT | EFFECT | BADDES
++[VALUE] to Armor equipment requirements
+@@ 4069 | translate | EFFECTSLIST.DAT | EFFECT | BADDES
++[VALUE] to Spell learning requirements
+@@ 4070 | translate | EFFECTSLIST.DAT | EFFECT | BADDES
++[VALUE] to all item character stat requirements
+@@ 4071 | translate | EFFECTSLIST.DAT | EFFECT | BADDES
++[VALUE] to mage equipment requirements
+@@ 4072 | translate | EFFECTSLIST.DAT | EFFECT | BADDES
++[VALUE] to martial equipment requirements
+@@ 4073 | translate | EFFECTSLIST.DAT | EFFECT | BADDES
++[VALUE] to ranged equipment requirements
+@@ 4074 | translate | EFFECTSLIST.DAT | EFFECT | BADDES
++[VALUE]% [DMGTYPE] Damage Taken for each monster within [VALUE3]m
+@@ 4075 | translate | EFFECTSLIST.DAT | EFFECT | BADDES
+-[VALUE1ASDURATION] decreased summon duration
+@@ 4076 | translate | EFFECTSLIST.DAT | EFFECT | BADDES
+-[VALUE] Armor
+@@ 4077 | translate | EFFECTSLIST.DAT | EFFECT | BADDES
+-[VALUE] Bonus Magic Defense
+@@ 4078 | translate | EFFECTSLIST.DAT | EFFECT | BADDES
+-[VALUE] Dexterity Attribute penalty
+@@ 4079 | translate | EFFECTSLIST.DAT | EFFECT | BADDES
+-[VALUE] Electric Armor
+@@ 4080 | translate | EFFECTSLIST.DAT | EFFECT | BADDES
+-[VALUE] Fire Armor
+@@ 4081 | translate | EFFECTSLIST.DAT | EFFECT | BADDES
+-[VALUE] Focus Attribute bonus
+@@ 4082 | translate | EFFECTSLIST.DAT | EFFECT | BADDES
+-[VALUE] Health
+@@ 4083 | translate | EFFECTSLIST.DAT | EFFECT | BADDES
+-[VALUE] Health Steal
+@@ 4084 | translate | EFFECTSLIST.DAT | EFFECT | BADDES
+-[VALUE] Health recovery per second
+@@ 4085 | translate | EFFECTSLIST.DAT | EFFECT | BADDES
+-[VALUE] Health steal to master
+@@ 4086 | translate | EFFECTSLIST.DAT | EFFECT | BADDES
+-[VALUE] Health/sec for every monster within [VALUE4] meters
+@@ 4087 | translate | EFFECTSLIST.DAT | EFFECT | BADDES
+-[VALUE] Ice Armor
+@@ 4088 | translate | EFFECTSLIST.DAT | EFFECT | BADDES
+-[VALUE] Jauntiness
+@@ 4089 | translate | EFFECTSLIST.DAT | EFFECT | BADDES
+-[VALUE] Mana
+@@ 4090 | translate | EFFECTSLIST.DAT | EFFECT | BADDES
+-[VALUE] Mana recovery
+@@ 4091 | translate | EFFECTSLIST.DAT | EFFECT | BADDES
+-[VALUE] Mana steal
+@@ 4092 | translate | EFFECTSLIST.DAT | EFFECT | BADDES
+-[VALUE] Mana/sec for every monster within [VALUE4] meters
+@@ 4093 | translate | EFFECTSLIST.DAT | EFFECT | BADDES
+-[VALUE] Melee weapon damage penalty
+@@ 4094 | translate | EFFECTSLIST.DAT | EFFECT | BADDES
+-[VALUE] Poison Armor
+@@ 4095 | translate | EFFECTSLIST.DAT | EFFECT | BADDES
+-[VALUE] Resistance to Logic
+@@ 4096 | translate | EFFECTSLIST.DAT | EFFECT | BADDES
+-[VALUE] Sight Bonus
+@@ 4097 | translate | EFFECTSLIST.DAT | EFFECT | BADDES
+-[VALUE] Socks
+@@ 4098 | translate | EFFECTSLIST.DAT | EFFECT | BADDES
+-[VALUE] Strength Attribute penalty
+@@ 4099 | translate | EFFECTSLIST.DAT | EFFECT | BADDES
+-[VALUE] View Angle Bonus
+@@ 4100 | translate | EFFECTSLIST.DAT | EFFECT | BADDES
+-[VALUE] Vitality Attribute penalty
+@@ 4101 | translate | EFFECTSLIST.DAT | EFFECT | BADDES
+-[VALUE] [DMGTYPE] Damage
+@@ 4102 | translate | EFFECTSLIST.DAT | EFFECT | BADDES
+-[VALUE] [DMGTYPE] Damage Reflected
+@@ 4103 | translate | EFFECTSLIST.DAT | EFFECT | BADDES
+-[VALUE] ranged weapon damage penalty
+@@ 4104 | translate | EFFECTSLIST.DAT | EFFECT | BADDES
+-[VALUE] rank to [NAME] skill
+@@ 4105 | translate | EFFECTSLIST.DAT | EFFECT | BADDES
+-[VALUE] seconds of Burn/Shock/Freeze/Poison
+@@ 4106 | translate | EFFECTSLIST.DAT | EFFECT | BADDES
+-[VALUE] seconds to Burn Duration
+@@ 4107 | translate | EFFECTSLIST.DAT | EFFECT | BADDES
+-[VALUE] seconds to Freeze duration
+@@ 4108 | translate | EFFECTSLIST.DAT | EFFECT | BADDES
+-[VALUE] seconds to Poison duration
+@@ 4109 | translate | EFFECTSLIST.DAT | EFFECT | BADDES
+-[VALUE] seconds to Shock duration
+@@ 4110 | translate | EFFECTSLIST.DAT | EFFECT | BADDES
+-[VALUE] to Attack Spell levels
+@@ 4111 | translate | EFFECTSLIST.DAT | EFFECT | BADDES
+-[VALUE] to Charm Spell levels 
+@@ 4112 | translate | EFFECTSLIST.DAT | EFFECT | BADDES
+-[VALUE] to Defense Spell levels
+@@ 4113 | translate | EFFECTSLIST.DAT | EFFECT | BADDES
+-[VALUE]% Damage Reflection
+@@ 4114 | translate | EFFECTSLIST.DAT | EFFECT | BADDES
+-[VALUE]% Damage to secondary targets
+@@ 4115 | translate | EFFECTSLIST.DAT | EFFECT | BADDES
+-[VALUE]% Dexterity penalty
+@@ 4116 | translate | EFFECTSLIST.DAT | EFFECT | BADDES
+-[VALUE]% Dodge chance
+@@ 4117 | translate | EFFECTSLIST.DAT | EFFECT | BADDES
+-[VALUE]% Focus bonus
+@@ 4118 | translate | EFFECTSLIST.DAT | EFFECT | BADDES
+-[VALUE]% Health
+@@ 4119 | translate | EFFECTSLIST.DAT | EFFECT | BADDES
+-[VALUE]% Health recovery
+@@ 4120 | translate | EFFECTSLIST.DAT | EFFECT | BADDES
+-[VALUE]% Health stolen
+@@ 4121 | translate | EFFECTSLIST.DAT | EFFECT | BADDES
+-[VALUE]% Health stolen to master
+@@ 4122 | translate | EFFECTSLIST.DAT | EFFECT | BADDES
+-[VALUE]% Interrupt Resistance
+@@ 4123 | translate | EFFECTSLIST.DAT | EFFECT | BADDES
+-[VALUE]% Interrupt chance
+@@ 4124 | translate | EFFECTSLIST.DAT | EFFECT | BADDES
+-[VALUE]% Knock Back Resistance
+@@ 4125 | translate | EFFECTSLIST.DAT | EFFECT | BADDES
+-[VALUE]% Mana
+@@ 4126 | translate | EFFECTSLIST.DAT | EFFECT | BADDES
+-[VALUE]% Mana stolen
+@@ 4127 | translate | EFFECTSLIST.DAT | EFFECT | BADDES
+-[VALUE]% Melee Weapon Damage
+@@ 4128 | translate | EFFECTSLIST.DAT | EFFECT | BADDES
+-[VALUE]% Melee Weapon Damage penalty
+@@ 4129 | translate | EFFECTSLIST.DAT | EFFECT | BADDES
+-[VALUE]% Potion effectiveness
+@@ 4130 | translate | EFFECTSLIST.DAT | EFFECT | BADDES
+-[VALUE]% Ranged Weapon Damage
+@@ 4131 | translate | EFFECTSLIST.DAT | EFFECT | BADDES
+-[VALUE]% Ranged Weapon Damage penalty
+@@ 4132 | translate | EFFECTSLIST.DAT | EFFECT | BADDES
+-[VALUE]% Strength penalty
+@@ 4133 | translate | EFFECTSLIST.DAT | EFFECT | BADDES
+-[VALUE]% Vitality penalty
+@@ 4134 | translate | EFFECTSLIST.DAT | EFFECT | BADDES
+-[VALUE]% Wand and Staff Damage 
+@@ 4135 | translate | EFFECTSLIST.DAT | EFFECT | BADDES
+-[VALUE]% [DMGTYPE] Damage for each monster within [VALUE3]m
+@@ 4136 | translate | EFFECTSLIST.DAT | EFFECT | BADDES
+-[VALUE]% chance to Burn
+@@ 4137 | translate | EFFECTSLIST.DAT | EFFECT | BADDES
+-[VALUE]% chance to Execute
+@@ 4138 | translate | EFFECTSLIST.DAT | EFFECT | BADDES
+-[VALUE]% chance to Freeze
+@@ 4139 | translate | EFFECTSLIST.DAT | EFFECT | BADDES
+-[VALUE]% chance to Poison
+@@ 4140 | translate | EFFECTSLIST.DAT | EFFECT | BADDES
+-[VALUE]% chance to Shock
+@@ 4141 | translate | EFFECTSLIST.DAT | EFFECT | BADDES
+-[VALUE]% chance to Stun target
+@@ 4142 | translate | EFFECTSLIST.DAT | EFFECT | BADDES
+-[VALUE]% chance to charm target for [DURATION]
+@@ 4143 | translate | EFFECTSLIST.DAT | EFFECT | BADDES
+-[VALUE]% chance to reflect [VALUE3AND4]% of Missile Damage
+@@ 4144 | translate | EFFECTSLIST.DAT | EFFECT | BADDES
+-[VALUE]% pet and minion Armor
+@@ 4145 | translate | EFFECTSLIST.DAT | EFFECT | BADDES
+-[VALUE]% pet and minion Damage
+@@ 4146 | translate | EFFECTSLIST.DAT | EFFECT | BADDES
+-[VALUE]% pet and minion Health
+@@ 4147 | translate | EFFECTSLIST.DAT | EFFECT | BADDES
+-[VALUE]% pet and minion Speed
+@@ 4148 | translate | EFFECTSLIST.DAT | EFFECT | BADDES
+-[VALUE]% to [DMGTYPE] Armor
+@@ 4149 | translate | EFFECTSLIST.DAT | EFFECT | BADDES
+-[VALUE]% to skill mana cost
+@@ 4150 | translate | EFFECTSLIST.DAT | EFFECT | BADDES
+-[VALUE]% |c00ff9933Charge|u lost per second due to decay
+@@ 4151 | translate | EFFECTSLIST.DAT | EFFECT | BADDES
+-[VALUE]m to Bow, Crossbow, Pistol and Wand range
+@@ 4152 | translate | EFFECTSLIST.DAT | EFFECT | BADDES
+-[VALUE_OT] [DMGTYPE] Damage
+@@ 4153 | translate | EFFECTSLIST.DAT | EFFECT | BADDES
+All Armor reduced by [VALUE]
+@@ 4154 | translate | EFFECTSLIST.DAT | EFFECT | BADDES
+All Armor reduced by [VALUE] per hit
+@@ 4155 | translate | EFFECTSLIST.DAT | EFFECT | BADDES
+Attack Speed reduced by [VALUE]%
+@@ 4156 | translate | EFFECTSLIST.DAT | EFFECT | BADDES
+Cast Speed reduced by [VALUE]%
+@@ 4157 | translate | EFFECTSLIST.DAT | EFFECT | BADDES
+Consumes [VALUE]% |c00ff9933Charge|u
+@@ 4158 | translate | EFFECTSLIST.DAT | EFFECT | BADDES
+Critical Hit Chance reduced by [VALUE]%
+@@ 4159 | translate | EFFECTSLIST.DAT | EFFECT | BADDES
+Current [NAME] cooldown reduced by [VALUE] seconds
+@@ 4160 | translate | EFFECTSLIST.DAT | EFFECT | BADDES
+Decreases charges in meter by [VALUE]
+@@ 4161 | translate | EFFECTSLIST.DAT | EFFECT | BADDES
+Gold found is decreased by [VALUE]%
+@@ 4162 | translate | EFFECTSLIST.DAT | EFFECT | BADDES
+Minions Deal -[VALUE_OT] [DMGTYPE] Damage
+@@ 4163 | translate | EFFECTSLIST.DAT | EFFECT | BADDES
+Movement Speed reduced by [VALUE]%
+@@ 4164 | translate | EFFECTSLIST.DAT | EFFECT | BADDES
+Only 1 of these can be active, highest priority on unit, then on shield, then default affix
+@@ 4165 | translate | EFFECTSLIST.DAT | EFFECT | BADDES
+Permanently decreases Dexterity by [VALUE]
+@@ 4166 | translate | EFFECTSLIST.DAT | EFFECT | BADDES
+Permanently decreases Focus by [VALUE]
+@@ 4167 | translate | EFFECTSLIST.DAT | EFFECT | BADDES
+Permanently decreases Health by [VALUE]
+@@ 4168 | translate | EFFECTSLIST.DAT | EFFECT | BADDES
+Permanently decreases Mana by [VALUE]
+@@ 4169 | translate | EFFECTSLIST.DAT | EFFECT | BADDES
+Permanently decreases Strength by [VALUE]
+@@ 4170 | translate | EFFECTSLIST.DAT | EFFECT | BADDES
+Permanently decreases Vitality by [VALUE]
+@@ 4171 | translate | EFFECTSLIST.DAT | EFFECT | BADDES
+Removes [VALUE] Stat Point(s)
+@@ 4172 | translate | EFFECTSLIST.DAT | EFFECT | BADDES
+Removes current cooldown on [NAME]
+@@ 4173 | translate | EFFECTSLIST.DAT | EFFECT | BADDES
+Time until |c00ff9933Charge|u decay reduced by [VALUE] seconds
+@@ 4174 | translate | EFFECTSLIST.DAT | EFFECT | BADDES
+Transformation time is decreased by [VALUE]%
+@@ 4175 | translate | EFFECTSLIST.DAT | EFFECT | BADDES
+[DMGTYPE] Armor reduced by [VALUE]
+@@ 4176 | translate | EFFECTSLIST.DAT | EFFECT | BADDES
+[DMGTYPE] Damage Taken increased by [VALUE]
+@@ 4177 | translate | EFFECTSLIST.DAT | EFFECT | BADDES
+[DMGTYPE] Damage Taken is increased by [VALUE]% 
+@@ 4178 | translate | EFFECTSLIST.DAT | EFFECT | BADDES
+[DMGTYPE] Damage reduced by [VALUE]%
+@@ 4179 | translate | EFFECTSLIST.DAT | EFFECT | BADDES
+[VALUE5]% chance to inflict -[VALUE] [DMGTYPE] Damage
+@@ 4180 | translate | EFFECTSLIST.DAT | EFFECT | BADDES
+[VALUE] decreased Gold Drop
+@@ 4181 | translate | EFFECTSLIST.DAT | EFFECT | BADDES
+[VALUE]% Damage penalty when dual-wielding
+@@ 4182 | translate | EFFECTSLIST.DAT | EFFECT | BADDES
+[VALUE]% View Angle Reduction
+@@ 4183 | translate | EFFECTSLIST.DAT | EFFECT | BADDES
+[VALUE]% decrease in magic-finding Luck
+@@ 4184 | translate | EFFECTSLIST.DAT | EFFECT | BADDES
+[VALUE]% decrease in the amount of experience gained
+@@ 4185 | translate | EFFECTSLIST.DAT | EFFECT | BADDES
+[VALUE]% decrease in the amount of fame gained
+@@ 4186 | translate | EFFECTSLIST.DAT | EFFECT | BADDES
+[VALUE]% decreased Fishing Luck
+@@ 4187 | translate | EFFECTSLIST.DAT | EFFECT | BADDES
+[VALUE]% increase in Fumble Chance
+@@ 4188 | translate | EFFECTSLIST.DAT | EFFECT | BADDES
+[VALUE]% increase in Fumble Damage Penalty
+@@ 4189 | translate | EFFECTSLIST.DAT | EFFECT | BADDES
+[VALUE]% increased level requirements
+@@ 4190 | translate | EFFECTSLIST.DAT | EFFECT | BADDES
+[VALUE]% increased pet town travel time
+@@ 4191 | translate | EFFECTSLIST.DAT | EFFECT | BADDES
+[VALUE]% penalty to Critical Damage
+@@ 4192 | translate | EFFECTSLIST.DAT | EFFECT | BADDES
+[VALUE]% sight range reduction
+@@ 4193 | translate | EFFECTSLIST.DAT | EFFECT | BADDES
+[VALUE]% |c00ff9933Charge|u rate penalty
+@@ 4194 | translate | EFFECTSLIST.DAT | EFFECT | BADDES
+chance to Block reduced by [VALUE]%
+@@ 4195 | translate | EFFECTSLIST.DAT | EFFECT | BADDES
+|cffff0000[VALUE] Health loss per second!|u
+@@ 4196 | translate | EFFECTSLIST.DAT | EFFECT | BADDES
+|cffff0000[VALUE] Mana loss per second!|u
+@@ 4197 | translate | EFFECTSLIST.DAT | EFFECT | BADDESOT
++[VALUE] to Armor equipment requirements for [DURATION]
+@@ 4198 | translate | EFFECTSLIST.DAT | EFFECT | BADDESOT
++[VALUE] to Spell learning requirements for [DURATION]
+@@ 4199 | translate | EFFECTSLIST.DAT | EFFECT | BADDESOT
++[VALUE] to all item character stat requirements for [DURATION]
+@@ 4200 | translate | EFFECTSLIST.DAT | EFFECT | BADDESOT
++[VALUE] to mage equipment requirements for [DURATION]
+@@ 4201 | translate | EFFECTSLIST.DAT | EFFECT | BADDESOT
++[VALUE] to martial equipment requirements for [DURATION]
+@@ 4202 | translate | EFFECTSLIST.DAT | EFFECT | BADDESOT
++[VALUE] to ranged equipment requirements for [DURATION]
+@@ 4203 | translate | EFFECTSLIST.DAT | EFFECT | BADDESOT
+-[VALUE] Armor for [DURATION]
+@@ 4204 | translate | EFFECTSLIST.DAT | EFFECT | BADDESOT
+-[VALUE] Bonus Magic Defense for [DURATION]
+@@ 4205 | translate | EFFECTSLIST.DAT | EFFECT | BADDESOT
+-[VALUE] Damage to secondary targets for [DURATION]
+@@ 4206 | translate | EFFECTSLIST.DAT | EFFECT | BADDESOT
+-[VALUE] Dexterity Attribute penalty for [DURATION]
+@@ 4207 | translate | EFFECTSLIST.DAT | EFFECT | BADDESOT
+-[VALUE] Electric Armor for [DURATION]
+@@ 4208 | translate | EFFECTSLIST.DAT | EFFECT | BADDESOT
+-[VALUE] Fire Armor for [DURATION]
+@@ 4209 | translate | EFFECTSLIST.DAT | EFFECT | BADDESOT
+-[VALUE] Focus Attribute bonus for [DURATION]
+@@ 4210 | translate | EFFECTSLIST.DAT | EFFECT | BADDESOT
+-[VALUE] Health Steal for [DURATION]
+@@ 4211 | translate | EFFECTSLIST.DAT | EFFECT | BADDESOT
+-[VALUE] Health for [DURATION]
+@@ 4212 | translate | EFFECTSLIST.DAT | EFFECT | BADDESOT
+-[VALUE] Health recovery over [DURATION]
+@@ 4213 | translate | EFFECTSLIST.DAT | EFFECT | BADDESOT
+-[VALUE] Health steal to master for [DURATION]
+@@ 4214 | translate | EFFECTSLIST.DAT | EFFECT | BADDESOT
+-[VALUE] Ice Armor for [DURATION]
+@@ 4215 | translate | EFFECTSLIST.DAT | EFFECT | BADDESOT
+-[VALUE] Mana for [DURATION]
+@@ 4216 | translate | EFFECTSLIST.DAT | EFFECT | BADDESOT
+-[VALUE] Mana recovery over [DURATION]
+@@ 4217 | translate | EFFECTSLIST.DAT | EFFECT | BADDESOT
+-[VALUE] Mana steal for [DURATION]
+@@ 4218 | translate | EFFECTSLIST.DAT | EFFECT | BADDESOT
+-[VALUE] Melee weapon damage penalty for [DURATION]
+@@ 4219 | translate | EFFECTSLIST.DAT | EFFECT | BADDESOT
+-[VALUE] Poison Armor for [DURATION]
+@@ 4220 | translate | EFFECTSLIST.DAT | EFFECT | BADDESOT
+-[VALUE] Strength Attribute penalty for [DURATION]
+@@ 4221 | translate | EFFECTSLIST.DAT | EFFECT | BADDESOT
+-[VALUE] Vitality Attribute penalty for [DURATION]
+@@ 4222 | translate | EFFECTSLIST.DAT | EFFECT | BADDESOT
+-[VALUE] [DMGTYPE] Damage Reflected for [DURATION]
+@@ 4223 | translate | EFFECTSLIST.DAT | EFFECT | BADDESOT
+-[VALUE] ranged weapon damage penalty for [DURATION]
+@@ 4224 | translate | EFFECTSLIST.DAT | EFFECT | BADDESOT
+-[VALUE] seconds of Burn/Shock/Freeze/Poison for [DURATION]
+@@ 4225 | translate | EFFECTSLIST.DAT | EFFECT | BADDESOT
+-[VALUE] seconds to Burn Duration for [DURATION]
+@@ 4226 | translate | EFFECTSLIST.DAT | EFFECT | BADDESOT
+-[VALUE] seconds to Freeze duration for [DURATION]
+@@ 4227 | translate | EFFECTSLIST.DAT | EFFECT | BADDESOT
+-[VALUE] seconds to Poison duration for [DURATION]
+@@ 4228 | translate | EFFECTSLIST.DAT | EFFECT | BADDESOT
+-[VALUE] seconds to Shock duration for [DURATION]
+@@ 4229 | translate | EFFECTSLIST.DAT | EFFECT | BADDESOT
+-[VALUE] to Attack Spell levels for [DURATION]
+@@ 4230 | translate | EFFECTSLIST.DAT | EFFECT | BADDESOT
+-[VALUE] to Charm Spell levels for [DURATION]
+@@ 4231 | translate | EFFECTSLIST.DAT | EFFECT | BADDESOT
+-[VALUE] to Defense Spell levels for [DURATION]
+@@ 4232 | translate | EFFECTSLIST.DAT | EFFECT | BADDESOT
+-[VALUE]% Damage Reflection for [DURATION]
+@@ 4233 | translate | EFFECTSLIST.DAT | EFFECT | BADDESOT
+-[VALUE]% Dexterity penalty for [DURATION]
+@@ 4234 | translate | EFFECTSLIST.DAT | EFFECT | BADDESOT
+-[VALUE]% Dodge chance for [DURATION]
+@@ 4235 | translate | EFFECTSLIST.DAT | EFFECT | BADDESOT
+-[VALUE]% Focus bonus for [DURATION]
+@@ 4236 | translate | EFFECTSLIST.DAT | EFFECT | BADDESOT
+-[VALUE]% Health for [DURATION]
+@@ 4237 | translate | EFFECTSLIST.DAT | EFFECT | BADDESOT
+-[VALUE]% Health recovery over [DURATION]
+@@ 4238 | translate | EFFECTSLIST.DAT | EFFECT | BADDESOT
+-[VALUE]% Health stolen for [DURATION]
+@@ 4239 | translate | EFFECTSLIST.DAT | EFFECT | BADDESOT
+-[VALUE]% Health stolen to master for [DURATION]
+@@ 4240 | translate | EFFECTSLIST.DAT | EFFECT | BADDESOT
+-[VALUE]% Interrupt chance for [DURATION]
+@@ 4241 | translate | EFFECTSLIST.DAT | EFFECT | BADDESOT
+-[VALUE]% Knock Back Resistance for [DURATION]
+@@ 4242 | translate | EFFECTSLIST.DAT | EFFECT | BADDESOT
+-[VALUE]% Mana for [DURATION]
+@@ 4243 | translate | EFFECTSLIST.DAT | EFFECT | BADDESOT
+-[VALUE]% Mana stolen for [DURATION]
+@@ 4244 | translate | EFFECTSLIST.DAT | EFFECT | BADDESOT
+-[VALUE]% Melee Weapon Damage for [DURATION]
+@@ 4245 | translate | EFFECTSLIST.DAT | EFFECT | BADDESOT
+-[VALUE]% Melee Weapon Damage penalty for [DURATION]
+@@ 4246 | translate | EFFECTSLIST.DAT | EFFECT | BADDESOT
+-[VALUE]% Potion effectiveness for [DURATION]
+@@ 4247 | translate | EFFECTSLIST.DAT | EFFECT | BADDESOT
+-[VALUE]% Ranged Weapon Damage for [DURATION]
+@@ 4248 | translate | EFFECTSLIST.DAT | EFFECT | BADDESOT
+-[VALUE]% Ranged Weapon Damage penalty for [DURATION]
+@@ 4249 | translate | EFFECTSLIST.DAT | EFFECT | BADDESOT
+-[VALUE]% Strength penalty for [DURATION]
+@@ 4250 | translate | EFFECTSLIST.DAT | EFFECT | BADDESOT
+-[VALUE]% Vitality penalty for [DURATION]
+@@ 4251 | translate | EFFECTSLIST.DAT | EFFECT | BADDESOT
+-[VALUE]% Wand and Staff Damage for [DURATION]
+@@ 4252 | translate | EFFECTSLIST.DAT | EFFECT | BADDESOT
+-[VALUE]% chance to Burn for [DURATION]
+@@ 4253 | translate | EFFECTSLIST.DAT | EFFECT | BADDESOT
+-[VALUE]% chance to Freeze for [DURATION]
+@@ 4254 | translate | EFFECTSLIST.DAT | EFFECT | BADDESOT
+-[VALUE]% chance to Poison for [DURATION]
+@@ 4255 | translate | EFFECTSLIST.DAT | EFFECT | BADDESOT
+-[VALUE]% chance to Shock for [DURATION]
+@@ 4256 | translate | EFFECTSLIST.DAT | EFFECT | BADDESOT
+-[VALUE]% chance to Stun target for [DURATION]
+@@ 4257 | translate | EFFECTSLIST.DAT | EFFECT | BADDESOT
+-[VALUE]% chance to reflect [VALUE3AND4]% of Missile Damage\n     for [DURATION]
+@@ 4258 | translate | EFFECTSLIST.DAT | EFFECT | BADDESOT
+-[VALUE]% pet and minion Armor for [DURATION]
+@@ 4259 | translate | EFFECTSLIST.DAT | EFFECT | BADDESOT
+-[VALUE]% pet and minion Damage for [DURATION]
+@@ 4260 | translate | EFFECTSLIST.DAT | EFFECT | BADDESOT
+-[VALUE]% pet and minion Health for [DURATION]
+@@ 4261 | translate | EFFECTSLIST.DAT | EFFECT | BADDESOT
+-[VALUE]% pet and minion Speed for [DURATION]
+@@ 4262 | translate | EFFECTSLIST.DAT | EFFECT | BADDESOT
+-[VALUE]% to [DMGTYPE] Armor for [DURATION]
+@@ 4263 | translate | EFFECTSLIST.DAT | EFFECT | BADDESOT
+-[VALUE]% to skill mana cost for [DURATION]
+@@ 4264 | translate | EFFECTSLIST.DAT | EFFECT | BADDESOT
+-[VALUE]% |c00ff9933Charge|u lost per second due to decay during the next [DURATION]
+@@ 4265 | translate | EFFECTSLIST.DAT | EFFECT | BADDESOT
+-[VALUE]m to Bow, Crossbow, Pistol and Wand range for [DURATION]
+@@ 4266 | translate | EFFECTSLIST.DAT | EFFECT | BADDESOT
+-[VALUE_OT] [DMGTYPE] Damage over [DURATION]
+@@ 4267 | translate | EFFECTSLIST.DAT | EFFECT | BADDESOT
+All Armor reduced by [VALUE] for [DURATION]
+@@ 4268 | translate | EFFECTSLIST.DAT | EFFECT | BADDESOT
+All Armor reduced by [VALUE] per hit for [DURATION]
+@@ 4269 | translate | EFFECTSLIST.DAT | EFFECT | BADDESOT
+Attack Speed reduced by [VALUE]% for [DURATION]
+@@ 4270 | translate | EFFECTSLIST.DAT | EFFECT | BADDESOT
+Cast Speed reduced by [VALUE]% for [DURATION]
+@@ 4271 | translate | EFFECTSLIST.DAT | EFFECT | BADDESOT
+Consumes [VALUE]% |c00ff9933Charge|u per second over [DURATION]
+@@ 4272 | translate | EFFECTSLIST.DAT | EFFECT | BADDESOT
+Critical Hit Chance reduced by [VALUE]% for [DURATION]
+@@ 4273 | translate | EFFECTSLIST.DAT | EFFECT | BADDESOT
+Decreases charges in meter by [VALUE] for [DURATION]
+@@ 4274 | translate | EFFECTSLIST.DAT | EFFECT | BADDESOT
+Default: Converts all Charge Percent to stat
+@@ 4275 | translate | EFFECTSLIST.DAT | EFFECT | BADDESOT
+Default: Converts all charge to stat.
+@@ 4276 | translate | EFFECTSLIST.DAT | EFFECT | BADDESOT
+Gold found is decreased by [VALUE]% for [DURATION]
+@@ 4277 | translate | EFFECTSLIST.DAT | EFFECT | BADDESOT
+Learn [NAME] 
+@@ 4278 | translate | EFFECTSLIST.DAT | EFFECT | BADDESOT
+Minions Deal -[VALUE_OT] [DMGTYPE] Damage over [DURATION]
+@@ 4279 | translate | EFFECTSLIST.DAT | EFFECT | BADDESOT
+Movement Speed reduced by [VALUE]% for [DURATION]
+@@ 4280 | translate | EFFECTSLIST.DAT | EFFECT | BADDESOT
+Time until |c00ff9933Charge|u decay reduced by [VALUE] seconds for [DURATION]
+@@ 4281 | translate | EFFECTSLIST.DAT | EFFECT | BADDESOT
+Transformation time is decreased by [VALUE]% for [DURATION].
+@@ 4282 | translate | EFFECTSLIST.DAT | EFFECT | BADDESOT
+[DMGTYPE] Armor reduced by [VALUE] for [DURATION]
+@@ 4283 | translate | EFFECTSLIST.DAT | EFFECT | BADDESOT
+[DMGTYPE] Damage Taken increased by [VALUE] for [DURATION]
+@@ 4284 | translate | EFFECTSLIST.DAT | EFFECT | BADDESOT
+[DMGTYPE] Damage Taken is increased by [VALUE]% for [DURATION]
+@@ 4285 | translate | EFFECTSLIST.DAT | EFFECT | BADDESOT
+[DMGTYPE] Damage reduced by [VALUE]% for [DURATION]
+@@ 4286 | translate | EFFECTSLIST.DAT | EFFECT | BADDESOT
+[VALUE5]% chance to inflict -[VALUE_OT] [DMGTYPE] Damage over [DURATION]
+@@ 4287 | translate | EFFECTSLIST.DAT | EFFECT | BADDESOT
+[VALUE] decreased Gold Drop for [DURATION]
+@@ 4288 | translate | EFFECTSLIST.DAT | EFFECT | BADDESOT
+[VALUE]% Sight Reduction for [DURATION]
+@@ 4289 | translate | EFFECTSLIST.DAT | EFFECT | BADDESOT
+[VALUE]% View Angle Reduction for [DURATION]
+@@ 4290 | translate | EFFECTSLIST.DAT | EFFECT | BADDESOT
+[VALUE]% chance to disarm traps for [DURATION].
+@@ 4291 | translate | EFFECTSLIST.DAT | EFFECT | BADDESOT
+[VALUE]% decrease in magic-finding Luck for [DURATION]
+@@ 4292 | translate | EFFECTSLIST.DAT | EFFECT | BADDESOT
+[VALUE]% decrease in the amount of experience gained [DURATION]
+@@ 4293 | translate | EFFECTSLIST.DAT | EFFECT | BADDESOT
+[VALUE]% decrease in the amount of fame gained for [DURATION]
+@@ 4294 | translate | EFFECTSLIST.DAT | EFFECT | BADDESOT
+[VALUE]% decreased Fishing Luck for [DURATION]
+@@ 4295 | translate | EFFECTSLIST.DAT | EFFECT | BADDESOT
+[VALUE]% increase in Fumble Chance for [DURATION]
+@@ 4296 | translate | EFFECTSLIST.DAT | EFFECT | BADDESOT
+[VALUE]% increase in Fumble Damage Penalty for [DURATION]
+@@ 4297 | translate | EFFECTSLIST.DAT | EFFECT | BADDESOT
+[VALUE]% increased level requirements for [DURATION]
+@@ 4298 | translate | EFFECTSLIST.DAT | EFFECT | BADDESOT
+[VALUE]% increased pet town travel time for [DURATION]
+@@ 4299 | translate | EFFECTSLIST.DAT | EFFECT | BADDESOT
+[VALUE]% penalty to Critical Damage for [DURATION]
+@@ 4300 | translate | EFFECTSLIST.DAT | EFFECT | BADDESOT
+[VALUE]% |c00ff9933Charge|u rate penalty for [DURATION]
+@@ 4301 | translate | EFFECTSLIST.DAT | EFFECT | BADDESOT
+chance to Block reduced by [VALUE]% for [DURATION]
+@@ 4302 | translate | EFFECTSLIST.DAT | EFFECT | BADDESOT
+|cffff0000[VALUE] Health loss over [DURATION]|u
+@@ 4303 | translate | EFFECTSLIST.DAT | EFFECT | BADDESOT
+|cffff0000[VALUE] Mana loss over [DURATION]|u
+@@ 4304 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
+% Attack Rating Bonus
+@@ 4305 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
++[VALUE] Armor
+@@ 4306 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
++[VALUE] Bonus Magic Defense
+@@ 4307 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
++[VALUE] Dexterity Attribute bonus
+@@ 4308 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
++[VALUE] Electric Armor
+@@ 4309 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
++[VALUE] Fire Armor
+@@ 4310 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
++[VALUE] Focus Attribute bonus
+@@ 4311 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
++[VALUE] Health
+@@ 4312 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
++[VALUE] Health/sec for every monster within [VALUE4] meters
+@@ 4313 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
++[VALUE] Ice Armor
+@@ 4314 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
++[VALUE] Jauntiness
+@@ 4315 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
++[VALUE] Knockback
+@@ 4316 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
++[VALUE] Mana
+@@ 4317 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
++[VALUE] Mana/sec for every monster within [VALUE4] meters
+@@ 4318 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
++[VALUE] Melee weapon damage bonus
+@@ 4319 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
++[VALUE] Poison Armor
+@@ 4320 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
++[VALUE] Resistance to Logic
+@@ 4321 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
++[VALUE] Sight Bonus
+@@ 4322 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
++[VALUE] Strength Attribute bonus
+@@ 4323 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
++[VALUE] View Angle Bonus
+@@ 4324 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
++[VALUE] Vitality Attribute bonus
+@@ 4325 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
++[VALUE] [DMGTYPE] Damage
+@@ 4326 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
++[VALUE] increased Gold Drop
+@@ 4327 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
++[VALUE] ranged weapon damage bonus
+@@ 4328 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
++[VALUE] rank to [NAME] skill
+@@ 4329 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
++[VALUE] seconds of Burn/Shock/Freeze/Poison
+@@ 4330 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
++[VALUE] seconds to Burn Duration
+@@ 4331 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
++[VALUE] seconds to Freeze duration
+@@ 4332 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
++[VALUE] seconds to Poison duration
+@@ 4333 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
++[VALUE] seconds to Shock duration
+@@ 4334 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
++[VALUE] to All Armor
+@@ 4335 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
++[VALUE] to Attack Spell levels
+@@ 4336 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
++[VALUE] to Charm Spell levels
+@@ 4337 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
++[VALUE] to Defense Spell levels
+@@ 4338 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
++[VALUE] to [DMGTYPE] Armor
+@@ 4339 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
++[VALUE]% Attack Speed
+@@ 4340 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
++[VALUE]% Cast Speed
+@@ 4341 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
++[VALUE]% Critical Hit Chance
+@@ 4342 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
++[VALUE]% Damage to secondary targets
+@@ 4343 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
++[VALUE]% Dexterity bonus
+@@ 4344 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
++[VALUE]% Dodge chance
+@@ 4345 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
++[VALUE]% Focus bonus
+@@ 4346 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
++[VALUE]% Health
+@@ 4347 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
++[VALUE]% Interrupt Resistance
+@@ 4348 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
++[VALUE]% Interrupt chance
+@@ 4349 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
++[VALUE]% Mana
+@@ 4350 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
++[VALUE]% Melee Weapon Damage
+@@ 4351 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
++[VALUE]% Melee Weapon Damage bonus
+@@ 4352 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
++[VALUE]% Potion effectiveness
+@@ 4353 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
++[VALUE]% Ranged Weapon Damage
+@@ 4354 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
++[VALUE]% Ranged Weapon Damage bonus
+@@ 4355 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
++[VALUE]% Strength bonus
+@@ 4356 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
++[VALUE]% Vitality bonus
+@@ 4357 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
++[VALUE]% Wand and Staff Damage bonus
+@@ 4358 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
++[VALUE]% [DMGTYPE] Damage for each monster within [VALUE3]m
+@@ 4359 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
++[VALUE]% chance to Block
+@@ 4360 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
++[VALUE]% chance to Execute
+@@ 4361 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
++[VALUE]% pet and minion Armor
+@@ 4362 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
++[VALUE]% pet and minion Damage
+@@ 4363 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
++[VALUE]% pet and minion Health
+@@ 4364 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
++[VALUE]% pet and minion Speed
+@@ 4365 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
++[VALUE]% to [DMGTYPE] Armor
+@@ 4366 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
++[VALUE]% to [DMGTYPE] Damage
+@@ 4367 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
++[VALUE]% to skill mana cost
+@@ 4368 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
++[VALUE]% |c00ff9933Charge|u lost per second due to decay
+@@ 4369 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
++[VALUE]m to Bow, Crossbow, Pistol and Wand range
+@@ 4370 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
+-[VALUE] to All Armor per hit
+@@ 4371 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
+-[VALUE] to Armor equipment requirements
+@@ 4372 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
+-[VALUE] to Spell learning requirements
+@@ 4373 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
+-[VALUE] to all item character stat requirements
+@@ 4374 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
+-[VALUE] to mage equipment requirements
+@@ 4375 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
+-[VALUE] to martial equipment requirements
+@@ 4376 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
+-[VALUE] to ranged equipment requirements
+@@ 4377 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
+-[VALUE]% [DMGTYPE] Damage Taken for each monster within [VALUE3]m
+@@ 4378 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
+Awards [VALUE] Stat Point(s)
+@@ 4379 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
+Create Waypoint Portal
+@@ 4380 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
+Current [NAME] cooldown incerased by [VALUE] seconds
+@@ 4381 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
+Desummon a [NAME]
+@@ 4382 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
+Disenchant items into gold or a chance for a rare gem
+@@ 4383 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
+Explosion On Death
+@@ 4384 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
+Fades Unit Out
+@@ 4385 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
+Generates [VALUE]% |c00ff9933Charge|u
+@@ 4386 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
+Increases charges in meter by [VALUE]
+@@ 4387 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
+Kills unit immediately
+@@ 4388 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
+Learn [NAME]
+@@ 4389 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
+Minions Deal [VALUE] [DMGTYPE] Damage
+@@ 4390 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
+NA
+@@ 4391 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
+Permanently increases Dexterity by [VALUE]
+@@ 4392 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
+Permanently increases Focus by [VALUE]
+@@ 4393 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
+Permanently increases Health by [VALUE]
+@@ 4394 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
+Permanently increases Mana by [VALUE]
+@@ 4395 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
+Permanently increases Strength by [VALUE]
+@@ 4396 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
+Permanently increases Vitality by [VALUE]
+@@ 4397 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
+Pulls target closer
+@@ 4398 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
+Refund all Skill Points
+@@ 4399 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
+Set current [NAME] cooldown to [VALUE] seconds
+@@ 4400 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
+Sets unit visible
+@@ 4401 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
+Swaps pos with pet
+@@ 4402 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
+Target Locked
+@@ 4403 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
+Time until |c00ff9933Charge|u decay increased by [VALUE] seconds
+@@ 4404 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
+Transform into a [NAME] for [VALUE1ASDURATION]
+@@ 4405 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
+Transform into a [NAME] permanently
+@@ 4406 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
+Transformation time is increased by [VALUE]%
+@@ 4407 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
+Warps to a specific dungeon
+@@ 4408 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
+[DMGTYPE] Damage Taken is reduced by [VALUE]% 
+@@ 4409 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
+[DMGTYPE] Damage Taken reduced by [VALUE]
+@@ 4410 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
+[VALUE1ASDURATION] summon duration
+@@ 4411 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
+[VALUE1]% chance to teleport target [VALUE3]-[VALUE4] yards away
+@@ 4412 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
+[VALUE3]% chance of [VALUE]% Blindness
+@@ 4413 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
+[VALUE3]% chance to spawn [VALUE1] units
+@@ 4414 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
+[VALUE3]% chance to spawn [VALUE1] units on death
+@@ 4415 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
+[VALUE5]% chance to inflict +[VALUE] [DMGTYPE] Damage
+@@ 4416 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
+[VALUE] Emotional Damage
+@@ 4417 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
+[VALUE] Futuristicness
+@@ 4418 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
+[VALUE] Health recovery per second
+@@ 4419 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
+[VALUE] Health steal to master on Hit
+@@ 4420 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
+[VALUE] Health stolen on hit
+@@ 4421 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
+[VALUE] Mana recovery
+@@ 4422 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
+[VALUE] Mana recovery per second
+@@ 4423 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
+[VALUE] Mana stolen on hit
+@@ 4424 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
+[VALUE] Noodle Arms
+@@ 4425 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
+[VALUE] Socks
+@@ 4426 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
+[VALUE] [DMGTYPE] Damage Reflected
+@@ 4427 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
+[VALUE] points of [DMGTYPE] Damage Absorption
+@@ 4428 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
+[VALUE]% Chance to Stop [NAME]
+@@ 4429 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
+[VALUE]% Damage bonus when dual-wielding
+@@ 4430 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
+[VALUE]% Damage reflected back on attacker
+@@ 4431 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
+[VALUE]% Health recovery
+@@ 4432 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
+[VALUE]% Health stolen
+@@ 4433 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
+[VALUE]% Health stolen to master
+@@ 4434 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
+[VALUE]% Immobilization Resistance
+@@ 4435 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
+[VALUE]% Increased Chance to Miss
+@@ 4436 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
+[VALUE]% Interrupt chance
+@@ 4437 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
+[VALUE]% Knock Back Resistance
+@@ 4438 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
+[VALUE]% Mana stolen
+@@ 4439 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
+[VALUE]% Resistance to Charm
+@@ 4440 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
+[VALUE]% Resistance to Flee
+@@ 4441 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
+[VALUE]% Resistance to Silence
+@@ 4442 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
+[VALUE]% Sight Bonus
+@@ 4443 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
+[VALUE]% Slow Resistance
+@@ 4444 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
+[VALUE]% Stun Resistance
+@@ 4445 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
+[VALUE]% View Angle Bonus
+@@ 4446 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
+[VALUE]% bonus to Critical Damage
+@@ 4447 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
+[VALUE]% chance for owner to retarget unit in [VALUE2] meters
+@@ 4448 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
+[VALUE]% chance of Blindness
+@@ 4449 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
+[VALUE]% chance on kill to [NAME]
+@@ 4450 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
+[VALUE]% chance that target Flees for [DURATION]
+@@ 4451 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
+[VALUE]% chance to Block
+@@ 4452 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
+[VALUE]% chance to Burn
+@@ 4453 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
+[VALUE]% chance to Freeze
+@@ 4454 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
+[VALUE]% chance to Poison
+@@ 4455 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
+[VALUE]% chance to Shock
+@@ 4456 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
+[VALUE]% chance to Stun target
+@@ 4457 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
+[VALUE]% chance to agro monsters [VALUE2] meters away
+@@ 4458 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
+[VALUE]% chance to break enemy shields
+@@ 4459 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
+[VALUE]% chance to cast [NAME]
+@@ 4460 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
+[VALUE]% chance to cast [NAME] 
+@@ 4461 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
+[VALUE]% chance to cast [NAME] at target
+@@ 4462 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
+[VALUE]% chance to cast [NAME] from target
+@@ 4463 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
+[VALUE]% chance to cast [NAME] on death
+@@ 4464 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
+[VALUE]% chance to cast [NAME] on kill
+@@ 4465 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
+[VALUE]% chance to cast [NAME] on strike
+@@ 4466 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
+[VALUE]% chance to cast [NAME] on target
+@@ 4467 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
+[VALUE]% chance to cast [NAME] when you get hit
+@@ 4468 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
+[VALUE]% chance to charm target for [DURATION]
+@@ 4469 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
+[VALUE]% chance to disarm traps
+@@ 4470 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
+[VALUE]% chance to immobilize Target
+@@ 4471 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
+[VALUE]% chance to reflect missiles at [VALUE3AND4]% weapon DPS
+@@ 4472 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
+[VALUE]% decreased pet town travel time
+@@ 4473 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
+[VALUE]% faster movement speed
+@@ 4474 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
+[VALUE]% improvement in vendor prices
+@@ 4475 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
+[VALUE]% increase in magic-finding Luck
+@@ 4476 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
+[VALUE]% increase in the amount of experience gained
+@@ 4477 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
+[VALUE]% increase in the amount of fame gained
+@@ 4478 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
+[VALUE]% increase in the amount of gold found
+@@ 4479 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
+[VALUE]% increased Fishing Luck
+@@ 4480 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
+[VALUE]% reduced item level requirements
+@@ 4481 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
+[VALUE]% reduction in Fumble Chance
+@@ 4482 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
+[VALUE]% reduction in Fumble Damage Penalty
+@@ 4483 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
+[VALUE]% resistance to Blindness
+@@ 4484 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
+[VALUE]% resistance to Teleportation
+@@ 4485 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
+|c00ff9933Charge|u decay rate decreased by [VALUE]%
+@@ 4486 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
+|c00ff9933Charge|u rate increased by [VALUE]%
+@@ 4487 | translate | EFFECTSLIST.DAT | EFFECT | GOODDES
+|cFFFF0000CHEATED ITEM|u
+@@ 4488 | translate | EFFECTSLIST.DAT | EFFECT | GOODDESOT
+(setting HP overrides HP%) Only use this effect on shields!
+@@ 4489 | translate | EFFECTSLIST.DAT | EFFECT | GOODDESOT
++[VALUE] Armor for [DURATION]
+@@ 4490 | translate | EFFECTSLIST.DAT | EFFECT | GOODDESOT
++[VALUE] Bonus Magic Defense for [DURATION]
+@@ 4491 | translate | EFFECTSLIST.DAT | EFFECT | GOODDESOT
++[VALUE] Damage to secondary targets for [DURATION]
+@@ 4492 | translate | EFFECTSLIST.DAT | EFFECT | GOODDESOT
++[VALUE] Dexterity Attribute bonus for [DURATION]
+@@ 4493 | translate | EFFECTSLIST.DAT | EFFECT | GOODDESOT
++[VALUE] Electric Armor for [DURATION]
+@@ 4494 | translate | EFFECTSLIST.DAT | EFFECT | GOODDESOT
++[VALUE] Fire Armor for [DURATION]
+@@ 4495 | translate | EFFECTSLIST.DAT | EFFECT | GOODDESOT
++[VALUE] Focus Attribute bonus for [DURATION]
+@@ 4496 | translate | EFFECTSLIST.DAT | EFFECT | GOODDESOT
++[VALUE] Health for [DURATION]
+@@ 4497 | translate | EFFECTSLIST.DAT | EFFECT | GOODDESOT
++[VALUE] Ice Armor for [DURATION]
+@@ 4498 | translate | EFFECTSLIST.DAT | EFFECT | GOODDESOT
++[VALUE] Mana for [DURATION]
+@@ 4499 | translate | EFFECTSLIST.DAT | EFFECT | GOODDESOT
++[VALUE] Melee weapon damage bonus for [DURATION]
+@@ 4500 | translate | EFFECTSLIST.DAT | EFFECT | GOODDESOT
++[VALUE] Poison Armor for [DURATION]
+@@ 4501 | translate | EFFECTSLIST.DAT | EFFECT | GOODDESOT
++[VALUE] Strength Attribute bonus for [DURATION]
+@@ 4502 | translate | EFFECTSLIST.DAT | EFFECT | GOODDESOT
++[VALUE] Vitality Attribute bonus for [DURATION]
+@@ 4503 | translate | EFFECTSLIST.DAT | EFFECT | GOODDESOT
++[VALUE] increased Gold Drop for [DURATION]
+@@ 4504 | translate | EFFECTSLIST.DAT | EFFECT | GOODDESOT
++[VALUE] ranged equipment requirements for [DURATION]
+@@ 4505 | translate | EFFECTSLIST.DAT | EFFECT | GOODDESOT
++[VALUE] seconds of Burn/Shock/Freeze/Poison for [DURATION]
+@@ 4506 | translate | EFFECTSLIST.DAT | EFFECT | GOODDESOT
++[VALUE] seconds to Burn Duration for [DURATION]
+@@ 4507 | translate | EFFECTSLIST.DAT | EFFECT | GOODDESOT
++[VALUE] seconds to Freeze duration for [DURATION]
+@@ 4508 | translate | EFFECTSLIST.DAT | EFFECT | GOODDESOT
++[VALUE] seconds to Poison duration for [DURATION]
+@@ 4509 | translate | EFFECTSLIST.DAT | EFFECT | GOODDESOT
++[VALUE] seconds to Shock duration for [DURATION]
+@@ 4510 | translate | EFFECTSLIST.DAT | EFFECT | GOODDESOT
++[VALUE] to All Armor for [DURATION]
+@@ 4511 | translate | EFFECTSLIST.DAT | EFFECT | GOODDESOT
++[VALUE] to Attack Spell levels for [DURATION]
+@@ 4512 | translate | EFFECTSLIST.DAT | EFFECT | GOODDESOT
++[VALUE] to Charm Spell levels for [DURATION]
+@@ 4513 | translate | EFFECTSLIST.DAT | EFFECT | GOODDESOT
++[VALUE] to Defense Spell levels for [DURATION]
+@@ 4514 | translate | EFFECTSLIST.DAT | EFFECT | GOODDESOT
++[VALUE] to [DMGTYPE] Armor for [DURATION]
+@@ 4515 | translate | EFFECTSLIST.DAT | EFFECT | GOODDESOT
++[VALUE]% Attack Speed for [DURATION]
+@@ 4516 | translate | EFFECTSLIST.DAT | EFFECT | GOODDESOT
++[VALUE]% Cast Speed for [DURATION]
+@@ 4517 | translate | EFFECTSLIST.DAT | EFFECT | GOODDESOT
++[VALUE]% Critical Hit Chance for [DURATION]
+@@ 4518 | translate | EFFECTSLIST.DAT | EFFECT | GOODDESOT
++[VALUE]% Dexterity bonus for [DURATION]
+@@ 4519 | translate | EFFECTSLIST.DAT | EFFECT | GOODDESOT
++[VALUE]% Dodge chance for [DURATION]
+@@ 4520 | translate | EFFECTSLIST.DAT | EFFECT | GOODDESOT
++[VALUE]% Focus bonus for [DURATION]
+@@ 4521 | translate | EFFECTSLIST.DAT | EFFECT | GOODDESOT
++[VALUE]% Health for [DURATION]
+@@ 4522 | translate | EFFECTSLIST.DAT | EFFECT | GOODDESOT
++[VALUE]% Interrupt chance for [DURATION]
+@@ 4523 | translate | EFFECTSLIST.DAT | EFFECT | GOODDESOT
++[VALUE]% Mana for [DURATION]
+@@ 4524 | translate | EFFECTSLIST.DAT | EFFECT | GOODDESOT
++[VALUE]% Melee Weapon Damage bonus for [DURATION]
+@@ 4525 | translate | EFFECTSLIST.DAT | EFFECT | GOODDESOT
++[VALUE]% Melee Weapon Damage for [DURATION]
+@@ 4526 | translate | EFFECTSLIST.DAT | EFFECT | GOODDESOT
++[VALUE]% Potion effectiveness for [DURATION]
+@@ 4527 | translate | EFFECTSLIST.DAT | EFFECT | GOODDESOT
++[VALUE]% Ranged Weapon Damage bonus for [DURATION]
+@@ 4528 | translate | EFFECTSLIST.DAT | EFFECT | GOODDESOT
++[VALUE]% Ranged Weapon Damage for [DURATION]
+@@ 4529 | translate | EFFECTSLIST.DAT | EFFECT | GOODDESOT
++[VALUE]% Strength bonus for [DURATION]
+@@ 4530 | translate | EFFECTSLIST.DAT | EFFECT | GOODDESOT
++[VALUE]% Vitality bonus for [DURATION]
+@@ 4531 | translate | EFFECTSLIST.DAT | EFFECT | GOODDESOT
++[VALUE]% Wand and Staff Damage for [DURATION]
+@@ 4532 | translate | EFFECTSLIST.DAT | EFFECT | GOODDESOT
++[VALUE]% chance to Block for [DURATION]
+@@ 4533 | translate | EFFECTSLIST.DAT | EFFECT | GOODDESOT
++[VALUE]% pet and minion Armor for [DURATION]
+@@ 4534 | translate | EFFECTSLIST.DAT | EFFECT | GOODDESOT
++[VALUE]% pet and minion Damage for [DURATION]
+@@ 4535 | translate | EFFECTSLIST.DAT | EFFECT | GOODDESOT
++[VALUE]% pet and minion Health for [DURATION]
+@@ 4536 | translate | EFFECTSLIST.DAT | EFFECT | GOODDESOT
++[VALUE]% pet and minion Speed for [DURATION]
+@@ 4537 | translate | EFFECTSLIST.DAT | EFFECT | GOODDESOT
++[VALUE]% to [DMGTYPE] Armor for [DURATION]
+@@ 4538 | translate | EFFECTSLIST.DAT | EFFECT | GOODDESOT
++[VALUE]% to [DMGTYPE] Damage for [DURATION]
+@@ 4539 | translate | EFFECTSLIST.DAT | EFFECT | GOODDESOT
++[VALUE]% to skill mana cost for [DURATION]
+@@ 4540 | translate | EFFECTSLIST.DAT | EFFECT | GOODDESOT
++[VALUE]% |c00ff9933Charge|u lost per second due to decay during the next [DURATION]
+@@ 4541 | translate | EFFECTSLIST.DAT | EFFECT | GOODDESOT
++[VALUE]m to Bow, Crossbow, Pistol and Wand range for [DURATION]
+@@ 4542 | translate | EFFECTSLIST.DAT | EFFECT | GOODDESOT
+-[VALUE] to All Armor per hit for [DURATION]
+@@ 4543 | translate | EFFECTSLIST.DAT | EFFECT | GOODDESOT
+-[VALUE] to Armor equipment requirements for [DURATION]
+@@ 4544 | translate | EFFECTSLIST.DAT | EFFECT | GOODDESOT
+-[VALUE] to Spell learning requirements for [DURATION]
+@@ 4545 | translate | EFFECTSLIST.DAT | EFFECT | GOODDESOT
+-[VALUE] to all item character stat requirements for [DURATION]
+@@ 4546 | translate | EFFECTSLIST.DAT | EFFECT | GOODDESOT
+-[VALUE] to mage equipment requirements for [DURATION]
+@@ 4547 | translate | EFFECTSLIST.DAT | EFFECT | GOODDESOT
+-[VALUE] to martial equipment requirements for [DURATION]
+@@ 4548 | translate | EFFECTSLIST.DAT | EFFECT | GOODDESOT
+-[VALUE] to ranged equipment requirements for [DURATION]
+@@ 4549 | translate | EFFECTSLIST.DAT | EFFECT | GOODDESOT
+Generates [VALUE]% |c00ff9933Charge|u per second over [DURATION]
+@@ 4550 | translate | EFFECTSLIST.DAT | EFFECT | GOODDESOT
+Increases charges in meter by [VALUE] for [DURATION]
+@@ 4551 | translate | EFFECTSLIST.DAT | EFFECT | GOODDESOT
+Minions Deal [VALUE_OT] [DMGTYPE] Damage over [DURATION]
+@@ 4552 | translate | EFFECTSLIST.DAT | EFFECT | GOODDESOT
+Silence for [DURATION]
+@@ 4553 | translate | EFFECTSLIST.DAT | EFFECT | GOODDESOT
+Swaps pos with pet in [VALUE] seconds
+@@ 4554 | translate | EFFECTSLIST.DAT | EFFECT | GOODDESOT
+Target Locked for [DURATION] seconds
+@@ 4555 | translate | EFFECTSLIST.DAT | EFFECT | GOODDESOT
+Time until |c00ff9933Charge|u decay increased by [VALUE] seconds for [DURATION]
+@@ 4556 | translate | EFFECTSLIST.DAT | EFFECT | GOODDESOT
+Transformation time is incresed by [VALUE]% for [DURATION].
+@@ 4557 | translate | EFFECTSLIST.DAT | EFFECT | GOODDESOT
+[DMGTYPE] Damage Taken is reduced by [VALUE]% for [DURATION]
+@@ 4558 | translate | EFFECTSLIST.DAT | EFFECT | GOODDESOT
+[DMGTYPE] Damage Taken reduced by [VALUE] for [DURATION]
+@@ 4559 | translate | EFFECTSLIST.DAT | EFFECT | GOODDESOT
+[VALUE3]% chance of [VALUE]% Blindness for [DURATION]
+@@ 4560 | translate | EFFECTSLIST.DAT | EFFECT | GOODDESOT
+[VALUE3]% chance to spawn [VALUE1] units on death over [DURATION]
+@@ 4561 | translate | EFFECTSLIST.DAT | EFFECT | GOODDESOT
+[VALUE3]% chance to spawn [VALUE1] units over [DURATION]
+@@ 4562 | translate | EFFECTSLIST.DAT | EFFECT | GOODDESOT
+[VALUE5]% chance to inflict [VALUE_OT] [DMGTYPE] Damage over [DURATION]
+@@ 4563 | translate | EFFECTSLIST.DAT | EFFECT | GOODDESOT
+[VALUE] Health recovery over [DURATION]
+@@ 4564 | translate | EFFECTSLIST.DAT | EFFECT | GOODDESOT
+[VALUE] Health steal to master on Hit for [DURATION]
+@@ 4565 | translate | EFFECTSLIST.DAT | EFFECT | GOODDESOT
+[VALUE] Health stolen on hit for [DURATION]
+@@ 4566 | translate | EFFECTSLIST.DAT | EFFECT | GOODDESOT
+[VALUE] Mana recovery over [DURATION]
+@@ 4567 | translate | EFFECTSLIST.DAT | EFFECT | GOODDESOT
+[VALUE] Mana stolen on hit for [DURATION]
+@@ 4568 | translate | EFFECTSLIST.DAT | EFFECT | GOODDESOT
+[VALUE] [DMGTYPE] Damage Reflected for [DURATION]
+@@ 4569 | translate | EFFECTSLIST.DAT | EFFECT | GOODDESOT
+[VALUE] points of [DMGTYPE] Damage Absorption for [DURATION]
+@@ 4570 | translate | EFFECTSLIST.DAT | EFFECT | GOODDESOT
+[VALUE]% Damage penalty when dual-wielding for [DURATION]
+@@ 4571 | translate | EFFECTSLIST.DAT | EFFECT | GOODDESOT
+[VALUE]% Damage reflected back on attacker for [DURATION]
+@@ 4572 | translate | EFFECTSLIST.DAT | EFFECT | GOODDESOT
+[VALUE]% Health recovery over [DURATION]
+@@ 4573 | translate | EFFECTSLIST.DAT | EFFECT | GOODDESOT
+[VALUE]% Health stolen for [DURATION]
+@@ 4574 | translate | EFFECTSLIST.DAT | EFFECT | GOODDESOT
+[VALUE]% Health stolen to master for [DURATION]
+@@ 4575 | translate | EFFECTSLIST.DAT | EFFECT | GOODDESOT
+[VALUE]% Immobilization Resistance for [DURATION]
+@@ 4576 | translate | EFFECTSLIST.DAT | EFFECT | GOODDESOT
+[VALUE]% Increased Chance to Miss for [DURATION]
+@@ 4577 | translate | EFFECTSLIST.DAT | EFFECT | GOODDESOT
+[VALUE]% Knock Back Resistance for [DURATION]
+@@ 4578 | translate | EFFECTSLIST.DAT | EFFECT | GOODDESOT
+[VALUE]% Mana stolen for [DURATION]
+@@ 4579 | translate | EFFECTSLIST.DAT | EFFECT | GOODDESOT
+[VALUE]% Sight Bonus for [DURATION]
+@@ 4580 | translate | EFFECTSLIST.DAT | EFFECT | GOODDESOT
+[VALUE]% Slow Resistance for [DURATION]
+@@ 4581 | translate | EFFECTSLIST.DAT | EFFECT | GOODDESOT
+[VALUE]% Stun Resistance for [DURATION]
+@@ 4582 | translate | EFFECTSLIST.DAT | EFFECT | GOODDESOT
+[VALUE]% View Angle Bonus for [DURATION]
+@@ 4583 | translate | EFFECTSLIST.DAT | EFFECT | GOODDESOT
+[VALUE]% bonus to Critical Damage for [DURATION]
+@@ 4584 | translate | EFFECTSLIST.DAT | EFFECT | GOODDESOT
+[VALUE]% chance for owner to retarget unit in [VALUE2] meters for [DURATION] seconds
+@@ 4585 | translate | EFFECTSLIST.DAT | EFFECT | GOODDESOT
+[VALUE]% chance of Blindness for [DURATION]
+@@ 4586 | translate | EFFECTSLIST.DAT | EFFECT | GOODDESOT
+[VALUE]% chance to Block for [DURATION]
+@@ 4587 | translate | EFFECTSLIST.DAT | EFFECT | GOODDESOT
+[VALUE]% chance to Burn for [DURATION]
+@@ 4588 | translate | EFFECTSLIST.DAT | EFFECT | GOODDESOT
+[VALUE]% chance to Freeze for [DURATION]
+@@ 4589 | translate | EFFECTSLIST.DAT | EFFECT | GOODDESOT
+[VALUE]% chance to Poison for [DURATION]
+@@ 4590 | translate | EFFECTSLIST.DAT | EFFECT | GOODDESOT
+[VALUE]% chance to Shock for [DURATION]
+@@ 4591 | translate | EFFECTSLIST.DAT | EFFECT | GOODDESOT
+[VALUE]% chance to Stun target for [DURATION]
+@@ 4592 | translate | EFFECTSLIST.DAT | EFFECT | GOODDESOT
+[VALUE]% chance to agro monsters [VALUE2] meters away for [DURATION]
+@@ 4593 | translate | EFFECTSLIST.DAT | EFFECT | GOODDESOT
+[VALUE]% chance to cast [NAME] at target for [DURATION]
+@@ 4594 | translate | EFFECTSLIST.DAT | EFFECT | GOODDESOT
+[VALUE]% chance to cast [NAME] for [DURATION]
+@@ 4595 | translate | EFFECTSLIST.DAT | EFFECT | GOODDESOT
+[VALUE]% chance to cast [NAME] from target for [DURATION]
+@@ 4596 | translate | EFFECTSLIST.DAT | EFFECT | GOODDESOT
+[VALUE]% chance to cast [NAME] on death for [DURATION]
+@@ 4597 | translate | EFFECTSLIST.DAT | EFFECT | GOODDESOT
+[VALUE]% chance to cast [NAME] on kill for [DURATION]
+@@ 4598 | translate | EFFECTSLIST.DAT | EFFECT | GOODDESOT
+[VALUE]% chance to cast [NAME] on strike for [DURATION]
+@@ 4599 | translate | EFFECTSLIST.DAT | EFFECT | GOODDESOT
+[VALUE]% chance to cast [NAME] on target for [DURATION]
+@@ 4600 | translate | EFFECTSLIST.DAT | EFFECT | GOODDESOT
+[VALUE]% chance to cast [NAME] when you get hit for [DURATION]
+@@ 4601 | translate | EFFECTSLIST.DAT | EFFECT | GOODDESOT
+[VALUE]% chance to disarm traps for [DURATION]
+@@ 4602 | translate | EFFECTSLIST.DAT | EFFECT | GOODDESOT
+[VALUE]% chance to immobilize Target for [DURATION]
+@@ 4603 | translate | EFFECTSLIST.DAT | EFFECT | GOODDESOT
+[VALUE]% chance to reflect missiles at [VALUE3AND4]% weapon DPS\n     for [DURATION]
+@@ 4604 | translate | EFFECTSLIST.DAT | EFFECT | GOODDESOT
+[VALUE]% decreased pet town travel time for [DURATION]
+@@ 4605 | translate | EFFECTSLIST.DAT | EFFECT | GOODDESOT
+[VALUE]% faster movement speed for [DURATION]
+@@ 4606 | translate | EFFECTSLIST.DAT | EFFECT | GOODDESOT
+[VALUE]% improvement in vendor prices for [DURATION]
+@@ 4607 | translate | EFFECTSLIST.DAT | EFFECT | GOODDESOT
+[VALUE]% increase in magic-finding Luck for [DURATION]
+@@ 4608 | translate | EFFECTSLIST.DAT | EFFECT | GOODDESOT
+[VALUE]% increase in the amount of experience gained for [DURATION]
+@@ 4609 | translate | EFFECTSLIST.DAT | EFFECT | GOODDESOT
+[VALUE]% increase in the amount of fame gained for [DURATION]
+@@ 4610 | translate | EFFECTSLIST.DAT | EFFECT | GOODDESOT
+[VALUE]% increase in the amount of gold found for [DURATION]
+@@ 4611 | translate | EFFECTSLIST.DAT | EFFECT | GOODDESOT
+[VALUE]% increased Fishing Luck for [DURATION]
+@@ 4612 | translate | EFFECTSLIST.DAT | EFFECT | GOODDESOT
+[VALUE]% reduced item level requirements for [DURATION]
+@@ 4613 | translate | EFFECTSLIST.DAT | EFFECT | GOODDESOT
+[VALUE]% reduction in Fumble Chance for [DURATION]
+@@ 4614 | translate | EFFECTSLIST.DAT | EFFECT | GOODDESOT
+[VALUE]% reduction in Fumble Damage Penalty for [DURATION]
+@@ 4615 | translate | EFFECTSLIST.DAT | EFFECT | GOODDESOT
+[VALUE]% resistance to Blindness for [DURATION]
+@@ 4616 | translate | EFFECTSLIST.DAT | EFFECT | GOODDESOT
+[VALUE]% resistance to Teleportation for [DURATION]
+@@ 4617 | translate | EFFECTSLIST.DAT | EFFECT | GOODDESOT
+[VALUE_OT] [DMGTYPE] Damage over [DURATION]
+@@ 4618 | translate | EFFECTSLIST.DAT | EFFECT | GOODDESOT
+|c00ff9933Charge|u decay rate decreased by [VALUE]% for [DURATION]
+@@ 4619 | translate | EFFECTSLIST.DAT | EFFECT | GOODDESOT
+|c00ff9933Charge|u rate increased by [VALUE]% for [DURATION]
+@@ 4620 | translate | UNITS/MONSTERS/ARMADAX/ARMADAX.DAT | UNIT | DESCRIPTION
+Blocks Attacks until Plates are Destroyed
+@@ 4621 | translate | UNITS/MONSTERS/ARMADAX/ARMADAXCHAMP.DAT | UNIT | DESCRIPTION
+Champion Beast - Blocks Attacks until Plates are Destroyed
+@@ 4622 | translate | UNITS/MONSTERS/AUTOMATONS/AUTOMATON_GEN2.DAT | UNIT | DESCRIPTION
+Armored - Blocks Until Armor Is Destroyed
+@@ 4623 | translate | UNITS/MONSTERS/BANDITS/BANDIT_ASSASSIN.DAT | UNIT | DESCRIPTION
+Shadow Dash
+@@ 4624 | translate | UNITS/MONSTERS/BANDITS/BANDIT_CAMPBOSS.DAT | UNIT | DESCRIPTION
+Bandit Leader - Hurls Explosive Kegs
+@@ 4625 | translate | UNITS/MONSTERS/BANDITS/BANDIT_CAMPBOSS02.DAT | UNIT | DESCRIPTION
+Bandit Leader - Tosses Flame Flasks
+@@ 4626 | translate | UNITS/MONSTERS/BANDITS/BANDIT_MELEE.DAT | UNIT | DESCRIPTION
+Shield Blocks Damage
+@@ 4627 | translate | UNITS/MONSTERS/BANDITS/BANDIT_MELEE_GHOST.DAT | UNIT | DESCRIPTION
+Knockback Immune - Cannot Be Interrupted
+@@ 4628 | translate | UNITS/MONSTERS/BANDITS/GRAND_REGENT_ELDRAYN.DAT | UNIT | DESCRIPTION
+Estherian Leader
+@@ 4629 | translate | UNITS/MONSTERS/BANDITS/HEADLESSAXEMAN.DAT | UNIT | DESCRIPTION
+Hurls Woodaxes - Cannot Be Interrupted
+@@ 4630 | translate | UNITS/MONSTERS/BANDITS/SPECTRALHUNTSMAN.DAT | UNIT | DESCRIPTION
+Corpsefire Arrows - Knockback Immune - Cannot Be Interrupted
+@@ 4631 | translate | UNITS/MONSTERS/BASILISK/BASILISK.DAT | UNIT | DESCRIPTION
+Petrifying Gaze
+@@ 4632 | translate | UNITS/MONSTERS/BASILISK/BASILISK_CHAMP.DAT | UNIT | DESCRIPTION
+Champion Basilisk
+@@ 4633 | translate | UNITS/MONSTERS/BASILISK/BASILISK_CHAMP.DAT | UNIT | DESCRIPTION
+Champion Beast - Petrifying Gaze
+@@ 4634 | translate | UNITS/MONSTERS/BASILISK/SALAMANDER.DAT | UNIT | DESCRIPTION
+Breathes Pools of Flame - Fire Resistant
+@@ 4635 | translate | UNITS/MONSTERS/BLIGHTSLUG/BLIGHTMAGGOT.DAT | UNIT | DESCRIPTION
+Spits Noxious Saliva
+@@ 4636 | translate | UNITS/MONSTERS/BLIGHTSLUG/BLIGHTSLUG_SPAWNER.DAT | UNIT | DESCRIPTION
+Blight Slug Spawner
+@@ 4637 | translate | UNITS/MONSTERS/BLIGHTSLUG/BLIGHTSLUG_SWAMP.DAT | UNIT | DESCRIPTION
+Tongue Snare
+@@ 4638 | translate | UNITS/MONSTERS/BLIGHTSLUG/ROACHSPAWNER.DAT | UNIT | DESCRIPTION
+Spawns Roachlings
+@@ 4639 | translate | UNITS/MONSTERS/BLIGHTSLUG/SANDRATSPAWNER.DAT | UNIT | DESCRIPTION
+Spawns Sandrats
+@@ 4640 | translate | UNITS/MONSTERS/BONE_GOLEM/BONE_GOLEM.DAT | UNIT | DESCRIPTION
+Bone Cloud Summon
+@@ 4641 | translate | UNITS/MONSTERS/BONE_GOLEM/BONE_GOLEM_DRAGON.DAT | UNIT | DESCRIPTION
+Energy Blade
+@@ 4642 | translate | UNITS/MONSTERS/BONE_GOLEM/BONE_GOLEM_LUMINOUSARENA.DAT | UNIT | DESCRIPTION
+Mana Bolts - Sword Split
+@@ 4643 | translate | UNITS/MONSTERS/BOSSES/BOSS_ARTIFICER.DAT | UNIT | DESCRIPTION
+Ezrohir Architect - Claw Grab - Beam Attack - Seeking Bolts - Shock Attacks
+@@ 4644 | translate | UNITS/MONSTERS/BOSSES/BOSS_BLOATFANG.DAT | UNIT | DESCRIPTION
+Rush Attack - Vomit Attack - Leap Smash - Boulder Toss - Consumes Corpses
+@@ 4645 | translate | UNITS/MONSTERS/BOSSES/BOSS_DARK_ALCH.DAT | UNIT | DESCRIPTION
+Powerful Alchemical Magic - Teleportation - Crystal Sentry - Nether Imp Summon - Stasis Beam - Heartblast
+@@ 4646 | translate | UNITS/MONSTERS/BOSSES/BOSS_DARK_ALCHPHASE1.DAT | UNIT | DESCRIPTION
+Powerful Alchemical Magic - Teleportation - Crystal Sentry
+@@ 4647 | translate | UNITS/MONSTERS/BOSSES/BOSS_DARK_ALCHPHASE2.DAT | UNIT | DESCRIPTION
+Powerful Alchemical Magic - Teleportation - Crystal Sentry - Nether Imp Summon - Stasis Beam
+@@ 4648 | translate | UNITS/MONSTERS/BOSSES/BOSS_DJINN.DAT | UNIT | DESCRIPTION
+Casts Powerful Spells - Teleportation - Summons Mirror Images
+@@ 4649 | translate | UNITS/MONSTERS/BOSSES/BOSS_DJINN_BIG.DAT | UNIT | DESCRIPTION
+\n
+@@ 4650 | translate | UNITS/MONSTERS/BOSSES/BOSS_DJINN_PHASE1.DAT | UNIT | DESCRIPTION
+Casts Powerful Spells - Teleportation
+@@ 4651 | translate | UNITS/MONSTERS/BOSSES/BOSS_DJINN_SMALLER.DAT | UNIT | DESCRIPTION
+Casts Powerful Spells
+@@ 4652 | translate | UNITS/MONSTERS/BOSSES/BOSS_DRAGON.DAT | UNIT | DESCRIPTION
+Flame Jets - Leap Attack - Tail Swipe - Dive Smash - Wing Attack
+@@ 4653 | translate | UNITS/MONSTERS/BOSSES/BOSS_DRAGON_SPIRIT.DAT | UNIT | DESCRIPTION
+Acid Breath - Bone Cage - Bone Spikes - Smash Attacks
+@@ 4654 | translate | UNITS/MONSTERS/BOSSES/BOSS_FACELESS_KING.DAT | UNIT | DESCRIPTION
+Combined Mask Abilities - Stasis Beams - Teleportation
+@@ 4655 | translate | UNITS/MONSTERS/BOSSES/BOSS_FURY.DAT | UNIT | DESCRIPTION
+Teleports - Attacks With Claws - Sunders Ground
+@@ 4656 | translate | UNITS/MONSTERS/BOSSES/BOSS_FURY2.DAT | UNIT | DESCRIPTION
+Teleports - Heals Sisters - Summons Spiders
+@@ 4657 | translate | UNITS/MONSTERS/BOSSES/BOSS_FURY3.DAT | UNIT | DESCRIPTION
+Teleports - Casts Fire Spells
+@@ 4658 | translate | UNITS/MONSTERS/BOSSES/BOSS_FURY_WEAK.DAT | UNIT | DESCRIPTION
+Sister of Corruption
+@@ 4659 | translate | UNITS/MONSTERS/BOSSES/BOSS_FURY_WEAK2.DAT | UNIT | DESCRIPTION
+Sister of Venom
+@@ 4660 | translate | UNITS/MONSTERS/BOSSES/BOSS_FURY_WEAK3.DAT | UNIT | DESCRIPTION
+Sister of Embers
+@@ 4661 | translate | UNITS/MONSTERS/BOSSES/BOSS_GUARDIAN_SIEGE.DAT | UNIT | DESCRIPTION
+Enslaved Mana Guardian - Rocket Attack - Dash Attack - Magic Attacks
+@@ 4662 | translate | UNITS/MONSTERS/BOSSES/BOSS_GUARDIAN_WOOD.DAT | UNIT | DESCRIPTION
+Corrupted Guardian
+@@ 4663 | translate | UNITS/MONSTERS/BOSSES/BOSS_MAP_MASKED_COURT.DAT | UNIT | DESCRIPTION
+Only one Jester is vulnerable at a time
+@@ 4664 | translate | UNITS/MONSTERS/BOSSES/BOSS_MAP_ROBOT.DAT | UNIT | DESCRIPTION
+Ground Smash - Jet Dash - Rocket Barrage - Cannon Blast
+@@ 4665 | translate | UNITS/MONSTERS/BOSSES/BOSS_MAP_STURM.DAT | UNIT | DESCRIPTION
+Sturmbeorn General - Unleashes a Barrage of Explosive Ordinance\n
+@@ 4666 | translate | UNITS/MONSTERS/BOSSES/BOSS_MAP_TUTARA.DAT | UNIT | DESCRIPTION
+Leap Attack - Fire And Ice Axes - Axe Throw - Enrages Minions\n
+@@ 4667 | translate | UNITS/MONSTERS/BOSSES/BOSS_MAP_WRAITHLORD.DAT | UNIT | DESCRIPTION
+Spectral Weapon - Powerful Spells - Teleportation - Raises Ancient Skeletons
+@@ 4668 | translate | UNITS/MONSTERS/BOSSES/BOSS_NETHERIM.DAT | UNIT | DESCRIPTION
+Slash Attacks - Dash Attack - Breath Attacks - Summons Minions - Boulder Smash - Flame Attack - Nether Magic
+@@ 4669 | translate | UNITS/MONSTERS/BOSSES/BOSS_NETHERIM_SHADOW.DAT | UNIT | DESCRIPTION
+Shadow Form - Slash Attacks - Breath Attacks - Summons Minions
+@@ 4670 | translate | UNITS/MONSTERS/BOSSES/BOSS_STURM.DAT | UNIT | DESCRIPTION
+Sturmbeorn General - Explosive and Quake Attacks\n
+@@ 4671 | translate | UNITS/MONSTERS/BURROWER/BURROWER.DAT | UNIT | DESCRIPTION
+Releases Shocking Bolts
+@@ 4672 | translate | UNITS/MONSTERS/BURROWER/BURROWER_DESERT.DAT | UNIT | DESCRIPTION
+Lurks Belowground
+@@ 4673 | translate | UNITS/MONSTERS/BURROWER/BURROWER_DESERT_MOTHER.DAT | UNIT | DESCRIPTION
+Births Dune Burrowers
+@@ 4674 | translate | UNITS/MONSTERS/BURROWER/BURROWER_DESERT_MOTHERCHAMP.DAT | UNIT | DESCRIPTION
+Champion Beast - Births Dune Burrowers
+@@ 4675 | translate | UNITS/MONSTERS/CLAPTRAP/A3-CTRAP.DAT | UNIT | DESCRIPTION
+Annoying Automaton
+@@ 4676 | translate | UNITS/MONSTERS/CORRUPTED_STURMBEORN/CHAMP.DAT | UNIT | DESCRIPTION
+Casts Auras and Shields - Slow, High-Power Spells - Explodes On Death
+@@ 4677 | translate | UNITS/MONSTERS/CORRUPTED_STURMBEORN/CHAMP.DAT | UNIT | DESCRIPTION
+Champion Sturmbeorn
+@@ 4678 | translate | UNITS/MONSTERS/CORRUPTED_STURMBEORN/CHAMPBARRAGE.DAT | UNIT | DESCRIPTION
+Test Unit for Champion Skills: Missile Barrage
+@@ 4679 | translate | UNITS/MONSTERS/CORRUPTED_STURMBEORN/CHAMPBEAM.DAT | UNIT | DESCRIPTION
+Test Unit for Champion Skills: Teleports when hit
+@@ 4680 | translate | UNITS/MONSTERS/CORRUPTED_STURMBEORN/CHAMPCYCLONE.DAT | UNIT | DESCRIPTION
+Test Champion Skills: Cyclone, Aura Shield Slef
+@@ 4681 | translate | UNITS/MONSTERS/CORRUPTED_STURMBEORN/CHAMPFIRE.DAT | UNIT | DESCRIPTION
+Casts Fire Spells
+@@ 4682 | translate | UNITS/MONSTERS/CORRUPTED_STURMBEORN/CHAMPFLARE.DAT | UNIT | DESCRIPTION
+Test Champion Skills: Aura, reflective shield buffer, hyperbeam/meteor/barrage
+@@ 4683 | translate | UNITS/MONSTERS/CORRUPTED_STURMBEORN/CHAMPICE.DAT | UNIT | DESCRIPTION
+Casts Ice Spells
+@@ 4684 | translate | UNITS/MONSTERS/CORRUPTED_STURMBEORN/CHAMPRAY.DAT | UNIT | DESCRIPTION
+Test Unit for Champion Skills: Teleports when hit, Void Ray
+@@ 4685 | translate | UNITS/MONSTERS/CORRUPTED_STURMBEORN/CHAMPSHIELD.DAT | UNIT | DESCRIPTION
+Test Champion: Casts a damage shield resistant to what it has been hit by
+@@ 4686 | translate | UNITS/MONSTERS/CORRUPTED_STURMBEORN/CHAMPSPEEDY.DAT | UNIT | DESCRIPTION
+Test Unit for Champion Skills: Casts haste on itself, but damage will break the haste buff.
+@@ 4687 | translate | UNITS/MONSTERS/CORRUPTED_STURMBEORN/C_STURM_CASTER.DAT | UNIT | DESCRIPTION
+Corrupted Sturmbeorn
+@@ 4688 | translate | UNITS/MONSTERS/CORRUPTED_STURMBEORN/C_STURM_CASTER.DAT | UNIT | DESCRIPTION
+Raises Undead - Casts Corrupted Souls
+@@ 4689 | translate | UNITS/MONSTERS/CORRUPTED_STURMBEORN/C_STURM_CASTER_CHAMPFIRE.DAT | UNIT | DESCRIPTION
+Champion Sturmbeorn - Casts Fire Spells
+@@ 4690 | translate | UNITS/MONSTERS/CORRUPTED_STURMBEORN/C_STURM_MELEE.DAT | UNIT | DESCRIPTION
+Shield Bash Attack - Shield Can Be Shattered
+@@ 4691 | translate | UNITS/MONSTERS/CORRUPTED_STURMBEORN/C_STURM_MELEECHAMPELEC.DAT | UNIT | DESCRIPTION
+Champion Sturmbeorn - Flurry Attack
+@@ 4692 | translate | UNITS/MONSTERS/CORRUPTED_STURMBEORN/C_STURM_MELEESWORD.DAT | UNIT | DESCRIPTION
+Power Slash Attack
+@@ 4693 | translate | UNITS/MONSTERS/CORRUPTED_STURMBEORN/C_STURM_MELEE_GUNNBREN_CHAMP.DAT | UNIT | DESCRIPTION
+Elite Smith - Enchanted Fire Sword
+@@ 4694 | translate | UNITS/MONSTERS/CORRUPTED_STURMBEORN/C_STURM_MELEE_STENNBRUM_CHAMP.DAT | UNIT | DESCRIPTION
+Elite Smith - Enchanted Lightning Mace
+@@ 4695 | translate | UNITS/MONSTERS/CORRUPTED_STURMBEORN/C_STURM_RANGED.DAT | UNIT | DESCRIPTION
+Hurls Spears
+@@ 4696 | translate | UNITS/MONSTERS/CORRUPTED_STURMBEORN/STURM_POSSESSED.DAT | UNIT | DESCRIPTION
+Possessed By Shade - Spirit Blast
+@@ 4697 | translate | UNITS/MONSTERS/CORRUPTED_STURMBEORN/STURM_UNDEAD01.DAT | UNIT | DESCRIPTION
+Undead
+@@ 4698 | translate | UNITS/MONSTERS/CORRUPTED_STURMBEORN/STURM_UNDEAD_AXE.DAT | UNIT | DESCRIPTION
+Undead - Hurls Axes
+@@ 4699 | translate | UNITS/MONSTERS/CRAB/CRAB.DAT | UNIT | DESCRIPTION
+Crab - Can Block Attacks - Interrupt Immune - Knockback Immune
+@@ 4700 | translate | UNITS/MONSTERS/CRAB/CRABELECTRIC.DAT | UNIT | DESCRIPTION
+Crab - Shock When Struck
+@@ 4701 | translate | UNITS/MONSTERS/CRAB/CRAB_GOLD.DAT | UNIT | DESCRIPTION
+Ostentatious Crustacean
+@@ 4702 | translate | UNITS/MONSTERS/CRAB/CRAB_KING.DAT | UNIT | DESCRIPTION
+Fears Hot Butter
+@@ 4703 | translate | UNITS/MONSTERS/CREEPER/MINECRAFT_CREEPER.DAT | UNIT | DESCRIPTION
+Hssssss.
+@@ 4704 | translate | UNITS/MONSTERS/CRYSTALSMASHABLE/PHASE_CRYSTAL_01.DAT | UNIT | DESCRIPTION
+Protect This Crystal!
+@@ 4705 | translate | UNITS/MONSTERS/CULTISTS/A1QUEST_CURSEDMESSENGER.DAT | UNIT | DESCRIPTION
+Revives Fallen Nether Thralls - Casts Plague Bolts
+@@ 4706 | translate | UNITS/MONSTERS/CULTISTS/CULTIST_ASSASSIN.DAT | UNIT | DESCRIPTION
+Long-Range Lash Attack
+@@ 4707 | translate | UNITS/MONSTERS/CULTISTS/CULTIST_BRUTE.DAT | UNIT | DESCRIPTION
+Smash Attack
+@@ 4708 | translate | UNITS/MONSTERS/CULTISTS/CULTIST_BRUTE_CHAMPION.DAT | UNIT | DESCRIPTION
+Champion Netherim - Smash Attack
+@@ 4709 | translate | UNITS/MONSTERS/CULTISTS/CULTIST_CASTER.DAT | UNIT | DESCRIPTION
+Shadow Bolt - Calls Netherim Slugs From Fallen Cultists
+@@ 4710 | translate | UNITS/MONSTERS/CULTISTS/CULTIST_CASTER_CHAMP.DAT | UNIT | DESCRIPTION
+Shadow Bolt - Calls Netherling Larva From Fallen Cultists
+@@ 4711 | translate | UNITS/MONSTERS/CULTISTS/CULTIST_CASTER_THING.DAT | UNIT | DESCRIPTION
+Shadow Bolt - Calls Netherling Larva From Fallen Cultists\n
+@@ 4712 | translate | UNITS/MONSTERS/CULTISTS/CULTIST_PLAGUEBEARER.DAT | UNIT | DESCRIPTION
+Hurls Exploding Disease Nodes
+@@ 4713 | translate | UNITS/MONSTERS/CULTISTS/CULTIST_PUSTULE.DAT | UNIT | DESCRIPTION
+Hatches Netherling Larva
+@@ 4714 | translate | UNITS/MONSTERS/CULTISTS/CULTIST_SLUG.DAT | UNIT | DESCRIPTION
+Evolves into Netherling
+@@ 4715 | translate | UNITS/MONSTERS/CURSEDSWORD/DJINNFIRESWORD.DAT | UNIT | DESCRIPTION
+Casts Fireballs
+@@ 4716 | translate | UNITS/MONSTERS/CURSEDSWORD/FLAME_SWORD_PET.DAT | UNIT | DESCRIPTION
+Resists Elemental Attacks
+@@ 4717 | translate | UNITS/MONSTERS/DARK_FAIRY/DARK_FAIRY.DAT | UNIT | DESCRIPTION
+Drops Golden Key
+@@ 4718 | translate | UNITS/MONSTERS/DESERT_FLYER/CAVE_FLYER.DAT | UNIT | DESCRIPTION
+Dive Attack
+@@ 4719 | translate | UNITS/MONSTERS/DESERT_FLYER/CORPSEWING.DAT | UNIT | DESCRIPTION
+Teleports
+@@ 4720 | translate | UNITS/MONSTERS/DESERT_FLYER/DESERT_FLYER_BLIGHTED.DAT | UNIT | DESCRIPTION
+Noxious - Dive Attack
+@@ 4721 | translate | UNITS/MONSTERS/DESERT_FLYER/DRAGON_ELEMENTAL.DAT | UNIT | DESCRIPTION
+Fire Shots - Highly Resistant to Fire
+@@ 4722 | translate | UNITS/MONSTERS/DESERT_FLYER/FLYER_ICE.DAT | UNIT | DESCRIPTION
+Ice Attacks - Very Fast
+@@ 4723 | translate | UNITS/MONSTERS/DESERT_FLYER/FLYER_ICE_SPAWNER.DAT | UNIT | DESCRIPTION
+Calls Frost Screecher Swarms
+@@ 4724 | translate | UNITS/MONSTERS/DESERT_FLYER/ICECAVE_FLYER.DAT | UNIT | DESCRIPTION
+Electrical - Shocks When Struck
+@@ 4725 | translate | UNITS/MONSTERS/DESERT_FLYER/SWAMP_FLYER.DAT | UNIT | DESCRIPTION
+Paralyzing Screech
+@@ 4726 | translate | UNITS/MONSTERS/DJINN/DJINN.DAT | UNIT | DESCRIPTION
+Opens Phase-Portal On Death
+@@ 4727 | translate | UNITS/MONSTERS/DWARVES/DWARF_BRUTE.DAT | UNIT | DESCRIPTION
+Stunning Spin Attack - Overhand Smash - Knockback Immune
+@@ 4728 | translate | UNITS/MONSTERS/DWARVES/DWARF_CINDERMAGE.DAT | UNIT | DESCRIPTION
+Firebombs - Cinder Darts - Teleports
+@@ 4729 | translate | UNITS/MONSTERS/DWARVES/DWARF_FLAMKEGGER.DAT | UNIT | DESCRIPTION
+Flamethrower Attack - Seeking Fireball Shots
+@@ 4730 | translate | UNITS/MONSTERS/DWARVES/DWARF_IRONGUARD.DAT | UNIT | DESCRIPTION
+Fast Attack - Chain Pull
+@@ 4731 | translate | UNITS/MONSTERS/ELEMENTALS/ELEMENTAL_FIRE.DAT | UNIT | DESCRIPTION
+Powerful Fire Spells
+@@ 4732 | translate | UNITS/MONSTERS/ELEMENTALS/ELEMENTAL_ICE_CHAMP.DAT | UNIT | DESCRIPTION
+Powerful Ice Attacks - Freezing Blast on Death
+@@ 4733 | translate | UNITS/MONSTERS/ELEMENTALS/ELEMENTAL_LIT.DAT | UNIT | DESCRIPTION
+Teleports - Powerful Electrical Spells
+@@ 4734 | translate | UNITS/MONSTERS/ELEMENTALS/ELEMENTAL_POISON.DAT | UNIT | DESCRIPTION
+Powerful Poison Spells - Summons Zombies
+@@ 4735 | translate | UNITS/MONSTERS/ESTHERIANSHADE/ESTHERIANSHADE.DAT | UNIT | DESCRIPTION
+Summons Shadewisps - Teleports
+@@ 4736 | translate | UNITS/MONSTERS/EXPLODINGCRYSTAL/EXPLODINGCRYSTALS.DAT | UNIT | DESCRIPTION
+Detonates After Short Delay
+@@ 4737 | translate | UNITS/MONSTERS/EZROHIR/BOSS_EZRO_ELITE.DAT | UNIT | DESCRIPTION
+Casts Shadow Fan - Summons Creatures From Pit - Sandstorm
+@@ 4738 | translate | UNITS/MONSTERS/EZROHIR/EZRO_ASSASSIN.DAT | UNIT | DESCRIPTION
+Backflip Dagger Attack
+@@ 4739 | translate | UNITS/MONSTERS/EZROHIR/EZRO_BEDOUIN.DAT | UNIT | DESCRIPTION
+Very Fast
+@@ 4740 | translate | UNITS/MONSTERS/EZROHIR/EZRO_BRUTE.DAT | UNIT | DESCRIPTION
+Explodes on Death - Reflective Shield
+@@ 4741 | translate | UNITS/MONSTERS/EZROHIR/EZRO_CHAMP.DAT | UNIT | DESCRIPTION
+Ranged Claw Grab
+@@ 4742 | translate | UNITS/MONSTERS/EZROHIR/EZRO_CRAWLER_EXPLODE.DAT | UNIT | DESCRIPTION
+Explodes On Approach
+@@ 4743 | translate | UNITS/MONSTERS/EZROHIR/EZRO_ELITE.DAT | UNIT | DESCRIPTION
+Mana Drain Field - Seeking Bolts
+@@ 4744 | translate | UNITS/MONSTERS/EZROHIR/EZRO_ELITE_ARENA.DAT | UNIT | DESCRIPTION
+Casts Shadow Fan - Mana Drain Field
+@@ 4745 | translate | UNITS/MONSTERS/EZROHIR/EZRO_INFANTRY_MANA.DAT | UNIT | DESCRIPTION
+Very Fast - Mana Singularity On Death
+@@ 4746 | translate | UNITS/MONSTERS/EZROHIR/EZRO_INFANTRY_POLEARM.DAT | UNIT | DESCRIPTION
+Fires Shock Bolts
+@@ 4747 | translate | UNITS/MONSTERS/EZROHIR/EZRO_INFANTRY_SHIELD.DAT | UNIT | DESCRIPTION
+Shield Dash - Shield Blocks Damage
+@@ 4748 | translate | UNITS/MONSTERS/EZROHIR/EZRO_RANGED.DAT | UNIT | DESCRIPTION
+Long-Range Shots - Tosses Shrapnel Crawlers
+@@ 4749 | translate | UNITS/MONSTERS/EZROHIR/EZRO_RANGED_PISTOL.DAT | UNIT | DESCRIPTION
+Double-Attack - Backflip Attack
+@@ 4750 | translate | UNITS/MONSTERS/FIEND/FIEND.DAT | UNIT | DESCRIPTION
+Creates Vile Gnashers From Corpses
+@@ 4751 | translate | UNITS/MONSTERS/FIEND/FIENDCHAMP.DAT | UNIT | DESCRIPTION
+Champion Undead - Creates Vile Gnashers From Corpses
+@@ 4752 | translate | UNITS/MONSTERS/FIEND/FIEND_BLOODMONKEY.DAT | UNIT | DESCRIPTION
+The Plague starts now...
+@@ 4753 | translate | UNITS/MONSTERS/FIEND/SANDFIEND.DAT | UNIT | DESCRIPTION
+Creates Dune Fiends From Corpses
+@@ 4754 | translate | UNITS/MONSTERS/FIEND/TOMBFIEND.DAT | UNIT | DESCRIPTION
+Creates Tomb Fiends From Corpses
+@@ 4755 | translate | UNITS/MONSTERS/FIEND/TOMBFIENDCHAMP.DAT | UNIT | DESCRIPTION
+Champion Undead - Creates Tomb Fiends From Corpses
+@@ 4756 | translate | UNITS/MONSTERS/FIEND/TOMBFIENDSUMMONED.DAT | UNIT | DESCRIPTION
+Creates Tomb Fiends From Corpses\n
+@@ 4757 | translate | UNITS/MONSTERS/FLAME_GUN_BOT/FLAME_GUN_BOT.DAT | UNIT | DESCRIPTION
+Engulfs Foes In Flames
+@@ 4758 | translate | UNITS/MONSTERS/FOREST_SPORE_LAUNCHER_01/BOSS_FUNGUS_SPORE_LAUNCHER.DAT | UNIT | DESCRIPTION
+Emits Fungal Spores
+@@ 4759 | translate | UNITS/MONSTERS/FUNGUS/BOSS_FUNGUS.DAT | UNIT | DESCRIPTION
+Spore Burst - Poison Smash Attack - Marsh Gas Cloud
+@@ 4760 | translate | UNITS/MONSTERS/FUNGUS/FUNGUS_CASTER.DAT | UNIT | DESCRIPTION
+Swampfire Bolts - Burning Barrage
+@@ 4761 | translate | UNITS/MONSTERS/FUNGUS/FUNGUS_CASTER_CHAMPION.DAT | UNIT | DESCRIPTION
+Seeking Swampfire - Burning Barrage - Root Tangle
+@@ 4762 | translate | UNITS/MONSTERS/FUNGUS/FUNGUS_MELEE.DAT | UNIT | DESCRIPTION
+Poison Smash Attack - Marsh Gas Cloud  - Cannot Be Interrupted
+@@ 4763 | translate | UNITS/MONSTERS/FUNGUS/FUNGUS_MELEE_BOSS.DAT | UNIT | DESCRIPTION
+Spore Attacks - Fungal Minions
+@@ 4764 | translate | UNITS/MONSTERS/FUNGUS/FUNGUS_MELEE_SMALL.DAT | UNIT | DESCRIPTION
+Fast - Poison Pool
+@@ 4765 | translate | UNITS/MONSTERS/FUNGUS/FUNGUS_SMALL1.DAT | UNIT | DESCRIPTION
+Detonates and Spawns New Mycons
+@@ 4766 | translate | UNITS/MONSTERS/FUNGUS/FUNGUS_SMALL2.DAT | UNIT | DESCRIPTION
+Leaps Out Of Danger - Flees When Allies Perish
+@@ 4767 | translate | UNITS/MONSTERS/FUNGUS/FUNGUS_SMALL2_PLANTED.DAT | UNIT | DESCRIPTION
+Leaps Out Of Danger - Flees When Allies Perish\n
+@@ 4768 | translate | UNITS/MONSTERS/FUNGUS/FUNGUS_SMALL3.DAT | UNIT | DESCRIPTION
+Electric Explode - Flees When Allies Perish
+@@ 4769 | translate | UNITS/MONSTERS/FUNGUS/FUNGUS_SMALL4.DAT | UNIT | DESCRIPTION
+Mana Drain Ring - Summons Myconites
+@@ 4770 | translate | UNITS/MONSTERS/FUNGUS/FUNGUS_SMALL5.DAT | UNIT | DESCRIPTION
+Flings Spour Seeds at the Player that Grow and Explode
+@@ 4771 | translate | UNITS/MONSTERS/FUNGUS/FUNGUS_SPORE.DAT | UNIT | DESCRIPTION
+Seeking Poison Bolts On Explosion
+@@ 4772 | translate | UNITS/MONSTERS/FUNGUS/FUNGUS_SPORE_PET.DAT | UNIT | DESCRIPTION
+Exploding Spore!
+@@ 4773 | translate | UNITS/MONSTERS/GARGOYLE/GARGOYLE.DAT | UNIT | DESCRIPTION
+Dash Attack - Ground Slam - Cannot Be Interrupted - Missile Reflection
+@@ 4774 | translate | UNITS/MONSTERS/GARGOYLE/GARGOYLE_CHAMP.DAT | UNIT | DESCRIPTION
+Petrification - High Elemental Resistances
+@@ 4775 | translate | UNITS/MONSTERS/GARGOYLE/GARGOYLE_LAVA.DAT | UNIT | DESCRIPTION
+Dash Attack - Cannot Be Interrupted
+@@ 4776 | translate | UNITS/MONSTERS/GEL/GEL_ACID.DAT | UNIT | DESCRIPTION
+Acidic Cloud Attack
+@@ 4777 | translate | UNITS/MONSTERS/GEL/ICEGEL.DAT | UNIT | DESCRIPTION
+Ice Spike Attack - Very Resistant to Ice Attacks
+@@ 4778 | translate | UNITS/MONSTERS/GEL/KINGICEGEL.DAT | UNIT | DESCRIPTION
+Ice Spike Attack - Heals Self - Kill with Fire!
+@@ 4779 | translate | UNITS/MONSTERS/GEL/NETHACKACIDBLOB.DAT | UNIT | DESCRIPTION
+Hurls Slime Balls
+@@ 4780 | translate | UNITS/MONSTERS/GEL/NOXIOUSGELKING.DAT | UNIT | DESCRIPTION
+Generates Noxious Gels
+@@ 4781 | translate | UNITS/MONSTERS/GEL/PHASETARGELBIG.DAT | UNIT | DESCRIPTION
+Extra Large Tar Slime
+@@ 4782 | translate | UNITS/MONSTERS/GEL/PHASETARGELKING.DAT | UNIT | DESCRIPTION
+The King of Black Goo
+@@ 4783 | translate | UNITS/MONSTERS/GEL/PHASETARGELKING2.DAT | UNIT | DESCRIPTION
+With a Capital "T"
+@@ 4784 | translate | UNITS/MONSTERS/GEL/PHASETARGELMED.DAT | UNIT | DESCRIPTION
+Oversized Tar Slime
+@@ 4785 | translate | UNITS/MONSTERS/GEL/PHASETARGELSMALL.DAT | UNIT | DESCRIPTION
+Spawns Squishable Slimes on Death
+@@ 4786 | translate | UNITS/MONSTERS/GEL/PHASETARGELSMALL_NOXIOUS.DAT | UNIT | DESCRIPTION
+Speedy Tar Slime
+@@ 4787 | translate | UNITS/MONSTERS/GEL/PHASETARGELTINY.DAT | UNIT | DESCRIPTION
+Squishy Under Your Feet
+@@ 4788 | translate | UNITS/MONSTERS/GEL/TARGEL.DAT | UNIT | DESCRIPTION
+Hurls Sticky Tar Globules
+@@ 4789 | translate | UNITS/MONSTERS/GHOST/GHOST.DAT | UNIT | DESCRIPTION
+Lifesteal
+@@ 4790 | translate | UNITS/MONSTERS/GOBLINS/GOBLIN_BUFF_AOE.DAT | UNIT | DESCRIPTION
+Boosts Goblin Attacks
+@@ 4791 | translate | UNITS/MONSTERS/GOBLINS/GOBLIN_CHAMP_DEMOLITION_EXPERT.DAT | UNIT | DESCRIPTION
+Carries Detonator Components
+@@ 4792 | translate | UNITS/MONSTERS/GOBLINS/GOBLIN_RANGED_SWAP_WEAPON.DAT | UNIT | DESCRIPTION
+Ice Arrow Attacks
+@@ 4793 | translate | UNITS/MONSTERS/GOBLINS/GOBLIN_RES_STAFF.DAT | UNIT | DESCRIPTION
+Enrages Nearby Goblins
+@@ 4794 | translate | UNITS/MONSTERS/GOBLINS/GOBLIN_WINTER_CASTER01.DAT | UNIT | DESCRIPTION
+Resurrects Goblins - Casts Goblin Totems
+@@ 4795 | translate | UNITS/MONSTERS/GOBLINS/GOBLIN_WINTER_DEMOLITION_EXPERT.DAT | UNIT | DESCRIPTION
+Hurls Explosive Charges
+@@ 4796 | translate | UNITS/MONSTERS/GOBLINS/GOBLIN_WINTER_MELEE01.DAT | UNIT | DESCRIPTION
+Flees When Allies Perish
+@@ 4797 | translate | UNITS/MONSTERS/GRAVEROBBER/GRAVEDIGGER.DAT | UNIT | DESCRIPTION
+Unearths Skeletons
+@@ 4798 | translate | UNITS/MONSTERS/GRAVEROBBER/GRAVEROBBER.DAT | UNIT | DESCRIPTION
+Unearths Skeletons - Resists Electricity
+@@ 4799 | translate | UNITS/MONSTERS/HIDDENSKILLUNITS/BARREL_TNT.DAT | UNIT | DESCRIPTION
+Ignites When Struck
+@@ 4800 | translate | UNITS/MONSTERS/JACKALBEAST/JACKALBEAST.DAT | UNIT | DESCRIPTION
+Leap Attack
+@@ 4801 | translate | UNITS/MONSTERS/JACKALBEAST/JACKALBEAST_MANA.DAT | UNIT | DESCRIPTION
+Extra Fast - Leap Attack
+@@ 4802 | translate | UNITS/MONSTERS/LIZARDMAN/LIZARDMANMAGE.DAT | UNIT | DESCRIPTION
+Casts Seeking and Poison Spells
+@@ 4803 | translate | UNITS/MONSTERS/LIZARDMAN/LIZARDMANMAGE_FIRE.DAT | UNIT | DESCRIPTION
+Casts Meteor and Fire Spells
+@@ 4804 | translate | UNITS/MONSTERS/LIZARDMAN/LIZARDMANPOLEARM.DAT | UNIT | DESCRIPTION
+Dash Attack - Inflicts Bleed
+@@ 4805 | translate | UNITS/MONSTERS/LIZARDMAN/LIZARDMANWARRIOR.DAT | UNIT | DESCRIPTION
+Fast Attack - Cannot Be Interrupted
+@@ 4806 | translate | UNITS/MONSTERS/MACHINE_GUN_BOT/MACHINE_GUN_BOT.DAT | UNIT | DESCRIPTION
+Shreds Foes
+@@ 4807 | translate | UNITS/MONSTERS/MACHINE_GUN_BOT/MORTAR_BOT.DAT | UNIT | DESCRIPTION
+Bombards Foes
+@@ 4808 | translate | UNITS/MONSTERS/MANTICORE/BOSS_MANTICORE.DAT | UNIT | DESCRIPTION
+Ancient Beast - Wing Buffet - Ground Slam
+@@ 4809 | translate | UNITS/MONSTERS/MANTICORE/BOSS_MANTICORE2.DAT | UNIT | DESCRIPTION
+Ancient Beast - Wing Buffet -  Rock Shards - Sandstorm
+@@ 4810 | translate | UNITS/MONSTERS/MANTICORE/BOSS_MAP_MANTICORE2.DAT | UNIT | DESCRIPTION
+Ancient Beast - Rock Shards - Sandstorm
+@@ 4811 | translate | UNITS/MONSTERS/MERCHANT/A2-BLACKSMITH.DAT | UNIT | DESCRIPTION
+Zeraphi Blacksmith
+@@ 4812 | translate | UNITS/MONSTERS/MERCHANT/A3-RACCOON_NPC_01.DAT | UNIT | DESCRIPTION
+Anxiously watches over his cousins
+@@ 4813 | translate | UNITS/MONSTERS/MERCHANT/A3-RACCOON_NPC_02.DAT | UNIT | DESCRIPTION
+Sprocket's Cousin
+@@ 4814 | translate | UNITS/MONSTERS/MERCHANT/BLACKSMITH_MAPROOM.DAT | UNIT | DESCRIPTION
+Multi-Purpose Merchant
+@@ 4815 | translate | UNITS/MONSTERS/MERCHANT/BLACKSMITH_SETONLY.DAT | UNIT | DESCRIPTION
+Blacksmith
+@@ 4816 | translate | UNITS/MONSTERS/MERCHANT/DESERTENCHANTER.DAT | UNIT | DESCRIPTION
+Enchants Items With Poison
+@@ 4817 | translate | UNITS/MONSTERS/MERCHANT/ENCHANTER_ACT1.DAT | UNIT | DESCRIPTION
+Enchants Items
+@@ 4818 | translate | UNITS/MONSTERS/MERCHANT/ENCHANTER_ACT3_OASIS.DAT | UNIT | DESCRIPTION
+Enchants with unique abilities
+@@ 4819 | translate | UNITS/MONSTERS/MERCHANT/ENCHANTER_DISENCHANTER.DAT | UNIT | DESCRIPTION
+Disenchants Items
+@@ 4820 | translate | UNITS/MONSTERS/MERCHANT/ENCHANTER_ELECTRICITY.DAT | UNIT | DESCRIPTION
+Enchants Items With Electricity
+@@ 4821 | translate | UNITS/MONSTERS/MERCHANT/ENCHANTER_FIRE.DAT | UNIT | DESCRIPTION
+Enchants Items With Fire
+@@ 4822 | translate | UNITS/MONSTERS/MERCHANT/ENCHANTER_GRANDMASTER.DAT | UNIT | DESCRIPTION
+Grandmaster Enchanter
+@@ 4823 | translate | UNITS/MONSTERS/MERCHANT/ENCHANTER_ICE.DAT | UNIT | DESCRIPTION
+Enchants Items With Ice
+@@ 4824 | translate | UNITS/MONSTERS/MERCHANT/ENCHANTER_LUCK.DAT | UNIT | DESCRIPTION
+Enchants Items With Luck
+@@ 4825 | translate | UNITS/MONSTERS/MERCHANT/ENCHANTER_MASTER.DAT | UNIT | DESCRIPTION
+Master Enchanter
+@@ 4826 | translate | UNITS/MONSTERS/MERCHANT/ENCHANTER_SOCKETER.DAT | UNIT | DESCRIPTION
+Adds Sockets To Items
+@@ 4827 | translate | UNITS/MONSTERS/MERCHANT/ENCHANTER_STATS.DAT | UNIT | DESCRIPTION
+Enchants Items With Attribute Boosts
+@@ 4828 | translate | UNITS/MONSTERS/MERCHANT/GAMBLER_MAPROOM.DAT | UNIT | DESCRIPTION
+Seller of Unidentified Items
+@@ 4829 | translate | UNITS/MONSTERS/MERCHANT/GAMBLER_SECRETROOM.DAT | UNIT | DESCRIPTION
+Half-Price Mysterious Goods
+@@ 4830 | translate | UNITS/MONSTERS/MERCHANT/GEMDESTROYER_MAPROOM.DAT | UNIT | DESCRIPTION
+Destroys gems in socketed items
+@@ 4831 | translate | UNITS/MONSTERS/MERCHANT/GEMSELLERACT3.DAT | UNIT | DESCRIPTION
+Collector of Fine Things
+@@ 4832 | translate | UNITS/MONSTERS/MERCHANT/GOODSMERCHANTACT3.DAT | UNIT | DESCRIPTION
+General Goods Vendor
+@@ 4833 | translate | UNITS/MONSTERS/MERCHANT/MERCHANT.DAT | UNIT | DESCRIPTION
+Traveling Merchant
+@@ 4834 | translate | UNITS/MONSTERS/MERCHANT/MERCHANT_COMBINER.DAT | UNIT | DESCRIPTION
+Combines treasure to create new items
+@@ 4835 | translate | UNITS/MONSTERS/MERCHANT/MERCHANT_GEMRECOVER.DAT | UNIT | DESCRIPTION
+Destroys items, recovering gems inside
+@@ 4836 | translate | UNITS/MONSTERS/MERCHANT/MERCHANT_GEMSACT2.DAT | UNIT | DESCRIPTION
+Magical Goods Vendor
+@@ 4837 | translate | UNITS/MONSTERS/MERCHANT/MERCHANT_MAP.DAT | UNIT | DESCRIPTION
+Maps to exotic dungeons!
+@@ 4838 | translate | UNITS/MONSTERS/MERCHANT/SARSA THE WOLF.DAT | UNIT | DESCRIPTION
+Unsavory Character
+@@ 4839 | translate | UNITS/MONSTERS/MERCHANT/SETMERCHANT.DAT | UNIT | DESCRIPTION
+Seller of Armor Sets
+@@ 4840 | translate | UNITS/MONSTERS/MIMIC/MIMIC.DAT | UNIT | DESCRIPTION
+Lies In Wait - Resists Elemental Attacks
+@@ 4841 | translate | UNITS/MONSTERS/MINE_TRAP_01/MINE_TRAP_01.DAT | UNIT | DESCRIPTION
+Explodes
+@@ 4842 | translate | UNITS/MONSTERS/MIRKA/MIRKA01.DAT | UNIT | DESCRIPTION
+Frost Breath Attack
+@@ 4843 | translate | UNITS/MONSTERS/MIRKA/MIRKA02.DAT | UNIT | DESCRIPTION
+Extra Tough - Charging Attack Reflects Missiles
+@@ 4844 | translate | UNITS/MONSTERS/MIRKA/MIRKA_CASTER01.DAT | UNIT | DESCRIPTION
+Ice Magic Attacks
+@@ 4845 | translate | UNITS/MONSTERS/NETHERIM/NETHERIM_BRUTE.DAT | UNIT | DESCRIPTION
+Knockback Kick - Ground Smash - Teleportation
+@@ 4846 | translate | UNITS/MONSTERS/NETHERIM/NETHERIM_CASTER.DAT | UNIT | DESCRIPTION
+Fire Breath - Summons Netherlings - Teleports
+@@ 4847 | translate | UNITS/MONSTERS/NETHERIM/NETHERIM_FLYER.DAT | UNIT | DESCRIPTION
+Scream Attack
+@@ 4848 | translate | UNITS/MONSTERS/NETHERIM/NETHERIM_GLAIVE.DAT | UNIT | DESCRIPTION
+Slash Attack - Hurls Glaives
+@@ 4849 | translate | UNITS/MONSTERS/NETHERIM/NETHERIM_GLAIVE_ARMOR.DAT | UNIT | DESCRIPTION
+Leaps Back - Hurls Glaives
+@@ 4850 | translate | UNITS/MONSTERS/NETHERIM/NETHERIM_GLAIVE_CHAMPION.DAT | UNIT | DESCRIPTION
+Slash Attack - Slash Attack - Hurls Glaives
+@@ 4851 | translate | UNITS/MONSTERS/NETHERIM/NETHERIM_GLAIVE_JEHANNUM.DAT | UNIT | DESCRIPTION
+Slash Attack - Hurls Glaives - Leaps Back
+@@ 4852 | translate | UNITS/MONSTERS/NETHERIM/NETHERIM_GLAIVE_MELEEONLY.DAT | UNIT | DESCRIPTION
+Fast Attacks - Flees When Allies Perish - Leaps Back
+@@ 4853 | translate | UNITS/MONSTERS/NETHERIM/NETHERIM_GLAIVE_SPAWNER_RED.DAT | UNIT | DESCRIPTION
+Hurls Glaives - Sacrifices Life for Eldrayn
+@@ 4854 | translate | UNITS/MONSTERS/NETHERIM/NETHERIM_HAMMER.DAT | UNIT | DESCRIPTION
+Ground Smash - Hammer Swipe - Cannot Be Interrupted
+@@ 4855 | translate | UNITS/MONSTERS/NETHERIM/NETHERIM_HAMMER_CHAMP.DAT | UNIT | DESCRIPTION
+Elite Netherim - Ground Smash - Tentacle Summon
+@@ 4856 | translate | UNITS/MONSTERS/NETHERIM/NETHERIM_LESSER02_NORMAL.DAT | UNIT | DESCRIPTION
+Drains Mana
+@@ 4857 | translate | UNITS/MONSTERS/NETHERIM/NETHERIM_LESSER02_NORMAL_BOSS.DAT | UNIT | DESCRIPTION
+Drains Mana - Explodes
+@@ 4858 | translate | UNITS/MONSTERS/NETHERIM/NETHERIM_MELEE.DAT | UNIT | DESCRIPTION
+Dash Attack - Knockback Slash
+@@ 4859 | translate | UNITS/MONSTERS/NETHERIM/NETHERIM_MELEE_SHADOW.DAT | UNIT | DESCRIPTION
+Knockback Slash
+@@ 4860 | translate | UNITS/MONSTERS/NPC/A1-MONSTERHUNTER.DAT | UNIT | DESCRIPTION
+Catelogs monsters.
+@@ 4861 | translate | UNITS/MONSTERS/NPC/ABRAHAMSQUEST.DAT | UNIT | DESCRIPTION
+Ember Scholar
+@@ 4862 | translate | UNITS/MONSTERS/NPC/BARD.DAT | UNIT | DESCRIPTION
+Aspiring Bard and One-Man Band
+@@ 4863 | translate | UNITS/MONSTERS/NPC/VANQUISHERNPC.DAT | UNIT | DESCRIPTION
+The Vanquisher
+@@ 4864 | translate | UNITS/MONSTERS/NPC/WAYGATE.DAT | UNIT | DESCRIPTION
+Retires characters and improves Heirlooms
+@@ 4865 | translate | UNITS/MONSTERS/PETS/PET_CHAKAWARY.DAT | UNIT | DESCRIPTION
+Lizard Dog Bird Dog...
+@@ 4866 | translate | UNITS/MONSTERS/PHASEBEAST/PHASEBEAST.DAT | UNIT | DESCRIPTION
+Opens Phase Portal When Killed
+@@ 4867 | translate | UNITS/MONSTERS/PUNCHBAG/TARGET_DUMMY.DAT | UNIT | DESCRIPTION
+Levels With Player
+@@ 4868 | translate | UNITS/MONSTERS/QUESTUNITS/A2-SPHINX.DAT | UNIT | DESCRIPTION
+Guardian of the Forsaken Vault
+@@ 4869 | translate | UNITS/MONSTERS/QUESTUNITS/A3-IMPERIAL_MAGE.DAT | UNIT | DESCRIPTION
+Senior Archaeologist
+@@ 4870 | translate | UNITS/MONSTERS/QUESTUNITS/A3-ROBOTEYE.DAT | UNIT | DESCRIPTION
+It appears to be controlled by something behind the door.
+@@ 4871 | translate | UNITS/MONSTERS/QUESTUNITS/A3_CART_DRIVER.DAT | UNIT | DESCRIPTION
+Spectral Ferryman
+@@ 4872 | translate | UNITS/MONSTERS/QUESTUNITS/A3_DAUGHTEROFDEADFATHER.DAT | UNIT | DESCRIPTION
+An Estherian Traveler
+@@ 4873 | translate | UNITS/MONSTERS/QUESTUNITS/A3_DEADFATHER.DAT | UNIT | DESCRIPTION
+The Spectre of Jessa's Father
+@@ 4874 | translate | UNITS/MONSTERS/QUESTUNITS/ACT 2 ZERYPHESH/A2-AMBASSADOR_TALDIMUT.DAT | UNIT | DESCRIPTION
+Zeraphi Ambassador
+@@ 4875 | translate | UNITS/MONSTERS/QUESTUNITS/ACT 2 ZERYPHESH/IMPERIALRESPEC.DAT | UNIT | DESCRIPTION
+Skill Respec
+@@ 4876 | translate | UNITS/MONSTERS/QUESTUNITS/ACT 2/A2-BOAT_GHOST.DAT | UNIT | DESCRIPTION
+Drowned Soul
+@@ 4877 | translate | UNITS/MONSTERS/QUESTUNITS/ACT 2/A2-ZERAPHI_GHOST.DAT | UNIT | DESCRIPTION
+Dying Zeraphi
+@@ 4878 | translate | UNITS/MONSTERS/QUESTUNITS/BOTANIST.DAT | UNIT | DESCRIPTION
+Imperial Botanist
+@@ 4879 | translate | UNITS/MONSTERS/QUESTUNITS/ESTHERIANS/A1-BOAT_GHOST.DAT | UNIT | DESCRIPTION
+Everdrowning Spirit
+@@ 4880 | translate | UNITS/MONSTERS/QUESTUNITS/ESTHERIANS/A1-BOAT_GHOST_ALT.DAT | UNIT | DESCRIPTION
+Tormented Spirit
+@@ 4881 | translate | UNITS/MONSTERS/QUESTUNITS/ESTHERIANS/A1-CAPTUREDENCHANTER.DAT | UNIT | DESCRIPTION
+Apprentice Enchanter
+@@ 4882 | translate | UNITS/MONSTERS/QUESTUNITS/ESTHERIANS/A1-CEMETERY_GHOST1.DAT | UNIT | DESCRIPTION
+Lost Soul
+@@ 4883 | translate | UNITS/MONSTERS/QUESTUNITS/ESTHERIANS/A1-ELDERTUANA.DAT | UNIT | DESCRIPTION
+Estherian Elder
+@@ 4884 | translate | UNITS/MONSTERS/QUESTUNITS/ESTHERIANS/A1-ENVOY.DAT | UNIT | DESCRIPTION
+Gatekeeper of the Wellspring Temple
+@@ 4885 | translate | UNITS/MONSTERS/QUESTUNITS/ESTHERIANS/A1-ESTHERIAN-PASS2.DAT | UNIT | DESCRIPTION
+Estherian
+@@ 4886 | translate | UNITS/MONSTERS/QUESTUNITS/ESTHERIANS/A1-GATEKEEPER2.DAT | UNIT | DESCRIPTION
+Estherian Envoy
+@@ 4887 | translate | UNITS/MONSTERS/QUESTUNITS/ESTHERIANS/A1-JADOK-ICEDEEP-TAKINGNOTES.DAT | UNIT | DESCRIPTION
+Way-Warden
+@@ 4888 | translate | UNITS/MONSTERS/QUESTUNITS/ESTHERIANS/A1-MALECROWSPASS.DAT | UNIT | DESCRIPTION
+Bellethe's Husband
+@@ 4889 | translate | UNITS/MONSTERS/QUESTUNITS/ESTHERIANS/A1-RAILMANNPC_TOZERYPHESH-NOSPEAK.DAT | UNIT | DESCRIPTION
+Embercraft Foreman:\nTakes you to Zeryphesh.
+@@ 4890 | translate | UNITS/MONSTERS/QUESTUNITS/ESTHERIANS/A1-RAILMANNPC_TOZERYPHESH.DAT | UNIT | DESCRIPTION
+Embercraft Foreman:\nTakes you to Zeryphesh.\n
+@@ 4891 | translate | UNITS/MONSTERS/QUESTUNITS/ESTHERIANS/A1-SHRINE_SPIRIT.DAT | UNIT | DESCRIPTION
+Spirit of a Long-Dead Explorer
+@@ 4892 | translate | UNITS/MONSTERS/QUESTUNITS/ESTHERIANS/A1-SPIDERNPC1.DAT | UNIT | DESCRIPTION
+Bellethe's....pet?
+@@ 4893 | translate | UNITS/MONSTERS/QUESTUNITS/ESTHERIANS/A2-DILAWAR.DAT | UNIT | DESCRIPTION
+Brave Zeraphi Commando
+@@ 4894 | translate | UNITS/MONSTERS/QUESTUNITS/ESTHERIANS/A2-DJINNI.DAT | UNIT | DESCRIPTION
+Djinni
+@@ 4895 | translate | UNITS/MONSTERS/QUESTUNITS/ESTHERIANS/A2-MALIKVOSH.DAT | UNIT | DESCRIPTION
+Zeraphi Noble
+@@ 4896 | translate | UNITS/MONSTERS/QUESTUNITS/ESTHERIANS/A2-RAILMANNPC_TOACT1.DAT | UNIT | DESCRIPTION
+Embercraft Foreman\nTravel To The Estherian Enclave\n
+@@ 4897 | translate | UNITS/MONSTERS/QUESTUNITS/ESTHERIANS/A2-RAILMANNPC_TOACT3.DAT | UNIT | DESCRIPTION
+Embercraft Foreman\nTravel To Imperial Camp\n
+@@ 4898 | translate | UNITS/MONSTERS/QUESTUNITS/ESTHERIANS/A2-ZERAPHI-COMMANDO-DUNGEON.DAT | UNIT | DESCRIPTION
+Zeraphi Commando
+@@ 4899 | translate | UNITS/MONSTERS/QUESTUNITS/ESTHERIANS/A2-ZERAPHI-SCOUT.DAT | UNIT | DESCRIPTION
+Zeraphi Scout
+@@ 4900 | translate | UNITS/MONSTERS/QUESTUNITS/ESTHERIANS/A3-RAILMANNPC_TOACT2.DAT | UNIT | DESCRIPTION
+Embercraft Foreman\nTravel To Zeryphesh\n
+@@ 4901 | translate | UNITS/MONSTERS/QUESTUNITS/ESTHERIANS/ESTHERIAN-PASS1.DAT | UNIT | DESCRIPTION
+Dying Estherian
+@@ 4902 | translate | UNITS/MONSTERS/QUESTUNITS/ESTHERIANS/ESTHERIANCARTATTACK.DAT | UNIT | DESCRIPTION
+Estherian Traveler
+@@ 4903 | translate | UNITS/MONSTERS/QUESTUNITS/ESTHERIANS/GRANDREGENT.DAT | UNIT | DESCRIPTION
+Grand Regent
+@@ 4904 | translate | UNITS/MONSTERS/QUESTUNITS/HONORED DEAD/NECROSTURM.DAT | UNIT | DESCRIPTION
+Bartender
+@@ 4905 | translate | UNITS/MONSTERS/QUESTUNITS/INNNPCS/EVENTROBBEDGUY.DAT | UNIT | DESCRIPTION
+Traveler
+@@ 4906 | translate | UNITS/MONSTERS/QUESTUNITS/INNNPCS/EVENTROBBEDGUY5.DAT | UNIT | DESCRIPTION
+Opportunist
+@@ 4907 | translate | UNITS/MONSTERS/QUESTUNITS/INNNPCS/PATRON1.DAT | UNIT | DESCRIPTION
+Drunk
+@@ 4908 | translate | UNITS/MONSTERS/QUESTUNITS/SURVEYOR.DAT | UNIT | DESCRIPTION
+Ember Surveyor
+@@ 4909 | translate | UNITS/MONSTERS/QUESTUNITS/TOWNSFOLK/FEMALE1.DAT | UNIT | DESCRIPTION
+Torchlight Resident
+@@ 4910 | translate | UNITS/MONSTERS/QUESTUNITS/TOWNSFOLK/FEMALE3.DAT | UNIT | DESCRIPTION
+It's a lady!
+@@ 4911 | translate | UNITS/MONSTERS/QUESTUNITS/ZONE1/GENERICVANQUISHER.DAT | UNIT | DESCRIPTION
+Novice Imperial Vanquisher
+@@ 4912 | translate | UNITS/MONSTERS/QUESTUNITS/ZONE1/PASSGUARD.DAT | UNIT | DESCRIPTION
+Imperial Vanquisher
+@@ 4913 | translate | UNITS/MONSTERS/QUESTUNITS/ZONE2/A2-MUZAFFAR.DAT | UNIT | DESCRIPTION
+Zeraphi Commander
+@@ 4914 | translate | UNITS/MONSTERS/RATMAN/RATLINBOMBER.DAT | UNIT | DESCRIPTION
+Hurls Burning Flasks - Retreating Leap
+@@ 4915 | translate | UNITS/MONSTERS/RATMAN/RATLINCHAMP_CRASHSITE1.DAT | UNIT | DESCRIPTION
+Champion Ratlin
+@@ 4916 | translate | UNITS/MONSTERS/RATMAN/RATLINDESERTARCHER.DAT | UNIT | DESCRIPTION
+Fires Fire Arrow Spread
+@@ 4917 | translate | UNITS/MONSTERS/RATMAN/RATMAN_ARCHER.DAT | UNIT | DESCRIPTION
+Fires Flaming Arrows
+@@ 4918 | translate | UNITS/MONSTERS/REPAIR_BOT/REPAIR_BOT.DAT | UNIT | DESCRIPTION
+Heals Nearby Allies
+@@ 4919 | translate | UNITS/MONSTERS/REPULSIONSENTRY/MASKSENTRYKING.DAT | UNIT | DESCRIPTION
+Fire Magic
+@@ 4920 | translate | UNITS/MONSTERS/REPULSIONSENTRY/MASKSENTRYQUEEN.DAT | UNIT | DESCRIPTION
+Electrical Magic
+@@ 4921 | translate | UNITS/MONSTERS/REPULSIONSENTRY/MASKSENTRYWARIZ.DAT | UNIT | DESCRIPTION
+Poison Magic
+@@ 4922 | translate | UNITS/MONSTERS/ROACHES/ROACH_KNIGHT.DAT | UNIT | DESCRIPTION
+Hovering Spit Attack - Untargetable While Hovering
+@@ 4923 | translate | UNITS/MONSTERS/ROACHES/ROACH_MAGE.DAT | UNIT | DESCRIPTION
+Resurrects Multiple Roach Myrmidons
+@@ 4924 | translate | UNITS/MONSTERS/ROACHES/ROACH_MINION.DAT | UNIT | DESCRIPTION
+Resistant to Elements, except for Fire
+@@ 4925 | translate | UNITS/MONSTERS/SANDRAT/SANDRAT.DAT | UNIT | DESCRIPTION
+Retreating Leap - Flees When Sandrats Perish
+@@ 4926 | translate | UNITS/MONSTERS/SAND_CONSTRUCT/PHASEBEAST_SAND_CONSTRUCT.DAT | UNIT | DESCRIPTION
+Smash Attack - Stone Prison
+@@ 4927 | translate | UNITS/MONSTERS/SAND_CONSTRUCT/SAND_CONSTRUCT_BOSS.DAT | UNIT | DESCRIPTION
+Ranged Smash Attack - Spawns Blighted Skara - Stone Prison
+@@ 4928 | translate | UNITS/MONSTERS/SAND_CONSTRUCT/SAND_CONSTRUCT_CHAMP.DAT | UNIT | DESCRIPTION
+Ranged Smash Attack - Stone Prison
+@@ 4929 | translate | UNITS/MONSTERS/SKELETONWARRIOR/BOSS_HONOREDDEAD.DAT | UNIT | DESCRIPTION
+Elite Undead - Casts Spectral Blades
+@@ 4930 | translate | UNITS/MONSTERS/SKELETONWARRIOR/BOSS_PIRATE_QUEST.DAT | UNIT | DESCRIPTION
+Elite Undead - Summons Crewmen\nConverts Dead to Hungry Souls
+@@ 4931 | translate | UNITS/MONSTERS/SKELETONWARRIOR/DESERTZOMBIE_HALF.DAT | UNIT | DESCRIPTION
+Undead - Fast
+@@ 4932 | translate | UNITS/MONSTERS/SKELETONWARRIOR/ENSLAVED.DAT | UNIT | DESCRIPTION
+Extra Fast - Elemental attacks 
+@@ 4933 | translate | UNITS/MONSTERS/SKELETONWARRIOR/PHASEBEAST_SKELETAL PIRATE DESERT.DAT | UNIT | DESCRIPTION
+Keeps a treasure map under his hat.
+@@ 4934 | translate | UNITS/MONSTERS/SKELETONWARRIOR/PHASEBEAST_SKELETAL PIRATE RANGED DESERT.DAT | UNIT | DESCRIPTION
+First Mate.
+@@ 4935 | translate | UNITS/MONSTERS/SKELETONWARRIOR/SKELETAL ARCHER DESERT.DAT | UNIT | DESCRIPTION
+Undead - Poison Arrow Hail
+@@ 4936 | translate | UNITS/MONSTERS/SKELETONWARRIOR/SKELETAL PIRATE DESERT CHAMPION.DAT | UNIT | DESCRIPTION
+Champion Undead
+@@ 4937 | translate | UNITS/MONSTERS/SKELETONWARRIOR/SKELETAL PIRATE DESERT.DAT | UNIT | DESCRIPTION
+Undead - Fast Attack
+@@ 4938 | translate | UNITS/MONSTERS/SKELETONWARRIOR/SKELETAL PIRATE RANGED DESERT.DAT | UNIT | DESCRIPTION
+Undead - Pistolier
+@@ 4939 | translate | UNITS/MONSTERS/SKELETONWARRIOR/SKELETAL WARRIOR DESERT.DAT | UNIT | DESCRIPTION
+Undead - Shield Blocks Damage - Poison
+@@ 4940 | translate | UNITS/MONSTERS/SKELETONWARRIOR/SKELETALANCIENT.DAT | UNIT | DESCRIPTION
+Blade Aura
+@@ 4941 | translate | UNITS/MONSTERS/SKELETONWARRIOR/SKELETALANCIENTSHIELD.DAT | UNIT | DESCRIPTION
+Missile Reflection Aura
+@@ 4942 | translate | UNITS/MONSTERS/SKELETONWARRIOR/SKELETALANCIENT_ARCHER_ELECTRIC.DAT | UNIT | DESCRIPTION
+Electrical Arrows Emit Charged Bolts
+@@ 4943 | translate | UNITS/MONSTERS/SKELETONWARRIOR/SKELETALANCIENT_ARENA.DAT | UNIT | DESCRIPTION
+Powerful Magical Attacks
+@@ 4944 | translate | UNITS/MONSTERS/SKELETONWARRIOR/SKELETALANCIENT_CHAMPION.DAT | UNIT | DESCRIPTION
+Rises Ancient Skeletons
+@@ 4945 | translate | UNITS/MONSTERS/SKELETONWARRIOR/SKELETALANCIENT_LIGHT.DAT | UNIT | DESCRIPTION
+Undead - Shield Blocks Damage
+@@ 4946 | translate | UNITS/MONSTERS/SKELETONWARRIOR/SKELETALANCIENT_MAGE.DAT | UNIT | DESCRIPTION
+Phantasmal Beams - Skull Missiles
+@@ 4947 | translate | UNITS/MONSTERS/SKELETONWARRIOR/SKELETALANCIENT_MAGECHAMPION.DAT | UNIT | DESCRIPTION
+Phantasmal Beams - Skull Spiral - Summons Skeletons - Skull Missiles
+@@ 4948 | translate | UNITS/MONSTERS/SKELETONWARRIOR/SKELETALANCIENT_SIMPLE.DAT | UNIT | DESCRIPTION
+ - Shield Blocks Damage
+@@ 4949 | translate | UNITS/MONSTERS/SKELETONWARRIOR/SKELETONBURNING.DAT | UNIT | DESCRIPTION
+Burning Undead - Very Fast - Fire Damage
+@@ 4950 | translate | UNITS/MONSTERS/SKELETONWARRIOR/SKELETONFOOTSOLDIER.DAT | UNIT | DESCRIPTION
+Undead - Shield Blocks Damage\nFast Attack
+@@ 4951 | translate | UNITS/MONSTERS/SKELETONWARRIOR/SKELETONHEADLESS.DAT | UNIT | DESCRIPTION
+Undead - Hurls Phantasmal Skull
+@@ 4952 | translate | UNITS/MONSTERS/SKELETONWARRIOR/SKELETONHEADLESSSWAMP.DAT | UNIT | DESCRIPTION
+Undead - Hurls Seeking Phantasmal Skulls
+@@ 4953 | translate | UNITS/MONSTERS/SKELETONWARRIOR/SKELETONMAGE.DAT | UNIT | DESCRIPTION
+Undead - Casts Lightning Spells
+@@ 4954 | translate | UNITS/MONSTERS/SKELETONWARRIOR/SKELETONMAGEFIRE.DAT | UNIT | DESCRIPTION
+Undead - Casts Fire Spells
+@@ 4955 | translate | UNITS/MONSTERS/SKELETONWARRIOR/SKELETONMAGE_CHAMP.DAT | UNIT | DESCRIPTION
+Champion Undead - Casts Lightning Spells
+@@ 4956 | translate | UNITS/MONSTERS/SKELETONWARRIOR/SKELETONSHAMBLER.DAT | UNIT | DESCRIPTION
+Undead - Hard To Kill
+@@ 4957 | translate | UNITS/MONSTERS/SKELETONWARRIOR/SKELETONWARRIOR_PASS2_CHAMP.DAT | UNIT | DESCRIPTION
+Undead - Extra Tough
+@@ 4958 | translate | UNITS/MONSTERS/SKELETONWARRIOR/SKELETON_SPLIT1.DAT | UNIT | DESCRIPTION
+Splits on Death
+@@ 4959 | translate | UNITS/MONSTERS/SKELETONWARRIOR/SKELETON_SPLIT3.DAT | UNIT | DESCRIPTION
+Last remaining Pieces of Splitting Skeleton
+@@ 4960 | translate | UNITS/MONSTERS/SKELETONWARRIOR/SKEL_HEAD.DAT | UNIT | DESCRIPTION
+The angry head of Jasper
+@@ 4961 | translate | UNITS/MONSTERS/SOULSHACKLE/SOULSHACKLE.DAT | UNIT | DESCRIPTION
+While Alive, Binds Target's Ability To Inflict Damage
+@@ 4962 | translate | UNITS/MONSTERS/SPIDER/BLACK_WIDOW.DAT | UNIT | DESCRIPTION
+Poison Bite - Ranged Attack\n
+@@ 4963 | translate | UNITS/MONSTERS/SPIDER/BOSS_SPIDER_CAVE.DAT | UNIT | DESCRIPTION
+Acid Spray - Smash Attack - Hatches Spiderlings
+@@ 4964 | translate | UNITS/MONSTERS/SPIDER/BROWN_RECLUSE.DAT | UNIT | DESCRIPTION
+Feeds and Grows\n
+@@ 4965 | translate | UNITS/MONSTERS/SPIDER/PHASEBEAST_SPIDER_HOLE.DAT | UNIT | DESCRIPTION
+Fast Leap Attack
+@@ 4966 | translate | UNITS/MONSTERS/SPIDER/PHASEBEAST_TARANTULA.DAT | UNIT | DESCRIPTION
+Sprays Venom
+@@ 4967 | translate | UNITS/MONSTERS/SPIDER/SNOW_SPIDER.DAT | UNIT | DESCRIPTION
+Ice Shard Attacks
+@@ 4968 | translate | UNITS/MONSTERS/SPIDER/SPIDER_JUMPING_SPITS.DAT | UNIT | DESCRIPTION
+Fast Leap Attack - Spits Poison
+@@ 4969 | translate | UNITS/MONSTERS/SPIDER/SPIDER_VAMPIRIC.DAT | UNIT | DESCRIPTION
+Devours Other Spiders For Strength and Longevity\n
+@@ 4970 | translate | UNITS/MONSTERS/SPIDER/SPIDER_VENOM.DAT | UNIT | DESCRIPTION
+Poison Spit
+@@ 4971 | translate | UNITS/MONSTERS/SPIDER/SPIDER_WHITE.DAT | UNIT | DESCRIPTION
+Spits Immobilizing Webs
+@@ 4972 | translate | UNITS/MONSTERS/SPIDER/TARANTULA_CHAMP.DAT | UNIT | DESCRIPTION
+Spits Immobilizing Webs - Acid Spray
+@@ 4973 | translate | UNITS/MONSTERS/SPIDER/TARANTULA_DESERT.DAT | UNIT | DESCRIPTION
+Spits Immobilizing Webs - Spits Venom
+@@ 4974 | translate | UNITS/MONSTERS/SPIDER/TARANTULA_ICE.DAT | UNIT | DESCRIPTION
+Slam Attack - Spits Immobilizing Webs
+@@ 4975 | translate | UNITS/MONSTERS/SPIDERWEB/SPIDERWEB.DAT | UNIT | DESCRIPTION
+A tangle of webbing blocks your path.
+@@ 4976 | translate | UNITS/MONSTERS/SPIDER_MINE/SPIDER_MINE.DAT | UNIT | DESCRIPTION
+Robot - Explodes
+@@ 4977 | translate | UNITS/MONSTERS/SPIRIT/MANASPECTRE.DAT | UNIT | DESCRIPTION
+Summons Mana Wisps - Mana Storm
+@@ 4978 | translate | UNITS/MONSTERS/SPIRIT/SANDSPECTRE.DAT | UNIT | DESCRIPTION
+Casts Sandstorms and Insect Plagues
+@@ 4979 | translate | UNITS/MONSTERS/SPIRIT/SANDSPECTRESMALL.DAT | UNIT | DESCRIPTION
+Casts Insect Plagues
+@@ 4980 | translate | UNITS/MONSTERS/SPIRIT/SANDSPECTRE_SCRIPTEDCHAMP.DAT | UNIT | DESCRIPTION
+Maskbearer - Electrical Magic
+@@ 4981 | translate | UNITS/MONSTERS/SPIRIT/SANDSPECTRE_SCRIPTEDCHAMP2.DAT | UNIT | DESCRIPTION
+Maskbearer - Fire Magic
+@@ 4982 | translate | UNITS/MONSTERS/SPIRIT/SANDSPECTRE_SCRIPTEDCHAMP3.DAT | UNIT | DESCRIPTION
+Maskbearer - Poison Magic
+@@ 4983 | translate | UNITS/MONSTERS/SPIRIT/SPIRIT.DAT | UNIT | DESCRIPTION
+Slows Foes - Lifesteal
+@@ 4984 | translate | UNITS/MONSTERS/SPIRIT/SPIRITCHAMP.DAT | UNIT | DESCRIPTION
+Champion Undead - Summons Shroudwings
+@@ 4985 | translate | UNITS/MONSTERS/SUPPORT_BOT/EMBERMAGE_ICE_ELEMENTAL.DAT | UNIT | DESCRIPTION
+Human Capital Optimization Unit
+@@ 4986 | translate | UNITS/MONSTERS/TNTBOMB/TNTBOMB.DAT | UNIT | DESCRIPTION
+Large Explosion
+@@ 4987 | translate | UNITS/MONSTERS/TROGLODYTES/CATACOMBSTROG.DAT | UNIT | DESCRIPTION
+Hard To Kill
+@@ 4988 | translate | UNITS/MONSTERS/TROGLODYTES/TROG_BRUTE_BOSS_DEAD.DAT | UNIT | DESCRIPTION
+Consumes Troglodytes
+@@ 4989 | translate | UNITS/MONSTERS/TROGLODYTES/TROG_BRUTE_POLEARM.DAT | UNIT | DESCRIPTION
+Long Reach - Spear Throw
+@@ 4990 | translate | UNITS/MONSTERS/TROGLODYTES/TROG_LEADER.DAT | UNIT | DESCRIPTION
+Resurrects Trogs - Enrages Trogs
+@@ 4991 | translate | UNITS/MONSTERS/TROGLODYTES/TROG_LESSER.DAT | UNIT | DESCRIPTION
+Vomit Attack - Flees When Allies Perish
+@@ 4992 | translate | UNITS/MONSTERS/TROLL/BOSS_GOBLIN_MINES.DAT | UNIT | DESCRIPTION
+Mine Foreman - Ice Wave Attack - Smash Attack
+@@ 4993 | translate | UNITS/MONSTERS/TROLL/BOSS_MAP_TROLL.DAT | UNIT | DESCRIPTION
+Boulder Smash - Axe Pull - Leap Attack - Walls Victims
+@@ 4994 | translate | UNITS/MONSTERS/TROLL/SWAMP_TROLL.DAT | UNIT | DESCRIPTION
+Boulder Smash - Axe Pull - Leap Attack - Cannot Be Interrupted
+@@ 4995 | translate | UNITS/MONSTERS/TURRETS/DWARF_TURRET_HEALER.DAT | UNIT | DESCRIPTION
+Protects Steam Titan
+@@ 4996 | translate | UNITS/MONSTERS/TURRETS/DWARF_TURRET_MOBILE.DAT | UNIT | DESCRIPTION
+Machinegun Attack
+@@ 4997 | translate | UNITS/MONSTERS/TURRETS/DWARF_TURRET_MOBILEMUDDY.DAT | UNIT | DESCRIPTION
+Fires Seeking Rockets
+@@ 4998 | translate | UNITS/MONSTERS/TURRETS/DWARF_TURRET_MOBILE_BOMB.DAT | UNIT | DESCRIPTION
+Explodes at Close Proximity
+@@ 4999 | translate | UNITS/MONSTERS/TURRETS/SIEGETURRETMOBILE.DAT | UNIT | DESCRIPTION
+Invulnerable To Attack
+@@ 5000 | translate | UNITS/MONSTERS/TURRETS/VAULTLIGHTNINGTURRET_ARTIFICER.DAT | UNIT | DESCRIPTION
+Lightning Attacks
+@@ 5001 | translate | UNITS/MONSTERS/TURRETS/VAULTTURRETMOBILESPAWNER.DAT | UNIT | DESCRIPTION
+Generates Shock Copters
+@@ 5002 | translate | UNITS/MONSTERS/TUTARA/PHASEBEAST_TUTARA_BRUTE_CHAMP_NOMINIONS.DAT | UNIT | DESCRIPTION
+Dash Attack - Bolsters Nearby Tutara - Cannot be Interrupted
+@@ 5003 | translate | UNITS/MONSTERS/TUTARA/SPECTRALDRAGONKINBRUTE.DAT | UNIT | DESCRIPTION
+Dash Attack - Cannot be Interrupted
+@@ 5004 | translate | UNITS/MONSTERS/TUTARA/SPECTRALDRAGONKINMAGE.DAT | UNIT | DESCRIPTION
+Bone Spikes - Spiny Blast
+@@ 5005 | translate | UNITS/MONSTERS/TUTARA/TUTARA_CASTER.DAT | UNIT | DESCRIPTION
+Summons Tornados - Resurrects Tutara
+@@ 5006 | translate | UNITS/MONSTERS/TUTARA/TUTARA_CASTER_BOSS.DAT | UNIT | DESCRIPTION
+Fire Bolts - Fire Nova
+@@ 5007 | translate | UNITS/MONSTERS/TUTARA/TUTARA_CASTER_BOSS2.DAT | UNIT | DESCRIPTION
+Electric Wand - Prismatic Spray- Resurrects Tutara
+@@ 5008 | translate | UNITS/MONSTERS/TUTARA/TUTARA_MELEE.DAT | UNIT | DESCRIPTION
+Leap Attack - Double Slash
+@@ 5009 | translate | UNITS/MONSTERS/TUTARA/TUTARA_MELEE_HEAVY.DAT | UNIT | DESCRIPTION
+Knockback
+@@ 5010 | translate | UNITS/MONSTERS/TUTARA/TUTARA_MELEE_SHIELD.DAT | UNIT | DESCRIPTION
+Leap Attack - Shield Blocks Damage
+@@ 5011 | translate | UNITS/MONSTERS/TUTARA/TUTARA_RANGED.DAT | UNIT | DESCRIPTION
+Hurls Bolas
+@@ 5012 | translate | UNITS/MONSTERS/VARKOLYN/VARKOLYN_BRUTE_CHAMP.DAT | UNIT | DESCRIPTION
+Electric Claw Attack - Leaps Back - Charged Bolt Smash
+@@ 5013 | translate | UNITS/MONSTERS/VARKOLYN/VARKOLYN_BRUTE_SPAWNER.DAT | UNIT | DESCRIPTION
+Leaps Back
+@@ 5014 | translate | UNITS/MONSTERS/VARKOLYN/VARKOLYN_CASTER.DAT | UNIT | DESCRIPTION
+Shadow Bolts - Shadow Burst - Resurrects Varkolyn - Teleports - Slow Beam
+@@ 5015 | translate | UNITS/MONSTERS/VARKOLYN/VARKOLYN_MELEE.DAT | UNIT | DESCRIPTION
+Leaping Stab Attack - Leaps Back
+@@ 5016 | translate | UNITS/MONSTERS/VARKOLYN/VARKOLYN_MELEE_CHAMP.DAT | UNIT | DESCRIPTION
+Leaping Stab Attack
+@@ 5017 | translate | UNITS/MONSTERS/VARKOLYN/VARKOLYN_POPCORN_BOMBERS.DAT | UNIT | DESCRIPTION
+Flees When Allies Perish - Hurls Explosives - Leaps Back
+@@ 5018 | translate | UNITS/MONSTERS/VARKOLYN/VARKOLYN_POPCORN_SPAWNER.DAT | UNIT | DESCRIPTION
+Flees When Allies Perish - Leaps Back
+@@ 5019 | translate | UNITS/MONSTERS/VARKOLYN/VARK_BRUTE.DAT | UNIT | DESCRIPTION
+Knockback - Leaps Back
+@@ 5020 | translate | UNITS/MONSTERS/WARBEAST/WARBEAST_CHAMP.DAT | UNIT | DESCRIPTION
+Bite inflicts bleeding wounds
+@@ 5021 | translate | UNITS/MONSTERS/WARBEAST/WARBEAST_CHAMP.DAT | UNIT | DESCRIPTION
+Champion Beast - Inflicts Bleeding
+@@ 5022 | translate | UNITS/MONSTERS/WEREWOLF/BOSS_MAP_WEREWOLF.DAT | UNIT | DESCRIPTION
+Slash Flurry - Consumes Dead To Heal - Leap Attack - Leaps Back
+@@ 5023 | translate | UNITS/MONSTERS/WEREWOLF/WEREWOLF.DAT | UNIT | DESCRIPTION
+Leap Attack - Leaps Back - Knockback Slash
+@@ 5024 | translate | UNITS/MONSTERS/WEREWOLF/WEREWOLF2.DAT | UNIT | DESCRIPTION
+Leap Attack - Slash Flurry - Leaps Back - Hurls Boulders
+@@ 5025 | translate | UNITS/MONSTERS/WEREWOLF/WEREWOLF3.DAT | UNIT | DESCRIPTION
+Rock Throw - Leap Attack - Leaps Back - Slash Flurry
+@@ 5026 | translate | UNITS/MONSTERS/WEREWOLF/WEREWOLF_CELLAR_CHAMPION.DAT | UNIT | DESCRIPTION
+Leap Attack - Leaps Back - Knockback Slash - Hurls Boulders
+@@ 5027 | translate | UNITS/MONSTERS/WEREWOLF/WEREWOLF_SPAWNER.DAT | UNIT | DESCRIPTION
+Leap Attack - Slash Flurry
+@@ 5028 | translate | UNITS/MONSTERS/WISP/ALCHEMISTSENTRY.DAT | UNIT | DESCRIPTION
+Fires Bolts of Pure Energy
+@@ 5029 | translate | UNITS/MONSTERS/WISP/ENG_COPTERBOT.DAT | UNIT | DESCRIPTION
+Slows nearby enemies
+@@ 5030 | translate | UNITS/MONSTERS/WISP/EZROCOPTER.DAT | UNIT | DESCRIPTION
+Fires Bolts of Electricity
+@@ 5031 | translate | UNITS/MONSTERS/WISP/GOLD_WISP.DAT | UNIT | DESCRIPTION
+Turns to gold when touched.
+@@ 5032 | translate | UNITS/MONSTERS/WISP/MANAWISP.DAT | UNIT | DESCRIPTION
+Fires Seeking Energy Projectiles
+@@ 5033 | translate | UNITS/MONSTERS/WISP/WISP.DAT | UNIT | DESCRIPTION
+Fires Rebounding Energy Projectiles
+@@ 5034 | translate | UNITS/MONSTERS/WITCH/WITCH.DAT | UNIT | DESCRIPTION
+Summons Fetishes - Bat Swarm Attack - Teleports
+@@ 5035 | translate | UNITS/MONSTERS/WITCH/WITCH_CACKLESPIT.DAT | UNIT | DESCRIPTION
+Summons Fetishes - Bat Swarm Attack - Teleports - Resurrects Golem
+@@ 5036 | translate | UNITS/MONSTERS/WITCHGOLEM/BOSS_WITCHGOLEM.DAT | UNIT | DESCRIPTION
+Cacklespit Is Protected While Animated - Smash Attacks
+@@ 5037 | translate | UNITS/MONSTERS/WOLF/ICEWOLF.DAT | UNIT | DESCRIPTION
+Bite Inflicts Bleeding Wounds
+@@ 5038 | translate | UNITS/MONSTERS/WOLF/WOLFCORPSEFIRE.DAT | UNIT | DESCRIPTION
+Corpsefire Phase - Fast Attack
+@@ 5039 | translate | UNITS/MONSTERS/WOLF/WOLF_SICK.DAT | UNIT | DESCRIPTION
+Poisonous Bite
+@@ 5040 | translate | UNITS/MONSTERS/WOLF/WOLF_WEREWOLF.DAT | UNIT | DESCRIPTION
+Transforms Into Corpsefire Werewolf
+@@ 5041 | translate | UNITS/MONSTERS/WOOD_WRAITH/WOOD_WRAITH.DAT | UNIT | DESCRIPTION
+Thorn Spray
+@@ 5042 | translate | UNITS/MONSTERS/WOOD_WRAITH/WOOD_WRAITH_LARGE.DAT | UNIT | DESCRIPTION
+Root Attack - Grows Wood Wraiths
+@@ 5043 | translate | UNITS/MONSTERS/YAKOTAUR/BOSS_YAKOTAUR.DAT | UNIT | DESCRIPTION
+Elite Beast - Dash Attack - Stomp Attack - Ice Shards
+@@ 5044 | translate | UNITS/MONSTERS/YAKOTAUR/YAKOTAUR.DAT | UNIT | DESCRIPTION
+Dash Attack - Stomp Attack
+@@ 5045 | translate | UNITS/MONSTERS/YAKOTAUR/YAKOTAURCHAMP.DAT | UNIT | DESCRIPTION
+Champion Beast - Dash Attack - Stomp Attack
+@@ 5046 | translate | UNITS/MONSTERS/ZOMBIE/BOSS_MAP_ANCIENT_ZOMBIE.DAT | UNIT | DESCRIPTION
+Ground Rip - Smash Attacks - Stomp Knockback
+@@ 5047 | translate | UNITS/MONSTERS/ZOMBIE/DESERTZOMBIE.DAT | UNIT | DESCRIPTION
+Undead - Cannot Be Interrupted
+@@ 5048 | translate | UNITS/MONSTERS/ZOMBIE/EZRO_ZOMBIE.DAT | UNIT | DESCRIPTION
+Resists Interrupts
+@@ 5049 | translate | UNITS/MONSTERS/ZOMBIE/EZRO_ZOMBIE_HEADLESS.DAT | UNIT | DESCRIPTION
+Immobilizing Breath
+@@ 5050 | translate | UNITS/MONSTERS/ZOMBIE/EZRO_ZOMBIE_LASHER.DAT | UNIT | DESCRIPTION
+Lash Attack
+@@ 5051 | translate | UNITS/MONSTERS/ZOMBIE/EZRO_ZOMBIE_MANA.DAT | UNIT | DESCRIPTION
+Mana Vortex
+@@ 5052 | translate | UNITS/MONSTERS/ZOMBIE/GASZOMBIE.DAT | UNIT | DESCRIPTION
+Releases Poison Gas When Killed
+@@ 5053 | translate | UNITS/MONSTERS/ZOMBIE/ZOMBIECHAMPEASY.DAT | UNIT | DESCRIPTION
+Champion Undead - Resists Poison
+@@ 5054 | translate | UNITS/MONSTERS/ZOMBIE/ZOMBIECHAMPION2.DAT | UNIT | DESCRIPTION
+Ice Attacks - Ice Resistance
+@@ 5055 | translate | UNITS/MONSTERS/ZOMBIE/ZOMBIEPALE2.DAT | UNIT | DESCRIPTION
+Steals Mana - Cannot Be Interrupted
+@@ 5056 | translate | UNITS/MONSTERS/ZOMBIE/ZOMBIE_A1QUEST.DAT | UNIT | DESCRIPTION
+Loves His Stuffy
+@@ 5057 | translate | UNITS/MONSTERS/ZOMBIE/ZOMBIE_ANCIENT.DAT | UNIT | DESCRIPTION
+Smash Attacks - Stomp Knockback
+@@ 5058 | translate | UNITS/MONSTERS/ZOMBIE/ZOMBIE_BLOODSPAWNER.DAT | UNIT | DESCRIPTION
+Undead - Speed Increases When Flesh Is Shed
+@@ 5059 | translate | UNITS/MONSTERS/ZOMBIE/ZOMBIE_FLESHEATER_SINGLE.DAT | UNIT | DESCRIPTION
+Undead - Resists Poison
+@@ 5060 | translate | UNITS/MONSTERS/ZOMBIE/ZOMBIE_SWAMP_EXPLODE.DAT | UNIT | DESCRIPTION
+Explodes When Near
+@@ 5061 | translate | UNITS/PLAYERS/ARBITER/HUM_F.DAT | UNIT | DESCRIPTION
+Trained in the arcane arts, Embermages employ a variety of elemental spells to deadly effect.
+@@ 5062 | translate | UNITS/PLAYERS/BERSERKER/HUM_F.DAT | UNIT | DESCRIPTION
+Brutal and swift, Berserkers call upon powerful beast magic to augment their deadly combat skills.
+@@ 5063 | translate | UNITS/PLAYERS/ENGINEER/HUM_F.DAT | UNIT | DESCRIPTION
+Equipped with Ember-powered weapons and armor, Engineers keep the frontier in working order.
+@@ 5064 | translate | UNITS/PLAYERS/WANDERER/HUM_F.DAT | UNIT | DESCRIPTION
+Versed in arcane arts and ancient pacts, Outlanders wield guns and magic with equal skill.

@@ -1,0 +1,3348 @@
+{
+ "batch": "b10_skills_other",
+ "count": 557,
+ "items": [
+  {
+   "id": 3510,
+   "mode": "translate",
+   "ctx": "SKILLS/ALCHEMIST/EMBERBEAM/EMBERBEAM.DAT | SKILL | DESCRIPTION",
+   "en": "You pierce your foes with a shaft of blistering energy."
+  },
+  {
+   "id": 3511,
+   "mode": "translate",
+   "ctx": "SKILLS/ALCHEMIST/EMBERFIREBALL/EMBERFIREBALL.DAT | #1c7a1db5 | DESCRIPTION",
+   "en": "Three bolts of Ember energy seek out their target"
+  },
+  {
+   "id": 3512,
+   "mode": "translate",
+   "ctx": "SKILLS/ALCHEMIST/EMBERFIREBALL/EMBERFIREBALL.DAT | #1c7a1db9 | DESCRIPTION",
+   "en": "Four bolts of Ember energy seek out their target"
+  },
+  {
+   "id": 3513,
+   "mode": "translate",
+   "ctx": "SKILLS/ALCHEMIST/EMBERFIREBALL/EMBERFIREBALL.DAT | SKILL | DESCRIPTION",
+   "en": "You unleash twin bolts of Ember energy that seek your enemies."
+  },
+  {
+   "id": 3514,
+   "mode": "translate",
+   "ctx": "SKILLS/ALCHEMIST/EMBERLIGHTNING/EMBERLIGHTNING.DAT | SKILL | DESCRIPTION",
+   "en": "You blast your foes with a bolt of Ember energy."
+  },
+  {
+   "id": 3515,
+   "mode": "translate",
+   "ctx": "SKILLS/ALCHEMIST/EMBERPHASE/EMBERPHASE.DAT | SKILL | DESCRIPTION",
+   "en": "You vanish from one location and instantly reappear in another, dealing damage in both places."
+  },
+  {
+   "id": 3516,
+   "mode": "translate",
+   "ctx": "SKILLS/ALCHEMIST/EMBERSENTRY/EMBERSENTRY.DAT | SKILL | DESCRIPTION",
+   "en": "You summon a sentry crystal, which blasts nearby enemies with a beam of Ember energy."
+  },
+  {
+   "id": 3517,
+   "mode": "translate",
+   "ctx": "SKILLS/ALCHEMIST/EMBERSHIELD/EMBERSHIELD.DAT | SKILL | DESCRIPTION",
+   "en": "You cloak yourself in Ember Energy, absorbing physical damage."
+  },
+  {
+   "id": 3518,
+   "mode": "translate",
+   "ctx": "SKILLS/ALCHEMIST/EMBERSTRIKE/EMBERSTRIKE.DAT | SKILL | DESCRIPTION",
+   "en": "You call forth a targeted bolt of burning energy from the sky."
+  },
+  {
+   "id": 3519,
+   "mode": "translate",
+   "ctx": "SKILLS/ALCHEMIST/EXPLODEPOTION/EXPLODEPOTIONMISSILE.DAT | SKILL | DESCRIPTION",
+   "en": "You hurl an icy crystal that detonates on contact, freezing nearby foes."
+  },
+  {
+   "id": 3520,
+   "mode": "translate",
+   "ctx": "SKILLS/ALCHEMIST/FLAMEPOTION/FLAMEPOTIONMISSILE.DAT | SKILL | DESCRIPTION",
+   "en": "You hurl a fiery crystal, setting your foes aflame."
+  },
+  {
+   "id": 3521,
+   "mode": "translate",
+   "ctx": "SKILLS/ALCHEMIST/FLAMEWAVE/FLAMEWAVE.DAT | SKILL | DESCRIPTION",
+   "en": "You summon a wave of energy that damages all foes in its path."
+  },
+  {
+   "id": 3522,
+   "mode": "translate",
+   "ctx": "SKILLS/ALCHEMIST/FRAILTY/FRAILTY.DAT | SKILL | DESCRIPTION",
+   "en": "You enfeeble nearby enemies, reducing their armor and elemental resistances, and slowing their attacks."
+  },
+  {
+   "id": 3523,
+   "mode": "translate",
+   "ctx": "SKILLS/ALCHEMIST/IMPSUMMON/SUMMONIMP.DAT | #1c7a1db3 | DESCRIPTION",
+   "en": "Summons a maximum of 2 Nether Imps from the dormant energies of corpses"
+  },
+  {
+   "id": 3524,
+   "mode": "translate",
+   "ctx": "SKILLS/ALCHEMIST/IMPSUMMON/SUMMONIMP.DAT | #1c7a1db5 | DESCRIPTION",
+   "en": "Summons a maximum of 3 Nether Imps from the dormant energies of corpses"
+  },
+  {
+   "id": 3525,
+   "mode": "translate",
+   "ctx": "SKILLS/ALCHEMIST/IMPSUMMON/SUMMONIMP.DAT | #1c7a1db7 | DESCRIPTION",
+   "en": "Summons a maximum of 4 Nether Imps from the dormant energies of corpses"
+  },
+  {
+   "id": 3526,
+   "mode": "translate",
+   "ctx": "SKILLS/ALCHEMIST/IMPSUMMON/SUMMONIMP.DAT | #1c7a1db9 | DESCRIPTION",
+   "en": "Summons a maximum of 5 Nether Imps from the dormant energies of corpses"
+  },
+  {
+   "id": 3527,
+   "mode": "translate",
+   "ctx": "SKILLS/ALCHEMIST/IMPSUMMON/SUMMONIMP.DAT | #8f43b63b | DESCRIPTION",
+   "en": "Summons a maximum of 6 Nether Imps from the dormant energies of corpses"
+  },
+  {
+   "id": 3528,
+   "mode": "translate",
+   "ctx": "SKILLS/ALCHEMIST/IMPSUMMON/SUMMONIMP.DAT | SKILL | DESCRIPTION",
+   "en": "You summon a single Nether Imp from the dormant energies of nearby corpses."
+  },
+  {
+   "id": 3529,
+   "mode": "translate",
+   "ctx": "SKILLS/ALCHEMIST/PETENRAGE/PETENRAGE.DAT | SKILL | DESCRIPTION",
+   "en": "You fill your minons with rage, improving their damage and attack speeds."
+  },
+  {
+   "id": 3530,
+   "mode": "translate",
+   "ctx": "SKILLS/ALCHEMIST/PETREFLECT/PETREFLECT.DAT | SKILL | DESCRIPTION",
+   "en": "You imbue your minions with crackling energy, reflecting the damage foes inflict on them."
+  },
+  {
+   "id": 3531,
+   "mode": "translate",
+   "ctx": "SKILLS/ALCHEMIST/SHOCK/SHOCK.DAT | SKILL | DESCRIPTION",
+   "en": "You overload your gauntlet and deliver a devastating charge to a single target. Other foes caught in the blast suffer lesser damage."
+  },
+  {
+   "id": 3532,
+   "mode": "translate",
+   "ctx": "SKILLS/ALCHEMIST/SUMMONGOLEM/SUMMONBEAMGOLEM.DAT | #1c7a1db2 | DESCRIPTION",
+   "en": "Golem gets upgraded damage, critical hit, and relfects a small static charge on attackers "
+  },
+  {
+   "id": 3533,
+   "mode": "translate",
+   "ctx": "SKILLS/ALCHEMIST/SUMMONGOLEM/SUMMONBEAMGOLEM.DAT | #1c7a1db3 | DESCRIPTION",
+   "en": "Golem gets upgraded damage, critical hit, and relfects a small static charge on attackers"
+  },
+  {
+   "id": 3534,
+   "mode": "translate",
+   "ctx": "SKILLS/ALCHEMIST/SUMMONGOLEM/SUMMONBEAMGOLEM.DAT | #8f43b63b | DESCRIPTION",
+   "en": "The Golem's ultimate upgrade includes a multi-element beam attack"
+  },
+  {
+   "id": 3535,
+   "mode": "translate",
+   "ctx": "SKILLS/ALCHEMIST/SUMMONGOLEM/SUMMONBEAMGOLEM.DAT | SKILL | DESCRIPTION",
+   "en": "You summon a Beam Golem, which blasts your foes with beams of electricity."
+  },
+  {
+   "id": 3536,
+   "mode": "translate",
+   "ctx": "SKILLS/ALCHEMIST/SUMMONGOLEM/SUMMONGOLEM.DAT | #1c7a1db2 | DESCRIPTION",
+   "en": "Golem upgrade has further increased damage, armor and health"
+  },
+  {
+   "id": 3537,
+   "mode": "translate",
+   "ctx": "SKILLS/ALCHEMIST/SUMMONGOLEM/SUMMONGOLEM.DAT | #1c7a1db3 | DESCRIPTION",
+   "en": "Golem upgrade has increased damage, armor and health"
+  },
+  {
+   "id": 3538,
+   "mode": "translate",
+   "ctx": "SKILLS/ALCHEMIST/SUMMONGOLEM/SUMMONGOLEM.DAT | #1c7a1db5 | DESCRIPTION",
+   "en": "Golem upgrade delivers new Smash Attack"
+  },
+  {
+   "id": 3539,
+   "mode": "translate",
+   "ctx": "SKILLS/ALCHEMIST/SUMMONGOLEM/SUMMONGOLEM.DAT | #1c7a1db6 | DESCRIPTION",
+   "en": "Golem upgrade delivers new Vortex Attack"
+  },
+  {
+   "id": 3540,
+   "mode": "translate",
+   "ctx": "SKILLS/ALCHEMIST/SUMMONGOLEM/SUMMONGOLEM.DAT | #1c7a1db8 | DESCRIPTION",
+   "en": "Golem upgrade has further increased damage, resistances and health"
+  },
+  {
+   "id": 3541,
+   "mode": "translate",
+   "ctx": "SKILLS/ALCHEMIST/SUMMONGOLEM/SUMMONGOLEM.DAT | #1c7a1db9 | DESCRIPTION",
+   "en": "Golem upgrade has increased damage, resistances and health"
+  },
+  {
+   "id": 3542,
+   "mode": "translate",
+   "ctx": "SKILLS/ALCHEMIST/SUMMONGOLEM/SUMMONGOLEM.DAT | #8f43b63b | DESCRIPTION",
+   "en": "Golem recieves ultimate upgrade"
+  },
+  {
+   "id": 3543,
+   "mode": "translate",
+   "ctx": "SKILLS/ALCHEMIST/SUMMONGOLEM/SUMMONGOLEM.DAT | SKILL | DESCRIPTION",
+   "en": "You summon an Alchemical Golem to attack your foes."
+  },
+  {
+   "id": 3544,
+   "mode": "translate",
+   "ctx": "SKILLS/ALCHEMIST/TERROR/TERROR.DAT | SKILL | DESCRIPTION",
+   "en": "You fill nearby enemies with terror, and send them fleeing."
+  },
+  {
+   "id": 3545,
+   "mode": "translate",
+   "ctx": "SKILLS/ALCHEMIST/WEAPONENCHANT/WEAPONENCHANT.DAT | SKILL | DESCRIPTION",
+   "en": "You imbue your weapons with Ember energy, increasing their damage."
+  },
+  {
+   "id": 3546,
+   "mode": "translate",
+   "ctx": "SKILLS/ARBITER/ARCBEAM/ARCBEAM.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "You pierce your foes with a channeled beam of energy from your weapons. Destroyed enemies split the beam and strike nearby targets as a secondary effect."
+  },
+  {
+   "id": 3547,
+   "mode": "translate",
+   "ctx": "SKILLS/ARBITER/ARCBEAM/ARCBEAM.DAT | SKILL | REQUIREMENT_DESCRIPTION",
+   "en": "Requires a Staff or Wand"
+  },
+  {
+   "id": 3548,
+   "mode": "translate",
+   "ctx": "SKILLS/ARBITER/ARCBEAM/ARCBEAM.DAT | SKILL | TIER1_DESCRIPTION",
+   "en": "The beam can split to new targets up to 3 times"
+  },
+  {
+   "id": 3549,
+   "mode": "translate",
+   "ctx": "SKILLS/ARBITER/ARCBEAM/ARCBEAM.DAT | SKILL | TIER2_DESCRIPTION",
+   "en": "The beam can split to new targets up to 4 times"
+  },
+  {
+   "id": 3550,
+   "mode": "translate",
+   "ctx": "SKILLS/ARBITER/ARCBEAM/ARCBEAM.DAT | SKILL | TIER3_DESCRIPTION",
+   "en": "The beam can split to new targets up to 5 times"
+  },
+  {
+   "id": 3551,
+   "mode": "translate",
+   "ctx": "SKILLS/ARBITER/AVATAR/AVATAR.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "Enter an enlightened state"
+  },
+  {
+   "id": 3552,
+   "mode": "translate",
+   "ctx": "SKILLS/ARBITER/BALLLIGHTNING/BALLLIGHTNING.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "You fire a ball of condensed electrical energy, blasting nearby foes."
+  },
+  {
+   "id": 3553,
+   "mode": "translate",
+   "ctx": "SKILLS/ARBITER/BLAZINGPILLAR/BLAZINGPILLAR.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "You create 4 giant pillars of intense flame that seek out and immolate nearby foes. Blazing Pillar is good at building |c00ff9933Charge|u."
+  },
+  {
+   "id": 3554,
+   "mode": "translate",
+   "ctx": "SKILLS/ARBITER/BLAZINGPILLAR/BLAZINGPILLAR.DAT | SKILL | TIER1_DESCRIPTION",
+   "en": "5 pillars of flame are created"
+  },
+  {
+   "id": 3555,
+   "mode": "translate",
+   "ctx": "SKILLS/ARBITER/BLAZINGPILLAR/BLAZINGPILLAR.DAT | SKILL | TIER2_DESCRIPTION",
+   "en": "6 pillars of flame are created"
+  },
+  {
+   "id": 3556,
+   "mode": "translate",
+   "ctx": "SKILLS/ARBITER/BLAZINGPILLAR/BLAZINGPILLAR.DAT | SKILL | TIER3_DESCRIPTION",
+   "en": "7 pillars of flame are created"
+  },
+  {
+   "id": 3557,
+   "mode": "translate",
+   "ctx": "SKILLS/ARBITER/DESTABILIZE/DESTABILIZE.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "You draw energy from your enemies, potentially creating temporary ley-lines.  Channeled."
+  },
+  {
+   "id": 3558,
+   "mode": "translate",
+   "ctx": "SKILLS/ARBITER/ELEMENTALBOON/ELEMENTALBOON.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "You imbue yourself with a bolstering aura which increases your elemental damages and resistances. Boon's benefits are also applied to any allies within 12 meters."
+  },
+  {
+   "id": 3559,
+   "mode": "translate",
+   "ctx": "SKILLS/ARBITER/ELEMENTALBOON/ELEMENTALBOON.DAT | SKILL | TIER1_DESCRIPTION",
+   "en": "Gains resistance to slowing and immobilization effects"
+  },
+  {
+   "id": 3560,
+   "mode": "translate",
+   "ctx": "SKILLS/ARBITER/ELEMENTALBOON/ELEMENTALBOON.DAT | SKILL | TIER2_DESCRIPTION",
+   "en": "Gains mana recharge"
+  },
+  {
+   "id": 3561,
+   "mode": "translate",
+   "ctx": "SKILLS/ARBITER/ELEMENTALBOON/ELEMENTALBOON.DAT | SKILL | TIER3_DESCRIPTION",
+   "en": "Faster cast and less mana"
+  },
+  {
+   "id": 3562,
+   "mode": "translate",
+   "ctx": "SKILLS/ARBITER/FIREBOMB/FIREBOMB.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "You hurl three gouts of flame that ignite the ground for 3 seconds and sometimes cause foes to stumble in panic as they burn. Firebombs gain no |c00ff9933Charge|u."
+  },
+  {
+   "id": 3563,
+   "mode": "translate",
+   "ctx": "SKILLS/ARBITER/FIREBOMB/FIREBOMB.DAT | SKILL | TIER1_DESCRIPTION",
+   "en": "Pools of flame last 4 seconds. Cooldown time reduced to 1.6 seconds."
+  },
+  {
+   "id": 3564,
+   "mode": "translate",
+   "ctx": "SKILLS/ARBITER/FIREBOMB/FIREBOMB.DAT | SKILL | TIER2_DESCRIPTION",
+   "en": "Pools of flame last 5 seconds. Cooldown time reduced to 1.2 seconds."
+  },
+  {
+   "id": 3565,
+   "mode": "translate",
+   "ctx": "SKILLS/ARBITER/FIREBOMB/FIREBOMB.DAT | SKILL | TIER3_DESCRIPTION",
+   "en": "Pools of flame last 6 seconds. Cooldown time reduced to .8 seconds."
+  },
+  {
+   "id": 3566,
+   "mode": "translate",
+   "ctx": "SKILLS/ARBITER/FIRESTORM/FIRESTORM.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "You call down burning cinders from the sky over a 15 meter radius, setting foes alight and increasing their susceptability to fire damage. Firestorm gains no |c00ff9933Charge|u."
+  },
+  {
+   "id": 3567,
+   "mode": "translate",
+   "ctx": "SKILLS/ARBITER/FIRESTORM/FIRESTORM.DAT | SKILL | TIER1_DESCRIPTION",
+   "en": "Enemies do 30% less fire damage when affected"
+  },
+  {
+   "id": 3568,
+   "mode": "translate",
+   "ctx": "SKILLS/ARBITER/FIRESTORM/FIRESTORM.DAT | SKILL | TIER2_DESCRIPTION",
+   "en": "Targets killed emit burning splinters"
+  },
+  {
+   "id": 3569,
+   "mode": "translate",
+   "ctx": "SKILLS/ARBITER/FIRESTORM/FIRESTORM.DAT | SKILL | TIER3_DESCRIPTION",
+   "en": "Burning splinter range doubled"
+  },
+  {
+   "id": 3570,
+   "mode": "translate",
+   "ctx": "SKILLS/ARBITER/FLAMEAURA/FLAMEAURA.DAT | #1c7a1db0 | DESCRIPTION",
+   "en": "Lasts 30 seconds"
+  },
+  {
+   "id": 3571,
+   "mode": "translate",
+   "ctx": "SKILLS/ARBITER/FLAMEAURA/FLAMEAURA.DAT | #1c7a1db2 | DESCRIPTION",
+   "en": "Lasts 34 seconds"
+  },
+  {
+   "id": 3572,
+   "mode": "translate",
+   "ctx": "SKILLS/ARBITER/FLAMEAURA/FLAMEAURA.DAT | #1c7a1db3 | DESCRIPTION",
+   "en": "Lasts 32 seconds"
+  },
+  {
+   "id": 3573,
+   "mode": "translate",
+   "ctx": "SKILLS/ARBITER/FLAMEAURA/FLAMEAURA.DAT | #1c7a1db4 | DESCRIPTION",
+   "en": "Lasts 38 seconds"
+  },
+  {
+   "id": 3574,
+   "mode": "translate",
+   "ctx": "SKILLS/ARBITER/FLAMEAURA/FLAMEAURA.DAT | #1c7a1db5 | DESCRIPTION",
+   "en": "Lasts 36 seconds"
+  },
+  {
+   "id": 3575,
+   "mode": "translate",
+   "ctx": "SKILLS/ARBITER/FLAMEAURA/FLAMEAURA.DAT | #1c7a1db6 | DESCRIPTION",
+   "en": "Lasts 42 seconds"
+  },
+  {
+   "id": 3576,
+   "mode": "translate",
+   "ctx": "SKILLS/ARBITER/FLAMEAURA/FLAMEAURA.DAT | #1c7a1db7 | DESCRIPTION",
+   "en": "Lasts 40 seconds"
+  },
+  {
+   "id": 3577,
+   "mode": "translate",
+   "ctx": "SKILLS/ARBITER/FLAMEAURA/FLAMEAURA.DAT | #1c7a1db8 | DESCRIPTION",
+   "en": "Lasts 46 seconds"
+  },
+  {
+   "id": 3578,
+   "mode": "translate",
+   "ctx": "SKILLS/ARBITER/FLAMEAURA/FLAMEAURA.DAT | #1c7a1db9 | DESCRIPTION",
+   "en": "Lasts 44 seconds"
+  },
+  {
+   "id": 3579,
+   "mode": "translate",
+   "ctx": "SKILLS/ARBITER/FLAMEAURA/FLAMEAURA.DAT | #8f43b638 | DESCRIPTION",
+   "en": "Lasts 54 seconds"
+  },
+  {
+   "id": 3580,
+   "mode": "translate",
+   "ctx": "SKILLS/ARBITER/FLAMEAURA/FLAMEAURA.DAT | #8f43b639 | DESCRIPTION",
+   "en": "Lasts 52 seconds"
+  },
+  {
+   "id": 3581,
+   "mode": "translate",
+   "ctx": "SKILLS/ARBITER/FLAMEAURA/FLAMEAURA.DAT | #8f43b63a | DESCRIPTION",
+   "en": "Lasts 50 seconds"
+  },
+  {
+   "id": 3582,
+   "mode": "translate",
+   "ctx": "SKILLS/ARBITER/FLAMEAURA/FLAMEAURA.DAT | #8f43b63b | DESCRIPTION",
+   "en": "Lasts 48 seconds"
+  },
+  {
+   "id": 3583,
+   "mode": "translate",
+   "ctx": "SKILLS/ARBITER/FLAMEAURA/FLAMEAURA.DAT | #8f43b63e | DESCRIPTION",
+   "en": "Lasts 58 seconds"
+  },
+  {
+   "id": 3584,
+   "mode": "translate",
+   "ctx": "SKILLS/ARBITER/FLAMEAURA/FLAMEAURA.DAT | #8f43b63f | DESCRIPTION",
+   "en": "Lasts 56 seconds"
+  },
+  {
+   "id": 3585,
+   "mode": "translate",
+   "ctx": "SKILLS/ARBITER/FLAMEAURA/FLAMEAURA.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "A vortex of flame surrounds you, damaging foes within a 3 meter radius."
+  },
+  {
+   "id": 3586,
+   "mode": "translate",
+   "ctx": "SKILLS/ARBITER/FLAMEAURA/FLAMEAURA.DAT | SKILL | TIER1_DESCRIPTION",
+   "en": "The aura absorbs 5% of all incoming damage"
+  },
+  {
+   "id": 3587,
+   "mode": "translate",
+   "ctx": "SKILLS/ARBITER/FLAMEAURA/FLAMEAURA.DAT | SKILL | TIER2_DESCRIPTION",
+   "en": "The aura absorbs 10% of all incoming damage"
+  },
+  {
+   "id": 3588,
+   "mode": "translate",
+   "ctx": "SKILLS/ARBITER/FLAMEAURA/FLAMEAURA.DAT | SKILL | TIER3_DESCRIPTION",
+   "en": "The aura absorbs 15% of all incoming damage"
+  },
+  {
+   "id": 3589,
+   "mode": "translate",
+   "ctx": "SKILLS/ARBITER/FROSTBITE/FROSTBITE.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "Flash freese the air in a given area to immobilize your enemies!"
+  },
+  {
+   "id": 3590,
+   "mode": "translate",
+   "ctx": "SKILLS/ARBITER/FROZEN SOUL/FROZEN SOUL.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "When you kill an enemy, you have chance to freeze up to 4 additional enemies within a 7 meter radius."
+  },
+  {
+   "id": 3591,
+   "mode": "translate",
+   "ctx": "SKILLS/ARBITER/HAILSTONES/HAILSTONES.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "You call down shards of ice from the sky, pummeling foes within a 15 meter radius. Hailstorm gains no |c00ff9933Charge|u."
+  },
+  {
+   "id": 3592,
+   "mode": "translate",
+   "ctx": "SKILLS/ARBITER/HAILSTONES/HAILSTONES.DAT | SKILL | TIER1_DESCRIPTION",
+   "en": "Targets become 20% more susceptible to Ice and Electric damage for 6 seconds"
+  },
+  {
+   "id": 3593,
+   "mode": "translate",
+   "ctx": "SKILLS/ARBITER/HAILSTONES/HAILSTONES.DAT | SKILL | TIER2_DESCRIPTION",
+   "en": "Targets become 40% more susceptible to Ice and Electric damage for 6 seconds"
+  },
+  {
+   "id": 3594,
+   "mode": "translate",
+   "ctx": "SKILLS/ARBITER/HAILSTONES/HAILSTONES.DAT | SKILL | TIER3_DESCRIPTION",
+   "en": "Targets become 60% more susceptible to Ice and Electric damage for 6 seconds"
+  },
+  {
+   "id": 3595,
+   "mode": "translate",
+   "ctx": "SKILLS/ARBITER/ICEBLAST/ICEBLAST.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "You unleash a hail of 5 ricocheting icy bolts to slow and immobilize your foes. "
+  },
+  {
+   "id": 3596,
+   "mode": "translate",
+   "ctx": "SKILLS/ARBITER/ICEBLAST/ICEBLAST.DAT | SKILL | TIER1_DESCRIPTION",
+   "en": "Target's Damage is reduced by 20% for 6 seconds"
+  },
+  {
+   "id": 3597,
+   "mode": "translate",
+   "ctx": "SKILLS/ARBITER/ICEBLAST/ICEBLAST.DAT | SKILL | TIER2_DESCRIPTION",
+   "en": "Chance to Immobilize increased to 75% over 4 seconds"
+  },
+  {
+   "id": 3598,
+   "mode": "translate",
+   "ctx": "SKILLS/ARBITER/ICEBLAST/ICEBLAST.DAT | SKILL | TIER3_DESCRIPTION",
+   "en": "Increases to 7 bolts over a wider arc"
+  },
+  {
+   "id": 3599,
+   "mode": "translate",
+   "ctx": "SKILLS/ARBITER/ICEELEMENTAL/ICE_ELEMENTAL.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "You summon an astral clone of a fellow Embermage, who joins you in battle with powerful spells."
+  },
+  {
+   "id": 3600,
+   "mode": "translate",
+   "ctx": "SKILLS/ARBITER/ICEELEMENTAL/ICE_ELEMENTAL.DAT | SKILL | TIER1_DESCRIPTION",
+   "en": "The Astral Ally lasts for 30 seconds"
+  },
+  {
+   "id": 3601,
+   "mode": "translate",
+   "ctx": "SKILLS/ARBITER/ICEELEMENTAL/ICE_ELEMENTAL.DAT | SKILL | TIER2_DESCRIPTION",
+   "en": "The Astral Ally lasts for 40 seconds"
+  },
+  {
+   "id": 3602,
+   "mode": "translate",
+   "ctx": "SKILLS/ARBITER/ICEELEMENTAL/ICE_ELEMENTAL.DAT | SKILL | TIER3_DESCRIPTION",
+   "en": "The Astral Ally lasts for 50 seconds"
+  },
+  {
+   "id": 3603,
+   "mode": "translate",
+   "ctx": "SKILLS/ARBITER/ICEPRISON/ICEPRISON.DAT | #1c7a1db0 | DESCRIPTION",
+   "en": "Pillars last for 8 seconds"
+  },
+  {
+   "id": 3604,
+   "mode": "translate",
+   "ctx": "SKILLS/ARBITER/ICEPRISON/ICEPRISON.DAT | #1c7a1db2 | DESCRIPTION",
+   "en": "Pillars last for 10 seconds"
+  },
+  {
+   "id": 3605,
+   "mode": "translate",
+   "ctx": "SKILLS/ARBITER/ICEPRISON/ICEPRISON.DAT | #1c7a1db3 | DESCRIPTION",
+   "en": "Pillars last for 9 seconds"
+  },
+  {
+   "id": 3606,
+   "mode": "translate",
+   "ctx": "SKILLS/ARBITER/ICEPRISON/ICEPRISON.DAT | #1c7a1db4 | DESCRIPTION",
+   "en": "Pillars last for 12 seconds"
+  },
+  {
+   "id": 3607,
+   "mode": "translate",
+   "ctx": "SKILLS/ARBITER/ICEPRISON/ICEPRISON.DAT | #1c7a1db5 | DESCRIPTION",
+   "en": "Pillars last for 11 seconds"
+  },
+  {
+   "id": 3608,
+   "mode": "translate",
+   "ctx": "SKILLS/ARBITER/ICEPRISON/ICEPRISON.DAT | #1c7a1db6 | DESCRIPTION",
+   "en": "Pillars last for 14 seconds"
+  },
+  {
+   "id": 3609,
+   "mode": "translate",
+   "ctx": "SKILLS/ARBITER/ICEPRISON/ICEPRISON.DAT | #1c7a1db7 | DESCRIPTION",
+   "en": "Pillars last for 13 seconds"
+  },
+  {
+   "id": 3610,
+   "mode": "translate",
+   "ctx": "SKILLS/ARBITER/ICEPRISON/ICEPRISON.DAT | #1c7a1db8 | DESCRIPTION",
+   "en": "Pillars last for 16 seconds"
+  },
+  {
+   "id": 3611,
+   "mode": "translate",
+   "ctx": "SKILLS/ARBITER/ICEPRISON/ICEPRISON.DAT | #1c7a1db9 | DESCRIPTION",
+   "en": "Pillars last for 15 seconds"
+  },
+  {
+   "id": 3612,
+   "mode": "translate",
+   "ctx": "SKILLS/ARBITER/ICEPRISON/ICEPRISON.DAT | #8f43b638 | DESCRIPTION",
+   "en": "Pillars last for 20 seconds"
+  },
+  {
+   "id": 3613,
+   "mode": "translate",
+   "ctx": "SKILLS/ARBITER/ICEPRISON/ICEPRISON.DAT | #8f43b639 | DESCRIPTION",
+   "en": "Pillars last for 19 seconds"
+  },
+  {
+   "id": 3614,
+   "mode": "translate",
+   "ctx": "SKILLS/ARBITER/ICEPRISON/ICEPRISON.DAT | #8f43b63a | DESCRIPTION",
+   "en": "Pillars last for 18 seconds"
+  },
+  {
+   "id": 3615,
+   "mode": "translate",
+   "ctx": "SKILLS/ARBITER/ICEPRISON/ICEPRISON.DAT | #8f43b63b | DESCRIPTION",
+   "en": "Pillars last for 17 seconds"
+  },
+  {
+   "id": 3616,
+   "mode": "translate",
+   "ctx": "SKILLS/ARBITER/ICEPRISON/ICEPRISON.DAT | #8f43b63e | DESCRIPTION",
+   "en": "Pillars last for 22 seconds"
+  },
+  {
+   "id": 3617,
+   "mode": "translate",
+   "ctx": "SKILLS/ARBITER/ICEPRISON/ICEPRISON.DAT | #8f43b63f | DESCRIPTION",
+   "en": "Pillars last for 21 seconds"
+  },
+  {
+   "id": 3618,
+   "mode": "translate",
+   "ctx": "SKILLS/ARBITER/ICEPRISON/ICEPRISON.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "You summon pillars of ice around a target, trapping it within. You, however, can pass through the barrier. Pillars reflect damage back at foes attacking them."
+  },
+  {
+   "id": 3619,
+   "mode": "translate",
+   "ctx": "SKILLS/ARBITER/ICEPRISON/ICEPRISON.DAT | SKILL | TIER1_DESCRIPTION",
+   "en": "Ice pillars inflict damage when shattering"
+  },
+  {
+   "id": 3620,
+   "mode": "translate",
+   "ctx": "SKILLS/ARBITER/ICEPRISON/ICEPRISON.DAT | SKILL | TIER2_DESCRIPTION",
+   "en": "Foes within the prison are damaged over time"
+  },
+  {
+   "id": 3621,
+   "mode": "translate",
+   "ctx": "SKILLS/ARBITER/ICEPRISON/ICEPRISON.DAT | SKILL | TIER3_DESCRIPTION",
+   "en": "Cooldown reduced to 2 seconds."
+  },
+  {
+   "id": 3622,
+   "mode": "translate",
+   "ctx": "SKILLS/ARBITER/ICEWAVE/ICEWAVE.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "You hurl forth a wave of ice shards, impaling and freezing foes in its path."
+  },
+  {
+   "id": 3623,
+   "mode": "translate",
+   "ctx": "SKILLS/ARBITER/ICEWAVE/ICEWAVE.DAT | SKILL | TIER1_DESCRIPTION",
+   "en": "A spread of 3 frost waves are released"
+  },
+  {
+   "id": 3624,
+   "mode": "translate",
+   "ctx": "SKILLS/ARBITER/ICEWAVE/ICEWAVE.DAT | SKILL | TIER2_DESCRIPTION",
+   "en": "Frost wave speed increases"
+  },
+  {
+   "id": 3625,
+   "mode": "translate",
+   "ctx": "SKILLS/ARBITER/ICEWAVE/ICEWAVE.DAT | SKILL | TIER3_DESCRIPTION",
+   "en": "A spread of 5 frost waves are released"
+  },
+  {
+   "id": 3626,
+   "mode": "translate",
+   "ctx": "SKILLS/ARBITER/ICEWAVE/ICEWAVE_LEFFERTS.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "You hurl two long columns of icy shards, impaling and freezing foes in their path."
+  },
+  {
+   "id": 3627,
+   "mode": "translate",
+   "ctx": "SKILLS/ARBITER/LEYLINE/LEYLINEREGEN.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "Leyline mana regen buff"
+  },
+  {
+   "id": 3628,
+   "mode": "translate",
+   "ctx": "SKILLS/ARBITER/MAGMAMACE/MAGMAMACE.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "You summon an enormous mace of fire that channels the energy of your weapons, stunning foes in a 5 meter arc and setting them ablaze. Magma Mace does not build |c00ff9933Charge|u."
+  },
+  {
+   "id": 3629,
+   "mode": "translate",
+   "ctx": "SKILLS/ARBITER/MAGMAMACE/MAGMAMACE.DAT | SKILL | TIER1_DESCRIPTION",
+   "en": "Magma Mace has a 25% chance to break shields"
+  },
+  {
+   "id": 3630,
+   "mode": "translate",
+   "ctx": "SKILLS/ARBITER/MAGMAMACE/MAGMAMACE.DAT | SKILL | TIER2_DESCRIPTION",
+   "en": "Hit slows enemy attacks by 33% for 3 seconds"
+  },
+  {
+   "id": 3631,
+   "mode": "translate",
+   "ctx": "SKILLS/ARBITER/MAGMAMACE/MAGMAMACE.DAT | SKILL | TIER3_DESCRIPTION",
+   "en": "Hit slows enemy attacks by 67% for 3 seconds"
+  },
+  {
+   "id": 3632,
+   "mode": "translate",
+   "ctx": "SKILLS/ARBITER/MAGMASPEAR/MAGMASPEAR.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "You fire a channeled barrage of magma, piercing foes and setting them aflame. Range is 16 meters."
+  },
+  {
+   "id": 3633,
+   "mode": "translate",
+   "ctx": "SKILLS/ARBITER/MAGMASPEAR/MAGMASPEAR.DAT | SKILL | TIER1_DESCRIPTION",
+   "en": "Range extended to 24 meters"
+  },
+  {
+   "id": 3634,
+   "mode": "translate",
+   "ctx": "SKILLS/ARBITER/MAGMASPEAR/MAGMASPEAR.DAT | SKILL | TIER2_DESCRIPTION",
+   "en": "Burn time increased to 6 seconds"
+  },
+  {
+   "id": 3635,
+   "mode": "translate",
+   "ctx": "SKILLS/ARBITER/MAGMASPEAR/MAGMASPEAR.DAT | SKILL | TIER3_DESCRIPTION",
+   "en": "Magma Spears ricochet"
+  },
+  {
+   "id": 3636,
+   "mode": "translate",
+   "ctx": "SKILLS/ARBITER/MANAVAMP/MANAVAMP.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "Every time the Arbiter deals critical damage, the surge of elemental energy reinvigorates him."
+  },
+  {
+   "id": 3637,
+   "mode": "translate",
+   "ctx": "SKILLS/ARBITER/METEOR/AMETEOR.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "You create a concentrated sphere of heat, which suddenly expands outward in a devastating 4 meter blast."
+  },
+  {
+   "id": 3638,
+   "mode": "translate",
+   "ctx": "SKILLS/ARBITER/METEOR/AMETEOR.DAT | SKILL | TIER1_DESCRIPTION",
+   "en": "Blast radius increased to 5 meters. Increased Knockback."
+  },
+  {
+   "id": 3639,
+   "mode": "translate",
+   "ctx": "SKILLS/ARBITER/METEOR/AMETEOR.DAT | SKILL | TIER2_DESCRIPTION",
+   "en": "Blast radius increased to 6 meters. Increased Knockback."
+  },
+  {
+   "id": 3640,
+   "mode": "translate",
+   "ctx": "SKILLS/ARBITER/METEOR/AMETEOR.DAT | SKILL | TIER3_DESCRIPTION",
+   "en": "Blast radius increased to 7 meters. Increased Knockback."
+  },
+  {
+   "id": 3641,
+   "mode": "translate",
+   "ctx": "SKILLS/ARBITER/PASSIVES/CHAOSWANDPASSIVE.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "Attacks using your wand can result in bizarre, random elemental disturbances. These effects can also happen with the Magma Mace, Magma Spear, Icy Blast and Shockbolts skills."
+  },
+  {
+   "id": 3642,
+   "mode": "translate",
+   "ctx": "SKILLS/ARBITER/PASSIVES/CHAOSWANDPASSIVE.DAT | SKILL | REQUIREMENT_DESCRIPTION",
+   "en": "Requires a Wand"
+  },
+  {
+   "id": 3643,
+   "mode": "translate",
+   "ctx": "SKILLS/ARBITER/PASSIVES/CHAOTICRIFTPASSIVE.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "Your chaotic energy teleports enemies away when they strike you, with a chance of random elemental effects."
+  },
+  {
+   "id": 3644,
+   "mode": "translate",
+   "ctx": "SKILLS/ARBITER/PASSIVES/CHARGE_MASTERY_ARBITER.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "Your expertise with |c00ff9933Charge|u lets you gain it faster, and retain it longer."
+  },
+  {
+   "id": 3645,
+   "mode": "translate",
+   "ctx": "SKILLS/ARBITER/PASSIVES/ELEMENTAL_ATTUNEMENT.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "The Embermage is finely attuned to the elements, inflicting elemental effects on nearby enemies and extending the duration of all elemental effects."
+  },
+  {
+   "id": 3646,
+   "mode": "translate",
+   "ctx": "SKILLS/ARBITER/PASSIVES/FIREBRANDPASSIVE.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "When you hit a burning enemy, you do an additional burst of fire damage."
+  },
+  {
+   "id": 3647,
+   "mode": "translate",
+   "ctx": "SKILLS/ARBITER/PASSIVES/ICEBRANDPASSIVE.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "When you hit a frozen enemy, you do an additional burst of ice damage."
+  },
+  {
+   "id": 3648,
+   "mode": "translate",
+   "ctx": "SKILLS/ARBITER/PASSIVES/LIGHTNINGBRANDPASSIVE.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "When you hit a shocked enemy, you do an additional burst of lightning damage."
+  },
+  {
+   "id": 3649,
+   "mode": "translate",
+   "ctx": "SKILLS/ARBITER/PASSIVES/STAFF_MASTERY.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "Your skill with staves lowers the elemental resistances of enemies when you strike them. These effects are also applied to the Magma Mace, Magma Spear, Icy Blast and Shockbolts skills."
+  },
+  {
+   "id": 3650,
+   "mode": "translate",
+   "ctx": "SKILLS/ARBITER/PASSIVES/STAFF_MASTERY.DAT | SKILL | REQUIREMENT_DESCRIPTION",
+   "en": "Requires a staff"
+  },
+  {
+   "id": 3651,
+   "mode": "translate",
+   "ctx": "SKILLS/ARBITER/PORTAL/PORTAL.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "Nearby enemies are teleported away according to the caster's whim.  Affected enemies resist further teleportation for a short time."
+  },
+  {
+   "id": 3652,
+   "mode": "translate",
+   "ctx": "SKILLS/ARBITER/PRISMATICBOLT/PRISMATICBOLT.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "You unleash a flurry of 5 prismatic bolts that seek out nearby foes."
+  },
+  {
+   "id": 3653,
+   "mode": "translate",
+   "ctx": "SKILLS/ARBITER/PRISMATICBOLT/PRISMATICBOLT.DAT | SKILL | TIER1_DESCRIPTION",
+   "en": "Damage increased by 10%"
+  },
+  {
+   "id": 3654,
+   "mode": "translate",
+   "ctx": "SKILLS/ARBITER/PRISMATICBOLT/PRISMATICBOLT.DAT | SKILL | TIER2_DESCRIPTION",
+   "en": "Damage increased by 20%"
+  },
+  {
+   "id": 3655,
+   "mode": "translate",
+   "ctx": "SKILLS/ARBITER/PRISMATICBOLT/PRISMATICBOLT.DAT | SKILL | TIER3_DESCRIPTION",
+   "en": "Damage increased by 30%"
+  },
+  {
+   "id": 3656,
+   "mode": "translate",
+   "ctx": "SKILLS/ARBITER/REJUVENATINGKILL/REJUVENATINGKILL.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "You bind the lifeforce of all foes within 6 meters of the target. Upon their death, their life and mana are drawn to you or other players through 3 soul bolts. Stated health and mana recovery is per soul bolt."
+  },
+  {
+   "id": 3657,
+   "mode": "translate",
+   "ctx": "SKILLS/ARBITER/REJUVENATINGKILL/REJUVENATINGKILL.DAT | SKILL | TIER1_DESCRIPTION",
+   "en": "4 soul bolts are released and enemies are slowed for 2 seconds"
+  },
+  {
+   "id": 3658,
+   "mode": "translate",
+   "ctx": "SKILLS/ARBITER/REJUVENATINGKILL/REJUVENATINGKILL.DAT | SKILL | TIER2_DESCRIPTION",
+   "en": "5 soul bolts are released and casting speed is increased by 50%"
+  },
+  {
+   "id": 3659,
+   "mode": "translate",
+   "ctx": "SKILLS/ARBITER/REJUVENATINGKILL/REJUVENATINGKILL.DAT | SKILL | TIER3_DESCRIPTION",
+   "en": "6 soul bolts are released and enemies are stunned for 1 second"
+  },
+  {
+   "id": 3660,
+   "mode": "translate",
+   "ctx": "SKILLS/ARBITER/SHIELDWALL/SHIELDWALL.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "Arcane shields advance forwards, knocking back enemies.  Deals increased damage when buffed."
+  },
+  {
+   "id": 3661,
+   "mode": "translate",
+   "ctx": "SKILLS/ARBITER/SHOCK/SHOCK.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "You unleash channeled bursts of crackling energy, shocking and stunning all foes up to 8 meters away in a 75 degree angle.The energy burst continues and drains mana while the mouse button is held down."
+  },
+  {
+   "id": 3662,
+   "mode": "translate",
+   "ctx": "SKILLS/ARBITER/SHOCK/SHOCK.DAT | SKILL | TIER1_DESCRIPTION",
+   "en": "Arc widened to 105 degrees"
+  },
+  {
+   "id": 3663,
+   "mode": "translate",
+   "ctx": "SKILLS/ARBITER/SHOCK/SHOCK.DAT | SKILL | TIER2_DESCRIPTION",
+   "en": "Arc widened to 135 degrees"
+  },
+  {
+   "id": 3664,
+   "mode": "translate",
+   "ctx": "SKILLS/ARBITER/SHOCK/SHOCK.DAT | SKILL | TIER3_DESCRIPTION",
+   "en": "Arc widened to 165 degrees"
+  },
+  {
+   "id": 3665,
+   "mode": "translate",
+   "ctx": "SKILLS/ARBITER/SHOCKBOLT/SHOCKBOLT.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "You release 4 electrically charged bolts, which follow the ground and ricochet off neighboring objects"
+  },
+  {
+   "id": 3666,
+   "mode": "translate",
+   "ctx": "SKILLS/ARBITER/SHOCKBOLT/SHOCKBOLT.DAT | SKILL | TIER1_DESCRIPTION",
+   "en": "Bolts have a 10% chance to immobilize"
+  },
+  {
+   "id": 3667,
+   "mode": "translate",
+   "ctx": "SKILLS/ARBITER/SHOCKBOLT/SHOCKBOLT.DAT | SKILL | TIER2_DESCRIPTION",
+   "en": "Bolts increase in speed"
+  },
+  {
+   "id": 3668,
+   "mode": "translate",
+   "ctx": "SKILLS/ARBITER/SHOCKBOLT/SHOCKBOLT.DAT | SKILL | TIER3_DESCRIPTION",
+   "en": "Increases to 5 bolts at launch"
+  },
+  {
+   "id": 3669,
+   "mode": "translate",
+   "ctx": "SKILLS/ARBITER/SHOCKORB/SHOCKORB.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "You release a slow-moving electrical orb, which discharges energy into foes as it passes"
+  },
+  {
+   "id": 3670,
+   "mode": "translate",
+   "ctx": "SKILLS/ARBITER/SHOCKORB/SHOCKORB.DAT | SKILL | TIER1_DESCRIPTION",
+   "en": "3 Orbs are released"
+  },
+  {
+   "id": 3671,
+   "mode": "translate",
+   "ctx": "SKILLS/ARBITER/SHOCKORB/SHOCKORB.DAT | SKILL | TIER2_DESCRIPTION",
+   "en": "Orbs ricochet"
+  },
+  {
+   "id": 3672,
+   "mode": "translate",
+   "ctx": "SKILLS/ARBITER/SHOCKORB/SHOCKORB.DAT | SKILL | TIER3_DESCRIPTION",
+   "en": "Discharge range increased 50%"
+  },
+  {
+   "id": 3673,
+   "mode": "translate",
+   "ctx": "SKILLS/ARBITER/STORM/STORM.DAT | #1c7a1db0 | DESCRIPTION",
+   "en": "Storm bolts travel up to 10m"
+  },
+  {
+   "id": 3674,
+   "mode": "translate",
+   "ctx": "SKILLS/ARBITER/STORM/STORM.DAT | #1c7a1db2 | DESCRIPTION",
+   "en": "Storm bolts travel up to 12m"
+  },
+  {
+   "id": 3675,
+   "mode": "translate",
+   "ctx": "SKILLS/ARBITER/STORM/STORM.DAT | #1c7a1db3 | DESCRIPTION",
+   "en": "Storm bolts travel up to 11m"
+  },
+  {
+   "id": 3676,
+   "mode": "translate",
+   "ctx": "SKILLS/ARBITER/STORM/STORM.DAT | #1c7a1db4 | DESCRIPTION",
+   "en": "Storm bolts travel up to 14m"
+  },
+  {
+   "id": 3677,
+   "mode": "translate",
+   "ctx": "SKILLS/ARBITER/STORM/STORM.DAT | #1c7a1db5 | DESCRIPTION",
+   "en": "Storm bolts travel up to 13m"
+  },
+  {
+   "id": 3678,
+   "mode": "translate",
+   "ctx": "SKILLS/ARBITER/STORM/STORM.DAT | #1c7a1db6 | DESCRIPTION",
+   "en": "Storm bolts travel up to 16m"
+  },
+  {
+   "id": 3679,
+   "mode": "translate",
+   "ctx": "SKILLS/ARBITER/STORM/STORM.DAT | #1c7a1db7 | DESCRIPTION",
+   "en": "Storm bolts travel up to 15m"
+  },
+  {
+   "id": 3680,
+   "mode": "translate",
+   "ctx": "SKILLS/ARBITER/STORM/STORM.DAT | #1c7a1db8 | DESCRIPTION",
+   "en": "Storm bolts travel up to 18m"
+  },
+  {
+   "id": 3681,
+   "mode": "translate",
+   "ctx": "SKILLS/ARBITER/STORM/STORM.DAT | #1c7a1db9 | DESCRIPTION",
+   "en": "Storm bolts travel up to 17m"
+  },
+  {
+   "id": 3682,
+   "mode": "translate",
+   "ctx": "SKILLS/ARBITER/STORM/STORM.DAT | #8f43b638 | DESCRIPTION",
+   "en": "Storm bolts travel up to 22m"
+  },
+  {
+   "id": 3683,
+   "mode": "translate",
+   "ctx": "SKILLS/ARBITER/STORM/STORM.DAT | #8f43b639 | DESCRIPTION",
+   "en": "Storm bolts travel up to 21m"
+  },
+  {
+   "id": 3684,
+   "mode": "translate",
+   "ctx": "SKILLS/ARBITER/STORM/STORM.DAT | #8f43b63a | DESCRIPTION",
+   "en": "Storm bolts travel up to 20m"
+  },
+  {
+   "id": 3685,
+   "mode": "translate",
+   "ctx": "SKILLS/ARBITER/STORM/STORM.DAT | #8f43b63b | DESCRIPTION",
+   "en": "Storm bolts travel up to 19m"
+  },
+  {
+   "id": 3686,
+   "mode": "translate",
+   "ctx": "SKILLS/ARBITER/STORM/STORM.DAT | #8f43b63e | DESCRIPTION",
+   "en": "Storm bolts travel up to 24m"
+  },
+  {
+   "id": 3687,
+   "mode": "translate",
+   "ctx": "SKILLS/ARBITER/STORM/STORM.DAT | #8f43b63f | DESCRIPTION",
+   "en": "Storm bolts travel up to 23m"
+  },
+  {
+   "id": 3688,
+   "mode": "translate",
+   "ctx": "SKILLS/ARBITER/STORM/STORM.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "You call down lightning from the heavens, blasting nearby foes with multiple storm bolts. While casting Lightning Storm, you take reduced damage."
+  },
+  {
+   "id": 3689,
+   "mode": "translate",
+   "ctx": "SKILLS/ARBITER/STORM/STORMCAST.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "You summon a concentrated thunderstorm at a target location, which blasts foes within 7 meters for the duration of its existence. Thunder Locus does not build |c00ff9933Charge|u."
+  },
+  {
+   "id": 3690,
+   "mode": "translate",
+   "ctx": "SKILLS/ARBITER/STORM/STORMCAST.DAT | SKILL | TIER1_DESCRIPTION",
+   "en": "The Locus can blast two foes at once"
+  },
+  {
+   "id": 3691,
+   "mode": "translate",
+   "ctx": "SKILLS/ARBITER/STORM/STORMCAST.DAT | SKILL | TIER2_DESCRIPTION",
+   "en": "The Locus can blast three foes at once"
+  },
+  {
+   "id": 3692,
+   "mode": "translate",
+   "ctx": "SKILLS/ARBITER/STORM/STORMCAST.DAT | SKILL | TIER3_DESCRIPTION",
+   "en": "The Locus can blast four foes at once"
+  },
+  {
+   "id": 3693,
+   "mode": "translate",
+   "ctx": "SKILLS/ARBITER/TELEPORT/TELEPORT ALT.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "You vanish from one location and instantly reappear in another, dealing cold damage in both places within a 2.5 meter burst."
+  },
+  {
+   "id": 3694,
+   "mode": "translate",
+   "ctx": "SKILLS/ARBITER/TELEPORT/TELEPORT ALT.DAT | SKILL | TIER1_DESCRIPTION",
+   "en": "Burst radius increased to 3.75 meters"
+  },
+  {
+   "id": 3695,
+   "mode": "translate",
+   "ctx": "SKILLS/ARBITER/TELEPORT/TELEPORT ALT.DAT | SKILL | TIER2_DESCRIPTION",
+   "en": "Burst radius increased to 5 meters"
+  },
+  {
+   "id": 3696,
+   "mode": "translate",
+   "ctx": "SKILLS/ARBITER/TELEPORT/TELEPORT ALT.DAT | SKILL | TIER3_DESCRIPTION",
+   "en": "Burst radius increased to 6.25 meters"
+  },
+  {
+   "id": 3697,
+   "mode": "translate",
+   "ctx": "SKILLS/ARBITER/WHIRLDISC/WHIRLDISC.DAT | SKILL | DESCRIPTION",
+   "en": "Launches an exploding disc of fire."
+  },
+  {
+   "id": 3698,
+   "mode": "translate",
+   "ctx": "SKILLS/CHAMPIONS/AURAS/CHAMPAURACASTDEBUG.DAT | SKILL | DESCRIPTION",
+   "en": "Aura cast on unit creation"
+  },
+  {
+   "id": 3699,
+   "mode": "translate",
+   "ctx": "SKILLS/CHAMPIONS/AURAS/CHAMPAURAEXPLODE.DAT | SKILL | DESCRIPTION",
+   "en": "Allies will explode when killed"
+  },
+  {
+   "id": 3700,
+   "mode": "translate",
+   "ctx": "SKILLS/CHAMPIONS/AURAS/CHAMPAURAHEAL.DAT | SKILL | DESCRIPTION",
+   "en": "Gives health regeneration to allies"
+  },
+  {
+   "id": 3701,
+   "mode": "translate",
+   "ctx": "SKILLS/CHAMPIONS/AURAS/CHAMPAURARANDOM.DAT | SKILL | DESCRIPTION",
+   "en": "Random aura cast on unit creation"
+  },
+  {
+   "id": 3702,
+   "mode": "translate",
+   "ctx": "SKILLS/CHAMPIONS/AURAS/CHAMPAURARESIST.DAT | SKILL | DESCRIPTION",
+   "en": "Confers Champion resistance to friendly units"
+  },
+  {
+   "id": 3703,
+   "mode": "translate",
+   "ctx": "SKILLS/CHAMPIONS/AURAS/CHAMPAURASHIELDALLIES.DAT | SKILL | DESCRIPTION",
+   "en": "Shields allies from harm."
+  },
+  {
+   "id": 3704,
+   "mode": "translate",
+   "ctx": "SKILLS/CHAMPIONS/AURAS/CHAMPAURASHIELDSELF.DAT | SKILL | DESCRIPTION",
+   "en": "Gain damage reduction for each ally within the aura's range"
+  },
+  {
+   "id": 3705,
+   "mode": "translate",
+   "ctx": "SKILLS/CHAMPIONS/AURAS/CHAMPAURASLOW.DAT | SKILL | DESCRIPTION",
+   "en": "Slows enemy movement, attack, and cast speed"
+  },
+  {
+   "id": 3706,
+   "mode": "translate",
+   "ctx": "SKILLS/CHAMPIONS/AURAS/CHAMPAURASPEED.DAT | SKILL | DESCRIPTION",
+   "en": "Increases ally movement, attack, and cast speed"
+  },
+  {
+   "id": 3707,
+   "mode": "translate",
+   "ctx": "SKILLS/CHAMPIONS/BARRAGE/BARRAGE.DAT | SKILL | DESCRIPTION",
+   "en": "A barrage of magic missiles hunts down enemies"
+  },
+  {
+   "id": 3708,
+   "mode": "translate",
+   "ctx": "SKILLS/CHAMPIONS/CYCLONE/CYCLONE.DAT | SKILL | DESCRIPTION",
+   "en": "A long lasting cyclone whirls about the battlefield"
+  },
+  {
+   "id": 3709,
+   "mode": "translate",
+   "ctx": "SKILLS/CHAMPIONS/FIREWALL/FIREWALL.DAT | SKILL | DESCRIPTION",
+   "en": "Emits a circle of flames to cut off retreat"
+  },
+  {
+   "id": 3710,
+   "mode": "translate",
+   "ctx": "SKILLS/CHAMPIONS/FLARE/FLARE.DAT | SKILL | DESCRIPTION",
+   "en": "Bursts of energy cause damage all around the caster"
+  },
+  {
+   "id": 3711,
+   "mode": "translate",
+   "ctx": "SKILLS/CHAMPIONS/HYPERBEAM/HYPERBEAM.DAT | SKILL | DESCRIPTION",
+   "en": "Pierces foes with a shaft of blistering energy"
+  },
+  {
+   "id": 3712,
+   "mode": "translate",
+   "ctx": "SKILLS/CHAMPIONS/METEOR/METEOR.DAT | SKILL | DESCRIPTION",
+   "en": "A great meteor summoned from the heavens"
+  },
+  {
+   "id": 3713,
+   "mode": "translate",
+   "ctx": "SKILLS/CHAMPIONS/POISONMINES/POISONMINES.DAT | SKILL | DESCRIPTION",
+   "en": "Exploding acid mines."
+  },
+  {
+   "id": 3714,
+   "mode": "translate",
+   "ctx": "SKILLS/CHAMPIONS/RANDOMTELEPORT.DAT | SKILL | DESCRIPTION",
+   "en": "Teleport to a random location"
+  },
+  {
+   "id": 3715,
+   "mode": "translate",
+   "ctx": "SKILLS/CHAMPIONS/REFLECTION.DAT | SKILL | DESCRIPTION",
+   "en": "Reflects missiles until the shield is broken"
+  },
+  {
+   "id": 3716,
+   "mode": "translate",
+   "ctx": "SKILLS/CHAMPIONS/SELECTORS/CHAMPSKILLRANDOM.DAT | SKILL | DESCRIPTION",
+   "en": "Selects spells this champ can cast on unit creation"
+  },
+  {
+   "id": 3717,
+   "mode": "translate",
+   "ctx": "SKILLS/CHAMPIONS/SHIELDS/ELECTRICBARRIER.DAT | SKILL | DESCRIPTION",
+   "en": "Reduces all damage until barrier is nullified with poison"
+  },
+  {
+   "id": 3718,
+   "mode": "translate",
+   "ctx": "SKILLS/CHAMPIONS/SHIELDS/ELECTRICSHIELD.DAT | SKILL | DESCRIPTION",
+   "en": "Increases Electric Resistance while active"
+  },
+  {
+   "id": 3719,
+   "mode": "translate",
+   "ctx": "SKILLS/CHAMPIONS/SHIELDS/FIREBARRIER.DAT | SKILL | DESCRIPTION",
+   "en": "Reduces all damage until barrier is shattered with ice"
+  },
+  {
+   "id": 3720,
+   "mode": "translate",
+   "ctx": "SKILLS/CHAMPIONS/SHIELDS/FIRESHIELD.DAT | SKILL | DESCRIPTION",
+   "en": "Increases Fire Resistance while active"
+  },
+  {
+   "id": 3721,
+   "mode": "translate",
+   "ctx": "SKILLS/CHAMPIONS/SHIELDS/ICEBARRIER.DAT | SKILL | DESCRIPTION",
+   "en": "Reduces all damage until barrier is melted with fire"
+  },
+  {
+   "id": 3722,
+   "mode": "translate",
+   "ctx": "SKILLS/CHAMPIONS/SHIELDS/ICESHIELD.DAT | SKILL | DESCRIPTION",
+   "en": "Increases Ice Resistance while active"
+  },
+  {
+   "id": 3723,
+   "mode": "translate",
+   "ctx": "SKILLS/CHAMPIONS/SHIELDS/PHYSICALSHIELD.DAT | SKILL | DESCRIPTION",
+   "en": "Increases Physical Resistance while active"
+  },
+  {
+   "id": 3724,
+   "mode": "translate",
+   "ctx": "SKILLS/CHAMPIONS/SHIELDS/POISONBARRIER.DAT | SKILL | DESCRIPTION",
+   "en": "Reduces all damage until barrier is dispersed with electricty"
+  },
+  {
+   "id": 3725,
+   "mode": "translate",
+   "ctx": "SKILLS/CHAMPIONS/SHIELDS/POISONSHIELD.DAT | SKILL | DESCRIPTION",
+   "en": "Increases Poison Resistance while active"
+  },
+  {
+   "id": 3726,
+   "mode": "translate",
+   "ctx": "SKILLS/CHAMPIONS/SHIELDS/REACTIVESHIELD.DAT | SKILL | DESCRIPTION",
+   "en": "Casts a shield that hopefully protects against a relevant source of damage"
+  },
+  {
+   "id": 3727,
+   "mode": "translate",
+   "ctx": "SKILLS/CHAMPIONS/SOULSHACKLE/SOULSHACKLE.DAT | SKILL | DESCRIPTION",
+   "en": "Chains the souls of enemies to dark crystals, while a giant attack is readied."
+  },
+  {
+   "id": 3728,
+   "mode": "translate",
+   "ctx": "SKILLS/CHAMPIONS/SPEEDSHIELD.DAT | SKILL | DESCRIPTION",
+   "en": "Haste until the weak shield is broken"
+  },
+  {
+   "id": 3729,
+   "mode": "translate",
+   "ctx": "SKILLS/CHAMPIONS/STORM/STORM.DAT | SKILL | DESCRIPTION",
+   "en": "Conjure a fierce lightning storm"
+  },
+  {
+   "id": 3730,
+   "mode": "translate",
+   "ctx": "SKILLS/CHAMPIONS/VOIDRAY/VOIDRAY.DAT | SKILL | DESCRIPTION",
+   "en": "Fire a piercing beam of negative energy."
+  },
+  {
+   "id": 3731,
+   "mode": "translate",
+   "ctx": "SKILLS/EMPTY.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "Empty Skill, used to reserve a guid for auto attack"
+  },
+  {
+   "id": 3732,
+   "mode": "translate",
+   "ctx": "SKILLS/ITEMS/NORMALMANAPOTION.DAT | SKILL | DESCRIPTION",
+   "en": "Restores mana"
+  },
+  {
+   "id": 3733,
+   "mode": "translate",
+   "ctx": "SKILLS/ITEMS/NORMALPOTION.DAT | SKILL | DESCRIPTION",
+   "en": "Heals caster"
+  },
+  {
+   "id": 3734,
+   "mode": "translate",
+   "ctx": "SKILLS/MONSTERS/BOSS_GOBLIN_MINES/ICE_STALAGTITES.DAT | SKILL | DESCRIPTION",
+   "en": "Fire a projectile forwards, knocking away enemies and exploding after a set distance"
+  },
+  {
+   "id": 3735,
+   "mode": "translate",
+   "ctx": "SKILLS/MONSTERS/BOSS_STURM/POUND/POUND.DAT | SKILL | DESCRIPTION",
+   "en": "Sturm smash!"
+  },
+  {
+   "id": 3736,
+   "mode": "translate",
+   "ctx": "SKILLS/MONSTERS/BOSS_STURM/UPWARD_SHOT/MINE_MORTAR.DAT | SKILL | DESCRIPTION",
+   "en": "Fires a spiked ball into the ground, damaging anything that steps on it.\\n"
+  },
+  {
+   "id": 3737,
+   "mode": "translate",
+   "ctx": "SKILLS/MONSTERS/GHOST/HEAL_FRIENDS.DAT | SKILL | DESCRIPTION",
+   "en": "\\nHeals all friends"
+  },
+  {
+   "id": 3738,
+   "mode": "translate",
+   "ctx": "SKILLS/MONSTERS/GRANDREGENT/REGENT_MARK.DAT | SKILL | DESCRIPTION",
+   "en": "Enemies near you are more likely to attack you."
+  },
+  {
+   "id": 3739,
+   "mode": "translate",
+   "ctx": "SKILLS/MONSTERS/GUARDIANWILD/CORRUPTEDBLAST/CORRUPTEDBLAST.DAT | SKILL | DESCRIPTION",
+   "en": "Fire a blast of foul energy.  Stomp, stomp, blast!"
+  },
+  {
+   "id": 3740,
+   "mode": "translate",
+   "ctx": "SKILLS/MONSTERS/GUARDIANWILD/EARTHENSMASH/EARTHENSMASH.DAT | SKILL | DESCRIPTION",
+   "en": "Guardian of Wild impales nearby enemies with earthen spears"
+  },
+  {
+   "id": 3741,
+   "mode": "translate",
+   "ctx": "SKILLS/MONSTERS/HANDOFDOOM/HAND_OF_DOOM.DAT | SKILL | DESCRIPTION",
+   "en": "Hand of Doom Arbiter Skill"
+  },
+  {
+   "id": 3742,
+   "mode": "translate",
+   "ctx": "SKILLS/MONSTERS/MIRKA/ICEMINES.DAT | SKILL | DESCRIPTION",
+   "en": "Exploding ice mines."
+  },
+  {
+   "id": 3743,
+   "mode": "translate",
+   "ctx": "SKILLS/MONSTERS/REPAIR_BOT/ABSORPTION_BEAM.DAT | SKILL | DESCRIPTION",
+   "en": "Absorbs energy from the enemy and converts it into a healing aura.\\n"
+  },
+  {
+   "id": 3744,
+   "mode": "translate",
+   "ctx": "SKILLS/MONSTERS/REPAIR_BOT/HEALAURA.DAT | SKILL | DESCRIPTION",
+   "en": "The repair bot radiates a healing energy.\\n"
+  },
+  {
+   "id": 3745,
+   "mode": "translate",
+   "ctx": "SKILLS/MONSTERS/SEER/SEERAOE.DAT | SKILL | DESCRIPTION",
+   "en": "\\nTown Seer's Aoe\\n"
+  },
+  {
+   "id": 3746,
+   "mode": "translate",
+   "ctx": "SKILLS/MONSTERS/SEER/SEERFIREBALL.DAT | SKILL | DESCRIPTION",
+   "en": "\\nTown Seer's fireball\\n"
+  },
+  {
+   "id": 3747,
+   "mode": "translate",
+   "ctx": "SKILLS/MONSTERS/SKELETON/PASS2_CHAMP_UNDEAD_SUMMON.DAT | SKILL | DESCRIPTION",
+   "en": "Summons Undead Creatures"
+  },
+  {
+   "id": 3748,
+   "mode": "translate",
+   "ctx": "SKILLS/MONSTERS/SKELETON/SKELCHAMPREACTIVESHIELD.DAT | SKILL | DESCRIPTION",
+   "en": "Protected against a single damage type until shield is broken"
+  },
+  {
+   "id": 3749,
+   "mode": "translate",
+   "ctx": "SKILLS/MONSTERS/SKELETON/SKELCHAMPSPEEDSHIELD.DAT | SKILL | DESCRIPTION",
+   "en": "Grants increased speed until the shield is broken"
+  },
+  {
+   "id": 3750,
+   "mode": "translate",
+   "ctx": "SKILLS/MONSTERS/SPIKEDMINE/FIERYMINE.DAT | SKILL | DESCRIPTION",
+   "en": "It's burning hot!"
+  },
+  {
+   "id": 3751,
+   "mode": "translate",
+   "ctx": "SKILLS/MONSTERS/SPIKEDMINE/FIERYMINEEXPLODE.DAT | SKILL | DESCRIPTION",
+   "en": "Boom"
+  },
+  {
+   "id": 3752,
+   "mode": "translate",
+   "ctx": "SKILLS/MONSTERS/VARKOLYN/JUMPATTACK.DAT | SKILL | DESCRIPTION",
+   "en": "\\nJumps towards an enemy"
+  },
+  {
+   "id": 3753,
+   "mode": "translate",
+   "ctx": "SKILLS/PROCS/FIREPROC.DAT | SKILL | DESCRIPTION",
+   "en": " chance for proc"
+  },
+  {
+   "id": 3754,
+   "mode": "translate",
+   "ctx": "SKILLS/SHARED/BEESWARM/BEESWARM.DAT | SKILL | DESCRIPTION",
+   "en": "Send a cloud of angry bees at your enemies. Monsters who come to near your targets will incur the wrath of the swarm!"
+  },
+  {
+   "id": 3755,
+   "mode": "translate",
+   "ctx": "SKILLS/SHARED/DERVISH/DERVISH1.DAT | SKILL | DESCRIPTION",
+   "en": "The caster whirls into action with rapidly accelerated attacks and casts for 10 seconds."
+  },
+  {
+   "id": 3756,
+   "mode": "translate",
+   "ctx": "SKILLS/SHARED/DERVISH/DERVISH2.DAT | SKILL | DESCRIPTION",
+   "en": "The caster whirls into action with rapidly accelerated attacks and casts for 12 seconds."
+  },
+  {
+   "id": 3757,
+   "mode": "translate",
+   "ctx": "SKILLS/SHARED/DERVISH/DERVISH3.DAT | SKILL | DESCRIPTION",
+   "en": "The caster whirls into action with rapidly accelerated attacks and casts for 14 seconds."
+  },
+  {
+   "id": 3758,
+   "mode": "translate",
+   "ctx": "SKILLS/SHARED/DERVISH/DERVISH4.DAT | SKILL | DESCRIPTION",
+   "en": "The caster whirls into action with rapidly accelerated attacks and casts for 16 seconds."
+  },
+  {
+   "id": 3759,
+   "mode": "translate",
+   "ctx": "SKILLS/SHARED/DERVISH/DERVISH5.DAT | SKILL | DESCRIPTION",
+   "en": "The caster whirls into action with rapidly accelerated attacks and casts for 18 seconds."
+  },
+  {
+   "id": 3760,
+   "mode": "translate",
+   "ctx": "SKILLS/SHARED/DERVISH/DERVISH6.DAT | SKILL | DESCRIPTION",
+   "en": "The caster whirls into action with rapidly accelerated attacks and casts for 20 seconds."
+  },
+  {
+   "id": 3761,
+   "mode": "translate",
+   "ctx": "SKILLS/SHARED/ELEMENTALOVERLOAD/ELEMENTALOVERLOAD1.DAT | SKILL | DESCRIPTION",
+   "en": "The caster is imbued with increased elemental damage strength"
+  },
+  {
+   "id": 3762,
+   "mode": "translate",
+   "ctx": "SKILLS/SHARED/FIREBALL/FIREBALL.DAT | SKILL | DESCRIPTION",
+   "en": "Launches a slow-moving, explosive ball of flame from the caster's hand."
+  },
+  {
+   "id": 3763,
+   "mode": "translate",
+   "ctx": "SKILLS/SHARED/FROSTBALL/FROSTBALL.DAT | SKILL | DESCRIPTION",
+   "en": "Fires three frost missiles that freeze all enemies within their 3m blast radius."
+  },
+  {
+   "id": 3764,
+   "mode": "translate",
+   "ctx": "SKILLS/SHARED/HASTE/HASTE.DAT | SKILL | DESCRIPTION",
+   "en": "The caster's movement speed is increased for 8 seconds"
+  },
+  {
+   "id": 3765,
+   "mode": "translate",
+   "ctx": "SKILLS/SHARED/HEAL/HEAL1.DAT | SKILL | DESCRIPTION",
+   "en": "Heals the caster"
+  },
+  {
+   "id": 3766,
+   "mode": "translate",
+   "ctx": "SKILLS/SHARED/HEAL/HEAL_ALL1.DAT | SKILL | DESCRIPTION",
+   "en": "Heals the caster and all allies"
+  },
+  {
+   "id": 3767,
+   "mode": "translate",
+   "ctx": "SKILLS/SHARED/IDENTIFY/IDENTIFY.DAT | SKILL | DESCRIPTION",
+   "en": "Identifies an enchanted item's properties"
+  },
+  {
+   "id": 3768,
+   "mode": "translate",
+   "ctx": "SKILLS/SHARED/LIFESTEAL/LIFESTEAL.DAT | SKILL | DESCRIPTION",
+   "en": "The caster draws life from any foes struck for the duration of the spell"
+  },
+  {
+   "id": 3769,
+   "mode": "translate",
+   "ctx": "SKILLS/SHARED/PASSIVES/ADRENALINERUSH.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "You have a passive 15% chance on being struck to gain a burst of speed, granting you the ability to attack faster or escape safely.  Once triggered, Adrenaline Rush has a 10 second cooldown."
+  },
+  {
+   "id": 3770,
+   "mode": "translate",
+   "ctx": "SKILLS/SHARED/PASSIVES/ADVENTURER.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "Improves the potency of potions, increases the rate of Experience and Fame gain, and reduces resurrection penalties.  Only one Adventuring spell may be equipped at a time."
+  },
+  {
+   "id": 3771,
+   "mode": "translate",
+   "ctx": "SKILLS/SHARED/PASSIVES/ARMOR.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "Mastery of all forms of armor reduces requirements and improves armor absorption.  Only one Armor Expertise spell may be equipped at a time."
+  },
+  {
+   "id": 3772,
+   "mode": "translate",
+   "ctx": "SKILLS/SHARED/PASSIVES/BARTER.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "Reduces the purchase prices at Merchants, Enchanters, and Gamblers. Improves the sale prices of your own goods.  Only one Barter spell may be equipped at a time."
+  },
+  {
+   "id": 3773,
+   "mode": "translate",
+   "ctx": "SKILLS/SHARED/PASSIVES/BLOCK.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "Increases the chance to block with a shield.  Only one Blocking spell may be equipped at a time."
+  },
+  {
+   "id": 3774,
+   "mode": "translate",
+   "ctx": "SKILLS/SHARED/PASSIVES/CRITICAL.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "Increases the chance and improves the damage of all critical strikes.  Only one Critical Strikes spell may be equipped at a time."
+  },
+  {
+   "id": 3775,
+   "mode": "translate",
+   "ctx": "SKILLS/SHARED/PASSIVES/DUALWIELD.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "Improves damage of all weapons when dual-wielding.  Only one Dual Wielding spell may be equipped at a time."
+  },
+  {
+   "id": 3776,
+   "mode": "translate",
+   "ctx": "SKILLS/SHARED/PASSIVES/MAGIC.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "Grants mastery of Wands and Staves and grants reduced requirements for Rings and Amulets.  Only one Arcane Tools spell may be equipped at a time."
+  },
+  {
+   "id": 3777,
+   "mode": "translate",
+   "ctx": "SKILLS/SHARED/PASSIVES/MARTIAL.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "Mastery of Claws, Swords, Axes, Maces and Polearms.  Only one Weapons Expertise spell may be equipped at a time."
+  },
+  {
+   "id": 3778,
+   "mode": "translate",
+   "ctx": "SKILLS/SHARED/PASSIVES/PET.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "Increases your pet and minion's power, and decreases the pet's town-travel time.  Only one Pet Mastery spell may be equipped at a time."
+  },
+  {
+   "id": 3779,
+   "mode": "translate",
+   "ctx": "SKILLS/SHARED/PASSIVES/RANGED.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "Mastery of Bows, Pistols, Crossbows, Shotgonnes, and Cannons.  Only one Ranged Weapons Expertise spell may be equipped at a time."
+  },
+  {
+   "id": 3780,
+   "mode": "translate",
+   "ctx": "SKILLS/SHARED/PASSIVES/RESISTSLOWANDIMMOB.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "Provides a resistance to slowing and immobilizing effects.  Only one Willpower spell may be equipped at a time."
+  },
+  {
+   "id": 3781,
+   "mode": "translate",
+   "ctx": "SKILLS/SHARED/PASSIVES/SPELLCASTING.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "Improves Mana recharge rate.  Only one Concentration spell may be equipped at a time."
+  },
+  {
+   "id": 3782,
+   "mode": "translate",
+   "ctx": "SKILLS/SHARED/PASSIVES/TREASURE.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "Increases the chance to find magic items and gold.  Only one Treasure Hunter spell may be equipped at a time."
+  },
+  {
+   "id": 3783,
+   "mode": "translate",
+   "ctx": "SKILLS/SHARED/POISONCLOUD/POISONCLOUD.DAT | SKILL | DESCRIPTION",
+   "en": "Blasts a noxious cloud of poison gas around the caster"
+  },
+  {
+   "id": 3784,
+   "mode": "translate",
+   "ctx": "SKILLS/SHARED/REPEL/REPEL.DAT | SKILL | DESCRIPTION",
+   "en": "Nearby foes are pushed away by a powerful gust of wind"
+  },
+  {
+   "id": 3785,
+   "mode": "translate",
+   "ctx": "SKILLS/SHARED/RESISTALL/RESISTALL1.DAT | SKILL | DESCRIPTION",
+   "en": "The caster is buffered by increased elemental resistances"
+  },
+  {
+   "id": 3786,
+   "mode": "translate",
+   "ctx": "SKILLS/SHARED/RETRIBUTION/RETRIBUTION.DAT | SKILL | DESCRIPTION",
+   "en": "The caster is possessed with a vengeful spirit, which automatically strikes back at attackers. Lasts for 12 seconds."
+  },
+  {
+   "id": 3787,
+   "mode": "translate",
+   "ctx": "SKILLS/SHARED/RETRIBUTION/RETRIBUTION2.DAT | SKILL | DESCRIPTION",
+   "en": "The caster is possessed with a vengeful spirit, which automatically strikes back at attackers. Lasts for 16 seconds."
+  },
+  {
+   "id": 3788,
+   "mode": "translate",
+   "ctx": "SKILLS/SHARED/RETRIBUTION/RETRIBUTION3.DAT | SKILL | DESCRIPTION",
+   "en": "The caster is possessed with a vengeful spirit, which automatically strikes back at attackers. Lasts for 20 seconds."
+  },
+  {
+   "id": 3789,
+   "mode": "translate",
+   "ctx": "SKILLS/SHARED/RETRIBUTION/RETRIBUTION4.DAT | SKILL | DESCRIPTION",
+   "en": "The caster is possessed with a vengeful spirit, which automatically strikes back at attackers. Lasts for 24 seconds."
+  },
+  {
+   "id": 3790,
+   "mode": "translate",
+   "ctx": "SKILLS/SHARED/RETRIBUTION/RETRIBUTION5.DAT | SKILL | DESCRIPTION",
+   "en": "The caster is possessed with a vengeful spirit, which automatically strikes back at attackers. Lasts for 28 seconds."
+  },
+  {
+   "id": 3791,
+   "mode": "translate",
+   "ctx": "SKILLS/SHARED/RETRIBUTION/RETRIBUTION6.DAT | SKILL | DESCRIPTION",
+   "en": "The caster is possessed with a vengeful spirit, which automatically strikes back at attackers. Lasts for 32 seconds."
+  },
+  {
+   "id": 3792,
+   "mode": "translate",
+   "ctx": "SKILLS/SHARED/ROLLER/ROLLER.DAT | SKILL | DESCRIPTION",
+   "en": "Launches a wheel of fire."
+  },
+  {
+   "id": 3793,
+   "mode": "translate",
+   "ctx": "SKILLS/SHARED/ROLLER/ROLLER2.DAT | SKILL | DESCRIPTION",
+   "en": "Launches an fast wheel of fire."
+  },
+  {
+   "id": 3794,
+   "mode": "translate",
+   "ctx": "SKILLS/SHARED/ROLLER/ROLLER3.DAT | SKILL | DESCRIPTION",
+   "en": "Launches a pair of fire wheels."
+  },
+  {
+   "id": 3795,
+   "mode": "translate",
+   "ctx": "SKILLS/SHARED/ROLLER/ROLLER4.DAT | SKILL | DESCRIPTION",
+   "en": "Launches a pair of fast fire wheels."
+  },
+  {
+   "id": 3796,
+   "mode": "translate",
+   "ctx": "SKILLS/SHARED/ROLLER/ROLLER5.DAT | SKILL | DESCRIPTION",
+   "en": "Launches a trio of fire wheels."
+  },
+  {
+   "id": 3797,
+   "mode": "translate",
+   "ctx": "SKILLS/SHARED/ROLLER/ROLLER6.DAT | SKILL | DESCRIPTION",
+   "en": "Launches a trio of fast fire wheels."
+  },
+  {
+   "id": 3798,
+   "mode": "translate",
+   "ctx": "SKILLS/SHARED/RUMBLE/RUMBLE.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "A pulse of energy expands outwards, shattering delicate objects in the vicinity"
+  },
+  {
+   "id": 3799,
+   "mode": "translate",
+   "ctx": "SKILLS/SHARED/SILENCE/SILENCE.DAT | SKILL | DESCRIPTION",
+   "en": "Silences enemies within 4 meters, preventing them from using most skills."
+  },
+  {
+   "id": 3800,
+   "mode": "translate",
+   "ctx": "SKILLS/SHARED/SILENCE/SILENCE2.DAT | SKILL | DESCRIPTION",
+   "en": "Silences enemies within 5 meters, preventing them from using most skills."
+  },
+  {
+   "id": 3801,
+   "mode": "translate",
+   "ctx": "SKILLS/SHARED/SILENCE/SILENCE3.DAT | SKILL | DESCRIPTION",
+   "en": "Silences enemies within 6 meters, preventing them from using most skills."
+  },
+  {
+   "id": 3802,
+   "mode": "translate",
+   "ctx": "SKILLS/SHARED/SILENCE/SILENCE4.DAT | SKILL | DESCRIPTION",
+   "en": "Silences enemies within 7 meters, preventing them from using most skills."
+  },
+  {
+   "id": 3803,
+   "mode": "translate",
+   "ctx": "SKILLS/SHARED/SILENCE/SILENCE5.DAT | SKILL | DESCRIPTION",
+   "en": "Silences enemies within 8 meters, preventing them from using most skills."
+  },
+  {
+   "id": 3804,
+   "mode": "translate",
+   "ctx": "SKILLS/SHARED/SILENCE/SILENCE6.DAT | SKILL | DESCRIPTION",
+   "en": "Silences enemies within 9 meters, preventing them from using most skills."
+  },
+  {
+   "id": 3805,
+   "mode": "translate",
+   "ctx": "SKILLS/SHARED/SUMMONALOEGEL/SUMMONALOEGEL.DAT | SKILL | DESCRIPTION",
+   "en": "Summons a healing Gel that heals the caster and all allies. 120s pet cooldown."
+  },
+  {
+   "id": 3806,
+   "mode": "translate",
+   "ctx": "SKILLS/SHARED/SUMMONARCHERS/SUMMONARCHERS.DAT | SKILL | DESCRIPTION",
+   "en": "Summons a pack of 3 non-moving Skeletal Archers to attack your foes. 60s pet cooldown."
+  },
+  {
+   "id": 3807,
+   "mode": "translate",
+   "ctx": "SKILLS/SHARED/SUMMONARCHERS/SUMMONARCHERS2.DAT | SKILL | DESCRIPTION",
+   "en": "Summons a pack of 4 non-moving Skeletal Archers to attack your foes. 60s pet cooldown."
+  },
+  {
+   "id": 3808,
+   "mode": "translate",
+   "ctx": "SKILLS/SHARED/SUMMONARCHERS/SUMMONARCHERS3.DAT | SKILL | DESCRIPTION",
+   "en": "Summons a pack of 5 non-moving Skeletal Archers to attack your foes. 60s pet cooldown."
+  },
+  {
+   "id": 3809,
+   "mode": "translate",
+   "ctx": "SKILLS/SHARED/SUMMONARCHERS/SUMMONARCHERS4.DAT | SKILL | DESCRIPTION",
+   "en": "Summons a pack of 6 non-moving Skeletal Archers to attack your foes. 60s pet cooldown."
+  },
+  {
+   "id": 3810,
+   "mode": "translate",
+   "ctx": "SKILLS/SHARED/SUMMONARCHERS/SUMMONARCHERS5.DAT | SKILL | DESCRIPTION",
+   "en": "Summons a pack of 7 non-moving Skeletal Archers to attack your foes. 60s pet cooldown."
+  },
+  {
+   "id": 3811,
+   "mode": "translate",
+   "ctx": "SKILLS/SHARED/SUMMONARCHERS/SUMMONARCHERS6.DAT | SKILL | DESCRIPTION",
+   "en": "Summons a pack of 8 non-moving Skeletal Archers to attack your foes. 60s pet cooldown."
+  },
+  {
+   "id": 3812,
+   "mode": "translate",
+   "ctx": "SKILLS/SHARED/SUMMONFLAMESWORD/SUMMONFLAMESWORD.DAT | SKILL | DESCRIPTION",
+   "en": "Summons an enchanted Flaming Sword to attack your foes. 120s pet cooldown."
+  },
+  {
+   "id": 3813,
+   "mode": "translate",
+   "ctx": "SKILLS/SHARED/SUMMONFLAMESWORD/SUMMONFLAMESWORD2.DAT | SKILL | DESCRIPTION",
+   "en": "Summons an improved Flaming Sword to attack your foes. 120s pet cooldown."
+  },
+  {
+   "id": 3814,
+   "mode": "translate",
+   "ctx": "SKILLS/SHARED/SUMMONIMP/SUMMONIMP.DAT | SKILL | DESCRIPTION",
+   "en": "Summons a Nether Imp to attack your foes for 30s"
+  },
+  {
+   "id": 3815,
+   "mode": "translate",
+   "ctx": "SKILLS/SHARED/SUMMONIMP/SUMMONIMP2.DAT | SKILL | DESCRIPTION",
+   "en": "Summons a Nether Imp to attack your foes for 30s.  Stronger than Nether Imp I and has a chance to silence on attack."
+  },
+  {
+   "id": 3816,
+   "mode": "translate",
+   "ctx": "SKILLS/SHARED/SUMMONIMP/SUMMONIMP3.DAT | SKILL | DESCRIPTION",
+   "en": "Summons a Nether Imp to attack your foes for 30s.  Stronger than Nether Imp II and has a higher chance to silence on attack."
+  },
+  {
+   "id": 3817,
+   "mode": "translate",
+   "ctx": "SKILLS/SHARED/SUMMONIMP/SUMMONIMP4.DAT | SKILL | DESCRIPTION",
+   "en": "Summons a Nether Imp to attack your foes for 30s.  Stronger than Nether Imp III and has a higher chance to silence on attack."
+  },
+  {
+   "id": 3818,
+   "mode": "translate",
+   "ctx": "SKILLS/SHARED/SUMMONIMP/SUMMONIMP5.DAT | SKILL | DESCRIPTION",
+   "en": "Summons a Nether Imp to attack your foes for 30s.  Stronger than Nether Imp IV and has a chance on attack to silence all nearby enemies."
+  },
+  {
+   "id": 3819,
+   "mode": "translate",
+   "ctx": "SKILLS/SHARED/SUMMONSKELETON/SUMMONSKELETON.DAT | SKILL | DESCRIPTION",
+   "en": "Summons a Skeletal Warrior to attack your foes. 60s pet cooldown."
+  },
+  {
+   "id": 3820,
+   "mode": "translate",
+   "ctx": "SKILLS/SHARED/SUMMONSKELETON/SUMMONSKELETON2.DAT | SKILL | DESCRIPTION",
+   "en": "Summons an improved Skeletal Warrior to attack your foes. 60s pet cooldown."
+  },
+  {
+   "id": 3821,
+   "mode": "translate",
+   "ctx": "SKILLS/SHARED/SUMMONSKELETON/SUMMONSKELETON_RARE_BLOOD.DAT | SKILL | DESCRIPTION",
+   "en": "Summons a Blood Skeleton to attack your foes. 30s pet cooldown."
+  },
+  {
+   "id": 3822,
+   "mode": "translate",
+   "ctx": "SKILLS/SHARED/SUMMONZOMBIES/SUMMONBLOODZOMBIE.DAT | SKILL | DESCRIPTION",
+   "en": "Summons a fearsome Blood Zombie. 120s pet cooldown."
+  },
+  {
+   "id": 3823,
+   "mode": "translate",
+   "ctx": "SKILLS/SHARED/SUMMONZOMBIES/SUMMONZOMBIES.DAT | SKILL | DESCRIPTION",
+   "en": "Summons a pack of suicidal Zombies that poison your foes. 120s pet cooldown."
+  },
+  {
+   "id": 3824,
+   "mode": "translate",
+   "ctx": "SKILLS/SHARED/SUMMONZOMBIES/SUMMONZOMBIES2.DAT | SKILL | DESCRIPTION",
+   "en": "Summons a pack of suicidal Zombies that poison your foes. Version II Zombies have a more vicious poison attack. 120s pet cooldown."
+  },
+  {
+   "id": 3825,
+   "mode": "translate",
+   "ctx": "SKILLS/SHARED/SUMMONZOMBIES/SUMMONZOMBIES3.DAT | SKILL | DESCRIPTION",
+   "en": "Summons a pack of  suicidal Zombies that poison your foes. Version III Zombies have an even more vicious poison attack. 120s pet cooldown."
+  },
+  {
+   "id": 3826,
+   "mode": "translate",
+   "ctx": "SKILLS/SHARED/SUMMONZOMBIES/SUMMONZOMBIES4.DAT | SKILL | DESCRIPTION",
+   "en": "Summons a pack of suicidal Zombies that poison your foes. Version IV Zombies have a still more vicious poison attack. 120s pet cooldown."
+  },
+  {
+   "id": 3827,
+   "mode": "translate",
+   "ctx": "SKILLS/SHARED/SUMMONZOMBIES/SUMMONZOMBIES5.DAT | SKILL | DESCRIPTION",
+   "en": "Summons a pack of suicidal Zombies that poison your foes. Version V Zombies upgrade their poison attack even further than before. 120s pet cooldown."
+  },
+  {
+   "id": 3828,
+   "mode": "translate",
+   "ctx": "SKILLS/SHARED/SUMMONZOMBIES/SUMMONZOMBIES6.DAT | SKILL | DESCRIPTION",
+   "en": "Summons a pack of suicidal Zombies that poison your foes. Version VI Zombies have the most vicious poison attack of all! 120s pet cooldown."
+  },
+  {
+   "id": 3829,
+   "mode": "translate",
+   "ctx": "SKILLS/SHARED/TOWNPORTAL/TOWNPORTAL.DAT | SKILL | DESCRIPTION",
+   "en": "Create a two-way magic Portal back to Town."
+  },
+  {
+   "id": 3830,
+   "mode": "translate",
+   "ctx": "SKILLS/SHARED/TUNNELER/TUNNELER_LAUNCH.DAT | SKILL | DESCRIPTION",
+   "en": "Exploding cannonballs that cannot feel love"
+  },
+  {
+   "id": 3831,
+   "mode": "translate",
+   "ctx": "SKILLS/SHARED/WEB/WEBSPELL.DAT | SKILL | DESCRIPTION",
+   "en": "Fires a sticky web missile, preventing any movement from its target"
+  },
+  {
+   "id": 3832,
+   "mode": "translate",
+   "ctx": "SKILLS/SHRINES/DRAGONSHRINE.DAT | SKILL | DESCRIPTION",
+   "en": "The Dragon Shrine has endowed you with a magical buff."
+  },
+  {
+   "id": 3833,
+   "mode": "translate",
+   "ctx": "SKILLS/TEST/3FIREBALLS.DAT | SKILL | DESCRIPTION",
+   "en": "Three fire balls shot out from the player."
+  },
+  {
+   "id": 3834,
+   "mode": "translate",
+   "ctx": "SKILLS/TEST/ATTACKSWOOSH.DAT | SKILL | DESCRIPTION",
+   "en": "A huge slashing swoosh"
+  },
+  {
+   "id": 3835,
+   "mode": "translate",
+   "ctx": "SKILLS/TEST/LOOPTEST.DAT | SKILL | DESCRIPTION",
+   "en": "Test for looping into an animation"
+  },
+  {
+   "id": 3836,
+   "mode": "translate",
+   "ctx": "SKILLS/TEST/SLAMDOWN.DAT | SKILL | DESCRIPTION",
+   "en": "Unleashes a powerful exploding force of nature in front of the player."
+  },
+  {
+   "id": 3837,
+   "mode": "translate",
+   "ctx": "SKILLS/TEST/SPAWN.DAT | SKILL | DESCRIPTION",
+   "en": "Spawns a line of skeletons"
+  },
+  {
+   "id": 3838,
+   "mode": "translate",
+   "ctx": "SKILLS/TEST/STOMP.DAT | SKILL | DESCRIPTION",
+   "en": "Stomp, pushes enemies back"
+  },
+  {
+   "id": 3839,
+   "mode": "translate",
+   "ctx": "SKILLS/VANQUISHER/ARMORTRAP/ARMORTRAP.DAT | #1c7a1db2 | DESCRIPTION",
+   "en": "Hurl a device that drains the armor of all nearby foes. Drains 34% of enemy armor and has a 12% chance to stun for 3 seconds."
+  },
+  {
+   "id": 3840,
+   "mode": "translate",
+   "ctx": "SKILLS/VANQUISHER/ARMORTRAP/ARMORTRAP.DAT | #1c7a1db3 | DESCRIPTION",
+   "en": "Hurl a device that drains the armor of all nearby foes. Drains 32% of enemy armor and has a 11% chance to stun for 3 seconds."
+  },
+  {
+   "id": 3841,
+   "mode": "translate",
+   "ctx": "SKILLS/VANQUISHER/ARMORTRAP/ARMORTRAP.DAT | #1c7a1db4 | DESCRIPTION",
+   "en": "Hurl a device that drains the armor of all nearby foes. Drains 38% of enemy armor and has a 14% chance to stun for 3 seconds."
+  },
+  {
+   "id": 3842,
+   "mode": "translate",
+   "ctx": "SKILLS/VANQUISHER/ARMORTRAP/ARMORTRAP.DAT | #1c7a1db5 | DESCRIPTION",
+   "en": "Hurl a device that drains the armor of all nearby foes. Drains 36% of enemy armor and has a 13% chance to stun for 3 seconds."
+  },
+  {
+   "id": 3843,
+   "mode": "translate",
+   "ctx": "SKILLS/VANQUISHER/ARMORTRAP/ARMORTRAP.DAT | #1c7a1db6 | DESCRIPTION",
+   "en": "Hurl a device that drains the armor of all nearby foes. Drains 42% of enemy armor and has a 16% chance to stun for 3 seconds."
+  },
+  {
+   "id": 3844,
+   "mode": "translate",
+   "ctx": "SKILLS/VANQUISHER/ARMORTRAP/ARMORTRAP.DAT | #1c7a1db7 | DESCRIPTION",
+   "en": "Hurl a device that drains the armor of all nearby foes. Drains 40% of enemy armor and has a 15% chance to stun for 3 seconds."
+  },
+  {
+   "id": 3845,
+   "mode": "translate",
+   "ctx": "SKILLS/VANQUISHER/ARMORTRAP/ARMORTRAP.DAT | #1c7a1db8 | DESCRIPTION",
+   "en": "Hurl a device that drains the armor of all nearby foes. Drains 46% of enemy armor and has a 18% chance to stun for 3 seconds."
+  },
+  {
+   "id": 3846,
+   "mode": "translate",
+   "ctx": "SKILLS/VANQUISHER/ARMORTRAP/ARMORTRAP.DAT | #1c7a1db9 | DESCRIPTION",
+   "en": "Hurl a device that drains the armor of all nearby foes. Drains 44% of enemy armor and has a 17% chance to stun for 3 seconds."
+  },
+  {
+   "id": 3847,
+   "mode": "translate",
+   "ctx": "SKILLS/VANQUISHER/ARMORTRAP/ARMORTRAP.DAT | #8f43b639 | DESCRIPTION",
+   "en": "Hurl a device that drains the armor of all nearby foes. Drains 52% of enemy armor and has a 21% chance to stun for 3 seconds."
+  },
+  {
+   "id": 3848,
+   "mode": "translate",
+   "ctx": "SKILLS/VANQUISHER/ARMORTRAP/ARMORTRAP.DAT | #8f43b63a | DESCRIPTION",
+   "en": "Hurl a device that drains the armor of all nearby foes. Drains 50% of enemy armor and has a 20% chance to stun for 3 seconds."
+  },
+  {
+   "id": 3849,
+   "mode": "translate",
+   "ctx": "SKILLS/VANQUISHER/ARMORTRAP/ARMORTRAP.DAT | #8f43b63b | DESCRIPTION",
+   "en": "Hurl a device that drains the armor of all nearby foes. Drains 48% of enemy armor and has a 19% chance to stun for 3 seconds."
+  },
+  {
+   "id": 3850,
+   "mode": "translate",
+   "ctx": "SKILLS/VANQUISHER/ARMORTRAP/ARMORTRAP.DAT | SKILL | DESCRIPTION",
+   "en": "Hurl a device that drains the armor of all nearby foes. Drains 30% of enemy armor and has a 10% chance to stun for 3 seconds."
+  },
+  {
+   "id": 3851,
+   "mode": "translate",
+   "ctx": "SKILLS/VANQUISHER/ARROWHAIL/ARROWHAIL.DAT | SKILL | DESCRIPTION",
+   "en": "Call forth a hail of arrows to pierce your foes"
+  },
+  {
+   "id": 3852,
+   "mode": "translate",
+   "ctx": "SKILLS/VANQUISHER/EXPLOSIVE/EXPLOSIVE.DAT | SKILL | DESCRIPTION",
+   "en": "Fire a projectile from any equipped ranged weapon that detonates on impact, dealing damage to foes within 4.5 meters"
+  },
+  {
+   "id": 3853,
+   "mode": "translate",
+   "ctx": "SKILLS/VANQUISHER/FLAMETRAP/FLAMETRAP.DAT | SKILL | DESCRIPTION",
+   "en": "Hurl a device that burns nearby foes with gouts of flame, devestating low resist enemies."
+  },
+  {
+   "id": 3854,
+   "mode": "translate",
+   "ctx": "SKILLS/VANQUISHER/HAMSTRING/DASH.DAT | SKILL | DESCRIPTION",
+   "en": "A swift dash which slices enemies with a pair of dirks, impairing their movement and inducing bleeding."
+  },
+  {
+   "id": 3855,
+   "mode": "translate",
+   "ctx": "SKILLS/VANQUISHER/ICESHOT/ICESHOT.DAT | SKILL | DESCRIPTION",
+   "en": "Fire a piercing Ice projectile from a ranged weapon"
+  },
+  {
+   "id": 3856,
+   "mode": "translate",
+   "ctx": "SKILLS/VANQUISHER/NEEDLES/NEEDLES.DAT | #1c7a1db0 | DESCRIPTION",
+   "en": "Fling an arc of 5 darts that pierces foes"
+  },
+  {
+   "id": 3857,
+   "mode": "translate",
+   "ctx": "SKILLS/VANQUISHER/NEEDLES/NEEDLES.DAT | #1c7a1db4 | DESCRIPTION",
+   "en": "Fling an arc of 7 darts that pierces foes"
+  },
+  {
+   "id": 3858,
+   "mode": "translate",
+   "ctx": "SKILLS/VANQUISHER/NEEDLES/NEEDLES.DAT | SKILL | DESCRIPTION",
+   "en": "Fling an arc of 3 darts that pierces foes"
+  },
+  {
+   "id": 3859,
+   "mode": "translate",
+   "ctx": "SKILLS/VANQUISHER/RICOCHET/RICOCHET.DAT | SKILL | DESCRIPTION",
+   "en": "Fire a ricocheting projectile from the active ranged weapon"
+  },
+  {
+   "id": 3860,
+   "mode": "translate",
+   "ctx": "SKILLS/VANQUISHER/SEEKING/SEEKING.DAT | SKILL | DESCRIPTION",
+   "en": "Fires 3 projectiles that seek out nearby foes"
+  },
+  {
+   "id": 3861,
+   "mode": "translate",
+   "ctx": "SKILLS/VANQUISHER/SHOCKTRAP/SHOCKTRAP.DAT | SKILL | DESCRIPTION",
+   "en": "Hurl a device that shocks nearby foes with bolts of lightning"
+  },
+  {
+   "id": 3862,
+   "mode": "translate",
+   "ctx": "SKILLS/VANQUISHER/SHRAPNELTRAP/SHRAPNELTRAP.DAT | SKILL | DESCRIPTION",
+   "en": "Hurl a device that sprays foes with piercing flechettes"
+  },
+  {
+   "id": 3863,
+   "mode": "translate",
+   "ctx": "SKILLS/VANQUISHER/STAB/STABDASH.DAT | SKILL | DESCRIPTION",
+   "en": "A brutal forward strike with two dirks"
+  },
+  {
+   "id": 3864,
+   "mode": "translate",
+   "ctx": "SKILLS/VANQUISHER/SWEEP/SWEEP.DAT | SKILL | DESCRIPTION",
+   "en": "Pushes nearby enemies away with a freezing force of righteousness."
+  },
+  {
+   "id": 3865,
+   "mode": "translate",
+   "ctx": "SKILLS/VANQUISHER/TESLABOMB/TESLABOMB.DAT | SKILL | DESCRIPTION",
+   "en": "Hurl a bomb that splits into electrical bolts on impact"
+  },
+  {
+   "id": 3866,
+   "mode": "translate",
+   "ctx": "SKILLS/VANQUISHER/VENOMDIRK/VENOMDIRK.DAT | SKILL | DESCRIPTION",
+   "en": "Release a set of enchanted poison dirks which slowly seek out and pierce enemies"
+  },
+  {
+   "id": 3867,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/CHAOSSHOT/CHAOSSHOT.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "You fire a trio of chaotic, ricocheting projectiles."
+  },
+  {
+   "id": 3868,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/CHAOSSHOT/CHAOSSHOT.DAT | SKILL | REQUIREMENT_DESCRIPTION",
+   "en": "Requires a bow, crossbow, shotgonne, or pistol"
+  },
+  {
+   "id": 3869,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/CHAOSSHOT/CHAOSSHOT.DAT | SKILL | TIER1_DESCRIPTION",
+   "en": "Missile speed increased 50%"
+  },
+  {
+   "id": 3870,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/CHAOSSHOT/CHAOSSHOT.DAT | SKILL | TIER2_DESCRIPTION",
+   "en": "Missiles have a 30% chance to poison their target"
+  },
+  {
+   "id": 3871,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/CHAOSSHOT/CHAOSSHOT.DAT | SKILL | TIER3_DESCRIPTION",
+   "en": "2 additional missiles per burst"
+  },
+  {
+   "id": 3872,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/DARTFAN/DARTFAN.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "You fling 9 piercing daggers in a wide arc, which poison and cripple many foes at once, reducing the damage they deal."
+  },
+  {
+   "id": 3873,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/DARTFAN/DARTFAN.DAT | SKILL | TIER1_DESCRIPTION",
+   "en": "Number of daggers increased to 11. You gain .5% increased move speed per enemy hit for 4 seconds."
+  },
+  {
+   "id": 3874,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/DARTFAN/DARTFAN.DAT | SKILL | TIER2_DESCRIPTION",
+   "en": "Number of daggers increased to 13. You gain .5% critical hit chance per enemy hit for 4 seconds."
+  },
+  {
+   "id": 3875,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/DARTFAN/DARTFAN.DAT | SKILL | TIER3_DESCRIPTION",
+   "en": "Number of daggers increased to 15. You gain .5% increased damage per enemy hit for 4 seconds."
+  },
+  {
+   "id": 3876,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/DASH/DASH.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "You execute a fiery, spinning leap, up to 7 meters forward. Any foes hit along the way are knocked back and set aflame."
+  },
+  {
+   "id": 3877,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/DASH/DASH.DAT | SKILL | TIER1_DESCRIPTION",
+   "en": "10% faster to cast and range extended to 9 meters"
+  },
+  {
+   "id": 3878,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/DASH/DASH.DAT | SKILL | TIER2_DESCRIPTION",
+   "en": "20% faster to cast and range extended to 11 meters"
+  },
+  {
+   "id": 3879,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/DASH/DASH.DAT | SKILL | TIER3_DESCRIPTION",
+   "en": "30% faster to cast and range extended to 13 meters"
+  },
+  {
+   "id": 3880,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/DEATHSPIRAL/DEATHSPIRAL.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "Fire a deadly spiral of arrows to strike the enemies all around you"
+  },
+  {
+   "id": 3881,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/EXPLODINGGLAIVE/EXPLODINGGLAIVE.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "You hurl a throwing glaive, which shatters on impact, damaging and slowing all foes within 4.5 meters."
+  },
+  {
+   "id": 3882,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/EXPLODINGGLAIVE/EXPLODINGGLAIVE.DAT | SKILL | TIER1_DESCRIPTION",
+   "en": "Adds a 25% chance that targets will flee for 3 seconds"
+  },
+  {
+   "id": 3883,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/EXPLODINGGLAIVE/EXPLODINGGLAIVE.DAT | SKILL | TIER2_DESCRIPTION",
+   "en": "Detonation size increased to 6 meters"
+  },
+  {
+   "id": 3884,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/EXPLODINGGLAIVE/EXPLODINGGLAIVE.DAT | SKILL | TIER3_DESCRIPTION",
+   "en": "Fire trails emanate from the point of detonation"
+  },
+  {
+   "id": 3885,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/GLAIVESWIPE/GLAIVESWIPE.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "You sweep your glaive in a 360 degree arc, knocking back and stunning foes within 4 meters, while generating additional |c00ff9933Charge|u for each enemy struck."
+  },
+  {
+   "id": 3886,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/GLAIVESWIPE/GLAIVESWIPE.DAT | SKILL | TIER1_DESCRIPTION",
+   "en": "Targets bleed"
+  },
+  {
+   "id": 3887,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/GLAIVESWIPE/GLAIVESWIPE.DAT | SKILL | TIER2_DESCRIPTION",
+   "en": "Range increased to 5.5 meters"
+  },
+  {
+   "id": 3888,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/GLAIVESWIPE/GLAIVESWIPE.DAT | SKILL | TIER3_DESCRIPTION",
+   "en": "Stun chance increased to 95%"
+  },
+  {
+   "id": 3889,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/GLAIVETHROW/GLAIVETHROW.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "You hurl a throwing glaive, slicing through your target, rebounding once to strike additional foes, and generating extra |c00ff9933Charge|u."
+  },
+  {
+   "id": 3890,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/GLAIVETHROW/GLAIVETHROW.DAT | SKILL | TIER1_DESCRIPTION",
+   "en": "The Glaive rebounds 2 times"
+  },
+  {
+   "id": 3891,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/GLAIVETHROW/GLAIVETHROW.DAT | SKILL | TIER2_DESCRIPTION",
+   "en": "The Glaive rebounds 3 times"
+  },
+  {
+   "id": 3892,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/GLAIVETHROW/GLAIVETHROW.DAT | SKILL | TIER3_DESCRIPTION",
+   "en": "The Glaive rebounds 4 times"
+  },
+  {
+   "id": 3893,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/GLAIVETHROW/GLAIVETHROW3.DAT | SKILL | DESCRIPTION",
+   "en": "1 extra bounce"
+  },
+  {
+   "id": 3894,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/GLAIVETHROW/GLAIVETHROWRETURN.DAT | SKILL | DESCRIPTION",
+   "en": "It comes back!"
+  },
+  {
+   "id": 3895,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/HEALTHANDMANACONVERT/MANACONVERT.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "Intense focus allows you to master your Charge, and channel it immediately into your Health and Mana pools, while conferring additional resistances to elemental damage. Bonuses are proportional to the amount of Charge consumed."
+  },
+  {
+   "id": 3896,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/HEXDECK/HEX DECK.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "Curse an enemy, dealing damage over time and causing enemies to flee upon its death."
+  },
+  {
+   "id": 3897,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/HEXDECK/HEXFEAR.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "Causes enemies within range to flee in mortal terror"
+  },
+  {
+   "id": 3898,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/ORBITGLAIVE/ORBITGLAIVE.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "You hurl two flaming glaives that circle outward in concentric rings, slashing all foes in range and setting them alight."
+  },
+  {
+   "id": 3899,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/ORBITGLAIVE/ORBITGLAIVE.DAT | SKILL | TIER1_DESCRIPTION",
+   "en": "Glaive size increased, allowing it to strike more accurately"
+  },
+  {
+   "id": 3900,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/ORBITGLAIVE/ORBITGLAIVE.DAT | SKILL | TIER2_DESCRIPTION",
+   "en": "Struck enemies are 30% more vulnerable to Fire and Poison damage"
+  },
+  {
+   "id": 3901,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/ORBITGLAIVE/ORBITGLAIVE.DAT | SKILL | TIER3_DESCRIPTION",
+   "en": "Struck enemies are 45% more vulnerable to Fire and Poison Damage"
+  },
+  {
+   "id": 3902,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/PACTS/ESTHERIANPACT.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "You invoke an ancient curse that protects you and your allies from physical and elemental damage and reflects some damage back on your attackers. The Stone Pact lasts for twenty seconds, and any ally passing through the pact's area benefits from its effects for the listed duration."
+  },
+  {
+   "id": 3903,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/PACTS/ESTHERIANPACT.DAT | SKILL | TIER1_DESCRIPTION",
+   "en": "The pact reflects 25% of damage back at attacking monsters"
+  },
+  {
+   "id": 3904,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/PACTS/ESTHERIANPACT.DAT | SKILL | TIER2_DESCRIPTION",
+   "en": "The pact reflects 50% of damage back at attacking monsters"
+  },
+  {
+   "id": 3905,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/PACTS/ESTHERIANPACT.DAT | SKILL | TIER3_DESCRIPTION",
+   "en": "The pact reflects 75% of damage back at attacking monsters"
+  },
+  {
+   "id": 3906,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/PACTS/HEALBURST.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "A healing burst."
+  },
+  {
+   "id": 3907,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/PACTS/PACT MOVESPEED BUFF.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "Research Adrenal Glands!"
+  },
+  {
+   "id": 3908,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/PACTS/TUTARANPACT.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "You invoke an ancient curse that slows your foes and undermines their defenses. The Blade Pact lasts for seven seconds, and any enemy passing through the pact's area suffers the effects for the listed duration."
+  },
+  {
+   "id": 3909,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/PACTS/TUTARANPACT.DAT | SKILL | TIER1_DESCRIPTION",
+   "en": "The pact lasts for 9 seconds"
+  },
+  {
+   "id": 3910,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/PACTS/TUTARANPACT.DAT | SKILL | TIER2_DESCRIPTION",
+   "en": "The pact lasts for 11 seconds"
+  },
+  {
+   "id": 3911,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/PACTS/TUTARANPACT.DAT | SKILL | TIER3_DESCRIPTION",
+   "en": "The pact lasts for 13 seconds"
+  },
+  {
+   "id": 3912,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/PASSIVES/BULLSEYE_MASTERY.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "You are a master of accurate shooting, and can more precisely target your enemies' vital areas."
+  },
+  {
+   "id": 3913,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/PASSIVES/DODGE_MASTERY.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "Your acrobatic training increases your odds of dodging a blow. "
+  },
+  {
+   "id": 3914,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/PASSIVES/DUAL_PISTOL_MASTERY.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "Your skill with pistols enables you to deal more damage when wielding two at once and occasionally fire both simultaneously... to deadly effect."
+  },
+  {
+   "id": 3915,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/PASSIVES/DUAL_PISTOL_MASTERY.DAT | SKILL | REQUIREMENT_DESCRIPTION",
+   "en": "Requires two equipped pistols to function"
+  },
+  {
+   "id": 3916,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/PASSIVES/LONG_RANGE_MASTERY.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "Your expertise increases damage with all ranged weapons. Bows, crossbows, pistols and wands have increased firing distance."
+  },
+  {
+   "id": 3917,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/PASSIVES/OUTLANDER_ELEMENTAL_DAMAGE_MASTERY.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "Your expertise with the elements allows you to deal more damage with them. Poison receives twice the benefit of the other elements."
+  },
+  {
+   "id": 3918,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/PASSIVES/SHOTGONNE_MASTERY.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "Your expertise with shotgonnes increases the chance that your blasts shock and disorient your targets."
+  },
+  {
+   "id": 3919,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/PASSIVES/SHOTGONNE_MASTERY.DAT | SKILL | REQUIREMENT_DESCRIPTION",
+   "en": "Requires a shotgonne"
+  },
+  {
+   "id": 3920,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/PHANTOMFLIP/PHANTOMBACKFLIP.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "You vault swiftly backward, away from your target. This vault leaves behind a mystic sigil that damages and blinds foes in a 4 meter radius."
+  },
+  {
+   "id": 3921,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/PHANTOMFLIP/PHANTOMBACKFLIP.DAT | SKILL | TIER1_DESCRIPTION",
+   "en": "Sigil radius extended to 5 meters. Blindness extended to 4 seconds. Allows use of health and mana steal abilities."
+  },
+  {
+   "id": 3922,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/PHANTOMFLIP/PHANTOMBACKFLIP.DAT | SKILL | TIER2_DESCRIPTION",
+   "en": "Knockback added. Blindness extended to 5 seconds. Allows use of all weapon-based abilities."
+  },
+  {
+   "id": 3923,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/PHANTOMFLIP/PHANTOMBACKFLIP.DAT | SKILL | TIER3_DESCRIPTION",
+   "en": "Radius extended to 6 meters. Blindness extended to 6 seconds. Builds |c00ff9933Charge|u."
+  },
+  {
+   "id": 3924,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/PLAGUE/PLAGUE.DAT | #1c7a1db0 | DESCRIPTION",
+   "en": "A maximum of 2 lightning chains can appear."
+  },
+  {
+   "id": 3925,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/PLAGUE/PLAGUE.DAT | #1c7a1db2 | DESCRIPTION",
+   "en": "A maximum of 3 lightning chains can appear."
+  },
+  {
+   "id": 3926,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/PLAGUE/PLAGUE.DAT | #1c7a1db6 | DESCRIPTION",
+   "en": "A maximum of 4 lightning chains can appear."
+  },
+  {
+   "id": 3927,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/PLAGUE/PLAGUE.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "Throw a flask containing a virulent disease, which rapidly propagates betweenfoes."
+  },
+  {
+   "id": 3928,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/PLAGUEDART/PLAGUEAOE.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "Pestileeeence!"
+  },
+  {
+   "id": 3929,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/PLAGUEDART/PLAGUEDART.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "Hurl a dart that inflicts a rare, deadly disease.\\nDying under the effects of this plague results in an infectious explosion."
+  },
+  {
+   "id": 3930,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/POISONARROWS/POISONARROWS.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "You fire a flurry of poisonous bolts skyward, which streak to earth in a 4 meter radius around the target location. The hail hits with 8 waves per flurry."
+  },
+  {
+   "id": 3931,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/POISONARROWS/POISONARROWS.DAT | SKILL | TIER1_DESCRIPTION",
+   "en": "Impact radius increased to 5.5 meters"
+  },
+  {
+   "id": 3932,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/POISONARROWS/POISONARROWS.DAT | SKILL | TIER2_DESCRIPTION",
+   "en": "Duration of flurry increased to 12 waves"
+  },
+  {
+   "id": 3933,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/PULLHEX/PULLHEX.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "You summon a fetish which draws nearby foes toward it and has a chance to stun them. A maximum of 3 foes may be drawn at one time.  Max stun chance of 8%."
+  },
+  {
+   "id": 3934,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/PULLHEX/PULLHEX.DAT | SKILL | TIER1_DESCRIPTION",
+   "en": "Foes are damaged when drawn"
+  },
+  {
+   "id": 3935,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/PULLHEX/PULLHEX.DAT | SKILL | TIER2_DESCRIPTION",
+   "en": "Up to five foes can be drawn at one time"
+  },
+  {
+   "id": 3936,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/PULLHEX/PULLHEX.DAT | SKILL | TIER3_DESCRIPTION",
+   "en": "Drawn foes transfer Mana to caster"
+  },
+  {
+   "id": 3937,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/RAPIDSHOT/RAPIDSHOT.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "You fire a rapid burst of projectiles that force enemies back and strip away their armor. The intial range is 7 meters."
+  },
+  {
+   "id": 3938,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/RAPIDSHOT/RAPIDSHOT.DAT | SKILL | TIER1_DESCRIPTION",
+   "en": "Errant shots are added every other shot"
+  },
+  {
+   "id": 3939,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/RAPIDSHOT/RAPIDSHOT.DAT | SKILL | TIER2_DESCRIPTION",
+   "en": "Range extended to 12 meters"
+  },
+  {
+   "id": 3940,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/RAPIDSHOT/RAPIDSHOT.DAT | SKILL | TIER3_DESCRIPTION",
+   "en": "Targets are ignited for 4 seconds"
+  },
+  {
+   "id": 3941,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/REPULSION/REPULSION.DAT | #1c7a1db0 | DESCRIPTION",
+   "en": "Hex can fire every 1 second"
+  },
+  {
+   "id": 3942,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/REPULSION/REPULSION.DAT | #1c7a1db2 | DESCRIPTION",
+   "en": "Hex can fire every .9 seconds and aims a bit faster"
+  },
+  {
+   "id": 3943,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/REPULSION/REPULSION.DAT | #1c7a1db3 | DESCRIPTION",
+   "en": "Hex can fire every .95 seconds and aims a bit faster"
+  },
+  {
+   "id": 3944,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/REPULSION/REPULSION.DAT | #1c7a1db4 | DESCRIPTION",
+   "en": "Hex can fire every .8 seconds and aims a bit faster"
+  },
+  {
+   "id": 3945,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/REPULSION/REPULSION.DAT | #1c7a1db5 | DESCRIPTION",
+   "en": "Hex can fire every .85 seconds and aims a bit faster"
+  },
+  {
+   "id": 3946,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/REPULSION/REPULSION.DAT | #1c7a1db6 | DESCRIPTION",
+   "en": "Hex can fire every .7 seconds and aims a bit faster"
+  },
+  {
+   "id": 3947,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/REPULSION/REPULSION.DAT | #1c7a1db7 | DESCRIPTION",
+   "en": "Hex can fire every .75 seconds and aims a bit faster"
+  },
+  {
+   "id": 3948,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/REPULSION/REPULSION.DAT | #1c7a1db8 | DESCRIPTION",
+   "en": "Hex can fire every .6 seconds and aims a bit faster"
+  },
+  {
+   "id": 3949,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/REPULSION/REPULSION.DAT | #1c7a1db9 | DESCRIPTION",
+   "en": "Hex can fire every .65 seconds and aims a bit faster"
+  },
+  {
+   "id": 3950,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/REPULSION/REPULSION.DAT | #8f43b638 | DESCRIPTION",
+   "en": "Hex can fire every .4 seconds and aims a bit faster"
+  },
+  {
+   "id": 3951,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/REPULSION/REPULSION.DAT | #8f43b639 | DESCRIPTION",
+   "en": "Hex can fire every .45 seconds and aims a bit faster"
+  },
+  {
+   "id": 3952,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/REPULSION/REPULSION.DAT | #8f43b63a | DESCRIPTION",
+   "en": "Hex can fire every .5 seconds and aims a bit faster"
+  },
+  {
+   "id": 3953,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/REPULSION/REPULSION.DAT | #8f43b63b | DESCRIPTION",
+   "en": "Hex can fire every .55 seconds and aims a bit faster"
+  },
+  {
+   "id": 3954,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/REPULSION/REPULSION.DAT | #8f43b63e | DESCRIPTION",
+   "en": "Hex can fire every .3 seconds and aims a bit faster"
+  },
+  {
+   "id": 3955,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/REPULSION/REPULSION.DAT | #8f43b63f | DESCRIPTION",
+   "en": "Hex can fire every .35 seconds and aims a bit faster"
+  },
+  {
+   "id": 3956,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/REPULSION/REPULSION.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "You summon a floating hex avatar, which repulses enemies who draw too near."
+  },
+  {
+   "id": 3957,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/REPULSION/REPULSION.DAT | SKILL | TIER1_DESCRIPTION",
+   "en": "The hex has a 10% chance to cause enemies to flee for 5 seconds"
+  },
+  {
+   "id": 3958,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/REPULSION/REPULSION.DAT | SKILL | TIER2_DESCRIPTION",
+   "en": "The hex has a 20% chance to cause enemies to flee for 5 seconds"
+  },
+  {
+   "id": 3959,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/REPULSION/REPULSION.DAT | SKILL | TIER3_DESCRIPTION",
+   "en": "The hex has a 30% chance to cause enemies to flee for 5 seconds"
+  },
+  {
+   "id": 3960,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/ROOTWALL/ROOTWALL.DAT | #1c7a1db0 | DESCRIPTION",
+   "en": "Brambles last for 10 seconds."
+  },
+  {
+   "id": 3961,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/ROOTWALL/ROOTWALL.DAT | #1c7a1db2 | DESCRIPTION",
+   "en": "Brambles last for 16 seconds."
+  },
+  {
+   "id": 3962,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/ROOTWALL/ROOTWALL.DAT | #1c7a1db3 | DESCRIPTION",
+   "en": "Brambles last for 13 seconds."
+  },
+  {
+   "id": 3963,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/ROOTWALL/ROOTWALL.DAT | #1c7a1db4 | DESCRIPTION",
+   "en": "Brambles last for 20 seconds."
+  },
+  {
+   "id": 3964,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/ROOTWALL/ROOTWALL.DAT | #1c7a1db5 | DESCRIPTION",
+   "en": "Brambles last for 19 seconds."
+  },
+  {
+   "id": 3965,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/ROOTWALL/ROOTWALL.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "You call forth a wall of thorned vines that prevent foes from approaching"
+  },
+  {
+   "id": 3966,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/ROOTWALL/ROOTWALL.DAT | SKILL | TIER1_DESCRIPTION",
+   "en": "Vines damage foes when raised"
+  },
+  {
+   "id": 3967,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/ROOTWALL/ROOTWALL.DAT | SKILL | TIER2_DESCRIPTION",
+   "en": "Vine length increased"
+  },
+  {
+   "id": 3968,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/ROOTWALL/ROOTWALL.DAT | SKILL | TIER3_DESCRIPTION",
+   "en": "Vines exude a poison gas"
+  },
+  {
+   "id": 3969,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/SANDSTORM/ACIDRAIN.DAT | #1c7a1db0 | DESCRIPTION",
+   "en": "Combo skill"
+  },
+  {
+   "id": 3970,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/SANDSTORM/SANDSTORM.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "You hurl your glaive, generating a whirlwind that cuts through foes and saps their health. The sandstorm travels 20 meters and generates 1.5% of your charge bar |c00ff9933Charge|u for every enemy hit."
+  },
+  {
+   "id": 3971,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/SANDSTORM/SANDSTORM.DAT | SKILL | TIER1_DESCRIPTION",
+   "en": "Killed foes emit clouds of plague flies"
+  },
+  {
+   "id": 3972,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/SANDSTORM/SANDSTORM.DAT | SKILL | TIER2_DESCRIPTION",
+   "en": "Range extended to 40 meters"
+  },
+  {
+   "id": 3973,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/SANDSTORM/SANDSTORM.DAT | SKILL | TIER3_DESCRIPTION",
+   "en": "Range extended to 50 meters"
+  },
+  {
+   "id": 3974,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/SHADOWMANTLE/SHADOWMANTLE.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "You call forth a shadow hex protecting you from ranged attackers. The shadowmantle can reflect damage back to the attackers, and it has a chance to blind them for 6 seconds."
+  },
+  {
+   "id": 3975,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/SHADOWMANTLE/SHADOWMANTLE.DAT | SKILL | TIER1_DESCRIPTION",
+   "en": "The hex reflects 125% of the missile damage"
+  },
+  {
+   "id": 3976,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/SHADOWMANTLE/SHADOWMANTLE.DAT | SKILL | TIER2_DESCRIPTION",
+   "en": "The hex reflects 175% of the missile damage"
+  },
+  {
+   "id": 3977,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/SHADOWMANTLE/SHADOWMANTLE.DAT | SKILL | TIER3_DESCRIPTION",
+   "en": "The hex reflects 250% of the missile damage"
+  },
+  {
+   "id": 3978,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/SHADOWSHOT/SHADOWSHOT.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "You curse your ammunition, causing it to split into 3 shards upon impact, which seek additional targets."
+  },
+  {
+   "id": 3979,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/SHADOWSHOT/SHADOWSHOT.DAT | SKILL | TIER1_DESCRIPTION",
+   "en": "Ammo splits into 4 shards"
+  },
+  {
+   "id": 3980,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/SHADOWSHOT/SHADOWSHOT.DAT | SKILL | TIER2_DESCRIPTION",
+   "en": "Ammo splits into 5 shards"
+  },
+  {
+   "id": 3981,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/SHADOWSHOT/SHADOWSHOT.DAT | SKILL | TIER3_DESCRIPTION",
+   "en": "Ammo splits into 6 shards"
+  },
+  {
+   "id": 3982,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/SHARETHEWEALTH/SHARETHEWEALTH.DAT | #1c7a1db0 | DESCRIPTION",
+   "en": "Shared Charge benefits: 20%"
+  },
+  {
+   "id": 3983,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/SHARETHEWEALTH/SHARETHEWEALTH.DAT | #1c7a1db2 | DESCRIPTION",
+   "en": "Shared Charge benefits: 28%"
+  },
+  {
+   "id": 3984,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/SHARETHEWEALTH/SHARETHEWEALTH.DAT | #1c7a1db3 | DESCRIPTION",
+   "en": "Shared Charge benefits: 24%"
+  },
+  {
+   "id": 3985,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/SHARETHEWEALTH/SHARETHEWEALTH.DAT | #1c7a1db4 | DESCRIPTION",
+   "en": "Shared Charge benefits: 36%"
+  },
+  {
+   "id": 3986,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/SHARETHEWEALTH/SHARETHEWEALTH.DAT | #1c7a1db5 | DESCRIPTION",
+   "en": "Shared Charge benefits: 32%"
+  },
+  {
+   "id": 3987,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/SHARETHEWEALTH/SHARETHEWEALTH.DAT | #1c7a1db6 | DESCRIPTION",
+   "en": "Shared Charge benefits: 44%"
+  },
+  {
+   "id": 3988,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/SHARETHEWEALTH/SHARETHEWEALTH.DAT | #1c7a1db7 | DESCRIPTION",
+   "en": "Shared Charge benefits: 40%"
+  },
+  {
+   "id": 3989,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/SHARETHEWEALTH/SHARETHEWEALTH.DAT | #1c7a1db8 | DESCRIPTION",
+   "en": "Shared Charge benefits: 52%"
+  },
+  {
+   "id": 3990,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/SHARETHEWEALTH/SHARETHEWEALTH.DAT | #1c7a1db9 | DESCRIPTION",
+   "en": "Shared Charge benefits: 48%"
+  },
+  {
+   "id": 3991,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/SHARETHEWEALTH/SHARETHEWEALTH.DAT | #8f43b638 | DESCRIPTION",
+   "en": "Shared Charge benefits: 68%"
+  },
+  {
+   "id": 3992,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/SHARETHEWEALTH/SHARETHEWEALTH.DAT | #8f43b639 | DESCRIPTION",
+   "en": "Shared Charge benefits: 64%"
+  },
+  {
+   "id": 3993,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/SHARETHEWEALTH/SHARETHEWEALTH.DAT | #8f43b63a | DESCRIPTION",
+   "en": "Shared Charge benefits: 60%"
+  },
+  {
+   "id": 3994,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/SHARETHEWEALTH/SHARETHEWEALTH.DAT | #8f43b63b | DESCRIPTION",
+   "en": "Shared Charge benefits: 56%"
+  },
+  {
+   "id": 3995,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/SHARETHEWEALTH/SHARETHEWEALTH.DAT | #8f43b63e | DESCRIPTION",
+   "en": "Shared Charge benefits: 76%"
+  },
+  {
+   "id": 3996,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/SHARETHEWEALTH/SHARETHEWEALTH.DAT | #8f43b63f | DESCRIPTION",
+   "en": "Shared Charge benefits: 72%"
+  },
+  {
+   "id": 3997,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/SHARETHEWEALTH/SHARETHEWEALTH.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "You share a percentage of your |c00ff9933Charge|u benefits with all pets and allies within 16 meters, and you gain the same percentage as an additional bonus to your own benefits."
+  },
+  {
+   "id": 3998,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/SNIPERSHOT/SNIPERSHOT.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "An extreme long range shot of focussed energy that blasts a single target for high damage."
+  },
+  {
+   "id": 3999,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/SUMMONBRUTE/SHADOWBRUTE.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "You call forth a terrifying Shadowling Brute at the target location, which lays waste to your enemies."
+  },
+  {
+   "id": 4000,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/SUMMONBRUTE/SHADOWBRUTE.DAT | SKILL | TIER1_DESCRIPTION",
+   "en": "Brute gains dash attack"
+  },
+  {
+   "id": 4001,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/SUMMONBRUTE/SHADOWBRUTE.DAT | SKILL | TIER2_DESCRIPTION",
+   "en": "Brute gains leap attack"
+  },
+  {
+   "id": 4002,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/SUMMONBRUTE/SHADOWBRUTE.DAT | SKILL | TIER3_DESCRIPTION",
+   "en": "Brute attack rate is increased 30%"
+  },
+  {
+   "id": 4003,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/TANGLINGSHOT/TANGLINGSHOT.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "You fire a cursed projectile that binds and immobilizes your target. Enemies within a 3.5 meter radius of your target have a secondary chance of also being entangled. Entangled foes are slowly crushed, taking damage over time."
+  },
+  {
+   "id": 4004,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/TANGLINGSHOT/TANGLINGSHOT.DAT | SKILL | TIER1_DESCRIPTION",
+   "en": "Secondary radius extended to 4.5 meters, and immobilize chance raised to 65%"
+  },
+  {
+   "id": 4005,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/TANGLINGSHOT/TANGLINGSHOT.DAT | SKILL | TIER2_DESCRIPTION",
+   "en": "Secondary radius extended to 5.5 meters, and immobilize chance raised to 80%"
+  },
+  {
+   "id": 4006,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/TANGLINGSHOT/TANGLINGSHOT.DAT | SKILL | TIER3_DESCRIPTION",
+   "en": "Secondary radius extended to 6.5 meters, and immobilize chance raised to 95%"
+  },
+  {
+   "id": 4007,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/VORTEX/VORTEX.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "The Outlander hurls a spinning Glaive that seeks out foes and triggers a swirling vortex that draws enemies in."
+  },
+  {
+   "id": 4008,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/WEAPONPROC/PASSIVEPROC.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "You coat your projectiles with Venom Ember, giving them a chance to explode on impact and poison nearby foes."
+  },
+  {
+   "id": 4009,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/WEAPONPROC/PASSIVEPROC.DAT | SKILL | REQUIREMENT_DESCRIPTION",
+   "en": "Requires a ranged weapon"
+  },
+  {
+   "id": 4010,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/WEAPONPROC/POISONEXPLODE.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "You coat your weapons with a venomous agent. If an enemy is killed, there is a chance it will explode in a 6 meter cloud of poison, damaging enemies that come into contact with it. "
+  },
+  {
+   "id": 4011,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/WEAPONPROC/POISONPROCSKILL.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "Defeating enemies with melee attacks causes them to explode in a poisonous burst."
+  },
+  {
+   "id": 4012,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/WEAPONPROC/ZOMBIEPROC.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "You curse your projectiles with shadow magic that has a chance of converting slain enemies into Shadowling bats that fight for you for ten seconds. Death Ritual improves Shadowling summon duration and attack damage."
+  },
+  {
+   "id": 4013,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/WEAPONPROC/ZOMBIEPROCSKILL.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "Defeating enemies with ranged attacks converts them into short-lived Shadowling bats which will attack foes"
+  },
+  {
+   "id": 4014,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/ZOMBIEDUST/ZOMBIEDUST.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "A blast of cursed breath poisons enemies. If they are killed, they are converted into Shadowling Fiends that fight for you for ten seconds. Note that the Death Ritual skill improves all Shadowling summon duration and attack power."
+  },
+  {
+   "id": 4015,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/ZOMBIEDUST/ZOMBIEDUST.DAT | SKILL | TIER1_DESCRIPTION",
+   "en": "Shadowlings move and attack 10% faster"
+  },
+  {
+   "id": 4016,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/ZOMBIEDUST/ZOMBIEDUST.DAT | SKILL | TIER2_DESCRIPTION",
+   "en": "Shadowlings move and attack 20% faster"
+  },
+  {
+   "id": 4017,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/ZOMBIEDUST/ZOMBIEDUST.DAT | SKILL | TIER3_DESCRIPTION",
+   "en": "Shadowlings move and attack 30% faster"
+  },
+  {
+   "id": 4018,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/ZOMBIEPASSIVE/ZOMBIEPASSIVE.DAT | #1c7a1db0 | DESCRIPTION",
+   "en": "Shadowlings live for 11.5 seconds and do 5% additional damage."
+  },
+  {
+   "id": 4019,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/ZOMBIEPASSIVE/ZOMBIEPASSIVE.DAT | #1c7a1db2 | DESCRIPTION",
+   "en": "Shadowlings live for 14.5 seconds and do 15% additional damage."
+  },
+  {
+   "id": 4020,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/ZOMBIEPASSIVE/ZOMBIEPASSIVE.DAT | #1c7a1db3 | DESCRIPTION",
+   "en": "Shadowlings live for 13 seconds and do 10% additional damage."
+  },
+  {
+   "id": 4021,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/ZOMBIEPASSIVE/ZOMBIEPASSIVE.DAT | #1c7a1db4 | DESCRIPTION",
+   "en": "Shadowlings live for 17.5 seconds and do 25% additional damage."
+  },
+  {
+   "id": 4022,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/ZOMBIEPASSIVE/ZOMBIEPASSIVE.DAT | #1c7a1db5 | DESCRIPTION",
+   "en": "Shadowlings live for 16 seconds and do 20% additional damage."
+  },
+  {
+   "id": 4023,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/ZOMBIEPASSIVE/ZOMBIEPASSIVE.DAT | #1c7a1db6 | DESCRIPTION",
+   "en": "Shadowlings live for 20.5 seconds and do 35% additional damage."
+  },
+  {
+   "id": 4024,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/ZOMBIEPASSIVE/ZOMBIEPASSIVE.DAT | #1c7a1db7 | DESCRIPTION",
+   "en": "Shadowlings live for 19 seconds and do 30% additional damage."
+  },
+  {
+   "id": 4025,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/ZOMBIEPASSIVE/ZOMBIEPASSIVE.DAT | #1c7a1db8 | DESCRIPTION",
+   "en": "Shadowlings live for 23.5 seconds and do 45% additional damage."
+  },
+  {
+   "id": 4026,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/ZOMBIEPASSIVE/ZOMBIEPASSIVE.DAT | #1c7a1db9 | DESCRIPTION",
+   "en": "Shadowlings live for 22 seconds and do 40% additional damage."
+  },
+  {
+   "id": 4027,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/ZOMBIEPASSIVE/ZOMBIEPASSIVE.DAT | #8f43b638 | DESCRIPTION",
+   "en": "Shadowlings live for 29.5 seconds and do 65% additional damage."
+  },
+  {
+   "id": 4028,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/ZOMBIEPASSIVE/ZOMBIEPASSIVE.DAT | #8f43b639 | DESCRIPTION",
+   "en": "Shadowlings live for 28 seconds and do 60% additional damage."
+  },
+  {
+   "id": 4029,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/ZOMBIEPASSIVE/ZOMBIEPASSIVE.DAT | #8f43b63a | DESCRIPTION",
+   "en": "Shadowlings live for 26.5 seconds and do 55% additional damage."
+  },
+  {
+   "id": 4030,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/ZOMBIEPASSIVE/ZOMBIEPASSIVE.DAT | #8f43b63b | DESCRIPTION",
+   "en": "Shadowlings live for 25 seconds and do 50% additional damage."
+  },
+  {
+   "id": 4031,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/ZOMBIEPASSIVE/ZOMBIEPASSIVE.DAT | #8f43b63e | DESCRIPTION",
+   "en": "Shadowlings live for 32.5 seconds and do 75% additional damage."
+  },
+  {
+   "id": 4032,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/ZOMBIEPASSIVE/ZOMBIEPASSIVE.DAT | #8f43b63f | DESCRIPTION",
+   "en": "Shadowlings live for 31 seconds and do 70% additional damage."
+  },
+  {
+   "id": 4033,
+   "mode": "translate",
+   "ctx": "SKILLS/WANDERER/ZOMBIEPASSIVE/ZOMBIEPASSIVE.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "Your Shadowling allies last longer and deal more damage."
+  },
+  {
+   "id": 4034,
+   "mode": "translate",
+   "ctx": "SKILLS/WARRIOR/ARMORDEBUFF/ARMORDEBUFF.DAT | SKILL | DESCRIPTION",
+   "en": "Disrupts the armor of nearby foes, amplifying the damage you deal to them"
+  },
+  {
+   "id": 4035,
+   "mode": "translate",
+   "ctx": "SKILLS/WARRIOR/BERSERK/BERSERK.DAT | SKILL | DESCRIPTION",
+   "en": "\\nYou become insane gaining speed and damage bonus.\\n"
+  },
+  {
+   "id": 4036,
+   "mode": "translate",
+   "ctx": "SKILLS/WARRIOR/BIGHIT/BIGHIT.DAT | SKILL | DESCRIPTION",
+   "en": "A powerful phantasmal blade cleaves your foes"
+  },
+  {
+   "id": 4037,
+   "mode": "translate",
+   "ctx": "SKILLS/WARRIOR/BLASTWAVE/BLASTWAVE.DAT | SKILL | DESCRIPTION",
+   "en": "\\nMultiple shards of light pierce nearby foes\\n"
+  },
+  {
+   "id": 4038,
+   "mode": "translate",
+   "ctx": "SKILLS/WARRIOR/BURST/BURST.DAT | SKILL | DESCRIPTION",
+   "en": "A burst of energy crackles along the ground,\\nflinging enemies from its path\\n"
+  },
+  {
+   "id": 4039,
+   "mode": "translate",
+   "ctx": "SKILLS/WARRIOR/CHAINS/CHAINS.DAT | SKILL | DESCRIPTION",
+   "en": "Phantasmal chains stun nearby foes"
+  },
+  {
+   "id": 4040,
+   "mode": "translate",
+   "ctx": "SKILLS/WARRIOR/CHARGE/CHARGE.DAT | SKILL | DESCRIPTION",
+   "en": "You rush forward in a flurry of powerful attacks using all equipped melee weapons. Movement is toward the cursor, draining mana as you go."
+  },
+  {
+   "id": 4041,
+   "mode": "translate",
+   "ctx": "SKILLS/WARRIOR/FORWARDBLAST/FORWARDBLAST.DAT | SKILL | DESCRIPTION",
+   "en": "A brutal forward dash that damages all foes in its path\\n"
+  },
+  {
+   "id": 4042,
+   "mode": "translate",
+   "ctx": "SKILLS/WARRIOR/FROSTSHIELD/FROSTSHIELD.DAT | SKILL | DESCRIPTION",
+   "en": "A protective field absorbs physical and elemental damage, and freezes foes who strike it"
+  },
+  {
+   "id": 4043,
+   "mode": "translate",
+   "ctx": "SKILLS/WARRIOR/PHALANX/PHALANX.DAT | SKILL | DESCRIPTION",
+   "en": "\\nSummons a phalanx of Skeletal\\nWarriorsto attack your foes\\n"
+  },
+  {
+   "id": 4044,
+   "mode": "translate",
+   "ctx": "SKILLS/WARRIOR/QUAKE/QUAKE.DAT | SKILL | DESCRIPTION",
+   "en": "Strike the ground, sending burning cracks outward to pierce your foes"
+  },
+  {
+   "id": 4045,
+   "mode": "translate",
+   "ctx": "SKILLS/WARRIOR/SHADOWARMOR/SHADOWARMOR.DAT | SKILL | DESCRIPTION",
+   "en": "Summons a phantasm which attacks nearby foes"
+  },
+  {
+   "id": 4046,
+   "mode": "translate",
+   "ctx": "SKILLS/WARRIOR/SHADOWARMORBOW/SHADOWARMOR.DAT | SKILL | DESCRIPTION",
+   "en": "Summons a phantasm which attacks foes at range with a spectral bow"
+  },
+  {
+   "id": 4047,
+   "mode": "translate",
+   "ctx": "SKILLS/WARRIOR/SLASHINGWAVE/SLASHINGWAVE.DAT | SKILL | DESCRIPTION",
+   "en": "\\nCause a mystic shield to appear that reflects missiles.\\n"
+  },
+  {
+   "id": 4048,
+   "mode": "translate",
+   "ctx": "SKILLS/WARRIOR/SLOWAURA/SLOWAURA.DAT | SKILL | DESCRIPTION",
+   "en": "Enemies near you are slowed, and sometimes interrupted. The Aura lasts for two minutes.\\n\\nOnly one Aura may be active at a time."
+  },
+  {
+   "id": 4049,
+   "mode": "translate",
+   "ctx": "SKILLS/WARRIOR/SPECTRALECHO/SPECTRALECHO.DAT | #1c7a1db0 | DESCRIPTION",
+   "en": "While active, attacks cause a spectral echo to damage foes beyond their normal range, dealing 30% of the weapon's DPS."
+  },
+  {
+   "id": 4050,
+   "mode": "translate",
+   "ctx": "SKILLS/WARRIOR/SPECTRALECHO/SPECTRALECHO.DAT | #1c7a1db2 | DESCRIPTION",
+   "en": "While active, attacks cause a spectral echo to damage foes beyond their normal range, dealing 42% of the weapon's DPS."
+  },
+  {
+   "id": 4051,
+   "mode": "translate",
+   "ctx": "SKILLS/WARRIOR/SPECTRALECHO/SPECTRALECHO.DAT | #1c7a1db3 | DESCRIPTION",
+   "en": "While active, attacks cause a spectral echo to damage foes beyond their normal range, dealing 36% of the weapon's DPS."
+  },
+  {
+   "id": 4052,
+   "mode": "translate",
+   "ctx": "SKILLS/WARRIOR/SPECTRALECHO/SPECTRALECHO.DAT | #1c7a1db4 | DESCRIPTION",
+   "en": "While active, attacks cause a spectral echo to damage foes beyond their normal range, dealing 54% of the weapon's DPS."
+  },
+  {
+   "id": 4053,
+   "mode": "translate",
+   "ctx": "SKILLS/WARRIOR/SPECTRALECHO/SPECTRALECHO.DAT | #1c7a1db5 | DESCRIPTION",
+   "en": "While active, attacks cause a spectral echo to damage foes beyond their normal range, dealing 48% of the weapon's DPS."
+  },
+  {
+   "id": 4054,
+   "mode": "translate",
+   "ctx": "SKILLS/WARRIOR/SPECTRALECHO/SPECTRALECHO.DAT | #1c7a1db6 | DESCRIPTION",
+   "en": "While active, attacks cause a spectral echo to damage foes beyond their normal range, dealing 66% of the weapon's DPS."
+  },
+  {
+   "id": 4055,
+   "mode": "translate",
+   "ctx": "SKILLS/WARRIOR/SPECTRALECHO/SPECTRALECHO.DAT | #1c7a1db7 | DESCRIPTION",
+   "en": "While active, attacks cause a spectral echo to damage foes beyond their normal range, dealing 60% of the weapon's DPS."
+  },
+  {
+   "id": 4056,
+   "mode": "translate",
+   "ctx": "SKILLS/WARRIOR/SPECTRALECHO/SPECTRALECHO.DAT | #1c7a1db8 | DESCRIPTION",
+   "en": "While active, attacks cause a spectral echo to damage foes beyond their normal range, dealing 78% of the weapon's DPS."
+  },
+  {
+   "id": 4057,
+   "mode": "translate",
+   "ctx": "SKILLS/WARRIOR/SPECTRALECHO/SPECTRALECHO.DAT | #1c7a1db9 | DESCRIPTION",
+   "en": "While active, attacks cause a spectral echo to damage foes beyond their normal range, dealing 72% of the weapon's DPS."
+  },
+  {
+   "id": 4058,
+   "mode": "translate",
+   "ctx": "SKILLS/WARRIOR/SPECTRALECHO/SPECTRALECHO.DAT | #8f43b639 | DESCRIPTION",
+   "en": "While active, attacks cause a spectral echo to damage foes beyond their normal range, dealing 96% of the weapon's DPS."
+  },
+  {
+   "id": 4059,
+   "mode": "translate",
+   "ctx": "SKILLS/WARRIOR/SPECTRALECHO/SPECTRALECHO.DAT | #8f43b63a | DESCRIPTION",
+   "en": "While active, attacks cause a spectral echo to damage foes beyond their normal range, dealing 90% of the weapon's DPS."
+  },
+  {
+   "id": 4060,
+   "mode": "translate",
+   "ctx": "SKILLS/WARRIOR/SPECTRALECHO/SPECTRALECHO.DAT | #8f43b63b | DESCRIPTION",
+   "en": "While active, attacks cause a spectral echo to damage foes beyond their normal range, dealing 84% of the weapon's DPS."
+  },
+  {
+   "id": 4061,
+   "mode": "translate",
+   "ctx": "SKILLS/WARRIOR/SPECTRALECHO/SPECTRALECHO.DAT | SKILL | DESCRIPTION",
+   "en": "While active, attacks cause a spectral echo to damage foes beyond their normal range"
+  },
+  {
+   "id": 4062,
+   "mode": "translate",
+   "ctx": "SKILLS/WARRIOR/STOMP/STOMP.DAT | SKILL | DESCRIPTION",
+   "en": "Blasts all nearby foes with a shockwave that damages and knocks them back\\n"
+  },
+  {
+   "id": 4063,
+   "mode": "translate",
+   "ctx": "SKILLS/WARRIOR/THORNSAURA/THORNSAURA.DAT | SKILL | DESCRIPTION",
+   "en": "Enemies near you incur automatic damage over time. The aura lasts for two minutes.\\n\\nOnly one Aura may be active at a time."
+  },
+  {
+   "id": 4064,
+   "mode": "translate",
+   "ctx": "SKILLS/WARRIOR/THUNDERPUNCH/THUNDERPUNCH.DAT | AFFIXES | ADDITIONALDESCRIPTION",
+   "en": "Explosion on Death Causes\\n"
+  },
+  {
+   "id": 4065,
+   "mode": "translate",
+   "ctx": "SKILLS/WARRIOR/THUNDERPUNCH/THUNDERPUNCH.DAT | SKILL | DESCRIPTION",
+   "en": "A powerful attack that blows all enemies in front of you away.\\n"
+  },
+  {
+   "id": 4066,
+   "mode": "translate",
+   "ctx": "SKILLS/WARRIOR/WHIRLINGGUST/WHIRLINGGUST.DAT | SKILL | DESCRIPTION",
+   "en": "Attacks all foes in front of you\\nwith all equipped weapons\\n"
+  }
+ ]
+}

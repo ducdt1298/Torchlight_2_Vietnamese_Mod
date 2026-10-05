@@ -1,0 +1,300 @@
+@@ 4817
+Phù phép vật phẩm
+@@ 4818
+Phù phép các năng lực đặc biệt
+@@ 4819
+Giải phù phép vật phẩm
+@@ 4820
+Phù phép Electric cho vật phẩm
+@@ 4821
+Phù phép Fire cho vật phẩm
+@@ 4822
+Đại sư Enchanter
+@@ 4823
+Phù phép Ice cho vật phẩm
+@@ 4824
+Phù phép may mắn cho vật phẩm
+@@ 4825
+Enchanter bậc thầy
+@@ 4826
+Thêm Socket cho vật phẩm
+@@ 4827
+Phù phép tăng thuộc tính cho vật phẩm
+@@ 4828
+Người bán vật phẩm chưa giám định
+@@ 4829
+Hàng bí ẩn nửa giá
+@@ 4830
+Phá hủy Gem đã khảm trong vật phẩm
+@@ 4831
+Nhà sưu tầm đồ quý
+@@ 4832
+Thương nhân tạp hóa
+@@ 4833
+Thương nhân lữ hành
+@@ 4834
+Kết hợp bảo vật để tạo ra vật phẩm mới
+@@ 4835
+Phá hủy vật phẩm để thu hồi Gem bên trong
+@@ 4836
+Thương nhân đồ ma thuật
+@@ 4837
+Bản đồ đến những hầm ngục kỳ lạ!
+@@ 4838
+Kẻ bất hảo
+@@ 4839
+Người bán bộ trang bị Set
+@@ 4840
+Nằm chờ phục kích - Kháng đòn tấn công Elemental
+@@ 4841
+Phát nổ
+@@ 4842
+Phun hơi giá lạnh
+@@ 4843
+Cực kỳ cứng cáp - Đòn lao tới phản lại đạn
+@@ 4844
+Tấn công bằng phép Ice
+@@ 4845
+Đá đẩy lùi - Đập đất - Dịch chuyển tức thời
+@@ 4846
+Phun lửa - Triệu hồi Netherling - Dịch chuyển tức thời
+@@ 4847
+Tấn công bằng tiếng thét
+@@ 4848
+Đòn chém - Ném Glaive
+@@ 4849
+Nhảy lùi - Ném Glaive
+@@ 4850
+Đòn chém - Đòn chém - Ném Glaive
+@@ 4851
+Đòn chém - Ném Glaive - Nhảy lùi
+@@ 4852
+Đánh nhanh - Bỏ chạy khi đồng minh ngã xuống - Nhảy lùi
+@@ 4853
+Ném Glaive - Hy sinh mạng sống vì Eldrayn
+@@ 4854
+Đập đất - Vung búa quét - Không thể bị ngắt đòn
+@@ 4855
+Elite Netherim - Đập đất - Triệu hồi xúc tu
+@@ 4856
+Hút cạn Mana
+@@ 4857
+Hút cạn Mana - Phát nổ
+@@ 4858
+Lao tới tấn công - Chém đẩy lùi
+@@ 4859
+Chém đẩy lùi
+@@ 4860
+Ghi chép danh mục quái vật.
+@@ 4861
+Học giả Ember
+@@ 4862
+Người hát rong đầy hoài bão kiêm ban nhạc một người
+@@ 4863
+The Vanquisher
+@@ 4864
+Cho nhân vật nghỉ hưu và nâng cấp đồ Heirloom
+@@ 4865
+Chó thằn lằn, chó chim...
+@@ 4866
+Mở Phase Portal khi bị tiêu diệt
+@@ 4867
+Lên cấp theo người chơi
+@@ 4868
+Người canh giữ Forsaken Vault
+@@ 4869
+Nhà khảo cổ cấp cao
+@@ 4870
+Có vẻ nó đang bị thứ gì đó sau cánh cửa điều khiển.
+@@ 4871
+Người lái đò hồn ma
+@@ 4872
+Một lữ khách Estherian
+@@ 4873
+Hồn ma cha của Jessa
+@@ 4874
+Đại sứ Zeraphi
+@@ 4875
+Tẩy điểm kỹ năng
+@@ 4876
+Linh hồn chết đuối
+@@ 4877
+Zeraphi hấp hối
+@@ 4878
+Nhà thực vật học Imperial
+@@ 4879
+Hồn ma chết đuối muôn đời
+@@ 4880
+Linh hồn bị dày vò
+@@ 4881
+Enchanter học việc
+@@ 4882
+Linh hồn lạc lối
+@@ 4883
+Trưởng lão Estherian
+@@ 4884
+Người gác cổng Wellspring Temple
+@@ 4885
+Estherian
+@@ 4886
+Sứ giả Estherian
+@@ 4887
+Way-Warden
+@@ 4888
+Chồng của Bellethe
+@@ 4889
+Embercraft Foreman:\nĐưa bạn đến Zeryphesh.
+@@ 4890
+Embercraft Foreman:\nĐưa bạn đến Zeryphesh.\n
+@@ 4891
+Hồn ma của một nhà thám hiểm đã chết từ lâu
+@@ 4892
+Được Bellethe nuôi làm....Pet?
+@@ 4893
+Biệt kích Zeraphi dũng cảm
+@@ 4894
+Djinni
+@@ 4895
+Quý tộc Zeraphi
+@@ 4896
+Embercraft Foreman\nĐi đến Estherian Enclave\n
+@@ 4897
+Embercraft Foreman\nĐi đến Imperial Camp\n
+@@ 4898
+Biệt kích Zeraphi
+@@ 4899
+Trinh sát Zeraphi
+@@ 4900
+Embercraft Foreman\nĐi đến Zeryphesh\n
+@@ 4901
+Estherian hấp hối
+@@ 4902
+Lữ khách Estherian
+@@ 4903
+Grand Regent
+@@ 4904
+Người pha chế
+@@ 4905
+Lữ khách
+@@ 4906
+Kẻ cơ hội
+@@ 4907
+Gã say xỉn
+@@ 4908
+Người khảo sát Ember
+@@ 4909
+Cư dân Torchlight
+@@ 4910
+Là một quý cô!
+@@ 4911
+Imperial Vanquisher tập sự
+@@ 4912
+Imperial Vanquisher
+@@ 4913
+Chỉ huy Zeraphi
+@@ 4914
+Ném bình cháy - Nhảy rút lui
+@@ 4915
+Champion Ratlin
+@@ 4916
+Bắn loạt mũi tên Fire tỏa rộng
+@@ 4917
+Bắn mũi tên rực lửa
+@@ 4918
+Hồi máu cho đồng minh gần đó
+@@ 4919
+Phép Fire
+@@ 4920
+Phép Electric
+@@ 4921
+Phép Poison
+@@ 4922
+Bay lơ lửng khạc nhổ - Không thể bị chọn làm mục tiêu khi đang bay
+@@ 4923
+Hồi sinh nhiều Roach Myrmidon
+@@ 4924
+Kháng mọi nguyên tố, trừ Fire
+@@ 4925
+Nhảy rút lui - Bỏ chạy khi Sandrat ngã xuống
+@@ 4926
+Đòn đập - Ngục đá
+@@ 4927
+Đòn đập tầm xa - Sinh ra Blighted Skara - Ngục đá
+@@ 4928
+Đòn đập tầm xa - Ngục đá
+@@ 4929
+Elite Undead - Phóng lưỡi kiếm hồn ma
+@@ 4930
+Elite Undead - Triệu hồi thủy thủ\nBiến xác chết thành linh hồn đói khát
+@@ 4931
+Undead - Nhanh
+@@ 4932
+Cực nhanh - Tấn công Elemental
+@@ 4933
+Giấu một tấm bản đồ kho báu dưới mũ.
+@@ 4934
+Thuyền phó.
+@@ 4935
+Undead - Mưa tên độc
+@@ 4936
+Champion Undead
+@@ 4937
+Undead - Đánh nhanh
+@@ 4938
+Undead - Xạ thủ súng lục
+@@ 4939
+Undead - Khiên chặn sát thương - Poison
+@@ 4940
+Hào quang lưỡi kiếm
+@@ 4941
+Hào quang phản đạn
+@@ 4942
+Mũi tên Electric phóng ra Charged Bolt
+@@ 4943
+Đòn tấn công phép mạnh mẽ
+@@ 4944
+Gọi dậy Skeleton cổ đại
+@@ 4945
+Undead - Khiên chặn sát thương
+@@ 4946
+Phantasmal Beam - Đạn đầu lâu
+@@ 4947
+Phantasmal Beam - Xoáy đầu lâu - Triệu hồi Skeleton - Đạn đầu lâu
+@@ 4948
+ - Khiên chặn sát thương
+@@ 4949
+Undead rực lửa - Rất nhanh - Sát thương Fire
+@@ 4950
+Undead - Khiên chặn sát thương\nĐánh nhanh
+@@ 4951
+Undead - Ném Phantasmal Skull
+@@ 4952
+Undead - Ném Phantasmal Skull truy đuổi
+@@ 4953
+Undead - Thi triển phép sét
+@@ 4954
+Undead - Thi triển phép Fire
+@@ 4955
+Champion Undead - Thi triển phép sét
+@@ 4956
+Undead - Khó bị tiêu diệt
+@@ 4957
+Undead - Cực kỳ cứng cáp
+@@ 4958
+Tách ra khi chết
+@@ 4959
+Những mảnh cuối cùng còn lại của Splitting Skeleton
+@@ 4960
+Cái đầu giận dữ của Jasper
+@@ 4961
+Khi còn sống, trói buộc khả năng gây sát thương của mục tiêu
+@@ 4962
+Cắn độc - Tấn công tầm xa\n
+@@ 4963
+Phun axit - Đòn đập - Ấp nở Spiderling
+@@ 4964
+Ăn và lớn dần\n
+@@ 4965
+Nhảy vồ nhanh
+@@ 4966
+Phun nọc độc

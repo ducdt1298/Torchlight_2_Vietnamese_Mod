@@ -1,0 +1,3612 @@
+{
+ "batch": "b02_items_2",
+ "count": 601,
+ "items": [
+  {
+   "id": 678,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/EMBER_01_PANTS_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "Show them who wears the pants."
+  },
+  {
+   "id": 679,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/EMBER_01_PANTS_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "The Battle-King expanded the dwarves' holding into an empire."
+  },
+  {
+   "id": 680,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/EMBER_01_RING.DAT | UNIT | DESCRIPTION",
+   "en": "It is important to have good hand-eye coordination."
+  },
+  {
+   "id": 681,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/EMBER_01_RING_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "You have a splinter on your finger."
+  },
+  {
+   "id": 682,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/EMBER_01_RING_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "Even the setting is well over a thousand years old."
+  },
+  {
+   "id": 683,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/EMBER_01_SHOULDERS.DAT | UNIT | DESCRIPTION",
+   "en": "The Emberheart relics are so named because of a layer of Ember in the armor plates."
+  },
+  {
+   "id": 684,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/EMBER_01_SHOULDERS_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "The Emberclad armor was an attempt by human engineers to duplicate dwarven Ember-work armor."
+  },
+  {
+   "id": 685,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/EMBER_01_SHOULDERS_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "Perhaps the loss of the Battle-King's armor explains how the dwarven empire collapsed."
+  },
+  {
+   "id": 686,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_01_BOOTS_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "Captain Logan always loved a good pair of walking boots."
+  },
+  {
+   "id": 687,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_01_BOOTS_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "Passed down from Engineer to Engineer for centuries."
+  },
+  {
+   "id": 688,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_01_CHEST_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "This armor served as the template for all Engineer armors."
+  },
+  {
+   "id": 689,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_01_CHEST_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "Once worn by Grand Master Varn of the Engineers' Guild."
+  },
+  {
+   "id": 690,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_01_GLOVES_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "You can lay these on whoever you like ... though they might object."
+  },
+  {
+   "id": 691,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_01_GLOVES_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "The Gearmaster was the first Engineer to reverse-engineer dwarven artifacts."
+  },
+  {
+   "id": 692,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_01_PANTS_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "Once the sole property of Grand Master Varn's first pupil."
+  },
+  {
+   "id": 693,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_01_PANTS_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "Kept in a secret vault since the reing of the Winter Magus."
+  },
+  {
+   "id": 694,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_01_SHOULDERS.DAT | UNIT | DESCRIPTION",
+   "en": "Underneath all that grease and soot is a sturdy pair of shoulder-guards."
+  },
+  {
+   "id": 695,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_01_SHOULDERS_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "Dented, dinged, and damaged by ill use … but still impressive work."
+  },
+  {
+   "id": 696,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_01_SHOULDERS_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "Some of this oil is five hundred years old."
+  },
+  {
+   "id": 697,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_02_AMULET.DAT | UNIT | DESCRIPTION",
+   "en": "Crafted from an ancient dwarven rail spike."
+  },
+  {
+   "id": 698,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_02_AMULET_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "It bears a tiny, repeating pattern of railspikes."
+  },
+  {
+   "id": 699,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_02_AMULET_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "Crafted from the first railspike of the Imperial Embercraft Line."
+  },
+  {
+   "id": 700,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_02_BELT.DAT | UNIT | DESCRIPTION",
+   "en": "The first Embercraft was a fixed-route vehicle, named after its inventor."
+  },
+  {
+   "id": 701,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_02_BELT_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "Work yourself up a good head of steam."
+  },
+  {
+   "id": 702,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_02_BELT_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "Fashioned from the fan belt of the first Embercraft."
+  },
+  {
+   "id": 703,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_02_BOOTS.DAT | UNIT | DESCRIPTION",
+   "en": "It only took one dropped dwarven gear to get Zugmeister to design these boots."
+  },
+  {
+   "id": 704,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_02_BOOTS_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "For when \"iron-toed\" just doesn't cover it."
+  },
+  {
+   "id": 705,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_02_BOOTS_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "The biggest of big shoes to fill."
+  },
+  {
+   "id": 706,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_02_BOOTS_ALT_SET.DAT | UNIT | DESCRIPTION",
+   "en": "Engineers built these during construction of the Embercraft railway."
+  },
+  {
+   "id": 707,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_02_CHEST.DAT | UNIT | DESCRIPTION",
+   "en": "Zugmeister is famous for deciphering dwarven designs to build Imperial Embercraft."
+  },
+  {
+   "id": 708,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_02_CHEST_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "The cold-forged version was a bit brittle."
+  },
+  {
+   "id": 709,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_02_CHEST_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "The last surviving railman coat from the Empire's construction era."
+  },
+  {
+   "id": 710,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_02_CHEST_ALT_SET.DAT | UNIT | DESCRIPTION",
+   "en": "Engineers forged this out of railway scrap metal."
+  },
+  {
+   "id": 711,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_02_GLOVES.DAT | UNIT | DESCRIPTION",
+   "en": "Zugmeister made these to prove her theories about dwarven design."
+  },
+  {
+   "id": 712,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_02_GLOVES_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "Powered by electrolytes."
+  },
+  {
+   "id": 713,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_02_GLOVES_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "You have no idea where those hands have been."
+  },
+  {
+   "id": 714,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_02_GLOVES_ALT_SET.DAT | UNIT | DESCRIPTION",
+   "en": "Engineers on the Embercraft railway built these as a design exercise."
+  },
+  {
+   "id": 715,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_02_HELMET.DAT | UNIT | DESCRIPTION",
+   "en": "It mechanically augments your own brain power!"
+  },
+  {
+   "id": 716,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_02_HELMET_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "Originally designed for mining use, but also great for working late!"
+  },
+  {
+   "id": 717,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_02_HELMET_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "The light that burns twice as bright!"
+  },
+  {
+   "id": 718,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_02_PANTS.DAT | UNIT | DESCRIPTION",
+   "en": "The seat's shiny veneer is marred by numerous bite marks."
+  },
+  {
+   "id": 719,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_02_PANTS_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "Also known as \"Old Ironbottoms.\""
+  },
+  {
+   "id": 720,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_02_PANTS_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "Zugmeister's theories inform most of modern Imperial engineering."
+  },
+  {
+   "id": 721,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_02_PANTS_ALT_SET.DAT | UNIT | DESCRIPTION",
+   "en": "The railforged armor was a curiosity, until someone realized how useful it was."
+  },
+  {
+   "id": 722,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_02_RING.DAT | UNIT | DESCRIPTION",
+   "en": "Crafted from a rail spike and crusted with jewels."
+  },
+  {
+   "id": 723,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_02_RING_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "Fashioned from a piece of the original Embercraft."
+  },
+  {
+   "id": 724,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_02_RING_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "What Engineers have joined together, let none pull apart."
+  },
+  {
+   "id": 725,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_02_SHOULDERS.DAT | UNIT | DESCRIPTION",
+   "en": "\"Polished pauldrons provide powerful protection.\" - Imperial Army saying"
+  },
+  {
+   "id": 726,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_02_SHOULDERS_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "It cannot make you smarter, but it can remind you to use your head."
+  },
+  {
+   "id": 727,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_02_SHOULDERS_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "The Construction Era yielded all manner of purpose-built treasures."
+  },
+  {
+   "id": 728,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_03_AMULET.DAT | UNIT | DESCRIPTION",
+   "en": "Parts of the amulet resemble sharp, grasping claws."
+  },
+  {
+   "id": 729,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_03_AMULET_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "It smolders with power."
+  },
+  {
+   "id": 730,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_03_AMULET_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "It warms your heart."
+  },
+  {
+   "id": 731,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_03_BELT.DAT | UNIT | DESCRIPTION",
+   "en": "The metal studs resemble short fangs ..."
+  },
+  {
+   "id": 732,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_03_BELT_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "It releases little puffs of smoke from time to time."
+  },
+  {
+   "id": 733,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_03_BELT_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "It gives you a warm feeling, deep inside."
+  },
+  {
+   "id": 734,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_03_BELT_ALT_SET.DAT | UNIT | DESCRIPTION",
+   "en": "The only surviving assembly-line model of the Polk Process."
+  },
+  {
+   "id": 735,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_03_BOOTS.DAT | UNIT | DESCRIPTION",
+   "en": "Any more than sixty hours on your feet, and you lose productivity ..."
+  },
+  {
+   "id": 736,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_03_BOOTS_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "Used to be you could tell a machinist by his missing toes."
+  },
+  {
+   "id": 737,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_03_BOOTS_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "Metal to the pedal."
+  },
+  {
+   "id": 738,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_03_CHEST.DAT | UNIT | DESCRIPTION",
+   "en": "Serious metal for serious work."
+  },
+  {
+   "id": 739,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_03_CHEST_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "The apron is armor, boiler, and forge, all in one."
+  },
+  {
+   "id": 740,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_03_CHEST_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "It's got a pocket for everything!"
+  },
+  {
+   "id": 741,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_03_CHEST_ALT_SET.DAT | UNIT | DESCRIPTION",
+   "en": "Polk the Railmaster designed a machine to create armor."
+  },
+  {
+   "id": 742,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_03_GLOVES.DAT | UNIT | DESCRIPTION",
+   "en": "For when you need to pick up hot metal with your hands."
+  },
+  {
+   "id": 743,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_03_GLOVES_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "You won't believe how convenient these gloves can be!"
+  },
+  {
+   "id": 744,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_03_GLOVES_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "The ultimate hand tools."
+  },
+  {
+   "id": 745,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_03_HELMET.DAT | UNIT | DESCRIPTION",
+   "en": "Everyone knows the Legend of the Faceless Railman."
+  },
+  {
+   "id": 746,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_03_HELMET_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "Because nothing ruins your day like a hot rivet in the face."
+  },
+  {
+   "id": 747,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_03_HELMET_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "In-your-face metal."
+  },
+  {
+   "id": 748,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_03_HELMET_ALT_SET.DAT | UNIT | DESCRIPTION",
+   "en": "The Polk Process could create any piece of armor to fit."
+  },
+  {
+   "id": 749,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_03_PANTS.DAT | UNIT | DESCRIPTION",
+   "en": "The Overseer managed the construction of the Emberway."
+  },
+  {
+   "id": 750,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_03_PANTS_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "Woven of fine-mesh steel, but they breathe like cotton."
+  },
+  {
+   "id": 751,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_03_PANTS_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "The blueprints for these are on file with the Industrium Council."
+  },
+  {
+   "id": 752,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_03_PANTS_ALT_SET.DAT | UNIT | DESCRIPTION",
+   "en": "Polk's machines were destroyed by angry blacksmiths."
+  },
+  {
+   "id": 753,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_03_RING.DAT | UNIT | DESCRIPTION",
+   "en": "Its gems glow in the dark like tiny, menacing eyes ..."
+  },
+  {
+   "id": 754,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_03_RING_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "It creates smoke rings when you blow into it."
+  },
+  {
+   "id": 755,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_03_RING_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "The ultimate hand-warmer."
+  },
+  {
+   "id": 756,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_03_SHOULDERS.DAT | UNIT | DESCRIPTION",
+   "en": "Not everyone can bear the weight of such awesomeness."
+  },
+  {
+   "id": 757,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_03_SHOULDERS_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "Wear it with pride!"
+  },
+  {
+   "id": 758,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_03_SHOULDERS_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "They only get unbearably hot when you crank the furnace."
+  },
+  {
+   "id": 759,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_03_SHOULDERS_ALT_SET.DAT | UNIT | DESCRIPTION",
+   "en": "Railmaster Polk's legacy is that armor is still handmade."
+  },
+  {
+   "id": 760,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_04_AMULET.DAT | UNIT | DESCRIPTION",
+   "en": "Where art and science meet."
+  },
+  {
+   "id": 761,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_04_AMULET_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "Beautiful and functional."
+  },
+  {
+   "id": 762,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_04_AMULET_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "The long-lost badge of office of the Imperial Surveyor."
+  },
+  {
+   "id": 763,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_04_BELT.DAT | UNIT | DESCRIPTION",
+   "en": "No matter where you go, there it is."
+  },
+  {
+   "id": 764,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_04_BELT_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "Bolruk forged a bloody path through the Giantlands."
+  },
+  {
+   "id": 765,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_04_BELT_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "It's always exactly as long as it needs to be."
+  },
+  {
+   "id": 766,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_04_BOOTS.DAT | UNIT | DESCRIPTION",
+   "en": "Sometimes, a good pair of boots kept a surveyor alive."
+  },
+  {
+   "id": 767,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_04_BOOTS_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "Each of your steps is always exactly half a pace."
+  },
+  {
+   "id": 768,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_04_BOOTS_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "If you have to put your foot down, put it straight down."
+  },
+  {
+   "id": 769,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_04_BOOTS_ALT_SET.DAT | UNIT | DESCRIPTION",
+   "en": "The dwarves believed all life sprang from the First-Forge."
+  },
+  {
+   "id": 770,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_04_CHEST.DAT | UNIT | DESCRIPTION",
+   "en": "The Imperial Surveyor laid out the plans for Red Haven."
+  },
+  {
+   "id": 771,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_04_CHEST_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "The surveyors of old worked under dangerous conditions."
+  },
+  {
+   "id": 772,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_04_CHEST_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "Measured twice, crafted once."
+  },
+  {
+   "id": 773,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_04_CHEST_ALT_SET.DAT | UNIT | DESCRIPTION",
+   "en": "Created in the legendary First-Forge."
+  },
+  {
+   "id": 774,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_04_GLOVES.DAT | UNIT | DESCRIPTION",
+   "en": "Gyroscopically stabilized to remain perfectly level."
+  },
+  {
+   "id": 775,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_04_GLOVES_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "For when a steady hand is required."
+  },
+  {
+   "id": 776,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_04_GLOVES_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "Point in any direction you like ... provided you like \"north.\""
+  },
+  {
+   "id": 777,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_04_GLOVES_ALT_SET.DAT | UNIT | DESCRIPTION",
+   "en": "The First-Forge took on a divine significance to the dwarves."
+  },
+  {
+   "id": 778,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_04_HELMET.DAT | UNIT | DESCRIPTION",
+   "en": "For those who just like to eyeball it."
+  },
+  {
+   "id": 779,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_04_HELMET_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "Includes a built-in theodolite."
+  },
+  {
+   "id": 780,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_04_HELMET_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "Look closer."
+  },
+  {
+   "id": 781,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_04_HELMET_ALT_SET.DAT | UNIT | DESCRIPTION",
+   "en": "It might be the oldest helmet ever created."
+  },
+  {
+   "id": 782,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_04_PANTS.DAT | UNIT | DESCRIPTION",
+   "en": "They include a telescoping leg to turn them into a tripod."
+  },
+  {
+   "id": 783,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_04_PANTS_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "Originally designed for underwater surveying."
+  },
+  {
+   "id": 784,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_04_PANTS_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "\"Stand aside, everyone! I take large steps!\" - famous soldier"
+  },
+  {
+   "id": 785,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_04_RING.DAT | UNIT | DESCRIPTION",
+   "en": "Northerners still tell tales of Bolruk Half-Giant."
+  },
+  {
+   "id": 786,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_04_RING_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "It tells you how much things are worth ... in ancient currency."
+  },
+  {
+   "id": 787,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_04_RING_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "Ignorance of the law is no excuse."
+  },
+  {
+   "id": 788,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_04_RING_ALT_SET.DAT | UNIT | DESCRIPTION",
+   "en": "It bears the dwarven rune for \"creator.\""
+  },
+  {
+   "id": 789,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_04_SHOULDERS.DAT | UNIT | DESCRIPTION",
+   "en": "Built to serve as a pair of all-purpose attachment plates."
+  },
+  {
+   "id": 790,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_04_SHOULDERS_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "Handy for determining relative elevation."
+  },
+  {
+   "id": 791,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_04_SHOULDERS_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "Always perfectly aligned."
+  },
+  {
+   "id": 792,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_05_AMULET.DAT | UNIT | DESCRIPTION",
+   "en": "The pattern of gears seems too planned; it must fit something."
+  },
+  {
+   "id": 793,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_05_AMULET_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "Without this medallion, the Clockwork Chimera cannot live."
+  },
+  {
+   "id": 794,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_05_AMULET_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "There are laws about this sort of thing."
+  },
+  {
+   "id": 795,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_05_AMULET_ALT_SET.DAT | UNIT | DESCRIPTION",
+   "en": "The Grand Architect oversees all Imperial engineering."
+  },
+  {
+   "id": 796,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_05_BELT.DAT | UNIT | DESCRIPTION",
+   "en": "It has a space for virtually every tool you use."
+  },
+  {
+   "id": 797,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_05_BELT_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "It only has a space for the tools you actually need."
+  },
+  {
+   "id": 798,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_05_BELT_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "An Engineer is only as good as his tools."
+  },
+  {
+   "id": 799,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_05_BOOTS.DAT | UNIT | DESCRIPTION",
+   "en": "Great armor starts from the ground up."
+  },
+  {
+   "id": 800,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_05_BOOTS_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "The popularity of house carls quickly eventually faded."
+  },
+  {
+   "id": 801,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_05_BOOTS_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "Pulling. Them. Off."
+  },
+  {
+   "id": 802,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_05_BOOTS_ALT_SET.DAT | UNIT | DESCRIPTION",
+   "en": "Superstructure always starts with a good foundation."
+  },
+  {
+   "id": 803,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_05_CHEST.DAT | UNIT | DESCRIPTION",
+   "en": "The last wearer mainly designed slaughterhouses."
+  },
+  {
+   "id": 804,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_05_CHEST_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "Sometimes, you need all the support you can get."
+  },
+  {
+   "id": 805,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_05_CHEST_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "The Valgang kings employ fiercely loyal bodyguards."
+  },
+  {
+   "id": 806,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_05_CHEST_ALT_SET.DAT | UNIT | DESCRIPTION",
+   "en": "The Emperor presented the Grand Architect with this armor."
+  },
+  {
+   "id": 807,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_05_GLOVES.DAT | UNIT | DESCRIPTION",
+   "en": "If you can imagine it, you can draw it."
+  },
+  {
+   "id": 808,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_05_GLOVES_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "They give you a viselike grip ... so you don't need a vise."
+  },
+  {
+   "id": 809,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_05_GLOVES_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "Every architect knows to include a back door in his plans."
+  },
+  {
+   "id": 810,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_05_GLOVES_ALT_SET.DAT | UNIT | DESCRIPTION",
+   "en": "The Grand Architect supervises construction in Vilderan."
+  },
+  {
+   "id": 811,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_05_HELMET.DAT | UNIT | DESCRIPTION",
+   "en": "It helps you hold your head high."
+  },
+  {
+   "id": 812,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_05_HELMET_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "It includes a built-in magnifying glass."
+  },
+  {
+   "id": 813,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_05_HELMET_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "The built-in magnifying glass brings things into focus."
+  },
+  {
+   "id": 814,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_05_HELMET_ALT_SET.DAT | UNIT | DESCRIPTION",
+   "en": "Like all of her armor, the Grand Architect's helm is powered by Ember."
+  },
+  {
+   "id": 815,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_05_PANTS.DAT | UNIT | DESCRIPTION",
+   "en": "A house carl used to be a status symbol among the Valgang nobles."
+  },
+  {
+   "id": 816,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_05_PANTS_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "Designed to hold up under all manner of stress."
+  },
+  {
+   "id": 817,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_05_PANTS_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "Ideal for heavy lifting and heavy fighting."
+  },
+  {
+   "id": 818,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_05_PANTS_ALT_SET.DAT | UNIT | DESCRIPTION",
+   "en": "The Grand Architect modified these to be more stable."
+  },
+  {
+   "id": 819,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_05_RING.DAT | UNIT | DESCRIPTION",
+   "en": "Also a doctor, Shandor performed a lot of unnecessary surgery."
+  },
+  {
+   "id": 820,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_05_RING_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "Here's a fun fact: This ring is made from a pipe fitting."
+  },
+  {
+   "id": 821,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_05_RING_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "The ring's proportions are the smallest units of architectural measurements."
+  },
+  {
+   "id": 822,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_05_SHOULDERS.DAT | UNIT | DESCRIPTION",
+   "en": "You're going to carry that weight a long time."
+  },
+  {
+   "id": 823,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_05_SHOULDERS_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "Designed to support the weight of a heavy battle-helm."
+  },
+  {
+   "id": 824,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_05_SHOULDERS_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "And now for something completely different."
+  },
+  {
+   "id": 825,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_05_SHOULDERS_ALT_SET.DAT | UNIT | DESCRIPTION",
+   "en": "The Grand Architect redesigned these to distribute the weight more evenly."
+  },
+  {
+   "id": 826,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_06_AMULET.DAT | UNIT | DESCRIPTION",
+   "en": "This medallion bears the rune of the ancient dwarven Engineers' Guild."
+  },
+  {
+   "id": 827,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_06_AMULET_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "The last vestige of an ancient style of ironworking."
+  },
+  {
+   "id": 828,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_06_AMULET_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "Beautiful, if unbelievably intricate."
+  },
+  {
+   "id": 829,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_06_AMULET_ALT_SET.DAT | UNIT | DESCRIPTION",
+   "en": "The symbol of the first Emperor, found on all depictions of him."
+  },
+  {
+   "id": 830,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_06_BELT.DAT | UNIT | DESCRIPTION",
+   "en": "The discovery of dwarven smithies spelled the end for traditional ironworking."
+  },
+  {
+   "id": 831,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_06_BELT_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "Ye who smelt it, belt it."
+  },
+  {
+   "id": 832,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_06_BELT_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "From a bygone era of craftsmanship."
+  },
+  {
+   "id": 833,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_06_BELT_ALT_SET.DAT | UNIT | DESCRIPTION",
+   "en": "The pattern worked into the leather was once used by noble houses."
+  },
+  {
+   "id": 834,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_06_BOOTS.DAT | UNIT | DESCRIPTION",
+   "en": "He singlehandedly fought off the Bonebiter Goblins, but no one ever knew his name."
+  },
+  {
+   "id": 835,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_06_BOOTS_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "The Butcher-Wizard of the Lake City created these."
+  },
+  {
+   "id": 836,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_06_BOOTS_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "A good pair of boots is the foundation of a suit of armor."
+  },
+  {
+   "id": 837,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_06_BOOTS_ALT_SET.DAT | UNIT | DESCRIPTION",
+   "en": "These boots appear on statues of the first Emperor."
+  },
+  {
+   "id": 838,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_06_CHEST.DAT | UNIT | DESCRIPTION",
+   "en": "Taskmaster Tempus taught the earliest Engineers."
+  },
+  {
+   "id": 839,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_06_CHEST_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "All other Engineer armors are based on this design."
+  },
+  {
+   "id": 840,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_06_CHEST_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "In the pocket is a one-way ticket to midnight."
+  },
+  {
+   "id": 841,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_06_CHEST_ALT_SET.DAT | UNIT | DESCRIPTION",
+   "en": "Believed to have been the battle-armor of the first Emperor, before his ascension to the throne."
+  },
+  {
+   "id": 842,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_06_GLOVES.DAT | UNIT | DESCRIPTION",
+   "en": "They were designed for the first Emperor's charioteer."
+  },
+  {
+   "id": 843,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_06_GLOVES_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "All the metal you can hold."
+  },
+  {
+   "id": 844,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_06_GLOVES_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "If you can't rule with an iron fist, you're doing it wrong."
+  },
+  {
+   "id": 845,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_06_GLOVES_ALT_SET.DAT | UNIT | DESCRIPTION",
+   "en": "Found in a secret compartment beneath an old monument."
+  },
+  {
+   "id": 846,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_06_HELMET.DAT | UNIT | DESCRIPTION",
+   "en": "Presented to the Royal Engineer to commemorate the completion of the Ember Line."
+  },
+  {
+   "id": 847,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_06_HELMET_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "For the serious headbanger."
+  },
+  {
+   "id": 848,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_06_HELMET_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "Taskmaster Tempus taught hard lessons, but her students laid the foundations of the Empire."
+  },
+  {
+   "id": 849,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_06_HELMET_ALT_SET.DAT | UNIT | DESCRIPTION",
+   "en": "Early Imperial tapestries depict the Emperor wearing a similar helm."
+  },
+  {
+   "id": 850,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_06_PANTS.DAT | UNIT | DESCRIPTION",
+   "en": "Smelts like teen spirit."
+  },
+  {
+   "id": 851,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_06_PANTS_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "Woven with iron threads to stay supple, but resist any blade."
+  },
+  {
+   "id": 852,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_06_PANTS_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "The Blacksmith of Bokrug wore these at the Emberforge."
+  },
+  {
+   "id": 853,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_06_PANTS_ALT_SET.DAT | UNIT | DESCRIPTION",
+   "en": "Said to be stitched together with magic thread from the Brackenwilds."
+  },
+  {
+   "id": 854,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_06_RING.DAT | UNIT | DESCRIPTION",
+   "en": "When they made this ring, they broke the mold."
+  },
+  {
+   "id": 855,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_06_RING_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "A cunning design of interlocking plates."
+  },
+  {
+   "id": 856,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_06_RING_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "Sounds like a fight!"
+  },
+  {
+   "id": 857,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_06_RING_ALT_SET.DAT | UNIT | DESCRIPTION",
+   "en": "It once symbolized highest authority in the Empire."
+  },
+  {
+   "id": 858,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_06_SHOULDERS.DAT | UNIT | DESCRIPTION",
+   "en": "Born of sparks flying in the dead of the night."
+  },
+  {
+   "id": 859,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_06_SHOULDERS_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "The last piece of armor created in the Rail Forge."
+  },
+  {
+   "id": 860,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_06_SHOULDERS_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "The fractal filigree suggests intelligence in the design."
+  },
+  {
+   "id": 861,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/ENGINEER_06_SHOULDERS_ALT_SET.DAT | UNIT | DESCRIPTION",
+   "en": "Pauldrons like this were once common among primitive tribes."
+  },
+  {
+   "id": 862,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/FISH/FISH_ADZEFISH.DAT | UNIT | DESCRIPTION",
+   "en": "Right-click to feed fish to pet.\\n\\nThe Crab Egg transforms your pet into a heavily armored Crab Warrior."
+  },
+  {
+   "id": 863,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/FISH/FISH_ADZEFISH_BIG.DAT | UNIT | DESCRIPTION",
+   "en": "Right-click to feed fish to pet.\\n\\nThe Big Crab Egg transforms your pet into a heavily armored Crab Warrior."
+  },
+  {
+   "id": 864,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/FISH/FISH_ADZEFISH_PERM.DAT | UNIT | DESCRIPTION",
+   "en": "Right-click to feed fish to pet.\\n\\nThe Giant Crab Egg permanently transforms your pet into a heavily armored Crab Warrior.\\n\\nThis effect will last until another transforming fish is consumed."
+  },
+  {
+   "id": 865,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/FISH/FISH_BATFISH.DAT | UNIT | DESCRIPTION",
+   "en": "Right-click to feed fish to pet.\\n\\nThe Warsnout transforms your pet into a high damage Warbeast."
+  },
+  {
+   "id": 866,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/FISH/FISH_BATFISH_PERM.DAT | UNIT | DESCRIPTION",
+   "en": "Right-click to feed fish to pet.\\n\\nThe Giant Warsnout permanently transforms your pet into a high damage Warbeast.\\n\\nThis effect will last until another transforming fish is consumed."
+  },
+  {
+   "id": 867,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/FISH/FISH_BIRDFISH.DAT | UNIT | DESCRIPTION",
+   "en": "Right-click to feed fish to pet.\\n\\nThe Flying Fish transforms your pet into a Swampflyer capable of silencing targets."
+  },
+  {
+   "id": 868,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/FISH/FISH_BIRDFISH_BIG.DAT | UNIT | DESCRIPTION",
+   "en": "Right-click to feed fish to pet.\\n\\nThe Big Flying Fish transforms your pet into a Swampflyer capable of silencing targets."
+  },
+  {
+   "id": 869,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/FISH/FISH_BIRDFISH_PERM.DAT | UNIT | DESCRIPTION",
+   "en": "Right-click to feed fish to pet.\\n\\nThe Giant Flying Fishpermanently transforms your pet into a Swampflyer capable of silencing targets.\\n\\nThis effect will last until another transforming fish is consumed."
+  },
+  {
+   "id": 870,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/FISH/FISH_CAT_RETURN.DAT | UNIT | DESCRIPTION",
+   "en": "Right-click to feed fish to pet.\\n\\nWarning: Permanent Effect!"
+  },
+  {
+   "id": 871,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/FISH/FISH_ELEMCRITBOOST.DAT | UNIT | DESCRIPTION",
+   "en": "Right-click to feed fish to pet"
+  },
+  {
+   "id": 872,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/FISH/FISH_GOLDFIND.DAT | UNIT | DESCRIPTION",
+   "en": "Right-click to eat fish"
+  },
+  {
+   "id": 873,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/FISH/FISH_GOLDFISH.DAT | UNIT | DESCRIPTION",
+   "en": "Not pet food! Just sell it."
+  },
+  {
+   "id": 874,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/FISH/FISH_LAMPFISH.DAT | UNIT | DESCRIPTION",
+   "en": "Right-click to feed fish to pet.\\n\\nThe Tunnel Shark transforms your pet into a Molebeast that has a chance to stun targets."
+  },
+  {
+   "id": 875,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/FISH/FISH_LAMPFISH_BIG.DAT | UNIT | DESCRIPTION",
+   "en": "Right-click to feed fish to pet.\\n\\nThe Big Tunnel Shark transforms your pet into a Molebeast that has a chance to stun targets."
+  },
+  {
+   "id": 876,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/FISH/FISH_LAMPFISH_PERM.DAT | UNIT | DESCRIPTION",
+   "en": "Right-click to feed fish to pet.\\n\\nThe Giant Tunnel Shark permanently transforms your pet into a Molebeast that has a chance to stun targets.\\n\\nThis effect will last until another transforming fish is consumed."
+  },
+  {
+   "id": 877,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/FISH/FISH_MUCKFISH.DAT | UNIT | DESCRIPTION",
+   "en": "Right-click to feed fish to pet.\\n\\nThe Jackal Bass transforms your pet into a Jackal with a venomous bite."
+  },
+  {
+   "id": 878,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/FISH/FISH_MUCKFISH_BIG.DAT | UNIT | DESCRIPTION",
+   "en": "Right-click to feed fish to pet.\\n\\nThe Big Jackal Bass transforms your pet into a Jackal with a venomous bite."
+  },
+  {
+   "id": 879,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/FISH/FISH_MUCKFISH_PERM.DAT | UNIT | DESCRIPTION",
+   "en": "Right-click to feed fish to pet.\\n\\nThe Giant Jackal Bass permanently transforms your pet into a Jackal with a venomous bite.\\n\\nThis effect will last until another transforming fish is consumed."
+  },
+  {
+   "id": 880,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/FISH/FISH_POCKETFISH.DAT | UNIT | DESCRIPTION",
+   "en": "Right-click to feed fish to pet.\\n\\nThe Largemouth Bass transforms your pet into a Mimic, a superior combat companion."
+  },
+  {
+   "id": 881,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/FISH/FISH_POCKETFISH_BIG.DAT | UNIT | DESCRIPTION",
+   "en": "Right-click to feed fish to pet.\\n\\nThe Big Largemouth Bass transforms your pet into a Mimic, a superior combat companion."
+  },
+  {
+   "id": 882,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/FISH/FISH_POCKETFISH_PERM.DAT | UNIT | DESCRIPTION",
+   "en": "Right-click to feed fish to pet.\\n\\nThe Giant Largemouth Bass permanently transforms your pet into a Mimic, a superior combat companion.\\n\\nThis effect will last until another transforming fish is consumed."
+  },
+  {
+   "id": 883,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/FISH/FISH_TORSOFISH.DAT | UNIT | DESCRIPTION",
+   "en": "Right-click to feed fish to pet.\\n\\nThe Bonefish transforms your pet into an armor shredding, half skeleton."
+  },
+  {
+   "id": 884,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/FISH/FISH_TORSOFISH_BIG.DAT | UNIT | DESCRIPTION",
+   "en": "Right-click to feed fish to pet.\\n\\nThe Big Bonefish transforms your pet into an armor shredding, half skeleton."
+  },
+  {
+   "id": 885,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/FISH/FISH_TORSOFISH_GIANT.DAT | UNIT | DESCRIPTION",
+   "en": "Right-click to feed fish to pet.\\n\\nThe Giant Bonefish transforms your pet into an armor shredding, half skeleton.\\n\\nThis effect will last until another transforming fish is consumed."
+  },
+  {
+   "id": 886,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/FISH/FISH_TREEFISH_PERM.DAT | UNIT | DESCRIPTION",
+   "en": "Right-click to feed fish to pet.\\n\\nThis effect will last until another transforming fish is consumed."
+  },
+  {
+   "id": 887,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/FISH/FISH_TROLLFISH.DAT | UNIT | DESCRIPTION",
+   "en": "Right-click to feed fish to pet.\\n\\nThis perplexing fish transforms your pet into a Giant Troll, a very superior combat companion."
+  },
+  {
+   "id": 888,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/FISH/FISH_TROUT.DAT | UNIT | DESCRIPTION",
+   "en": "Right-click to feed fish to pet.\\n\\nThe Web Fish transforms your pet into a Spider that shoots immobilizing webs at foes."
+  },
+  {
+   "id": 889,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/FISH/FISH_TROUT_PERM.DAT | UNIT | DESCRIPTION",
+   "en": "Right-click to feed fish to pet.\\n\\nThe Giant Web Fish permanently transforms your pet into a Spider that shoots immobilizing webs at foes.\\n\\nThis effect will last until another transforming fish is consumed."
+  },
+  {
+   "id": 890,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/FISH/FISH_VAMPIRIC_SPIDER.DAT | UNIT | DESCRIPTION",
+   "en": "Right-click to feed fish to pet.\\n\\nThe Spider Egg transforms your pet into a very strong Vampiric Spider whose attacks steal life to heal you."
+  },
+  {
+   "id": 891,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/FISTS/BASE_FIST.DAT | UNIT | DESCRIPTION",
+   "en": "Claw weapons do no splash damage but ignore half of armor on regular attacks"
+  },
+  {
+   "id": 892,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/FISTS/FIST_U01.DAT | UNIT | DESCRIPTION",
+   "en": "The Valgang tribes consider it a rite of passage to slay a two-toed Mountain Sloth."
+  },
+  {
+   "id": 893,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/FISTS/FIST_U01B.DAT | UNIT | DESCRIPTION",
+   "en": "This sharp beauty will draw your eye, but it might take your nose."
+  },
+  {
+   "id": 894,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/FISTS/FIST_U01C.DAT | UNIT | DESCRIPTION",
+   "en": "A ceremonial weapon, used to dispatch the Frozen Dead."
+  },
+  {
+   "id": 895,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/FISTS/FIST_U02.DAT | UNIT | DESCRIPTION",
+   "en": "If it hits you, you'll understand how it got its name."
+  },
+  {
+   "id": 896,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/FISTS/FIST_U02B.DAT | UNIT | DESCRIPTION",
+   "en": "Hit 'em hard, and hit 'em fast. If they get up, hit 'em again."
+  },
+  {
+   "id": 897,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/FISTS/FIST_U02C.DAT | UNIT | DESCRIPTION",
+   "en": "The Ezrohir speak of this bludgeon with dread."
+  },
+  {
+   "id": 898,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/FISTS/FIST_U03.DAT | UNIT | DESCRIPTION",
+   "en": "It marks the two thin, bloody lines between pain and pleasure."
+  },
+  {
+   "id": 899,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/FISTS/FIST_U03B.DAT | UNIT | DESCRIPTION",
+   "en": "The last word in combat."
+  },
+  {
+   "id": 900,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/FISTS/FIST_U03C.DAT | UNIT | DESCRIPTION",
+   "en": "Put 'em down for the count."
+  },
+  {
+   "id": 901,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/FISTS/FIST_U03_SET_BULLETFIST.DAT | UNIT | DESCRIPTION",
+   "en": "On one hand, your aim is improving."
+  },
+  {
+   "id": 902,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/FISTS/FIST_U04.DAT | UNIT | DESCRIPTION",
+   "en": "If your enemies don't get the point, drill it into their heads."
+  },
+  {
+   "id": 903,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/FISTS/FIST_U04B.DAT | UNIT | DESCRIPTION",
+   "en": "Take it out for a spin!"
+  },
+  {
+   "id": 904,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/FISTS/FIST_U04C.DAT | UNIT | DESCRIPTION",
+   "en": "Legends say the Netherim tried seven times to destroy it."
+  },
+  {
+   "id": 905,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/FISTS/FIST_U05.DAT | UNIT | DESCRIPTION",
+   "en": "\"I'm doing my part!\""
+  },
+  {
+   "id": 906,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/FISTS/FIST_U05B.DAT | UNIT | DESCRIPTION",
+   "en": "Drink deep of your enemies' despair!"
+  },
+  {
+   "id": 907,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/FISTS/FIST_U05C.DAT | UNIT | DESCRIPTION",
+   "en": "Cut it out."
+  },
+  {
+   "id": 908,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/FISTS/FIST_U06.DAT | UNIT | DESCRIPTION",
+   "en": "Fashioned from the skull of the Tonatonga Serpent."
+  },
+  {
+   "id": 909,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/FISTS/FIST_U06B.DAT | UNIT | DESCRIPTION",
+   "en": "They are, in fact, \"pearly white!\""
+  },
+  {
+   "id": 910,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/FISTS/FIST_U06C.DAT | UNIT | DESCRIPTION",
+   "en": "Pound your enemies to mulch."
+  },
+  {
+   "id": 911,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/FISTS/FIST_U06D.DAT | UNIT | DESCRIPTION",
+   "en": "Maximum Velocity"
+  },
+  {
+   "id": 912,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/FISTS/FIST_U06_SET_XTRO.DAT | UNIT | DESCRIPTION",
+   "en": "Daddy's home!"
+  },
+  {
+   "id": 913,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/FISTS/FIST_U07.DAT | UNIT | DESCRIPTION",
+   "en": "In the prison colony on Eon Island, these stones are just lying on the ground."
+  },
+  {
+   "id": 914,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/FISTS/FIST_U07B.DAT | UNIT | DESCRIPTION",
+   "en": "\"Ice conquers all.\" - Valgang saying"
+  },
+  {
+   "id": 915,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/FISTS/FIST_U07C.DAT | UNIT | DESCRIPTION",
+   "en": "See how it catches the rays of the sun? Keep watching ..."
+  },
+  {
+   "id": 916,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/FISTS/LEGENDARY_FIST01.DAT | UNIT | DESCRIPTION",
+   "en": "Deathsport, unike most claw weapons, does splash damage.\\n\\nLegendary Claw Collection\\nNumber One of Five"
+  },
+  {
+   "id": 917,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/FISTS/LEGENDARY_FIST02.DAT | UNIT | DESCRIPTION",
+   "en": "Legendary Claw Collection\\nNumber Two of Five"
+  },
+  {
+   "id": 918,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/FISTS/LEGENDARY_FIST03.DAT | UNIT | DESCRIPTION",
+   "en": "Legendary Claw Collection\\nNumber Three of Five"
+  },
+  {
+   "id": 919,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/FISTS/LEGENDARY_FIST04.DAT | UNIT | DESCRIPTION",
+   "en": "Legendary Claw Collection\\nNumber Four of Five"
+  },
+  {
+   "id": 920,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/FISTS/LEGENDARY_FIST05.DAT | UNIT | DESCRIPTION",
+   "en": "Legendary Claw Collection\\nNumber Five of Five"
+  },
+  {
+   "id": 921,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/FISTS/ZZZ_WEREWOLF_FIST.DAT | UNIT | DESCRIPTION",
+   "en": "He might want it back..."
+  },
+  {
+   "id": 922,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/HUNTER_01_AMULET.DAT | UNIT | DESCRIPTION",
+   "en": "It gave the Warlock the power to find lost treasures."
+  },
+  {
+   "id": 923,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/HUNTER_01_AMULET_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "It was once the badge of office of the man known only as the Oathbreaker."
+  },
+  {
+   "id": 924,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/HUNTER_01_AMULET_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "It bears the inscription \"Swords Over Spells.\""
+  },
+  {
+   "id": 925,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/HUNTER_01_BELT.DAT | UNIT | DESCRIPTION",
+   "en": "Flayed from the hides of Varkolyn casters."
+  },
+  {
+   "id": 926,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/HUNTER_01_BELT_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "Fashioned from the shredded robes of the Oathbreaker."
+  },
+  {
+   "id": 927,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/HUNTER_01_BELT_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "Many believe it warded the Witchfinder from the Netherim."
+  },
+  {
+   "id": 928,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/HUNTER_01_BOOTS.DAT | UNIT | DESCRIPTION",
+   "en": "The Warlock crushed the Varkolyn, then sent them to war against the Estherians."
+  },
+  {
+   "id": 929,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/HUNTER_01_BOOTS_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "The Oathbreaker sided with the Estherians against the Varkolyn."
+  },
+  {
+   "id": 930,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/HUNTER_01_BOOTS_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "Worn all throughout the hunt for the Warlock and Oathbreaker."
+  },
+  {
+   "id": 931,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/HUNTER_01_CHEST.DAT | UNIT | DESCRIPTION",
+   "en": "The Warlock of the Razorpeaks united the Varkolyn against the Estherians."
+  },
+  {
+   "id": 932,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/HUNTER_01_CHEST_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "The Oathbreaker hatched the failed plot to overthrow Emperor Pol."
+  },
+  {
+   "id": 933,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/HUNTER_01_CHEST_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "The Witchfinder rooted out corruption in the Empire."
+  },
+  {
+   "id": 934,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/HUNTER_01_GLOVES.DAT | UNIT | DESCRIPTION",
+   "en": "The Warlock's gloves were found miles apart, years apart."
+  },
+  {
+   "id": 935,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/HUNTER_01_GLOVES_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "When the Oathbreaker went into exile, he was wearing these."
+  },
+  {
+   "id": 936,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/HUNTER_01_GLOVES_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "The Witchfinder never returned from Vilderan."
+  },
+  {
+   "id": 937,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/HUNTER_01_HELMET.DAT | UNIT | DESCRIPTION",
+   "en": "The Warlock credited his quick thinking to this hat."
+  },
+  {
+   "id": 938,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/HUNTER_01_HELMET_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "Some say the Warlock and the Oathbreaker were brothers."
+  },
+  {
+   "id": 939,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/HUNTER_01_HELMET_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "The Witchfinder always said this hat made him a better swordsman ..."
+  },
+  {
+   "id": 940,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/HUNTER_01_PANTS.DAT | UNIT | DESCRIPTION",
+   "en": "The legs are always covered in bat fur, for some reason."
+  },
+  {
+   "id": 941,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/HUNTER_01_PANTS_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "Hand-sewn, from the hide of a giant lizard."
+  },
+  {
+   "id": 942,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/HUNTER_01_PANTS_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "The Witchfinder's belongings appeared in an auction in Red Haven a hundred years ago."
+  },
+  {
+   "id": 943,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/HUNTER_01_RING.DAT | UNIT | DESCRIPTION",
+   "en": "The infamous Warlock cast this aside when he was exiled to Vilderan."
+  },
+  {
+   "id": 944,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/HUNTER_01_RING_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "The Oathbreaker betrayed the Warlock to the Empire, and was banished with him."
+  },
+  {
+   "id": 945,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/HUNTER_01_RING_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "The Witchfinder believed that the Warlock and the Oathbreaker were one and the same."
+  },
+  {
+   "id": 946,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/HUNTER_01_SHOULDERS.DAT | UNIT | DESCRIPTION",
+   "en": "The Warlock modeled these after Varkolyn physiology."
+  },
+  {
+   "id": 947,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/HUNTER_01_SHOULDERS_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "The leather bears a resemblance to the wings of a Varkolyn."
+  },
+  {
+   "id": 948,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/HUNTER_01_SHOULDERS_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "The Empire has had no official Witchfinder since the disappearance of the last one."
+  },
+  {
+   "id": 949,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/LEGENDARY2/LEGENDARY2_AXE05.DAT | UNIT | DESCRIPTION",
+   "en": "Long Lost Legendary Axe!"
+  },
+  {
+   "id": 950,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/LEGENDARY2/LEGENDARY2_BOW05.DAT | UNIT | DESCRIPTION",
+   "en": "Long Lost Legendary Bow!"
+  },
+  {
+   "id": 951,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/LEGENDARY2/LEGENDARY2_CANNON04.DAT | UNIT | DESCRIPTION",
+   "en": "Long Lost Legendary Cannon!"
+  },
+  {
+   "id": 952,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/LEGENDARY2/LEGENDARY2_CROSSBOW03.DAT | UNIT | DESCRIPTION",
+   "en": "Long Lost Legendary Crossbow!"
+  },
+  {
+   "id": 953,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/LEGENDARY2/LEGENDARY2_FIST06.DAT | UNIT | DESCRIPTION",
+   "en": "Long Lost Legendary Claw!"
+  },
+  {
+   "id": 954,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/LEGENDARY2/LEGENDARY2_GREATAXE04.DAT | UNIT | DESCRIPTION",
+   "en": "Long Lost Legendary Greataxe!"
+  },
+  {
+   "id": 955,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/LEGENDARY2/LEGENDARY2_GREATHAMMER04.DAT | UNIT | DESCRIPTION",
+   "en": "Long Lost Legendary Greathammer!"
+  },
+  {
+   "id": 956,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/LEGENDARY2/LEGENDARY2_GREATSWORD04.DAT | UNIT | DESCRIPTION",
+   "en": "Long Lost Legendary Greatsword!"
+  },
+  {
+   "id": 957,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/LEGENDARY2/LEGENDARY2_HAMMER05.DAT | UNIT | DESCRIPTION",
+   "en": "Long Lost Legendary Hammer!"
+  },
+  {
+   "id": 958,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/LEGENDARY2/LEGENDARY2_PISTOL06.DAT | UNIT | DESCRIPTION",
+   "en": "Long Lost Legendary Pistol!"
+  },
+  {
+   "id": 959,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/LEGENDARY2/LEGENDARY2_POLEARM04.DAT | UNIT | DESCRIPTION",
+   "en": "Long Lost Legendary Polearm!"
+  },
+  {
+   "id": 960,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/LEGENDARY2/LEGENDARY2_RIFLE04.DAT | UNIT | DESCRIPTION",
+   "en": "Long Lost Legendary Rifle!"
+  },
+  {
+   "id": 961,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/LEGENDARY2/LEGENDARY2_SHIELD05.DAT | UNIT | DESCRIPTION",
+   "en": "Long Lost Legendary Shield!"
+  },
+  {
+   "id": 962,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/LEGENDARY2/LEGENDARY2_STAFF06.DAT | UNIT | DESCRIPTION",
+   "en": "Long Lost Legendary Staff!"
+  },
+  {
+   "id": 963,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/LEGENDARY2/LEGENDARY2_SWORD05.DAT | UNIT | DESCRIPTION",
+   "en": "Long Lost Legendary Sword!"
+  },
+  {
+   "id": 964,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/LEGENDARY2/LEGENDARY2_WAND06.DAT | UNIT | DESCRIPTION",
+   "en": "Long Lost Legendary Wand!"
+  },
+  {
+   "id": 965,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/LEVELITEMS/A2_POI_LARGESKELETON_EYE_ITEM.DAT | UNIT | DESCRIPTION",
+   "en": "The gem looks as if it is an eye of an ancient beast."
+  },
+  {
+   "id": 966,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/LEVELITEMS/A3-ROTCRYPTGEM.DAT | UNIT | DESCRIPTION",
+   "en": "Return to the Altar near the entrance to the Rotting Crypt."
+  },
+  {
+   "id": 967,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/LEVELITEMS/BANDITBOTTLE.DAT | UNIT | DESCRIPTION",
+   "en": "A suspicious bottle of lotion."
+  },
+  {
+   "id": 968,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/LEVELITEMS/BANDITCELLUNLOCKKEY.DAT | UNIT | DESCRIPTION",
+   "en": "Key for prisons"
+  },
+  {
+   "id": 969,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/LEVELITEMS/BANDITCHESTUNLOCKKEY.DAT | UNIT | DESCRIPTION",
+   "en": "A small key."
+  },
+  {
+   "id": 970,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/LEVELITEMS/BELL.DAT | UNIT | DESCRIPTION",
+   "en": "The bell is inscribed with ancient symbols."
+  },
+  {
+   "id": 971,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/LEVELITEMS/CASHBOX.DAT | UNIT | DESCRIPTION",
+   "en": "It's full of coins and securely locked."
+  },
+  {
+   "id": 972,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/LEVELITEMS/CHESTUNLOCKKEY.DAT | UNIT | DESCRIPTION",
+   "en": "The key has a chest carved on it."
+  },
+  {
+   "id": 973,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/LEVELITEMS/COINPURSE.DAT | UNIT | DESCRIPTION",
+   "en": "The leather is covered in fine scrollwork."
+  },
+  {
+   "id": 974,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/LEVELITEMS/DRAGONCRYSTALPICKUP.DAT | UNIT | DESCRIPTION",
+   "en": "A broken piece of a crystal Shard.\\n"
+  },
+  {
+   "id": 975,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/LEVELITEMS/DRAGONGATEKEY.DAT | UNIT | DESCRIPTION",
+   "en": "A key to the Gate.\\n"
+  },
+  {
+   "id": 976,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/LEVELITEMS/EVT_CENSER.DAT | UNIT | DESCRIPTION",
+   "en": "Incense still smoulders inside, emiting a peaceful scent."
+  },
+  {
+   "id": 977,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/LEVELITEMS/GOLEM SOUL.DAT | UNIT | DESCRIPTION",
+   "en": "The fiery residue of a Bone Golem"
+  },
+  {
+   "id": 978,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/LEVELITEMS/IRIDIAN FOCUS.DAT | UNIT | DESCRIPTION",
+   "en": "A gem that warps light in a seemingly impossible way."
+  },
+  {
+   "id": 979,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/LEVELITEMS/KENNELKEY.DAT | UNIT | DESCRIPTION",
+   "en": "A key to the dog Kennel."
+  },
+  {
+   "id": 980,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/LEVELITEMS/MASTERKEY.DAT | UNIT | DESCRIPTION",
+   "en": "The large key for a large chest"
+  },
+  {
+   "id": 981,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/LEVELITEMS/MEDALLION.DAT | UNIT | DESCRIPTION",
+   "en": "It's quite old, and crusted with dirt."
+  },
+  {
+   "id": 982,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/LEVELITEMS/NECKLACE.DAT | UNIT | DESCRIPTION",
+   "en": "There is no clear way to open the locket."
+  },
+  {
+   "id": 983,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/LEVELITEMS/PHASEBEAST-CHOICE_KEY.DAT | UNIT | DESCRIPTION",
+   "en": "Some kind of key-like object."
+  },
+  {
+   "id": 984,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/LEVELITEMS/PHASEBEAST-CRABLEGS.DAT | UNIT | DESCRIPTION",
+   "en": "Someone must want these."
+  },
+  {
+   "id": 985,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/LEVELITEMS/PHASEBEAST-FIREWOOD.DAT | UNIT | DESCRIPTION",
+   "en": "Good for building fires to stay warm."
+  },
+  {
+   "id": 986,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/LEVELITEMS/PHASEBEAST-MYSTERIOUSGEM.DAT | UNIT | DESCRIPTION",
+   "en": "What secrets does it hold?"
+  },
+  {
+   "id": 987,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/LEVELITEMS/PHASEBEAST-SHOVEL.DAT | UNIT | DESCRIPTION",
+   "en": "An old shovel that will break when used."
+  },
+  {
+   "id": 988,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/LEVELITEMS/PHASEBEAST-TREASUREMAP.DAT | UNIT | DESCRIPTION",
+   "en": "Apparently 'X' marks many spots."
+  },
+  {
+   "id": 989,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/LEVELITEMS/PHASEBEASTANTIVENOM.DAT | UNIT | DESCRIPTION",
+   "en": "A delicious bottle of poison."
+  },
+  {
+   "id": 990,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/LEVELITEMS/PLUNGER.DAT | UNIT | DESCRIPTION",
+   "en": "A plunger to a Detonator"
+  },
+  {
+   "id": 991,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/LEVELITEMS/POCKETWATCH.DAT | UNIT | DESCRIPTION",
+   "en": "A golden pocket watch."
+  },
+  {
+   "id": 992,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/LEVELITEMS/POWER CRYSTAL.DAT | UNIT | DESCRIPTION",
+   "en": "This can be used as a source of power."
+  },
+  {
+   "id": 993,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/LEVELITEMS/SPIDEREGG.DAT | UNIT | DESCRIPTION",
+   "en": "A rusted miner's key."
+  },
+  {
+   "id": 994,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/LEVELITEMS/TOWEROFMOONUNLOCKKEY.DAT | UNIT | DESCRIPTION",
+   "en": "Juthama Kasam's key"
+  },
+  {
+   "id": 995,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/LEVELITEMS/WITCH_INGREDIENT_BONES.DAT | UNIT | DESCRIPTION",
+   "en": "The iron-hard thorns of an elder Wood Wraith"
+  },
+  {
+   "id": 996,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/LEVELITEMS/WITCH_INGREDIENT_HEART.DAT | UNIT | DESCRIPTION",
+   "en": "The Black Heart of a Coward"
+  },
+  {
+   "id": 997,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/LEVELITEMS/WITCH_INGREDIENT_HOOD.DAT | UNIT | DESCRIPTION",
+   "en": "The Mask of Grom the Murderer"
+  },
+  {
+   "id": 998,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/MACES/HAMMER_U01.DAT | UNIT | DESCRIPTION",
+   "en": "It knows what scares you."
+  },
+  {
+   "id": 999,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/MACES/HAMMER_U01B.DAT | UNIT | DESCRIPTION",
+   "en": "\"And the Wyrd was mighty.\""
+  },
+  {
+   "id": 1000,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/MACES/HAMMER_U01C.DAT | UNIT | DESCRIPTION",
+   "en": "Order! Order!"
+  },
+  {
+   "id": 1001,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/MACES/HAMMER_U02.DAT | UNIT | DESCRIPTION",
+   "en": "Goblins call it \"the Hammer That Ends the Battle.\""
+  },
+  {
+   "id": 1002,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/MACES/HAMMER_U02B.DAT | UNIT | DESCRIPTION",
+   "en": "The true test of a champion is how long it takes to kill him."
+  },
+  {
+   "id": 1003,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/MACES/HAMMER_U02C.DAT | UNIT | DESCRIPTION",
+   "en": "Show's over!"
+  },
+  {
+   "id": 1004,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/MACES/HAMMER_U03.DAT | UNIT | DESCRIPTION",
+   "en": "For enemies who lead with their chins ..."
+  },
+  {
+   "id": 1005,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/MACES/HAMMER_U03B.DAT | UNIT | DESCRIPTION",
+   "en": "If it ain't broke ... fix it."
+  },
+  {
+   "id": 1006,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/MACES/HAMMER_U03C.DAT | UNIT | DESCRIPTION",
+   "en": "It's all in your head."
+  },
+  {
+   "id": 1007,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/MACES/HAMMER_U04.DAT | UNIT | DESCRIPTION",
+   "en": "When you've got this mace, you're holding all the cards."
+  },
+  {
+   "id": 1008,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/MACES/HAMMER_U04B.DAT | UNIT | DESCRIPTION",
+   "en": "This mace will break a few hearts."
+  },
+  {
+   "id": 1009,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/MACES/HAMMER_U04C.DAT | UNIT | DESCRIPTION",
+   "en": "The beatings will continue until the morale improves."
+  },
+  {
+   "id": 1010,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/MACES/HAMMER_U04D.DAT | UNIT | DESCRIPTION",
+   "en": "Still putting the “Doom” in “Sexy.”"
+  },
+  {
+   "id": 1011,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/MACES/HAMMER_U05.DAT | UNIT | DESCRIPTION",
+   "en": "Your own personal holy terror."
+  },
+  {
+   "id": 1012,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/MACES/HAMMER_U05B.DAT | UNIT | DESCRIPTION",
+   "en": "It kills what scares you."
+  },
+  {
+   "id": 1013,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/MACES/HAMMER_U05C.DAT | UNIT | DESCRIPTION",
+   "en": "Keeping the faithful faithful."
+  },
+  {
+   "id": 1014,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/MACES/HAMMER_U06.DAT | UNIT | DESCRIPTION",
+   "en": "A perfect duplicate of the maul ... at one-eighth the size."
+  },
+  {
+   "id": 1015,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/MACES/HAMMER_U06B.DAT | UNIT | DESCRIPTION",
+   "en": "Bang! Bang!"
+  },
+  {
+   "id": 1016,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/MACES/HAMMER_U06C.DAT | UNIT | DESCRIPTION",
+   "en": "The weapon of the legendary \"Old Man Warrior,\" Scalzius."
+  },
+  {
+   "id": 1017,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/MACES/HAMMER_U07.DAT | UNIT | DESCRIPTION",
+   "en": "Put their spirits to rest."
+  },
+  {
+   "id": 1018,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/MACES/HAMMER_U07B.DAT | UNIT | DESCRIPTION",
+   "en": "It beats some sense into those it beats senseless."
+  },
+  {
+   "id": 1019,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/MACES/HAMMER_U07C.DAT | UNIT | DESCRIPTION",
+   "en": "Payback's a bitch!"
+  },
+  {
+   "id": 1020,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/MACES/LEGENDARY_HAMMER01.DAT | UNIT | DESCRIPTION",
+   "en": "Legendary Hammer Collection\\nNumber One of Four"
+  },
+  {
+   "id": 1021,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/MACES/LEGENDARY_HAMMER02.DAT | UNIT | DESCRIPTION",
+   "en": "Legendary Hammer Collection\\nNumber Two of Four"
+  },
+  {
+   "id": 1022,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/MACES/LEGENDARY_HAMMER03.DAT | UNIT | DESCRIPTION",
+   "en": "Legendary Hammer Collection\\nNumber Three of Four"
+  },
+  {
+   "id": 1023,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/MACES/LEGENDARY_HAMMER04.DAT | UNIT | DESCRIPTION",
+   "en": "Legendary Hammer Collection\\nNumber Four of Four"
+  },
+  {
+   "id": 1024,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/MACES/Z_HAMMER_U07_SET.DAT | UNIT | DESCRIPTION",
+   "en": "At last! AT LAST!"
+  },
+  {
+   "id": 1025,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/MAPS/ARENA.DAT | UNIT | DESCRIPTION",
+   "en": "Right-click to open a portal to a lost dungeon"
+  },
+  {
+   "id": 1026,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/MAPS/CATACOMBSMAP.DAT | UNIT | DESCRIPTION",
+   "en": "Enables entry to the Cursed Catacombs via the Mapworks"
+  },
+  {
+   "id": 1027,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/MAPS/CATACOMBSMAPA105.DAT | UNIT | DESCRIPTION",
+   "en": "Enables entry to the Infernal Necropolis via the Mapworks"
+  },
+  {
+   "id": 1028,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/MAPS/CATACOMBSMAPA56.DAT | UNIT | DESCRIPTION",
+   "en": "Enables entry to the Cursed Tombs via the Mapworks"
+  },
+  {
+   "id": 1029,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/MAPS/CATACOMBSMAPA66.DAT | UNIT | DESCRIPTION",
+   "en": "Enables entry to the Cursed Mausoleum via the Mapworks"
+  },
+  {
+   "id": 1030,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/MAPS/CATACOMBSMAPA76.DAT | UNIT | DESCRIPTION",
+   "en": "Enables entry to the Infernal Catacombs via the Mapworks"
+  },
+  {
+   "id": 1031,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/MAPS/CATACOMBSMAPA86.DAT | UNIT | DESCRIPTION",
+   "en": "Enables entry to the Infernal Tombs via the Mapworks"
+  },
+  {
+   "id": 1032,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/MAPS/CATACOMBSMAPA96.DAT | UNIT | DESCRIPTION",
+   "en": "Enables entry to the Infernal Mausoleum via the Mapworks"
+  },
+  {
+   "id": 1033,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/MAPS/CATACOMBSMAPB.DAT | UNIT | DESCRIPTION",
+   "en": "Enables entry to the Defiled Burrow via the Mapworks"
+  },
+  {
+   "id": 1034,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/MAPS/CATACOMBSMAPB105.DAT | UNIT | DESCRIPTION",
+   "en": "Enables entry to the Desecrated Sepulcher via the Mapworks"
+  },
+  {
+   "id": 1035,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/MAPS/CATACOMBSMAPB56.DAT | UNIT | DESCRIPTION",
+   "en": "Enables entry to the Defiled Graves via the Mapworks"
+  },
+  {
+   "id": 1036,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/MAPS/CATACOMBSMAPB66.DAT | UNIT | DESCRIPTION",
+   "en": "Enables entry to the Defiled Cemetery via the Mapworks"
+  },
+  {
+   "id": 1037,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/MAPS/CATACOMBSMAPB76.DAT | UNIT | DESCRIPTION",
+   "en": "Enables entry to the Desecrated Burrow via the Mapworks"
+  },
+  {
+   "id": 1038,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/MAPS/CATACOMBSMAPB86.DAT | UNIT | DESCRIPTION",
+   "en": "Enables entry to the Desecrated Graves via the Mapworks"
+  },
+  {
+   "id": 1039,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/MAPS/CATACOMBSMAPB96.DAT | UNIT | DESCRIPTION",
+   "en": "Enables entry to the Desecrated Cemetery via the Mapworks"
+  },
+  {
+   "id": 1040,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/MAPS/CATACOMBSMAPC.DAT | UNIT | DESCRIPTION",
+   "en": "Enables entry to the Ghastly Vault via the Mapworks"
+  },
+  {
+   "id": 1041,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/MAPS/CATACOMBSMAPC105.DAT | UNIT | DESCRIPTION",
+   "en": "Enables entry to the Bloody Boneyard via the Mapworks"
+  },
+  {
+   "id": 1042,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/MAPS/CATACOMBSMAPC56.DAT | UNIT | DESCRIPTION",
+   "en": "Enables entry to the Ghastly Crypt via the Mapworks"
+  },
+  {
+   "id": 1043,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/MAPS/CATACOMBSMAPC66.DAT | UNIT | DESCRIPTION",
+   "en": "Enables entry to the Ghastly Mortuary via the Mapworks"
+  },
+  {
+   "id": 1044,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/MAPS/CATACOMBSMAPC76.DAT | UNIT | DESCRIPTION",
+   "en": "Enables entry to the Bloody Vault via the Mapworks"
+  },
+  {
+   "id": 1045,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/MAPS/CATACOMBSMAPC86.DAT | UNIT | DESCRIPTION",
+   "en": "Enables entry to the Bloody Crypt via the Mapworks"
+  },
+  {
+   "id": 1046,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/MAPS/CATACOMBSMAPC96.DAT | UNIT | DESCRIPTION",
+   "en": "Enables entry to the Bloody Mortuary via the Mapworks"
+  },
+  {
+   "id": 1047,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/MAPS/CAVESMAPA.DAT | UNIT | DESCRIPTION",
+   "en": "Enables entry to the Shadowy Grotto via the Mapworks"
+  },
+  {
+   "id": 1048,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/MAPS/CAVESMAPA105.DAT | UNIT | DESCRIPTION",
+   "en": "Enables entry to the Abyssal Fissure via the Mapworks"
+  },
+  {
+   "id": 1049,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/MAPS/CAVESMAPA66.DAT | UNIT | DESCRIPTION",
+   "en": "Enables entry to the Shadowy Caves via the Mapworks"
+  },
+  {
+   "id": 1050,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/MAPS/CAVESMAPA76.DAT | UNIT | DESCRIPTION",
+   "en": "Enables entry to the Abyssal Grotto via the Mapworks"
+  },
+  {
+   "id": 1051,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/MAPS/CAVESMAPA86.DAT | UNIT | DESCRIPTION",
+   "en": "Enables entry to the Abyssal Pit via the Mapworks"
+  },
+  {
+   "id": 1052,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/MAPS/CAVESMAPA96.DAT | UNIT | DESCRIPTION",
+   "en": "Enables entry to the Abyssal Caves via the Mapworks"
+  },
+  {
+   "id": 1053,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/MAPS/DRAGONMAPA.DAT | UNIT | DESCRIPTION",
+   "en": "Enables entry to the Wyvern Keep via the Mapworks"
+  },
+  {
+   "id": 1054,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/MAPS/DRAGONMAPA105.DAT | UNIT | DESCRIPTION",
+   "en": "Enables entry to the Dragon Bastion via the Mapworks"
+  },
+  {
+   "id": 1055,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/MAPS/DRAGONMAPA56.DAT | UNIT | DESCRIPTION",
+   "en": "Enables entry to the Wyvern Stronghold via the Mapworks"
+  },
+  {
+   "id": 1056,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/MAPS/DRAGONMAPA66.DAT | UNIT | DESCRIPTION",
+   "en": "Enables entry to the Wyvern Citadel via the Mapworks"
+  },
+  {
+   "id": 1057,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/MAPS/DRAGONMAPA76.DAT | UNIT | DESCRIPTION",
+   "en": "Enables entry to the Dragon Keep via the Mapworks"
+  },
+  {
+   "id": 1058,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/MAPS/DRAGONMAPA86.DAT | UNIT | DESCRIPTION",
+   "en": "Enables entry to the Dragon Stronghold via the Mapworks"
+  },
+  {
+   "id": 1059,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/MAPS/DRAGONMAPA96.DAT | UNIT | DESCRIPTION",
+   "en": "Enables entry to the Dragon Citadel via the Mapworks"
+  },
+  {
+   "id": 1060,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/MAPS/DWARVENLABSMAPA.DAT | UNIT | DESCRIPTION",
+   "en": "Enables entry to the Forgotten Labs via the Mapworks"
+  },
+  {
+   "id": 1061,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/MAPS/DWARVENLABSMAPA105.DAT | UNIT | DESCRIPTION",
+   "en": "Enables entry to the Deserted Foundry via the Mapworks"
+  },
+  {
+   "id": 1062,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/MAPS/DWARVENLABSMAPA56.DAT | UNIT | DESCRIPTION",
+   "en": "Enables entry to the Forgotten Workshop via the Mapworks"
+  },
+  {
+   "id": 1063,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/MAPS/DWARVENLABSMAPA66.DAT | UNIT | DESCRIPTION",
+   "en": "Enables entry to the Forgotten Factory via the Mapworks"
+  },
+  {
+   "id": 1064,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/MAPS/DWARVENLABSMAPA76.DAT | UNIT | DESCRIPTION",
+   "en": "Enables entry to the Deserted Labs via the Mapworks"
+  },
+  {
+   "id": 1065,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/MAPS/DWARVENLABSMAPA86.DAT | UNIT | DESCRIPTION",
+   "en": "Enables entry to the Deserted Workshop via the Mapworks"
+  },
+  {
+   "id": 1066,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/MAPS/DWARVENLABSMAPA96.DAT | UNIT | DESCRIPTION",
+   "en": "Enables entry to the Deserted Factory via the Mapworks"
+  },
+  {
+   "id": 1067,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/MAPS/ESTHERIANMAPA.DAT | UNIT | DESCRIPTION",
+   "en": "Enables entry to the Estherian Depths via the Mapworks"
+  },
+  {
+   "id": 1068,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/MAPS/ESTHERIANMAPB.DAT | UNIT | DESCRIPTION",
+   "en": "Enables entry to the Ruined Shrine via the Mapworks"
+  },
+  {
+   "id": 1069,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/MAPS/ESTHERIANMAPB105.DAT | UNIT | DESCRIPTION",
+   "en": "Enables entry to the Desolate Chantry via the Mapworks"
+  },
+  {
+   "id": 1070,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/MAPS/ESTHERIANMAPB56.DAT | UNIT | DESCRIPTION",
+   "en": "Enables entry to the Ruined Sanctuary via the Mapworks"
+  },
+  {
+   "id": 1071,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/MAPS/ESTHERIANMAPB66.DAT | UNIT | DESCRIPTION",
+   "en": "Enables entry to the Ruined Temple via the Mapworks"
+  },
+  {
+   "id": 1072,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/MAPS/ESTHERIANMAPB76.DAT | UNIT | DESCRIPTION",
+   "en": "Enables entry to the Desolate Shrine via the Mapworks"
+  },
+  {
+   "id": 1073,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/MAPS/ESTHERIANMAPB86.DAT | UNIT | DESCRIPTION",
+   "en": "Enables entry to the Desolate Sanctuary via the Mapworks"
+  },
+  {
+   "id": 1074,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/MAPS/ESTHERIANMAPB96.DAT | UNIT | DESCRIPTION",
+   "en": "Enables entry to the Desolate Temple via the Mapworks"
+  },
+  {
+   "id": 1075,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/MAPS/ESTHERIANMAPC.DAT | UNIT | DESCRIPTION",
+   "en": "Enables entry to the Infected Hollow via the Mapworks"
+  },
+  {
+   "id": 1076,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/MAPS/ESTHERIANMAPC105.DAT | UNIT | DESCRIPTION",
+   "en": "Enables entry to the Blighted Sanctum via the Mapworks"
+  },
+  {
+   "id": 1077,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/MAPS/ESTHERIANMAPC56.DAT | UNIT | DESCRIPTION",
+   "en": "Enables entry to the Infected Retreat via the Mapworks"
+  },
+  {
+   "id": 1078,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/MAPS/ESTHERIANMAPC66.DAT | UNIT | DESCRIPTION",
+   "en": "Enables entry to the Infected Depths via the Mapworks"
+  },
+  {
+   "id": 1079,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/MAPS/ESTHERIANMAPC86.DAT | UNIT | DESCRIPTION",
+   "en": "Enables entry to the Blighted Retreat via the Mapworks"
+  },
+  {
+   "id": 1080,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/MAPS/ESTHERIANMAPC96.DAT | UNIT | DESCRIPTION",
+   "en": "Enables entry to the Blighted Depths via the Mapworks"
+  },
+  {
+   "id": 1081,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/MAPS/ICECAVESMAPA.DAT | UNIT | DESCRIPTION",
+   "en": "Enables entry to the Frostbitten Caverns via the Mapworks"
+  },
+  {
+   "id": 1082,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/MAPS/ICECAVESMAPA105.DAT | UNIT | DESCRIPTION",
+   "en": "Enables entry to the Frostshorn Breach via the Mapworks"
+  },
+  {
+   "id": 1083,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/MAPS/ICECAVESMAPA56.DAT | UNIT | DESCRIPTION",
+   "en": "Enables entry to the Frostbitten Ravine via the Mapworks"
+  },
+  {
+   "id": 1084,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/MAPS/ICECAVESMAPA66.DAT | UNIT | DESCRIPTION",
+   "en": "Enables entry to the Frostbitten Chasm via the Mapworks"
+  },
+  {
+   "id": 1085,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/MAPS/ICECAVESMAPA76.DAT | UNIT | DESCRIPTION",
+   "en": "Enables entry to the Frostshorn Caverns via the Mapworks"
+  },
+  {
+   "id": 1086,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/MAPS/ICECAVESMAPA86.DAT | UNIT | DESCRIPTION",
+   "en": "Enables entry to the Frostshorn Ravine via the Mapworks"
+  },
+  {
+   "id": 1087,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/MAPS/ICECAVESMAPA96.DAT | UNIT | DESCRIPTION",
+   "en": "Enables entry to the Frostshorn Chasm via the Mapworks"
+  },
+  {
+   "id": 1088,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/MAPS/JD_OVERWORLDTESTMAP.DAT | UNIT | DESCRIPTION",
+   "en": "Right-click to open a portal to the Wilds."
+  },
+  {
+   "id": 1089,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/MAPS/VAULTMAPA.DAT | UNIT | DESCRIPTION",
+   "en": "Enables entry to the Ransacked Halls via the Mapworks"
+  },
+  {
+   "id": 1090,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/MAPS/VAULTMAPA105.DAT | UNIT | DESCRIPTION",
+   "en": "Enables entry to the Ezrohir Treasurey via the Mapworks"
+  },
+  {
+   "id": 1091,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/MAPS/VAULTMAPA56.DAT | UNIT | DESCRIPTION",
+   "en": "Enables entry to the Ransacked Commons via the Mapworks"
+  },
+  {
+   "id": 1092,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/MAPS/VAULTMAPA66.DAT | UNIT | DESCRIPTION",
+   "en": "Enables entry to the Ransacked Vault via the Mapworks"
+  },
+  {
+   "id": 1093,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/MAPS/VAULTMAPA76.DAT | UNIT | DESCRIPTION",
+   "en": "Enables entry to the Ezrohir Halls via the Mapworks"
+  },
+  {
+   "id": 1094,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/MAPS/VAULTMAPA86.DAT | UNIT | DESCRIPTION",
+   "en": "Enables entry to the Ezrohir Commons via the Mapworks"
+  },
+  {
+   "id": 1095,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/MAPS/VAULTMAPA96.DAT | UNIT | DESCRIPTION",
+   "en": "Enables entry to the Ezrohir Vault via the Mapworks"
+  },
+  {
+   "id": 1096,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/NETHERIM_01_AMULET_E.DAT | UNIT | DESCRIPTION",
+   "en": "The Shadowfolk put a little of themselves into their jewelry."
+  },
+  {
+   "id": 1097,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/NETHERIM_01_AMULET_E_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "Wear this, and know what it means to be in the grip of shadows."
+  },
+  {
+   "id": 1098,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/NETHERIM_01_AMULET_E_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "The Shadowfolk wanted this amulet to be hard to remove."
+  },
+  {
+   "id": 1099,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/NETHERIM_01_AMULET_F.DAT | UNIT | DESCRIPTION",
+   "en": "Shadows seem to somehow grow darker when it's near."
+  },
+  {
+   "id": 1100,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/NETHERIM_01_AMULET_F_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "Your shadow seems blackened, even scorched."
+  },
+  {
+   "id": 1101,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/NETHERIM_01_AMULET_F_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "The amulet seems to put off an umbral haze."
+  },
+  {
+   "id": 1102,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/NETHERIM_01_AMULET_I.DAT | UNIT | DESCRIPTION",
+   "en": "The Shadowfolk wanted it to become part of you."
+  },
+  {
+   "id": 1103,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/NETHERIM_01_AMULET_I_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "At night, you can hear it whispering in an alien tongue."
+  },
+  {
+   "id": 1104,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/NETHERIM_01_AMULET_I_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "\"A needle out of midnight, aimed straight for your soul.\""
+  },
+  {
+   "id": 1105,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/NETHERIM_01_AMULET_P.DAT | UNIT | DESCRIPTION",
+   "en": "By the time you feel its bite, it's too late ..."
+  },
+  {
+   "id": 1106,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/NETHERIM_01_AMULET_P_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "It drives you to unspeakable acts ..."
+  },
+  {
+   "id": 1107,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/NETHERIM_01_AMULET_P_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "The Shadowfolk are said to come from the center of the world."
+  },
+  {
+   "id": 1108,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/NETHERIM_01_BELT.DAT | UNIT | DESCRIPTION",
+   "en": "The Shadowfolk were banished a thousand years ago."
+  },
+  {
+   "id": 1109,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/NETHERIM_01_BELT_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "The black of the belt represents forbidden knowledge."
+  },
+  {
+   "id": 1110,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/NETHERIM_01_BELT_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "You have the full support of the Shadowfolk."
+  },
+  {
+   "id": 1111,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/NETHERIM_01_BELT_ALT_SET.DAT | UNIT | DESCRIPTION",
+   "en": "The buckle hides a secret compartment with a dead bee inside."
+  },
+  {
+   "id": 1112,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/NETHERIM_01_BOOTS.DAT | UNIT | DESCRIPTION",
+   "en": "Tenebra wore these boots when she walked in shadow."
+  },
+  {
+   "id": 1113,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/NETHERIM_01_BOOTS_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "\"It is said: Walk among the clouds but live among the world.\""
+  },
+  {
+   "id": 1114,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/NETHERIM_01_BOOTS_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "Step like a whisper;\\nLaugh like a scream."
+  },
+  {
+   "id": 1115,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/NETHERIM_01_BOOTS_ALT_SET.DAT | UNIT | DESCRIPTION",
+   "en": "The Nameless Champion defended the Cult of the Obscure from their foes."
+  },
+  {
+   "id": 1116,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/NETHERIM_01_CHEST.DAT | UNIT | DESCRIPTION",
+   "en": "Tenebra was known as the Shadow Queen of the Black Palace."
+  },
+  {
+   "id": 1117,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/NETHERIM_01_CHEST_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "It wraps you in its dark embrace."
+  },
+  {
+   "id": 1118,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/NETHERIM_01_CHEST_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "Legends say it was worn by the mysterious King-in-Whispers."
+  },
+  {
+   "id": 1119,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/NETHERIM_01_CHEST_ALT_SET.DAT | UNIT | DESCRIPTION",
+   "en": "The Cult of the Obscure created this armor for the Nameless Champion."
+  },
+  {
+   "id": 1120,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/NETHERIM_01_GLOVES.DAT | UNIT | DESCRIPTION",
+   "en": "It's said that they are the hands of a ghost ... who still seeks their return."
+  },
+  {
+   "id": 1121,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/NETHERIM_01_GLOVES_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "Tenebra strangled many a prisoner with these gauntlets."
+  },
+  {
+   "id": 1122,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/NETHERIM_01_GLOVES_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "These bracers do not sparkle, as some might expect."
+  },
+  {
+   "id": 1123,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/NETHERIM_01_GLOVES_ALT_SET.DAT | UNIT | DESCRIPTION",
+   "en": "Some believe the Cult of the Obscure never existed."
+  },
+  {
+   "id": 1124,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/NETHERIM_01_HELMET.DAT | UNIT | DESCRIPTION",
+   "en": "The Shadow Queen could see through shadows."
+  },
+  {
+   "id": 1125,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/NETHERIM_01_HELMET_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "The whispering is all in your head."
+  },
+  {
+   "id": 1126,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/NETHERIM_01_HELMET_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "The Valgang frighten their children with tales of Mother Night."
+  },
+  {
+   "id": 1127,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/NETHERIM_01_HELMET_ALT_SET.DAT | UNIT | DESCRIPTION",
+   "en": "The Cult of the Obscure secretly controlled the world."
+  },
+  {
+   "id": 1128,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/NETHERIM_01_PANTS.DAT | UNIT | DESCRIPTION",
+   "en": "They almost seem to absorb the light ..."
+  },
+  {
+   "id": 1129,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/NETHERIM_01_PANTS_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "\"And the Potentate took the shadow as his, and went mad.\""
+  },
+  {
+   "id": 1130,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/NETHERIM_01_PANTS_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "The way they feel on you is rather unsettling ..."
+  },
+  {
+   "id": 1131,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/NETHERIM_01_PANTS_ALT_SET.DAT | UNIT | DESCRIPTION",
+   "en": "The Nameless Champion might actually have been multiple people."
+  },
+  {
+   "id": 1132,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/NETHERIM_01_RING_E.DAT | UNIT | DESCRIPTION",
+   "en": "Gathered in darkness, lost to light, ringed in madness, far from sight."
+  },
+  {
+   "id": 1133,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/NETHERIM_01_RING_E_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "You have darkness wrapped around your little finger."
+  },
+  {
+   "id": 1134,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/NETHERIM_01_RING_E_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "It feels like darkness, all around you ..."
+  },
+  {
+   "id": 1135,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/NETHERIM_01_RING_F.DAT | UNIT | DESCRIPTION",
+   "en": "The Blackburnes ruled Silverisle for centuries."
+  },
+  {
+   "id": 1136,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/NETHERIM_01_RING_F_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "The first Lady Blackburne received this ring as a wedding gift."
+  },
+  {
+   "id": 1137,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/NETHERIM_01_RING_F_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "Lord Blackburne of Silverisle surrended this to the Emperor as a sign of fealty."
+  },
+  {
+   "id": 1138,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/NETHERIM_01_RING_I.DAT | UNIT | DESCRIPTION",
+   "en": "Doom waits in the shadows."
+  },
+  {
+   "id": 1139,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/NETHERIM_01_RING_I_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "Shadows gather, shadows call.\\nShadows circle, night soon fall."
+  },
+  {
+   "id": 1140,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/NETHERIM_01_RING_I_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "Legends speak of \"the Dark That Shatters the Stars.\""
+  },
+  {
+   "id": 1141,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/NETHERIM_01_RING_P.DAT | UNIT | DESCRIPTION",
+   "en": "The stone is like a little splinter of darkness."
+  },
+  {
+   "id": 1142,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/NETHERIM_01_RING_P_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "A tiny splinter of gloom that gets on your finger and into your mind."
+  },
+  {
+   "id": 1143,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/NETHERIM_01_RING_P_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "A shadow at your back, a thorn in your side."
+  },
+  {
+   "id": 1144,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/NETHERIM_01_SHOULDERS.DAT | UNIT | DESCRIPTION",
+   "en": "It is said that the wearer can hear the sound of a weeping Estherian coming from them."
+  },
+  {
+   "id": 1145,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/NETHERIM_01_SHOULDERS_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "It contains the hopes and dreams of all its previous wearers."
+  },
+  {
+   "id": 1146,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/NETHERIM_01_SHOULDERS_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "The stories say that Mother Night steals children and turns them into dolls."
+  },
+  {
+   "id": 1147,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/NETHERIM_01_SHOULDERS_ALT_SET.DAT | UNIT | DESCRIPTION",
+   "en": "The Cult of the Obscure vanished with the death of the Nameless Champion."
+  },
+  {
+   "id": 1148,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/NETHERIM_02_AMULET_E.DAT | UNIT | DESCRIPTION",
+   "en": "The Estherians speak of how the Laughing Wights murdered lone travelers in the Steppes."
+  },
+  {
+   "id": 1149,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/NETHERIM_02_AMULET_E_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "\"The Wyrd was fashioned into lightning, to strike their foes.\""
+  },
+  {
+   "id": 1150,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/NETHERIM_02_AMULET_E_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "The Estherians created special weapons to battle the Laughing Wights."
+  },
+  {
+   "id": 1151,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/NETHERIM_02_AMULET_F.DAT | UNIT | DESCRIPTION",
+   "en": "It is said that when a specter is destroyed, it vanishes in a flare of ghostly light."
+  },
+  {
+   "id": 1152,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/NETHERIM_02_AMULET_F_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "\"The heart of a specter is a living thing.\" -- old proverb"
+  },
+  {
+   "id": 1153,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/NETHERIM_02_AMULET_F_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "The Laughing Wights gave off a kind of pale glow, known as \"wightfire.\""
+  },
+  {
+   "id": 1154,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/NETHERIM_02_AMULET_I.DAT | UNIT | DESCRIPTION",
+   "en": "It looks into you, and sees your doubts and fears. And it whispers to you: \"Doom.\""
+  },
+  {
+   "id": 1155,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/NETHERIM_02_AMULET_I_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "A tiny gossamer wisp seems to dance deep within it."
+  },
+  {
+   "id": 1156,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/NETHERIM_02_AMULET_I_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "It knows you can hear it."
+  },
+  {
+   "id": 1157,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/NETHERIM_02_AMULET_P.DAT | UNIT | DESCRIPTION",
+   "en": "\"By fang and by claw, the Wyrd shaped the world.\""
+  },
+  {
+   "id": 1158,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/NETHERIM_02_AMULET_P_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "Perhaps the only physical proof of the existence of the Laughing Wights."
+  },
+  {
+   "id": 1159,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/NETHERIM_02_AMULET_P_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "Like a bite out of hell."
+  },
+  {
+   "id": 1160,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/NETHERIM_02_BELT.DAT | UNIT | DESCRIPTION",
+   "en": "\"Those who wielded the Wyrd forged a symbol of their power.\""
+  },
+  {
+   "id": 1161,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/NETHERIM_02_BELT_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "No mortal eyes have ever beheld such horror."
+  },
+  {
+   "id": 1162,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/NETHERIM_02_BELT_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "Wearing it lends you a certain ghostly pallor."
+  },
+  {
+   "id": 1163,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/NETHERIM_02_BELT_ALT_SET.DAT | UNIT | DESCRIPTION",
+   "en": "\"Fear the Incubus, for it has the power to cloud mortal minds.\""
+  },
+  {
+   "id": 1164,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/NETHERIM_02_BOOTS.DAT | UNIT | DESCRIPTION",
+   "en": "The Laughing Wights were said to drive their victims mad with fear."
+  },
+  {
+   "id": 1165,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/NETHERIM_02_BOOTS_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "They just feel ... wrong, somehow ..."
+  },
+  {
+   "id": 1166,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/NETHERIM_02_BOOTS_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "When you wear them, you walk in someone else's footsteps."
+  },
+  {
+   "id": 1167,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/NETHERIM_02_BOOTS_ALT_SET.DAT | UNIT | DESCRIPTION",
+   "en": "When the Incubus was defeated, Empress Sirix fell dead."
+  },
+  {
+   "id": 1168,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/NETHERIM_02_CHEST.DAT | UNIT | DESCRIPTION",
+   "en": "The Grimknight led the grimlings on their invasion of the Goblin Marches."
+  },
+  {
+   "id": 1169,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/NETHERIM_02_CHEST_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "The Estherians created this for their champion, who wiped out the Laughing Wights."
+  },
+  {
+   "id": 1170,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/NETHERIM_02_CHEST_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "The Winter Wraith haunted the Frosted Hills for centuries."
+  },
+  {
+   "id": 1171,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/NETHERIM_02_CHEST_ALT_SET.DAT | UNIT | DESCRIPTION",
+   "en": "The Incubus drove Empress Sirix III completely insane."
+  },
+  {
+   "id": 1172,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/NETHERIM_02_GLOVES_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "The grimlings drove all the way to Riddledeep before being turned back."
+  },
+  {
+   "id": 1173,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/NETHERIM_02_GLOVES_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "The Bloodless Count rule from the Black Palace for centuries."
+  },
+  {
+   "id": 1174,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/NETHERIM_02_GLOVES_ALT_SET.DAT | UNIT | DESCRIPTION",
+   "en": "Watch those hands."
+  },
+  {
+   "id": 1175,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/NETHERIM_02_HELMET.DAT | UNIT | DESCRIPTION",
+   "en": "The Grimknight's helm was forged in the shape of a grinning demon."
+  },
+  {
+   "id": 1176,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/NETHERIM_02_HELMET_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "\"The Midnight King must never know your name.\" - old proverb"
+  },
+  {
+   "id": 1177,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/NETHERIM_02_HELMET_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "Said to have belonged to the King of the Laughing Wights."
+  },
+  {
+   "id": 1178,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/NETHERIM_02_HELMET_ALT_SET.DAT | UNIT | DESCRIPTION",
+   "en": "It fills your head with all manner of dark thoughts ..."
+  },
+  {
+   "id": 1179,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/NETHERIM_02_PANTS.DAT | UNIT | DESCRIPTION",
+   "en": "It is said that the Netherim spawned mortal offspring."
+  },
+  {
+   "id": 1180,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/NETHERIM_02_PANTS_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "Something in the darkness finds you ... entertaining."
+  },
+  {
+   "id": 1181,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/NETHERIM_02_PANTS_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "For those of you who aren't comfortable in your own skins."
+  },
+  {
+   "id": 1182,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/NETHERIM_02_PANTS_ALT_SET.DAT | UNIT | DESCRIPTION",
+   "en": "The Incubus has appeared many times throughout history."
+  },
+  {
+   "id": 1183,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/NETHERIM_02_RING_E.DAT | UNIT | DESCRIPTION",
+   "en": "Necromius was Master of Tombs in Riddledeep for over a century."
+  },
+  {
+   "id": 1184,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/NETHERIM_02_RING_E_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "The gemstone reflects an alien vista ... with things looking back at you."
+  },
+  {
+   "id": 1185,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/NETHERIM_02_RING_E_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "All your deepest fears, exquisitely crafted in fine gold."
+  },
+  {
+   "id": 1186,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/NETHERIM_02_RING_F.DAT | UNIT | DESCRIPTION",
+   "en": "It burns with an otherworldly fire."
+  },
+  {
+   "id": 1187,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/NETHERIM_02_RING_F_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "It burns with a ghostly flame."
+  },
+  {
+   "id": 1188,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/NETHERIM_02_RING_F_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "\"The Wyrd burned with a light that struck men mad.\""
+  },
+  {
+   "id": 1189,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/NETHERIM_02_RING_I.DAT | UNIT | DESCRIPTION",
+   "en": "\"The Wyrd fragmented under the weight of their magic.\""
+  },
+  {
+   "id": 1190,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/NETHERIM_02_RING_I_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "\"The splinters of the Wyrd pierced the souls of broken men.\""
+  },
+  {
+   "id": 1191,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/NETHERIM_02_RING_I_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "\"When the Wyrd saw what the Theurges had done to it, it was filled with rage.\""
+  },
+  {
+   "id": 1192,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/NETHERIM_02_RING_P.DAT | UNIT | DESCRIPTION",
+   "en": "It contains the essence of a hungry ghost."
+  },
+  {
+   "id": 1193,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/NETHERIM_02_RING_P_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "Merely touching it sends a shiver down your spine."
+  },
+  {
+   "id": 1194,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/NETHERIM_02_RING_P_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "It makes your blood run cold."
+  },
+  {
+   "id": 1195,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/NETHERIM_02_SHOULDERS.DAT | UNIT | DESCRIPTION",
+   "en": "Wearing them feels like having a cold, dead hand clutching your shoulder."
+  },
+  {
+   "id": 1196,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/NETHERIM_02_SHOULDERS_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "You've got a good head on your shoulders.  Two, actually."
+  },
+  {
+   "id": 1197,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/NETHERIM_02_SHOULDERS_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "\"He who laughs at the dead takes up the mantle of the Laughing Wights.\""
+  },
+  {
+   "id": 1198,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/NETHERIM_02_SHOULDERS_ALT_SET.DAT | UNIT | DESCRIPTION",
+   "en": "The Incubus has not appeared since the death of Empress Sirix."
+  },
+  {
+   "id": 1199,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/PISTOLS/LEGENDARY_PISTOL01.DAT | UNIT | DESCRIPTION",
+   "en": "Legendary Pistol Collection\\nNumber One of Five"
+  },
+  {
+   "id": 1200,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/PISTOLS/LEGENDARY_PISTOL02.DAT | UNIT | DESCRIPTION",
+   "en": "Legendary Pistol Collection\\nNumber Two of Five"
+  },
+  {
+   "id": 1201,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/PISTOLS/LEGENDARY_PISTOL03.DAT | UNIT | DESCRIPTION",
+   "en": "Legendary Pistol Collection\\nNumber Three of Five"
+  },
+  {
+   "id": 1202,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/PISTOLS/LEGENDARY_PISTOL04.DAT | UNIT | DESCRIPTION",
+   "en": "Legendary Pistol Collection\\nNumber Four of Five"
+  },
+  {
+   "id": 1203,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/PISTOLS/LEGENDARY_PISTOL05.DAT | UNIT | DESCRIPTION",
+   "en": "Is it a pistol, or a shotgonne?\\n\\nLegendary Pistol Collection\\nNumber Five of Five"
+  },
+  {
+   "id": 1204,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/PISTOLS/PISTOL_U01.DAT | UNIT | DESCRIPTION",
+   "en": "I feel like I'm going to break this thing!"
+  },
+  {
+   "id": 1205,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/PISTOLS/PISTOL_U01B.DAT | UNIT | DESCRIPTION",
+   "en": "It tears holes in webs ... and the things that make them."
+  },
+  {
+   "id": 1206,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/PISTOLS/PISTOL_U01C.DAT | UNIT | DESCRIPTION",
+   "en": "Never start anything you can't finish."
+  },
+  {
+   "id": 1207,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/PISTOLS/PISTOL_U02.DAT | UNIT | DESCRIPTION",
+   "en": "Kills zombies dead!"
+  },
+  {
+   "id": 1208,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/PISTOLS/PISTOL_U02B.DAT | UNIT | DESCRIPTION",
+   "en": "Say hello!"
+  },
+  {
+   "id": 1209,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/PISTOLS/PISTOL_U02C.DAT | UNIT | DESCRIPTION",
+   "en": "Always a hit at parties!"
+  },
+  {
+   "id": 1210,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/PISTOLS/PISTOL_U03.DAT | UNIT | DESCRIPTION",
+   "en": "Let's get down to it ..."
+  },
+  {
+   "id": 1211,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/PISTOLS/PISTOL_U03B.DAT | UNIT | DESCRIPTION",
+   "en": "Someone's going to need to suck the poison out ..."
+  },
+  {
+   "id": 1212,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/PISTOLS/PISTOL_U03C.DAT | UNIT | DESCRIPTION",
+   "en": "This'll make their ears ring ..."
+  },
+  {
+   "id": 1213,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/PISTOLS/PISTOL_U03_SET_BULLETFIST.DAT | UNIT | DESCRIPTION",
+   "en": "They'll never know what hit 'em ... or from where."
+  },
+  {
+   "id": 1214,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/PISTOLS/PISTOL_U04.DAT | UNIT | DESCRIPTION",
+   "en": "The Tu'tara will curse your name."
+  },
+  {
+   "id": 1215,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/PISTOLS/PISTOL_U04B.DAT | UNIT | DESCRIPTION",
+   "en": "What is it, boy? Is it danger?"
+  },
+  {
+   "id": 1216,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/PISTOLS/PISTOL_U04C.DAT | UNIT | DESCRIPTION",
+   "en": "A close-up weapon, for when things get ... hairy."
+  },
+  {
+   "id": 1217,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/PISTOLS/PISTOL_U05.DAT | UNIT | DESCRIPTION",
+   "en": "I'm afraid this is going to hurt ... quite a lot."
+  },
+  {
+   "id": 1218,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/PISTOLS/PISTOL_U05B.DAT | UNIT | DESCRIPTION",
+   "en": "Wound them with your words.\\nAnd by \"words,\" I mean \"bullets.\""
+  },
+  {
+   "id": 1219,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/PISTOLS/PISTOL_U05C.DAT | UNIT | DESCRIPTION",
+   "en": "It's got a great beat, and you can dance to it."
+  },
+  {
+   "id": 1220,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/PISTOLS/PISTOL_U05_SET_SOLIMA.DAT | UNIT | DESCRIPTION",
+   "en": "Because the foes you really hate can never be dead enough."
+  },
+  {
+   "id": 1221,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/PISTOLS/PISTOL_U05_SET_SOLIMA2.DAT | UNIT | DESCRIPTION",
+   "en": "Four barrels ... for when you just cannot wait for your foes to be dead."
+  },
+  {
+   "id": 1222,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/PISTOLS/PISTOL_U06.DAT | UNIT | DESCRIPTION",
+   "en": "\"The Gun That Will Tame Vilderan!\" - old advertisement"
+  },
+  {
+   "id": 1223,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/PISTOLS/PISTOL_U06B.DAT | UNIT | DESCRIPTION",
+   "en": "\"Don't Battle an Automaton Without It!\" - old advertisement"
+  },
+  {
+   "id": 1224,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/PISTOLS/PISTOL_U06C.DAT | UNIT | DESCRIPTION",
+   "en": "\"The Deadliest Handgun Ever Made!\" - old advertisement"
+  },
+  {
+   "id": 1225,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/PISTOLS/PISTOL_U07.DAT | UNIT | DESCRIPTION",
+   "en": "Banned in six kingdoms."
+  },
+  {
+   "id": 1226,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/PISTOLS/PISTOL_U07B.DAT | UNIT | DESCRIPTION",
+   "en": "Only two things are sure in the world: death and taxes."
+  },
+  {
+   "id": 1227,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/PISTOLS/PISTOL_U07C.DAT | UNIT | DESCRIPTION",
+   "en": "Do you feel lucky?\\nWell, do you, punk?"
+  },
+  {
+   "id": 1228,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/PISTOLS/ZZZ_GRELLS_PISTOL2.DAT | UNIT | DESCRIPTION",
+   "en": "Grell lost it. You found it."
+  },
+  {
+   "id": 1229,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/POLEARMS/LEGENDARY_POLEARM01.DAT | UNIT | DESCRIPTION",
+   "en": "Legendary Polearm Collection\\nNumber One of Three"
+  },
+  {
+   "id": 1230,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/POLEARMS/LEGENDARY_POLEARM02.DAT | UNIT | DESCRIPTION",
+   "en": "Legendary Polearm Collection\\nNumber Two of Three"
+  },
+  {
+   "id": 1231,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/POLEARMS/LEGENDARY_POLEARM03.DAT | UNIT | DESCRIPTION",
+   "en": "Legendary Polearm Collection\\nNumber Three of Three"
+  },
+  {
+   "id": 1232,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/POLEARMS/POLEARM_U01.DAT | UNIT | DESCRIPTION",
+   "en": "You've got this battle all sewn up!"
+  },
+  {
+   "id": 1233,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/POLEARMS/POLEARM_U01B.DAT | UNIT | DESCRIPTION",
+   "en": "The weapon that won the War for the Giantlands."
+  },
+  {
+   "id": 1234,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/POLEARMS/POLEARM_U01C.DAT | UNIT | DESCRIPTION",
+   "en": "Show a little hate."
+  },
+  {
+   "id": 1235,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/POLEARMS/POLEARM_U02.DAT | UNIT | DESCRIPTION",
+   "en": "It was used to slay the Eight-Legged Lord, in the Frosted Hills."
+  },
+  {
+   "id": 1236,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/POLEARMS/POLEARM_U02B.DAT | UNIT | DESCRIPTION",
+   "en": "Sometimes, you just have to burn out the infection."
+  },
+  {
+   "id": 1237,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/POLEARMS/POLEARM_U02C.DAT | UNIT | DESCRIPTION",
+   "en": "Even after a thousand years, the dwarven runes look new."
+  },
+  {
+   "id": 1238,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/POLEARMS/POLEARM_U03.DAT | UNIT | DESCRIPTION",
+   "en": "\"The Caliph smote the spirits, and his blade was as fire to kindling.\" - History of the Ezrohir"
+  },
+  {
+   "id": 1239,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/POLEARMS/POLEARM_U03B.DAT | UNIT | DESCRIPTION",
+   "en": "\"Fate strikes with a twisted blade.\" - Zeraphi proverb"
+  },
+  {
+   "id": 1240,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/POLEARMS/POLEARM_U03C.DAT | UNIT | DESCRIPTION",
+   "en": "Thrust, twist, pull. It's based on a tool for mummification."
+  },
+  {
+   "id": 1241,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/POLEARMS/POLEARM_U04.DAT | UNIT | DESCRIPTION",
+   "en": "This is the only one of the Brassblades known to have survived the Mana Wars."
+  },
+  {
+   "id": 1242,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/POLEARMS/POLEARM_U04B.DAT | UNIT | DESCRIPTION",
+   "en": "Just when they thought it was safe to go back to war."
+  },
+  {
+   "id": 1243,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/POLEARMS/POLEARM_U04C.DAT | UNIT | DESCRIPTION",
+   "en": "Kill anything that moves."
+  },
+  {
+   "id": 1244,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/POLEARMS/POLEARM_U05.DAT | UNIT | DESCRIPTION",
+   "en": "Made from the only known specimen of Bluefire Ember."
+  },
+  {
+   "id": 1245,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/POLEARMS/POLEARM_U05B.DAT | UNIT | DESCRIPTION",
+   "en": "Don't stop fighting until the battle is won."
+  },
+  {
+   "id": 1246,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/POLEARMS/POLEARM_U05C.DAT | UNIT | DESCRIPTION",
+   "en": "The blade's surface shimmers and ripples in the heat."
+  },
+  {
+   "id": 1247,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/POLEARMS/POLEARM_U06.DAT | UNIT | DESCRIPTION",
+   "en": "Forged specifically to slay the Ummglour Troll."
+  },
+  {
+   "id": 1248,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/POLEARMS/POLEARM_U06B.DAT | UNIT | DESCRIPTION",
+   "en": "Forged for those foes with particularly thick skins ..."
+  },
+  {
+   "id": 1249,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/POLEARMS/POLEARM_U06C.DAT | UNIT | DESCRIPTION",
+   "en": "Cut your biggest foes down to size."
+  },
+  {
+   "id": 1250,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/POLEARMS/POLEARM_U07.DAT | UNIT | DESCRIPTION",
+   "en": "Created from the shards a mysterious ember fallen from heaven."
+  },
+  {
+   "id": 1251,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/POLEARMS/POLEARM_U07B.DAT | UNIT | DESCRIPTION",
+   "en": "A burst of steam at the right moment impels the head deeper into your foe's body."
+  },
+  {
+   "id": 1252,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/POLEARMS/POLEARM_U07C.DAT | UNIT | DESCRIPTION",
+   "en": "The spear is willing, and flesh is weak."
+  },
+  {
+   "id": 1253,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/POLEARMS/POLEARM_VANQ01.DAT | UNIT | DESCRIPTION",
+   "en": "this is a monster prop, do not spawn"
+  },
+  {
+   "id": 1254,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/PONYA_01_AMULET_E.DAT | UNIT | DESCRIPTION",
+   "en": "The prized possession of the legendary \"Gentleman Sage.\""
+  },
+  {
+   "id": 1255,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/PONYA_01_AMULET_E_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "The inscription reads: \"Humor is a valid strategy.\""
+  },
+  {
+   "id": 1256,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/PONYA_01_AMULET_E_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "Given to Lord Hardy by his loving family."
+  },
+  {
+   "id": 1257,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/PONYA_01_AMULET_E_ALT_SET.DAT | UNIT | DESCRIPTION",
+   "en": "Many believe this amulet is the key to the Commodore's treasure."
+  },
+  {
+   "id": 1258,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/PONYA_01_AMULET_F.DAT | UNIT | DESCRIPTION",
+   "en": "Always remember to make time for gaming."
+  },
+  {
+   "id": 1259,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/PONYA_01_AMULET_F_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "\"A life without games is a life without pleasure.\" - proverb"
+  },
+  {
+   "id": 1260,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/PONYA_01_AMULET_F_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "The Fetcher King was a master strategist of the Zeraphi."
+  },
+  {
+   "id": 1261,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/PONYA_01_AMULET_I.DAT | UNIT | DESCRIPTION",
+   "en": "This necklace includes a small piece from an ancient game."
+  },
+  {
+   "id": 1262,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/PONYA_01_AMULET_I_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "It incorporates a curved sliver of ivory, shaped like an elephant's tusk."
+  },
+  {
+   "id": 1263,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/PONYA_01_AMULET_I_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "A relic of the Sargonian royal dynasty."
+  },
+  {
+   "id": 1264,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/PONYA_01_AMULET_P.DAT | UNIT | DESCRIPTION",
+   "en": "The ancients practiced Ponga as a test of their reflexes."
+  },
+  {
+   "id": 1265,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/PONYA_01_AMULET_P_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "The dreaded Pacma devoured everything in its path."
+  },
+  {
+   "id": 1266,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/PONYA_01_AMULET_P_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "The Wumpus was once hunted all across the land."
+  },
+  {
+   "id": 1267,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/PONYA_01_BELT.DAT | UNIT | DESCRIPTION",
+   "en": "It bears the symbols of the Cross and Circle sect."
+  },
+  {
+   "id": 1268,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/PONYA_01_BELT_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "The leather is decorated with the Liubo family crest."
+  },
+  {
+   "id": 1269,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/PONYA_01_BELT_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "The belt is decorated with tiles of bone."
+  },
+  {
+   "id": 1270,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/PONYA_01_BELT_ALT_SET.DAT | UNIT | DESCRIPTION",
+   "en": "The markings tell the tale of Commodore Astrovulpus."
+  },
+  {
+   "id": 1271,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/PONYA_01_BOOTS.DAT | UNIT | DESCRIPTION",
+   "en": "Worn by the champion of the Ponya, the \"Peace-Bringer.\""
+  },
+  {
+   "id": 1272,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/PONYA_01_BOOTS_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "The infamous \"Dog\" fell just shy of making a name for himself."
+  },
+  {
+   "id": 1273,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/PONYA_01_BOOTS_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "Dog was wearing these boots when he fell in battle against the Varkolyn Heirophant."
+  },
+  {
+   "id": 1274,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/PONYA_01_BOOTS_ALT_ROHAC.DAT | UNIT | DESCRIPTION",
+   "en": "For those who are \"more than heroes.\""
+  },
+  {
+   "id": 1275,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/PONYA_01_BOOTS_ALT_SET.DAT | UNIT | DESCRIPTION",
+   "en": "Those who knew Astrovulpus remember him fondly."
+  },
+  {
+   "id": 1276,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/PONYA_01_CHEST.DAT | UNIT | DESCRIPTION",
+   "en": "The beastlings are little more than a myth now."
+  },
+  {
+   "id": 1277,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/PONYA_01_CHEST_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "The Ponya Peace-Bringer was a combination of monarch and marshal."
+  },
+  {
+   "id": 1278,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/PONYA_01_CHEST_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "Worn by the infamous Bamboo Bandit of the Nine-Kings Provinces."
+  }
+ ]
+}

@@ -1,0 +1,240 @@
+@@ 5545
+|cFFFFBA00Nhấp chuột phải|u để dùng |cFFFFBA00kỹ năng hoặc Spell|u đang được gán. Bạn cũng có thể dùng |cFFFFBA00TAB|u để chuyển đổi giữa nó và một kỹ năng thay thế, được hiển thị ở ô kỹ năng bên phải phía dưới màn hình.
+@@ 5546
+|cFFFFBA00Wand|u và |cFFFFBA00Staff|u chủ yếu gây sát thương Elemental, thường hữu ích cho kỹ năng của Embermage và có lẽ cho bất kỳ nhân vật nào đầu tư vào Focus.
+@@ 5547
+Nhật ký chiến đấu
+@@ 5548
+Cửa sổ lệnh
+@@ 5549
+Chi tiết FPS
+@@ 5550
+Dữ liệu màn chơi
+@@ 5551
+Dữ liệu peer
+@@ 5552
+Dữ liệu hiệu ứng người chơi
+@@ 5553
+Dữ liệu nhiệm vụ người chơi
+@@ 5554
+Gỡ lỗi âm thanh
+@@ 5555
+Dữ liệu thống kê Steam
+@@ 5556
+Thời gian trong ngày
+@@ 5557
+Đổi kỹ năng đang chọn
+@@ 5558
+Bảng Arcane Statistics
+@@ 5559
+Chỉ đánh mục tiêu hợp lệ
+@@ 5560
+Tự chọn mục tiêu
+@@ 5561
+Bản đồ tự động
+@@ 5562
+Đặt lại bản đồ
+@@ 5563
+Phóng to bản đồ
+@@ 5564
+Thu nhỏ bản đồ
+@@ 5565
+Phóng to camera
+@@ 5566
+Thu nhỏ camera
+@@ 5567
+Dùng kỹ năng đang chọn
+@@ 5568
+Bảng chỉ số nhân vật
+@@ 5569
+Đóng mọi bảng
+@@ 5570
+Chuyển kỹ năng xuống
+@@ 5571
+Chuyển kỹ năng lên
+@@ 5572
+Chức năng 1
+@@ 5573
+Chức năng 10
+@@ 5574
+Chức năng 11
+@@ 5575
+Chức năng 12
+@@ 5576
+Chức năng 2
+@@ 5577
+Chức năng 3
+@@ 5578
+Chức năng 4
+@@ 5579
+Chức năng 5
+@@ 5580
+Chức năng 6
+@@ 5581
+Chức năng 7
+@@ 5582
+Chức năng 8
+@@ 5583
+Chức năng 9
+@@ 5584
+Giữ vị trí
+@@ 5585
+Hành trang
+@@ 5586
+Hiện/ẩn bản đồ
+@@ 5587
+Di chuyển
+@@ 5588
+Di chuyển/Tấn công
+@@ 5589
+Menu tùy chọn
+@@ 5590
+Hành trang Pet
+@@ 5591
+Bảng nhiệm vụ
+@@ 5592
+Lưu nhanh
+@@ 5593
+Đặt lại camera
+@@ 5594
+Hiện vật phẩm
+@@ 5595
+Bảng kỹ năng
+@@ 5596
+Đổi vũ khí
+@@ 5597
+Health Potion tốt nhất
+@@ 5598
+Mana Potion tốt nhất
+@@ 5599
+Health Potion tốt nhất cho Pet
+@@ 5600
+Mana Potion tốt nhất cho Pet
+@@ 5601
+Ô nhanh 0
+@@ 5602
+Ô nhanh 1
+@@ 5603
+Ô nhanh 2
+@@ 5604
+Ô nhanh 3
+@@ 5605
+Ô nhanh 4
+@@ 5606
+Ô nhanh 5
+@@ 5607
+Ô nhanh 6
+@@ 5608
+Ô nhanh 7
+@@ 5609
+Ô nhanh 8
+@@ 5610
+Ô nhanh 9
+@@ 5611
+Chuyển mỗi điểm Fame kiếm được thành vàng. Và hy vọng dòng này sẽ tự xuống hàng thành một dòng nữa và ừm... bạn biết đấy, làm mấy trò hay ho!
+@@ 5612
+Filthy Lucre
+@@ 5613
+Một vật phẩm Set ngẫu nhiên
+@@ 5614
+Vật phẩm Set bất kỳ
+@@ 5615
+Một Spell ngẫu nhiên
+@@ 5616
+Spell bất kỳ
+@@ 5617
+Một vật phẩm Unique ngẫu nhiên
+@@ 5618
+Vật phẩm Unique bất kỳ
+@@ 5619
+Vật phẩm khảm cao cấp
+@@ 5620
+Thêm Socket cho vật phẩm
+@@ 5621
+Gem bất kỳ có cấp bằng hoặc cao hơn
+@@ 5622
+Vật phẩm bất kỳ chưa có Socket
+@@ 5623
+Lối vào
+@@ 5624
+Hồi sinh tại chỗ, nhưng mất [GOLD] vàng.
+@@ 5625
+Thị trấn
+@@ 5626
+Trạng thái Avatar
+@@ 5627
+Bộ đếm đòn trúng Arbiter
+@@ 5628
+Cuồng nộ
+@@ 5629
+Trạng thái cuồng nộ Berserker
+@@ 5630
+Phản đòn Berserker
+@@ 5631
+Khiên Champion
+@@ 5632
+Sát thương tối đa của nhân vật
+@@ 5633
+DPS cao nhất của nhân vật
+@@ 5634
+Sát thương tối đa tay phải của nhân vật
+@@ 5635
+STRENGTH CỦA NHÂN VẬT
+@@ 5636
+Chỉ số combo Blood
+@@ 5637
+Chỉ số combo Electric
+@@ 5638
+Chỉ số combo Fire
+@@ 5639
+Chỉ số combo Ice
+@@ 5640
+Chỉ số combo Poison
+@@ 5641
+Hấp thụ xác chết
+@@ 5642
+Điểm kỹ năng hiện có
+@@ 5643
+Điểm thuộc tính hiện có
+@@ 5644
+Defense
+@@ 5645
+Cấp hiệu ứng
+@@ 5646
+Nhiễm điện
+@@ 5647
+Cấp nhân vật
+@@ 5648
+Cờ mục tiêu 1
+@@ 5649
+BỊ ĐẤM BỤNG
+@@ 5650
+Bộ đếm đòn trúng liên tiếp
+@@ 5651
+Bộ đếm đòn trúng đồng thời
+@@ 5652
+Bất động
+@@ 5653
+Quái đã tiêu diệt
+@@ 5654
+Champion đã tiêu diệt
+@@ 5655
+Dwarf xác sống đã tiêu diệt
+@@ 5656
+Ezrohir đã tiêu diệt
+@@ 5657
+Mycon đã tiêu diệt
+@@ 5658
+Goblin đã tiêu diệt
+@@ 5659
+Kẻ địch máy móc đã tiêu diệt
+@@ 5660
+Netherim đã tiêu diệt
+@@ 5661
+Spider đã tiêu diệt
+@@ 5662
+Sturmbeorn đã tiêu diệt
+@@ 5663
+Trog đã tiêu diệt
+@@ 5664
+Tu'taran đã tiêu diệt

@@ -1,0 +1,76 @@
+@@ 2388
+Cảm ơn bạn đã giải cứu tôi. Tôi đã lấy lại được |cFFD1FF7APasskey Ember|u từ tay bọn buôn nô lệ này, nhưng chúng lại bắt được tôi khi tôi đang tìm cách quay về Enclave.\n\nTôi biết bạn đang muốn đến |cFFD1FF7AWatchweald Temple|u, nhưng trước khi đi, tôi muốn nhờ bạn giúp một việc nhỏ. Bọn buôn nô lệ này đã quấy nhiễu người Estherian suốt mấy tuần nay rồi. Bạn đã hạ được nhiều tên, nhưng vẫn còn nhiều tên khác đang nấp an toàn trong những túp lều kia theo dõi chúng ta. Hãy thiêu rụi chúng đi! Nếu để chúng ở lại, Frosted Hills sẽ không bao giờ được yên ổn.
+@@ 2389
+Ban đầu chúng tôi cứ nghĩ bọn buôn nô lệ này chỉ đi ngang qua khu vực, nhưng suốt mấy tuần nay chúng đã không ngừng gia cố khu trại này, điều đó cho tôi biết chúng không hề có ý định sớm rời đi.\n\nCó vẻ như, với cuộc xâm lược của Sturmbeorn, việc làm ăn của chúng đang quá phát đạt. Người Estherian lúc này là mục tiêu dễ dàng, và sẽ còn như vậy cho đến khi chúng tôi phục hồi sau mọi hỗn loạn này. Bọn buôn nô lệ sẽ chỉ khiến việc phục hồi đó khó khăn hơn, trừ khi chúng bị thuyết phục rời đi.
+@@ 2390
+Đúng rồi, đó chính là ba tấm huy hiệu. Giờ hãy cho tôi chút thời gian để ghép chúng lại với nhau... Tôi hiểu rồi... đúng... đúng rồi! Người Estherian đã giấu Golden Gear trong một hang động nhỏ, cách đây không xa!
+@@ 2391
+Lùng sục vách đá ở |cFFD1FF7AFrosted Hills|u để tìm |cFFD1FF7ACrest of Pools|u, |cFFD1FF7ACrest of Rivers|u và |cFFD1FF7ACrest of Tides|u.
+@@ 2392
+Quay về gặp |cFFD1FF7AAmbassador Taldimut|u ở |cFFD1FF7AFrosted Hills|u.
+@@ 2393
+- Tìm |cFFD1FF7ACrest of Pools|u, |cFFD1FF7ACrest of Rivers|u và |cFFD1FF7ACrest of Tides|u ở |cFFD1FF7AFrosted Hills|u
+@@ 2394
+- Mang các |cFFD1FF7ACrests|u đến cho |cFFD1FF7AAmbassador Taldimut|u ở |cFFD1FF7AFrosted Hills|u
+@@ 2395
+Bạn của tôi, cảm ơn bạn đã đến giúp chúng tôi. Chúng tôi là sứ đoàn Zeraphi đến từ Zeryphesh, ở Ossean Wastes, được phái đến đây để xin sự trợ giúp của người Estherian trong cuộc chiến sắp tới với quân Ezrohir. Grand Regent Eldrayn đã cho phép chúng tôi tìm kiếm Golden Gear ở Frosted Hills, và chúng tôi đã khoanh vùng tìm kiếm xuống khu vực này thì bị lũ Goblin này tấn công.\n\nGiờ chúng tôi bị thương quá nặng, không thể tiếp tục tìm kiếm. Bạn có thể giúp chúng tôi không? Hãy tìm ba mảnh ghép ở |cFFD1FF7AFrosted Hills|u: |cFFD1FF7ACrest of Pools|u, |cFFD1FF7ACrest of Rivers|u và |cFFD1FF7ACrest of Tides|u. Mang chúng đến cho tôi, và tôi sẽ thay mặt người Zeraphi trao thưởng cho bạn.
+@@ 2396
+Sultan xứ Zeryphesh phái chúng tôi đến đây để khẩn cầu người Estherian cho phép chúng tôi thu hồi Golden Gear... một cổ vật cần thiết để mở khóa Celestial Armory ở Ossean Wastes. Người Estherian đã chiếm nó từ tay chúng tôi trong cuộc chiến giữa hai bên từ rất lâu về trước, nhưng Grand Regent Eldrayn sẵn lòng trả lại nó cho chúng tôi, để chúng tôi có thể tự vũ trang chống lại cuộc tấn công của quân Ezrohir.\n\nVị trí chính xác của Golden Gear đã bị lãng quên từ lâu, nhưng người Estherian đã tạo ra một tấm bản đồ từ ba tấm huy hiệu mà tôi đã nói. Nếu bạn tìm được chúng, tôi có thể giải mã tấm bản đồ và tìm ra Gear!
+@@ 2397
+Chà, nghe có vẻ phương pháp của tôi có hiệu quả... nhưng nghe chừng rủi ro lại không đáng với thành quả. Dù vậy, nếu các cuộc khảo sát của tôi chính xác, tôi hẳn sẽ tìm được một khe nứt mana khác ở nơi nào đó, và nếu may mắn, nó sẽ không đầy rẫy quái vật từ thế giới khác như chỗ kia!\n\nCảm ơn bạn vì tất cả những gì bạn đã làm cho tôi. Và xin hãy nhận lấy viên Ember mà bạn đã nạp lại, coi như trả công cho những nỗ lực của bạn!
+@@ 2398
+Vào |cFFD1FF7ATarroch's Rift|u ở |cFFD1FF7AOssean Wastes|u và nạp lại năng lượng cho |cFFD1FF7ASpent Ember|u.
+@@ 2399
+Quay về gặp |cFFFFBA00Nerasis|u ở |cFFFFBA00Ossean Wastes|u và báo cáo kết quả.
+@@ 2400
+- Vào |cFFD1FF7ATarroch's Rift|u ở |cFFD1FF7AOssean Wastes|u và nạp lại |cFFD1FF7ASpent Ember|u
+@@ 2401
+- Quay về gặp |cFFD1FF7ANerasis|u ở |cFFD1FF7AOssean Wastes|u
+@@ 2402
+Chào bạn! Không biết bạn có chút thời gian giúp tôi một tay không? Tôi tên là |cFFD1FF7ANerasis|u; tôi là người khảo sát Ember cho Empire. Tôi đang nghiên cứu một giả thuyết rằng Ember đã qua sử dụng có thể được nạp lại nếu tiếp xúc với một nguồn mana đủ lớn. Nghiên cứu đã dẫn tôi đến |cFFD1FF7ATarroch's Rift|u, nơi có tỉ lệ mana tỏa ra... chà, rất cao.\n\nVấn đề là có khá nhiều quái vật kinh khủng chắn giữa tôi và nguồn mana đó. Tôi sẵn lòng trả công để bạn mang viên |cFFD1FF7ASpent Ember|u đã cạn kiệt này vào |cFFD1FF7ATarroch's Rift|u và thử nạp năng lượng cho nó, rồi mang về đây để tôi xem giả thuyết của mình có đúng không.
+@@ 2403
+Tôi chắc chắn rằng các khe phun mana có thể được dùng để nạp lại Ember đã cạn kiệt, điều này sẽ giảm nhẹ đáng kể gánh nặng năng lượng của Empire. Nhưng không phải khe phun mana nào cũng được; nó phải có liên kết trực tiếp với một nguồn mana mạnh mẽ. Tarroch's Rift là nơi mạnh nhất mà tôi từng tìm thấy, không nơi nào sánh bằng. Thật ra tôi hơi lo là nó sẽ phá hủy Spent Ember thay vì nạp lại cho nó. Nhưng chúng ta sẽ không biết được cho đến khi bạn mang nó xuống đó và cho nó tiếp xúc với khe nứt.
+@@ 2404
+Bạn làm được rồi sao? Bạn đã phá hủy những cỗ máy của Ezrohir rồi ư? \n\nBạn đã thành công vượt xa cả những gì tôi tha thiết mong đợi! Nhờ có bạn, Zeryphesh đã an toàn hơn rất nhiều! Tôi xin cảm ơn bạn... và xin trao thưởng cho bạn thứ này.
+@@ 2405
+Vào |cFFD1FF7AUndercurrents|u ở |cFFD1FF7AEmpty Quarter|u và phá hủy bốn |cFFD1FF7AManatoxin Pumps|u.
+@@ 2406
+Quay về gặp |cFFD1FF7ADilawar|u ở |cFFD1FF7AEmpty Quarter|u để nhận thưởng.
+@@ 2407
+- Vào |cFFD1FF7AUndercurrents|u ở |cFFD1FF7AEmpty Quarter|u và phá hủy bốn |cFFD1FF7AManatoxin Pumps|u
+@@ 2408
+- Quay về gặp |cFFD1FF7ADilawar|u ở |cFFD1FF7AEmpty Quarter|u
+@@ 2409
+Bạn của tôi, tôi cần bạn giúp! Tôi và tiểu đội của mình đã quan sát thấy một nhóm Ezrohir ra vào |cFFD1FF7AUndercurrents|u. Chúng đã lắp đặt những cỗ máy để bơm một loại chất độc chết người vào nguồn nước của thành phố. Thứ "Manatoxin" của chúng được chế tạo đặc biệt để làm rối loạn cơ thể người Zeraphi. Không may là bầu không khí độc hại đó dường như đã thu hút cả một bầy thú độc, và tôi chỉ vừa kịp thoát chết. Nếu bạn có thể vào |cFFD1FF7AUndercurrents|u và phá hủy những cỗ máy đó giúp tôi, tôi sẽ thưởng cho bạn. Bạn thấy sao?
+@@ 2410
+Bọn Ezrohir đã lắp đặt những cỗ máy quỷ quái trong Undercurrents, làm ô nhiễm nguồn nước chảy vào Zeryphesh. Bạn phải phá hủy những cỗ máy đó, nếu không Zeryphesh sẽ không thể chống chọi nổi quân Ezrohir!
+@@ 2411
+Rõ ràng bọn Ezrohir tin chắc rằng lũ quái thú tràn ngập Undercurrents đủ nguy hiểm để ngăn chúng tôi vào. Hãy cẩn thận khi vào trong đó.
+@@ 2412
+Undercurrents cung cấp nước cho Zeryphesh từ những giếng sâu dưới lòng cát. Dù người Zeraphi không thực sự uống nước, chúng tôi vẫn cần đến nước, và thứ Manatoxin này được chế tạo đặc biệt để lợi dụng điều đó. Đó là một thứ pha chế quỷ quyệt, có thể giết chết linh hồn chúng tôi nhưng vẫn để nguyên thể xác.\n\nLũ sinh vật tràn ngập Undercurrents rất nguy hiểm và không dễ đối phó. Tôi sẽ không nói dối bạn: phá hủy những cỗ máy đó sẽ chẳng đơn giản... nhưng việc này vô cùng quan trọng, và bạn là người duy nhất có thể làm được.
+@@ 2413
+Bạn tìm được rồi! Ôi, tạ ơn thần linh. Chỉ mất một lát thôi, và… đúng rồi, xong rồi đây: một miếng thuốc đắp chữa thương. Giờ tôi chỉ cần nghỉ ngơi một chút là sẽ khỏe lại như mới.\n\nHóa ra bạn mang về nhiều lá hơn tôi cần. Vậy nên, đây: một Healing Poultice cho bạn, coi như phần thưởng. Nếu bạn bị thương nặng, nó sẽ giúp bạn khỏe lại ngay tức thì!
+@@ 2414
+Thu thập |cFFD1FF7AMerryweather Leaves|u từ một |cFFD1FF7AMerryweather Bush|u, rồi quay về gặp |cFFD1FF7AMedrus|u ở |cFFD1FF7ATemple Steppes|u.
+@@ 2415
+- Thu thập |cFFD1FF7AMerryweather Leaves|u cho Medrus ở |cFFD1FF7ATemple Steppes|u
+@@ 2416
+- Quay về gặp |cFFD1FF7AMedrus|u ở |cFFD1FF7ATemple Steppes|u
+@@ 2417
+Xin chào! Hình như tôi vừa nghe thấy có một con người đi lại ngoài kia.\n\nNghe này, tôi tên là |cFFD1FF7AMedrus|u. Tôi bị một đám Sturmbeorn phục kích, và đã thoát được... nhưng cũng bị thương khá nặng. Tôi có thể tự chữa, nhưng tôi cần ít |cFFD1FF7AMerryweather Leaves|u. Chúng mọc quanh đây thôi, nhưng tôi yếu quá, không đi tìm được.\n\nBạn nghĩ mình có thể tìm giúp tôi ít lá rồi mang về đây không? Bạn sẽ được thưởng, tôi hứa đấy.
+@@ 2418
+Có tìm được Merryweather Leaves chưa? Tôi không chắc mình còn cầm cự được bao lâu nữa...
+@@ 2419
+Tôi thật sự ấn tượng với năng lực của bạn, con người. Tôi phải thú nhận: khi giao nhiệm vụ này cho bạn, tôi đã sợ rằng bạn sẽ không trở về. Nhưng thật xúc động khi thấy nỗi lo của tôi là vô căn cứ.\n\nTrong lúc bạn đi vắng, tôi đã tìm được một món đồ có thể có ích cho bạn. Xin hãy nhận lấy nó, cùng lời chúc phúc của tôi... và lòng biết ơn của người Estherian.
+@@ 2420
+Lấy lại |cFFD1FF7AScroll of Anom-Irek|u từ |cFFD1FF7ACorrupted Crypt|u ở |cFFD1FF7APath of the Honored Dead|u.
+@@ 2421
+Mang |cFFD1FF7AScroll of Anom-Irek|u về cho |cFFD1FF7AMiamin|u ở |cFFD1FF7APath of the Honored Dead|u.
+@@ 2422
+- Lấy lại |cFFD1FF7AScroll of Anom-Irek|u từ |cFFD1FF7ACorrupted Crypt|u, ở |cFFD1FF7APath of the Honored Dead|u
+@@ 2423
+- Quay về gặp |cFFD1FF7AMiamin|u ở |cFFD1FF7APath of the Honored Dead|u
+@@ 2424
+Hẳn bạn là con người mà những người Estherian khác vẫn hay nhắc đến. Tôi rất vui được gặp bạn. Grand Regent Eldrayn đã giao cho tôi nhiệm vụ thu hồi |cFFD1FF7AScroll of Anom-Irek|u, được cất trong một hầm kín ở |cFFD1FF7ACorrupted Crypt|u ngay tại đây. Không may là bọn Sturmbeorn đã vào hầm mộ trước, và tôi không thể vượt qua chúng.\n\nTôi có thể nhờ bạn thử lấy lại cuộn Scroll đó không? Tôi sẽ đợi bạn trở về ở |cFFD1FF7APath of the Honored Dead|u này. Nếu bạn thành công, tôi sẽ cố tìm cho bạn vài món trang bị xứng tầm hơn với một anh hùng như bạn.
+@@ 2425
+Nhiều thế kỷ trước, nhà hiền triết Anom-Irek đã nghĩ ra một phương pháp để nhận biết và thậm chí chữa khỏi cho những người Estherian bị tha hóa bởi những ác linh được gọi là Netherim. Kể từ đó chúng tôi không còn bị lũ chúng quấy nhiễu nữa.\n\nTuy nhiên, cuộc tấn công của Alchemist và căn bệnh xảy ra sau đó khiến tôi nhớ đến những mô tả về việc bị Netherim nhập xác... vì vậy tôi đến đây để tìm phương thuốc của Anom-Irek. Tôi đã hy vọng có thể lẻn vào hầm mộ và quay ra trước khi bọn Sturmbeorn đến, nhưng như bạn thấy đấy, tôi đã đến quá muộn.

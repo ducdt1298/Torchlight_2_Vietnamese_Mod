@@ -1,0 +1,280 @@
+@@ 6060
+Độ khó của phòng
+@@ 6061
+Đào tìm kho báu bị chôn giấu
+@@ 6062
+Tắt Hardware Skinning có thể làm giảm mạnh tốc độ khung hình.\nHardware Skinning cho phép card đồ họa tăng tốc xử lý skinning.\nChỉ tắt khi cần vì lý do tương thích.
+@@ 6063
+Đã khám phá\nEmberscratch Minehead
+@@ 6064
+Đã khám phá\nEstherian Refuge
+@@ 6065
+Đã khám phá\nForsaken Gate
+@@ 6066
+Đã khám phá\nGravedeep
+@@ 6067
+Đã khám phá\nPrison Caravan
+@@ 6068
+Đã khám phá\nSadwa Mesa
+@@ 6069
+Đã khám phá\nSkull Hollow
+@@ 6070
+Đã khám phá\nSlavers' Camp
+@@ 6071
+Đã khám phá\nStygian Aerie Approach
+@@ 6072
+Đã khám phá\nThe Beast Warrens
+@@ 6073
+Đã khám phá\nThe Bone Clutch
+@@ 6074
+Đã khám phá\nThe Cairn Pit
+@@ 6075
+Đã khám phá\nThe Downfalls
+@@ 6076
+Đã khám phá\nThe Embercraft
+@@ 6077
+Đã khám phá\nThe Lost Hold
+@@ 6078
+Đã khám phá\nThe Rot Gardens
+@@ 6079
+Đã khám phá\nThe Ship Graveyard
+@@ 6080
+Đã khám phá\nThe Swarmstacks
+@@ 6081
+Đã khám phá\nTower of the Moon
+@@ 6082
+Đã khám phá\nWatchweald Approach
+@@ 6083
+Đã khám phá\nWellspring Approach
+@@ 6084
+Đã khám phá\nWicker Grove
+@@ 6085
+Đã khám phá\nWidowmaker Woods
+@@ 6086
+Phí gỡ phù phép vật phẩm
+@@ 6087
+Hiển thị
+@@ 6088
+Bạn có muốn thoát?
+@@ 6089
+Bạn có muốn tiếp tục?
+@@ 6090
+Bạn có muốn đến Cacklespit's Realm?
+@@ 6091
+Bạn có muốn đến The Blightbogs?
+@@ 6092
+Bạn có muốn đến Zeryphesh?
+@@ 6093
+Bạn có muốn đến Estherian Enclave?
+@@ 6094
+Bạn có muốn đến Imperial Camp?
+@@ 6095
+Tỉ lệ né tránh
+@@ 6096
+Làm vậy sẽ bắt đầu lại cuộc phiêu lưu của bạn. Mọi vật phẩm, chỉ số và kỹ năng sẽ được giữ nguyên, nhưng game sẽ bắt đầu ở cấp |cFFA1D0FC<STAT1>|u.\n\nBạn sẽ không thể chơi cùng những nhân vật không ở cùng bậc New Game Plus.
+@@ 6097
+Door #1
+@@ 6098
+Door #2
+@@ 6099
+Door #3
+@@ 6100
+Dragon Boss
+@@ 6101
+Thả Potion vào để hồi máu hoặc hồi Mana
+@@ 6102
+Thưởng cầm hai vũ khí
+@@ 6103
+Thuộc tính hầm ngục
+@@ 6104
+Thời gian hiệu lực
+@@ 6105
+THANH CHARGE EMBERMAGE
+@@ 6106
+THANH CHARGE ENGINEER
+@@ 6107
+LỖI
+@@ 6108
+Eggs
+@@ 6109
+Giáp Electric
+@@ 6110
+Kháng Electric
+@@ 6111
+Phóng điện khi bị đánh - Kháng Electric
+@@ 6112
+Giáp Elemental
+@@ 6113
+Sát thương Elemental cộng thêm
+@@ 6114
+Giảm sát thương Elemental
+@@ 6115
+Sát thương Elemental
+@@ 6116
+Embercraft Repair
+@@ 6117
+Emberscratch Minehead
+@@ 6118
+Emberworks
+@@ 6119
+Bật/Tắt bộ lọc chênh lệch cấp
+@@ 6120
+Bật cảnh báo bằng giọng nói khi thiếu Mana hoặc máu và khi Pet bỏ chạy
+@@ 6121
+Bật Luôn hiện tên người chơi sẽ khiến tên của mọi người chơi khác \nluôn hiển thị trên đầu họ.\n\nTắt Luôn hiện tên người chơi thì tên họ chỉ hiển thị \nkhi bật chế độ Hiện vật phẩm hoặc khi nhấn giữ nút Hiện vật phẩm.
+@@ 6122
+Phí phù phép vật phẩm
+@@ 6123
+Enchanter
+@@ 6124
+Enchanter có thể ban thuộc tính mới cho trang bị của bạn.\n\nKhông phải Enchanter nào cũng giống nhau - có người chỉ phù phép một vật phẩm được một lần, có người làm được 2 lần trở lên.\n\nKhông phải Enchanter nào cũng cho cùng loại phù phép - một số còn có thể thêm Socket vào trang bị của bạn.
+@@ 6125
+Encrusted Construct
+@@ 6126
+Enter
+@@ 6127
+Vào Haunted Quarter
+@@ 6128
+Vào Ice Labs
+@@ 6129
+Vào Icedeep Caverns
+@@ 6130
+Vào Korari Cave
+@@ 6131
+Vào Luminous Arena
+@@ 6132
+Vào Norsk Leiren
+@@ 6133
+Vào Notch's Mine
+@@ 6134
+Vào The Ancient Vaults of Chaos
+@@ 6135
+Vào The Bone Gallery
+@@ 6136
+Vào The Burial Chambers
+@@ 6137
+Vào The Catacombs
+@@ 6138
+Vào The Caves
+@@ 6139
+Vào The Corrupted Crypt
+@@ 6140
+Vào The Forgotten Halls
+@@ 6141
+Vào The Foul Cave of Shadows
+@@ 6142
+Vào The Fungal Caves
+@@ 6143
+Vào The Howling Cave of Doom
+@@ 6144
+Vào The Ice Caves
+@@ 6145
+Vào The Lost Hold
+@@ 6146
+Vào The Lost Okwari Caves
+@@ 6147
+Vào The Shadowy Crevasse
+@@ 6148
+Vào The Warbeast Den
+@@ 6149
+Vào The Wellspring Temple
+@@ 6150
+Vào The Whispering Cave
+@@ 6151
+Vào The Widows Veil
+@@ 6152
+Rơi vào trạng thái cuồng bạo, mọi đòn đều chí mạng và gây thêm sát thương chí mạng. Mỗi đòn chí mạng tiêu hao một ít Charge cho đến khi thanh cạn
+@@ 6153
+Vào Watchweald Temple
+@@ 6154
+Đã vào\nAnother Realm
+@@ 6155
+Đã vào\nEmberscratch Minehead
+@@ 6156
+Đã vào\nEstherian Refuge
+@@ 6157
+Đã vào\nForsaken Gate
+@@ 6158
+Đã vào\nGravedeep
+@@ 6159
+Đã vào\nPrison Caravan
+@@ 6160
+Đã vào\nSadwa Mesa
+@@ 6161
+Đã vào\nSkull Hollow
+@@ 6162
+Đã vào\nSlavers' Camp
+@@ 6163
+Đã vào\nStorm Armory
+@@ 6164
+Đã vào\nStygian Aerie Approach
+@@ 6165
+Đã vào\nThe Beast Warrens
+@@ 6166
+Đã vào\nThe Bone Clutch
+@@ 6167
+Đã vào\nThe Cairn Pit
+@@ 6168
+Đã vào\nThe Downfalls
+@@ 6169
+Đã vào\nThe Embercraft
+@@ 6170
+Đã vào\nThe Lost Hold
+@@ 6171
+Đã vào\nThe Rot Gardens
+@@ 6172
+Đã vào\nThe Ship Graveyard
+@@ 6173
+Đã vào\nThe Swarmstacks
+@@ 6174
+Đã vào\nWatchweald Approach
+@@ 6175
+Đã vào\nWellspring Approach
+@@ 6176
+Đã vào\nWicker Grove
+@@ 6177
+Đã vào\nWidowmaker Woods
+@@ 6178
+Trang bị
+@@ 6179
+Hành trang trang bị
+@@ 6180
+Thẻ trang bị
+@@ 6181
+Đang trang bị
+@@ 6182
+Lỗi
+@@ 6183
+Estherian Refuge
+@@ 6184
+Estherian Shrine Boss
+@@ 6185
+Tỉ lệ Execute
+@@ 6186
+Rời khỏi Luminous Arena
+@@ 6187
+Lối ra Salt Barrens
+@@ 6188
+Thoát ra menu chính
+@@ 6189
+Thoát?
+@@ 6190
+Kinh nghiệm
+@@ 6191
+Thưởng kinh nghiệm
+@@ 6192
+Tiến độ kinh nghiệm lên cấp tiếp theo
+@@ 6193
+Cực nhanh - Đòn đánh Elemental
+@@ 6194
+Ezrek Kahn
+@@ 6195
+THẤT BẠI
+@@ 6196
+FPS: <STAT1>
+@@ 6197
+Faceless King
+@@ 6198
+Thưởng Fame
+@@ 6199
+Tiến độ Fame lên cấp tiếp theo

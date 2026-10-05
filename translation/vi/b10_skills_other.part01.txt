@@ -1,0 +1,200 @@
+@@ 3510
+Bạn xuyên thủng kẻ địch bằng một luồng năng lượng bỏng rát.
+@@ 3511
+Ba tia năng lượng Ember tự tìm đến mục tiêu
+@@ 3512
+Bốn tia năng lượng Ember tự tìm đến mục tiêu
+@@ 3513
+Bạn tung ra một cặp tia năng lượng Ember tự tìm đến kẻ địch.
+@@ 3514
+Bạn oanh tạc kẻ địch bằng một tia năng lượng Ember.
+@@ 3515
+Bạn biến mất khỏi một vị trí và lập tức xuất hiện ở vị trí khác, gây sát thương ở cả hai nơi.
+@@ 3516
+Bạn triệu hồi một tinh thể canh gác, bắn chùm tia năng lượng Ember vào kẻ địch gần đó.
+@@ 3517
+Bạn khoác lên mình năng lượng Ember, hấp thụ sát thương Physical.
+@@ 3518
+Bạn gọi một tia năng lượng rực cháy từ trên trời giáng xuống mục tiêu.
+@@ 3519
+Bạn ném một tinh thể băng phát nổ khi va chạm, đóng băng kẻ địch gần đó.
+@@ 3520
+Bạn ném một tinh thể lửa, thiêu đốt kẻ địch.
+@@ 3521
+Bạn triệu hồi một làn sóng năng lượng gây sát thương cho mọi kẻ địch trên đường đi.
+@@ 3522
+Bạn làm suy yếu kẻ địch gần đó, giảm giáp và kháng Elemental của chúng, đồng thời làm chậm tốc độ đánh của chúng.
+@@ 3523
+Triệu hồi tối đa 2 Nether Imp từ năng lượng tiềm ẩn trong xác chết
+@@ 3524
+Triệu hồi tối đa 3 Nether Imp từ năng lượng tiềm ẩn trong xác chết
+@@ 3525
+Triệu hồi tối đa 4 Nether Imp từ năng lượng tiềm ẩn trong xác chết
+@@ 3526
+Triệu hồi tối đa 5 Nether Imp từ năng lượng tiềm ẩn trong xác chết
+@@ 3527
+Triệu hồi tối đa 6 Nether Imp từ năng lượng tiềm ẩn trong xác chết
+@@ 3528
+Bạn triệu hồi một Nether Imp từ năng lượng tiềm ẩn trong xác chết gần đó.
+@@ 3529
+Bạn khiến tay sai tràn đầy cuồng nộ, tăng sát thương và tốc độ đánh của chúng.
+@@ 3530
+Bạn truyền năng lượng lách tách vào tay sai, phản lại sát thương mà kẻ địch gây ra cho chúng.
+@@ 3531
+Bạn làm quá tải găng tay và giáng một luồng điện hủy diệt vào một mục tiêu duy nhất. Những kẻ địch khác bị cuốn vào vụ nổ chịu sát thương thấp hơn.
+@@ 3532
+Golem được nâng cấp sát thương, đòn chí mạng và phản một luồng tĩnh điện nhỏ lên kẻ tấn công 
+@@ 3533
+Golem được nâng cấp sát thương, đòn chí mạng và phản một luồng tĩnh điện nhỏ lên kẻ tấn công
+@@ 3534
+Bản nâng cấp tối thượng của Golem bao gồm đòn tấn công bằng tia đa nguyên tố
+@@ 3535
+Bạn triệu hồi một Beam Golem, bắn các chùm tia điện vào kẻ địch.
+@@ 3536
+Bản nâng cấp Golem tăng sát thương, giáp và máu lên cao hơn nữa
+@@ 3537
+Bản nâng cấp Golem tăng sát thương, giáp và máu
+@@ 3538
+Bản nâng cấp Golem mang đến đòn Smash Attack mới
+@@ 3539
+Bản nâng cấp Golem mang đến đòn Vortex Attack mới
+@@ 3540
+Bản nâng cấp Golem tăng sát thương, kháng và máu lên cao hơn nữa
+@@ 3541
+Bản nâng cấp Golem tăng sát thương, kháng và máu
+@@ 3542
+Golem nhận bản nâng cấp tối thượng
+@@ 3543
+Bạn triệu hồi một Alchemical Golem tấn công kẻ địch.
+@@ 3544
+Bạn khiến kẻ địch gần đó hoảng sợ và bỏ chạy tán loạn.
+@@ 3545
+Bạn truyền năng lượng Ember vào vũ khí, tăng sát thương của chúng.
+@@ 3546
+Bạn xuyên thủng kẻ địch bằng một chùm tia năng lượng phát ra liên tục từ vũ khí. Kẻ địch bị tiêu diệt sẽ tách chùm tia ra, đánh trúng các mục tiêu gần đó như một hiệu ứng phụ.
+@@ 3547
+Yêu cầu Staff hoặc Wand
+@@ 3548
+Chùm tia có thể tách sang mục tiêu mới tối đa 3 lần
+@@ 3549
+Chùm tia có thể tách sang mục tiêu mới tối đa 4 lần
+@@ 3550
+Chùm tia có thể tách sang mục tiêu mới tối đa 5 lần
+@@ 3551
+Bước vào trạng thái giác ngộ
+@@ 3552
+Bạn bắn ra một quả cầu năng lượng điện cô đặc, oanh tạc kẻ địch gần đó.
+@@ 3553
+Bạn tạo ra 4 cột lửa khổng lồ rực cháy, tự tìm và thiêu rụi kẻ địch gần đó. Blazing Pillar tích |c00ff9933Charge|u rất tốt.
+@@ 3554
+Tạo ra 5 cột lửa
+@@ 3555
+Tạo ra 6 cột lửa
+@@ 3556
+Tạo ra 7 cột lửa
+@@ 3557
+Bạn hút năng lượng từ kẻ địch, có thể tạo ra các Leyline tạm thời.  Kỹ năng duy trì liên tục.
+@@ 3558
+Bạn tự bao bọc mình trong một hào quang cường hóa, tăng sát thương và kháng Elemental của bạn. Lợi ích của Boon cũng áp dụng cho mọi đồng minh trong phạm vi 12 mét.
+@@ 3559
+Nhận khả năng kháng hiệu ứng làm chậm và bất động
+@@ 3560
+Nhận thêm khả năng hồi phục Mana
+@@ 3561
+Thi triển nhanh hơn và tốn ít Mana hơn
+@@ 3562
+Bạn ném ba luồng lửa đốt cháy mặt đất trong 3 giây, đôi khi khiến kẻ địch đang cháy loạng choạng trong hoảng loạn. Firebombs không tích |c00ff9933Charge|u.
+@@ 3563
+Vũng lửa tồn tại 4 giây. Thời gian hồi giảm còn 1.6 giây.
+@@ 3564
+Vũng lửa tồn tại 5 giây. Thời gian hồi giảm còn 1.2 giây.
+@@ 3565
+Vũng lửa tồn tại 6 giây. Thời gian hồi giảm còn .8 giây.
+@@ 3566
+Bạn gọi than hồng rực cháy từ trên trời trút xuống trong bán kính 15 mét, thiêu đốt kẻ địch và khiến chúng dễ tổn thương hơn trước sát thương Fire. Firestorm không tích |c00ff9933Charge|u.
+@@ 3567
+Kẻ địch bị ảnh hưởng gây ít hơn 30% sát thương Fire
+@@ 3568
+Mục tiêu bị giết bắn ra các mảnh vụn rực cháy
+@@ 3569
+Tầm bay của mảnh vụn rực cháy tăng gấp đôi
+@@ 3570
+Kéo dài 30 giây
+@@ 3571
+Kéo dài 34 giây
+@@ 3572
+Kéo dài 32 giây
+@@ 3573
+Kéo dài 38 giây
+@@ 3574
+Kéo dài 36 giây
+@@ 3575
+Kéo dài 42 giây
+@@ 3576
+Kéo dài 40 giây
+@@ 3577
+Kéo dài 46 giây
+@@ 3578
+Kéo dài 44 giây
+@@ 3579
+Kéo dài 54 giây
+@@ 3580
+Kéo dài 52 giây
+@@ 3581
+Kéo dài 50 giây
+@@ 3582
+Kéo dài 48 giây
+@@ 3583
+Kéo dài 58 giây
+@@ 3584
+Kéo dài 56 giây
+@@ 3585
+Một vòng xoáy lửa bao quanh bạn, gây sát thương cho kẻ địch trong bán kính 3 mét.
+@@ 3586
+Hào quang hấp thụ 5% mọi sát thương phải nhận
+@@ 3587
+Hào quang hấp thụ 10% mọi sát thương phải nhận
+@@ 3588
+Hào quang hấp thụ 15% mọi sát thương phải nhận
+@@ 3589
+Đóng băng tức thì không khí trong một khu vực để làm bất động kẻ địch!
+@@ 3590
+Khi bạn giết một kẻ địch, bạn có cơ hội đóng băng thêm tối đa 4 kẻ địch trong bán kính 7 mét.
+@@ 3591
+Bạn gọi mảnh băng từ trên trời trút xuống, dội liên hồi vào kẻ địch trong bán kính 15 mét. Hailstorm không tích |c00ff9933Charge|u.
+@@ 3592
+Mục tiêu dễ tổn thương hơn 20% trước sát thương Ice và Electric trong 6 giây
+@@ 3593
+Mục tiêu dễ tổn thương hơn 40% trước sát thương Ice và Electric trong 6 giây
+@@ 3594
+Mục tiêu dễ tổn thương hơn 60% trước sát thương Ice và Electric trong 6 giây
+@@ 3595
+Bạn tung ra một loạt 5 tia băng nảy bật để làm chậm và làm bất động kẻ địch. 
+@@ 3596
+Sát thương của mục tiêu giảm 20% trong 6 giây
+@@ 3597
+Tỉ lệ làm bất động tăng lên 75% trong 4 giây
+@@ 3598
+Tăng lên 7 tia băng trên một vòng cung rộng hơn
+@@ 3599
+Bạn triệu hồi phân thân linh thể của một Embermage đồng môn, cùng bạn chiến đấu bằng những phép thuật mạnh mẽ.
+@@ 3600
+Astral Ally tồn tại 30 giây
+@@ 3601
+Astral Ally tồn tại 40 giây
+@@ 3602
+Astral Ally tồn tại 50 giây
+@@ 3603
+Cột băng tồn tại 8 giây
+@@ 3604
+Cột băng tồn tại 10 giây
+@@ 3605
+Cột băng tồn tại 9 giây
+@@ 3606
+Cột băng tồn tại 12 giây
+@@ 3607
+Cột băng tồn tại 11 giây
+@@ 3608
+Cột băng tồn tại 14 giây
+@@ 3609
+Cột băng tồn tại 13 giây

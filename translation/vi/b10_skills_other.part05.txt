@@ -1,0 +1,200 @@
+@@ 3910
+Khế ước kéo dài 11 giây
+@@ 3911
+Khế ước kéo dài 13 giây
+@@ 3912
+Bạn là bậc thầy bắn chính xác, có thể nhắm vào chỗ hiểm của kẻ địch chuẩn xác hơn.
+@@ 3913
+Quá trình rèn luyện nhào lộn giúp bạn tăng cơ hội né tránh đòn đánh. 
+@@ 3914
+Sự thành thạo Pistol giúp bạn gây thêm sát thương khi cầm hai khẩu cùng lúc, và đôi khi bắn cả hai đồng thời... với uy lực chết người.
+@@ 3915
+Cần trang bị hai Pistol để phát huy tác dụng
+@@ 3916
+Sự thành thạo giúp bạn tăng sát thương với mọi vũ khí tầm xa. Bow, Crossbow, Pistol và Wand được tăng tầm bắn.
+@@ 3917
+Sự thành thạo các nguyên tố giúp bạn gây thêm sát thương bằng chúng. Poison được hưởng lợi gấp đôi so với các nguyên tố khác.
+@@ 3918
+Sự thành thạo Shotgonne giúp tăng cơ hội phát bắn của bạn khiến mục tiêu choáng váng và mất phương hướng.
+@@ 3919
+Yêu cầu Shotgonne
+@@ 3920
+Bạn nhanh chóng lộn ngược ra sau, tránh xa mục tiêu. Cú lộn để lại một phù ấn huyền bí gây sát thương và làm mù kẻ địch trong bán kính 4 mét.
+@@ 3921
+Bán kính phù ấn tăng lên 5 mét. Thời gian làm mù tăng lên 4 giây. Cho phép dùng khả năng hút máu và hút Mana.
+@@ 3922
+Thêm đẩy lùi. Thời gian làm mù tăng lên 5 giây. Cho phép dùng mọi khả năng dựa trên vũ khí.
+@@ 3923
+Bán kính tăng lên 6 mét. Thời gian làm mù tăng lên 6 giây. Tích |c00ff9933Charge|u.
+@@ 3924
+Có thể xuất hiện tối đa 2 chuỗi sét.
+@@ 3925
+Có thể xuất hiện tối đa 3 chuỗi sét.
+@@ 3926
+Có thể xuất hiện tối đa 4 chuỗi sét.
+@@ 3927
+Ném một bình chứa dịch bệnh độc hại, lây lan nhanh chóng giữa các kẻ địch.
+@@ 3928
+Ôn dịịịch!
+@@ 3929
+Phóng một phi tiêu gây ra căn bệnh hiếm gặp và chết người.\nKẻ nào chết khi đang nhiễm dịch bệnh này sẽ phát nổ, lây nhiễm ra xung quanh.
+@@ 3930
+Bạn bắn một loạt tên độc lên trời, chúng lao vút xuống đất trong bán kính 4 mét quanh vị trí mục tiêu. Mưa tên giáng xuống 8 đợt mỗi loạt.
+@@ 3931
+Bán kính va chạm tăng lên 5.5 mét
+@@ 3932
+Thời lượng mỗi loạt tăng lên 12 đợt
+@@ 3933
+Bạn triệu hồi một tượng bùa kéo kẻ địch gần đó về phía nó và có cơ hội làm choáng chúng. Mỗi lần kéo được tối đa 3 kẻ địch.  Tỉ lệ làm choáng tối đa 8%.
+@@ 3934
+Kẻ địch chịu sát thương khi bị kéo
+@@ 3935
+Mỗi lần kéo được tối đa năm kẻ địch
+@@ 3936
+Kẻ địch bị kéo truyền Mana cho người thi triển
+@@ 3937
+Bạn bắn một tràng đạn liên thanh đẩy lùi kẻ địch và lột bỏ giáp của chúng. Tầm bắn ban đầu là 7 mét.
+@@ 3938
+Cứ cách một phát lại bắn thêm đạn lạc
+@@ 3939
+Tầm bắn tăng lên 12 mét
+@@ 3940
+Mục tiêu bị thiêu đốt trong 4 giây
+@@ 3941
+Bùa chú có thể bắn mỗi 1 giây
+@@ 3942
+Bùa chú có thể bắn mỗi .9 giây và ngắm nhanh hơn một chút
+@@ 3943
+Bùa chú có thể bắn mỗi .95 giây và ngắm nhanh hơn một chút
+@@ 3944
+Bùa chú có thể bắn mỗi .8 giây và ngắm nhanh hơn một chút
+@@ 3945
+Bùa chú có thể bắn mỗi .85 giây và ngắm nhanh hơn một chút
+@@ 3946
+Bùa chú có thể bắn mỗi .7 giây và ngắm nhanh hơn một chút
+@@ 3947
+Bùa chú có thể bắn mỗi .75 giây và ngắm nhanh hơn một chút
+@@ 3948
+Bùa chú có thể bắn mỗi .6 giây và ngắm nhanh hơn một chút
+@@ 3949
+Bùa chú có thể bắn mỗi .65 giây và ngắm nhanh hơn một chút
+@@ 3950
+Bùa chú có thể bắn mỗi .4 giây và ngắm nhanh hơn một chút
+@@ 3951
+Bùa chú có thể bắn mỗi .45 giây và ngắm nhanh hơn một chút
+@@ 3952
+Bùa chú có thể bắn mỗi .5 giây và ngắm nhanh hơn một chút
+@@ 3953
+Bùa chú có thể bắn mỗi .55 giây và ngắm nhanh hơn một chút
+@@ 3954
+Bùa chú có thể bắn mỗi .3 giây và ngắm nhanh hơn một chút
+@@ 3955
+Bùa chú có thể bắn mỗi .35 giây và ngắm nhanh hơn một chút
+@@ 3956
+Bạn triệu hồi một hình nhân bùa chú lơ lửng, đẩy lùi kẻ địch đến quá gần.
+@@ 3957
+Bùa chú có 10% cơ hội khiến kẻ địch hoảng sợ bỏ chạy trong 5 giây
+@@ 3958
+Bùa chú có 20% cơ hội khiến kẻ địch hoảng sợ bỏ chạy trong 5 giây
+@@ 3959
+Bùa chú có 30% cơ hội khiến kẻ địch hoảng sợ bỏ chạy trong 5 giây
+@@ 3960
+Brambles tồn tại 10 giây.
+@@ 3961
+Brambles tồn tại 16 giây.
+@@ 3962
+Brambles tồn tại 13 giây.
+@@ 3963
+Brambles tồn tại 20 giây.
+@@ 3964
+Brambles tồn tại 19 giây.
+@@ 3965
+Bạn gọi lên một bức tường dây leo đầy gai ngăn kẻ địch tiến lại gần
+@@ 3966
+Dây leo gây sát thương cho kẻ địch khi trồi lên
+@@ 3967
+Tăng chiều dài dây leo
+@@ 3968
+Dây leo tỏa ra khí độc
+@@ 3969
+Kỹ năng combo
+@@ 3970
+Bạn ném Glaive, tạo ra một cơn lốc cắt xuyên qua kẻ địch và rút dần máu của chúng. Bão cát bay xa 20 mét và tạo ra 1.5% thanh |c00ff9933Charge|u cho mỗi kẻ địch trúng đòn.
+@@ 3971
+Kẻ địch bị giết tỏa ra những đám ruồi dịch bệnh
+@@ 3972
+Tầm xa tăng lên 40 mét
+@@ 3973
+Tầm xa tăng lên 50 mét
+@@ 3974
+Bạn gọi ra một bùa chú bóng tối bảo vệ bạn khỏi kẻ tấn công tầm xa. Shadowmantle có thể phản sát thương lại kẻ tấn công và có cơ hội làm mù chúng trong 6 giây.
+@@ 3975
+Bùa chú phản lại 125% sát thương của đạn
+@@ 3976
+Bùa chú phản lại 175% sát thương của đạn
+@@ 3977
+Bùa chú phản lại 250% sát thương của đạn
+@@ 3978
+Bạn yểm lời nguyền lên đạn dược, khiến chúng vỡ thành 3 mảnh khi va chạm, các mảnh này sẽ tự tìm thêm mục tiêu.
+@@ 3979
+Đạn vỡ thành 4 mảnh
+@@ 3980
+Đạn vỡ thành 5 mảnh
+@@ 3981
+Đạn vỡ thành 6 mảnh
+@@ 3982
+Lợi ích Charge được chia sẻ: 20%
+@@ 3983
+Lợi ích Charge được chia sẻ: 28%
+@@ 3984
+Lợi ích Charge được chia sẻ: 24%
+@@ 3985
+Lợi ích Charge được chia sẻ: 36%
+@@ 3986
+Lợi ích Charge được chia sẻ: 32%
+@@ 3987
+Lợi ích Charge được chia sẻ: 44%
+@@ 3988
+Lợi ích Charge được chia sẻ: 40%
+@@ 3989
+Lợi ích Charge được chia sẻ: 52%
+@@ 3990
+Lợi ích Charge được chia sẻ: 48%
+@@ 3991
+Lợi ích Charge được chia sẻ: 68%
+@@ 3992
+Lợi ích Charge được chia sẻ: 64%
+@@ 3993
+Lợi ích Charge được chia sẻ: 60%
+@@ 3994
+Lợi ích Charge được chia sẻ: 56%
+@@ 3995
+Lợi ích Charge được chia sẻ: 76%
+@@ 3996
+Lợi ích Charge được chia sẻ: 72%
+@@ 3997
+Bạn chia sẻ một phần trăm lợi ích |c00ff9933Charge|u của mình với mọi pet và đồng minh trong phạm vi 16 mét, đồng thời bản thân bạn được cộng thêm đúng phần trăm đó vào lợi ích của mình.
+@@ 3998
+Một phát bắn năng lượng hội tụ ở tầm cực xa, gây sát thương lớn lên một mục tiêu duy nhất.
+@@ 3999
+Bạn gọi ra một Shadowling Brute đáng sợ tại vị trí mục tiêu, tàn phá kẻ địch của bạn.
+@@ 4000
+Brute có thêm đòn lướt tấn công
+@@ 4001
+Brute có thêm đòn nhảy vồ
+@@ 4002
+Tốc độ đánh của Brute tăng 30%
+@@ 4003
+Bạn bắn một viên đạn bị nguyền, trói chặt và làm bất động mục tiêu. Kẻ địch trong bán kính 3.5 mét quanh mục tiêu cũng có cơ hội bị quấn trói. Kẻ địch bị quấn trói sẽ dần bị siết nát, chịu sát thương theo thời gian.
+@@ 4004
+Bán kính phụ tăng lên 4.5 mét, tỉ lệ làm bất động tăng lên 65%
+@@ 4005
+Bán kính phụ tăng lên 5.5 mét, tỉ lệ làm bất động tăng lên 80%
+@@ 4006
+Bán kính phụ tăng lên 6.5 mét, tỉ lệ làm bất động tăng lên 95%
+@@ 4007
+Outlander ném một chiếc Glaive xoay tít, tự tìm đến kẻ địch và tạo ra một vòng xoáy hút kẻ địch vào.
+@@ 4008
+Bạn tẩm Venom Ember lên đạn, giúp chúng có cơ hội phát nổ khi va chạm và làm trúng độc kẻ địch gần đó.
+@@ 4009
+Yêu cầu vũ khí tầm xa

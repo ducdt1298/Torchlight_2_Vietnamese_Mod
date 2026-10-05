@@ -1,0 +1,1224 @@
+{
+ "batch": "b04_mainquest_1",
+ "count": 203,
+ "items": [
+  {
+   "id": 1884,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1/A1-COLLECTTWOGEMSTOSAVETHEREGENT.DAT | DETAILS | DIALOG",
+   "en": "Collect the |cFFFFBA00Passkey Ember|u from the |cFFFFBA00Slavers' Stockade|u, and the |cFFFFBA00Latchkey Ember|u from the |cFFFFBA00Emberscratch Mines|u.  Use them to open the |cFFFFBA00Watchweald Portal|u, in the abandoned |cFFFFBA00Estherian Refuge|u."
+  },
+  {
+   "id": 1885,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1/A1-COLLECTTWOGEMSTOSAVETHEREGENT.DAT | DETAILS | DIALOG_COMPLETE",
+   "en": "Use the gems to open the |cFFFFBA00Watchweald Portal|u, in the |cFFFFBA00Estherian Refuge|u, in the |cFFFFBA00Frosted Hills|u."
+  },
+  {
+   "id": 1886,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1/A1-COLLECTTWOGEMSTOSAVETHEREGENT.DAT | HUDDETAILS | DIALOG",
+   "en": "- Acquire |cFFFFBA00[ACQUIRE1]|u at |cFFFFBA00Slavers' Stockade|u in |cFFFFBA00Frosted Hills|u\\n- Acquire |cFFFFBA00[ACQUIRE2]|u at |cFFFFBA00Emberscratch Mine|u in |cFFFFBA00Frosted Hills|u\\n"
+  },
+  {
+   "id": 1887,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1/A1-COLLECTTWOGEMSTOSAVETHEREGENT.DAT | HUDDETAILS | DIALOG_COMPLETE",
+   "en": "- Use the |cFFFFBA00Ember Keys|u to activate the |cFFFFBA00Watchweald Portal|u in the |cFFFFBA00Estherian Refuge|u, in the |cFFFFBA00Frosted Hills|u"
+  },
+  {
+   "id": 1888,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1/A1-COLLECTTWOGEMSTOSAVETHEREGENT.DAT | INTRO | DIALOG",
+   "en": "I was planning to enter the |cFFFFBA00Watchweald|u through the other portal in the old |cFFFFBA00Estherian Refuge|u.  Unfortunately the keys have been stolen.  Goblin miners took one, and we believe that some slavers who recently moved into the area have the other.  It takes both keys to activate the |cFFFFBA00Watchweald Portal|u ... and it is beyond my abilities to retrieve them.\\n\\nRecover the |cFFFFBA00Passkey Ember|u from the slavers, and the |cFFFFBA00Latchkey Ember|u from the goblins. You can use them to open the Portal in the Refuge, and intercept the Regent before he infects the Guardian!"
+  },
+  {
+   "id": 1889,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1/A1-COLLECTTWOGEMSTOSAVETHEREGENT.DAT | MOREDETAILS | DIALOG",
+   "en": "En route to the Watchweald Temple, you met Grand Regent Eldrayn's assistant, Elder Valin.  Valin told you that he had become lost en route to the Watchweald ... and that the Grand Regent was beginning to exhibit symptoms of the sickness!\\n\\nWith the temple doors sealed, though, the only way in is through an inactive portal in the abandoned Estherian Refuge.  Elder Valin told you that, to reactivate the portal, you would need to retrieve the Passkey Ember from a slavers' camp, and the Latchkey Ember from the goblin mines.\\n"
+  },
+  {
+   "id": 1890,
+   "mode": "decide",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1/A1-COLLECTTWOGEMSTOSAVETHEREGENT.DAT | QUEST | DISPLAYNAMECOMPLETE",
+   "en": "Activate the Teleporter"
+  },
+  {
+   "id": 1891,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1/A1-COLLECTTWOGEMSTOSAVETHEREGENT.DAT | RETURN | DIALOG",
+   "en": "From the symptoms I observed, the Grand Regent has definitely contracted the illness.  He insisted on pushing on, though; the Guardian's welfare is more important.  But, if this sickness is instead some form of magical corruption, then the Grand Regent is taking it directly to the Guardian!"
+  },
+  {
+   "id": 1892,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1/A1-DEFEATGRELL.DAT | COMPLETE | DIALOG",
+   "en": "I don't know who you are ... but I'm glad you came along!  We arrived just as the Alchemist was subduing the Guardian, but he caught us by surprise.  We couldn't stop him.\\n\\nGrell and his raiders arrived shortly after the Alchemist left.  They've been trying to get in here and loot this place for years; the Alchemist's attack finally gave them the opening they needed."
+  },
+  {
+   "id": 1893,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1/A1-DEFEATGRELL.DAT | DETAILS | DIALOG",
+   "en": "Go through the |cFFFFBA00Path of the Honored Dead|u to the |cFFFFBA00Temple Steppes|u.  Enter the |cFFFFBA00Wellspring Temple|u and ensure that the |cFFFFBA00Guardian of Water|u is safe."
+  },
+  {
+   "id": 1894,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1/A1-DEFEATGRELL.DAT | HUDDETAILS | DIALOG",
+   "en": "- Discover the |cFFFFBA00Wellspring Temple|u in the |cFFFFBA00Temple Steppes|u and find Commander Vale."
+  },
+  {
+   "id": 1895,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1/A1-DEFEATGRELL.DAT | HUDDETAILS | DIALOG_COMPLETE",
+   "en": "- Talk to Vale the |cFFFFBA00Vanquisher|u"
+  },
+  {
+   "id": 1896,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1/A1-DEFEATGRELL.DAT | INTRO | DIALOG",
+   "en": "Commander Vale believes that the Alchemist might attack the |cFFFFBA00Wellspring Temple|u, in an attempt to reach the |cFFFFBA00Guardian of Water|u ... for what nefarious purpose I am afraid to speculate.  There has been no word from either Vale, or the Guardian.\\n\\nScout the |cFFFFBA00Wellspring Temple|u, and determine if the |cFFFFBA00Guardian of Water|u is in any danger."
+  },
+  {
+   "id": 1897,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1/A1-DEFEATGRELL.DAT | MOREDETAILS | DIALOG",
+   "en": "It appears you were too late!  The Alchemist has already reached the Enclave ... and was rebuffed by the Estherian Grand Regent, Eldrayn.  The Alchemist fled toward the south, through the Path of the Honored Dead, toward the Wellspring Temple.\\n\\nShortly afterward, Commander Vale, another of the Heroes of Torchlight, and a close friend of the Destroyer's, arrived with a platoon of troops.  She quickly set off for the Wellspring Temple, to protect the Guardian of Water, in case the Alchemist struck there next.  There has been no word from her since."
+  },
+  {
+   "id": 1898,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1/A1-DEFEATGRELL.DAT | RETURN | DIALOG",
+   "en": "I must be on my way soon.  If the Alchemist is attacking Guardians, he will be after the Guardian, at the Watchweald Temple ... assuming the Vanquisher failed to stop him at the Wellspring.\\n\\nThe Guardians are immensely powerful beings.  They control the elements, and thus provide for life.  But they are not inviolate; a sufficiently powerful attacker could overcome them.  If the Alchemist was able to do so, then the threat he poses is greater than anything the world has faced since the Netherim invasion a millennium ago."
+  },
+  {
+   "id": 1899,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1/A1-DEFEAT_REGENT.DAT | COMPLETE | DIALOG",
+   "en": "Thank you, mortal.  I was too weakened by the Alchemist to fend off the Nether-Beast, when it revealed itself.  Had you not appeared when you did, it would have possessed me as completely as it had the Regent."
+  },
+  {
+   "id": 1900,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1/A1-DEFEAT_REGENT.DAT | DETAILS | DIALOG",
+   "en": "Use the |cFFFFBA00Watchweald Portal|u to enter the |cFFFFBA00Watchweald Temple|u. Stop the |cFFFFBA00Grand Regent|u before he harms the |cFFFFBA00Guardian of the Wild|u."
+  },
+  {
+   "id": 1901,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1/A1-DEFEAT_REGENT.DAT | HUDDETAILS | DIALOG",
+   "en": "- Enter the |cFFFFBA00Watchweald Temple|u via the |cFFFFBA00Watchweald Portal|u and stop the |cFFFFBA00Grand Regent|u"
+  },
+  {
+   "id": 1902,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1/A1-DEFEAT_REGENT.DAT | HUDDETAILS | DIALOG_COMPLETE",
+   "en": "- Speak to |cFFFFBA00Guardian of the Wild|u in the |cFFFFBA00Watchweald Temple|u"
+  },
+  {
+   "id": 1903,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1/A1-DEFEAT_REGENT.DAT | MOREDETAILS | DIALOG",
+   "en": "As soon as you entered the Watchweald Temple, it was obvious that something was very wrong.  The entire building is overrun with mutated Estherians, and there are signs that a mighty battle has taken place ... and might still be going on.\\n\\nSomewhere amid all of this chaos is Grand Regent Eldrayn.  And if he is trying to protect the Guardian of the Wild, he may have already infected the Guardian with the mysterious illness that has affected so many Estherians ... the same malady that appears to have turned them into ravening Nether-Thralls!"
+  },
+  {
+   "id": 1904,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1/A1-FOLLOW_REGENT_TO_THE_NORTH.DAT | COMPLETE | DIALOG",
+   "en": "Greetings, traveler.  Can you assist me?  I was traveling with the Grand Regent, to the Watchweald Temple, when we became separated.  I was hoping to rejoin him at the temple ... but the doors have been sealed behind him.  He was very ill, when I last saw him.  I think he might have contracted the same sickness affecting the other Estherians."
+  },
+  {
+   "id": 1905,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1/A1-FOLLOW_REGENT_TO_THE_NORTH.DAT | DETAILS | DIALOG",
+   "en": "Go through |cFFFFBA00Crows' Pass|u to the |cFFFFBA00Frosted Hills|u, and find a way to intercept |cFFFFBA00Grand Regent Eldrayn|u before he reaches the |cFFFFBA00Watchweald Temple|u."
+  },
+  {
+   "id": 1906,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1/A1-FOLLOW_REGENT_TO_THE_NORTH.DAT | HUDDETAILS | DIALOG",
+   "en": "- Seek the Grand Regent in the |cFFFFBA00Frosted Hills|u"
+  },
+  {
+   "id": 1907,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1/A1-FOLLOW_REGENT_TO_THE_NORTH.DAT | INTRO | DIALOG",
+   "en": "This plague seems to specifically target beings of an inherently magical nature, such as the Estherians ... and the Guardians.  So far it's not affecting humans, so I've sent for a transport to bring us some medical supplies, and I'll be coordinating the medical relief here.\\n\\nMeanwhile, you need to get out to the |cFFFFBA00Watchweald Temple|u.  Take |cFFFFBA00Crows' Pass|u to the |cFFFFBA00Frosted Hills|u.  Try to catch up to the |cFFFFBA00Grand Regent|u before he enters the temple."
+  },
+  {
+   "id": 1908,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1/A1-FOLLOW_REGENT_TO_THE_NORTH.DAT | MOREDETAILS | DIALOG",
+   "en": "Back at the Enclave, you learned that a strange, magical sickness has been spreading among the Estherians ever since the Alchemist's attack.  There is also a strong possibility that Grand Regent Eldrayn is carrying the disease, and he is already en route to the Watchweald Temple, to see to the protection of the Guardian of the Wild.\\n\\nIf the Grand Regent spreads this mystery illness to the Guardian, it could mean the end of all plants and animals, everywhere in the world!"
+  },
+  {
+   "id": 1909,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1/A1-FOLLOW_REGENT_TO_THE_NORTH.DAT | RETURN | DIALOG",
+   "en": "Everything okay?  I thought you were going out to the Watchweald Temple, to look for the Grand Regent."
+  },
+  {
+   "id": 1910,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1/A1-GOTOTOWN_TALKTOREGENT.DAT | COMPLETE | DIALOG",
+   "en": "I thank you for your warning, but it has arrived too late.  This \"Alchemist\" has already come and gone, and it was all I could do to prevent him from entering the Enclave.  As it was, many Estherians were injured, and, since the confrontation, several more have become ill.  We are not sure what is causing it.\\n\\nAfter his assault failed here, the Alchemist carried on southward, toward the Temple Steppes.  Commander Vale and her Vanquishers arrived a short while later, and pursued him, hoping to prevent further damage."
+  },
+  {
+   "id": 1911,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1/A1-GOTOTOWN_TALKTOREGENT.DAT | DETAILS | DIALOG",
+   "en": "Go through |cFFFFBA00Echo Pass|u to the |cFFFFBA00Enclave|u and warn the |cFFFFBA00Estherians|u about the Alchemist."
+  },
+  {
+   "id": 1912,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1/A1-GOTOTOWN_TALKTOREGENT.DAT | HUDDETAILS | DIALOG",
+   "en": "- Reach the |cFFFFBA00Estherian Enclave|u and speak to the |cFFFFBA00Grand Regent|u"
+  },
+  {
+   "id": 1913,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1/A1-GOTOTOWN_TALKTOREGENT.DAT | INTRO | DIALOG",
+   "en": "I think this is as far as I can go.  You should carry on to the |cFFFFBA00Estherian Enclave|u, but you're on your own.\\n\\nWarn them that the Alchemist destroyed Torchlight, and is headed their way.  He may be there already..."
+  },
+  {
+   "id": 1914,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1/A1-GOTOTOWN_TALKTOREGENT.DAT | MOREDETAILS | DIALOG",
+   "en": "Having trekked with the wounded Destroyer to Echo Pass to warn the Estherians of the Alchemist's approach, you are now on your own.  The Destroyer was too badly wounded in his battle with the Alchemist to go on ... and, you suspect, he wanted to mourn the death of his old friend and mentor, Syl."
+  },
+  {
+   "id": 1915,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1/A1-GOTOTOWN_TALKTOREGENT.DAT | RETURN | DIALOG",
+   "en": "The Alchemist will be headed this way.  And if he passes through here, we'll be waiting for him!\\n\\nSomeone needs to warn the Estherians.  Head up the pass to their Enclave.  Find my old friend, Commander Vale, and let her know what happened."
+  },
+  {
+   "id": 1916,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1/A1-RETURN_TO_TOWN_AFTER_DEFEATING_REGENT.DAT | COMPLETE | DIALOG",
+   "en": "I don't know if the Alchemist understands that Ordrak's Heart is wreaking such havoc ... or if he just doesn't care!  I hope there's still a chance to stop him, one way or another, before it's too late.\\n\\nSo the Guardian wants you to head to the Ossean Wastes?  You know what?  I think I can help you with that ..."
+  },
+  {
+   "id": 1917,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1/A1-RETURN_TO_TOWN_AFTER_DEFEATING_REGENT.DAT | DETAILS | DIALOG",
+   "en": "Report to the |cFFFFBA00Vanquisher|u at the |cFFFFBA00Estherian Enclave|u."
+  },
+  {
+   "id": 1918,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1/A1-RETURN_TO_TOWN_AFTER_DEFEATING_REGENT.DAT | HUDDETAILS | DIALOG",
+   "en": "- Return to the |cFFFFBA00Estherian Enclave|u and report to |cFFFFBA00Commander Vale|u"
+  },
+  {
+   "id": 1919,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1/A1-RETURN_TO_TOWN_AFTER_DEFEATING_REGENT.DAT | HUDDETAILS | DIALOG_COMPLETE",
+   "en": "- Report to |cFFFFBA00Commander Vale|u the |cFFFFBA00Estherian Enclave|u"
+  },
+  {
+   "id": 1920,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1/A1-RETURN_TO_TOWN_AFTER_DEFEATING_REGENT.DAT | INTRO | DIALOG",
+   "en": "I fear the Alchemist is a pawn of the Netherim.  With Ordrak's Heart and the power of the Guardians, a portal to the Nether Realm could be thrown wide,  and the world would be plunged into an age of never-ending torment.\\n\\nReturn to the |cFFFFBA00Enclave|u immediately.  |cFFFFBA00Commander Vale|u can help you secure passage to the |cFFFFBA00Ossean Wastes|u, where two of my fellow Guardians can be found.  Stop the Alchemist before he can drain them as well!"
+  },
+  {
+   "id": 1921,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1/A1-RETURN_TO_TOWN_AFTER_DEFEATING_REGENT.DAT | MOREDETAILS | DIALOG",
+   "en": "The mystery plague that was converting Estherians into Nether-Thralls had a much more devastating effect on Grand Regent Eldrayn.  The once-noble Estherian statesman had been completely possessed by one of the dreaded Netherim ... and the thing would have possessed the Guardian of the Wild, if you hadn't stopped it!\\n\\nMeanwhile, the Alchemist has been attacking Guardians in order to siphon off their elemental energies and empower Ordrak's Heart ... with his ultimate goal apparently to destroy the fabled Clockwork Core and throw wide the gates to the nightmare realm of the Netherim!"
+  },
+  {
+   "id": 1922,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1/A1-RETURN_TO_TOWN_AFTER_DEFEATING_REGENT.DAT | RETURN | DIALOG",
+   "en": "The Netherim, the Alchemist, and this plague are all connected.  Everywhere the Alchemist goes, Ordrak's Heart taints the nature of magic itself.  It creates a kind of infection ... not too dissimilar from Ember Blight.  These tiny infections grow, and, eventually, develop into a conduit for Netherim.  The victim becomes a host to the Netherim: a \"Nether-Thrall.\"\\n\\nThis is what happened to the Estherians.  And, for some reason, the effect was stronger with the Grand Regent.  Perhaps he was exposed more directly when he battled the Alchemist.  In any case, the thing that possessed the Regent, the thing that attempted to possess me, is more powerful than the others:  It is a Nether-Beast ... one of the Netherim Kings who led the invasion of our world an age ago.  I am sure it will return, seeking vengeance."
+  },
+  {
+   "id": 1923,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1/A1-STARTOFGAME.DAT | DETAILS | DIALOG",
+   "en": "Speak to the |cFFFFBA00Destroyer|u. He's standing by a Vanquisher Medic, near the tavern building."
+  },
+  {
+   "id": 1924,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1/A1-STARTOFGAME.DAT | HUDDETAILS | DIALOG",
+   "en": "- Speak to the |cFFFFBA00Destroyer|u"
+  },
+  {
+   "id": 1925,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1/A1-STARTOFGAME.DAT | MOREDETAILS | DIALOG",
+   "en": "The Destroyer, one of the famous \"Heroes of Torchlight,\" asked you to accompany him back to the scene of his greatest triumph:  the small mining town where he, the Vanquisher, and the Alchemist defeated the dragon Ordrak.  When you got there, though, a pitched battle was going on, between soldiers of the Vanquisher Corps, led by Syl the Seer ... and the Alchemist!\\n\\nThe armor-clad Alchemist had retrieved Ordrak's Heart and was laying waste to Torchlight.  When Syl fell in battle, the Destroyer realized that he couldn't stop the Alchemist ... and, instead turned his efforts toward warning the next nearest settlement.  Unfortunately, between the winding trail and the Destroyer's injuries, it took you days to get even this far ... and the Destroyer can't go on ...\\n"
+  },
+  {
+   "id": 1926,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1/A1-TALKTOWATERGUARDIAN.DAT | COMPLETE | DIALOG",
+   "en": "You have my gratitude, mortal.  Now listen closely, for a great evil is at work here.\\n\\nThe Alchemist's search for a cure to his Ember Blight has driven him to the brink of madness.  He siphoned off my energy to magnify the power of Ordrak's Heart, after he depleted it destroying Torchlight.\\n\\nWith the power of the Guardians, Ordrak's Heart could destroy all Ember everywhere.  Perhaps he believes that might cure his affliction."
+  },
+  {
+   "id": 1927,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1/A1-TALKTOWATERGUARDIAN.DAT | DETAILS | DIALOG",
+   "en": "Speak to the |cFFFFBA00Guardian of Water|u, in the |cFFFFBA00Wellspring Temple|u."
+  },
+  {
+   "id": 1928,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1/A1-TALKTOWATERGUARDIAN.DAT | HUDDETAILS | DIALOG",
+   "en": "- Speak to the |cFFFFBA00Guardian of Water|u"
+  },
+  {
+   "id": 1929,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1/A1-TALKTOWATERGUARDIAN.DAT | MOREDETAILS | DIALOG",
+   "en": "You arrived at the Wellspring Temple to find it overrun with the bloodthirsty Sturmbeorn, and the Guardian of Water and the Vanquisher both captured by the fearsome General Grell.  After a fierce battle, you defeated Grell, and introduced yourself to the Vanquisher ... only to learn that the Alchemist was responsible for the attack on the Guardian, as well.\\n\\nThe Vanquisher, Commander Vale, advised you to speak to the Guardian of Water, to learn why the Alchemist had not only destroyed Torchlight, but why he had attacked the Guardian!"
+  },
+  {
+   "id": 1930,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1/A1-TALKTOWATERGUARDIAN.DAT | RETURN | DIALOG",
+   "en": "I should've known something was wrong with the Alchemist.  After we defeated Ordrak, our Ember Blight was cured ... but the Alchemist just couldn't give up his experiments.  The Destroyer and I ... we just pretended we didn't see the effect it was having on him.\\n\\nWe made a terrible mistake.  I just hope it's not too late to correct it!"
+  },
+  {
+   "id": 1931,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1/A1-WATERGUARDIANSENDPLAYERTOTOWN.DAT | COMPLETE | DIALOG",
+   "en": "Apparently, things have gone from bad to worse while we were at the Wellspring.  Whatever was making the Estherians sick is spreading, and it's moved out into the lands north of here.  That's where the Grand Regent was headed.  If he's already reached the Watchweald, he'll have sealed the gates as a precaution ... which means that the whole temple could be turning into one big plague zone even as we speak."
+  },
+  {
+   "id": 1932,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1/A1-WATERGUARDIANSENDPLAYERTOTOWN.DAT | DETAILS | DIALOG",
+   "en": "Return to the |cFFFFBA00Enclave|u and confer with |cFFFFBA00Commander Vale|u."
+  },
+  {
+   "id": 1933,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1/A1-WATERGUARDIANSENDPLAYERTOTOWN.DAT | HUDDETAILS | DIALOG",
+   "en": "- Return to the |cFFFFBA00Enclave|u and talk to the |cFFFFBA00Vanquisher|u"
+  },
+  {
+   "id": 1934,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1/A1-WATERGUARDIANSENDPLAYERTOTOWN.DAT | HUDDETAILS | DIALOG_COMPLETE",
+   "en": "- Talk to the |cFFFFBA00Vanquisher|u"
+  },
+  {
+   "id": 1935,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1/A1-WATERGUARDIANSENDPLAYERTOTOWN.DAT | INTRO | DIALOG",
+   "en": "The Alchemist must be stopped before he attacks any more Guardians!  Each time he siphons off our energy, the heart becomes more powerful ... and he becomes more dangerous.\\n\\nYou and Commander Vale should return to the |cFFFFBA00Estherian Enclave|u, and plan your next move."
+  },
+  {
+   "id": 1936,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1/A1-WATERGUARDIANSENDPLAYERTOTOWN.DAT | MOREDETAILS | DIALOG",
+   "en": "The Guardian of Water has suggested that you return to the Enclave with Commander Vale, and discuss how best to handle the threat that the Alchemist poses.  Although the Guardian is severely weakened, it was able to open a portal to the Enclave for you."
+  },
+  {
+   "id": 1937,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1/A1-WATERGUARDIANSENDPLAYERTOTOWN.DAT | RETURN | DIALOG",
+   "en": "Are you about ready to head out?  I'm sure the Guardian of Water will be fine, now that she has a chance to recover, and doesn't have a small army to contend with."
+  },
+  {
+   "id": 1938,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1/A1-WATERGUARDIANSENDPLAYERTOTOWN.DAT | RETURN | DIALOG",
+   "en": "The Alchemist is powerful, and determined.  These were always his greatest strengths, and they will make him a difficult foe to overcome.  And, if he steals the energy of more Guardians, he will be all but invincible."
+  },
+  {
+   "id": 1939,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-AFTER_COLLECTTWOGEMSTOSAVETHEREGENT.DAT | PASSIVE | DIALOG",
+   "en": "A lot more of the Estherians are getting sick.  That's not a good sign."
+  },
+  {
+   "id": 1940,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-AFTER_COLLECTTWOGEMSTOSAVETHEREGENT.DAT | PASSIVE | DIALOG",
+   "en": "All clear in the pass?"
+  },
+  {
+   "id": 1941,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-AFTER_COLLECTTWOGEMSTOSAVETHEREGENT.DAT | PASSIVE | DIALOG",
+   "en": "All quiet here, more or less.  Hey, good work you did, getting the Commander out of the Wellspring!"
+  },
+  {
+   "id": 1942,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-AFTER_COLLECTTWOGEMSTOSAVETHEREGENT.DAT | PASSIVE | DIALOG",
+   "en": "All's quiet here.  How are things further up the pass?"
+  },
+  {
+   "id": 1943,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-AFTER_COLLECTTWOGEMSTOSAVETHEREGENT.DAT | PASSIVE | DIALOG",
+   "en": "All's quiet.  There's been some Estherian travelers passing through, probably headed to the Watchweald Temple."
+  },
+  {
+   "id": 1944,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-AFTER_COLLECTTWOGEMSTOSAVETHEREGENT.DAT | PASSIVE | DIALOG",
+   "en": "Any idea how many Sturmbeorn are left in the pass?"
+  },
+  {
+   "id": 1945,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-AFTER_COLLECTTWOGEMSTOSAVETHEREGENT.DAT | PASSIVE | DIALOG",
+   "en": "Did you bring us any new orders?  Can we stop guarding this deserted tavern?"
+  },
+  {
+   "id": 1946,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-AFTER_COLLECTTWOGEMSTOSAVETHEREGENT.DAT | PASSIVE | DIALOG",
+   "en": "Did you make it up to the Enclave?  Did you speak to Commander Vale?"
+  },
+  {
+   "id": 1947,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-AFTER_COLLECTTWOGEMSTOSAVETHEREGENT.DAT | PASSIVE | DIALOG",
+   "en": "Good job you did, getting the Commander out of there!"
+  },
+  {
+   "id": 1948,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-AFTER_COLLECTTWOGEMSTOSAVETHEREGENT.DAT | PASSIVE | DIALOG",
+   "en": "Have you reached the Watchweald Temple, then?  Is the Grand Regent there?  Is he coming back?"
+  },
+  {
+   "id": 1949,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-AFTER_COLLECTTWOGEMSTOSAVETHEREGENT.DAT | PASSIVE | DIALOG",
+   "en": "Hey, if you're heading back to the Enclave, can you check with the Commander?  See if she needs us to pull back to the Enclave?"
+  },
+  {
+   "id": 1950,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-AFTER_COLLECTTWOGEMSTOSAVETHEREGENT.DAT | PASSIVE | DIALOG",
+   "en": "How bad's the snow up in the Frosted Hills?"
+  },
+  {
+   "id": 1951,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-AFTER_COLLECTTWOGEMSTOSAVETHEREGENT.DAT | PASSIVE | DIALOG",
+   "en": "I am so sorry.  You did all that work to recover the Scroll of Anom-Irek ... and now the Grand Regent says we will not be needing it!"
+  },
+  {
+   "id": 1952,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-AFTER_COLLECTTWOGEMSTOSAVETHEREGENT.DAT | PASSIVE | DIALOG",
+   "en": "I got what I need, thanks.  If I have any more work for you, I'll be sure to let you know."
+  },
+  {
+   "id": 1953,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-AFTER_COLLECTTWOGEMSTOSAVETHEREGENT.DAT | PASSIVE | DIALOG",
+   "en": "I miss my husband so much ... but luckily I still have my little baby-wabies ..."
+  },
+  {
+   "id": 1954,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-AFTER_COLLECTTWOGEMSTOSAVETHEREGENT.DAT | PASSIVE | DIALOG",
+   "en": "I really appreciate you checking on me, but you should probably get on with catching up with the Grand Regent."
+  },
+  {
+   "id": 1955,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-AFTER_COLLECTTWOGEMSTOSAVETHEREGENT.DAT | PASSIVE | DIALOG",
+   "en": "I used to live in the Retreat, in the Frosted Hills.  We had to leave, though ... there was a plague.  Heh ... ironic, isn't it, that an illness forced me to leave ... and another illness makes me want to return?"
+  },
+  {
+   "id": 1956,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-AFTER_COLLECTTWOGEMSTOSAVETHEREGENT.DAT | PASSIVE | DIALOG",
+   "en": "I would very much like to go to the Frosted Hills again.  Have you seen the Wicker Grove there?  Such a magical place ..."
+  },
+  {
+   "id": 1957,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-AFTER_COLLECTTWOGEMSTOSAVETHEREGENT.DAT | PASSIVE | DIALOG",
+   "en": "I would very much like to see the Frosted Hills again, before I die."
+  },
+  {
+   "id": 1958,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-AFTER_COLLECTTWOGEMSTOSAVETHEREGENT.DAT | PASSIVE | DIALOG",
+   "en": "I'm Captain Jakobi, pilot of the best Herkonian Embercraft this side of Red Haven!\\n\\nWe're just picking up some cargo and supplies, before we head off down to Zeryphesh.  What brings you here?"
+  },
+  {
+   "id": 1959,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-AFTER_COLLECTTWOGEMSTOSAVETHEREGENT.DAT | PASSIVE | DIALOG",
+   "en": "It got pretty rough in there.  I'm glad you came along!"
+  },
+  {
+   "id": 1960,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-AFTER_COLLECTTWOGEMSTOSAVETHEREGENT.DAT | PASSIVE | DIALOG",
+   "en": "It looks like the Alchemist was doing some kind of research in there, but he bugged out, probably right before he went to Torchlight."
+  },
+  {
+   "id": 1961,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-AFTER_COLLECTTWOGEMSTOSAVETHEREGENT.DAT | PASSIVE | DIALOG",
+   "en": "It would seem that I am dying.  To have lived so long, to have endured so much ... only to die of a fever ..."
+  },
+  {
+   "id": 1962,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-AFTER_COLLECTTWOGEMSTOSAVETHEREGENT.DAT | PASSIVE | DIALOG",
+   "en": "Kind of taking the long way, aren't you? Why not just use the Waypoint Portals?"
+  },
+  {
+   "id": 1963,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-AFTER_COLLECTTWOGEMSTOSAVETHEREGENT.DAT | PASSIVE | DIALOG",
+   "en": "Listen ... this illness:  It is not what it seems.  The Alchemist did not cause this.  When he attacked us, something seized the opportunity to infect us ... something malign, bent upon a foul purpose ..."
+  },
+  {
+   "id": 1964,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-AFTER_COLLECTTWOGEMSTOSAVETHEREGENT.DAT | PASSIVE | DIALOG",
+   "en": "Listen:  If I you find me dead ... please, bury me somewhere with a view ..."
+  },
+  {
+   "id": 1965,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-AFTER_COLLECTTWOGEMSTOSAVETHEREGENT.DAT | PASSIVE | DIALOG",
+   "en": "Nice work you did in there."
+  },
+  {
+   "id": 1966,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-AFTER_COLLECTTWOGEMSTOSAVETHEREGENT.DAT | PASSIVE | DIALOG",
+   "en": "Not a lot of foot traffic headed this way anymore."
+  },
+  {
+   "id": 1967,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-AFTER_COLLECTTWOGEMSTOSAVETHEREGENT.DAT | PASSIVE | DIALOG",
+   "en": "Seems like the Commander had you figured right! Looks like you're destined for something great!"
+  },
+  {
+   "id": 1968,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-AFTER_COLLECTTWOGEMSTOSAVETHEREGENT.DAT | PASSIVE | DIALOG",
+   "en": "Seems like the pass and the steppes are a lot safer, since you came through!  Good work out there!"
+  },
+  {
+   "id": 1969,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-AFTER_COLLECTTWOGEMSTOSAVETHEREGENT.DAT | PASSIVE | DIALOG",
+   "en": "That was as bad as I've ever had ... but I should be ready to move out in a few hours."
+  },
+  {
+   "id": 1970,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-AFTER_COLLECTTWOGEMSTOSAVETHEREGENT.DAT | PASSIVE | DIALOG",
+   "en": "The Destroyer really can't help you.  It's going to be several more days before he can get around ... let alone fight!"
+  },
+  {
+   "id": 1971,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-AFTER_COLLECTTWOGEMSTOSAVETHEREGENT.DAT | PASSIVE | DIALOG",
+   "en": "The Destroyer says it was Ordrak's Heart that made the Alchemist go crazy and kill all of those people.  Is that true?"
+  },
+  {
+   "id": 1972,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-AFTER_COLLECTTWOGEMSTOSAVETHEREGENT.DAT | PASSIVE | DIALOG",
+   "en": "The steppes are riddled with yak-trails and old funerary paths that even the Estherians have forgotten about.  It's no wonder the Sturmbeorn were able to get an army in here without anyone noticing ..."
+  },
+  {
+   "id": 1973,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-AFTER_COLLECTTWOGEMSTOSAVETHEREGENT.DAT | PASSIVE | DIALOG",
+   "en": "There hasn't been any sign of the Alchemist, so, if he was following you, he must've taken a different route."
+  },
+  {
+   "id": 1974,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-AFTER_COLLECTTWOGEMSTOSAVETHEREGENT.DAT | PASSIVE | DIALOG",
+   "en": "There's a lot fewer of the Sturmbeorn out there since we last saw you.  Is that your handiwork?"
+  },
+  {
+   "id": 1975,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-AFTER_COLLECTTWOGEMSTOSAVETHEREGENT.DAT | PASSIVE | DIALOG",
+   "en": "Things are pretty calm in the pass now.  I'm surprised you came all this way back here, since you cleared the pass."
+  },
+  {
+   "id": 1976,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-AFTER_COLLECTTWOGEMSTOSAVETHEREGENT.DAT | PASSIVE | DIALOG",
+   "en": "Things are pretty safe here, now.  How are things out on the Temple Steppes?"
+  },
+  {
+   "id": 1977,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-AFTER_COLLECTTWOGEMSTOSAVETHEREGENT.DAT | PASSIVE | DIALOG",
+   "en": "This is not the first time something like this has happened.  Once before, more than a thousand years ago, a plague like this struck the Retreat, in the Frosted Hills.  In the end, all the Estherians there fled, or died ... twisted in horrible ways ..."
+  },
+  {
+   "id": 1978,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-AFTER_COLLECTTWOGEMSTOSAVETHEREGENT.DAT | PASSIVE | DIALOG",
+   "en": "We did a quick sweep when we arrived.  No sign of the Alchemist, except some scattered notes.  He's long gone ... but it still pays to be careful."
+  },
+  {
+   "id": 1979,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-AFTER_COLLECTTWOGEMSTOSAVETHEREGENT.DAT | PASSIVE | DIALOG",
+   "en": "We should be able to get the Estherians back home.  Thanks for getting them out of there."
+  },
+  {
+   "id": 1980,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-AFTER_COLLECTTWOGEMSTOSAVETHEREGENT.DAT | PASSIVE | DIALOG",
+   "en": "We will be moving along shortly.  Some of our injured need a bit longer to recover, before they are ready to travel.  Remember, if you should find yourself in Zeryphesh, please seek me out!"
+  },
+  {
+   "id": 1981,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-AFTER_COLLECTTWOGEMSTOSAVETHEREGENT.DAT | PASSIVE | DIALOG",
+   "en": "Word is you pulled the Commander out of the Wellspring Temple.  Good work!"
+  },
+  {
+   "id": 1982,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-AFTER_COLLECTTWOGEMSTOSAVETHEREGENT.DAT | PASSIVE | DIALOG",
+   "en": "You have lifted the curse I brought upon myself, and my torment is finally at and end.  I will abide here a while, I think, before I move on to my final reward.  Perhaps, at the very least, I will tell my story to would-be thieves, to save them from a similar fate ..."
+  },
+  {
+   "id": 1983,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-AFTER_COLLECTTWOGEMSTOSAVETHEREGENT.DAT | PASSIVE | DIALOG",
+   "en": "You must do all you can to stop the Grand Regent!  He is far too ill to visit the Watchweald Temple.  He might infect the Guardian!"
+  },
+  {
+   "id": 1984,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-AFTER_COLLECTTWOGEMSTOSAVETHEREGENT.DAT | PASSIVE | DIALOG",
+   "en": "You're all set.  Keep up the good work!"
+  },
+  {
+   "id": 1985,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-AFTER_DEFEATGRELL.DAT | PASSIVE | DIALOG",
+   "en": "Grand Regent Eldrayn is the oldest and wisest of the Estherians: a paragon of virtue and compassion, as well as our most accomplished elementalist.  So long as he protects us, the Estherians will endure."
+  },
+  {
+   "id": 1986,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-AFTER_DEFEATGRELL.DAT | PASSIVE | DIALOG",
+   "en": "I have always been led to believe that the Guardians could correct any imbalance, cure any ill.  Why have they not come to our aid?  Could the Alchemist have struck at the temples also?"
+  },
+  {
+   "id": 1987,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-AFTER_DEFEATGRELL.DAT | PASSIVE | DIALOG",
+   "en": "I may have the sickness.  My flesh feels ... odd.  Almost malleable."
+  },
+  {
+   "id": 1988,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-AFTER_DEFEATGRELL.DAT | PASSIVE | DIALOG",
+   "en": "I spoke with Grand Regent Eldrayn before he left for the Watchweald Temple.  He seemed ... tired."
+  },
+  {
+   "id": 1989,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-AFTER_DEFEATGRELL.DAT | PASSIVE | DIALOG",
+   "en": "I think the Alchemist is somehow behind this sickness; it started right after he left.  Perhaps it is a side effect of his use of Ordrak's Heart ... or perhaps he always intended to inflict a plague upon us, and the attack was a ruse."
+  },
+  {
+   "id": 1990,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-AFTER_DEFEATGRELL.DAT | PASSIVE | DIALOG",
+   "en": "If the Alchemist already has Ordrak's Heart, what's he doing attacking Guardians?  I don't see what it gets him."
+  },
+  {
+   "id": 1991,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-AFTER_DEFEATGRELL.DAT | PASSIVE | DIALOG",
+   "en": "It seems suspicious that so many Estherians are coming down ill, so soon after the Alchemist attacked the city."
+  },
+  {
+   "id": 1992,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-AFTER_DEFEATGRELL.DAT | PASSIVE | DIALOG",
+   "en": "It's pretty clear the Alchemist was here, but bugged out, probably right before he went to Torchlight.  The place is still full of monsters, though, so watch your back in there."
+  },
+  {
+   "id": 1993,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-AFTER_DEFEATGRELL.DAT | PASSIVE | DIALOG",
+   "en": "Let me see your authorization.  Alright ... this looks in order.  Be careful out there."
+  },
+  {
+   "id": 1994,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-AFTER_DEFEATGRELL.DAT | PASSIVE | DIALOG",
+   "en": "Listen ... the slavers are holed up in their huts.  We managed to smoke some of them out by smashing the lanterns.  You should do the same ... take 'em a few at a time."
+  },
+  {
+   "id": 1995,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-AFTER_DEFEATGRELL.DAT | PASSIVE | DIALOG",
+   "en": "Meet me back in the Estherian Enclave, and I can enchant your gear!"
+  },
+  {
+   "id": 1996,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-AFTER_DEFEATGRELL.DAT | PASSIVE | DIALOG",
+   "en": "My sister has returned from the Path of the Honored Dead with the Scroll of Anom-Irek.  We must try to hold on until the Grand Regent can return and effect the cure to this sickness."
+  },
+  {
+   "id": 1997,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-AFTER_DEFEATGRELL.DAT | PASSIVE | DIALOG",
+   "en": "See those burned-out huts in the stockade?  We did that, to smoke the slavers out.  Just smash the lanterns, and the huts'll go up like kindling.  They'll come out right quick ..."
+  },
+  {
+   "id": 1998,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-AFTER_DEFEATGRELL.DAT | PASSIVE | DIALOG",
+   "en": "Sorry, but I don't think I'm going to be any use to you.  The medic here says that I've got broken ribs ... probably from when the Alchemist swatted me all the way out of Torchlight."
+  },
+  {
+   "id": 1999,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-AFTER_DEFEATGRELL.DAT | PASSIVE | DIALOG",
+   "en": "The Commander's quite impressed with you!  She said you've got the makings of a real hero!"
+  },
+  {
+   "id": 2000,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-AFTER_DEFEATGRELL.DAT | PASSIVE | DIALOG",
+   "en": "The Destroyer seems pretty down.  I guess he and the Alchemist were friends, back in the old days."
+  },
+  {
+   "id": 2001,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-AFTER_DEFEATGRELL.DAT | PASSIVE | DIALOG",
+   "en": "The Grand Regent is the only one of us capable of using the Scroll of Anom-Irek.  Until he returns, there can be no cure to this sickness."
+  },
+  {
+   "id": 2002,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-AFTER_DEFEATGRELL.DAT | PASSIVE | DIALOG",
+   "en": "The ratlins and the Sturmbeorn have all but disappeared, though we've noticed quite a few more warbeasts prowling around since you were here last."
+  },
+  {
+   "id": 2003,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-AFTER_DEFEATGRELL.DAT | PASSIVE | DIALOG",
+   "en": "Things are pretty calm in the pass now ... and we owe that all to you!"
+  },
+  {
+   "id": 2004,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-AFTER_DEFEATGRELL.DAT | PASSIVE | DIALOG",
+   "en": "This area's pretty dangerous.  Are you sure you know what you're doing?"
+  },
+  {
+   "id": 2005,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-AFTER_DEFEATGRELL.DAT | PASSIVE | DIALOG",
+   "en": "We did a quick sweep when we arrived.  No sign of the Alchemist, except some scattered notes.  He's long gone ... but that doesn't mean the caverns are empty."
+  },
+  {
+   "id": 2006,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-AFTER_DEFEATGRELL.DAT | PASSIVE | DIALOG",
+   "en": "We got some news that you took out the leader of the Sturmbeorn!  You even met a Guardian!  Sounds like you're really going places!"
+  },
+  {
+   "id": 2007,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-AFTER_DEFEATGRELL.DAT | PASSIVE | DIALOG",
+   "en": "We were sent to rescue some Estherian captives from the slavers ... but we didn't get very far.  The slavers' leader, Kidrik, is holed up in a grotto under the lake."
+  },
+  {
+   "id": 2008,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-AFTER_DEFEATGRELL.DAT | PASSIVE | DIALOG",
+   "en": "We were supposed to rescue some Estherians from these slavers, but the slavers had reinforcements.  We did find out that their leader, Kidrik, is holed up in a grotto under the lake."
+  },
+  {
+   "id": 2009,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-AFTER_DEFEATGRELL.DAT | PASSIVE | DIALOG",
+   "en": "What brought you back here?  Are the Sturmbeorn heading back this way?"
+  },
+  {
+   "id": 2010,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-AFTER_DEFEATGRELL.DAT | PASSIVE | DIALOG",
+   "en": "With General Grell gone, the Sturmbeorn will probably head back up north.  Now all you have to do is track down the Alchemist, and this whole mess is all over."
+  },
+  {
+   "id": 2011,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-AFTER_DEFEATGRELL.DAT | PASSIVE | DIALOG",
+   "en": "With the defeat of General Grell, the Sturmbeorn will once again lose interest in us and return to their own lands.  The Estherians owe you a great debt, human."
+  },
+  {
+   "id": 2012,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-AFTER_DEFEATGRELL.DAT | PASSIVE | DIALOG",
+   "en": "Would you please tell him you're doing just fine?  He keeps trying to head up the pass to go help you ... and I'm the one who has to pick him up and put him back together, every time."
+  },
+  {
+   "id": 2013,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-AFTER_DEFEATGRELL.DAT | PASSIVE | DIALOG",
+   "en": "You actually met a Guardian!  Which one was it?"
+  },
+  {
+   "id": 2014,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-AFTER_DEFEATGRELL.DAT | PASSIVE | DIALOG",
+   "en": "You have met the Guardian of Water, human: a great honor, and a truly humbling experience!"
+  },
+  {
+   "id": 2015,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-AFTER_DEFEATGRELL.DAT | PASSIVE | DIALOG",
+   "en": "You saved the Commander's life out there, you know.  That makes you a hero, in my book."
+  },
+  {
+   "id": 2016,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-AFTER_DEFEATGRELL.DAT | PASSIVE | DIALOG",
+   "en": "You talked to a Guardian, right?  Did it know what's going on with the Alchemist, and Torchlight?"
+  },
+  {
+   "id": 2017,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-AFTER_DEFEATGRELL.DAT | PASSIVE | DIALOG",
+   "en": "You're already cleared for the pass.  Good luck out there."
+  },
+  {
+   "id": 2018,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-AFTER_DEFEATGRELL.DAT | PASSIVE | DIALOG",
+   "en": "You've got to hurry, if you're trying to catch up with the Grand Regent."
+  },
+  {
+   "id": 2019,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-AFTER_FOLLOW_REGENT_TO_THE_NORTH.DAT | PASSIVE | DIALOG",
+   "en": "A lot of affected Estherians have set off for the Watchweald Temple, in hopes of receiving some relief from this terrible fever."
+  },
+  {
+   "id": 2020,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-AFTER_FOLLOW_REGENT_TO_THE_NORTH.DAT | PASSIVE | DIALOG",
+   "en": "Every time I stand up, I get maybe ten steps before everything gets all fuzzy and dark."
+  },
+  {
+   "id": 2021,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-AFTER_FOLLOW_REGENT_TO_THE_NORTH.DAT | PASSIVE | DIALOG",
+   "en": "I do hope the Grand Regent has not also succumbed to this illness.  He did not look all that well, before he left."
+  },
+  {
+   "id": 2022,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-AFTER_FOLLOW_REGENT_TO_THE_NORTH.DAT | PASSIVE | DIALOG",
+   "en": "I feel so very ill right now.  My head is filled with such strange images, crawling through my mind like serpents ..."
+  },
+  {
+   "id": 2023,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-AFTER_FOLLOW_REGENT_TO_THE_NORTH.DAT | PASSIVE | DIALOG",
+   "en": "I feel so warm.  Perhaps a visit to the Frosted Hills would cool this fever."
+  },
+  {
+   "id": 2024,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-AFTER_FOLLOW_REGENT_TO_THE_NORTH.DAT | PASSIVE | DIALOG",
+   "en": "In my dreams, I am opening a door, out in the Frosted Hills.  What do you suppose that means?"
+  },
+  {
+   "id": 2025,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-AFTER_FOLLOW_REGENT_TO_THE_NORTH.DAT | PASSIVE | DIALOG",
+   "en": "It seems that the illness the Alchemist brought upon us will do what the Sturmbeorn failed to accomplish."
+  },
+  {
+   "id": 2026,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-AFTER_FOLLOW_REGENT_TO_THE_NORTH.DAT | PASSIVE | DIALOG",
+   "en": "Lots of the Estherians are heading out of the city through this pass.  We've got orders not to stop them ... but they don't look well, some of 'em."
+  },
+  {
+   "id": 2027,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-AFTER_FOLLOW_REGENT_TO_THE_NORTH.DAT | PASSIVE | DIALOG",
+   "en": "Please ... go to the Watchweald Temple.  Bring back the Grand Regent.  Only he can save us now!"
+  },
+  {
+   "id": 2028,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-AFTER_FOLLOW_REGENT_TO_THE_NORTH.DAT | PASSIVE | DIALOG",
+   "en": "Remember us, human.  Remember the Guardian you saved.  Remember the Estherians you could not."
+  },
+  {
+   "id": 2029,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-AFTER_FOLLOW_REGENT_TO_THE_NORTH.DAT | PASSIVE | DIALOG",
+   "en": "See any sign of the Grand Regent out there?"
+  },
+  {
+   "id": 2030,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-AFTER_FOLLOW_REGENT_TO_THE_NORTH.DAT | PASSIVE | DIALOG",
+   "en": "The Destroyer was saying that the Alchemist got here even before we did ... which might explain the devastation we saw, on the way up, and in the pass."
+  },
+  {
+   "id": 2031,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-AFTER_FOLLOW_REGENT_TO_THE_NORTH.DAT | PASSIVE | DIALOG",
+   "en": "The longer it takes for the Grand Regent to return, the greater the chance that this might be the end of the Estherians."
+  },
+  {
+   "id": 2032,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-AFTER_FOLLOW_REGENT_TO_THE_NORTH.DAT | PASSIVE | DIALOG",
+   "en": "When you spoke to the Guardian of Water, did it mention the sickness?  Will it be able to cure us?"
+  },
+  {
+   "id": 2033,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-AFTER_FOLLOW_REGENT_TO_THE_NORTH.DAT | PASSIVE | DIALOG",
+   "en": "You must do all you can to locate the Grand Regent!  He is far too ill to visit the Watchweald Temple.  He might infect the Guardian!"
+  },
+  {
+   "id": 2034,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-AFTER_FOLLOW_REGENT_TO_THE_NORTH.DAT | PASSIVE | DIALOG",
+   "en": "You're doing a great job out there.  The Commander's pleased with your results, and the Estherians are calling you a hero."
+  },
+  {
+   "id": 2035,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-AFTER_GOTOTOWN_TALKTOREGENT.DAT | PASSIVE | DIALOG",
+   "en": "Are you going back down the pass, now?"
+  },
+  {
+   "id": 2036,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-AFTER_GOTOTOWN_TALKTOREGENT.DAT | PASSIVE | DIALOG",
+   "en": "Before the Sturmbeorn arrived, my brother had gone up into the Path of the Honored Dead to perform the Ceremony of Tranquility.  He has not yet returned.  I fear for his safety!"
+  },
+  {
+   "id": 2037,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-AFTER_GOTOTOWN_TALKTOREGENT.DAT | PASSIVE | DIALOG",
+   "en": "Careful out here!  The Sturmbeorn are getting closer to the Enclave every day!"
+  },
+  {
+   "id": 2038,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-AFTER_GOTOTOWN_TALKTOREGENT.DAT | PASSIVE | DIALOG",
+   "en": "Did you see one of the Guardians while you were up there?  What was it like?"
+  },
+  {
+   "id": 2039,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-AFTER_GOTOTOWN_TALKTOREGENT.DAT | PASSIVE | DIALOG",
+   "en": "I am feeling most unwell at that moment."
+  },
+  {
+   "id": 2040,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-AFTER_GOTOTOWN_TALKTOREGENT.DAT | PASSIVE | DIALOG",
+   "en": "I had heard rumors that Syl had perished, battling the Alchemist at Torchlight.  She was a good friend; she will be missed."
+  },
+  {
+   "id": 2041,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-AFTER_GOTOTOWN_TALKTOREGENT.DAT | PASSIVE | DIALOG",
+   "en": "I understand you are going to the Temple Steppes.  Are you planning on looking into the noises coming from the Beast Warrens, while you are there?"
+  },
+  {
+   "id": 2042,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-AFTER_GOTOTOWN_TALKTOREGENT.DAT | PASSIVE | DIALOG",
+   "en": "I'm sorry, but I can't let you through here without authorization from Commander Vale, or the Estherian Grand Regent."
+  },
+  {
+   "id": 2043,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-AFTER_GOTOTOWN_TALKTOREGENT.DAT | PASSIVE | DIALOG",
+   "en": "If you see my sister, Miamin, in the pass, tell her to hurry.  The sickness is spreading; we need that cure!"
+  },
+  {
+   "id": 2044,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-AFTER_GOTOTOWN_TALKTOREGENT.DAT | PASSIVE | DIALOG",
+   "en": "Keep your eyes open out here.  We know the Sturmbeorn are in the pass; we can hear 'em messing around with the Estherian crypts."
+  },
+  {
+   "id": 2045,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-AFTER_GOTOTOWN_TALKTOREGENT.DAT | PASSIVE | DIALOG",
+   "en": "Keep your head down!  The slavers inside the stockade have rifles!"
+  },
+  {
+   "id": 2046,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-AFTER_GOTOTOWN_TALKTOREGENT.DAT | PASSIVE | DIALOG",
+   "en": "Let me see your authorization.  Okay, you're cleared.  Good luck out there."
+  },
+  {
+   "id": 2047,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-AFTER_GOTOTOWN_TALKTOREGENT.DAT | PASSIVE | DIALOG",
+   "en": "Now that you've been up Echo Pass, you should be able to handle just about anything!"
+  },
+  {
+   "id": 2048,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-AFTER_GOTOTOWN_TALKTOREGENT.DAT | PASSIVE | DIALOG",
+   "en": "Sorry, but if I can push the Destroyer back down every time he tries to stand up, then he's in no shape to take on the Alchemist!"
+  },
+  {
+   "id": 2049,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-AFTER_GOTOTOWN_TALKTOREGENT.DAT | PASSIVE | DIALOG",
+   "en": "The Commander says there might be a Sturmbeorn necromancer out here, somewhere.  She says that's why they're so interested in the Estherian burial vaults."
+  },
+  {
+   "id": 2050,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-AFTER_GOTOTOWN_TALKTOREGENT.DAT | PASSIVE | DIALOG",
+   "en": "The Commander went to the Wellspring Temple.  She should be back any time."
+  },
+  {
+   "id": 2051,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-AFTER_GOTOTOWN_TALKTOREGENT.DAT | PASSIVE | DIALOG",
+   "en": "The Commander's not here ... she's in the field.  Talk to the Estherian Regent."
+  },
+  {
+   "id": 2052,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-AFTER_GOTOTOWN_TALKTOREGENT.DAT | PASSIVE | DIALOG",
+   "en": "The Sturmbeorn attack us from time to time, but never quite this fiercely.  Their new leader, General Grell, seems particularly bloodthirsty, and instead of a few raiders, he has an army."
+  },
+  {
+   "id": 2053,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-AFTER_GOTOTOWN_TALKTOREGENT.DAT | PASSIVE | DIALOG",
+   "en": "The Vanquishers came to help us with the Sturmbeorn problem, but when their leader, Commander Vale, learned that it was the Alchemist who had attacked us, she seemed ... sad.  Were they friends once?"
+  },
+  {
+   "id": 2054,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-AFTER_GOTOTOWN_TALKTOREGENT.DAT | PASSIVE | DIALOG",
+   "en": "The elemental Guardians are immensely powerful, and boundlessly wise.  It is a great honor to meet one.  In the centuries I have lived, I have only had that honor twice."
+  },
+  {
+   "id": 2055,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-AFTER_GOTOTOWN_TALKTOREGENT.DAT | PASSIVE | DIALOG",
+   "en": "The pass here is pretty straightforward:  just follow the road, and you'll be fine.\\n\\nOf course, you'll still want to keep an eye out for the bear-men."
+  },
+  {
+   "id": 2056,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-AFTER_GOTOTOWN_TALKTOREGENT.DAT | PASSIVE | DIALOG",
+   "en": "The statue stares placidly into its pool."
+  },
+  {
+   "id": 2057,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-AFTER_GOTOTOWN_TALKTOREGENT.DAT | PASSIVE | DIALOG",
+   "en": "There is an illness spreading among our people ... and I am afraid I have contracted it."
+  },
+  {
+   "id": 2058,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-AFTER_GOTOTOWN_TALKTOREGENT.DAT | PASSIVE | DIALOG",
+   "en": "There's too many slavers in there, and we've lost too many men!  We're not getting in there without a miracle."
+  },
+  {
+   "id": 2059,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-AFTER_GOTOTOWN_TALKTOREGENT.DAT | PASSIVE | DIALOG",
+   "en": "Things are pretty calm in the pass, since you came through here."
+  },
+  {
+   "id": 2060,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-AFTER_GOTOTOWN_TALKTOREGENT.DAT | PASSIVE | DIALOG",
+   "en": "We ... we got here too late?  How did the Alchemist get here ahead of us?  Just ... just let me rest a little longer, and I'll try to help you out."
+  },
+  {
+   "id": 2061,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-AFTER_GOTOTOWN_TALKTOREGENT.DAT | PASSIVE | DIALOG",
+   "en": "We were sent to rescue some Estherian captives from the slavers ... but we got spotted before we could find the captives."
+  },
+  {
+   "id": 2062,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-AFTER_GOTOTOWN_TALKTOREGENT.DAT | PASSIVE | DIALOG",
+   "en": "You're a strong one to survive this pass, but there are even greater dangers in the Temple Steppes.  Be sure you're ready before you venture any further from the Enclave."
+  },
+  {
+   "id": 2063,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-AFTER_RETURN_TO_TOWN_AFTER_DEFEATING_REGENT.DAT | PASSIVE | DIALOG",
+   "en": " The Grand Regent is dead?  The plague turned him into a host for a Nether-Beast?  I ... I ... This is too much!"
+  },
+  {
+   "id": 2064,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-AFTER_RETURN_TO_TOWN_AFTER_DEFEATING_REGENT.DAT | PASSIVE | DIALOG",
+   "en": "Everything's just about loaded, and my chief engineer is building up the boiler pressure.  You about ready to head out?"
+  },
+  {
+   "id": 2065,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-AFTER_RETURN_TO_TOWN_AFTER_DEFEATING_REGENT.DAT | PASSIVE | DIALOG",
+   "en": "Honestly:  What do you think our chances are, against the Ezrohir siege?"
+  },
+  {
+   "id": 2066,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-AFTER_RETURN_TO_TOWN_AFTER_DEFEATING_REGENT.DAT | PASSIVE | DIALOG",
+   "en": "How are things down in Zeryphesh?  Some kind of war brewing down there, right?"
+  },
+  {
+   "id": 2067,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-AFTER_RETURN_TO_TOWN_AFTER_DEFEATING_REGENT.DAT | PASSIVE | DIALOG",
+   "en": "I should have known it was a Netherim plague!  The strange thoughts I had, the desire to leave the city ... it was exactly as it was, a thousand years ago, when the Netherim wormed their way into the Retreat."
+  },
+  {
+   "id": 2068,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-AFTER_RETURN_TO_TOWN_AFTER_DEFEATING_REGENT.DAT | PASSIVE | DIALOG",
+   "en": "It grieves me that the Grand Regent is ... that he is dead.  But now that the Guardian of the Wild is free of Netherim influence, I can feel my own fever abating."
+  },
+  {
+   "id": 2069,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-AFTER_RETURN_TO_TOWN_AFTER_DEFEATING_REGENT.DAT | PASSIVE | DIALOG",
+   "en": "It seems that even the Grand Regent was not strong enough to fight off the Netherim corruption.  As I recall, he was one of those who had survived the plague at the Retreat.  Perhaps some small seed of the Nether-Beasts had taken root in his spirit, and left him vulnerable once again ..."
+  },
+  {
+   "id": 2070,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-AFTER_RETURN_TO_TOWN_AFTER_DEFEATING_REGENT.DAT | PASSIVE | DIALOG",
+   "en": "Seems like the Estherians are recovering nicely, thanks to you!"
+  },
+  {
+   "id": 2071,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-AFTER_RETURN_TO_TOWN_AFTER_DEFEATING_REGENT.DAT | PASSIVE | DIALOG",
+   "en": "Seems like your work here is pretty much done.  Maybe a little bit of mop-up here and there.  Do you know where you're headed next?"
+  },
+  {
+   "id": 2072,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-AFTER_RETURN_TO_TOWN_AFTER_DEFEATING_REGENT.DAT | PASSIVE | DIALOG",
+   "en": "The ... Grand Regent was ... possessed?  By a Nether-Beast?\\n\\nSo ... the \"illness\" we thought he was spreading was some form of Netherim corruption?\\n\\nI am so very, very confused right now."
+  },
+  {
+   "id": 2073,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-AFTER_RETURN_TO_TOWN_AFTER_DEFEATING_REGENT.DAT | PASSIVE | DIALOG",
+   "en": "The Estherians are recovering, now that the Guardian of the Wild is lending us its strength once more.  Thank you, human.  Without you, we would have all become Nether-Thralls, like those you saw in the Frosted Hills."
+  },
+  {
+   "id": 2074,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-AFTER_RETURN_TO_TOWN_AFTER_DEFEATING_REGENT.DAT | PASSIVE | DIALOG",
+   "en": "The Estherians owe you a tremendous debt of gratitude.  Thanks to you, we will continue to endure."
+  },
+  {
+   "id": 2075,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-AFTER_RETURN_TO_TOWN_AFTER_DEFEATING_REGENT.DAT | PASSIVE | DIALOG",
+   "en": "The Ezrohir have already taken a number of the Zeraphi forces prisoner.  They've got them shackled up at their caravan, out in the Ossean Wastes ... but we don't have the troops to mount a rescue."
+  },
+  {
+   "id": 2076,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-AFTER_RETURN_TO_TOWN_AFTER_DEFEATING_REGENT.DAT | PASSIVE | DIALOG",
+   "en": "The Sturmbeorn have retreated.  Those weird Estherian cultists are all dead.  Seems like Estheria's pretty safe now."
+  },
+  {
+   "id": 2077,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-AFTER_RETURN_TO_TOWN_AFTER_DEFEATING_REGENT.DAT | PASSIVE | DIALOG",
+   "en": "Things are pretty calm around here now.  I'm surprised you came all this way back here, since you cleared the pass."
+  },
+  {
+   "id": 2078,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-AFTER_RETURN_TO_TOWN_AFTER_DEFEATING_REGENT.DAT | PASSIVE | DIALOG",
+   "en": "We are very fortunate that you came along, human.  Distracted as we were by the Sturmbeorn invasion ... and with the Guardians weakened by the Alchemist ... this Nether-plague would have swept through the Estherians in a matter of days."
+  },
+  {
+   "id": 2079,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-AFTER_RETURN_TO_TOWN_AFTER_DEFEATING_REGENT.DAT | PASSIVE | DIALOG",
+   "en": "Well, it seems there is an explanation for the Grand Regent's reticence to make use of the Scroll of Anom-Irek.  Who would have imagined that he would be vulnerable to possession by even the most powerful of Netherim?"
+  },
+  {
+   "id": 2080,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-AFTER_RETURN_TO_TOWN_AFTER_DEFEATING_REGENT.DAT | PASSIVE | DIALOG",
+   "en": "Weren't you headed to Zeryphesh?"
+  },
+  {
+   "id": 2081,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-AFTER_RETURN_TO_TOWN_AFTER_DEFEATING_REGENT.DAT | PASSIVE | DIALOG",
+   "en": "What brings you back here?"
+  },
+  {
+   "id": 2082,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-AFTER_RETURN_TO_TOWN_AFTER_DEFEATING_REGENT.DAT | PASSIVE | DIALOG",
+   "en": "Where you headed to next?"
+  },
+  {
+   "id": 2083,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-AFTER_RETURN_TO_TOWN_AFTER_DEFEATING_REGENT.DAT | PASSIVE | DIALOG",
+   "en": "Without the corrupting influence of the Netherim, I can feel the power of the Guardians restoring my strength!  Thank you, human, for your part in saving us!"
+  },
+  {
+   "id": 2084,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-AFTER_RETURN_TO_TOWN_AFTER_DEFEATING_REGENT.DAT | PASSIVE | DIALOG",
+   "en": "Word is that you met not one, but two Guardians!  What was that like?"
+  },
+  {
+   "id": 2085,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-AFTER_RETURN_TO_TOWN_AFTER_DEFEATING_REGENT.DAT | PASSIVE | DIALOG",
+   "en": "Word's getting back that you're doing really well out there.  I knew you could do it!"
+  },
+  {
+   "id": 2086,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-AFTER_RETURN_TO_TOWN_AFTER_DEFEATING_REGENT.DAT | PASSIVE | DIALOG",
+   "en": "You're headed to the Ossean Wastes now?  Watch yourself down there; they say there's a war brewing, betweent the Zeraphi and the Ezrohir."
+  }
+ ]
+}

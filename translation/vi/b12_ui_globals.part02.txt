@@ -1,0 +1,240 @@
+@@ 5185
+Dịch chuyển tới cổng sau 
+@@ 5186
+Tốc độ đánh rất chậm
+@@ 5187
+Socket tối đa
+@@ 5188
+Vật phẩm đã giám định
+@@ 5189
+đã vào khu vực
+@@ 5190
+Hồi sinh tại thị trấn và không mất gì.
+@@ 5191
+Không có Gem để thu hồi
+@@ 5192
+Potion đã dùng
+@@ 5193
+Nhấp chuột trái để gán kỹ năng hoặc vật phẩm
+@@ 5194
+nhưng không có gì xảy ra
+@@ 5195
+Chưa hoàn thành
+@@ 5196
+- Hoàn thành
+@@ 5197
+Không đủ XP cho cấp hiện tại.
+@@ 5198
+Bản đồ lỗi: không tìm thấy hầm ngục
+@@ 5199
+Đang thử kết nối
+@@ 5200
+Đang thử kết nối
+@@ 5201
+Không thể ngắt kết nối
+@@ 5202
+Kỹ năng lớp nhân vật
+@@ 5203
+Đã đạt số phù phép tối đa
+@@ 5204
+và vô tình xóa sạch mọi phù phép
+@@ 5205
+Yêu cầu cấp vật phẩm
+@@ 5206
+Nhấn 'Giải nghệ' để truyền lại Gia bảo
+@@ 5207
+Bẫy đã kích hoạt
+@@ 5208
+ Thiếu ô hành trang, các vật phẩm sẽ bị mất:\n
+@@ 5209
+Bạn đã tắt chế độ PvP.
+@@ 5210
+|cFFFF0000Bạn bị từ chối vì không đáp ứng yêu cầu cấp của trận này.|u
+@@ 5211
+Cấp vượt quá cấp tối đa.
+@@ 5212
+Đã giám định vật phẩm
+@@ 5213
+vào ánh sáng
+@@ 5214
+đã ngắt kết nối.
+@@ 5215
+Chest Armor
+@@ 5216
+Điểm còn lại
+@@ 5217
+Nhật ký nhiệm vụ của bạn đã đầy!
+@@ 5218
+tầm xa hai tay
+@@ 5219
+Kỹ năng/Spell đã dùng
+@@ 5220
+đã chặn bạn.
+@@ 5221
+Chuyến phiêu lưu tiếp theo của bạn sẽ bắt đầu ở cấp
+@@ 5222
+ Các quái sau sẽ không được tạo ra:\n
+@@ 5223
+Đang kết nối đến máy chủ...
+@@ 5224
+Không thể ngắt kết nối
+@@ 5225
+|cFFEAAA15Cần khởi động lại để cài đặt mod.|u
+@@ 5226
+Defensive Spell
+@@ 5227
+dưới dạng sát thương Magical
+@@ 5228
+Cá đã câu
+@@ 5229
+Bỏ chặn thất bại - tên không hợp lệ!
+@@ 5230
+Tỉ lệ chí mạng
+@@ 5231
+Đã xóa [CHARACTERNAME] khỏi danh sách bạn bè!
+@@ 5232
+Bạn không thể mở Waypoint Portal tại đây.
+@@ 5233
+và tạo ra Socket mới
+@@ 5234
+Tốc độ đánh chậm
+@@ 5235
+Dùng Identify Scroll để xem phù phép hoặc đạt cấp
+@@ 5236
+m
+@@ 5237
+Vật phẩm bị phá hủy, thu hồi các Gem bên trong
+@@ 5238
+bị phá hủy
+@@ 5239
+Kết nối thất bại: phiên bản không khớp
+@@ 5240
+Kết nối thất bại: sai mật khẩu
+@@ 5241
+Kết nối thất bại: bị một người chơi trong trận chặn
+@@ 5242
+Kết nối thất bại: mật khẩu không hợp lệ
+@@ 5243
+Kết nối thất bại: trận đã đầy
+@@ 5244
+Kết nối thất bại: trận không còn tồn tại
+@@ 5245
+Phù phép tối đa
+@@ 5246
+Enchanter thêm một phù phép mạnh mẽ!
+@@ 5247
+Tôi đi mua bản đầy đủ của trò chơi đây!
+@@ 5248
+Tay phải và tay trái yêu cầu
+@@ 5249
+Vật phẩm phải được giám định trước khi dùng
+@@ 5250
+tầm xa một tay
+@@ 5251
+[CHARACTERNAME] đã bị đuổi khỏi trận.
+@@ 5252
+<playername> đang bận.
+@@ 5253
+Tốc độ đánh rất nhanh
+@@ 5254
+Địa điểm đáng chú ý
+@@ 5255
+cận chiến hai tay
+@@ 5256
+Nhiệm vụ đã hoàn thành
+@@ 5257
+Bạn câu được một con cá chứa
+@@ 5258
+Tự động giám định ở cấp
+@@ 5259
+Tất cả kỹ năng
+@@ 5260
+Số bước đã đi
+@@ 5261
+Đã chặn [CHARACTERNAME] khỏi các trận sau.
+@@ 5262
+Tay phải yêu cầu
+@@ 5263
+dưới dạng mọi hệ sát thương
+@@ 5264
+Vật phẩm đã thay đổi
+@@ 5265
+Đã kết nối đến máy chủ. Đang kết nối với người chơi khác...
+@@ 5266
+ không hoạt động. Thiếu ô hành trang, các vật phẩm sẽ bị mất:\n
+@@ 5267
+Chỉ khi cầm hai vũ khí
+@@ 5268
+Số lần đánh bạc
+@@ 5269
+<playername> đang giao dịch rồi.
+@@ 5270
+đã xóa bạn khỏi danh sách bạn bè.
+@@ 5271
+dưới dạng sát thương Electric
+@@ 5272
+Đã từng chơi trận có mod.
+@@ 5273
+Không có người chơi nào tên như vậy trong khu vực hiện tại.
+@@ 5274
+yêu cầu Defense
+@@ 5275
+Chỉ khi cầm hai vũ khí
+@@ 5276
+Đã thêm [CHARACTERNAME] vào danh sách bạn bè!
+@@ 5277
+Sai mật khẩu
+@@ 5278
+Rương đã mở
+@@ 5279
+Gửi tin nhắn riêng thất bại - tên không hợp lệ!
+@@ 5280
+Bạn đạt cấp bậc
+@@ 5281
+Bạn đã đạt cấp bậc
+@@ 5282
+Trùng phím với thao tác
+@@ 5283
+Về thị trấn
+@@ 5284
+Các Gem bên trong
+@@ 5285
+dưới dạng sát thương Ice
+@@ 5286
+Không thể phù phép
+@@ 5287
+Đã đăng nhập
+@@ 5288
+Kết nối thất bại
+@@ 5289
+Hồi sinh ở lối vào khu vực này, nhưng mất [GOLD] vàng.
+@@ 5290
+Hồi sinh ở lối vào tầng này, nhưng mất [GOLD] vàng.
+@@ 5291
+Kết hợp nguyên liệu\\nđể học
+@@ 5292
+Kết hợp nguyên liệu\nđể học
+@@ 5293
+Giá phù phép:
+@@ 5294
+Cần khởi động lại cho mod: 
+@@ 5295
+Không thể dùng vật phẩm chưa giám định-
+@@ 5296
+Quái đã đánh bại
+@@ 5297
+Sát thương mỗi giây
+@@ 5298
+sát thương mỗi giây
+@@ 5299
+1-handed
+@@ 5300
+one handed
+@@ 5301
+Đặt vật phẩm vào đây để thu hồi Gem
+@@ 5302
+yêu cầu Strength
+@@ 5303
+Đặt vật phẩm vào đây để phá hủy Gem
+@@ 5304
+Đặt vật phẩm vào đây để phù phép

@@ -1,0 +1,68 @@
+@@ 1884
+Thu thập |cFFFFBA00Passkey Ember|u ở |cFFFFBA00Slavers' Stockade|u và |cFFFFBA00Latchkey Ember|u ở |cFFFFBA00Emberscratch Mines|u. Dùng chúng để mở |cFFFFBA00Watchweald Portal|u trong |cFFFFBA00Estherian Refuge|u bị bỏ hoang.
+@@ 1885
+Dùng các viên Gem để mở |cFFFFBA00Watchweald Portal|u trong |cFFFFBA00Estherian Refuge|u, ở |cFFFFBA00Frosted Hills|u.
+@@ 1886
+- Thu thập |cFFFFBA00[ACQUIRE1]|u tại |cFFFFBA00Slavers' Stockade|u ở |cFFFFBA00Frosted Hills|u\n- Thu thập |cFFFFBA00[ACQUIRE2]|u tại |cFFFFBA00Emberscratch Mine|u ở |cFFFFBA00Frosted Hills|u\n
+@@ 1887
+- Dùng |cFFFFBA00Ember Keys|u để kích hoạt |cFFFFBA00Watchweald Portal|u trong |cFFFFBA00Estherian Refuge|u, ở |cFFFFBA00Frosted Hills|u
+@@ 1888
+Tôi định vào |cFFFFBA00Watchweald|u qua một cổng dịch chuyển khác nằm trong |cFFFFBA00Estherian Refuge|u cũ. Không may là chìa khóa đã bị đánh cắp. Bọn thợ mỏ goblin đã lấy một chiếc, còn chiếc kia, chúng tôi tin là đang nằm trong tay đám buôn nô lệ mới kéo đến vùng này. Phải có cả hai chìa khóa mới kích hoạt được |cFFFFBA00Watchweald Portal|u... mà việc lấy lại chúng thì vượt quá khả năng của tôi.\n\nHãy đoạt lại |cFFFFBA00Passkey Ember|u từ đám buôn nô lệ và |cFFFFBA00Latchkey Ember|u từ bọn goblin. Bạn có thể dùng chúng để mở cổng dịch chuyển ở Refuge và chặn Regent lại trước khi ngài ấy lây bệnh cho Guardian!
+@@ 1889
+Trên đường tới Watchweald Temple, bạn đã gặp Elder Valin, trợ tá của Grand Regent Eldrayn. Valin kể rằng ông đã bị lạc trên đường tới Watchweald... và rằng Grand Regent đã bắt đầu có triệu chứng của căn bệnh!\n\nTuy nhiên, vì cửa đền đã bị niêm phong, lối vào duy nhất là qua một cổng dịch chuyển đã ngừng hoạt động trong Estherian Refuge bị bỏ hoang. Elder Valin cho bạn biết rằng muốn kích hoạt lại cổng, bạn cần lấy Passkey Ember từ một trại của bọn buôn nô lệ, và Latchkey Ember từ khu mỏ của bọn goblin.\n
+@@ 1890
+Activate the Teleporter
+@@ 1891
+Qua những triệu chứng tôi quan sát được, chắc chắn Grand Regent đã nhiễm bệnh. Dù vậy, ngài vẫn khăng khăng đi tiếp, vì sự an nguy của Guardian quan trọng hơn. Nhưng nếu căn bệnh này thực chất là một dạng tha hóa ma thuật, thì chính Grand Regent đang mang nó thẳng tới chỗ Guardian!
+@@ 1892
+Tôi không biết bạn là ai... nhưng thật mừng là bạn đã tới! Chúng tôi tới đúng lúc Alchemist đang khống chế Guardian, nhưng hắn đã đánh úp chúng tôi. Chúng tôi không ngăn được hắn.\n\nGrell và đám cướp của hắn kéo đến ngay sau khi Alchemist rời đi. Bọn chúng đã tìm cách đột nhập và cướp phá nơi này suốt nhiều năm nay; cuộc tấn công của Alchemist cuối cùng đã cho chúng cơ hội mà chúng cần.
+@@ 1893
+Đi qua |cFFFFBA00Path of the Honored Dead|u để tới |cFFFFBA00Temple Steppes|u. Vào |cFFFFBA00Wellspring Temple|u và đảm bảo |cFFFFBA00Guardian of Water|u được an toàn.
+@@ 1894
+- Khám phá |cFFFFBA00Wellspring Temple|u ở |cFFFFBA00Temple Steppes|u và tìm Commander Vale.
+@@ 1895
+- Nói chuyện với Vale the |cFFFFBA00Vanquisher|u
+@@ 1896
+Commander Vale cho rằng Alchemist có thể sẽ tấn công |cFFFFBA00Wellspring Temple|u để tìm đến |cFFFFBA00Guardian of Water|u... còn vì mục đích đen tối nào thì tôi không dám đoán. Đến giờ vẫn chưa có tin tức gì từ Vale lẫn Guardian.\n\nHãy đi trinh sát |cFFFFBA00Wellspring Temple|u và xác định xem |cFFFFBA00Guardian of Water|u có đang gặp nguy hiểm hay không.
+@@ 1897
+Có vẻ bạn đã đến quá muộn! Alchemist đã tới Enclave... và bị Grand Regent của người Estherian, Eldrayn, đánh lui. Alchemist tháo chạy về phía nam, qua Path of the Honored Dead, hướng tới Wellspring Temple.\n\nKhông lâu sau, Commander Vale, một thành viên khác của Heroes of Torchlight và là bạn thân của Destroyer, đã đến cùng một trung đội binh lính. Cô nhanh chóng lên đường tới Wellspring Temple để bảo vệ Guardian of Water, phòng khi Alchemist tấn công nơi đó tiếp theo. Từ đó đến nay vẫn chưa có tin tức gì của cô.
+@@ 1898
+Tôi phải sớm lên đường. Nếu Alchemist đang tấn công các Guardian, hắn sẽ nhắm tới vị Guardian ở Watchweald Temple... giả như Vanquisher đã không ngăn được hắn ở Wellspring.\n\nCác Guardian là những thực thể có sức mạnh vô cùng to lớn. Họ điều khiển các nguyên tố, và nhờ đó duy trì sự sống. Nhưng họ không phải là bất khả xâm phạm; một kẻ tấn công đủ mạnh có thể khuất phục được họ. Nếu Alchemist làm được điều đó, thì mối đe dọa mà hắn gây ra còn lớn hơn bất cứ thứ gì thế giới này từng đối mặt kể từ cuộc xâm lược của Netherim một thiên niên kỷ trước.
+@@ 1899
+Cảm ơn ngươi, hỡi người phàm. Ta đã bị Alchemist làm suy yếu đến mức không thể chống lại Nether-Beast khi nó lộ diện. Nếu ngươi không xuất hiện kịp lúc, nó đã chiếm lấy ta hoàn toàn, như đã làm với Regent.
+@@ 1900
+Dùng |cFFFFBA00Watchweald Portal|u để vào |cFFFFBA00Watchweald Temple|u. Ngăn chặn |cFFFFBA00Grand Regent|u trước khi ông ấy làm hại |cFFFFBA00Guardian of the Wild|u.
+@@ 1901
+- Vào |cFFFFBA00Watchweald Temple|u qua |cFFFFBA00Watchweald Portal|u và ngăn chặn |cFFFFBA00Grand Regent|u
+@@ 1902
+- Nói chuyện với |cFFFFBA00Guardian of the Wild|u ở |cFFFFBA00Watchweald Temple|u
+@@ 1903
+Ngay khi bạn bước vào Watchweald Temple, rõ ràng là có chuyện gì đó rất không ổn. Toàn bộ ngôi đền tràn ngập những người Estherian bị biến dị, và có dấu hiệu cho thấy một trận chiến dữ dội đã diễn ra... và có thể vẫn đang tiếp diễn.\n\nĐâu đó giữa cảnh hỗn loạn này là Grand Regent Eldrayn. Và nếu ông đang cố bảo vệ Guardian of the Wild, rất có thể ông đã lây cho Guardian căn bệnh bí ẩn từng ảnh hưởng tới biết bao người Estherian... chính căn bệnh dường như đã biến họ thành những Nether-Thrall khát máu!
+@@ 1904
+Xin chào, lữ khách. Bạn có thể giúp tôi không? Tôi đang cùng Grand Regent tới Watchweald Temple thì chúng tôi bị lạc nhau. Tôi mong sẽ gặp lại ngài ở ngôi đền... nhưng cửa đền đã bị niêm phong sau khi ngài vào. Lần cuối tôi gặp, ngài đang ốm rất nặng. Tôi nghĩ có lẽ ngài đã nhiễm phải chính căn bệnh đang hoành hành trong những người Estherian khác.
+@@ 1905
+Đi qua |cFFFFBA00Crows' Pass|u để tới |cFFFFBA00Frosted Hills|u, và tìm cách chặn |cFFFFBA00Grand Regent Eldrayn|u lại trước khi ông ấy tới |cFFFFBA00Watchweald Temple|u.
+@@ 1906
+- Tìm Grand Regent ở |cFFFFBA00Frosted Hills|u
+@@ 1907
+Bệnh dịch này dường như chỉ nhắm vào những sinh vật mang bản chất ma thuật bẩm sinh, như người Estherian... và các Guardian. Cho đến giờ nó chưa ảnh hưởng tới con người, nên tôi đã cho gọi một chuyến vận tải chở thuốc men tới, và tôi sẽ điều phối việc cứu chữa ở đây.\n\nTrong lúc đó, bạn cần tới |cFFFFBA00Watchweald Temple|u. Hãy đi qua |cFFFFBA00Crows' Pass|u để tới |cFFFFBA00Frosted Hills|u. Cố đuổi kịp |cFFFFBA00Grand Regent|u trước khi ngài ấy vào đền.
+@@ 1908
+Trở lại Enclave, bạn biết được rằng một căn bệnh ma thuật kỳ lạ đã lan rộng trong người Estherian kể từ cuộc tấn công của Alchemist. Nhiều khả năng Grand Regent Eldrayn cũng đang mang mầm bệnh, và ông đã lên đường tới Watchweald Temple để lo việc bảo vệ Guardian of the Wild.\n\nNếu Grand Regent lây căn bệnh bí ẩn này cho Guardian, đó có thể là dấu chấm hết cho mọi loài cây cỏ và muông thú trên khắp thế giới!
+@@ 1909
+Mọi chuyện ổn cả chứ? Tôi tưởng bạn đang tới Watchweald Temple để tìm Grand Regent mà.
+@@ 1910
+Cảm ơn lời cảnh báo của bạn, nhưng nó đã đến quá muộn. Kẻ mang tên "Alchemist" này đã đến rồi đi, và tôi đã phải dốc hết sức mới ngăn được hắn tiến vào Enclave. Dù vậy, nhiều người Estherian đã bị thương, và kể từ trận đối đầu đó, thêm vài người nữa đã đổ bệnh. Chúng tôi không rõ nguyên nhân là gì.\n\nSau khi cuộc tấn công vào đây thất bại, Alchemist tiếp tục đi về phía nam, hướng tới Temple Steppes. Commander Vale và đội Vanquisher của cô ấy đến ngay sau đó và đã truy đuổi hắn, mong ngăn chặn thêm thiệt hại.
+@@ 1911
+Đi qua |cFFFFBA00Echo Pass|u để tới |cFFFFBA00Enclave|u và cảnh báo người |cFFFFBA00Estherian|u về Alchemist.
+@@ 1912
+- Đến |cFFFFBA00Estherian Enclave|u và nói chuyện với |cFFFFBA00Grand Regent|u
+@@ 1913
+Tôi nghĩ tôi chỉ đi được đến đây thôi. Bạn nên tiếp tục tới |cFFFFBA00Estherian Enclave|u, nhưng từ giờ bạn phải tự lo liệu rồi.\n\nHãy báo cho họ biết Alchemist đã phá hủy Torchlight và đang tiến về phía họ. Có khi hắn đã ở đó rồi...
+@@ 1914
+Sau khi cùng Destroyer đang bị thương vượt đường xa tới Echo Pass để cảnh báo người Estherian rằng Alchemist đang đến, giờ đây bạn phải tự mình tiếp bước. Destroyer bị thương quá nặng trong trận chiến với Alchemist nên không thể đi tiếp... và bạn ngờ rằng anh ấy còn muốn khóc thương cho cái chết của Syl, người bạn cũ và cũng là người thầy của mình.
+@@ 1915
+Alchemist sẽ tiến về hướng này. Và nếu hắn đi qua đây, chúng tôi sẽ chờ sẵn hắn!\n\nCần có ai đó cảnh báo người Estherian. Hãy lên đèo tới Enclave của họ. Tìm người bạn cũ của tôi, Commander Vale, và báo cho cô ấy biết chuyện đã xảy ra.
+@@ 1916
+Tôi không biết Alchemist có hiểu rằng Ordrak's Heart đang gây ra tai họa khủng khiếp đến vậy không... hay hắn chẳng hề bận tâm! Tôi mong vẫn còn cơ hội ngăn hắn lại, bằng cách này hay cách khác, trước khi quá muộn.\n\nVậy là Guardian muốn bạn tới Ossean Wastes à? Bạn biết không? Tôi nghĩ tôi có thể giúp bạn chuyện đó...
+@@ 1917
+Báo cáo với |cFFFFBA00Vanquisher|u ở |cFFFFBA00Estherian Enclave|u.

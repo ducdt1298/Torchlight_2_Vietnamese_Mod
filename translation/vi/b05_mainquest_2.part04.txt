@@ -1,0 +1,80 @@
+@@ 2207
+Nhiều thế kỷ trước, một djinni tên Fazeer Shah và một djinni tên Ezrek Khan đã cãi nhau vì một chuyện vặt vãnh nào đó, và rốt cuộc đã gây chiến với nhau.  Chúng gây ra thiệt hại nặng nề cho các thành phố và tàn phá đất đai, cho đến khi vị vua của người Zeraphi hết chịu nổi.  Ông ta trục xuất cả hai: một kẻ ra sa mạc, còn kẻ kia tới ... một nơi khác.  Một cõi bóng tối, nằm giữa thế giới này và khoảng hư không vô tận nơi Netherim cư ngụ.\n\nNếu ngươi đến được chỗ Fazeer Shah, có lẽ ngươi sẽ thuyết phục được hắn giúp chúng ta.
+@@ 2208
+Quay về |cFFFFBA00Zeryphesh|u khi |cFFFFBA00Guardian of Mana|u đã được tự do.
+@@ 2209
+- Quay lại gặp |cFFFFBA00Guardian of Air|u ở |cFFFFBA00Zeryphesh|u
+@@ 2210
+Nữ hoàng Mana đã đến rồi đi\nQua cổng này, nàng lên đường thiên lý.\nHãy theo nàng, dẫu phải trả giá đắt.\nMau lên, kẻo nàng sẽ lạc mất.
+@@ 2211
+Tìm kiếm |cFFFFBA00Guardian of Mana|u ở |cFFFFBA00Ossean Wastes|u.
+@@ 2212
+- Tìm |cFFFFBA00Guardian of Mana|u ở |cFFFFBA00Ossean Wastes|u
+@@ 2213
+Ta đã chờ ngươi.  Ta là |cFFFFBA00Guardian of Air|u.  Phải, Alchemist đã đến |cFFFFBA00Ossean Wastes|u và liên minh với bọn Ezrohir đê tiện, có lẽ là để tiếp tay cho cuộc tấn công sắp tới của chúng vào Zeryphesh.  \n\n|cFFFFBA00Guardian of Mana|u đã truy đuổi Alchemist vào |cFFFFBA00Forsaken Vaults|u, nơi được |cFFFFBA00Sphinx|u canh giữ.  Hãy tìm đến Vaults và thuyết phục Sphinx cho ngươi vào.  Guardian đang gặp nguy hiểm lớn ... nếu không phải từ |cFFFFBA00Alchemist|u thì cũng là từ Netherim.
+@@ 2214
+Alchemist, người từng là anh hùng, giờ đang điên cuồng tàn phá!  Sau khi hủy diệt Torchlight, hắn xâm chiếm Estherian Steppes, tấn công hai trong số các Guardian nguyên tố và hút cạn sức mạnh của họ để tiếp sức cho cổ vật tà ác mà hắn đã lấy lại từ các hầm mỏ ở Torchlight: Ordrak's Heart.\n\nTin rằng mình cần thêm sức mạnh, Alchemist dường như đã tiến về phương nam, đến Ossean Wastes, nơi hai Guardian khác đang chuẩn bị bảo vệ thành phố sa mạc Zeryphesh trước cuộc tấn công của kẻ thù lâu đời, bọn Ezrohir.  Giờ một trong hai Guardian đó đã mất tích, còn vị kia, Guardian of Air, tin rằng Guardian of Mana có thể đang sa vào bẫy.
+@@ 2215
+|cFFFFBA00Guardian of Mana|u đã truy đuổi Alchemist vào |cFFFFBA00Forsaken Vaults|u, nơi được |cFFFFBA00Sphinx|u canh giữ.  Hãy tìm đến Vaults và thuyết phục Sphinx cho ngươi vào.  Guardian đang gặp nguy hiểm lớn ... nếu không phải từ |cFFFFBA00Alchemist|u thì cũng là từ Netherim.
+@@ 2216
+Dũng khí đã tỏ; đường đã mở ra.\nLò rèn, Nữ hoàng ... hồi kết chẳng còn xa.
+@@ 2217
+Đánh bại |cFFFFBA00Manticore|u ở |cFFFFBA00Stygian Aerie|u.
+@@ 2218
+Quay lại gặp |cFFFFBA00Sphinx|u ở |cFFFFBA00Forsaken Gate|u.
+@@ 2219
+- Đánh bại |cFFFFBA00Manticore|u ở |cFFFFBA00Stygian Aerie|u
+@@ 2220
+- Quay lại gặp |cFFFFBA00Sphinx|u ở |cFFFFBA00Forsaken Gate|u
+@@ 2221
+Sứ mệnh ngàn xưa của ta: canh giữ cổng này\nVà chiêm nghiệm cát sa mạc tháng ngày.\nTrong cõi Stygian ẩn nấp quái thú thuở xa xưa\nNửa rồng, nửa sư tử:  |cFFFFBA00Manticore|u.\nHãy mang da nó đến trước mắt ta\nPhần thưởng của ngươi: được phép đi qua.\n
+@@ 2222
+Nếu bạn hiểu đúng lời của Sphinx bí ẩn, thì Guardian of Mana đã bị bọn Ezrohir bắt và đưa vào Forsaken Vaults vì một mục đích đen tối nào đó.  Rõ ràng Guardian đang gặp nguy ... nhưng Sphinx sẽ không mở Forsaken Gate cho đến khi bạn hạ sát kẻ thù mà nàng căm ghét nhất: một con Manticore đang ẩn nấp trong một hang động ở Ossean Wastes.
+@@ 2223
+Lò rèn u tối, tận nơi đáy sâu.\nXích xiềng rèn đúc, ống bễ thổi mau\nNữ hoàng Mana sa bẫy, bị trói xiết\nMa thuật bị cướp, sức mạnh cạn kiệt.\nEzrohir bày mưu chiến chinh\nNữ hoàng bị bắt đứng đầu đội binh.
+@@ 2224
+- Nói chuyện với |cFFFFBA00Guardian of Air|u ở |cFFFFBA00Zeryphesh|u
+@@ 2225
+Vậy bạn là người mà cô nàng Vanquisher đã kể với tôi hả?  Được rồi ... lúc nào bạn sẵn sàng lăn bánh thì chúng tôi sẽ chất trang bị của bạn lên chiếc Embercraft rồi khởi hành.  Chắc chỉ mất cùng lắm vài ngày là tới nơi!
+@@ 2226
+Nói chuyện với |cFFFFBA00Railmaster|u ở |cFFFFBA00Enclave|u để rời Estherian Steppes và đi đến thành phố sa mạc |cFFFFBA00Zeryphesh|u.
+@@ 2227
+Khi đến |cFFFFBA00Zeryphesh|u, hãy nói chuyện với |cFFFFBA00Guardian of Air|u.
+@@ 2228
+- Nói chuyện với |cFFFFBA00Railmaster|u ở |cFFFFBA00Enclave|u để đi đến |cFFFFBA00Zeryphesh|u
+@@ 2229
+Tôi sẽ trưng dụng một phương tiện để đưa bạn đến |cFFFFBA00Zeryphesh|u ở Ossean Wastes.\n\nKhi nào sẵn sàng lên đường, bạn cứ nói chuyện với |cFFFFBA00Railmaster|u.
+@@ 2230
+Phải ngăn chặn Alchemist.  Kế hoạch điên rồ của hắn nhằm giải phóng Netherim khỏi nhà ngục cổ xưa đã gây ra cái chết của Syl, Grand Regent Eldrayn, cả ngôi làng Torchlight cùng vô số người Estherian và Vanquisher ... chưa kể suýt nữa đã giết chết hai Guardian nguyên tố.\n\nSức mạnh mà Alchemist đánh cắp từ các Guardian rất lớn, nhưng không phải vô hạn ... ít ra là chưa.  Nhưng còn hai Guardian nữa ở không xa, tại Ossean Wastes, và Guardian of the Wild đã nhờ bạn đến đó để giúp bảo vệ họ khỏi Alchemist.
+@@ 2231
+Tình hình dưới Zeryphesh cũng khá căng thẳng.  Đó là lý do các Guardian có mặt ở đó.  Sau khoảng năm trăm năm hòa bình, bọn Ezrohir lại gây chiến với người Zeraphi.  Hai vị Guardian đã xuống đó để cố hết sức giữ gìn trật tự.\n\nNếu Alchemist chỉ cần năng lượng của thêm hai Guardian nữa thì hắn không thể gặp may hơn được.  Cả hai đều ở ngay đó, trong tầm tay hắn.  Chỉ mong là họ chuẩn bị kỹ càng hơn những vị trước.
+@@ 2232
+Đến Grunnheim, bạn phát hiện Imperial Camp vừa bị tấn công. Hãy tìm |cFFFFBA00Professor Stoker|u để biết chuyện gì đã xảy ra với khu trại và tìm hiểu về |cFFFFBA00Clockwork Core|u.
+@@ 2233
+Tìm |cFFFFBA00Professor Stoker|u.
+@@ 2234
+Bạn đang tìm đường đến Scrapworks à?  Chúng tôi cũng định thế - cho đến khi một vụ sập hầm khiến không ai qua được lối vào nữa.
+@@ 2235
+Đi qua Rotted Path và Blightbogs đến Middenmine, rồi tìm lối vào |cFFFFBA00Scrapworks|u. Tìm một |cFFFFBA00Power Source|u trong Scrapworks và mang nó về cho Professor Stoker ở Imperial Camp.
+@@ 2236
+- Tìm |cFFFFBA00Power Source|u trong |cFFFFBA00Scrapworks|u
+@@ 2237
+Giá mà bạn đến sớm hơn! Alchemist vừa đi qua đây khoảng một giờ trước. Hắn tàn phá khu trại rồi đi qua |cFFFFBA00Great Door|u đằng kia - và khóa chặt nó lại sau lưng.\n\nChúng tôi tin cánh cửa đó dẫn đến Clockwork Core. Chúng tôi không tự mở được, nhưng về lý thuyết thì chúng tôi biết cách. Thấy cỗ máy tự động của người lùn kia chứ? Nó được thiết kế để mở cánh cửa, nhưng lại thiếu mất |cFFFFBA00Power Source|u. Trong |cFFFFBA00Scrapworks|u hẳn sẽ có một cái, nhưng nơi đó quá nguy hiểm để chúng tôi vào. Có lẽ bạn sẽ gặp may hơn.\n
+@@ 2238
+Bạn đã đến Imperial Camp giữa đống tàn tích ở Grunnheim và phát hiện Alchemist chỉ đi trước bạn chừng một giờ. Sau khi phá hủy khu trại, Alchemist đã đi qua một cánh cửa gần đó, mà theo Professor Stoker, trưởng nhóm khảo cổ của khu trại, thì dẫn đến Clockwork Core.\n\nNếu Alchemist đến được Clockwork Core cùng Ordrak's Heart, hắn có thể thả Netherim tràn vào thế giới của chúng ta. Bạn phải tìm cách mở Great Door. Professor Stoker tin rằng cỗ máy tự động cạnh cánh cửa có thể mở được nó, nhưng chỉ khi bạn tìm được thứ thay thế cho nguồn năng lượng đã cạn kiệt của nó.\n
+@@ 2239
+Chúng tôi đã cố vượt qua Great Door suốt nhiều tuần. Chúng tôi xác định được cánh cửa thiếu nguồn năng lượng, và đang bắt đầu chuẩn bị một chuyến thám hiểm đến Scrapworks để tìm cái thay thế. Alchemist đã tấn công trước khi chúng tôi kịp hành động.
+@@ 2240
+Làm tốt lắm! Power Source này sẽ vừa khít với nồi hơi của cỗ máy tự động!\n\nHừm... Lạ thật. Chẳng có gì xảy ra cả. Ôi không... Tôi sợ nhất là chuyện này! Power Source đã cạn sạch năng lượng! Việc này sẽ khó khăn hơn tôi tưởng.\n
+@@ 2241
+- Mang Power Source về cho Professor Stoker ở |cFFFFBA00Imperial Camp|u
+@@ 2242
+Quyền năng của ta vẫn còn suy yếu, nhưng ta phải đến để cảnh báo ngươi.  Rào chắn giữa thế giới của chúng ta và Nether mỏng manh nhất tại Clockwork Core.  Từng bầy lũ chúng đã bắt đầu xông qua, và nếu Alchemist phá hủy Clockwork Core, làn sóng Netherim sẽ không gì cản nổi.
+@@ 2243
+Giờ |cFFFFBA00Great Door|u đã mở, bạn chuẩn bị tiến vào |cFFFFBA00Broken Mines|u để truy đuổi Alchemist.
+@@ 2244
+- Lắp |cFFFFBA00Power Source|u vào |cFFFFBA00Robo-Porter|u ở |cFFFFBA00Imperial Camp|u
+@@ 2245
+- Tiến vào |cFFFFBA00Broken Mines|u
+@@ 2246
+Sắp được rồi, bạn của tôi!  Lùi lại để tôi kích hoạt |cFFFFBA00Automaton|u nào!\n\nTôi không biết chúng ta sẽ gặp phải thứ gì trong đó.  Chúng ta biết Alchemist đã đi lối đó, và hắn sẽ không để ai dễ dàng bám theo mình đâu.\n

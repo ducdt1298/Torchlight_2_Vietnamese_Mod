@@ -1,0 +1,1355 @@
+# b01_items_1: 677 strings. Format: "@@ id | mode | context" then the English text on the next line.
+@@ 1 | translate | UNITS/ITEMS/2HAXE/GREATAXE_U01.DAT | UNIT | DESCRIPTION
+The best way to kill a troll is to start at the base, and go up.
+@@ 2 | translate | UNITS/ITEMS/2HAXE/GREATAXE_U01B.DAT | UNIT | DESCRIPTION
+Bringing trolls down, from the bottom up.
+@@ 3 | translate | UNITS/ITEMS/2HAXE/GREATAXE_U01C.DAT | UNIT | DESCRIPTION
+It just cuts trolls in half ... no mucking about.
+@@ 4 | translate | UNITS/ITEMS/2HAXE/GREATAXE_U02.DAT | UNIT | DESCRIPTION
+It lets nothing stand between you and your foes.
+@@ 5 | translate | UNITS/ITEMS/2HAXE/GREATAXE_U02B.DAT | UNIT | DESCRIPTION
+It gets in your head.
+@@ 6 | translate | UNITS/ITEMS/2HAXE/GREATAXE_U02C.DAT | UNIT | DESCRIPTION
+A nasty piece of business.
+@@ 7 | translate | UNITS/ITEMS/2HAXE/GREATAXE_U03.DAT | UNIT | DESCRIPTION
+Bad touch!
+@@ 8 | translate | UNITS/ITEMS/2HAXE/GREATAXE_U03B.DAT | UNIT | DESCRIPTION
+A cold, sharp, and all-too-final kiss.
+@@ 9 | translate | UNITS/ITEMS/2HAXE/GREATAXE_U03C.DAT | UNIT | DESCRIPTION
+Be gentle.
+@@ 10 | translate | UNITS/ITEMS/2HAXE/GREATAXE_U04.DAT | UNIT | DESCRIPTION
+The Tu'tara believe this axe was sent by the gods as punishment.
+@@ 11 | translate | UNITS/ITEMS/2HAXE/GREATAXE_U04B.DAT | UNIT | DESCRIPTION
+Off with their heads!
+@@ 12 | translate | UNITS/ITEMS/2HAXE/GREATAXE_U04C.DAT | UNIT | DESCRIPTION
+Throat, neck, and spine, to be precise.
+@@ 13 | translate | UNITS/ITEMS/2HAXE/GREATAXE_U05.DAT | UNIT | DESCRIPTION
+The axe wielded by Ogrimmax, King of Ogres.
+@@ 14 | translate | UNITS/ITEMS/2HAXE/GREATAXE_U05B.DAT | UNIT | DESCRIPTION
+The axe used to kill Ogrimmax, King of Ogres.
+@@ 15 | translate | UNITS/ITEMS/2HAXE/GREATAXE_U05C.DAT | UNIT | DESCRIPTION
+The axe wielded by Magrimax, the second King of Ogres.
+@@ 16 | translate | UNITS/ITEMS/2HAXE/GREATAXE_U06.DAT | UNIT | DESCRIPTION
+Made from the horn of the last of the great dragons ... and it remembers who killed it.
+@@ 17 | translate | UNITS/ITEMS/2HAXE/GREATAXE_U06B.DAT | UNIT | DESCRIPTION
+It strikes like the bite of a dragon.
+@@ 18 | translate | UNITS/ITEMS/2HAXE/GREATAXE_U06C.DAT | UNIT | DESCRIPTION
+The axe that slew the last great dragon of old.
+@@ 19 | translate | UNITS/ITEMS/2HAXE/GREATAXE_U07.DAT | UNIT | DESCRIPTION
+Science made manifest, to battle superstition made flesh.
+@@ 20 | translate | UNITS/ITEMS/2HAXE/GREATAXE_U07B.DAT | UNIT | DESCRIPTION
+The greatest engineering achievement of all time.
+@@ 21 | translate | UNITS/ITEMS/2HAXE/GREATAXE_U07C.DAT | UNIT | DESCRIPTION
+The axe of the future!
+@@ 22 | translate | UNITS/ITEMS/2HAXE/LEGENDARY_GREATAXE01.DAT | UNIT | DESCRIPTION
+Legendary Greataxe Collection\nNumber One of Three
+@@ 23 | translate | UNITS/ITEMS/2HAXE/LEGENDARY_GREATAXE02.DAT | UNIT | DESCRIPTION
+Legendary Greataxe Collection\nNumber Two of Three
+@@ 24 | translate | UNITS/ITEMS/2HAXE/LEGENDARY_GREATAXE03.DAT | UNIT | DESCRIPTION
+Legendary Greataxe Collection\nNumber Three of Three
+@@ 25 | translate | UNITS/ITEMS/2HMACE/GREATHAMMER_U01.DAT | UNIT | DESCRIPTION
+A shield only delays the inevitable
+@@ 26 | translate | UNITS/ITEMS/2HMACE/GREATHAMMER_U01B.DAT | UNIT | DESCRIPTION
+The dwarfs feared it enough to warn their descdendants about it.
+@@ 27 | translate | UNITS/ITEMS/2HMACE/GREATHAMMER_U01C.DAT | UNIT | DESCRIPTION
+Don't let that shield stop you.
+@@ 28 | translate | UNITS/ITEMS/2HMACE/GREATHAMMER_U01X.DAT | UNIT | DESCRIPTION
+Grind 'em down! Grind 'em all down!
+@@ 29 | translate | UNITS/ITEMS/2HMACE/GREATHAMMER_U02.DAT | UNIT | DESCRIPTION
+You'll break a few hearts with this baby.
+@@ 30 | translate | UNITS/ITEMS/2HMACE/GREATHAMMER_U02B.DAT | UNIT | DESCRIPTION
+This should cheer you up.
+@@ 31 | translate | UNITS/ITEMS/2HMACE/GREATHAMMER_U02C.DAT | UNIT | DESCRIPTION
+Let the beatings commence.
+@@ 32 | translate | UNITS/ITEMS/2HMACE/GREATHAMMER_U03.DAT | UNIT | DESCRIPTION
+Simply smashing!
+@@ 33 | translate | UNITS/ITEMS/2HMACE/GREATHAMMER_U03B.DAT | UNIT | DESCRIPTION
+The cure for rot and decay.
+@@ 34 | translate | UNITS/ITEMS/2HMACE/GREATHAMMER_U03C.DAT | UNIT | DESCRIPTION
+... because they're pests.
+@@ 35 | translate | UNITS/ITEMS/2HMACE/GREATHAMMER_U04.DAT | UNIT | DESCRIPTION
+Together Forever.
+@@ 36 | translate | UNITS/ITEMS/2HMACE/GREATHAMMER_U04B.DAT | UNIT | DESCRIPTION
+A relic from the Arachnos War. The spiders remember it well.
+@@ 37 | translate | UNITS/ITEMS/2HMACE/GREATHAMMER_U04C.DAT | UNIT | DESCRIPTION
+DENIED.
+@@ 38 | translate | UNITS/ITEMS/2HMACE/GREATHAMMER_U05.DAT | UNIT | DESCRIPTION
+In all fairness, that might be the name of a drink ...
+@@ 39 | translate | UNITS/ITEMS/2HMACE/GREATHAMMER_U05B.DAT | UNIT | DESCRIPTION
+This should drive your point home.
+@@ 40 | translate | UNITS/ITEMS/2HMACE/GREATHAMMER_U05C.DAT | UNIT | DESCRIPTION
+This should release plenty of serum thiols.
+@@ 41 | translate | UNITS/ITEMS/2HMACE/GREATHAMMER_U05X.DAT | UNIT | DESCRIPTION
+Created in a lab, late one night ...
+@@ 42 | translate | UNITS/ITEMS/2HMACE/GREATHAMMER_U06.DAT | UNIT | DESCRIPTION
+It packs quite a punch.
+@@ 43 | translate | UNITS/ITEMS/2HMACE/GREATHAMMER_U06B.DAT | UNIT | DESCRIPTION
+It has the power to shut everything down.
+@@ 44 | translate | UNITS/ITEMS/2HMACE/GREATHAMMER_U06C.DAT | UNIT | DESCRIPTION
+Crack!
+@@ 45 | translate | UNITS/ITEMS/2HMACE/GREATHAMMER_U07.DAT | UNIT | DESCRIPTION
+Knock, knock.
+@@ 46 | translate | UNITS/ITEMS/2HMACE/GREATHAMMER_U07B.DAT | UNIT | DESCRIPTION
+This is why we can't have nice things.
+@@ 47 | translate | UNITS/ITEMS/2HMACE/GREATHAMMER_U07C.DAT | UNIT | DESCRIPTION
+It's never met a wall it couldn't maul.
+@@ 48 | translate | UNITS/ITEMS/2HMACE/GREATHAMMER_U07D.DAT | UNIT | DESCRIPTION
+Words fail me.
+@@ 49 | translate | UNITS/ITEMS/2HMACE/LEGENDARY_GREATHAMMER01.DAT | UNIT | DESCRIPTION
+Legendary Greathammer Collection\nNumber One of Three
+@@ 50 | translate | UNITS/ITEMS/2HMACE/LEGENDARY_GREATHAMMER02.DAT | UNIT | DESCRIPTION
+Legendary Greathammer Collection\nNumber Two of Three
+@@ 51 | translate | UNITS/ITEMS/2HMACE/LEGENDARY_GREATHAMMER03.DAT | UNIT | DESCRIPTION
+Legendary Greathammer Collection\nNumber Three of Three
+@@ 52 | translate | UNITS/ITEMS/2HMACE/Z_GREATHAMMER_U05_SET.DAT | UNIT | DESCRIPTION
+It is more weapon than tool, now.
+@@ 53 | translate | UNITS/ITEMS/2HMACE/Z_GREATHAMMER_U06_SET.DAT | UNIT | DESCRIPTION
+An effective tool, once. Now, a more effective weapon.
+@@ 54 | translate | UNITS/ITEMS/2HSWORD/GREATSWORD_U01.DAT | UNIT | DESCRIPTION
+Need a hand with that?
+@@ 55 | translate | UNITS/ITEMS/2HSWORD/GREATSWORD_U01B.DAT | UNIT | DESCRIPTION
+A weapon right out of Valgang legend.
+@@ 56 | translate | UNITS/ITEMS/2HSWORD/GREATSWORD_U01C.DAT | UNIT | DESCRIPTION
+Are you sure it's absolutely safe?
+@@ 57 | translate | UNITS/ITEMS/2HSWORD/GREATSWORD_U02.DAT | UNIT | DESCRIPTION
+It levels the playing field.
+@@ 58 | translate | UNITS/ITEMS/2HSWORD/GREATSWORD_U02B.DAT | UNIT | DESCRIPTION
+Sometimes, you just have to go around putting goblins on spikes.
+@@ 59 | translate | UNITS/ITEMS/2HSWORD/GREATSWORD_U02C.DAT | UNIT | DESCRIPTION
+Your services are no longer required.
+@@ 60 | translate | UNITS/ITEMS/2HSWORD/GREATSWORD_U02_SET_THEGRAY.DAT | UNIT | DESCRIPTION
+Forged in fires of smoldering rage, under a rain-dark sky.
+@@ 61 | translate | UNITS/ITEMS/2HSWORD/GREATSWORD_U03.DAT | UNIT | DESCRIPTION
+Think of it as an extension of your urge to murder someone.
+@@ 62 | translate | UNITS/ITEMS/2HSWORD/GREATSWORD_U03B.DAT | UNIT | DESCRIPTION
+The dwarves made it to aid in "decommissioning" broken automatons.
+@@ 63 | translate | UNITS/ITEMS/2HSWORD/GREATSWORD_U03C.DAT | UNIT | DESCRIPTION
+It comes from an age undreamed of ...
+@@ 64 | translate | UNITS/ITEMS/2HSWORD/GREATSWORD_U04.DAT | UNIT | DESCRIPTION
+Even the Netherim are horrified by this blade.
+@@ 65 | translate | UNITS/ITEMS/2HSWORD/GREATSWORD_U04B.DAT | UNIT | DESCRIPTION
+A blade of great historical significance.
+@@ 66 | translate | UNITS/ITEMS/2HSWORD/GREATSWORD_U04C.DAT | UNIT | DESCRIPTION
+Feel my blade, dragon, and despair!
+@@ 67 | translate | UNITS/ITEMS/2HSWORD/GREATSWORD_U05.DAT | UNIT | DESCRIPTION
+Always starts on the first try!
+@@ 68 | translate | UNITS/ITEMS/2HSWORD/GREATSWORD_U05B.DAT | UNIT | DESCRIPTION
+What did the dwarves fight that they needed this to kill it?
+@@ 69 | translate | UNITS/ITEMS/2HSWORD/GREATSWORD_U05C.DAT | UNIT | DESCRIPTION
+Always wear safety goggles. Consult your owner's manual.
+@@ 70 | translate | UNITS/ITEMS/2HSWORD/GREATSWORD_U06.DAT | UNIT | DESCRIPTION
+To an ogre, this greatsword is practically a toy.
+@@ 71 | translate | UNITS/ITEMS/2HSWORD/GREATSWORD_U06B.DAT | UNIT | DESCRIPTION
+The size of this blade is a joke among the Valgang tribes.
+@@ 72 | translate | UNITS/ITEMS/2HSWORD/GREATSWORD_U06C.DAT | UNIT | DESCRIPTION
+Carved ages ago from the fang of a colossal, red dragon.
+@@ 73 | translate | UNITS/ITEMS/2HSWORD/GREATSWORD_U07.DAT | UNIT | DESCRIPTION
+The only thing troglodytes really fear is the cold, uncaring stars.
+@@ 74 | translate | UNITS/ITEMS/2HSWORD/GREATSWORD_U07B.DAT | UNIT | DESCRIPTION
+What vistas greet those who gaze upon it for too long?
+@@ 75 | translate | UNITS/ITEMS/2HSWORD/GREATSWORD_U07C.DAT | UNIT | DESCRIPTION
+Dwarven-forged from a piece of metal that fell from the sky.
+@@ 76 | translate | UNITS/ITEMS/2HSWORD/LEGENDARY_GREATSWORD01.DAT | UNIT | DESCRIPTION
+Legendary Greatsword Collection\nNumber One of Three
+@@ 77 | translate | UNITS/ITEMS/2HSWORD/LEGENDARY_GREATSWORD02.DAT | UNIT | DESCRIPTION
+Legendary Greatsword Collection\nNumber Two of Three
+@@ 78 | translate | UNITS/ITEMS/2HSWORD/LEGENDARY_GREATSWORD03.DAT | UNIT | DESCRIPTION
+Legendary Greatsword Collection\nNumber Three of Three
+@@ 79 | translate | UNITS/ITEMS/AXES/AXE_U01.DAT | UNIT | DESCRIPTION
+The only weapon that can make a Sturmbeorn cry.
+@@ 80 | translate | UNITS/ITEMS/AXES/AXE_U01B.DAT | UNIT | DESCRIPTION
+The Arbiter strikes only one target.
+@@ 81 | translate | UNITS/ITEMS/AXES/AXE_U01C.DAT | UNIT | DESCRIPTION
+Any last words?
+@@ 82 | translate | UNITS/ITEMS/AXES/AXE_U02.DAT | UNIT | DESCRIPTION
+Bringing the heat!
+@@ 83 | translate | UNITS/ITEMS/AXES/AXE_U02B.DAT | UNIT | DESCRIPTION
+It has acquired a taste for blood.
+@@ 84 | translate | UNITS/ITEMS/AXES/AXE_U02C.DAT | UNIT | DESCRIPTION
+All must fall before it!
+@@ 85 | translate | UNITS/ITEMS/AXES/AXE_U03.DAT | UNIT | DESCRIPTION
+"Even the walking dead know terror of the Wyrd."
+@@ 86 | translate | UNITS/ITEMS/AXES/AXE_U03B.DAT | UNIT | DESCRIPTION
+You really have no choice.
+@@ 87 | translate | UNITS/ITEMS/AXES/AXE_U03C.DAT | UNIT | DESCRIPTION
+"Whatsoever wears scales trembles at its approach."
+@@ 88 | translate | UNITS/ITEMS/AXES/AXE_U04.DAT | UNIT | DESCRIPTION
+"He who pulls the axe from my skull can keep it."
+@@ 89 | translate | UNITS/ITEMS/AXES/AXE_U04B.DAT | UNIT | DESCRIPTION
+The weapon of choice for axe murderers.
+@@ 90 | translate | UNITS/ITEMS/AXES/AXE_U04C.DAT | UNIT | DESCRIPTION
+"When trees whisper in fear, the Hackmaster is near."
+@@ 91 | translate | UNITS/ITEMS/AXES/AXE_U05.DAT | UNIT | DESCRIPTION
+It cuts down everyone, eventually.
+@@ 92 | translate | UNITS/ITEMS/AXES/AXE_U05B.DAT | UNIT | DESCRIPTION
+Because true villains do not deserve a quick death.
+@@ 93 | translate | UNITS/ITEMS/AXES/AXE_U05C.DAT | UNIT | DESCRIPTION
+If you feel it on your neck, it's too late to avoid it.
+@@ 94 | translate | UNITS/ITEMS/AXES/AXE_U05X.DAT | UNIT | DESCRIPTION
+Born to fly!
+@@ 95 | translate | UNITS/ITEMS/AXES/AXE_U06.DAT | UNIT | DESCRIPTION
+Life ends where this axe begins.
+@@ 96 | translate | UNITS/ITEMS/AXES/AXE_U06B.DAT | UNIT | DESCRIPTION
+Please accept our condolences ...
+@@ 97 | translate | UNITS/ITEMS/AXES/AXE_U06C.DAT | UNIT | DESCRIPTION
+The crime is unlife.\nThe sentence is death.
+@@ 98 | translate | UNITS/ITEMS/AXES/AXE_U07.DAT | UNIT | DESCRIPTION
+Chop! Chop! Make the screaming stop!
+@@ 99 | translate | UNITS/ITEMS/AXES/AXE_U07B.DAT | UNIT | DESCRIPTION
+Hack! Hack! Give 'em all a whack!
+@@ 100 | translate | UNITS/ITEMS/AXES/AXE_U07C.DAT | UNIT | DESCRIPTION
+It is curious that every automaton recognizes this blade.
+@@ 101 | translate | UNITS/ITEMS/AXES/LEGENDARY_AXE01.DAT | UNIT | DESCRIPTION
+Legendary Axe Collection\nNumber One of Four
+@@ 102 | translate | UNITS/ITEMS/AXES/LEGENDARY_AXE02.DAT | UNIT | DESCRIPTION
+Legendary Axe Collection\nNumber Two of Four
+@@ 103 | translate | UNITS/ITEMS/AXES/LEGENDARY_AXE03.DAT | UNIT | DESCRIPTION
+Legendary Axe Collection\nNumber Three of Four
+@@ 104 | translate | UNITS/ITEMS/AXES/LEGENDARY_AXE04.DAT | UNIT | DESCRIPTION
+Legendary Axe Collection\nNumber Four of Four
+@@ 105 | translate | UNITS/ITEMS/AXES/WITCH_AXE.DAT | UNIT | DESCRIPTION
+It appears to have been beaten against a rock.
+@@ 106 | translate | UNITS/ITEMS/BERSERKER_01_BOOTS.DAT | UNIT | DESCRIPTION
+For the well-heeled ticking time bomb of unbridled fury.
+@@ 107 | translate | UNITS/ITEMS/BERSERKER_01_BOOTS_ALT_B.DAT | UNIT | DESCRIPTION
+Angry beyond words.
+@@ 108 | translate | UNITS/ITEMS/BERSERKER_01_BOOTS_ALT_C.DAT | UNIT | DESCRIPTION
+Boot to the head!
+@@ 109 | translate | UNITS/ITEMS/BERSERKER_01_CHEST.DAT | UNIT | DESCRIPTION
+Fury looks good on you.
+@@ 110 | translate | UNITS/ITEMS/BERSERKER_01_CHEST_ALT_B.DAT | UNIT | DESCRIPTION
+Beware of spontaneous combustion.
+@@ 111 | translate | UNITS/ITEMS/BERSERKER_01_CHEST_ALT_C.DAT | UNIT | DESCRIPTION
+What the well-dressed psychopath will be wearing.
+@@ 112 | translate | UNITS/ITEMS/BERSERKER_01_GLOVES.DAT | UNIT | DESCRIPTION
+A gift, from the Son of the Dragon.
+@@ 113 | translate | UNITS/ITEMS/BERSERKER_01_GLOVES_ALT_B.DAT | UNIT | DESCRIPTION
+What we got here is a failure to communicate.
+@@ 114 | translate | UNITS/ITEMS/BERSERKER_01_GLOVES_ALT_C.DAT | UNIT | DESCRIPTION
+Such a cold finger ... it's the kiss of death.
+@@ 115 | translate | UNITS/ITEMS/BERSERKER_01_PANTS.DAT | UNIT | DESCRIPTION
+The new standard of ragewear.
+@@ 116 | translate | UNITS/ITEMS/BERSERKER_01_PANTS_ALT_B.DAT | UNIT | DESCRIPTION
+Widely credited as the origin of the term "cranky-pants."
+@@ 117 | translate | UNITS/ITEMS/BERSERKER_01_PANTS_ALT_C.DAT | UNIT | DESCRIPTION
+The chafing alone will drive you into a murderous rage.
+@@ 118 | translate | UNITS/ITEMS/BERSERKER_01_SHOULDERS.DAT | UNIT | DESCRIPTION
+You're holding a lot of tension there.
+@@ 119 | translate | UNITS/ITEMS/BERSERKER_01_SHOULDERS_ALT_B.DAT | UNIT | DESCRIPTION
+It weighs heavily upon you.
+@@ 120 | translate | UNITS/ITEMS/BERSERKER_01_SHOULDERS_ALT_C.DAT | UNIT | DESCRIPTION
+Fury becomes you.
+@@ 121 | translate | UNITS/ITEMS/BERSERKER_02_AMULET.DAT | UNIT | DESCRIPTION
+Crafted from the frozen core of the Ice Golem Queen.
+@@ 122 | translate | UNITS/ITEMS/BERSERKER_02_AMULET_ALT_B.DAT | UNIT | DESCRIPTION
+Crafted from the light of a dying star.
+@@ 123 | translate | UNITS/ITEMS/BERSERKER_02_AMULET_ALT_C.DAT | UNIT | DESCRIPTION
+It is all that is left of the Witch of Saymar.
+@@ 124 | translate | UNITS/ITEMS/BERSERKER_02_BELT.DAT | UNIT | DESCRIPTION
+The Runebelt has been worn by countless heroes.
+@@ 125 | translate | UNITS/ITEMS/BERSERKER_02_BELT_ALT_B.DAT | UNIT | DESCRIPTION
+The Highlands Carls were renowned giant-slayers.
+@@ 126 | translate | UNITS/ITEMS/BERSERKER_02_BELT_ALT_C.DAT | UNIT | DESCRIPTION
+The Jarlsbelt is the symbol of the rulers of the Highlands.
+@@ 127 | translate | UNITS/ITEMS/BERSERKER_02_BOOTS.DAT | UNIT | DESCRIPTION
+Built to last, even in the coldest winters.
+@@ 128 | translate | UNITS/ITEMS/BERSERKER_02_BOOTS_ALT_B.DAT | UNIT | DESCRIPTION
+The last boots worn by the ancient hero Otzi.
+@@ 129 | translate | UNITS/ITEMS/BERSERKER_02_BOOTS_ALT_C.DAT | UNIT | DESCRIPTION
+Kill only monsters ... leave only footprints.
+@@ 130 | translate | UNITS/ITEMS/BERSERKER_02_BOOTS_ALT_SET.DAT | UNIT | DESCRIPTION
+The boots of the Valgang Kings.
+@@ 131 | translate | UNITS/ITEMS/BERSERKER_02_CHEST.DAT | UNIT | DESCRIPTION
+Legends say this armor was found on a windswept glacier.
+@@ 132 | translate | UNITS/ITEMS/BERSERKER_02_CHEST_ALT_B.DAT | UNIT | DESCRIPTION
+The armor of Sygrud, the Knight of the White Wastes.
+@@ 133 | translate | UNITS/ITEMS/BERSERKER_02_CHEST_ALT_C.DAT | UNIT | DESCRIPTION
+Worn by the nameless heroine who slew the Witch of Saymar.
+@@ 134 | translate | UNITS/ITEMS/BERSERKER_02_CHEST_ALT_SET.DAT | UNIT | DESCRIPTION
+The armor of the Valgang Kings.
+@@ 135 | translate | UNITS/ITEMS/BERSERKER_02_GLOVES.DAT | UNIT | DESCRIPTION
+Cold hands, warm blood.
+@@ 136 | translate | UNITS/ITEMS/BERSERKER_02_GLOVES_ALT_B.DAT | UNIT | DESCRIPTION
+Feel the icy grip of the foul northern wind!
+@@ 137 | translate | UNITS/ITEMS/BERSERKER_02_GLOVES_ALT_C.DAT | UNIT | DESCRIPTION
+A perfect fit for your hand ... and your enemies' throats!
+@@ 138 | translate | UNITS/ITEMS/BERSERKER_02_GLOVES_ALT_SET.DAT | UNIT | DESCRIPTION
+The gloves of the Valgang Kings.
+@@ 139 | translate | UNITS/ITEMS/BERSERKER_02_HELMET.DAT | UNIT | DESCRIPTION
+Feel the wind in your hair ...
+@@ 140 | translate | UNITS/ITEMS/BERSERKER_02_HELMET_ALT_B.DAT | UNIT | DESCRIPTION
+If you keep making that face, it'll freeze that way.
+@@ 141 | translate | UNITS/ITEMS/BERSERKER_02_HELMET_ALT_C.DAT | UNIT | DESCRIPTION
+A helmet for the warrior with icewater in his veins.
+@@ 142 | translate | UNITS/ITEMS/BERSERKER_02_PANTS.DAT | UNIT | DESCRIPTION
+From the furthest reaches of the deep north an ill wind blows.
+@@ 143 | translate | UNITS/ITEMS/BERSERKER_02_PANTS_ALT_B.DAT | UNIT | DESCRIPTION
+From a more turbulent time ...
+@@ 144 | translate | UNITS/ITEMS/BERSERKER_02_PANTS_ALT_C.DAT | UNIT | DESCRIPTION
+They feel cooler than they really are.
+@@ 145 | translate | UNITS/ITEMS/BERSERKER_02_PANTS_ALT_SET.DAT | UNIT | DESCRIPTION
+The trousers of the Valgang Kings.
+@@ 146 | translate | UNITS/ITEMS/BERSERKER_02_RING.DAT | UNIT | DESCRIPTION
+Ringed in riddles, bound in boons.
+@@ 147 | translate | UNITS/ITEMS/BERSERKER_02_RING_ALT_B.DAT | UNIT | DESCRIPTION
+Carved with runes, and bearing the sign of long-dead royalty.
+@@ 148 | translate | UNITS/ITEMS/BERSERKER_02_RING_ALT_C.DAT | UNIT | DESCRIPTION
+The rune-carved symbol of authority of the Valgang Jarls.
+@@ 149 | translate | UNITS/ITEMS/BERSERKER_02_SHOULDERS.DAT | UNIT | DESCRIPTION
+Let your foes know they're not welcome.
+@@ 150 | translate | UNITS/ITEMS/BERSERKER_02_SHOULDERS_ALT_B.DAT | UNIT | DESCRIPTION
+"Beneath the icy mantle lies death." -- Valgang Proverb
+@@ 151 | translate | UNITS/ITEMS/BERSERKER_02_SHOULDERS_ALT_C.DAT | UNIT | DESCRIPTION
+The ancestral cloak of the Winter-Walkers.
+@@ 152 | translate | UNITS/ITEMS/BERSERKER_03_AMULET.DAT | UNIT | DESCRIPTION
+This is the heart of fury. This is the heart of the storm itself.
+@@ 153 | translate | UNITS/ITEMS/BERSERKER_03_AMULET_ALT_B.DAT | UNIT | DESCRIPTION
+Unearthed by the wind, polished by the rain.
+@@ 154 | translate | UNITS/ITEMS/BERSERKER_03_AMULET_ALT_C.DAT | UNIT | DESCRIPTION
+The distilled essence of the very heart of a thunderstorm.
+@@ 155 | translate | UNITS/ITEMS/BERSERKER_03_BELT.DAT | UNIT | DESCRIPTION
+Unleash the raw fury!
+@@ 156 | translate | UNITS/ITEMS/BERSERKER_03_BELT_ALT_B.DAT | UNIT | DESCRIPTION
+Unleash the fury of the storm raging inside you!
+@@ 157 | translate | UNITS/ITEMS/BERSERKER_03_BELT_ALT_C.DAT | UNIT | DESCRIPTION
+The pinching, itching, and constriction drive you mad.
+@@ 158 | translate | UNITS/ITEMS/BERSERKER_03_BELT_ALT_SET.DAT | UNIT | DESCRIPTION
+Function over form, no matter how much it hurts.
+@@ 159 | translate | UNITS/ITEMS/BERSERKER_03_BOOTS.DAT | UNIT | DESCRIPTION
+What is second best in life?
+@@ 160 | translate | UNITS/ITEMS/BERSERKER_03_BOOTS_ALT_B.DAT | UNIT | DESCRIPTION
+Also known as "Boots of Sliding and Skiing."
+@@ 161 | translate | UNITS/ITEMS/BERSERKER_03_BOOTS_ALT_C.DAT | UNIT | DESCRIPTION
+From the snow-capped peaks of the Haldar Mountains.
+@@ 162 | translate | UNITS/ITEMS/BERSERKER_03_CHEST.DAT | UNIT | DESCRIPTION
+What is best in life?
+@@ 163 | translate | UNITS/ITEMS/BERSERKER_03_CHEST_ALT_B.DAT | UNIT | DESCRIPTION
+The armor of the barbarian kings.
+@@ 164 | translate | UNITS/ITEMS/BERSERKER_03_CHEST_ALT_C.DAT | UNIT | DESCRIPTION
+The axe hasn't been forged that can crack it.
+@@ 165 | translate | UNITS/ITEMS/BERSERKER_03_CHEST_ALT_SET.DAT | UNIT | DESCRIPTION
+Does a heart even beat, beneath that armored breast?
+@@ 166 | translate | UNITS/ITEMS/BERSERKER_03_GLOVES.DAT | UNIT | DESCRIPTION
+You want a fresh one?
+@@ 167 | translate | UNITS/ITEMS/BERSERKER_03_GLOVES_ALT_B.DAT | UNIT | DESCRIPTION
+Two fists are better than one.
+@@ 168 | translate | UNITS/ITEMS/BERSERKER_03_GLOVES_ALT_C.DAT | UNIT | DESCRIPTION
+And if they get back up, beat 'em down again.
+@@ 169 | translate | UNITS/ITEMS/BERSERKER_03_HELMET.DAT | UNIT | DESCRIPTION
+What is third best in life?
+@@ 170 | translate | UNITS/ITEMS/BERSERKER_03_HELMET_ALT_B.DAT | UNIT | DESCRIPTION
+Badgermask dost giveth nary a shite.
+@@ 171 | translate | UNITS/ITEMS/BERSERKER_03_HELMET_ALT_C.DAT | UNIT | DESCRIPTION
+This helm echoes with the wails  of the dying.
+@@ 172 | translate | UNITS/ITEMS/BERSERKER_03_HELMET_ALT_SET.DAT | UNIT | DESCRIPTION
+This is the face of your mercy: cold, blank, and unfeeling.
+@@ 173 | translate | UNITS/ITEMS/BERSERKER_03_PANTS.DAT | UNIT | DESCRIPTION
+These trousers just scream "cool."
+@@ 174 | translate | UNITS/ITEMS/BERSERKER_03_PANTS_ALT_B.DAT | UNIT | DESCRIPTION
+The sole protection worn by the barbarian hero Helmutt.
+@@ 175 | translate | UNITS/ITEMS/BERSERKER_03_PANTS_ALT_C.DAT | UNIT | DESCRIPTION
+These trousers symbolize the unity of the Clan Mulkar.
+@@ 176 | translate | UNITS/ITEMS/BERSERKER_03_PANTS_ALT_SET.DAT | UNIT | DESCRIPTION
+"Cries for mercy fill the air. \nWe set our jaws. We do our job." - battlefield prayer
+@@ 177 | translate | UNITS/ITEMS/BERSERKER_03_RING.DAT | UNIT | DESCRIPTION
+Once you slip it on, you can't hold it in.
+@@ 178 | translate | UNITS/ITEMS/BERSERKER_03_RING_ALT_B.DAT | UNIT | DESCRIPTION
+No mere ring can contain so much wrath!
+@@ 179 | translate | UNITS/ITEMS/BERSERKER_03_RING_ALT_C.DAT | UNIT | DESCRIPTION
+Forged of thunder, charged with lightning.
+@@ 180 | translate | UNITS/ITEMS/BERSERKER_03_SHOULDERS.DAT | UNIT | DESCRIPTION
+Fashioned from the pelt of the legendary Snow-Lion.
+@@ 181 | translate | UNITS/ITEMS/BERSERKER_03_SHOULDERS_ALT_B.DAT | UNIT | DESCRIPTION
+The ancient hero Fhalfrid tore this cloak from the Ice Boar.
+@@ 182 | translate | UNITS/ITEMS/BERSERKER_03_SHOULDERS_ALT_C.DAT | UNIT | DESCRIPTION
+Fashioned from the hide of the Winterfrost Bear of Hulden.
+@@ 183 | translate | UNITS/ITEMS/BERSERKER_03_SHOULDERS_ALT_SET.DAT | UNIT | DESCRIPTION
+No one cries on these shoulders.
+@@ 184 | translate | UNITS/ITEMS/BERSERKER_04_AMULET.DAT | UNIT | DESCRIPTION
+Are you looking at me?
+@@ 185 | translate | UNITS/ITEMS/BERSERKER_04_AMULET_ALT_B.DAT | UNIT | DESCRIPTION
+Don't give me that look.
+@@ 186 | translate | UNITS/ITEMS/BERSERKER_04_AMULET_ALT_C.DAT | UNIT | DESCRIPTION
+Reputed to be the living eye of the Nether-Hag. It never blinks.
+@@ 187 | translate | UNITS/ITEMS/BERSERKER_04_BELT.DAT | UNIT | DESCRIPTION
+An ugly but sturdy belt, flayed from the hide of the Fell Bull.
+@@ 188 | translate | UNITS/ITEMS/BERSERKER_04_BELT_ALT_B.DAT | UNIT | DESCRIPTION
+The edges of this belt look like it was chewed into shape.
+@@ 189 | translate | UNITS/ITEMS/BERSERKER_04_BELT_ALT_C.DAT | UNIT | DESCRIPTION
+The Mucker was a giant who terrorized the eastern Empire.
+@@ 190 | translate | UNITS/ITEMS/BERSERKER_04_BOOTS.DAT | UNIT | DESCRIPTION
+Brutally ugly boots.
+@@ 191 | translate | UNITS/ITEMS/BERSERKER_04_BOOTS_ALT_B.DAT | UNIT | DESCRIPTION
+Only a true savage can walk a mile in the boots of Thargo!
+@@ 192 | translate | UNITS/ITEMS/BERSERKER_04_BOOTS_ALT_C.DAT | UNIT | DESCRIPTION
+It's a lucky thing you had these boots.
+@@ 193 | translate | UNITS/ITEMS/BERSERKER_04_BOOTS_ALT_SET.DAT | UNIT | DESCRIPTION
+Killian would be furious if he knew you were wearing these.
+@@ 194 | translate | UNITS/ITEMS/BERSERKER_04_CHEST.DAT | UNIT | DESCRIPTION
+Only the strongest warrior can bear a burden like Thargo's!
+@@ 195 | translate | UNITS/ITEMS/BERSERKER_04_CHEST_ALT_B.DAT | UNIT | DESCRIPTION
+The armor that drags foes down and grinds them up.
+@@ 196 | translate | UNITS/ITEMS/BERSERKER_04_CHEST_ALT_C.DAT | UNIT | DESCRIPTION
+The mailcoat worn by General Meddek at the Battle of Skyre.
+@@ 197 | translate | UNITS/ITEMS/BERSERKER_04_CHEST_ALT_SET.DAT | UNIT | DESCRIPTION
+The armor of the legendary Wildlord of the Jade Jungle.
+@@ 198 | translate | UNITS/ITEMS/BERSERKER_04_GLOVES.DAT | UNIT | DESCRIPTION
+Once worn by Kylo of the Three Heavens Boxing School.
+@@ 199 | translate | UNITS/ITEMS/BERSERKER_04_GLOVES_ALT_B.DAT | UNIT | DESCRIPTION
+Once worn by Irina of the Three Heavens Boxing School.
+@@ 200 | translate | UNITS/ITEMS/BERSERKER_04_GLOVES_ALT_C.DAT | UNIT | DESCRIPTION
+Once worn by Lus of the Three Heavens Boxing School.
+@@ 201 | translate | UNITS/ITEMS/BERSERKER_04_GLOVES_ALT_SET.DAT | UNIT | DESCRIPTION
+The gauntlets of the legendary Wildlord of the Jade Jungle.
+@@ 202 | translate | UNITS/ITEMS/BERSERKER_04_HELMET.DAT | UNIT | DESCRIPTION
+Worn by the Emperor at the Surrender of the Middlemoors.
+@@ 203 | translate | UNITS/ITEMS/BERSERKER_04_HELMET_ALT_B.DAT | UNIT | DESCRIPTION
+Only a true brute can know what is on Thargo's mind!
+@@ 204 | translate | UNITS/ITEMS/BERSERKER_04_HELMET_ALT_C.DAT | UNIT | DESCRIPTION
+Fashioned in the image of the Dire Wolf of the Middlemoors.
+@@ 205 | translate | UNITS/ITEMS/BERSERKER_04_HELMET_ALT_SET.DAT | UNIT | DESCRIPTION
+The helm of the legendary Wildlord of the Jade Jungle.
+@@ 206 | translate | UNITS/ITEMS/BERSERKER_04_PANTS.DAT | UNIT | DESCRIPTION
+Sing the praises of pants!
+@@ 207 | translate | UNITS/ITEMS/BERSERKER_04_PANTS_ALT_B.DAT | UNIT | DESCRIPTION
+An exaggeratedly large pair of pantaloons.
+@@ 208 | translate | UNITS/ITEMS/BERSERKER_04_PANTS_ALT_C.DAT | UNIT | DESCRIPTION
+Worn by Lord Noah during the War Against the Cuchara.
+@@ 209 | translate | UNITS/ITEMS/BERSERKER_04_RING.DAT | UNIT | DESCRIPTION
+The Ring That Is Strictly Better Than All Other Rings.
+@@ 210 | translate | UNITS/ITEMS/BERSERKER_04_RING_ALT_B.DAT | UNIT | DESCRIPTION
+Behold, the Ring That Was Broken, made whole again.
+@@ 211 | translate | UNITS/ITEMS/BERSERKER_04_RING_ALT_C.DAT | UNIT | DESCRIPTION
+It contains the tiniest splinter of the essence of the universe.
+@@ 212 | translate | UNITS/ITEMS/BERSERKER_04_RING_ALT_SET.DAT | UNIT | DESCRIPTION
+The ring of the legendary Wildlord of the Jade Jungle.
+@@ 213 | translate | UNITS/ITEMS/BERSERKER_04_RING_SET_XTRO.DAT | UNIT | DESCRIPTION
+Drain you of your sanity ... face the thing that should not be.
+@@ 214 | translate | UNITS/ITEMS/BERSERKER_04_SHOULDERS.DAT | UNIT | DESCRIPTION
+First worn by the despicable Chief Nosnra.
+@@ 215 | translate | UNITS/ITEMS/BERSERKER_04_SHOULDERS_ALT_B.DAT | UNIT | DESCRIPTION
+Forged by Grugnur Frostheart, ruler of the northern giants.
+@@ 216 | translate | UNITS/ITEMS/BERSERKER_04_SHOULDERS_ALT_C.DAT | UNIT | DESCRIPTION
+Wrested from the carcass of Dread King Snurre.
+@@ 217 | translate | UNITS/ITEMS/BERSERKER_05_AMULET.DAT | UNIT | DESCRIPTION
+He has more posts than you. This is a statement of fact.
+@@ 218 | translate | UNITS/ITEMS/BERSERKER_05_AMULET_ALT_B.DAT | UNIT | DESCRIPTION
+There is an art to its magic.
+@@ 219 | translate | UNITS/ITEMS/BERSERKER_05_AMULET_ALT_C.DAT | UNIT | DESCRIPTION
+It sees into you, and knows the tempest in your heart.
+@@ 220 | translate | UNITS/ITEMS/BERSERKER_05_AMULET_ALT_SET.DAT | UNIT | DESCRIPTION
+What you really wear.
+@@ 221 | translate | UNITS/ITEMS/BERSERKER_05_BELT.DAT | UNIT | DESCRIPTION
+Make 'em all bleed!
+@@ 222 | translate | UNITS/ITEMS/BERSERKER_05_BELT_ALT_B.DAT | UNIT | DESCRIPTION
+Your enemies never seem quite dead enough.
+@@ 223 | translate | UNITS/ITEMS/BERSERKER_05_BELT_ALT_C.DAT | UNIT | DESCRIPTION
+It fills you to your core with murderous intent.
+@@ 224 | translate | UNITS/ITEMS/BERSERKER_05_BOOTS.DAT | UNIT | DESCRIPTION
+The wearer of these boots is haunted by dreams of violence.
+@@ 225 | translate | UNITS/ITEMS/BERSERKER_05_BOOTS_ALT_B.DAT | UNIT | DESCRIPTION
+These boots reputedly drive the wearer to acts of savagery.
+@@ 226 | translate | UNITS/ITEMS/BERSERKER_05_BOOTS_ALT_C.DAT | UNIT | DESCRIPTION
+A pair of iron boots for grinding opponents into dust.
+@@ 227 | translate | UNITS/ITEMS/BERSERKER_05_CHEST.DAT | UNIT | DESCRIPTION
+Forever stained red with the blood of a thousand enemies.
+@@ 228 | translate | UNITS/ITEMS/BERSERKER_05_CHEST_ALT_B.DAT | UNIT | DESCRIPTION
+Because I can.
+@@ 229 | translate | UNITS/ITEMS/BERSERKER_05_CHEST_ALT_C.DAT | UNIT | DESCRIPTION
+Each bloody red link represents a life taken.
+@@ 230 | translate | UNITS/ITEMS/BERSERKER_05_CHEST_ALT_SET.DAT | UNIT | DESCRIPTION
+What you want to wear.
+@@ 231 | translate | UNITS/ITEMS/BERSERKER_05_CHEST_SET_BLOODBATH.DAT | UNIT | DESCRIPTION
+It may be a bloodbath, but you don't have to make a mess.
+@@ 232 | translate | UNITS/ITEMS/BERSERKER_05_GLOVES.DAT | UNIT | DESCRIPTION
+If you're angry, count to ten … then kill, kill, kill again!
+@@ 233 | translate | UNITS/ITEMS/BERSERKER_05_GLOVES_ALT_B.DAT | UNIT | DESCRIPTION
+Handle with flair.
+@@ 234 | translate | UNITS/ITEMS/BERSERKER_05_GLOVES_ALT_C.DAT | UNIT | DESCRIPTION
+Mother Bloodhand didn't raise any fools.
+@@ 235 | translate | UNITS/ITEMS/BERSERKER_05_GLOVES_ALT_SET.DAT | UNIT | DESCRIPTION
+What your accomplices want you to wear.
+@@ 236 | translate | UNITS/ITEMS/BERSERKER_05_HELMET.DAT | UNIT | DESCRIPTION
+Horns are not standard equipment.
+@@ 237 | translate | UNITS/ITEMS/BERSERKER_05_HELMET_ALT_B.DAT | UNIT | DESCRIPTION
+Tempered in the blood of conquered foes.
+@@ 238 | translate | UNITS/ITEMS/BERSERKER_05_HELMET_ALT_C.DAT | UNIT | DESCRIPTION
+In this helmet, no one can hear you scream.
+@@ 239 | translate | UNITS/ITEMS/BERSERKER_05_HELMET_ALT_SET.DAT | UNIT | DESCRIPTION
+What your mother wants you to wear.
+@@ 240 | translate | UNITS/ITEMS/BERSERKER_05_PANTS.DAT | UNIT | DESCRIPTION
+Permanently stained red from the hip down.
+@@ 241 | translate | UNITS/ITEMS/BERSERKER_05_PANTS_ALT_B.DAT | UNIT | DESCRIPTION
+Soaked in the blood of butchered foes.
+@@ 242 | translate | UNITS/ITEMS/BERSERKER_05_PANTS_ALT_C.DAT | UNIT | DESCRIPTION
+Knee-deep in murder.
+@@ 243 | translate | UNITS/ITEMS/BERSERKER_05_PANTS_ALT_SET.DAT | UNIT | DESCRIPTION
+What society wants you to wear.
+@@ 244 | translate | UNITS/ITEMS/BERSERKER_05_RING.DAT | UNIT | DESCRIPTION
+A millennium ago, the Marauder nearly razed Redhaven.
+@@ 245 | translate | UNITS/ITEMS/BERSERKER_05_RING_ALT_B.DAT | UNIT | DESCRIPTION
+"He that offers betrayal wears a ring of fangs." - proverb
+@@ 246 | translate | UNITS/ITEMS/BERSERKER_05_RING_ALT_C.DAT | UNIT | DESCRIPTION
+What do you give the person who never has enough?
+@@ 247 | translate | UNITS/ITEMS/BERSERKER_05_SET_BLOODBATH.DAT | UNIT | DESCRIPTION
+Think of them as hip-waders for a massacre.
+@@ 248 | translate | UNITS/ITEMS/BERSERKER_05_SHOULDERS.DAT | UNIT | DESCRIPTION
+They saved the Marauder's life at the Massacre of Silverisle.
+@@ 249 | translate | UNITS/ITEMS/BERSERKER_05_SHOULDERS_ALT_B.DAT | UNIT | DESCRIPTION
+A relic of the Massacre of Silverisle.
+@@ 250 | translate | UNITS/ITEMS/BERSERKER_05_SHOULDERS_ALT_C.DAT | UNIT | DESCRIPTION
+A warrior king, transformed by sorcery into a frenzied ape-man.
+@@ 251 | translate | UNITS/ITEMS/BERSERKER_05_SHOULDERS_ALT_SET.DAT | UNIT | DESCRIPTION
+What you see yourself wearing.
+@@ 252 | translate | UNITS/ITEMS/BERSERKER_06_AMULET.DAT | UNIT | DESCRIPTION
+Oh, how it burns …
+@@ 253 | translate | UNITS/ITEMS/BERSERKER_06_AMULET_ALT_B.DAT | UNIT | DESCRIPTION
+It burns within you ...
+@@ 254 | translate | UNITS/ITEMS/BERSERKER_06_AMULET_ALT_C.DAT | UNIT | DESCRIPTION
+It feeds on destruction, and grows stronger …
+@@ 255 | translate | UNITS/ITEMS/BERSERKER_06_AMULET_ALT_SET.DAT | UNIT | DESCRIPTION
+The shape of things to come.
+@@ 256 | translate | UNITS/ITEMS/BERSERKER_06_BELT.DAT | UNIT | DESCRIPTION
+It inspires one to acts of drive and courage.
+@@ 257 | translate | UNITS/ITEMS/BERSERKER_06_BELT_ALT_B.DAT | UNIT | DESCRIPTION
+One spark is all it takes to ignite the fire in your belly.
+@@ 258 | translate | UNITS/ITEMS/BERSERKER_06_BELT_ALT_C.DAT | UNIT | DESCRIPTION
+Handed down from one of the founders of the Empire.
+@@ 259 | translate | UNITS/ITEMS/BERSERKER_06_BELT_ALT_SET.DAT | UNIT | DESCRIPTION
+The Marauder was preceded in conquest by the Harbinger.
+@@ 260 | translate | UNITS/ITEMS/BERSERKER_06_BOOTS.DAT | UNIT | DESCRIPTION
+The boots of the pyromancer who founded Redhaven.
+@@ 261 | translate | UNITS/ITEMS/BERSERKER_06_BOOTS_ALT_B.DAT | UNIT | DESCRIPTION
+A relic from a half-forgotten city-state.
+@@ 262 | translate | UNITS/ITEMS/BERSERKER_06_BOOTS_ALT_C.DAT | UNIT | DESCRIPTION
+All that remains of a long-dead tyrant.
+@@ 263 | translate | UNITS/ITEMS/BERSERKER_06_BOOTS_ALT_SET.DAT | UNIT | DESCRIPTION
+The shoes of the fiend who marched on Redhaven.
+@@ 264 | translate | UNITS/ITEMS/BERSERKER_06_CHEST.DAT | UNIT | DESCRIPTION
+The personal armor of the Overlord himself.
+@@ 265 | translate | UNITS/ITEMS/BERSERKER_06_CHEST_ALT_B.DAT | UNIT | DESCRIPTION
+Easily able to turn aside an arrow or a blow from a scythe.
+@@ 266 | translate | UNITS/ITEMS/BERSERKER_06_CHEST_ALT_C.DAT | UNIT | DESCRIPTION
+The Fire-Eaters of the Ashenfeld created this armor.
+@@ 267 | translate | UNITS/ITEMS/BERSERKER_06_CHEST_ALT_SET.DAT | UNIT | DESCRIPTION
+The ancient Harbinger always wore this mailshirt into battle.
+@@ 268 | translate | UNITS/ITEMS/BERSERKER_06_GLOVES.DAT | UNIT | DESCRIPTION
+The Fire-Eaters of the Ashenfeld wore these in their rituals.
+@@ 269 | translate | UNITS/ITEMS/BERSERKER_06_GLOVES_ALT_B.DAT | UNIT | DESCRIPTION
+One touch and mortal flesh sizzles and smokes.
+@@ 270 | translate | UNITS/ITEMS/BERSERKER_06_GLOVES_ALT_C.DAT | UNIT | DESCRIPTION
+The Cindermen were the kings of the Ashenfeld.
+@@ 271 | translate | UNITS/ITEMS/BERSERKER_06_GLOVES_ALT_SET.DAT | UNIT | DESCRIPTION
+The ancient Harbinger's very own iron fists.
+@@ 272 | translate | UNITS/ITEMS/BERSERKER_06_HELMET.DAT | UNIT | DESCRIPTION
+A mighty helmet, made of waste from the Imperial Foundries.
+@@ 273 | translate | UNITS/ITEMS/BERSERKER_06_HELMET_ALT_B.DAT | UNIT | DESCRIPTION
+The Cindermen ruled Ashenfeld after the Year of the Black Sky.
+@@ 274 | translate | UNITS/ITEMS/BERSERKER_06_HELMET_ALT_C.DAT | UNIT | DESCRIPTION
+The royal symbol of the Cindermen of the Ashenfeld.
+@@ 275 | translate | UNITS/ITEMS/BERSERKER_06_HELMET_ALT_SET.DAT | UNIT | DESCRIPTION
+Behold the helm that struck terror into all of Redhaven!
+@@ 276 | translate | UNITS/ITEMS/BERSERKER_06_PANTS.DAT | UNIT | DESCRIPTION
+Made from industrial refuse from the Imperial Foundries.
+@@ 277 | translate | UNITS/ITEMS/BERSERKER_06_PANTS_ALT_B.DAT | UNIT | DESCRIPTION
+Solidified pyroclastic flow, bound together by magic.
+@@ 278 | translate | UNITS/ITEMS/BERSERKER_06_PANTS_ALT_C.DAT | UNIT | DESCRIPTION
+The Pyrophage was the prophet of the Ashenfeld's Fire-Eaters.
+@@ 279 | translate | UNITS/ITEMS/BERSERKER_06_PANTS_ALT_SET.DAT | UNIT | DESCRIPTION
+The Harbinger was wearing these the day he was defeated.
+@@ 280 | translate | UNITS/ITEMS/BERSERKER_06_RING.DAT | UNIT | DESCRIPTION
+A perfect ring that seems to glow with cool, blue light.
+@@ 281 | translate | UNITS/ITEMS/BERSERKER_06_RING_ALT_B.DAT | UNIT | DESCRIPTION
+A perfect ring that glows with a holy aura.
+@@ 282 | translate | UNITS/ITEMS/BERSERKER_06_RING_ALT_C.DAT | UNIT | DESCRIPTION
+A perfect ring which glows with a burning, golden light.
+@@ 283 | translate | UNITS/ITEMS/BERSERKER_06_RING_ALT_SET.DAT | UNIT | DESCRIPTION
+The Harbinger's ring is the most famous of his relics.
+@@ 284 | translate | UNITS/ITEMS/BERSERKER_06_SHOULDERS.DAT | UNIT | DESCRIPTION
+The Pyrophage created the Seven Laws of the Ashenfeld.
+@@ 285 | translate | UNITS/ITEMS/BERSERKER_06_SHOULDERS_ALT_B.DAT | UNIT | DESCRIPTION
+Created in the Year of the Black Sky.
+@@ 286 | translate | UNITS/ITEMS/BERSERKER_06_SHOULDERS_ALT_C.DAT | UNIT | DESCRIPTION
+Worn by the Cindermen on ceremonial occasions.
+@@ 287 | translate | UNITS/ITEMS/BERSERKER_06_SHOULDERS_ALT_SET.DAT | UNIT | DESCRIPTION
+We all need a shoulder to die on.
+@@ 288 | translate | UNITS/ITEMS/BONE_01_AMULET_E.DAT | UNIT | DESCRIPTION
+"A shadow shall fall over the universe." - The Book of Hurlant
+@@ 289 | translate | UNITS/ITEMS/BONE_01_AMULET_E_ALT_B.DAT | UNIT | DESCRIPTION
+I spy, with my Emerald Eye ...
+@@ 290 | translate | UNITS/ITEMS/BONE_01_AMULET_E_ALT_C.DAT | UNIT | DESCRIPTION
+All that remains of the Watchtower of the Jade Kingdoms.
+@@ 291 | translate | UNITS/ITEMS/BONE_01_AMULET_E_ALT_SET.DAT | UNIT | DESCRIPTION
+After wearing it for a while, you'll feel dead inside.
+@@ 292 | translate | UNITS/ITEMS/BONE_01_AMULET_F.DAT | UNIT | DESCRIPTION
+A tiny emerald with a flaw that resembles a pulsing heart.
+@@ 293 | translate | UNITS/ITEMS/BONE_01_AMULET_F_ALT_B.DAT | UNIT | DESCRIPTION
+The First Emerald, created by the Guardian of Stone.
+@@ 294 | translate | UNITS/ITEMS/BONE_01_AMULET_F_ALT_C.DAT | UNIT | DESCRIPTION
+It's all you ever wanted! Until something better comes along.
+@@ 295 | translate | UNITS/ITEMS/BONE_01_AMULET_I.DAT | UNIT | DESCRIPTION
+The last remaining fragment of a fallen star.
+@@ 296 | translate | UNITS/ITEMS/BONE_01_AMULET_I_ALT_B.DAT | UNIT | DESCRIPTION
+The Shardifact leaves a stain on everything it touches.
+@@ 297 | translate | UNITS/ITEMS/BONE_01_AMULET_I_ALT_C.DAT | UNIT | DESCRIPTION
+It it theorized that this item is a "fixed point" in reality.
+@@ 298 | translate | UNITS/ITEMS/BONE_01_AMULET_P.DAT | UNIT | DESCRIPTION
+The Gaze is said to be the eye of the Guardian of the Wild.
+@@ 299 | translate | UNITS/ITEMS/BONE_01_AMULET_P_ALT_B.DAT | UNIT | DESCRIPTION
+The Glimmergreen contains the essence of nature.
+@@ 300 | translate | UNITS/ITEMS/BONE_01_AMULET_P_ALT_C.DAT | UNIT | DESCRIPTION
+So long as it endures, you are never truly defeated.
+@@ 301 | translate | UNITS/ITEMS/BONE_01_BELT.DAT | UNIT | DESCRIPTION
+You have its full support.
+@@ 302 | translate | UNITS/ITEMS/BONE_01_BELT_ALT_B.DAT | UNIT | DESCRIPTION
+The band that bound the Bendenbrack Witch.
+@@ 303 | translate | UNITS/ITEMS/BONE_01_BELT_ALT_C.DAT | UNIT | DESCRIPTION
+Behold the belt of the King of Bones!
+@@ 304 | translate | UNITS/ITEMS/BONE_01_BELT_ALT_SET.DAT | UNIT | DESCRIPTION
+It's practically falling off of you.
+@@ 305 | translate | UNITS/ITEMS/BONE_01_BOOTS.DAT | UNIT | DESCRIPTION
+Walk in the footsteps of the Necromancer.
+@@ 306 | translate | UNITS/ITEMS/BONE_01_BOOTS_ALT_B.DAT | UNIT | DESCRIPTION
+Crafted by the most powerful necromancer alive … and dead.
+@@ 307 | translate | UNITS/ITEMS/BONE_01_BOOTS_ALT_C.DAT | UNIT | DESCRIPTION
+Kneel before the Necromancer!
+@@ 308 | translate | UNITS/ITEMS/BONE_01_BOOTS_ALT_SET.DAT | UNIT | DESCRIPTION
+The lack of sensation in your feet is perfectly normal.
+@@ 309 | translate | UNITS/ITEMS/BONE_01_CHEST.DAT | UNIT | DESCRIPTION
+Severax the Necromancer opened the Gate of the Dead.
+@@ 310 | translate | UNITS/ITEMS/BONE_01_CHEST_ALT_B.DAT | UNIT | DESCRIPTION
+A bony cage for your ribs.
+@@ 311 | translate | UNITS/ITEMS/BONE_01_CHEST_ALT_C.DAT | UNIT | DESCRIPTION
+Wrap yourself in its cold, hard embrace.
+@@ 312 | translate | UNITS/ITEMS/BONE_01_CHEST_ALT_SET.DAT | UNIT | DESCRIPTION
+It fits you like a second skin.
+@@ 313 | translate | UNITS/ITEMS/BONE_01_GLOVES.DAT | UNIT | DESCRIPTION
+They rattle like fingerbones.
+@@ 314 | translate | UNITS/ITEMS/BONE_01_GLOVES_ALT_B.DAT | UNIT | DESCRIPTION
+Wear them, and you fall into the Necromancer's hands.
+@@ 315 | translate | UNITS/ITEMS/BONE_01_GLOVES_ALT_C.DAT | UNIT | DESCRIPTION
+These bony bracers once bound the Necromancer.
+@@ 316 | translate | UNITS/ITEMS/BONE_01_GLOVES_ALT_SET.DAT | UNIT | DESCRIPTION
+You're in good hands.
+@@ 317 | translate | UNITS/ITEMS/BONE_01_HELMET.DAT | UNIT | DESCRIPTION
+The wearer experiences visions of the deaths of others.
+@@ 318 | translate | UNITS/ITEMS/BONE_01_HELMET_ALT_B.DAT | UNIT | DESCRIPTION
+A skullcap, appropriately enough.
+@@ 319 | translate | UNITS/ITEMS/BONE_01_HELMET_ALT_C.DAT | UNIT | DESCRIPTION
+The first Necromancer's battle helm.
+@@ 320 | translate | UNITS/ITEMS/BONE_01_HELMET_ALT_SET.DAT | UNIT | DESCRIPTION
+It lets you get into someone else's head.
+@@ 321 | translate | UNITS/ITEMS/BONE_01_HELMET_SET_THEGRAY.DAT | UNIT | DESCRIPTION
+The mask of the legendary bandit, the Night Watchman.
+@@ 322 | translate | UNITS/ITEMS/BONE_01_PANTS.DAT | UNIT | DESCRIPTION
+Trousers flayed from enemies of the Necromancer.
+@@ 323 | translate | UNITS/ITEMS/BONE_01_PANTS_ALT_B.DAT | UNIT | DESCRIPTION
+There is nothing more skintight than skin itself.
+@@ 324 | translate | UNITS/ITEMS/BONE_01_PANTS_ALT_C.DAT | UNIT | DESCRIPTION
+Worn by the Necromancer as he strode into Red Haven.
+@@ 325 | translate | UNITS/ITEMS/BONE_01_PANTS_ALT_SET.DAT | UNIT | DESCRIPTION
+They give new meaning to "skintight."
+@@ 326 | translate | UNITS/ITEMS/BONE_01_RING_E.DAT | UNIT | DESCRIPTION
+Whosoever would wear this ring must first take its oath.
+@@ 327 | translate | UNITS/ITEMS/BONE_01_RING_E_ALT_B.DAT | UNIT | DESCRIPTION
+The right hand of magic.
+@@ 328 | translate | UNITS/ITEMS/BONE_01_RING_E_ALT_C.DAT | UNIT | DESCRIPTION
+The left hand of magic.
+@@ 329 | translate | UNITS/ITEMS/BONE_01_RING_E_ALT_SET.DAT | UNIT | DESCRIPTION
+It always feels just a little loose.
+@@ 330 | translate | UNITS/ITEMS/BONE_01_RING_F.DAT | UNIT | DESCRIPTION
+It sings a song of smoke, and destruction, and ashes.
+@@ 331 | translate | UNITS/ITEMS/BONE_01_RING_F_ALT_B.DAT | UNIT | DESCRIPTION
+It howls with hunger for the flesh of new victims.
+@@ 332 | translate | UNITS/ITEMS/BONE_01_RING_F_ALT_C.DAT | UNIT | DESCRIPTION
+It mocks your pain.
+@@ 333 | translate | UNITS/ITEMS/BONE_01_RING_I.DAT | UNIT | DESCRIPTION
+A tiny fragment of Castle Brokenstone.
+@@ 334 | translate | UNITS/ITEMS/BONE_01_RING_I_ALT_B.DAT | UNIT | DESCRIPTION
+A sliver from the Castle Brokenstone.
+@@ 335 | translate | UNITS/ITEMS/BONE_01_RING_I_ALT_C.DAT | UNIT | DESCRIPTION
+The largest remaining portion of Castle Brokenstone.
+@@ 336 | translate | UNITS/ITEMS/BONE_01_RING_P.DAT | UNIT | DESCRIPTION
+The watchful eye of the Guardian of the Wild.
+@@ 337 | translate | UNITS/ITEMS/BONE_01_RING_P_ALT_B.DAT | UNIT | DESCRIPTION
+The glittering green eye of nature itself.
+@@ 338 | translate | UNITS/ITEMS/BONE_01_RING_P_ALT_C.DAT | UNIT | DESCRIPTION
+It shines with inner fire.
+@@ 339 | translate | UNITS/ITEMS/BONE_01_SHOULDERS.DAT | UNIT | DESCRIPTION
+Carved from the bones of those who opposed him.
+@@ 340 | translate | UNITS/ITEMS/BONE_01_SHOULDERS_ALT_B.DAT | UNIT | DESCRIPTION
+The head bone is connected to the neck bone.
+@@ 341 | translate | UNITS/ITEMS/BONE_01_SHOULDERS_ALT_C.DAT | UNIT | DESCRIPTION
+Severax the Necromancer wore these into battle.
+@@ 342 | translate | UNITS/ITEMS/BONE_01_SHOULDERS_ALT_SET.DAT | UNIT | DESCRIPTION
+They just hang off of you.
+@@ 343 | translate | UNITS/ITEMS/BOWS/BOW_U01.DAT | UNIT | DESCRIPTION
+Death comes on swift wings.
+@@ 344 | translate | UNITS/ITEMS/BOWS/BOW_U01B.DAT | UNIT | DESCRIPTION
+Every kill is its own special thrill ...
+@@ 345 | translate | UNITS/ITEMS/BOWS/BOW_U01C.DAT | UNIT | DESCRIPTION
+Pierces flesh, bone and sinew.
+@@ 346 | translate | UNITS/ITEMS/BOWS/BOW_U02.DAT | UNIT | DESCRIPTION
+Most of the time, it ends with the hero's death.
+@@ 347 | translate | UNITS/ITEMS/BOWS/BOW_U02B.DAT | UNIT | DESCRIPTION
+You're out of here!
+@@ 348 | translate | UNITS/ITEMS/BOWS/BOW_U02C.DAT | UNIT | DESCRIPTION
+Swift and quiet as a fleeting shadow.
+@@ 349 | translate | UNITS/ITEMS/BOWS/BOW_U03.DAT | UNIT | DESCRIPTION
+It's the only word it knows ...
+@@ 350 | translate | UNITS/ITEMS/BOWS/BOW_U03B.DAT | UNIT | DESCRIPTION
+The bow of the Monkey-in-Jade, hero of the Provinces.
+@@ 351 | translate | UNITS/ITEMS/BOWS/BOW_U03C.DAT | UNIT | DESCRIPTION
+An enchanted bow, from the Nine-Kings Provinces ...
+@@ 352 | translate | UNITS/ITEMS/BOWS/BOW_U04.DAT | UNIT | DESCRIPTION
+Behold the bow that slew the Hound of the Middlemoors.
+@@ 353 | translate | UNITS/ITEMS/BOWS/BOW_U04B.DAT | UNIT | DESCRIPTION
+When the Hunting God laughs ... run!
+@@ 354 | translate | UNITS/ITEMS/BOWS/BOW_U04C.DAT | UNIT | DESCRIPTION
+It gets the point across.
+@@ 355 | translate | UNITS/ITEMS/BOWS/BOW_U05.DAT | UNIT | DESCRIPTION
+Let them know a storm is coming.
+@@ 356 | translate | UNITS/ITEMS/BOWS/BOW_U05B.DAT | UNIT | DESCRIPTION
+Let your arrows fall like rain ...
+@@ 357 | translate | UNITS/ITEMS/BOWS/BOW_U05C.DAT | UNIT | DESCRIPTION
+The bow that split the sky asunder ...
+@@ 358 | translate | UNITS/ITEMS/BOWS/BOW_U05D.DAT | UNIT | DESCRIPTION
+An elegant weapon, for an elegant kill.
+@@ 359 | translate | UNITS/ITEMS/BOWS/BOW_U06.DAT | UNIT | DESCRIPTION
+The greatest heroes of legend always wielded a great bow.
+@@ 360 | translate | UNITS/ITEMS/BOWS/BOW_U06B.DAT | UNIT | DESCRIPTION
+Put the brute down!
+@@ 361 | translate | UNITS/ITEMS/BOWS/BOW_U06C.DAT | UNIT | DESCRIPTION
+It even kills the ones that are already dead.
+@@ 362 | translate | UNITS/ITEMS/BOWS/BOW_U07.DAT | UNIT | DESCRIPTION
+Keep shooting until the screaming stops.
+@@ 363 | translate | UNITS/ITEMS/BOWS/BOW_U07B.DAT | UNIT | DESCRIPTION
+Anyone can hit an enemy in the body ...
+@@ 364 | translate | UNITS/ITEMS/BOWS/BOW_U07C.DAT | UNIT | DESCRIPTION
+Just a little bite, but right out of the center.
+@@ 365 | translate | UNITS/ITEMS/BOWS/BOW_U07_SET_CORBUCCI.DAT | UNIT | DESCRIPTION
+He was born in Red Haven, and he died in Red Haven.
+@@ 366 | translate | UNITS/ITEMS/BOWS/LEGENDARY_BOW01.DAT | UNIT | DESCRIPTION
+Legendary Bow Collection\nNumber One of Four
+@@ 367 | translate | UNITS/ITEMS/BOWS/LEGENDARY_BOW02.DAT | UNIT | DESCRIPTION
+Legendary Bow Collection\nNumber Two of Four
+@@ 368 | translate | UNITS/ITEMS/BOWS/LEGENDARY_BOW03.DAT | UNIT | DESCRIPTION
+Legendary Bow Collection\nNumber Three of Four
+@@ 369 | translate | UNITS/ITEMS/BOWS/LEGENDARY_BOW04.DAT | UNIT | DESCRIPTION
+Legendary Bow Collection\nNumber Four of Four
+@@ 370 | translate | UNITS/ITEMS/CANNON/CANNON_U01.DAT | UNIT | DESCRIPTION
+Its bark is worse than its bite.
+@@ 371 | translate | UNITS/ITEMS/CANNON/CANNON_U01B.DAT | UNIT | DESCRIPTION
+When you're hunting bears, be sure to bring your Mighty Mastiff.
+@@ 372 | translate | UNITS/ITEMS/CANNON/CANNON_U01C.DAT | UNIT | DESCRIPTION
+When the Big Dog barks, you should listen.
+@@ 373 | translate | UNITS/ITEMS/CANNON/CANNON_U02.DAT | UNIT | DESCRIPTION
+Give 'em something to talk about.
+@@ 374 | translate | UNITS/ITEMS/CANNON/CANNON_U02B.DAT | UNIT | DESCRIPTION
+Actions always speak louder than words.
+@@ 375 | translate | UNITS/ITEMS/CANNON/CANNON_U02C.DAT | UNIT | DESCRIPTION
+This ought to stir things up.
+@@ 376 | translate | UNITS/ITEMS/CANNON/CANNON_U03.DAT | UNIT | DESCRIPTION
+BOOM! Headshot!
+@@ 377 | translate | UNITS/ITEMS/CANNON/CANNON_U03B.DAT | UNIT | DESCRIPTION
+This should get their attention.
+@@ 378 | translate | UNITS/ITEMS/CANNON/CANNON_U03C.DAT | UNIT | DESCRIPTION
+Because there's no such thing as "too loud."
+@@ 379 | translate | UNITS/ITEMS/CANNON/CANNON_U04.DAT | UNIT | DESCRIPTION
+Open wide and say "Aaaaaaaah!"
+@@ 380 | translate | UNITS/ITEMS/CANNON/CANNON_U04B.DAT | UNIT | DESCRIPTION
+This'll shut 'em up!
+@@ 381 | translate | UNITS/ITEMS/CANNON/CANNON_U04C.DAT | UNIT | DESCRIPTION
+Refitted from the cannon that sunk the pirate ship Blackwave.
+@@ 382 | translate | UNITS/ITEMS/CANNON/CANNON_U05.DAT | UNIT | DESCRIPTION
+For a museum piece, it still packs a punch.
+@@ 383 | translate | UNITS/ITEMS/CANNON/CANNON_U05B.DAT | UNIT | DESCRIPTION
+Wield the gun that tamed the Underground Jungle.
+@@ 384 | translate | UNITS/ITEMS/CANNON/CANNON_U05C.DAT | UNIT | DESCRIPTION
+Show no mercy.
+@@ 385 | translate | UNITS/ITEMS/CANNON/CANNON_U06.DAT | UNIT | DESCRIPTION
+In the land of unarmed men, a man with a cannon is king.
+@@ 386 | translate | UNITS/ITEMS/CANNON/CANNON_U06B.DAT | UNIT | DESCRIPTION
+"Give me just one, and I'll build an empire." - the first Emperor
+@@ 387 | translate | UNITS/ITEMS/CANNON/CANNON_U06C.DAT | UNIT | DESCRIPTION
+Knowledge is power. Money is power. But power is also power.
+@@ 388 | translate | UNITS/ITEMS/CANNON/CANNON_U07.DAT | UNIT | DESCRIPTION
+It ate its way across the Empire, one battlefield at a time.
+@@ 389 | translate | UNITS/ITEMS/CANNON/CANNON_U07B.DAT | UNIT | DESCRIPTION
+"When King Orso saw this cannon, he opened his gates and surrendered at once." - History of Empire
+@@ 390 | translate | UNITS/ITEMS/CANNON/CANNON_U07C.DAT | UNIT | DESCRIPTION
+Everyone knows a machine cannot kill ... except the machine!
+@@ 391 | translate | UNITS/ITEMS/CANNON/LEGENDARY_CANNON01.DAT | UNIT | DESCRIPTION
+Legendary Cannon Collection\nNumber One of Three
+@@ 392 | translate | UNITS/ITEMS/CANNON/LEGENDARY_CANNON02.DAT | UNIT | DESCRIPTION
+Legendary Cannon Collection\nNumber Two of Three
+@@ 393 | translate | UNITS/ITEMS/CANNON/LEGENDARY_CANNON03.DAT | UNIT | DESCRIPTION
+Legendary Cannon Collection\nNumber Three of Three
+@@ 394 | translate | UNITS/ITEMS/CASTER_01_BOOTS.DAT | UNIT | DESCRIPTION
+Worn on thousand-league marches, and thousand-day wars.
+@@ 395 | translate | UNITS/ITEMS/CASTER_01_BOOTS_ALT_B.DAT | UNIT | DESCRIPTION
+The Ebon Magister's slippers represent circumspection.
+@@ 396 | translate | UNITS/ITEMS/CASTER_01_BOOTS_ALT_C.DAT | UNIT | DESCRIPTION
+The shoes worn by prisoners on their way to execution.
+@@ 397 | translate | UNITS/ITEMS/CASTER_01_CHEST.DAT | UNIT | DESCRIPTION
+A warrior's armor … sturdy, functional, and well-used.
+@@ 398 | translate | UNITS/ITEMS/CASTER_01_CHEST_ALT_B.DAT | UNIT | DESCRIPTION
+Worn by the Lord Commander of the Penal Battalion.
+@@ 399 | translate | UNITS/ITEMS/CASTER_01_CHEST_ALT_C.DAT | UNIT | DESCRIPTION
+The Ebon Magister is the judicial enforcer of the Arbiters.
+@@ 400 | translate | UNITS/ITEMS/CASTER_01_GLOVES.DAT | UNIT | DESCRIPTION
+The Ebon Magister's gloves represent even-handed decisions.
+@@ 401 | translate | UNITS/ITEMS/CASTER_01_GLOVES_ALT_B.DAT | UNIT | DESCRIPTION
+Watch-Captain Karz always was heavy-handed …
+@@ 402 | translate | UNITS/ITEMS/CASTER_01_GLOVES_ALT_C.DAT | UNIT | DESCRIPTION
+One can still see the broken links where the chain was cut.
+@@ 403 | translate | UNITS/ITEMS/CASTER_01_PANTS.DAT | UNIT | DESCRIPTION
+The Tribune of Red Haven wielded vast political power.
+@@ 404 | translate | UNITS/ITEMS/CASTER_01_PANTS_ALT_B.DAT | UNIT | DESCRIPTION
+The Ebon Magister's leggings represent legal purity.
+@@ 405 | translate | UNITS/ITEMS/CASTER_01_PANTS_ALT_C.DAT | UNIT | DESCRIPTION
+Made of leather sturdy enough to stop an arrow.
+@@ 406 | translate | UNITS/ITEMS/CASTER_01_SHOULDERS.DAT | UNIT | DESCRIPTION
+The Tribune of Red Haven wore these in court.
+@@ 407 | translate | UNITS/ITEMS/CASTER_01_SHOULDERS_ALT_B.DAT | UNIT | DESCRIPTION
+They represent the burden placed upon the Ebon Magister.
+@@ 408 | translate | UNITS/ITEMS/CASTER_01_SHOULDERS_ALT_C.DAT | UNIT | DESCRIPTION
+Who is brave enough to take up the mantle of Karz?
+@@ 409 | translate | UNITS/ITEMS/CASTER_02_AMULET.DAT | UNIT | DESCRIPTION
+The medallion of the notorious Rooster-Magus.
+@@ 410 | translate | UNITS/ITEMS/CASTER_02_AMULET_ALT_B.DAT | UNIT | DESCRIPTION
+Worn by the judge who signed the Royal Tyrant's death order.
+@@ 411 | translate | UNITS/ITEMS/CASTER_02_AMULET_ALT_C.DAT | UNIT | DESCRIPTION
+The lady's amulet once bore a powerful family curse.
+@@ 412 | translate | UNITS/ITEMS/CASTER_02_BELT.DAT | UNIT | DESCRIPTION
+The belt of the Mage of the North.
+@@ 413 | translate | UNITS/ITEMS/CASTER_02_BELT_ALT_B.DAT | UNIT | DESCRIPTION
+Some called her mad, but she salted those zombies!
+@@ 414 | translate | UNITS/ITEMS/CASTER_02_BELT_ALT_C.DAT | UNIT | DESCRIPTION
+MacAlister rode down from the north to defend Skyre.
+@@ 415 | translate | UNITS/ITEMS/CASTER_02_BOOTS.DAT | UNIT | DESCRIPTION
+Boots of purest, deepest darkness.
+@@ 416 | translate | UNITS/ITEMS/CASTER_02_BOOTS_ALT_B.DAT | UNIT | DESCRIPTION
+Sandals steeped in old magic and spells cast by moonlight.
+@@ 417 | translate | UNITS/ITEMS/CASTER_02_BOOTS_ALT_C.DAT | UNIT | DESCRIPTION
+Those who came after merely followed in his footsteps.
+@@ 418 | translate | UNITS/ITEMS/CASTER_02_BOOTS_ALT_SET.DAT | UNIT | DESCRIPTION
+The Ember Cabal stood against the Royal Tyrant.
+@@ 419 | translate | UNITS/ITEMS/CASTER_02_CHEST.DAT | UNIT | DESCRIPTION
+"Lead to gold; gold to Ember; Ember to magic; magic to power."
+@@ 420 | translate | UNITS/ITEMS/CASTER_02_CHEST_ALT_B.DAT | UNIT | DESCRIPTION
+Wrap yourself in darkness …
+@@ 421 | translate | UNITS/ITEMS/CASTER_02_CHEST_ALT_C.DAT | UNIT | DESCRIPTION
+Wrap yourself in magic.
+@@ 422 | translate | UNITS/ITEMS/CASTER_02_CHEST_ALT_SET.DAT | UNIT | DESCRIPTION
+The last surviving Ember Cabalist left behind his armor.
+@@ 423 | translate | UNITS/ITEMS/CASTER_02_CHEST_SET_WINTERSREACH.DAT | UNIT | DESCRIPTION
+The armor of office of the Cryomancer Guildmaster.
+@@ 424 | translate | UNITS/ITEMS/CASTER_02_GLOVES.DAT | UNIT | DESCRIPTION
+The founder of the Imperial Spellworks.  His magic is legendary.
+@@ 425 | translate | UNITS/ITEMS/CASTER_02_GLOVES_ALT_B.DAT | UNIT | DESCRIPTION
+Up to your elbows in darkness and sorcery.
+@@ 426 | translate | UNITS/ITEMS/CASTER_02_GLOVES_ALT_C.DAT | UNIT | DESCRIPTION
+Arm-guards to ward off hexes and curses … as well as blades.
+@@ 427 | translate | UNITS/ITEMS/CASTER_02_GLOVES_ALT_SET.DAT | UNIT | DESCRIPTION
+Feel the power of Ember flowing through your hands.
+@@ 428 | translate | UNITS/ITEMS/CASTER_02_GLOVES_SET_WINTERSREACH.DAT | UNIT | DESCRIPTION
+Master the icy wave.
+@@ 429 | translate | UNITS/ITEMS/CASTER_02_HELMET.DAT | UNIT | DESCRIPTION
+A helmet to match the darkness in your thoughts …
+@@ 430 | translate | UNITS/ITEMS/CASTER_02_HELMET_ALT_B.DAT | UNIT | DESCRIPTION
+What has been forgotten can always be relearned.
+@@ 431 | translate | UNITS/ITEMS/CASTER_02_HELMET_ALT_C.DAT | UNIT | DESCRIPTION
+The skullcap of Opal the Arch-Conjurer, summoner of monsters.
+@@ 432 | translate | UNITS/ITEMS/CASTER_02_PANTS.DAT | UNIT | DESCRIPTION
+They bring new meaning to "chaps."
+@@ 433 | translate | UNITS/ITEMS/CASTER_02_PANTS_ALT_B.DAT | UNIT | DESCRIPTION
+Step into darkness …
+@@ 434 | translate | UNITS/ITEMS/CASTER_02_PANTS_ALT_C.DAT | UNIT | DESCRIPTION
+Where the magic happens.
+@@ 435 | translate | UNITS/ITEMS/CASTER_02_PANTS_ALT_SET.DAT | UNIT | DESCRIPTION
+The Ember Cabal vanished after deposing the Royal Tyrant.
+@@ 436 | translate | UNITS/ITEMS/CASTER_02_RING.DAT | UNIT | DESCRIPTION
+The ring symbolized her authority over the Five Magi.
+@@ 437 | translate | UNITS/ITEMS/CASTER_02_RING_ALT_B.DAT | UNIT | DESCRIPTION
+Ring of the most headstrong of the Five Magi.
+@@ 438 | translate | UNITS/ITEMS/CASTER_02_RING_ALT_C.DAT | UNIT | DESCRIPTION
+The "Mage in Glass" was an accomplished artificer.
+@@ 439 | translate | UNITS/ITEMS/CASTER_02_SHOULDERS.DAT | UNIT | DESCRIPTION
+Darkness ever rests on your shoulders, whispering its secrets …
+@@ 440 | translate | UNITS/ITEMS/CASTER_02_SHOULDERS_ALT_B.DAT | UNIT | DESCRIPTION
+Knowing the future is a skill; making it seem bright is an art.
+@@ 441 | translate | UNITS/ITEMS/CASTER_02_SHOULDERS_ALT_C.DAT | UNIT | DESCRIPTION
+An artifact of the Archmage Vance, who some say invented magic.
+@@ 442 | translate | UNITS/ITEMS/CASTER_03_AMULET.DAT | UNIT | DESCRIPTION
+Face the thing that should not be.
+@@ 443 | translate | UNITS/ITEMS/CASTER_03_AMULET_ALT_B.DAT | UNIT | DESCRIPTION
+Dark deception kills the light.
+@@ 444 | translate | UNITS/ITEMS/CASTER_03_AMULET_ALT_C.DAT | UNIT | DESCRIPTION
+With strange aeons, even death may die.
+@@ 445 | translate | UNITS/ITEMS/CASTER_03_AMULET_SET_SHOCKSHARDS.DAT | UNIT | DESCRIPTION
+It is but a small piece of a great, magical whole.
+@@ 446 | translate | UNITS/ITEMS/CASTER_03_BELT.DAT | UNIT | DESCRIPTION
+The Red Hook Cult worshipped forces older than time.
+@@ 447 | translate | UNITS/ITEMS/CASTER_03_BELT_ALT_B.DAT | UNIT | DESCRIPTION
+The survivors of the Red Hook formed the Starry Wisdom.
+@@ 448 | translate | UNITS/ITEMS/CASTER_03_BELT_ALT_C.DAT | UNIT | DESCRIPTION
+It has the power to transport you to a place without pain.
+@@ 449 | translate | UNITS/ITEMS/CASTER_03_BELT_ALT_SET.DAT | UNIT | DESCRIPTION
+The Spellweavers conduct magical research for the Empire.
+@@ 450 | translate | UNITS/ITEMS/CASTER_03_BELT_SET_THEGRAY.DAT | UNIT | DESCRIPTION
+The White Buckle is the emblem of the Last Forester.
+@@ 451 | translate | UNITS/ITEMS/CASTER_03_BOOTS.DAT | UNIT | DESCRIPTION
+Created by the ancient Arbiters for the Stardust Queen.
+@@ 452 | translate | UNITS/ITEMS/CASTER_03_BOOTS_ALT_B.DAT | UNIT | DESCRIPTION
+Footwear inscribed all over in an incomprehensible language.
+@@ 453 | translate | UNITS/ITEMS/CASTER_03_BOOTS_ALT_C.DAT | UNIT | DESCRIPTION
+The wearer's footfalls are as light as a feather.
+@@ 454 | translate | UNITS/ITEMS/CASTER_03_BOOTS_ALT_D.DAT | UNIT | DESCRIPTION
+These boots will put a spring in your steps during your walkabouts and keep you bouncing back onto your feet should you hop into trouble.
+@@ 455 | translate | UNITS/ITEMS/CASTER_03_CHEST.DAT | UNIT | DESCRIPTION
+It protects you where you are most vulnerable.
+@@ 456 | translate | UNITS/ITEMS/CASTER_03_CHEST_ALT_B.DAT | UNIT | DESCRIPTION
+The Stardust Queen wore this in battle against the Dark Zealots.
+@@ 457 | translate | UNITS/ITEMS/CASTER_03_CHEST_ALT_C.DAT | UNIT | DESCRIPTION
+Embroidered with images of plants found nowhere in nature.
+@@ 458 | translate | UNITS/ITEMS/CASTER_03_CHEST_ALT_SET.DAT | UNIT | DESCRIPTION
+An essential component of the Spellweavers' equipment.
+@@ 459 | translate | UNITS/ITEMS/CASTER_03_GLOVES.DAT | UNIT | DESCRIPTION
+Soft gloves, stained with black ink on each of the fingertips.
+@@ 460 | translate | UNITS/ITEMS/CASTER_03_GLOVES_ALT_B.DAT | UNIT | DESCRIPTION
+The Incantus represents the pact between the Guardians.
+@@ 461 | translate | UNITS/ITEMS/CASTER_03_GLOVES_ALT_C.DAT | UNIT | DESCRIPTION
+Reunited again, ages after one was captured by  Dark Zealots.
+@@ 462 | translate | UNITS/ITEMS/CASTER_03_HELMET.DAT | UNIT | DESCRIPTION
+It proved effective against the Felwings of the Black Palace.
+@@ 463 | translate | UNITS/ITEMS/CASTER_03_HELMET_ALT_B.DAT | UNIT | DESCRIPTION
+Those who don this cap come to understand the secret script.
+@@ 464 | translate | UNITS/ITEMS/CASTER_03_HELMET_ALT_C.DAT | UNIT | DESCRIPTION
+The wearer can sense the magic of the six Guardians.
+@@ 465 | translate | UNITS/ITEMS/CASTER_03_HELMET_ALT_SET.DAT | UNIT | DESCRIPTION
+Vital protection for a Spellweaver's mind.
+@@ 466 | translate | UNITS/ITEMS/CASTER_03_PANTS.DAT | UNIT | DESCRIPTION
+Comfortable, stylish, and possessed of a certain charm ...
+@@ 467 | translate | UNITS/ITEMS/CASTER_03_PANTS_ALT_B.DAT | UNIT | DESCRIPTION
+Leggings covered with intricate and baffling needlework.
+@@ 468 | translate | UNITS/ITEMS/CASTER_03_PANTS_ALT_C.DAT | UNIT | DESCRIPTION
+The Stardust Queen would not go into battle without them.
+@@ 469 | translate | UNITS/ITEMS/CASTER_03_PANTS_ALT_SET.DAT | UNIT | DESCRIPTION
+The wise Spellweaver leaves nothing to chance.
+@@ 470 | translate | UNITS/ITEMS/CASTER_03_RING.DAT | UNIT | DESCRIPTION
+The ring worn by the Wickmen throughout their adventures.
+@@ 471 | translate | UNITS/ITEMS/CASTER_03_RING_ALT_B.DAT | UNIT | DESCRIPTION
+The Brotherhood of Lords formed to protect this one lone Ring.
+@@ 472 | translate | UNITS/ITEMS/CASTER_03_RING_ALT_C.DAT | UNIT | DESCRIPTION
+Wise men still seek it.
+@@ 473 | translate | UNITS/ITEMS/CASTER_03_SHOULDERS.DAT | UNIT | DESCRIPTION
+They saved the Stardust Queen's life on numerous occasions.
+@@ 474 | translate | UNITS/ITEMS/CASTER_03_SHOULDERS_ALT_B.DAT | UNIT | DESCRIPTION
+According to legend, they were crafted by Mamoga the Spellbinder.
+@@ 475 | translate | UNITS/ITEMS/CASTER_03_SHOULDERS_ALT_C.DAT | UNIT | DESCRIPTION
+Embossed with sigils said to be written in the "magic script."
+@@ 476 | translate | UNITS/ITEMS/CASTER_03_SHOULDERS_ALT_SET.DAT | UNIT | DESCRIPTION
+The Spellweaver's shoulder-plates bear his personal mark.
+@@ 477 | translate | UNITS/ITEMS/CASTER_04_AMULET.DAT | UNIT | DESCRIPTION
+The War-Miller is one of the world's unsung heroes.
+@@ 478 | translate | UNITS/ITEMS/CASTER_04_AMULET_ALT_B.DAT | UNIT | DESCRIPTION
+The Warbinder is a half-forgotten hero from dwarven legend.
+@@ 479 | translate | UNITS/ITEMS/CASTER_04_AMULET_ALT_C.DAT | UNIT | DESCRIPTION
+The center setting is a gear of advanced craftsmanship.
+@@ 480 | translate | UNITS/ITEMS/CASTER_04_BELT.DAT | UNIT | DESCRIPTION
+Thought to have been devised as a restraint for wizards.
+@@ 481 | translate | UNITS/ITEMS/CASTER_04_BELT_ALT_B.DAT | UNIT | DESCRIPTION
+A magical restraint of dwarven manufacture, repurposed.
+@@ 482 | translate | UNITS/ITEMS/CASTER_04_BELT_ALT_C.DAT | UNIT | DESCRIPTION
+Crafted for a battlemage, it measured the effects of Ember.
+@@ 483 | translate | UNITS/ITEMS/CASTER_04_BOOTS.DAT | UNIT | DESCRIPTION
+The boots that endure.
+@@ 484 | translate | UNITS/ITEMS/CASTER_04_BOOTS_ALT_B.DAT | UNIT | DESCRIPTION
+Seven times walk seven miles.
+@@ 485 | translate | UNITS/ITEMS/CASTER_04_BOOTS_ALT_C.DAT | UNIT | DESCRIPTION
+These boots will be with you to your very last spell.
+@@ 486 | translate | UNITS/ITEMS/CASTER_04_BOOTS_ALT_SET.DAT | UNIT | DESCRIPTION
+Heavy, sturdy boots, made for the deck of an Embercraft.
+@@ 487 | translate | UNITS/ITEMS/CASTER_04_CHEST.DAT | UNIT | DESCRIPTION
+The armor that endures.
+@@ 488 | translate | UNITS/ITEMS/CASTER_04_CHEST_ALT_B.DAT | UNIT | DESCRIPTION
+In truth, there is power.
+@@ 489 | translate | UNITS/ITEMS/CASTER_04_CHEST_ALT_C.DAT | UNIT | DESCRIPTION
+Armor meant to be worn when one faces the mightiest of foes.
+@@ 490 | translate | UNITS/ITEMS/CASTER_04_CHEST_ALT_SET.DAT | UNIT | DESCRIPTION
+The armor of Professor Herkon, inventor of the Embercraft.
+@@ 491 | translate | UNITS/ITEMS/CASTER_04_GLOVES.DAT | UNIT | DESCRIPTION
+The wise welcome the gift of wisdom.
+@@ 492 | translate | UNITS/ITEMS/CASTER_04_GLOVES_ALT_B.DAT | UNIT | DESCRIPTION
+The gauntlets that endure.
+@@ 493 | translate | UNITS/ITEMS/CASTER_04_GLOVES_ALT_C.DAT | UNIT | DESCRIPTION
+Your shield against your enemies' most terrible attacks.
+@@ 494 | translate | UNITS/ITEMS/CASTER_04_GLOVES_ALT_SET.DAT | UNIT | DESCRIPTION
+The very gloves worn during the construction of the first Embercraft.
+@@ 495 | translate | UNITS/ITEMS/CASTER_04_HELMET.DAT | UNIT | DESCRIPTION
+Knowledge and truth will light your way.
+@@ 496 | translate | UNITS/ITEMS/CASTER_04_HELMET_ALT_B.DAT | UNIT | DESCRIPTION
+The hood that endures.
+@@ 497 | translate | UNITS/ITEMS/CASTER_04_HELMET_ALT_C.DAT | UNIT | DESCRIPTION
+Protection for your head, armor for your mind.
+@@ 498 | translate | UNITS/ITEMS/CASTER_04_HELMET_ALT_SET.DAT | UNIT | DESCRIPTION
+Includes an Ember-proof welding visor.
+@@ 499 | translate | UNITS/ITEMS/CASTER_04_PANTS.DAT | UNIT | DESCRIPTION
+Proof against the lowest forms of magic.
+@@ 500 | translate | UNITS/ITEMS/CASTER_04_PANTS_ALT_B.DAT | UNIT | DESCRIPTION
+The trousers that endure.
+@@ 501 | translate | UNITS/ITEMS/CASTER_04_PANTS_ALT_C.DAT | UNIT | DESCRIPTION
+Stride true and stride strong.
+@@ 502 | translate | UNITS/ITEMS/CASTER_04_PANTS_ALT_SET.DAT | UNIT | DESCRIPTION
+The pants of Professor Herkon, inventor of the Embercraft.
+@@ 503 | translate | UNITS/ITEMS/CASTER_04_RING.DAT | UNIT | DESCRIPTION
+It whispers to you in the voices of long-dead Embermages.
+@@ 504 | translate | UNITS/ITEMS/CASTER_04_RING_ALT_B.DAT | UNIT | DESCRIPTION
+It whispers to you in mournful dwarven syllables.
+@@ 505 | translate | UNITS/ITEMS/CASTER_04_RING_ALT_C.DAT | UNIT | DESCRIPTION
+It whispers to you in your own voice, casting spells in your mind.
+@@ 506 | translate | UNITS/ITEMS/CASTER_04_RING_ALT_SET.DAT | UNIT | DESCRIPTION
+Crafted from a cast-off gasket of the first Embercraft.
+@@ 507 | translate | UNITS/ITEMS/CASTER_04_SHOULDERS.DAT | UNIT | DESCRIPTION
+Bear your burdens with honor and courage.
+@@ 508 | translate | UNITS/ITEMS/CASTER_04_SHOULDERS_ALT_B.DAT | UNIT | DESCRIPTION
+The mantle that endures.
+@@ 509 | translate | UNITS/ITEMS/CASTER_04_SHOULDERS_ALT_C.DAT | UNIT | DESCRIPTION
+Your personal magical redoubt.
+@@ 510 | translate | UNITS/ITEMS/CASTER_05_AMULET.DAT | UNIT | DESCRIPTION
+The rogue wizard Spellgunner cast his spells with bullets.
+@@ 511 | translate | UNITS/ITEMS/CASTER_05_AMULET_ALT_B.DAT | UNIT | DESCRIPTION
+Master the magic.
+@@ 512 | translate | UNITS/ITEMS/CASTER_05_AMULET_ALT_C.DAT | UNIT | DESCRIPTION
+It bears the symbol of the War Witches.
+@@ 513 | translate | UNITS/ITEMS/CASTER_05_AMULET_ALT_SET.DAT | UNIT | DESCRIPTION
+It bears the sigil of the first Emperor.
+@@ 514 | translate | UNITS/ITEMS/CASTER_05_BELT.DAT | UNIT | DESCRIPTION
+Spellgunner slung his spellpistol from this very belt.
+@@ 515 | translate | UNITS/ITEMS/CASTER_05_BELT_ALT_B.DAT | UNIT | DESCRIPTION
+The Spellfire Belt incorporates a crystal of pure Ember.
+@@ 516 | translate | UNITS/ITEMS/CASTER_05_BELT_ALT_C.DAT | UNIT | DESCRIPTION
+Once worn by the Domina of the War Witches.
+@@ 517 | translate | UNITS/ITEMS/CASTER_05_BOOTS.DAT | UNIT | DESCRIPTION
+The Warcasters marched proudly into battle.
+@@ 518 | translate | UNITS/ITEMS/CASTER_05_BOOTS_ALT_B.DAT | UNIT | DESCRIPTION
+The first Emperor defeated and scattered the War Witches.
+@@ 519 | translate | UNITS/ITEMS/CASTER_05_BOOTS_ALT_C.DAT | UNIT | DESCRIPTION
+The hedge mages of the Middlemoors predated the Empire.
+@@ 520 | translate | UNITS/ITEMS/CASTER_05_BOOTS_ALT_SET.DAT | UNIT | DESCRIPTION
+The first Emperor wore these on the day he ascended the throne.
+@@ 521 | translate | UNITS/ITEMS/CASTER_05_CHEST.DAT | UNIT | DESCRIPTION
+The Warcasters were a sect of battle-wizards.
+@@ 522 | translate | UNITS/ITEMS/CASTER_05_CHEST_ALT_B.DAT | UNIT | DESCRIPTION
+The War Witches enslaved the Brackenwilds for a hundred years.
+@@ 523 | translate | UNITS/ITEMS/CASTER_05_CHEST_ALT_C.DAT | UNIT | DESCRIPTION
+The hedge mages battled for Middlemoors independence.
+@@ 524 | translate | UNITS/ITEMS/CASTER_05_CHEST_ALT_SET.DAT | UNIT | DESCRIPTION
+The last of the Dwarves built this armor for the first Emperor.
+@@ 525 | translate | UNITS/ITEMS/CASTER_05_GLOVES.DAT | UNIT | DESCRIPTION
+Worn by the Master of the Golden Temple.
+@@ 526 | translate | UNITS/ITEMS/CASTER_05_GLOVES_ALT_B.DAT | UNIT | DESCRIPTION
+The Warcasters held all of magic in the palms of their hands.
+@@ 527 | translate | UNITS/ITEMS/CASTER_05_GLOVES_ALT_C.DAT | UNIT | DESCRIPTION
+The War Witches were able to catch spells on these bracers.
+@@ 528 | translate | UNITS/ITEMS/CASTER_05_GLOVES_ALT_SET.DAT | UNIT | DESCRIPTION
+The first Emperor ruled with an iron, Ember-laced fist.
+@@ 529 | translate | UNITS/ITEMS/CASTER_05_HELMET.DAT | UNIT | DESCRIPTION
+The Warcasters wore these helms to ward off the Netherim.
+@@ 530 | translate | UNITS/ITEMS/CASTER_05_HELMET_ALT_B.DAT | UNIT | DESCRIPTION
+The helm-crown of the Master of the Golden Temple.
+@@ 531 | translate | UNITS/ITEMS/CASTER_05_HELMET_ALT_C.DAT | UNIT | DESCRIPTION
+A War Witch's helm concealed her identity from assassins.
+@@ 532 | translate | UNITS/ITEMS/CASTER_05_HELMET_ALT_SET.DAT | UNIT | DESCRIPTION
+This was the first Emperor's original crown, until his coronation.
+@@ 533 | translate | UNITS/ITEMS/CASTER_05_PANTS.DAT | UNIT | DESCRIPTION
+The queen of the War Witches was known as the Domina.
+@@ 534 | translate | UNITS/ITEMS/CASTER_05_PANTS_ALT_B.DAT | UNIT | DESCRIPTION
+The Warcasters once served the Jade Kings.
+@@ 535 | translate | UNITS/ITEMS/CASTER_05_PANTS_ALT_C.DAT | UNIT | DESCRIPTION
+A rare find, indeed. Few hedge mages actually wore pants.
+@@ 536 | translate | UNITS/ITEMS/CASTER_05_PANTS_ALT_SET.DAT | UNIT | DESCRIPTION
+Built to accommodate the first Emperor's large steps.
+@@ 537 | translate | UNITS/ITEMS/CASTER_05_RING.DAT | UNIT | DESCRIPTION
+Spellgunner used his magic to fight injustice in the Empire.
+@@ 538 | translate | UNITS/ITEMS/CASTER_05_RING_ALT_B.DAT | UNIT | DESCRIPTION
+The Spellfire Ring touches on the power of raw magic.
+@@ 539 | translate | UNITS/ITEMS/CASTER_05_RING_ALT_C.DAT | UNIT | DESCRIPTION
+The signet of the War Witches, passed down from Domina to Domina.
+@@ 540 | translate | UNITS/ITEMS/CASTER_05_RING_ALT_SET.DAT | UNIT | DESCRIPTION
+Baubles of the first Emperor.
+@@ 541 | translate | UNITS/ITEMS/CASTER_05_SHOULDERS.DAT | UNIT | DESCRIPTION
+The Warcasters guarded the Jade Throne.
+@@ 542 | translate | UNITS/ITEMS/CASTER_05_SHOULDERS_ALT_B.DAT | UNIT | DESCRIPTION
+Every War Witch etched her personal sigil on her shoulder armor.
+@@ 543 | translate | UNITS/ITEMS/CASTER_05_SHOULDERS_ALT_C.DAT | UNIT | DESCRIPTION
+Ceremonial garb, worn only by the Master of the Golden Temple.
+@@ 544 | translate | UNITS/ITEMS/CASTER_05_SHOULDERS_ALT_SET.DAT | UNIT | DESCRIPTION
+These helped the first Emperor carry his greatest burdens.
+@@ 545 | translate | UNITS/ITEMS/CASTER_06_AMULET.DAT | UNIT | DESCRIPTION
+The Magus developed the principles of magic.
+@@ 546 | translate | UNITS/ITEMS/CASTER_06_AMULET_ALT_B.DAT | UNIT | DESCRIPTION
+The Thaumaturge codified the Magus's principles into the Seven Laws.
+@@ 547 | translate | UNITS/ITEMS/CASTER_06_AMULET_ALT_C.DAT | UNIT | DESCRIPTION
+The Arch-Magus discovered methods of breaking the Seven Laws.
+@@ 548 | translate | UNITS/ITEMS/CASTER_06_AMULET_ALT_SET.DAT | UNIT | DESCRIPTION
+Through the Icon, the quest for Truth overcomes cherished opinion.
+@@ 549 | translate | UNITS/ITEMS/CASTER_06_BELT.DAT | UNIT | DESCRIPTION
+Presented to the original Embermage at the founding of the Spellworks.
+@@ 550 | translate | UNITS/ITEMS/CASTER_06_BELT_ALT_B.DAT | UNIT | DESCRIPTION
+The Thaumaturge's Seven Laws of Magic are embossed on it.
+@@ 551 | translate | UNITS/ITEMS/CASTER_06_BELT_ALT_C.DAT | UNIT | DESCRIPTION
+The Arch-Magus himself created it to prove his superiority.
+@@ 552 | translate | UNITS/ITEMS/CASTER_06_BELT_ALT_SET.DAT | UNIT | DESCRIPTION
+The Path to Transcendence is devoid of obstructive preference.
+@@ 553 | translate | UNITS/ITEMS/CASTER_06_BOOTS.DAT | UNIT | DESCRIPTION
+The Winter Magus walked the frozen, deserted streets of Red Haven.
+@@ 554 | translate | UNITS/ITEMS/CASTER_06_BOOTS_ALT_B.DAT | UNIT | DESCRIPTION
+They shared their shoes, so as to know each other better.
+@@ 555 | translate | UNITS/ITEMS/CASTER_06_BOOTS_ALT_C.DAT | UNIT | DESCRIPTION
+Each new High Wizard added a new enchantment.
+@@ 556 | translate | UNITS/ITEMS/CASTER_06_BOOTS_ALT_SET.DAT | UNIT | DESCRIPTION
+Every journey begins with a single step in the right direction.
+@@ 557 | translate | UNITS/ITEMS/CASTER_06_CHEST.DAT | UNIT | DESCRIPTION
+The Winter Magus conquered Red Haven with a year of ice storms.
+@@ 558 | translate | UNITS/ITEMS/CASTER_06_CHEST_ALT_B.DAT | UNIT | DESCRIPTION
+Of their famed fellowship, only a single jacket remains.
+@@ 559 | translate | UNITS/ITEMS/CASTER_06_CHEST_ALT_C.DAT | UNIT | DESCRIPTION
+This armor was meant to be worn only by the High Wizard.
+@@ 560 | translate | UNITS/ITEMS/CASTER_06_CHEST_ALT_SET.DAT | UNIT | DESCRIPTION
+The Jacket is a path in the form of an obstacle.
+@@ 561 | translate | UNITS/ITEMS/CASTER_06_GLOVES.DAT | UNIT | DESCRIPTION
+"Hand in hand, we forge ahead. Stand together, to the end."
+@@ 562 | translate | UNITS/ITEMS/CASTER_06_GLOVES_ALT_B.DAT | UNIT | DESCRIPTION
+The Empire nearly died in the Winter Magus's cold embrace.
+@@ 563 | translate | UNITS/ITEMS/CASTER_06_GLOVES_ALT_C.DAT | UNIT | DESCRIPTION
+The High Arbiter wore these when casting powerful spells.
+@@ 564 | translate | UNITS/ITEMS/CASTER_06_GLOVES_ALT_SET.DAT | UNIT | DESCRIPTION
+When the pinnacle is within your reach, set your sights higher.
+@@ 565 | translate | UNITS/ITEMS/CASTER_06_HELMET.DAT | UNIT | DESCRIPTION
+The fellowship could solve any problem by putting their heads together.
+@@ 566 | translate | UNITS/ITEMS/CASTER_06_HELMET_ALT_B.DAT | UNIT | DESCRIPTION
+The Helmet remembers the High Wizards, and waits for the new one.
+@@ 567 | translate | UNITS/ITEMS/CASTER_06_HELMET_ALT_C.DAT | UNIT | DESCRIPTION
+The Winter Magus encased Emperor Imar in ice up to his neck.
+@@ 568 | translate | UNITS/ITEMS/CASTER_06_HELMET_ALT_SET.DAT | UNIT | DESCRIPTION
+The best leader is the one who makes the people believe in themselves.
+@@ 569 | translate | UNITS/ITEMS/CASTER_06_PANTS.DAT | UNIT | DESCRIPTION
+They create a rip in the fabric of magic.
+@@ 570 | translate | UNITS/ITEMS/CASTER_06_PANTS_ALT_B.DAT | UNIT | DESCRIPTION
+The Winter Magus was the last scion of House Brume.
+@@ 571 | translate | UNITS/ITEMS/CASTER_06_PANTS_ALT_C.DAT | UNIT | DESCRIPTION
+The fellowship shared this pair of magical plants.
+@@ 572 | translate | UNITS/ITEMS/CASTER_06_PANTS_ALT_SET.DAT | UNIT | DESCRIPTION
+Sit quietly, or do battle. Spring comes, grass grows.
+@@ 573 | translate | UNITS/ITEMS/CASTER_06_RING.DAT | UNIT | DESCRIPTION
+The Legend of the Seventh Sea, and Lord of the House of Blood.
+@@ 574 | translate | UNITS/ITEMS/CASTER_06_RING_ALT_B.DAT | UNIT | DESCRIPTION
+From the darkest corners of the world ...
+@@ 575 | translate | UNITS/ITEMS/CASTER_06_RING_ALT_C.DAT | UNIT | DESCRIPTION
+It calls you "Master."
+@@ 576 | translate | UNITS/ITEMS/CASTER_06_RING_ALT_SET.DAT | UNIT | DESCRIPTION
+With understanding, order. Without understanding, order.
+@@ 577 | translate | UNITS/ITEMS/CASTER_06_SHOULDERS.DAT | UNIT | DESCRIPTION
+Legends tells of the Shaman, the caretaker of the world.
+@@ 578 | translate | UNITS/ITEMS/CASTER_06_SHOULDERS_ALT_B.DAT | UNIT | DESCRIPTION
+The reign of the Winter Magus ended when Emperor Imar burned him alive.
+@@ 579 | translate | UNITS/ITEMS/CASTER_06_SHOULDERS_ALT_C.DAT | UNIT | DESCRIPTION
+Their fellowship is long gone, and all but forgotten.
+@@ 580 | translate | UNITS/ITEMS/CASTER_06_SHOULDERS_ALT_SET.DAT | UNIT | DESCRIPTION
+The Mantle is pliable and soft ... making it hard and strong.
+@@ 581 | translate | UNITS/ITEMS/CLOCKWORK_01_AMULET_E.DAT | UNIT | DESCRIPTION
+Inscribed with a stark, white lightning bolt on a field of black.
+@@ 582 | translate | UNITS/ITEMS/CLOCKWORK_01_AMULET_E_ALT_B.DAT | UNIT | DESCRIPTION
+The World-Mage declared that all magic had a unique color.
+@@ 583 | translate | UNITS/ITEMS/CLOCKWORK_01_AMULET_E_ALT_C.DAT | UNIT | DESCRIPTION
+They are known by many names, but they are all called "hero."
+@@ 584 | translate | UNITS/ITEMS/CLOCKWORK_01_AMULET_E_ALT_SET.DAT | UNIT | DESCRIPTION
+Like a gear from the celestial clock.
+@@ 585 | translate | UNITS/ITEMS/CLOCKWORK_01_AMULET_F.DAT | UNIT | DESCRIPTION
+It burns! It burns!
+@@ 586 | translate | UNITS/ITEMS/CLOCKWORK_01_AMULET_F_ALT_B.DAT | UNIT | DESCRIPTION
+Oooh … burn.
+@@ 587 | translate | UNITS/ITEMS/CLOCKWORK_01_AMULET_F_ALT_C.DAT | UNIT | DESCRIPTION
+Searing the flesh seals in the juices.
+@@ 588 | translate | UNITS/ITEMS/CLOCKWORK_01_AMULET_I.DAT | UNIT | DESCRIPTION
+It glitters and glimmers and lures fools to their doom.
+@@ 589 | translate | UNITS/ITEMS/CLOCKWORK_01_AMULET_I_ALT_B.DAT | UNIT | DESCRIPTION
+It crackles and sparkles and lurks in the gloom.
+@@ 590 | translate | UNITS/ITEMS/CLOCKWORK_01_AMULET_I_ALT_C.DAT | UNIT | DESCRIPTION
+It shatters and splinters and ends in a tomb.
+@@ 591 | translate | UNITS/ITEMS/CLOCKWORK_01_AMULET_P.DAT | UNIT | DESCRIPTION
+It whispers in your ear.
+@@ 592 | translate | UNITS/ITEMS/CLOCKWORK_01_AMULET_P_ALT_B.DAT | UNIT | DESCRIPTION
+It can hear your slightest murmur ...
+@@ 593 | translate | UNITS/ITEMS/CLOCKWORK_01_AMULET_P_ALT_C.DAT | UNIT | DESCRIPTION
+It speaks to you in the voices of your friends ...
+@@ 594 | translate | UNITS/ITEMS/CLOCKWORK_01_BELT.DAT | UNIT | DESCRIPTION
+Many Engineers build their own clothing out of machine scrap.
+@@ 595 | translate | UNITS/ITEMS/CLOCKWORK_01_BELT_ALT_B.DAT | UNIT | DESCRIPTION
+Tightly-wound and tightly-wrapped.
+@@ 596 | translate | UNITS/ITEMS/CLOCKWORK_01_BELT_ALT_C.DAT | UNIT | DESCRIPTION
+Crafted according to careful calculations.
+@@ 597 | translate | UNITS/ITEMS/CLOCKWORK_01_BELT_ALT_SET.DAT | UNIT | DESCRIPTION
+As above, so below.
+@@ 598 | translate | UNITS/ITEMS/CLOCKWORK_01_BOOTS.DAT | UNIT | DESCRIPTION
+The Tick-Tock King acted as "governor" of the Tick-Tock court.
+@@ 599 | translate | UNITS/ITEMS/CLOCKWORK_01_BOOTS_ALT_B.DAT | UNIT | DESCRIPTION
+Crafted to exacting specifications.
+@@ 600 | translate | UNITS/ITEMS/CLOCKWORK_01_BOOTS_ALT_C.DAT | UNIT | DESCRIPTION
+With each step, its gears turn a tiny bit.
+@@ 601 | translate | UNITS/ITEMS/CLOCKWORK_01_BOOTS_ALT_SET.DAT | UNIT | DESCRIPTION
+One foot upon the land, one foot set firmly in the heavens.
+@@ 602 | translate | UNITS/ITEMS/CLOCKWORK_01_CHEST.DAT | UNIT | DESCRIPTION
+Cunningly crafted to conform to any torso.
+@@ 603 | translate | UNITS/ITEMS/CLOCKWORK_01_CHEST_ALT_B.DAT | UNIT | DESCRIPTION
+It contains a series of gears, powered by tiny motions and body heat.
+@@ 604 | translate | UNITS/ITEMS/CLOCKWORK_01_CHEST_ALT_C.DAT | UNIT | DESCRIPTION
+The Tick-Tock Knight was the Emperor's automaton bodyguard.
+@@ 605 | translate | UNITS/ITEMS/CLOCKWORK_01_CHEST_ALT_SET.DAT | UNIT | DESCRIPTION
+Armor forged of celestial iron, to turn aside mortal wounds.
+@@ 606 | translate | UNITS/ITEMS/CLOCKWORK_01_GLOVES.DAT | UNIT | DESCRIPTION
+They always fit perfectly, as though custom-made for the wearer.
+@@ 607 | translate | UNITS/ITEMS/CLOCKWORK_01_GLOVES_ALT_B.DAT | UNIT | DESCRIPTION
+The Tick-Tock Duke ensured that the Tick-Tock court ran smoothly.
+@@ 608 | translate | UNITS/ITEMS/CLOCKWORK_01_GLOVES_ALT_C.DAT | UNIT | DESCRIPTION
+Every movement of your hands drives their gears another tick.
+@@ 609 | translate | UNITS/ITEMS/CLOCKWORK_01_GLOVES_ALT_SET.DAT | UNIT | DESCRIPTION
+One can almost feel the hand of the divine in them.
+@@ 610 | translate | UNITS/ITEMS/CLOCKWORK_01_HELMET.DAT | UNIT | DESCRIPTION
+The Tick-Tock Duke made modifications to the Tick-Tock court.
+@@ 611 | translate | UNITS/ITEMS/CLOCKWORK_01_HELMET_ALT_B.DAT | UNIT | DESCRIPTION
+Its cunning design ensures that one size fits all, always.
+@@ 612 | translate | UNITS/ITEMS/CLOCKWORK_01_HELMET_ALT_C.DAT | UNIT | DESCRIPTION
+Some say the constant ticking can drive you mad.
+@@ 613 | translate | UNITS/ITEMS/CLOCKWORK_01_HELMET_ALT_SET.DAT | UNIT | DESCRIPTION
+The blessings of the divine are upon your head.
+@@ 614 | translate | UNITS/ITEMS/CLOCKWORK_01_PANTS.DAT | UNIT | DESCRIPTION
+They were created to always be a perfect fit.
+@@ 615 | translate | UNITS/ITEMS/CLOCKWORK_01_PANTS_ALT_B.DAT | UNIT | DESCRIPTION
+They get more wound-up with every step you take.
+@@ 616 | translate | UNITS/ITEMS/CLOCKWORK_01_PANTS_ALT_C.DAT | UNIT | DESCRIPTION
+The Tick-Tock Guard protected the Tick-Tock King from harm.
+@@ 617 | translate | UNITS/ITEMS/CLOCKWORK_01_PANTS_ALT_SET.DAT | UNIT | DESCRIPTION
+The presence of the celestial can bring you to your knees.
+@@ 618 | translate | UNITS/ITEMS/CLOCKWORK_01_RING_E.DAT | UNIT | DESCRIPTION
+You can feel it loosening and tightening on your finger.
+@@ 619 | translate | UNITS/ITEMS/CLOCKWORK_01_RING_E_ALT_B.DAT | UNIT | DESCRIPTION
+The rhythm of its contractions feels almost like a pulse.
+@@ 620 | translate | UNITS/ITEMS/CLOCKWORK_01_RING_E_ALT_C.DAT | UNIT | DESCRIPTION
+It makes a constant, low whirring and clicking noise.
+@@ 621 | translate | UNITS/ITEMS/CLOCKWORK_01_RING_E_ALT_SET.DAT | UNIT | DESCRIPTION
+To wear it is to feel the touch of the celestial.
+@@ 622 | translate | UNITS/ITEMS/CLOCKWORK_01_RING_F.DAT | UNIT | DESCRIPTION
+It is tighter than it seemed at first.
+@@ 623 | translate | UNITS/ITEMS/CLOCKWORK_01_RING_F_ALT_B.DAT | UNIT | DESCRIPTION
+Sometimes it feels as though it doesn't want to come off.
+@@ 624 | translate | UNITS/ITEMS/CLOCKWORK_01_RING_F_ALT_C.DAT | UNIT | DESCRIPTION
+If you look at it closely, you can see that it keeps perfect time.
+@@ 625 | translate | UNITS/ITEMS/CLOCKWORK_01_RING_I.DAT | UNIT | DESCRIPTION
+It glimmers and glitters and seems to consume.
+@@ 626 | translate | UNITS/ITEMS/CLOCKWORK_01_RING_I_ALT_B.DAT | UNIT | DESCRIPTION
+A tinker's band for a tinker's hand.
+@@ 627 | translate | UNITS/ITEMS/CLOCKWORK_01_RING_I_ALT_C.DAT | UNIT | DESCRIPTION
+Its movements on your finger track the stars in the sky.
+@@ 628 | translate | UNITS/ITEMS/CLOCKWORK_01_RING_P.DAT | UNIT | DESCRIPTION
+Its tiny gems mirror the constellations.
+@@ 629 | translate | UNITS/ITEMS/CLOCKWORK_01_RING_P_ALT_B.DAT | UNIT | DESCRIPTION
+Properly used, it measures the horizon, equator, and ecliptic.
+@@ 630 | translate | UNITS/ITEMS/CLOCKWORK_01_RING_P_ALT_C.DAT | UNIT | DESCRIPTION
+If spun counter-clockwise, it tells you exactly where you are.
+@@ 631 | translate | UNITS/ITEMS/CLOCKWORK_01_SHOULDERS.DAT | UNIT | DESCRIPTION
+They cannot possibly fit everyone, and yet they do.
+@@ 632 | translate | UNITS/ITEMS/CLOCKWORK_01_SHOULDERS_ALT_B.DAT | UNIT | DESCRIPTION
+Only the Tick-Tock Queen could shut them all down.
+@@ 633 | translate | UNITS/ITEMS/CLOCKWORK_01_SHOULDERS_ALT_C.DAT | UNIT | DESCRIPTION
+Oddly similar to the Tick-Tock Queen's pauldrons ...
+@@ 634 | translate | UNITS/ITEMS/CLOCKWORK_01_SHOULDERS_ALT_SET.DAT | UNIT | DESCRIPTION
+Wearing them, one feels the power of the heavens.
+@@ 635 | translate | UNITS/ITEMS/CROSSBOWS/CROSSBOW_U01.DAT | UNIT | DESCRIPTION
+Crank it up and let fly!
+@@ 636 | translate | UNITS/ITEMS/CROSSBOWS/CROSSBOW_U01B.DAT | UNIT | DESCRIPTION
+Unleash the swarm!
+@@ 637 | translate | UNITS/ITEMS/CROSSBOWS/CROSSBOW_U01C.DAT | UNIT | DESCRIPTION
+The seventh Emperor used it to send a message to the goblins: "Die."
+@@ 638 | translate | UNITS/ITEMS/CROSSBOWS/CROSSBOW_U02.DAT | UNIT | DESCRIPTION
+It doesn't need to put a bolt through your foes ... just in them.
+@@ 639 | translate | UNITS/ITEMS/CROSSBOWS/CROSSBOW_U02B.DAT | UNIT | DESCRIPTION
+Shot through the heart ... and you're to blame. Good work!
+@@ 640 | translate | UNITS/ITEMS/CROSSBOWS/CROSSBOW_U02C.DAT | UNIT | DESCRIPTION
+More than  you need ... but less than you want.
+@@ 641 | translate | UNITS/ITEMS/CROSSBOWS/CROSSBOW_U03.DAT | UNIT | DESCRIPTION
+Here comes the stinger!
+@@ 642 | translate | UNITS/ITEMS/CROSSBOWS/CROSSBOW_U03B.DAT | UNIT | DESCRIPTION
+Let the feast begin!
+@@ 643 | translate | UNITS/ITEMS/CROSSBOWS/CROSSBOW_U03C.DAT | UNIT | DESCRIPTION
+Named after the most fearsome beast of the Ossean Wastes.
+@@ 644 | translate | UNITS/ITEMS/CROSSBOWS/CROSSBOW_U04.DAT | UNIT | DESCRIPTION
+Strike fear directly into the hearts of your foes!
+@@ 645 | translate | UNITS/ITEMS/CROSSBOWS/CROSSBOW_U04B.DAT | UNIT | DESCRIPTION
+Lightning-fast delivery.
+@@ 646 | translate | UNITS/ITEMS/CROSSBOWS/CROSSBOW_U04C.DAT | UNIT | DESCRIPTION
+Ideal for home defense.
+@@ 647 | translate | UNITS/ITEMS/CROSSBOWS/CROSSBOW_U05.DAT | UNIT | DESCRIPTION
+If you love something, let it go. If it kills something, it was meant to be.
+@@ 648 | translate | UNITS/ITEMS/CROSSBOWS/CROSSBOW_U05B.DAT | UNIT | DESCRIPTION
+It's just looking for a fight.
+@@ 649 | translate | UNITS/ITEMS/CROSSBOWS/CROSSBOW_U05C.DAT | UNIT | DESCRIPTION
+Some people fear spiders.\nAll spiders fear this.
+@@ 650 | translate | UNITS/ITEMS/CROSSBOWS/CROSSBOW_U06.DAT | UNIT | DESCRIPTION
+If you can't hit your target, at least hit everything around it.
+@@ 651 | translate | UNITS/ITEMS/CROSSBOWS/CROSSBOW_U06B.DAT | UNIT | DESCRIPTION
+"How do I find my foes? Dead or dying." - Marshall Vurnix
+@@ 652 | translate | UNITS/ITEMS/CROSSBOWS/CROSSBOW_U06C.DAT | UNIT | DESCRIPTION
+Legends say it was designed to spare the man, but kill the monster within.
+@@ 653 | translate | UNITS/ITEMS/CROSSBOWS/CROSSBOW_U07.DAT | UNIT | DESCRIPTION
+It's like a bolt-action hunting falcon.
+@@ 654 | translate | UNITS/ITEMS/CROSSBOWS/CROSSBOW_U07B.DAT | UNIT | DESCRIPTION
+Varkolyn shudder at a falcon's cry ... all because of this crossbow.
+@@ 655 | translate | UNITS/ITEMS/CROSSBOWS/CROSSBOW_U07C.DAT | UNIT | DESCRIPTION
+Perhaps the world's only self-winding crossbow.
+@@ 656 | translate | UNITS/ITEMS/CROSSBOWS/LEGENDARY_CROSSBOW01.DAT | UNIT | DESCRIPTION
+Legendary Crossbow Collection\nNumber One of Two
+@@ 657 | translate | UNITS/ITEMS/CROSSBOWS/LEGENDARY_CROSSBOW02.DAT | UNIT | DESCRIPTION
+Legendary Crossbow Collection\nNumber Two of Two
+@@ 658 | translate | UNITS/ITEMS/DYNAMITE.DAT | UNIT | DESCRIPTION
+Lets you go blast fishing!  Yields less total fish per fishing hole than traditional methods.\n\n(Dynamite does not work on town fishing holes.)
+@@ 659 | translate | UNITS/ITEMS/EMBER_01_AMULET.DAT | UNIT | DESCRIPTION
+Ember has its eye on you.
+@@ 660 | translate | UNITS/ITEMS/EMBER_01_AMULET_ALT_B.DAT | UNIT | DESCRIPTION
+Even the tiniest fragment of Ember can hold great power.
+@@ 661 | translate | UNITS/ITEMS/EMBER_01_AMULET_ALT_C.DAT | UNIT | DESCRIPTION
+Sometimes, a piece of Ember just catches your eye.
+@@ 662 | translate | UNITS/ITEMS/EMBER_01_BELT.DAT | UNIT | DESCRIPTION
+The Emberheart relics are believed to be two thousand years old.
+@@ 663 | translate | UNITS/ITEMS/EMBER_01_BELT_ALT_B.DAT | UNIT | DESCRIPTION
+Named for the tiny Ember studs driven into the leather.
+@@ 664 | translate | UNITS/ITEMS/EMBER_01_BELT_ALT_C.DAT | UNIT | DESCRIPTION
+The Brightember artifacts date back to the Dwarven Empire.
+@@ 665 | translate | UNITS/ITEMS/EMBER_01_BOOTS.DAT | UNIT | DESCRIPTION
+According to legend, the Emberheart relics were a gift from a king to his heir.
+@@ 666 | translate | UNITS/ITEMS/EMBER_01_BOOTS_ALT_B.DAT | UNIT | DESCRIPTION
+Put your foot down.
+@@ 667 | translate | UNITS/ITEMS/EMBER_01_BOOTS_ALT_C.DAT | UNIT | DESCRIPTION
+Boots that hum with Ember power.
+@@ 668 | translate | UNITS/ITEMS/EMBER_01_CHEST.DAT | UNIT | DESCRIPTION
+Some believe this was the first Ember-infused armor ever made.
+@@ 669 | translate | UNITS/ITEMS/EMBER_01_CHEST_ALT_B.DAT | UNIT | DESCRIPTION
+Heavy with power.
+@@ 670 | translate | UNITS/ITEMS/EMBER_01_CHEST_ALT_C.DAT | UNIT | DESCRIPTION
+Forged of Ember for the first dwarven Battle-King.
+@@ 671 | translate | UNITS/ITEMS/EMBER_01_GLOVES.DAT | UNIT | DESCRIPTION
+The Emberheart relics are depicted on thousand-year-old murals.
+@@ 672 | translate | UNITS/ITEMS/EMBER_01_GLOVES_ALT_B.DAT | UNIT | DESCRIPTION
+Power by the handful.
+@@ 673 | translate | UNITS/ITEMS/EMBER_01_GLOVES_ALT_C.DAT | UNIT | DESCRIPTION
+Infused with the oldest power in the world.
+@@ 674 | translate | UNITS/ITEMS/EMBER_01_HELMET.DAT | UNIT | DESCRIPTION
+The helm is inscribed with the rune of a long-dead family of dwarven nobles.
+@@ 675 | translate | UNITS/ITEMS/EMBER_01_HELMET_ALT_B.DAT | UNIT | DESCRIPTION
+Its power goes straight to your head.
+@@ 676 | translate | UNITS/ITEMS/EMBER_01_HELMET_ALT_C.DAT | UNIT | DESCRIPTION
+It fills your head with thoughts of limitless power …
+@@ 677 | translate | UNITS/ITEMS/EMBER_01_PANTS.DAT | UNIT | DESCRIPTION
+The Emberheart relics disappeared from a museum over a hundred years ago.

@@ -1,0 +1,200 @@
+@@ 501
+Bước cho vững, bước cho mạnh.
+@@ 502
+Chiếc quần của Professor Herkon, người phát minh ra Embercraft.
+@@ 503
+Nó thì thầm với bạn bằng giọng của những Embermage đã chết từ lâu.
+@@ 504
+Nó thì thầm với bạn bằng những âm tiết người lùn đầy ai oán.
+@@ 505
+Nó thì thầm với bạn bằng chính giọng nói của bạn, niệm phép trong tâm trí bạn.
+@@ 506
+Được chế tác từ một miếng đệm bị thải ra của Embercraft đầu tiên.
+@@ 507
+Hãy gánh vác gánh nặng của bạn bằng danh dự và lòng can đảm.
+@@ 508
+Tấm áo choàng trường tồn.
+@@ 509
+Pháo đài phép thuật của riêng bạn.
+@@ 510
+Pháp sư nổi loạn Spellgunner thi triển phép thuật bằng đạn.
+@@ 511
+Làm chủ phép thuật.
+@@ 512
+Nó mang biểu tượng của War Witches.
+@@ 513
+Nó mang ấn ký của vị Hoàng đế đầu tiên.
+@@ 514
+Spellgunner từng đeo khẩu súng phép của mình ngay trên chiếc thắt lưng này.
+@@ 515
+Spellfire Belt được gắn một viên pha lê Ember tinh khiết.
+@@ 516
+Từng được Domina của War Witches đeo.
+@@ 517
+Warcasters hiên ngang tiến bước ra trận.
+@@ 518
+Vị Hoàng đế đầu tiên đã đánh bại và làm tan tác War Witches.
+@@ 519
+Các pháp sư dân dã của Middlemoors đã có mặt từ trước khi Đế quốc ra đời.
+@@ 520
+Vị Hoàng đế đầu tiên đã mang chúng vào ngày ông lên ngôi.
+@@ 521
+Warcasters là một giáo phái gồm những pháp sư chiến trận.
+@@ 522
+War Witches đã nô dịch Brackenwilds suốt một trăm năm.
+@@ 523
+Các pháp sư dân dã đã chiến đấu vì nền độc lập của Middlemoors.
+@@ 524
+Những người lùn cuối cùng đã chế tạo bộ giáp này cho vị Hoàng đế đầu tiên.
+@@ 525
+Được đeo bởi Master of the Golden Temple.
+@@ 526
+Warcasters nắm giữ toàn bộ phép thuật trong lòng bàn tay.
+@@ 527
+War Witches có thể bắt lấy phép thuật bằng đôi bao tay giáp này.
+@@ 528
+Vị Hoàng đế đầu tiên cai trị bằng nắm đấm sắt tẩm Ember.
+@@ 529
+Warcasters đội những chiếc mũ giáp này để xua đuổi Netherim.
+@@ 530
+Chiếc mũ giáp kiêm vương miện của Master of the Golden Temple.
+@@ 531
+Mũ giáp của một War Witch che giấu danh tính của bà trước những kẻ ám sát.
+@@ 532
+Đây là chiếc vương miện nguyên bản của vị Hoàng đế đầu tiên, cho đến lễ đăng quang của ông.
+@@ 533
+Nữ hoàng của War Witches được gọi là Domina.
+@@ 534
+Warcasters từng phục vụ Jade Kings.
+@@ 535
+Quả là một món hiếm có. Rất ít pháp sư dân dã thực sự mặc quần.
+@@ 536
+Được làm để vừa với những bước chân lớn của vị Hoàng đế đầu tiên.
+@@ 537
+Spellgunner dùng phép thuật của mình để chống lại bất công trong Đế quốc.
+@@ 538
+Spellfire Ring chạm đến sức mạnh của phép thuật nguyên sơ.
+@@ 539
+Chiếc ấn nhẫn của War Witches, được truyền từ Domina này sang Domina khác.
+@@ 540
+Đồ trang sức lặt vặt của vị Hoàng đế đầu tiên.
+@@ 541
+Warcasters đã canh giữ Jade Throne.
+@@ 542
+Mỗi War Witch đều khắc ấn ký riêng lên giáp vai của mình.
+@@ 543
+Lễ phục, chỉ được mặc bởi Master of the Golden Temple.
+@@ 544
+Chúng đã giúp vị Hoàng đế đầu tiên gánh vác những gánh nặng lớn nhất.
+@@ 545
+Magus đã phát triển các nguyên lý của phép thuật.
+@@ 546
+Thaumaturge đã hệ thống hóa các nguyên lý của Magus thành Seven Laws.
+@@ 547
+Arch-Magus đã tìm ra những phương pháp phá vỡ Seven Laws.
+@@ 548
+Thông qua Icon, hành trình tìm kiếm Chân lý sẽ vượt qua những định kiến được nâng niu.
+@@ 549
+Được trao tặng cho Embermage đầu tiên vào ngày thành lập Spellworks.
+@@ 550
+Seven Laws of Magic của Thaumaturge được chạm nổi trên nó.
+@@ 551
+Chính Arch-Magus đã tạo ra nó để chứng minh sự vượt trội của mình.
+@@ 552
+Con đường dẫn tới Siêu việt không có chỗ cho những thiên kiến cản trở.
+@@ 553
+Winter Magus đã bước đi trên những con phố băng giá, hoang vắng của Red Haven.
+@@ 554
+Họ dùng chung giày, để hiểu nhau hơn.
+@@ 555
+Mỗi High Wizard mới lại thêm vào một bùa phép mới.
+@@ 556
+Mọi hành trình đều bắt đầu bằng một bước chân đúng hướng.
+@@ 557
+Winter Magus đã chinh phục Red Haven bằng một năm bão băng.
+@@ 558
+Từ hội đồng hành lừng danh của họ, chỉ còn lại duy nhất một chiếc áo khoác.
+@@ 559
+Bộ giáp này chỉ dành riêng cho High Wizard.
+@@ 560
+Chiếc áo này là một con đường mang hình hài của chướng ngại.
+@@ 561
+"Tay trong tay, ta cùng tiến bước. Sát cánh bên nhau, đến tận cùng."
+@@ 562
+Đế quốc suýt nữa đã chết trong vòng tay giá lạnh của Winter Magus.
+@@ 563
+High Arbiter đã đeo chúng khi thi triển những phép thuật hùng mạnh.
+@@ 564
+Khi đỉnh cao đã trong tầm tay, hãy đặt mục tiêu cao hơn nữa.
+@@ 565
+Hội đồng hành có thể giải quyết mọi vấn đề bằng cách chụm đầu lại với nhau.
+@@ 566
+Chiếc mũ giáp này ghi nhớ các High Wizard, và chờ đợi người kế tiếp.
+@@ 567
+Winter Magus đã đóng băng Emperor Imar đến tận cổ.
+@@ 568
+Người lãnh đạo giỏi nhất là người khiến dân chúng tin vào chính mình.
+@@ 569
+Chúng tạo ra một vết rách trên tấm vải của phép thuật.
+@@ 570
+Winter Magus là hậu duệ cuối cùng của House Brume.
+@@ 571
+Hội đồng hành đã dùng chung chiếc quần phép thuật này.
+@@ 572
+Ngồi yên lặng, hay chiến đấu. Xuân đến, cỏ mọc.
+@@ 573
+Legend of the Seventh Sea, và Lord of the House of Blood.
+@@ 574
+Từ những góc tối tăm nhất của thế giới ...
+@@ 575
+Nó gọi bạn là "Chủ nhân."
+@@ 576
+Có thấu hiểu, là trật tự. Không thấu hiểu, cũng là trật tự.
+@@ 577
+Truyền thuyết kể về Shaman, người chăm nom thế giới.
+@@ 578
+Triều đại của Winter Magus chấm dứt khi Emperor Imar thiêu sống hắn.
+@@ 579
+Hội đồng hành của họ đã tan biến từ lâu, và gần như bị lãng quên.
+@@ 580
+Tấm áo choàng này mềm dẻo và êm ái ... chính điều đó khiến nó cứng cáp và bền chắc.
+@@ 581
+Được khắc một tia chớp trắng trơ trọi trên nền đen.
+@@ 582
+World-Mage tuyên bố rằng mỗi loại phép thuật đều có một màu sắc riêng.
+@@ 583
+Họ được biết đến với nhiều cái tên, nhưng tất cả đều được gọi là "anh hùng."
+@@ 584
+Tựa như một bánh răng của chiếc đồng hồ thiên giới.
+@@ 585
+Bỏng quá! Bỏng quá!
+@@ 586
+Ồ … khét thật.
+@@ 587
+Nướng xém da thịt để giữ lại nước ngọt bên trong.
+@@ 588
+Nó lấp lánh, lung linh, và dụ kẻ ngốc vào chỗ diệt vong.
+@@ 589
+Nó lách tách, lấp lóe, và rình rập trong bóng tối âm u.
+@@ 590
+Nó vỡ tan, vụn nát, và kết thúc trong nấm mồ.
+@@ 591
+Nó thì thầm bên tai bạn.
+@@ 592
+Nó có thể nghe thấy cả tiếng lầm bầm khẽ nhất của bạn ...
+@@ 593
+Nó nói với bạn bằng giọng của những người bạn của bạn ...
+@@ 594
+Nhiều Engineer tự chế quần áo cho mình từ phế liệu máy móc.
+@@ 595
+Lên cót thật căng, quấn thật chặt.
+@@ 596
+Được chế tác theo những tính toán cẩn thận.
+@@ 597
+Trên sao thì dưới vậy.
+@@ 598
+Tick-Tock King giữ vai trò "bộ điều tốc" cho triều đình Tick-Tock.
+@@ 599
+Được chế tác theo những thông số chính xác tuyệt đối.
+@@ 600
+Mỗi bước chân, các bánh răng của nó lại xoay thêm một chút.

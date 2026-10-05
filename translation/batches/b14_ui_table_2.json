@@ -1,0 +1,3408 @@
+{
+ "batch": "b14_ui_table_2",
+ "count": 567,
+ "items": [
+  {
+   "id": 6609,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Randomize Features"
+  },
+  {
+   "id": 6610,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Randomize Pet Name"
+  },
+  {
+   "id": 6611,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Range"
+  },
+  {
+   "id": 6612,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Rare "
+  },
+  {
+   "id": 6613,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Rare Fishing Hole"
+  },
+  {
+   "id": 6614,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Rate of Health naturally recovered when under \\nthe character's maximum amount"
+  },
+  {
+   "id": 6615,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Rate of Mana naturally recovered when under\\nthe character's maximum amount"
+  },
+  {
+   "id": 6616,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Recall Pet"
+  },
+  {
+   "id": 6617,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Recalling pet will stop them from selling and purchasing."
+  },
+  {
+   "id": 6618,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Recipes"
+  },
+  {
+   "id": 6619,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Reconnecting..."
+  },
+  {
+   "id": 6620,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Recover Skill Point"
+  },
+  {
+   "id": 6621,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Recreate the world with randomized dungeons and fresh spawns"
+  },
+  {
+   "id": 6622,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Reduces the damage penalty if an attack is fumbled"
+  },
+  {
+   "id": 6623,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Reflows Occuring: <STAT1>"
+  },
+  {
+   "id": 6624,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Refresh Game List"
+  },
+  {
+   "id": 6625,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Reload Area"
+  },
+  {
+   "id": 6626,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Remap Controls"
+  },
+  {
+   "id": 6627,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Remember Username"
+  },
+  {
+   "id": 6628,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Remove"
+  },
+  {
+   "id": 6629,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Remove One"
+  },
+  {
+   "id": 6630,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Remove Spell"
+  },
+  {
+   "id": 6631,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Remove any current enchantments on this item"
+  },
+  {
+   "id": 6632,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Remove point"
+  },
+  {
+   "id": 6633,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Render Behind Walls"
+  },
+  {
+   "id": 6634,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Render Behind Walls causes a mesh highlight to show objects hidden behind walls.\\nDisabling Render Behind Walls improves frame rate."
+  },
+  {
+   "id": 6635,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Replay Mode: It appears you have found my body.  Very good.  This is where my memories are stored including the locations of multiple caches of treasure.  I could share these with you, if you would help me reacquire the rest of my components.\\n\\nWe should begin with my Cognition Linkage.  Without that, I won't be able to do much more than repeat this message.  My sensors tell me it is somewhere nearby.  Find it and reinstall it, and I will direct you to one of those treasure troves."
+  },
+  {
+   "id": 6636,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Required Mods"
+  },
+  {
+   "id": 6637,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Requires an\\nIdentify Scroll."
+  },
+  {
+   "id": 6638,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Reroll World"
+  },
+  {
+   "id": 6639,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Reset Skills"
+  },
+  {
+   "id": 6640,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Resetting your Skill Investment will reclaim <STAT1> |cFFEAAA15Skill Points|u."
+  },
+  {
+   "id": 6641,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Resistance to Immobilization"
+  },
+  {
+   "id": 6642,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Resistance to Slowing Effects"
+  },
+  {
+   "id": 6643,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Restart And Activate"
+  },
+  {
+   "id": 6644,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Restart And Install These Mods"
+  },
+  {
+   "id": 6645,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Restart Required"
+  },
+  {
+   "id": 6646,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Restart and Install"
+  },
+  {
+   "id": 6647,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Resume"
+  },
+  {
+   "id": 6648,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Return To Last Map"
+  },
+  {
+   "id": 6649,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Return To Town"
+  },
+  {
+   "id": 6650,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Return To Zeryphesh"
+  },
+  {
+   "id": 6651,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Return to Blightbogs"
+  },
+  {
+   "id": 6652,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Return to Surface"
+  },
+  {
+   "id": 6653,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Return to The Blightbogs"
+  },
+  {
+   "id": 6654,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Reveals the properties of an unidentified item."
+  },
+  {
+   "id": 6655,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Reward Choices"
+  },
+  {
+   "id": 6656,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Rewards"
+  },
+  {
+   "id": 6657,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Right Hand Weapon Slot (Empty)"
+  },
+  {
+   "id": 6658,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Right Mouse Button Active Skill"
+  },
+  {
+   "id": 6659,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Right-click to Equip"
+  },
+  {
+   "id": 6660,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Right-click to \\nlearn this ability"
+  },
+  {
+   "id": 6661,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Right-click to identify the item."
+  },
+  {
+   "id": 6662,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Rim Lighting *"
+  },
+  {
+   "id": 6663,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Rim Lighting adds highlight effects to the game, improving visibility and contrast.\\nRim Lighting does not have a noticeable impact on frame rate."
+  },
+  {
+   "id": 6664,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Ring Slot (Empty)"
+  },
+  {
+   "id": 6665,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Rotate Left"
+  },
+  {
+   "id": 6666,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Rotate Right"
+  },
+  {
+   "id": 6667,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Round One"
+  },
+  {
+   "id": 6668,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Round Two"
+  },
+  {
+   "id": 6669,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Run Speed"
+  },
+  {
+   "id": 6670,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Runic Log In"
+  },
+  {
+   "id": 6671,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "SAVED"
+  },
+  {
+   "id": 6672,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "SKILLS"
+  },
+  {
+   "id": 6673,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "SOUND DRIVER: <STAT1>"
+  },
+  {
+   "id": 6674,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Sadwa Mesa"
+  },
+  {
+   "id": 6675,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Save"
+  },
+  {
+   "id": 6676,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Save and Quit"
+  },
+  {
+   "id": 6677,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Save and Resume"
+  },
+  {
+   "id": 6678,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Say [Enter]"
+  },
+  {
+   "id": 6679,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "School of Warsnouts"
+  },
+  {
+   "id": 6680,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Scrap"
+  },
+  {
+   "id": 6681,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Sea Chest"
+  },
+  {
+   "id": 6682,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Secondary Weapon Set"
+  },
+  {
+   "id": 6683,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Secret Room"
+  },
+  {
+   "id": 6684,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Select Game In List"
+  },
+  {
+   "id": 6685,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Select Item Reward"
+  },
+  {
+   "id": 6686,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Select a Reward"
+  },
+  {
+   "id": 6687,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Select a Reward to Continue"
+  },
+  {
+   "id": 6688,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Select a language - requires a restart"
+  },
+  {
+   "id": 6689,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Select an item or skill to assign"
+  },
+  {
+   "id": 6690,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Select which items should appear when the Show Items button is pressed or Show Items is toggled on"
+  },
+  {
+   "id": 6691,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Sell all"
+  },
+  {
+   "id": 6692,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Sell all the items in your pet's inventory"
+  },
+  {
+   "id": 6693,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Send Pet to Town"
+  },
+  {
+   "id": 6694,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Send Pet to Town\\n\\nYour pet will sell all items in its \\ninventory and buy any items \\nrequested on your shopping list."
+  },
+  {
+   "id": 6695,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Send your pet to town, to sell and buy items"
+  },
+  {
+   "id": 6696,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Sentinal Pistol"
+  },
+  {
+   "id": 6697,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Sepulcher of Sorrows"
+  },
+  {
+   "id": 6698,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Server Name"
+  },
+  {
+   "id": 6699,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Set Item Display Filters"
+  },
+  {
+   "id": 6700,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Set Item:"
+  },
+  {
+   "id": 6701,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Settings"
+  },
+  {
+   "id": 6702,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Shadow Detail"
+  },
+  {
+   "id": 6703,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Shadow Detail sets the quality level of shadows in the game.\\nTurning off shadows will improve frame rate."
+  },
+  {
+   "id": 6704,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Shadow Skills"
+  },
+  {
+   "id": 6705,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Shark Frenzy"
+  },
+  {
+   "id": 6706,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Shift-click to Buy"
+  },
+  {
+   "id": 6707,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Shift-click to Sell"
+  },
+  {
+   "id": 6708,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Shift-click to Transfer"
+  },
+  {
+   "id": 6709,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Shopping List"
+  },
+  {
+   "id": 6710,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Should you succeed in your quest, return to me to proceed to the next |cFFEAAA15New Game Plus|u mode for more challenges.\\n\\n\\nYou may also choose to use the |cFFA1D0FCMapworks|u to hone your skills in additional mysterious dungeons."
+  },
+  {
+   "id": 6711,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Shoulders Slot (Empty)"
+  },
+  {
+   "id": 6712,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Show Blood"
+  },
+  {
+   "id": 6713,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Show Blood adds blood particles to the game."
+  },
+  {
+   "id": 6714,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Show Game"
+  },
+  {
+   "id": 6715,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Show Helmet"
+  },
+  {
+   "id": 6716,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Show Helmet toggles the display of your character's helmet."
+  },
+  {
+   "id": 6717,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Show Item Comparisons"
+  },
+  {
+   "id": 6718,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Show Offline Players"
+  },
+  {
+   "id": 6719,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Show Tips"
+  },
+  {
+   "id": 6720,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Show Tips sets helpful tooltips to be displayed during gameplay."
+  },
+  {
+   "id": 6721,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Show Weather"
+  },
+  {
+   "id": 6722,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Show Weather adds weather effect particles to the game."
+  },
+  {
+   "id": 6723,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Showing <STAT1> of <STAT2> games"
+  },
+  {
+   "id": 6724,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Sigil Skills"
+  },
+  {
+   "id": 6725,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Sign in with TapTap"
+  },
+  {
+   "id": 6726,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Single Player"
+  },
+  {
+   "id": 6727,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Skill Name"
+  },
+  {
+   "id": 6728,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Skill Panel"
+  },
+  {
+   "id": 6729,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Skill Reset"
+  },
+  {
+   "id": 6730,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Skills"
+  },
+  {
+   "id": 6731,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Skills Used"
+  },
+  {
+   "id": 6732,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Skills [[KB:SkillMenu]]"
+  },
+  {
+   "id": 6733,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Skull Hollow"
+  },
+  {
+   "id": 6734,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Slavers Den"
+  },
+  {
+   "id": 6735,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Slavers' Camp"
+  },
+  {
+   "id": 6736,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Small Treasure Chest"
+  },
+  {
+   "id": 6737,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "So what kind of monster was it? I never saw it ... I was too busy running.\\n\\nWhat? No monster? But, then, why would those soldiers say there was one ... unless ...\\n\\nSay, you don't think they were lying to me, do you?\\n\\nWait! You don't think they weren't really soldiers, do you?\\n\\nI am so gullible."
+  },
+  {
+   "id": 6738,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "So, yeah. I'm a dealer in ... \"antiquities,\" like. See? This and that, nothing special. \"Estate\" stuff, you might say. I deal with anybody's got an ... antiquity ... what they don't need no more, right? They're not usin' it anymore, so I sell it for 'em.\\n\\nOnly sometimes I have to deal with people what can't be trusted, if you know what I mean. I dig stuff up, sell it on to these people, and pocket a small ... \"commission,\" like.\\n\\nBut my latest, well, \"buyers\" ... these guys don't understand how business works. They took my ... |cFFEAAA15antiquity|u ... and didn't pay me!\\n\\nThink you can convince them to hand over my ... antiquity? I'll pay you good money ..."
+  },
+  {
+   "id": 6739,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "So, you're going after the Alchemist?  I might be able to help you.  I'm a botanist, serving the Empire by gathering various Ember-infused plants.  And I've found a virtual treasure trove of |cFFD1FF7AEmber Truffles|u, down in the |cFFD1FF7AMuckery|u but some of them have already attained sentience, and that's making it difficult for me to gather them.\\n\\nIf you can bring me, say, a dozen |cFFD1FF7AEmber Truffles|u, I'll keep ten for the Empire, and I'll use the other two to make a |cFFD1FF7ASuper Mana Potion|u for you.  Do we have a deal?"
+  },
+  {
+   "id": 6740,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Soul Basin"
+  },
+  {
+   "id": 6741,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Sounds Playing/Max Allowed: <STAT1>/<STAT2>"
+  },
+  {
+   "id": 6742,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Sparse"
+  },
+  {
+   "id": 6743,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Spawn Punchbag"
+  },
+  {
+   "id": 6744,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Spawn Skeletons"
+  },
+  {
+   "id": 6745,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Spells"
+  },
+  {
+   "id": 6746,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Spells Inventory"
+  },
+  {
+   "id": 6747,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Spells Tab"
+  },
+  {
+   "id": 6748,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Splash Damage"
+  },
+  {
+   "id": 6749,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Start Halfway Through"
+  },
+  {
+   "id": 6750,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Start Server"
+  },
+  {
+   "id": 6751,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Start in Third Area"
+  },
+  {
+   "id": 6752,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Stat points remaining to be spent"
+  },
+  {
+   "id": 6753,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Stay Close to Raise the Totems"
+  },
+  {
+   "id": 6754,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Stay Warm to Survive"
+  },
+  {
+   "id": 6755,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Stay Within the Light"
+  },
+  {
+   "id": 6756,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Steam Stats"
+  },
+  {
+   "id": 6757,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Steam Stats:"
+  },
+  {
+   "id": 6758,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Steamer Trunk"
+  },
+  {
+   "id": 6759,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Step into darkness"
+  },
+  {
+   "id": 6760,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Step into darkness ..."
+  },
+  {
+   "id": 6761,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Storm Armory"
+  },
+  {
+   "id": 6762,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Storm Skills"
+  },
+  {
+   "id": 6763,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Strength Bonus"
+  },
+  {
+   "id": 6764,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Strict NAT Detected"
+  },
+  {
+   "id": 6765,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Stygian Aerie Approach"
+  },
+  {
+   "id": 6766,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Success!"
+  },
+  {
+   "id": 6767,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Summation of all attack speed bonuses"
+  },
+  {
+   "id": 6768,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Summation of all cast speed bonuses"
+  },
+  {
+   "id": 6769,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Survive in the Arena"
+  },
+  {
+   "id": 6770,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Survive the Attack"
+  },
+  {
+   "id": 6771,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Swap Weapon Sets"
+  },
+  {
+   "id": 6772,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Switch To Primary Weapon Set 'W'"
+  },
+  {
+   "id": 6773,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Switch To Secondary Weapon Set 'W'"
+  },
+  {
+   "id": 6774,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Switch pet to be aggressive"
+  },
+  {
+   "id": 6775,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Switch pet to be defensive"
+  },
+  {
+   "id": 6776,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Switch pet to be passive"
+  },
+  {
+   "id": 6777,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "TapTap Log In"
+  },
+  {
+   "id": 6778,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Teleport to your allies or their portals"
+  },
+  {
+   "id": 6779,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Thank the Guardians! I thought I was doomed to a life of slavery ..."
+  },
+  {
+   "id": 6780,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Thank you for playing the Beta"
+  },
+  {
+   "id": 6781,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Thank you for your help.  The others are too injured to go on, so it falls to me to stay here and guard them, in addition to the Ambassador."
+  },
+  {
+   "id": 6782,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Thank you for your understanding and support!"
+  },
+  {
+   "id": 6783,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Thanks again for your help!"
+  },
+  {
+   "id": 6784,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "That game name already exists. Please choose another name for this game."
+  },
+  {
+   "id": 6785,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "The Alchemist"
+  },
+  {
+   "id": 6786,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "The Artificer"
+  },
+  {
+   "id": 6787,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "The Beast Warrens"
+  },
+  {
+   "id": 6788,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "The Berserker gains charge by attacking enemies. Upon fully charging the Berserker enters a sped-up |cFFFFBF61Frenzy|u state, where all direct attacks result in critical hits, and other attacks have an increased critical chance. Charge decays after a period of inactivity. \\n\\nFrenzy lasts for 6(|cFF03BD17+<STAT1>|u) seconds after the first strike."
+  },
+  {
+   "id": 6789,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "The BlightBogs"
+  },
+  {
+   "id": 6790,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "The Bone Clutch"
+  },
+  {
+   "id": 6791,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "The Cairn Pit"
+  },
+  {
+   "id": 6792,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "The Clockwork Core"
+  },
+  {
+   "id": 6793,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "The Downfalls"
+  },
+  {
+   "id": 6794,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "The Dwarven Labs"
+  },
+  {
+   "id": 6795,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "The Embercraft"
+  },
+  {
+   "id": 6796,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "The Embermage gains charge by damaging enemies. When the charge bar is full, the Embermage achieves total concentration for 12 seconds. During this period, skills cost no mana, and skill damage is increased by 25%. Charge will decay after a period of inactivity."
+  },
+  {
+   "id": 6797,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "The Empty Quarter"
+  },
+  {
+   "id": 6798,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "The Engineer gains charges by damaging enemies, up to a maximum of five charges. If charges are available, certain skills, like Flame Hammer, will consume a charge to significantly increase power. Some skills consume all available charges, while others help to gain charges more rapidly. Charge will decay after a period of inactivity."
+  },
+  {
+   "id": 6799,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "The Fate of the World"
+  },
+  {
+   "id": 6800,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "The Forgotten Halls"
+  },
+  {
+   "id": 6801,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "The Gorgon"
+  },
+  {
+   "id": 6802,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "The Grand Regent"
+  },
+  {
+   "id": 6803,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "The Grand Regent is dead?  The plague turned him into a host for a Nether-Beast?  I ... I ... This is too much!"
+  },
+  {
+   "id": 6804,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "The Haunted Quarter"
+  },
+  {
+   "id": 6805,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "The Honored Dead did so much for us when they were alive ... we should not treat them with disrespect now that they are dead!\\n\\nThe Tranquil Censer would put them to rest again ... if only I had not dropped it!  Are you sure you cannot find it?"
+  },
+  {
+   "id": 6806,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "The King In Masks"
+  },
+  {
+   "id": 6807,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "The Luminous Arena"
+  },
+  {
+   "id": 6808,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "The Outlander gains charge by damaging enemies. Charge will decay after a period of inactivity. Combat bonuses are received based on the current amount of charge accrued.  Additionally, Outlanders with no charge get a \"first shot\" bonus, stunning the next enemy they hit."
+  },
+  {
+   "id": 6809,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "The Rot Gardens"
+  },
+  {
+   "id": 6810,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "The Rules of the Game"
+  },
+  {
+   "id": 6811,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "The Shining Censer"
+  },
+  {
+   "id": 6812,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "The Ship Graveyard"
+  },
+  {
+   "id": 6813,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "The Siege Guardian"
+  },
+  {
+   "id": 6814,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "The Slovak National Symphony Orchestra\\n|cFFF5DB94Conducted By|u\\nKirk Trevor"
+  },
+  {
+   "id": 6815,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "The Swarmstacks"
+  },
+  {
+   "id": 6816,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "The Temple Steppes\\nvia\\nThe Path of the Honored Dead"
+  },
+  {
+   "id": 6817,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "The amount of electrical damage subtracted from incoming attacks. \\nIf an attack is partially electrical and partially other elements, the armor's \\neffective reduction is proportionally scaled to the percentage of electrical damage."
+  },
+  {
+   "id": 6818,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "The amount of fire damage subtracted from incoming attacks. \\nIf an attack is partially fire and partially other elements, the armor's \\neffective reduction is proportionally scaled to the percentage of fire damage."
+  },
+  {
+   "id": 6819,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "The amount of ice damage subtracted from incoming attacks. \\nIf an attack is partially ice and partially other elements, the armor's \\neffective reduction is proportionally scaled to the percentage of ice damage."
+  },
+  {
+   "id": 6820,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "The amount of poison damage subtracted from incoming attacks. \\nIf an attack is partially poison and partially other elements, the armor's \\neffective reduction is proportionally scaled to the percentage of poison damage."
+  },
+  {
+   "id": 6821,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "The arc in front of a weapon attack in which non-targeted \\nenemies will be damaged by a 'splash' effect"
+  },
+  {
+   "id": 6822,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "The average level of all items currently equipped."
+  },
+  {
+   "id": 6823,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "The character's base movement speed"
+  },
+  {
+   "id": 6824,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "The description is either empty or contains invalid text"
+  },
+  {
+   "id": 6825,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "The difficulty of the game"
+  },
+  {
+   "id": 6826,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "The level delta needs to be a number and cannot be blank."
+  },
+  {
+   "id": 6827,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "The max players allowed into game"
+  },
+  {
+   "id": 6828,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "The new account will reset the friend list and will not affect existing local save progress."
+  },
+  {
+   "id": 6829,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "The selected settings require a restart of the game.\\n\\nDo you want to restart now?"
+  },
+  {
+   "id": 6830,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "The server name is either blank or contains invalid text"
+  },
+  {
+   "id": 6831,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "The story so far.."
+  },
+  {
+   "id": 6832,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "There are more goblins over there!"
+  },
+  {
+   "id": 6833,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "These games use an old version of one or more mods, and cannot be joined."
+  },
+  {
+   "id": 6834,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "This character requires one or more mods which are not currently active. Would you like to restart and activate these mods automatically?"
+  },
+  {
+   "id": 6835,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "This concludes the demo of Torchlight II! We hope you had fun.\\nFor |cFFA1D0FC<STAT1>|u's sake, purchase the full game to continue your journey!\\n\\n\\n"
+  },
+  {
+   "id": 6836,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "This concludes the demo of Torchlight! We hope you had fun.\\nPurchase the full game to continue your journey!"
+  },
+  {
+   "id": 6837,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "This dropdown displays all of the mod combinations currently used in active games. If your current mod combination matches, you may join.\\nIf you have the required mods, but they are not currently active, choose 'Restart and Install' to enable them automatically.\\nIf you do not have the required mods, you will need to download them first. Steam users can automatically subscribe to and download mods using the 'Restart and Install' button."
+  },
+  {
+   "id": 6838,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "This dungeon already exists!  Join that player via direct warp or portal, or ensure that all players have vacated that realm and closed their portals and try again."
+  },
+  {
+   "id": 6839,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "This weapon's speed for one attack"
+  },
+  {
+   "id": 6840,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Three Sisters"
+  },
+  {
+   "id": 6841,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Tier I Bonus"
+  },
+  {
+   "id": 6842,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Tier II Bonus"
+  },
+  {
+   "id": 6843,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Tier III Bonus"
+  },
+  {
+   "id": 6844,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Time Expired"
+  },
+  {
+   "id": 6845,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Time Since Last Message"
+  },
+  {
+   "id": 6846,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Time Since Last Server Refresh"
+  },
+  {
+   "id": 6847,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Tip"
+  },
+  {
+   "id": 6848,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "To Crows Pass"
+  },
+  {
+   "id": 6849,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "To Drigung Grotto"
+  },
+  {
+   "id": 6850,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "To Echo Pass"
+  },
+  {
+   "id": 6851,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "To Frosted Hills\\nvia\\nCrows Pass"
+  },
+  {
+   "id": 6852,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "To Haunted Quarter"
+  },
+  {
+   "id": 6853,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "To Imperial Camp"
+  },
+  {
+   "id": 6854,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "To Jehannum"
+  },
+  {
+   "id": 6855,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "To Mapworks"
+  },
+  {
+   "id": 6856,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "To Middenmine"
+  },
+  {
+   "id": 6857,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "To Ossean Wastes"
+  },
+  {
+   "id": 6858,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "To Path of the Honored Dead"
+  },
+  {
+   "id": 6859,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "To Plunder Cove"
+  },
+  {
+   "id": 6860,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "To Rivenskull Gorge"
+  },
+  {
+   "id": 6861,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "To Salt Barrens"
+  },
+  {
+   "id": 6862,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "To Sundered Battlefield"
+  },
+  {
+   "id": 6863,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "To Swarm Point"
+  },
+  {
+   "id": 6864,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "To Tarroch's Rift"
+  },
+  {
+   "id": 6865,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "To Tarroch's Tomb"
+  },
+  {
+   "id": 6866,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "To The Blightbogs"
+  },
+  {
+   "id": 6867,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "To The Broken Mines"
+  },
+  {
+   "id": 6868,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "To The Broken Mines\\nvia\\nThe Minehead"
+  },
+  {
+   "id": 6869,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "To The Emberscratch Mines"
+  },
+  {
+   "id": 6870,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "To The Emberworks"
+  },
+  {
+   "id": 6871,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "To The Empty Quarter"
+  },
+  {
+   "id": 6872,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "To The Enclave"
+  },
+  {
+   "id": 6873,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "To The Forsaken Vaults"
+  },
+  {
+   "id": 6874,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "To The Frosted Hills"
+  },
+  {
+   "id": 6875,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "To The Rotting Crypt of Madness"
+  },
+  {
+   "id": 6876,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "To The Salt Barrens\\nvia\\nThe Empty Quarter"
+  },
+  {
+   "id": 6877,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "To The Stygian Aerie"
+  },
+  {
+   "id": 6878,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "To The Temple Steppes"
+  },
+  {
+   "id": 6879,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "To The Undercurrents"
+  },
+  {
+   "id": 6880,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "To The Witherways"
+  },
+  {
+   "id": 6881,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "To Tower of the Moon"
+  },
+  {
+   "id": 6882,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "To Wellspring Treasury"
+  },
+  {
+   "id": 6883,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "To provide long-term and stable operations, the game account system is upgraded to TapTap login starting today. You need to register or sign in with the new account system to continue playing online mode."
+  },
+  {
+   "id": 6884,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "To purchase an enchantment, place weapons, armor or trinkets here.\\n\\nThe item may receive magical enchantments,\\nor if you are unlucky, the enchantment may fizzle with no effect."
+  },
+  {
+   "id": 6885,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Toggle Active Quest Display"
+  },
+  {
+   "id": 6886,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Toggle Map"
+  },
+  {
+   "id": 6887,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Toggle Names for Items on Ground"
+  },
+  {
+   "id": 6888,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Tomb of Ligeia"
+  },
+  {
+   "id": 6889,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Total Damage this weapon does on a Critcal Hit"
+  },
+  {
+   "id": 6890,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Total Dexterity"
+  },
+  {
+   "id": 6891,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Total Focus"
+  },
+  {
+   "id": 6892,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Total Strength"
+  },
+  {
+   "id": 6893,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Total Vitality"
+  },
+  {
+   "id": 6894,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Total dexterity after bonuses"
+  },
+  {
+   "id": 6895,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Total focus after bonuses"
+  },
+  {
+   "id": 6896,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Total strength after bonuses"
+  },
+  {
+   "id": 6897,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Total vitality after bonuses"
+  },
+  {
+   "id": 6898,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Track Quest"
+  },
+  {
+   "id": 6899,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Trade"
+  },
+  {
+   "id": 6900,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Trade Pending"
+  },
+  {
+   "id": 6901,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Trade Request"
+  },
+  {
+   "id": 6902,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Trade With Player"
+  },
+  {
+   "id": 6903,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Transmuter"
+  },
+  {
+   "id": 6904,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Transmuters can combine items to create new items.\\n\\nTo perform a transmutation place the ingredients into the slots below.  If the ingredients are appropriate for a recipe, the transmutation button will become active and allow you to perform the transmutation! This will remove the necessary items and place the new item into your bag.\\n\\nThe recipe list will show the results from transmutations you've performed.  Not all of the transmutation recipes are listed so experimenters may find new recipes!\\n"
+  },
+  {
+   "id": 6905,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Travel"
+  },
+  {
+   "id": 6906,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Travel to Estheria"
+  },
+  {
+   "id": 6907,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Travel to Zeryphesh"
+  },
+  {
+   "id": 6908,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Travis Baldree\\nBrian Barhorst\\nJason Beck\\nPatrick Blank\\nGreg Brown\\nSirio Brozzi\\nKyle Cornelius\\nJohn Dunbar\\nBen Evans\\nMike Fisher\\nMike Franchina\\nAllen Fong\\nPeter Hu\\nJeremy Huxley\\nBrock Jones\\nJason Lamb\\nMatt Lefferts\\nMarsh Lefler\\nJeff Mianowski\\n"
+  },
+  {
+   "id": 6909,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Trinkets"
+  },
+  {
+   "id": 6910,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Tundra Skills"
+  },
+  {
+   "id": 6911,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Tunic of Triangulation"
+  },
+  {
+   "id": 6912,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Twitch of the Death Nerve"
+  },
+  {
+   "id": 6913,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "UI Scale (Updates on Apply)"
+  },
+  {
+   "id": 6914,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "UI Textures( <STAT1>) Size: <STAT2>"
+  },
+  {
+   "id": 6915,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Um ... I know this is a lot to ask, us being strangers ... but, um, I seem to have misplaced my |cFFEAAA15pocketwatch|u. It's about yea big, with a little windy thing on top, and, um, numbers ... on the face. Like, well ... a watch.\\n\\nI had it when I stopped to chat with those other fellows, earlier, but I don't remember seeing it after that. I must have dropped it.\\n\\nWait ... you don't think they stole it, do you?\\n\\nUm ... any chance you could go ask them ...? I'd go ... but they seemed kind of, um, mean."
+  },
+  {
+   "id": 6916,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Unable To Warp"
+  },
+  {
+   "id": 6917,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Unable to teleport to the player's current area."
+  },
+  {
+   "id": 6918,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Unable to use dynamite on this fishing hole!"
+  },
+  {
+   "id": 6919,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Unblock"
+  },
+  {
+   "id": 6920,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Unblock Player"
+  },
+  {
+   "id": 6921,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Unconfirm Trade"
+  },
+  {
+   "id": 6922,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Underwater Webs"
+  },
+  {
+   "id": 6923,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Unfriend"
+  },
+  {
+   "id": 6924,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Unfriend Player"
+  },
+  {
+   "id": 6925,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Unique "
+  },
+  {
+   "id": 6926,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Unlearn Spells"
+  },
+  {
+   "id": 6927,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Unlit Brazier"
+  },
+  {
+   "id": 6928,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Unlit Campfire"
+  },
+  {
+   "id": 6929,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Unlock at Level 1"
+  },
+  {
+   "id": 6930,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Unspent\\nSkill Points"
+  },
+  {
+   "id": 6931,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Unspent\\nStat Points"
+  },
+  {
+   "id": 6932,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Updating..."
+  },
+  {
+   "id": 6933,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Upon |cFFA1D0FCleveling up |uyou will be given 5 |cFFA1D0FCstat points|u and 1 |cFFA1D0FCskill point|u. The |cFFA1D0FCCharacter Panel|u and |cFFA1D0FCSkill Panel |utabs will blink when you have points to invest."
+  },
+  {
+   "id": 6934,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Use Best Health Potion"
+  },
+  {
+   "id": 6935,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Use Best Mana Potion"
+  },
+  {
+   "id": 6936,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Use Skill"
+  },
+  {
+   "id": 6937,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Use the |cFFA1D0FCLeft Mouse Button|u to move, attack and pick up items.\\n\\nUse the |cFFA1D0FCRight Mouse Button|u to use the currently active skill. Skills consume mana when used.  Mana will recharge over time."
+  },
+  {
+   "id": 6938,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Valve"
+  },
+  {
+   "id": 6939,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Vanquish your foes\\nwith haste"
+  },
+  {
+   "id": 6940,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Vault"
+  },
+  {
+   "id": 6941,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Vault_wall_crawler_spawner"
+  },
+  {
+   "id": 6942,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Verbose"
+  },
+  {
+   "id": 6943,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Vertical Sync fixes screen tearing.\\nDisabling VSync can improve frame rate."
+  },
+  {
+   "id": 6944,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Vertical Synchronization (VSync) *"
+  },
+  {
+   "id": 6945,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Very High"
+  },
+  {
+   "id": 6946,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Video"
+  },
+  {
+   "id": 6947,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "View modded game sets"
+  },
+  {
+   "id": 6948,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Vitality Bonus"
+  },
+  {
+   "id": 6949,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Vote To Kick Player From Game"
+  },
+  {
+   "id": 6950,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "WARNING: High Latency Connection.  You may experience problems playing with this person."
+  },
+  {
+   "id": 6951,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "WARNING: NAT Problems Detected.  You may have experience problems playing the game with this person."
+  },
+  {
+   "id": 6952,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "WINTER WIDOW"
+  },
+  {
+   "id": 6953,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Waiting for TapTap authorization..."
+  },
+  {
+   "id": 6954,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Waiting for\\n<STAT1>\\nto accept trade request."
+  },
+  {
+   "id": 6955,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Wake of the Alchemist"
+  },
+  {
+   "id": 6956,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Warfare Skills"
+  },
+  {
+   "id": 6957,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Warnings"
+  },
+  {
+   "id": 6958,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Warp"
+  },
+  {
+   "id": 6959,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Warp To Player"
+  },
+  {
+   "id": 6960,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Warp to"
+  },
+  {
+   "id": 6961,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Warp to Player"
+  },
+  {
+   "id": 6962,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Warp to Player's Portal"
+  },
+  {
+   "id": 6963,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Warp to Zeryphesh"
+  },
+  {
+   "id": 6964,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Warp to portal in"
+  },
+  {
+   "id": 6965,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Warp to your portal"
+  },
+  {
+   "id": 6966,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Watchweald Approach"
+  },
+  {
+   "id": 6967,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Watchweald Portal"
+  },
+  {
+   "id": 6968,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Water Guardian Palace"
+  },
+  {
+   "id": 6969,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Wave 1"
+  },
+  {
+   "id": 6970,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Wave Four"
+  },
+  {
+   "id": 6971,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Wave Three"
+  },
+  {
+   "id": 6972,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Weapon Set Swap Toggle"
+  },
+  {
+   "id": 6973,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Weapons for sale"
+  },
+  {
+   "id": 6974,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Well, well!  Back so soon?  Oh, you don't have the tools yet ... \\n\\nWell, come back when you do!"
+  },
+  {
+   "id": 6975,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Well, you look like you could help. I suppose you only speak some Vilderan barbarian language, don't you? So hard to find any translators out here, so far from the Empire ...\\n\\nHello! You help me! Okay? See? Help ... me. No speak! Okay! No speak? Just listen! \"Listen.\"\\n\\nMe ... lose ... something. |cFFEAAA15Necklace|u! See? \"Neck. Lace.\" Bandits ... take! Me ... want neck-lace back! See? You! Kill bandits ... get neck-lace! Bring neck-lace back! Me give money! \"Money.\" Okay? You understand? \"Money?\"\\n\\nGo on! Go, now! Go get necklace! \"Neck-lace!\""
+  },
+  {
+   "id": 6976,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Wellspring Approach"
+  },
+  {
+   "id": 6977,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "When Show Item Comparisons is enabled, item tooltips will also display a \\ncomparison tooltip showing your equipped items of the same type."
+  },
+  {
+   "id": 6978,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Whirlpool of Fate"
+  },
+  {
+   "id": 6979,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Whisper"
+  },
+  {
+   "id": 6980,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Whisper To Player"
+  },
+  {
+   "id": 6981,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Widowmaker Woods"
+  },
+  {
+   "id": 6982,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Will list games near my level"
+  },
+  {
+   "id": 6983,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Windowed"
+  },
+  {
+   "id": 6984,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Windowed Fullscreen"
+  },
+  {
+   "id": 6985,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Wow! They actually gave it back to you? That's amazing! I was sure they'd deny they had it ... or at least put up a fight ... oh.\\n\\nWell, um ... how about I give you a reward, for returning my watch?"
+  },
+  {
+   "id": 6986,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Yeah, that's the thing! Medallion, like. Bit dirty, but that's the way of antiquities, ain't it? People leave 'em lying around, in old boxes, forget all about 'em. Nasty business, but no sense lettin' a prize like this go to waste, eh?"
+  },
+  {
+   "id": 6987,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Yes"
+  },
+  {
+   "id": 6988,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Yoon Im\\nAlly Gu\\nAllen Fong\\nJason Lee\\nDavis Li\\nLukasz Pason\\nBill Wang\\nMatt Wyatt\\nChuck Yang\\n\\n"
+  },
+  {
+   "id": 6989,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "You ... friend! Me ... friend! You ... kill ... bandits! Me ... not bandit! You no kill ... me! See? No ... kill ... me!\\n\\nWell, lucky that seems to have sunk in, at any rate."
+  },
+  {
+   "id": 6990,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "You Will Receive"
+  },
+  {
+   "id": 6991,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "You can teleport to any player in the game from a waygate. Select the player below to teleport to them."
+  },
+  {
+   "id": 6992,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "You can't create this type of dungeon, because another player or portal exists in a similar dungeon. Either close portals to that dungeon and try again or join that player."
+  },
+  {
+   "id": 6993,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "You can't find it? But ... if I return without it, I'll be banished!"
+  },
+  {
+   "id": 6994,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "You cannot retire until you reach level"
+  },
+  {
+   "id": 6995,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "You found it! Capital!\\n\\nOh, right ... you have no idea what I'm saying, do you?\\n\\nOkay! You ... okay! Bring back necklace! Okay! Me give money! You give necklace ... me give money. Yes! Yes, you've got it!\\n\\nHonestly, you'd think you savages would at least try to learn a civilized language ..."
+  },
+  {
+   "id": 6996,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "You found some!  Oh, thank the gods. A few moments' work, and yes, there it is:  a healing poultice.  Now it will just take a little rest, and I'll be good as new.\\n\\nAs it turns out, you brought back more leaves than I needed.  So, here:  a Healing Poultice for you, as a reward.  Should you be badly injured, it'll set you right in no time!"
+  },
+  {
+   "id": 6997,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "You have points to spend"
+  },
+  {
+   "id": 6998,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "You have retrieved the Tranquil Censer! Thank you!\\n\\nI can use the censer to purge the necromantic stain from the Path of the Honored Dead. Guardians willing, that should let the Honored Dead return to their tombs in peace."
+  },
+  {
+   "id": 6999,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "You may not join a game with a different New Game Plus rank"
+  },
+  {
+   "id": 7000,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "You may now enter |cFFEAAA15New Game Plus|u mode!\\n\\nIf you choose this path, you will restart your adventure with your current character, and the world will be increased in level to match. "
+  },
+  {
+   "id": 7001,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "You must first speak with the Grand Regent before using portals."
+  },
+  {
+   "id": 7002,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "You saved my life! I thought those ratlins had my number, for sure!"
+  },
+  {
+   "id": 7003,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "You were in some sort of Nether-version of the Empty Quarter?  That's unsettling, because there was a strange, cold wind blowing out of the Empty Quarter while you were gone."
+  },
+  {
+   "id": 7004,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "You're really amazing. You know that? All my life I've been afraid of people like that ... then you just casually walk up to them and get my money back! Thank you again!"
+  },
+  {
+   "id": 7005,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Your basic attack."
+  },
+  {
+   "id": 7006,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Your browser will open to complete login."
+  },
+  {
+   "id": 7007,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Your fight is ended.\\nMemories of you will fade.\\nSilence, all is lost."
+  },
+  {
+   "id": 7008,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Your next adventure will begin at Level |cFFA1D0FC<STAT1>|u"
+  },
+  {
+   "id": 7009,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Your pet has also returned with some selected items. Insignificant funds for all items requested."
+  },
+  {
+   "id": 7010,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Your pet has also returned with your selected items."
+  },
+  {
+   "id": 7011,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Your pet meets you in town with your requested items."
+  },
+  {
+   "id": 7012,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Your pet meets you in town, and brings you"
+  },
+  {
+   "id": 7013,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Your pet meets you in town."
+  },
+  {
+   "id": 7014,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Your pet meets you in town. Insufficient funds were available for requested purchases."
+  },
+  {
+   "id": 7015,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Your pet meets you in town. Profits were used to purchase your selected items."
+  },
+  {
+   "id": 7016,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Your pet returns from town and profits were used to purchase your selected items."
+  },
+  {
+   "id": 7017,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Your pet returns from town with your requested items."
+  },
+  {
+   "id": 7018,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Your pet returns from town, and brings you"
+  },
+  {
+   "id": 7019,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Your pet returns from town."
+  },
+  {
+   "id": 7020,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Zoom In"
+  },
+  {
+   "id": 7021,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Zoom Out"
+  },
+  {
+   "id": 7022,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "[DMGTYPE] Damage Taken is increased by [VALUE]%"
+  },
+  {
+   "id": 7023,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "[ITEM] of Acid Rain"
+  },
+  {
+   "id": 7024,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "[KB:Automap]"
+  },
+  {
+   "id": 7025,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "[KB:BESTMANA]"
+  },
+  {
+   "id": 7026,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "[KB:BESTPOTION]"
+  },
+  {
+   "id": 7027,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "[KB:CastSkill]"
+  },
+  {
+   "id": 7028,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "[KB:F1]"
+  },
+  {
+   "id": 7029,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "[KB:InventoryMenu]"
+  },
+  {
+   "id": 7030,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "[KB:Journal]"
+  },
+  {
+   "id": 7031,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "[KB:Move/Attack]"
+  },
+  {
+   "id": 7032,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "[KB:OptionsMenu]"
+  },
+  {
+   "id": 7033,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "[KB:PetMenu]"
+  },
+  {
+   "id": 7034,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "[KB:QK0]"
+  },
+  {
+   "id": 7035,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "[KB:QK1]"
+  },
+  {
+   "id": 7036,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "[KB:QK2]"
+  },
+  {
+   "id": 7037,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "[KB:QK3]"
+  },
+  {
+   "id": 7038,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "[KB:QK4]"
+  },
+  {
+   "id": 7039,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "[KB:QK5]"
+  },
+  {
+   "id": 7040,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "[KB:QK6]"
+  },
+  {
+   "id": 7041,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "[KB:QK7]"
+  },
+  {
+   "id": 7042,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "[KB:QK8]"
+  },
+  {
+   "id": 7043,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "[KB:QK9]"
+  },
+  {
+   "id": 7044,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "[KB:QuestMenu]"
+  },
+  {
+   "id": 7045,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "[KB:ShowItems]"
+  },
+  {
+   "id": 7046,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "[KB:SkillMenu]"
+  },
+  {
+   "id": 7047,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "[KB:StatMenu]"
+  },
+  {
+   "id": 7048,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "[KB:WeaponSwap]"
+  },
+  {
+   "id": 7049,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "[VALUE]% chance to reflect missiles at [VALUE3AND4]% weapon DPS\\n for [DURATION]"
+  },
+  {
+   "id": 7050,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "a friend and a blocked player are in this game"
+  },
+  {
+   "id": 7051,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "a friend and a player who has blocked you are in this game"
+  },
+  {
+   "id": 7052,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "a friend is in this game"
+  },
+  {
+   "id": 7053,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "a player who has blocked you is in this game"
+  },
+  {
+   "id": 7054,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "a player you have blocked is in this game"
+  },
+  {
+   "id": 7055,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "backward"
+  },
+  {
+   "id": 7056,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "bootsImageState"
+  },
+  {
+   "id": 7057,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "cancel"
+  },
+  {
+   "id": 7058,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "chance for proc"
+  },
+  {
+   "id": 7059,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "cheat!"
+  },
+  {
+   "id": 7060,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "del"
+  },
+  {
+   "id": 7061,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "down arrow"
+  },
+  {
+   "id": 7062,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "end"
+  },
+  {
+   "id": 7063,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "forward"
+  },
+  {
+   "id": 7064,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "home"
+  },
+  {
+   "id": 7065,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "ins"
+  },
+  {
+   "id": 7066,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "left arrow"
+  },
+  {
+   "id": 7067,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "media/ui/pieces/arbiter_charge_bar_tooltip.layout"
+  },
+  {
+   "id": 7068,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "media/ui/pieces/berserker_charge_bar_tooltip.layout"
+  },
+  {
+   "id": 7069,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "media/ui/pieces/dexterity_rollover.layout"
+  },
+  {
+   "id": 7070,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "media/ui/pieces/effect_tooltip.layout"
+  },
+  {
+   "id": 7071,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "media/ui/pieces/engineer_charge_bar_tooltip.layout"
+  },
+  {
+   "id": 7072,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "media/ui/pieces/equipment_rollover.layout"
+  },
+  {
+   "id": 7073,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "media/ui/pieces/mp_tooltip.layout"
+  },
+  {
+   "id": 7074,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "media/ui/pieces/outlander_charge_bar_tooltip.layout"
+  },
+  {
+   "id": 7075,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "media/ui/pieces/perk_rollover.layout"
+  },
+  {
+   "id": 7076,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "media/ui/pieces/recipe_rollover.layout"
+  },
+  {
+   "id": 7077,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "media/ui/pieces/skill_rollover.layout"
+  },
+  {
+   "id": 7078,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "media/ui/pieces/skilltier_rollover.layout"
+  },
+  {
+   "id": 7079,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "media/ui/pieces/unit_data.layout"
+  },
+  {
+   "id": 7080,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "media/ui/pieces/xpbar_tooltip.layout"
+  },
+  {
+   "id": 7081,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "pgdn"
+  },
+  {
+   "id": 7082,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "pgup"
+  },
+  {
+   "id": 7083,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "right arrow"
+  },
+  {
+   "id": 7084,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "safgtsdfg"
+  },
+  {
+   "id": 7085,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "space"
+  },
+  {
+   "id": 7086,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "up arrow"
+  },
+  {
+   "id": 7087,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "version: <STAT1>"
+  },
+  {
+   "id": 7088,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "|c0097ffa1Left Hand Weapon|u"
+  },
+  {
+   "id": 7089,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "|c0097ffa1Right Hand Weapon|u"
+  },
+  {
+   "id": 7090,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "|cB4FFFFFF<STAT1>|u"
+  },
+  {
+   "id": 7091,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "|cFF1596EF<STAT1>|u"
+  },
+  {
+   "id": 7092,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "|cFF4B4B4B<STAT1>|u"
+  },
+  {
+   "id": 7093,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "|cFF4B4B4BSkill Points: <STAT1>|u"
+  },
+  {
+   "id": 7094,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "|cFF4B4B4BStat Points|u"
+  },
+  {
+   "id": 7095,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "|cFF917D56Password|u"
+  },
+  {
+   "id": 7096,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "|cFF917D56Username|u"
+  },
+  {
+   "id": 7097,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "|cFFA1D0FCCasual Mode|u is great for players of all ages who favor fun action without deeper challenge."
+  },
+  {
+   "id": 7098,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "|cFFA1D0FCCurrent Room|u: <STAT1>"
+  },
+  {
+   "id": 7099,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "|cFFA1D0FCElite Mode|u is for advanced or brave players. The monsters are significantly tougher and you may die often. Your adventure will likely take more time than in other game modes."
+  },
+  {
+   "id": 7100,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "|cFFA1D0FCLevelSeed|u: <STAT1>"
+  },
+  {
+   "id": 7101,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "|cFFA1D0FCPeer Data|u:\\n<STAT1>"
+  },
+  {
+   "id": 7102,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "|cFFA1D0FCPlayer Pos|u: <STAT1>"
+  },
+  {
+   "id": 7103,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "|cFFA1D0FCRegion|u: <STAT1>"
+  },
+  {
+   "id": 7104,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "|cFFA1D0FCRooms|u:\\n<STAT1>"
+  },
+  {
+   "id": 7105,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "|cFFA1D0FCRule Set|u: <STAT1>"
+  },
+  {
+   "id": 7106,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "|cFFA1D0FCThemes|u:\\n<STAT1>"
+  },
+  {
+   "id": 7107,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "|cFFA1D0FCVeteran Mode|u is intended for players familiar with Torchlight. If the challenges become too difficult, you may need to take extra time to improve your character's abilities to progress."
+  },
+  {
+   "id": 7108,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "|cFFB29560Are you sure you wish to quit?|u"
+  },
+  {
+   "id": 7109,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "|cFFD1FF7ALeft-Hand|u"
+  },
+  {
+   "id": 7110,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "|cFFD1FF7ARight-Hand|u"
+  },
+  {
+   "id": 7111,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "|cFFE0E0E0Damage: <STAT1>-<STAT2>|u"
+  },
+  {
+   "id": 7112,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "|cFFEAAA15( * Restart Required )|u"
+  },
+  {
+   "id": 7113,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "|cFFEAAA15<STAT1>|u"
+  },
+  {
+   "id": 7114,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "|cFFEAAA15Additional Artwork|u"
+  },
+  {
+   "id": 7115,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "|cFFEAAA15Appearance|u"
+  },
+  {
+   "id": 7116,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "|cFFEAAA15Built Using|u"
+  },
+  {
+   "id": 7117,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "|cFFEAAA15Character Name|u"
+  },
+  {
+   "id": 7118,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "|cFFEAAA15Dexterity|u increases the chance to perform |cFFA1D0FCcritical strikes|u and |cFFA1D0FCdodge|u enemy attacks. Dexterity also increases |cFFA1D0FCfumble recovery|u."
+  },
+  {
+   "id": 7119,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "|cFFEAAA15Difficulty|u"
+  },
+  {
+   "id": 7120,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "|cFFEAAA15Face|u"
+  },
+  {
+   "id": 7121,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "|cFFEAAA15Focus|u increases |cFFA1D0FCmana|u (MP) and all |cFFA1D0FCelemental damage|u.  Focus also increases the chance to |cFFA1D0FCexecute|u (strike with both hands simultaneously)."
+  },
+  {
+   "id": 7122,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "|cFFEAAA15Hair Color|u"
+  },
+  {
+   "id": 7123,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "|cFFEAAA15Hair|u"
+  },
+  {
+   "id": 7124,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "|cFFEAAA15Hardcore Mode|u"
+  },
+  {
+   "id": 7125,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "|cFFEAAA15Klei Entertainment|u"
+  },
+  {
+   "id": 7126,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "|cFFEAAA15Level <STAT1>|u"
+  },
+  {
+   "id": 7127,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "|cFFEAAA15Level <STAT1>|u  <STAT2>"
+  },
+  {
+   "id": 7128,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "|cFFEAAA15Orchestral Recording|u"
+  },
+  {
+   "id": 7129,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "|cFFEAAA15Perfect World|u"
+  },
+  {
+   "id": 7130,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "|cFFEAAA15Pet Name|u"
+  },
+  {
+   "id": 7131,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "|cFFEAAA15Runic Games|u"
+  },
+  {
+   "id": 7132,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "|cFFEAAA15Select Class|u"
+  },
+  {
+   "id": 7133,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "|cFFEAAA15Select Pet|u"
+  },
+  {
+   "id": 7134,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "|cFFEAAA15Skill Points: <STAT1>|u"
+  },
+  {
+   "id": 7135,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "|cFFEAAA15Special Thanks|u"
+  },
+  {
+   "id": 7136,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "|cFFEAAA15Stat Points|u"
+  },
+  {
+   "id": 7137,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "|cFFEAAA15Strength|u increases |cFFA1D0FCall weapon damage |uas well as the amount of bonus damage done when performing |cFFA1D0FCcritical strikes|u."
+  },
+  {
+   "id": 7138,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "|cFFEAAA15Thank you for playing!|u"
+  },
+  {
+   "id": 7139,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "|cFFEAAA15Vitality|u increases |cFFA1D0FChealth|u (HP), total |cFFA1D0FCarmor|u and the chance to |cFFA1D0FCblock|u with shields."
+  },
+  {
+   "id": 7140,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "|cFFEAAA15Voice Talent|u"
+  },
+  {
+   "id": 7141,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "|cFFF2BF4D<STAT1>|u"
+  },
+  {
+   "id": 7142,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "|cFFF2BF4DAvg. Item Level:|u\\n <STAT1>"
+  },
+  {
+   "id": 7143,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "|cFFF2BF4DTime Played:|u\\n <STAT1>"
+  },
+  {
+   "id": 7144,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "|cFFF5DB94-You Found-|u "
+  },
+  {
+   "id": 7145,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "|cFFF5DB94<STAT1>|u"
+  },
+  {
+   "id": 7146,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "|cFFF5DB94<STAT1>|u demands you fight on!"
+  },
+  {
+   "id": 7147,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "|cFFF5DB94<STAT1>|u loves you."
+  },
+  {
+   "id": 7148,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "|cFFF5DB94Animation|u\\nJeff Agala\\nAaron Bouthillier\\nAllan Cortez\\nJordan Krahn\\nEugene Trakhtenberg\\n\\n|cFFF5DB94Backgrounds|u\\nMeghan Shaw\\nVangelis Christou"
+  },
+  {
+   "id": 7149,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "|cFFF5DB94At Current Level|u"
+  },
+  {
+   "id": 7150,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "|cFFF5DB94Attack Statistics|u"
+  },
+  {
+   "id": 7151,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "|cFFF5DB94Crest of Pools|u"
+  },
+  {
+   "id": 7152,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "|cFFF5DB94Crest of Rivers|u"
+  },
+  {
+   "id": 7153,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "|cFFF5DB94Crest of Tides|u"
+  },
+  {
+   "id": 7154,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "|cFFF5DB94Defense Statistics|u"
+  },
+  {
+   "id": 7155,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "|cFFF5DB94Director|u \\nJeff Agala\\n\\n|cFFF5DB94Production Coordinator |u\\nSharon Roberts\\n\\n\\n|cFFF5DB94Sound |u\\nAlan Wong-Moon\\nMatthew Marteinsson"
+  },
+  {
+   "id": 7156,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "|cFFF5DB94Engineer|u\\nHubert Geschwandtner\\n\\n|cFFF5DB94Producer|u\\nEmil Niznansky\\n\\n|cFFF5DB94Orchestra Management|u\\nMarian Turner\\n\\n|cFFF5DB94Score Preparation|u\\nJason Poss and Danita Ng-Poss"
+  },
+  {
+   "id": 7157,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "|cFFF5DB94Game Data|u"
+  },
+  {
+   "id": 7158,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "|cFFF5DB94General Statistics|u"
+  },
+  {
+   "id": 7159,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "|cFFF5DB94Mask of Kings|u"
+  },
+  {
+   "id": 7160,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "|cFFF5DB94Mask of Queens|u"
+  },
+  {
+   "id": 7161,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "|cFFF5DB94Mask of Wariz|u"
+  },
+  {
+   "id": 7162,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "|cFFF5DB94Miscellaneous Statistics|u"
+  },
+  {
+   "id": 7163,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "|cFFFF0000-<STAT1>%|u"
+  },
+  {
+   "id": 7164,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "|cFFFF0000Hardcore|u"
+  },
+  {
+   "id": 7165,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "|cFFFF0000You Have Perished!|u"
+  },
+  {
+   "id": 7166,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "|cFFFFBF61A Gem Socket|u"
+  },
+  {
+   "id": 7167,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "|cFFFFBF61Firewood Needed|u"
+  },
+  {
+   "id": 7168,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "|cFFFFBF61Gem Needed|u"
+  },
+  {
+   "id": 7169,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "|cFFFFBF61Insufficient Funds|u"
+  },
+  {
+   "id": 7170,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "|cFFFFBF61Locked|u"
+  },
+  {
+   "id": 7171,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "|cFFFFBF61Needs Gem|u"
+  },
+  {
+   "id": 7172,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "|cFFFFBF61Needs Plunger|u"
+  },
+  {
+   "id": 7173,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "|cFFFFBF61Needs Souls|u"
+  },
+  {
+   "id": 7174,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "|cFFFFBF61Not Enough Crab Legs|u"
+  },
+  {
+   "id": 7175,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "|cFFFFBF61Shovel Needed|u"
+  }
+ ]
+}

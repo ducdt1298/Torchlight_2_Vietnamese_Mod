@@ -1,0 +1,3402 @@
+{
+ "batch": "b09_skills_engineer_berserker",
+ "count": 566,
+ "items": [
+  {
+   "id": 2944,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/AOESLASH/AOESLASH.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "You execute a brutal series of slashes, inflicting three strikes on all foes within 4 meters. Enemy armor is weakened with each strike."
+  },
+  {
+   "id": 2945,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/AOESLASH/AOESLASH.DAT | SKILL | REQUIREMENT_DESCRIPTION",
+   "en": "Requires a melee weapon equipped in the right hand"
+  },
+  {
+   "id": 2946,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/AOESLASH/AOESLASH.DAT | SKILL | TIER1_DESCRIPTION",
+   "en": "You are immune to knockback and slowing effects while casting Ravage"
+  },
+  {
+   "id": 2947,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/AOESLASH/AOESLASH.DAT | SKILL | TIER2_DESCRIPTION",
+   "en": "Armor weakness duration is extended to 6 seconds"
+  },
+  {
+   "id": 2948,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/AOESLASH/AOESLASH.DAT | SKILL | TIER3_DESCRIPTION",
+   "en": "Range increased to 5 meters"
+  },
+  {
+   "id": 2949,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/BATTLERAGE/BATTLERAGE.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "You enter an enraged state during which your damage is amplified based on the number of foes within 4 meters. The rage lasts for 60 seconds."
+  },
+  {
+   "id": 2950,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/BATTLERAGE/BATTLERAGE.DAT | SKILL | TIER1_DESCRIPTION",
+   "en": "Damage you take is also reduced by foe proximity"
+  },
+  {
+   "id": 2951,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/BATTLERAGE/BATTLERAGE.DAT | SKILL | TIER2_DESCRIPTION",
+   "en": "Aura range increases to 5 meters"
+  },
+  {
+   "id": 2952,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/BATTLERAGE/BATTLERAGE.DAT | SKILL | TIER3_DESCRIPTION",
+   "en": "Aura range increases to 6 meters"
+  },
+  {
+   "id": 2953,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/BATTLESTANDARD/BATTLESTANDARD.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "The ancient standard of your tribe imbues you and your allies with increased evasion, resistance to knockback, and increased charge gain while within its 9 meter influence."
+  },
+  {
+   "id": 2954,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/BATTLESTANDARD/BATTLESTANDARD.DAT | SKILL | TIER1_DESCRIPTION",
+   "en": "Increased mana recharge"
+  },
+  {
+   "id": 2955,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/BATTLESTANDARD/BATTLESTANDARD.DAT | SKILL | TIER2_DESCRIPTION",
+   "en": "Influence range increased to 15 meters"
+  },
+  {
+   "id": 2956,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/BATTLESTANDARD/BATTLESTANDARD.DAT | SKILL | TIER3_DESCRIPTION",
+   "en": "Standard duration doubled"
+  },
+  {
+   "id": 2957,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/BERSERKERRAGE/BERSERKER RAGE END.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "Return to normal"
+  },
+  {
+   "id": 2958,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/BERSERKERRAGE/BERSERKER RAGE.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "Enrage, dealing only critical strikes until charge bar is emptied."
+  },
+  {
+   "id": 2959,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/BIGSTRIKE/BIGSTRIKE.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "You perform a devastating uppercut that inflicts heavy damage on a single target. With each successive hit, you grow in power. Raze does not generate |c00ff9933Charge|u."
+  },
+  {
+   "id": 2960,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/BIGSTRIKE/BIGSTRIKE.DAT | SKILL | TIER1_DESCRIPTION",
+   "en": "Target is slowed"
+  },
+  {
+   "id": 2961,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/BIGSTRIKE/BIGSTRIKE.DAT | SKILL | TIER2_DESCRIPTION",
+   "en": "Target has decreased attack accuracy"
+  },
+  {
+   "id": 2962,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/BIGSTRIKE/BIGSTRIKE.DAT | SKILL | TIER3_DESCRIPTION",
+   "en": "Target is stunned"
+  },
+  {
+   "id": 2963,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/DASH/DASH.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "The shadow wolf spirit overtakes you! While the skill remains active, you dash continuously through foes, leaving them bleeding in your wake."
+  },
+  {
+   "id": 2964,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/DASH/DASH.DAT | SKILL | TIER1_DESCRIPTION",
+   "en": "Enemy Armor decreased by 20% for 6 seconds"
+  },
+  {
+   "id": 2965,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/DASH/DASH.DAT | SKILL | TIER2_DESCRIPTION",
+   "en": "Enemy Armor decreased by 30% for 8 seconds"
+  },
+  {
+   "id": 2966,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/DASH/DASH.DAT | SKILL | TIER3_DESCRIPTION",
+   "en": "Enemy Armor decreased by 40% for 10 seconds"
+  },
+  {
+   "id": 2967,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/EVADE/EVADE.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "Your dodge skill increases to 100% for the next second, and then:\\n80% for one second ofter that,\\n60% for one second ofter that,\\n40% for one second ofter that, and then\\n20% for the final second.\\n"
+  },
+  {
+   "id": 2968,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/EVISCERATE/EVISCERATE.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "You tear into all enemies directly in front of you, leaving them bleeding for 6 seconds. Base range is 2.7 meters within a 120 degree arc. Eviscerate has a 67% |c00ff9933Charge|u rate penalty."
+  },
+  {
+   "id": 2969,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/EVISCERATE/EVISCERATE.DAT | SKILL | TIER1_DESCRIPTION",
+   "en": "Range increased to 3 meters and arc to 180 degrees\\nBleeding is amplified over a shorter, 4 second duration"
+  },
+  {
+   "id": 2970,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/EVISCERATE/EVISCERATE.DAT | SKILL | TIER2_DESCRIPTION",
+   "en": "Range increased to 3.3 meters and arc to 240 degrees\\nBleeding amplified over a shorter, 2 second duration"
+  },
+  {
+   "id": 2971,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/EVISCERATE/EVISCERATE.DAT | SKILL | TIER3_DESCRIPTION",
+   "en": "Range increased to 4 meters"
+  },
+  {
+   "id": 2972,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/EVISCERATE/EVISCERATE2.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "You tear into all enemies directly in front of you, slashing 3 times. Eviscerate attacks gain half of normal |c00ff9933Charge|u."
+  },
+  {
+   "id": 2973,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/FIREBREATH/FIREBREATH.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "OLD! not in use"
+  },
+  {
+   "id": 2974,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/GEYSERS/GEYSERS.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "The earth is sundered and 5 geysers burst forth at the target location, blinding and damaging foes with superheated air and water."
+  },
+  {
+   "id": 2975,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/GEYSERS/GEYSERS.DAT | SKILL | TIER1_DESCRIPTION",
+   "en": "7 geysers are created"
+  },
+  {
+   "id": 2976,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/GEYSERS/GEYSERS.DAT | SKILL | TIER2_DESCRIPTION",
+   "en": "Foes are also ignited"
+  },
+  {
+   "id": 2977,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/GEYSERS/GEYSERS.DAT | SKILL | TIER3_DESCRIPTION",
+   "en": "9 geysers are created"
+  },
+  {
+   "id": 2978,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/GLACIALSPIKE/GLACIALSPIKE.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "The Berserker drives a glacial spike into his foes. The spike explodes after 2 seconds, dealing ice damage to nearby enemies, freezing them, and reducing ice resistance.\\n\\nDriving a second glacial spike into the first causes them to simultaneously shatter, increasing damage and affecting a larger area."
+  },
+  {
+   "id": 2979,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/GUTPUNCH/GUTPUNCH.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "You knock a single enemy back with a devastating strike. After a brief delay, the target explodes, damaging all foes within 4 meters."
+  },
+  {
+   "id": 2980,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/GUTPUNCH/GUTPUNCH.DAT | SKILL | TIER1_DESCRIPTION",
+   "en": "Explosion radius increased to 5 meters"
+  },
+  {
+   "id": 2981,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/GUTPUNCH/GUTPUNCH.DAT | SKILL | TIER2_DESCRIPTION",
+   "en": "Explosion radius increased to 6 meters"
+  },
+  {
+   "id": 2982,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/GUTPUNCH/GUTPUNCH.DAT | SKILL | TIER3_DESCRIPTION",
+   "en": "Explosion radius increased to 7 meters"
+  },
+  {
+   "id": 2983,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/HEALTHCONVERT/HEALTHCONVERT.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "Your feral nature allows you to master your Rage and channel it into your Health pool, while conferring an additional resistance to physical damage. Bonuses are proportional to the amount of Rage consumed; half a rage bar gets you half the listed benefits."
+  },
+  {
+   "id": 2984,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/HEALTHCONVERT/HEALTHCONVERT.DAT | SKILL | TIER1_DESCRIPTION",
+   "en": "Cooldown time is reduced to 12 seconds"
+  },
+  {
+   "id": 2985,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/HEALTHCONVERT/HEALTHCONVERT.DAT | SKILL | TIER2_DESCRIPTION",
+   "en": "Cooldown time is reduced to 8 seconds"
+  },
+  {
+   "id": 2986,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/HEALTHCONVERT/HEALTHCONVERT.DAT | SKILL | TIER3_DESCRIPTION",
+   "en": "Cooldown time is reduced to 4 seconds"
+  },
+  {
+   "id": 2987,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/HOWL/HOWL.DAT | #1c7a1db0 | DESCRIPTION",
+   "en": "Range: 5 meters"
+  },
+  {
+   "id": 2988,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/HOWL/HOWL.DAT | #1c7a1db4 | DESCRIPTION",
+   "en": "Range: 7.5 meters"
+  },
+  {
+   "id": 2989,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/HOWL/HOWL.DAT | #8f43b63b | DESCRIPTION",
+   "en": "Range: 10 meters"
+  },
+  {
+   "id": 2990,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/HOWL/HOWL.DAT | #8f43b63e | DESCRIPTION",
+   "en": "Range: 12.5 meters"
+  },
+  {
+   "id": 2991,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/HOWL/HOWL.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "You howl in fury, filling nearby foes with terror. Affected foes are slowed and become less able to defend themselves for several seconds."
+  },
+  {
+   "id": 2992,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/HOWL/HOWL.DAT | SKILL | TIER1_DESCRIPTION",
+   "en": "Range increased to 7.5 meters"
+  },
+  {
+   "id": 2993,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/HOWL/HOWL.DAT | SKILL | TIER2_DESCRIPTION",
+   "en": "Range increased to 10 meters"
+  },
+  {
+   "id": 2994,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/HOWL/HOWL.DAT | SKILL | TIER3_DESCRIPTION",
+   "en": "Range increased to 12.5 meters"
+  },
+  {
+   "id": 2995,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/ICEBREATH/FROSTBREATH.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "You channel the frigid north winds to unleash a blast of icy breath, which immobilizes enemies and makes them more susceptible to damage. The blast reaches 5 meters at a 90 degree angle."
+  },
+  {
+   "id": 2996,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/ICEBREATH/FROSTBREATH.DAT | SKILL | TIER1_DESCRIPTION",
+   "en": "Range is increased to 6 meters at a 120 degree angle."
+  },
+  {
+   "id": 2997,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/ICEBREATH/FROSTBREATH.DAT | SKILL | TIER2_DESCRIPTION",
+   "en": "Range is increased to 7 meters at a 150 degree angle."
+  },
+  {
+   "id": 2998,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/ICEBREATH/FROSTBREATH.DAT | SKILL | TIER3_DESCRIPTION",
+   "en": "Range is increased to 8 meters at a 150 degree angle. Allows use of health and mana steal abilities."
+  },
+  {
+   "id": 2999,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/ICESHIELD/ICESHIELD.DAT | #1c7a1db0 | DESCRIPTION",
+   "en": "44% chance to generate |c00ff9933Charge|u when struck"
+  },
+  {
+   "id": 3000,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/ICESHIELD/ICESHIELD.DAT | #1c7a1db2 | DESCRIPTION",
+   "en": "52% chance to generate |c00ff9933Charge|u when struck"
+  },
+  {
+   "id": 3001,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/ICESHIELD/ICESHIELD.DAT | #1c7a1db3 | DESCRIPTION",
+   "en": "48% chance to generate |c00ff9933Charge|u when struck"
+  },
+  {
+   "id": 3002,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/ICESHIELD/ICESHIELD.DAT | #1c7a1db4 | DESCRIPTION",
+   "en": "60% chance to generate |c00ff9933Charge|u when struck"
+  },
+  {
+   "id": 3003,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/ICESHIELD/ICESHIELD.DAT | #1c7a1db5 | DESCRIPTION",
+   "en": "56% chance to generate |c00ff9933Charge|u when struck"
+  },
+  {
+   "id": 3004,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/ICESHIELD/ICESHIELD.DAT | #1c7a1db6 | DESCRIPTION",
+   "en": "68% chance to generate |c00ff9933Charge|u when struck"
+  },
+  {
+   "id": 3005,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/ICESHIELD/ICESHIELD.DAT | #1c7a1db7 | DESCRIPTION",
+   "en": "64% chance to generate |c00ff9933Charge|u when struck"
+  },
+  {
+   "id": 3006,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/ICESHIELD/ICESHIELD.DAT | #1c7a1db8 | DESCRIPTION",
+   "en": "76% chance to generate |c00ff9933Charge|u when struck"
+  },
+  {
+   "id": 3007,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/ICESHIELD/ICESHIELD.DAT | #1c7a1db9 | DESCRIPTION",
+   "en": "72% chance to generate |c00ff9933Charge|u when struck"
+  },
+  {
+   "id": 3008,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/ICESHIELD/ICESHIELD.DAT | #8f43b638 | DESCRIPTION",
+   "en": "92% chance to generate |c00ff9933Charge|u when struck"
+  },
+  {
+   "id": 3009,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/ICESHIELD/ICESHIELD.DAT | #8f43b639 | DESCRIPTION",
+   "en": "88% chance to generate |c00ff9933Charge|u when struck"
+  },
+  {
+   "id": 3010,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/ICESHIELD/ICESHIELD.DAT | #8f43b63a | DESCRIPTION",
+   "en": "84% chance to generate |c00ff9933Charge|u when struck"
+  },
+  {
+   "id": 3011,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/ICESHIELD/ICESHIELD.DAT | #8f43b63b | DESCRIPTION",
+   "en": "80% chance to generate |c00ff9933Charge|u when struck"
+  },
+  {
+   "id": 3012,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/ICESHIELD/ICESHIELD.DAT | #8f43b63e | DESCRIPTION",
+   "en": "100% chance to generate |c00ff9933Charge|u when struck"
+  },
+  {
+   "id": 3013,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/ICESHIELD/ICESHIELD.DAT | #8f43b63f | DESCRIPTION",
+   "en": "96% chance to generate |c00ff9933Charge|u when struck"
+  },
+  {
+   "id": 3014,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/ICESHIELD/ICESHIELD.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "You call forth an ice shield which reflects projectile missiles back at attackers. You also have a chance to gain 10% of your |c00ff9933Charge Bar|u when the shield is struck. The shield lasts for 10 seconds."
+  },
+  {
+   "id": 3015,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/ICESHIELD/ICESHIELD.DAT | SKILL | TIER1_DESCRIPTION",
+   "en": "The shield reflects 75% of the missile damage"
+  },
+  {
+   "id": 3016,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/ICESHIELD/ICESHIELD.DAT | SKILL | TIER2_DESCRIPTION",
+   "en": "The shield reflects 100% of the missile damage"
+  },
+  {
+   "id": 3017,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/ICESHIELD/ICESHIELD.DAT | SKILL | TIER3_DESCRIPTION",
+   "en": "The shield reflects 125% of the missile damage"
+  },
+  {
+   "id": 3018,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/IMPLODINGSTRIKE/IMPLODINGSTRIKE.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "You knock foes back with a devastating strike, incapacitating them for a few seconds. If your foe dies from a Gut Punch, it explodes, damaging nearby enemies."
+  },
+  {
+   "id": 3019,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/LIFELEECH/LIFELEECH.DAT | #1c7a1db0 | DESCRIPTION",
+   "en": "Each critical strike heals 5% of your maximum health"
+  },
+  {
+   "id": 3020,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/LIFELEECH/LIFELEECH.DAT | #1c7a1db2 | DESCRIPTION",
+   "en": "Each critical strike heals 6% of your maximum health"
+  },
+  {
+   "id": 3021,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/LIFELEECH/LIFELEECH.DAT | #1c7a1db3 | DESCRIPTION",
+   "en": "Each critical strike heals 5.5% of your maximum health"
+  },
+  {
+   "id": 3022,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/LIFELEECH/LIFELEECH.DAT | #1c7a1db4 | DESCRIPTION",
+   "en": "Each critical strike heals 7% of your maximum health"
+  },
+  {
+   "id": 3023,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/LIFELEECH/LIFELEECH.DAT | #1c7a1db5 | DESCRIPTION",
+   "en": "Each critical strike heals 6.5% of your maximum health"
+  },
+  {
+   "id": 3024,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/LIFELEECH/LIFELEECH.DAT | #1c7a1db6 | DESCRIPTION",
+   "en": "Each critical strike heals 8% of your maximum health"
+  },
+  {
+   "id": 3025,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/LIFELEECH/LIFELEECH.DAT | #1c7a1db7 | DESCRIPTION",
+   "en": "Each critical strike heals 7.5% of your maximum health"
+  },
+  {
+   "id": 3026,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/LIFELEECH/LIFELEECH.DAT | #1c7a1db8 | DESCRIPTION",
+   "en": "Each critical strike heals 9% of your maximum health"
+  },
+  {
+   "id": 3027,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/LIFELEECH/LIFELEECH.DAT | #1c7a1db9 | DESCRIPTION",
+   "en": "Each critical strike heals 8.5% of your maximum health"
+  },
+  {
+   "id": 3028,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/LIFELEECH/LIFELEECH.DAT | #8f43b638 | DESCRIPTION",
+   "en": "Each critical strike heals 11% of your maximum health"
+  },
+  {
+   "id": 3029,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/LIFELEECH/LIFELEECH.DAT | #8f43b639 | DESCRIPTION",
+   "en": "Each critical strike heals 10.5% of your maximum health"
+  },
+  {
+   "id": 3030,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/LIFELEECH/LIFELEECH.DAT | #8f43b63a | DESCRIPTION",
+   "en": "Each critical strike heals 10% of your maximum health"
+  },
+  {
+   "id": 3031,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/LIFELEECH/LIFELEECH.DAT | #8f43b63b | DESCRIPTION",
+   "en": "Each critical strike heals 9.5% of your maximum health"
+  },
+  {
+   "id": 3032,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/LIFELEECH/LIFELEECH.DAT | #8f43b63e | DESCRIPTION",
+   "en": "Each critical strike heals 12% of your maximum health"
+  },
+  {
+   "id": 3033,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/LIFELEECH/LIFELEECH.DAT | #8f43b63f | DESCRIPTION",
+   "en": "Each critical strike heals 11.5% of your maximum health"
+  },
+  {
+   "id": 3034,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/LIFELEECH/LIFELEECH.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "Whenever you land a critical strike with a melee weapon, you draw life essence from the carnage, healing your wounds."
+  },
+  {
+   "id": 3035,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/MANACONVERT/MANACONVERT.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "Intense focus allows you to master your Rage, and channel it immediately into your Mana pool, while conferring additional resistances to elemental damage. Bonuses are proportional to the amount of Rage consumed."
+  },
+  {
+   "id": 3036,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/PASSIVES/CHARGE_BERSERKER_MASTERY.DAT | #1c7a1db0 | DESCRIPTION",
+   "en": "Frenzy duration increased to 6.5 seconds"
+  },
+  {
+   "id": 3037,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/PASSIVES/CHARGE_BERSERKER_MASTERY.DAT | #1c7a1db2 | DESCRIPTION",
+   "en": "Frenzy duration increased to 7.5 seconds"
+  },
+  {
+   "id": 3038,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/PASSIVES/CHARGE_BERSERKER_MASTERY.DAT | #1c7a1db3 | DESCRIPTION",
+   "en": "Frenzy duration increased to 7 seconds"
+  },
+  {
+   "id": 3039,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/PASSIVES/CHARGE_BERSERKER_MASTERY.DAT | #1c7a1db4 | DESCRIPTION",
+   "en": "Frenzy duration increased to 8.5 seconds"
+  },
+  {
+   "id": 3040,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/PASSIVES/CHARGE_BERSERKER_MASTERY.DAT | #1c7a1db5 | DESCRIPTION",
+   "en": "Frenzy duration increased to 8 seconds"
+  },
+  {
+   "id": 3041,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/PASSIVES/CHARGE_BERSERKER_MASTERY.DAT | #1c7a1db6 | DESCRIPTION",
+   "en": "Frenzy duration increased to 9.5 seconds"
+  },
+  {
+   "id": 3042,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/PASSIVES/CHARGE_BERSERKER_MASTERY.DAT | #1c7a1db7 | DESCRIPTION",
+   "en": "Frenzy duration increased to 9 seconds"
+  },
+  {
+   "id": 3043,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/PASSIVES/CHARGE_BERSERKER_MASTERY.DAT | #1c7a1db8 | DESCRIPTION",
+   "en": "Frenzy duration increased to 10.5 seconds"
+  },
+  {
+   "id": 3044,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/PASSIVES/CHARGE_BERSERKER_MASTERY.DAT | #1c7a1db9 | DESCRIPTION",
+   "en": "Frenzy duration increased to 10 seconds"
+  },
+  {
+   "id": 3045,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/PASSIVES/CHARGE_BERSERKER_MASTERY.DAT | #8f43b638 | DESCRIPTION",
+   "en": "Frenzy duration increased to 12.5 seconds"
+  },
+  {
+   "id": 3046,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/PASSIVES/CHARGE_BERSERKER_MASTERY.DAT | #8f43b639 | DESCRIPTION",
+   "en": "Frenzy duration increased to 12 seconds"
+  },
+  {
+   "id": 3047,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/PASSIVES/CHARGE_BERSERKER_MASTERY.DAT | #8f43b63a | DESCRIPTION",
+   "en": "Frenzy duration increased to 11.5 seconds"
+  },
+  {
+   "id": 3048,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/PASSIVES/CHARGE_BERSERKER_MASTERY.DAT | #8f43b63b | DESCRIPTION",
+   "en": "Frenzy duration increased to 11 seconds"
+  },
+  {
+   "id": 3049,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/PASSIVES/CHARGE_BERSERKER_MASTERY.DAT | #8f43b63e | DESCRIPTION",
+   "en": "Frenzy duration increased to 13.5 seconds"
+  },
+  {
+   "id": 3050,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/PASSIVES/CHARGE_BERSERKER_MASTERY.DAT | #8f43b63f | DESCRIPTION",
+   "en": "Frenzy duration increased to 13 seconds"
+  },
+  {
+   "id": 3051,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/PASSIVES/CHARGE_BERSERKER_MASTERY.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "Your feral nature grows more powerful and harder to suppress, increasing the duration of your Frenzy states (acquired from filling the |c00ff9933Charge|u Bar)."
+  },
+  {
+   "id": 3052,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/PASSIVES/DEGRADE_MASTERY.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "Your inner savagery rips into your enemies' armor, leaving them more vulnerable with each hit, while at the same time stealing some of their armor for yourself."
+  },
+  {
+   "id": 3053,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/PASSIVES/DEGRADE_MASTERY.DAT | SKILL | REQUIREMENT_DESCRIPTION",
+   "en": "Only affects melee attacks"
+  },
+  {
+   "id": 3054,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/PASSIVES/ELEMENTAL_BERSERKER_MASTERY.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "The only thing harder than steel is cold steel."
+  },
+  {
+   "id": 3055,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/PASSIVES/EXECUTE_MASTERY.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "Your ferocity in combat enables you to more frequently strike with two weapons at once. When you successfully execute, you gain |c00ff9933Charge|u more quickly for a short period of time."
+  },
+  {
+   "id": 3056,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/PASSIVES/EXECUTE_MASTERY.DAT | SKILL | REQUIREMENT_DESCRIPTION",
+   "en": "Only effective when wielding two weapons of the same type"
+  },
+  {
+   "id": 3057,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/PASSIVES/FRENZYPASSIVE.DAT | #1c7a1db0 | DESCRIPTION",
+   "en": "5% chance of Rampage after killing an enemy"
+  },
+  {
+   "id": 3058,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/PASSIVES/FRENZYPASSIVE.DAT | #1c7a1db2 | DESCRIPTION",
+   "en": "9% chance of Rampage after killing an enemy"
+  },
+  {
+   "id": 3059,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/PASSIVES/FRENZYPASSIVE.DAT | #1c7a1db3 | DESCRIPTION",
+   "en": "7% chance of Rampage after killing an enemy"
+  },
+  {
+   "id": 3060,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/PASSIVES/FRENZYPASSIVE.DAT | #1c7a1db4 | DESCRIPTION",
+   "en": "13% chance of Rampage after killing an enemy"
+  },
+  {
+   "id": 3061,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/PASSIVES/FRENZYPASSIVE.DAT | #1c7a1db5 | DESCRIPTION",
+   "en": "11% chance of Rampage after killing an enemy"
+  },
+  {
+   "id": 3062,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/PASSIVES/FRENZYPASSIVE.DAT | #1c7a1db6 | DESCRIPTION",
+   "en": "17% chance of Rampage after killing an enemy"
+  },
+  {
+   "id": 3063,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/PASSIVES/FRENZYPASSIVE.DAT | #1c7a1db7 | DESCRIPTION",
+   "en": "15% chance of Rampage after killing an enemy"
+  },
+  {
+   "id": 3064,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/PASSIVES/FRENZYPASSIVE.DAT | #1c7a1db8 | DESCRIPTION",
+   "en": "21% chance of Rampage after killing an enemy"
+  },
+  {
+   "id": 3065,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/PASSIVES/FRENZYPASSIVE.DAT | #1c7a1db9 | DESCRIPTION",
+   "en": "19% chance of Rampage after killing an enemy"
+  },
+  {
+   "id": 3066,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/PASSIVES/FRENZYPASSIVE.DAT | #8f43b638 | DESCRIPTION",
+   "en": "29% chance of Rampage after killing an enemy"
+  },
+  {
+   "id": 3067,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/PASSIVES/FRENZYPASSIVE.DAT | #8f43b639 | DESCRIPTION",
+   "en": "27% chance of Rampage after killing an enemy"
+  },
+  {
+   "id": 3068,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/PASSIVES/FRENZYPASSIVE.DAT | #8f43b63a | DESCRIPTION",
+   "en": "25% chance of Rampage after killing an enemy"
+  },
+  {
+   "id": 3069,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/PASSIVES/FRENZYPASSIVE.DAT | #8f43b63b | DESCRIPTION",
+   "en": "23% chance of Rampage after killing an enemy"
+  },
+  {
+   "id": 3070,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/PASSIVES/FRENZYPASSIVE.DAT | #8f43b63e | DESCRIPTION",
+   "en": "33% chance of Rampage after killing an enemy"
+  },
+  {
+   "id": 3071,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/PASSIVES/FRENZYPASSIVE.DAT | #8f43b63f | DESCRIPTION",
+   "en": "31% chance of Rampage after killing an enemy"
+  },
+  {
+   "id": 3072,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/PASSIVES/FRENZYPASSIVE.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "Each enemy you kill with a melee weapon has a chance of spurring you into an adrenaline-fueled rampage.\\n   |cFF4AC4F725% Faster Attack for 5 seconds\\n   25% Cast Speed for 5 seconds\\n   12% Movement Speed for 5 seconds|u"
+  },
+  {
+   "id": 3073,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/PASSIVES/REDWOLFPASSIVE.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "Whenever you inflict a critical hit, up to two neighboring enemies may be savaged by a manifestation of your bloodlust."
+  },
+  {
+   "id": 3074,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/PERMAFROST/PERMAFROST.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "The bone-cracking cold of the north expands outward from you, slowly sapping the life of all foes within 16 meters."
+  },
+  {
+   "id": 3075,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/PERMAFROST/PERMAFROST.DAT | SKILL | TIER1_DESCRIPTION",
+   "en": "Adds a 25% chance to Freeze foes for 6 seconds"
+  },
+  {
+   "id": 3076,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/PERMAFROST/PERMAFROST.DAT | SKILL | TIER2_DESCRIPTION",
+   "en": "Adds a 25% chance to completely immobilize foes for 6 seconds"
+  },
+  {
+   "id": 3077,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/PERMAFROST/PERMAFROST.DAT | SKILL | TIER3_DESCRIPTION",
+   "en": "Chance to immobilize foes is increased to 50%"
+  },
+  {
+   "id": 3078,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/PULL/PULL.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "Spearing all enemies within 6 meters, you draw them swiftly into melee range."
+  },
+  {
+   "id": 3079,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/PULL/PULL.DAT | SKILL | TIER1_DESCRIPTION",
+   "en": "Stun duration increased to 2 seconds"
+  },
+  {
+   "id": 3080,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/PULL/PULL.DAT | SKILL | TIER2_DESCRIPTION",
+   "en": "Range increased  to 9 meters"
+  },
+  {
+   "id": 3081,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/PULL/PULL.DAT | SKILL | TIER3_DESCRIPTION",
+   "en": "Shatters shields"
+  },
+  {
+   "id": 3082,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/RETALIATE/RETALIATE.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "A quick, retaliatory strike against an attacker"
+  },
+  {
+   "id": 3083,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/RETALIATE/RETALIATION.DAT | #1c7a1db0 | DESCRIPTION",
+   "en": "Minimum time between attacks: 2 seconds"
+  },
+  {
+   "id": 3084,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/RETALIATE/RETALIATION.DAT | #1c7a1db2 | DESCRIPTION",
+   "en": "Minimum time between attacks: 1.6 seconds"
+  },
+  {
+   "id": 3085,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/RETALIATE/RETALIATION.DAT | #1c7a1db3 | DESCRIPTION",
+   "en": "Minimum time between attacks: 1.8 seconds"
+  },
+  {
+   "id": 3086,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/RETALIATE/RETALIATION.DAT | #1c7a1db4 | DESCRIPTION",
+   "en": "Minimum time between attacks: 1.2 seconds"
+  },
+  {
+   "id": 3087,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/RETALIATE/RETALIATION.DAT | #1c7a1db5 | DESCRIPTION",
+   "en": "Minimum time between attacks: 1.4 seconds"
+  },
+  {
+   "id": 3088,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/RETALIATE/RETALIATION.DAT | #1c7a1db6 | DESCRIPTION",
+   "en": "Minimum time between attacks: .8 seconds"
+  },
+  {
+   "id": 3089,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/RETALIATE/RETALIATION.DAT | #1c7a1db7 | DESCRIPTION",
+   "en": "Minimum time between attacks: 1 second"
+  },
+  {
+   "id": 3090,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/RETALIATE/RETALIATION.DAT | #1c7a1db8 | DESCRIPTION",
+   "en": "Minimum time between attacks: .4 seconds"
+  },
+  {
+   "id": 3091,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/RETALIATE/RETALIATION.DAT | #1c7a1db9 | DESCRIPTION",
+   "en": "Minimum time between attacks: .6 seconds"
+  },
+  {
+   "id": 3092,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/RETALIATE/RETALIATION.DAT | #8f43b638 | DESCRIPTION",
+   "en": "Damage is increased to 140% of your weapon's DPS. No delay between attacks."
+  },
+  {
+   "id": 3093,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/RETALIATE/RETALIATION.DAT | #8f43b639 | DESCRIPTION",
+   "en": "Damage is increased to 130% of your weapon's DPS. No delay between attacks."
+  },
+  {
+   "id": 3094,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/RETALIATE/RETALIATION.DAT | #8f43b63a | DESCRIPTION",
+   "en": "No delay between attacks."
+  },
+  {
+   "id": 3095,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/RETALIATE/RETALIATION.DAT | #8f43b63b | DESCRIPTION",
+   "en": "Minimum time between attacks: .2 seconds"
+  },
+  {
+   "id": 3096,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/RETALIATE/RETALIATION.DAT | #8f43b63e | DESCRIPTION",
+   "en": "Damage is increased to 160% of your weapon's DPS. No delay between attacks."
+  },
+  {
+   "id": 3097,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/RETALIATE/RETALIATION.DAT | #8f43b63f | DESCRIPTION",
+   "en": "Damage is increased to 150% of your weapon's DPS. No delay between attacks."
+  },
+  {
+   "id": 3098,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/RETALIATE/RETALIATION.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "When you are struck by a nearby enemy, your inner rage physically manifests and retaliates against that foe. Damage is equal to 120% of your weapon's DPS. Individual targets can only be hit once per second at most."
+  },
+  {
+   "id": 3099,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/SHADOWBIND/SHADOWBIND.DAT | #1c7a1db0 | DESCRIPTION",
+   "en": "Transfers 15% of damage dealt for 8 seconds"
+  },
+  {
+   "id": 3100,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/SHADOWBIND/SHADOWBIND.DAT | #1c7a1db0 | REQUIREMENT_DESCRIPTION",
+   "en": "Requires melee weapons to trigger."
+  },
+  {
+   "id": 3101,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/SHADOWBIND/SHADOWBIND.DAT | #1c7a1db2 | DESCRIPTION",
+   "en": "Transfers 19% of damage dealt for 9 seconds"
+  },
+  {
+   "id": 3102,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/SHADOWBIND/SHADOWBIND.DAT | #1c7a1db3 | DESCRIPTION",
+   "en": "Transfers 17% of damage dealt for 8.5 seconds"
+  },
+  {
+   "id": 3103,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/SHADOWBIND/SHADOWBIND.DAT | #1c7a1db4 | DESCRIPTION",
+   "en": "Transfers 23% of damage dealt for 10 seconds"
+  },
+  {
+   "id": 3104,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/SHADOWBIND/SHADOWBIND.DAT | #1c7a1db5 | DESCRIPTION",
+   "en": "Transfers 21% of damage dealt for 9.5 seconds"
+  },
+  {
+   "id": 3105,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/SHADOWBIND/SHADOWBIND.DAT | #1c7a1db6 | DESCRIPTION",
+   "en": "Transfers 27% of damage dealt for 11 seconds"
+  },
+  {
+   "id": 3106,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/SHADOWBIND/SHADOWBIND.DAT | #1c7a1db7 | DESCRIPTION",
+   "en": "Transfers 25% of damage dealt for 10.5 seconds"
+  },
+  {
+   "id": 3107,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/SHADOWBIND/SHADOWBIND.DAT | #1c7a1db8 | DESCRIPTION",
+   "en": "Transfers 31% of damage dealt for 12 seconds"
+  },
+  {
+   "id": 3108,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/SHADOWBIND/SHADOWBIND.DAT | #1c7a1db9 | DESCRIPTION",
+   "en": "Transfers 29% of damage dealt for 11.5 seconds"
+  },
+  {
+   "id": 3109,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/SHADOWBIND/SHADOWBIND.DAT | #8f43b638 | DESCRIPTION",
+   "en": "Transfers 39% of damage dealt for 14 seconds"
+  },
+  {
+   "id": 3110,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/SHADOWBIND/SHADOWBIND.DAT | #8f43b639 | DESCRIPTION",
+   "en": "Transfers 37% of damage dealt for13.5 seconds"
+  },
+  {
+   "id": 3111,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/SHADOWBIND/SHADOWBIND.DAT | #8f43b63a | DESCRIPTION",
+   "en": "Transfers 35% of damage dealt for 13 seconds"
+  },
+  {
+   "id": 3112,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/SHADOWBIND/SHADOWBIND.DAT | #8f43b63b | DESCRIPTION",
+   "en": "Transfers 33% of damage dealt for 12.5 seconds"
+  },
+  {
+   "id": 3113,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/SHADOWBIND/SHADOWBIND.DAT | #8f43b63e | DESCRIPTION",
+   "en": "Transfers 43% of damage dealt for 15 seconds"
+  },
+  {
+   "id": 3114,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/SHADOWBIND/SHADOWBIND.DAT | #8f43b63f | DESCRIPTION",
+   "en": "Transfers 41% of damage dealt for 14.5 seconds"
+  },
+  {
+   "id": 3115,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/SHADOWBIND/SHADOWBIND.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "You bind a group of foes within a 5 meter radius of your target location. All your subsequent melee attacks transfer a percentage of damage to all shadowbound targets."
+  },
+  {
+   "id": 3116,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/SHADOWBIND/SHADOWBIND.DAT | SKILL | TIER1_DESCRIPTION",
+   "en": "Radius of effect increased to 7 meters"
+  },
+  {
+   "id": 3117,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/SHADOWBIND/SHADOWBIND.DAT | SKILL | TIER2_DESCRIPTION",
+   "en": "Radius of effect increased to 9 meters"
+  },
+  {
+   "id": 3118,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/SHADOWBIND/SHADOWBIND.DAT | SKILL | TIER3_DESCRIPTION",
+   "en": "Radius of effect increased to 11 meters"
+  },
+  {
+   "id": 3119,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/SHADOWLEAP/STABDASH.DAT | #1c7a1db0 | DESCRIPTION",
+   "en": "Heals 5% of your Health for up to 2 targets struck"
+  },
+  {
+   "id": 3120,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/SHADOWLEAP/STABDASH.DAT | #1c7a1db2 | DESCRIPTION",
+   "en": "Heals 6% of your Health for up to 2 targets struck"
+  },
+  {
+   "id": 3121,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/SHADOWLEAP/STABDASH.DAT | #1c7a1db3 | DESCRIPTION",
+   "en": "Heals 5.5% of your Health for up to 2 targets struck"
+  },
+  {
+   "id": 3122,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/SHADOWLEAP/STABDASH.DAT | #1c7a1db4 | DESCRIPTION",
+   "en": "Heals 7% of your Health for up to 3 targets struck"
+  },
+  {
+   "id": 3123,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/SHADOWLEAP/STABDASH.DAT | #1c7a1db5 | DESCRIPTION",
+   "en": "Heals 6.5% of your Health for up to 2 targets struck"
+  },
+  {
+   "id": 3124,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/SHADOWLEAP/STABDASH.DAT | #1c7a1db6 | DESCRIPTION",
+   "en": "Heals 8% of your Health for up to 3 targets struck"
+  },
+  {
+   "id": 3125,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/SHADOWLEAP/STABDASH.DAT | #1c7a1db7 | DESCRIPTION",
+   "en": "Heals 7.5% of your Health for up to 3 targets struck"
+  },
+  {
+   "id": 3126,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/SHADOWLEAP/STABDASH.DAT | #1c7a1db8 | DESCRIPTION",
+   "en": "Heals 9% of your Health for up to 3 targets struck"
+  },
+  {
+   "id": 3127,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/SHADOWLEAP/STABDASH.DAT | #1c7a1db9 | DESCRIPTION",
+   "en": "Heals 8.5% of your Health for up to 3 targets struck"
+  },
+  {
+   "id": 3128,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/SHADOWLEAP/STABDASH.DAT | #8f43b638 | DESCRIPTION",
+   "en": "Heals 11% of your Health for up to 4 targets struck"
+  },
+  {
+   "id": 3129,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/SHADOWLEAP/STABDASH.DAT | #8f43b639 | DESCRIPTION",
+   "en": "Heals 10.5% of your Health for up to 4 targets struck"
+  },
+  {
+   "id": 3130,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/SHADOWLEAP/STABDASH.DAT | #8f43b63a | DESCRIPTION",
+   "en": "Heals 10% of your Health for up to 4 targets struck"
+  },
+  {
+   "id": 3131,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/SHADOWLEAP/STABDASH.DAT | #8f43b63b | DESCRIPTION",
+   "en": "Heals 9.5% of your Health for up to 4 targets struck"
+  },
+  {
+   "id": 3132,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/SHADOWLEAP/STABDASH.DAT | #8f43b63e | DESCRIPTION",
+   "en": "Heals 12% of your Health for up to 5 targets struck"
+  },
+  {
+   "id": 3133,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/SHADOWLEAP/STABDASH.DAT | #8f43b63f | DESCRIPTION",
+   "en": "Heals 11.5% of your Health for up to 4 targets struck"
+  },
+  {
+   "id": 3134,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/SHADOWLEAP/STABDASH.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "You transform into a spectral wolf and lunge through your enemies, damaging them even as you heal your own body. The healing is limited to a maximum of 2 targets per Burst."
+  },
+  {
+   "id": 3135,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/SHADOWLEAP/STABDASH.DAT | SKILL | TIER1_DESCRIPTION",
+   "en": "Healing can be derived from 3 targets per Burst. Chance to destroy shields is increased to 50%."
+  },
+  {
+   "id": 3136,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/SHADOWLEAP/STABDASH.DAT | SKILL | TIER2_DESCRIPTION",
+   "en": "Healing can be derived from 4 targets per Burst. Chance to destroy shields is increased to 75%."
+  },
+  {
+   "id": 3137,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/SHADOWLEAP/STABDASH.DAT | SKILL | TIER3_DESCRIPTION",
+   "en": "Healing can be derived from 5 targets per Burst. Chance to destroy shields is increased to 100%."
+  },
+  {
+   "id": 3138,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/SHATTER/SHATTER.DAT | SKILL | BASE_DESCRIPTION",
+   "en": " When you kill frozen enemies, you blast nearby foes in a 4 meter ring of frost, leaving them more susceptible to further ice attacks."
+  },
+  {
+   "id": 3139,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/SLAUGHTER/SLAUGHTER.DAT | SKILL | DESCRIPTION",
+   "en": "The Berserker channels a murderous rage, indiscriminately attacking everything nearby"
+  },
+  {
+   "id": 3140,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/STORMCLAW/STORMCLAW.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "You imbue your weapons with an electrical energy. This power can cause a lightning bolt to arc toward nearby targets when you strike a foe. The lightning can chain up to 2 times."
+  },
+  {
+   "id": 3141,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/STORMCLAW/STORMCLAW.DAT | SKILL | REQUIREMENT_DESCRIPTION",
+   "en": "Requires base melee weapon attacks to trigger."
+  },
+  {
+   "id": 3142,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/STORMCLAW/STORMCLAW.DAT | SKILL | TIER1_DESCRIPTION",
+   "en": "Lightning can chain up to 3 times"
+  },
+  {
+   "id": 3143,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/STORMCLAW/STORMCLAW.DAT | SKILL | TIER2_DESCRIPTION",
+   "en": "Lightning can chain up to 4 times"
+  },
+  {
+   "id": 3144,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/STORMCLAW/STORMCLAW.DAT | SKILL | TIER3_DESCRIPTION",
+   "en": "Lightning can chain up to 5 times"
+  },
+  {
+   "id": 3145,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/STORMHATCHET/HATCHET.DAT | #1c7a1db0 | DESCRIPTION",
+   "en": "Each foe struck generates an additional 5% of the |c00ff9933Charge Bar|u"
+  },
+  {
+   "id": 3146,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/STORMHATCHET/HATCHET.DAT | #1c7a1db2 | DESCRIPTION",
+   "en": "Each foe struck generates an additional 7% of the |c00ff9933Charge Bar|u"
+  },
+  {
+   "id": 3147,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/STORMHATCHET/HATCHET.DAT | #1c7a1db3 | DESCRIPTION",
+   "en": "Each foe struck generates an additional 6% of the |c00ff9933Charge Bar|u"
+  },
+  {
+   "id": 3148,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/STORMHATCHET/HATCHET.DAT | #1c7a1db4 | DESCRIPTION",
+   "en": "Each foe struck generates an additional 9% of the |c00ff9933Charge Bar|u"
+  },
+  {
+   "id": 3149,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/STORMHATCHET/HATCHET.DAT | #1c7a1db5 | DESCRIPTION",
+   "en": "Each foe struck generates an additional 8% of the |c00ff9933Charge Bar|u"
+  },
+  {
+   "id": 3150,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/STORMHATCHET/HATCHET.DAT | #1c7a1db6 | DESCRIPTION",
+   "en": "Each foe struck generates an additional 11% of the |c00ff9933Charge Bar|u"
+  },
+  {
+   "id": 3151,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/STORMHATCHET/HATCHET.DAT | #1c7a1db7 | DESCRIPTION",
+   "en": "Each foe struck generates an additional 10% of the |c00ff9933Charge Bar|u"
+  },
+  {
+   "id": 3152,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/STORMHATCHET/HATCHET.DAT | #1c7a1db8 | DESCRIPTION",
+   "en": "Each foe struck generates an additional 13% of the |c00ff9933Charge Bar|u"
+  },
+  {
+   "id": 3153,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/STORMHATCHET/HATCHET.DAT | #1c7a1db9 | DESCRIPTION",
+   "en": "Each foe struck generates an additional 12% of the |c00ff9933Charge Bar|u"
+  },
+  {
+   "id": 3154,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/STORMHATCHET/HATCHET.DAT | #8f43b638 | DESCRIPTION",
+   "en": "Each foe struck generates an additional 8.5% of the |c00ff9933Charge Bar|u"
+  },
+  {
+   "id": 3155,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/STORMHATCHET/HATCHET.DAT | #8f43b63a | DESCRIPTION",
+   "en": "Each foe struck generates an additional 7.5% of the |c00ff9933Charge Bar|u"
+  },
+  {
+   "id": 3156,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/STORMHATCHET/HATCHET.DAT | #8f43b63e | DESCRIPTION",
+   "en": "Each foe struck generates an additional 19% of the |c00ff9933Charge Bar|u"
+  },
+  {
+   "id": 3157,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/STORMHATCHET/HATCHET.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "You draw wild northern lightning out of your weapon to create an electrical throwing axe with a range of 15 meters."
+  },
+  {
+   "id": 3158,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/STORMHATCHET/HATCHET.DAT | SKILL | TIER1_DESCRIPTION",
+   "en": "Hatchet range is increased to 20 meters and it flies faster"
+  },
+  {
+   "id": 3159,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/STORMHATCHET/HATCHET.DAT | SKILL | TIER2_DESCRIPTION",
+   "en": "3 hatchets are thrown at once"
+  },
+  {
+   "id": 3160,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/STORMHATCHET/HATCHET.DAT | SKILL | TIER3_DESCRIPTION",
+   "en": "Hatchets shatter shields"
+  },
+  {
+   "id": 3161,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/WINTERHOWL/HOWL.DAT | #1c7a1db7 | DESCRIPTION",
+   "en": "4 fissures spread outward from cast, piercing foes."
+  },
+  {
+   "id": 3162,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/WINTERHOWL/HOWL.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "You unleash an arctic blast from deep inside you, throwing out shards of ice to knock back and freeze nearby foes."
+  },
+  {
+   "id": 3163,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/WINTERHOWL/HOWL.DAT | SKILL | TIER1_DESCRIPTION",
+   "en": "The blast is strengthened to 4 fissures that travel further than the base skill"
+  },
+  {
+   "id": 3164,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/WINTERHOWL/HOWL.DAT | SKILL | TIER2_DESCRIPTION",
+   "en": "The blast is strengthened to 5 fissures that travel further than tier I"
+  },
+  {
+   "id": 3165,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/WINTERHOWL/HOWL.DAT | SKILL | TIER3_DESCRIPTION",
+   "en": "The blast is strengthened to 6 fissures that travel further than tier II"
+  },
+  {
+   "id": 3166,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/WOLFPACK/WOLFPACK.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "You unleash a pack of 5 spectral wolves that spread out and attack enemies all around you."
+  },
+  {
+   "id": 3167,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/WOLFPACK/WOLFPACK.DAT | SKILL | TIER1_DESCRIPTION",
+   "en": "Wolves can strike multiple targets"
+  },
+  {
+   "id": 3168,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/WOLFPACK/WOLFPACK.DAT | SKILL | TIER2_DESCRIPTION",
+   "en": "2 additional wolves appear"
+  },
+  {
+   "id": 3169,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/WOLFPACK/WOLFPACK.DAT | SKILL | TIER3_DESCRIPTION",
+   "en": "Mana cost decreased"
+  },
+  {
+   "id": 3170,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/WOLFSHADE/SUMMON.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "You summon a Wolf Shade ally to sink its icy fangs into your enemies and heal you with their lifeforce. The Shade can be summoned once every minute."
+  },
+  {
+   "id": 3171,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/WOLFSHADE/SUMMON.DAT | SKILL | TIER1_DESCRIPTION",
+   "en": "Summoning duration increased to 30 seconds"
+  },
+  {
+   "id": 3172,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/WOLFSHADE/SUMMON.DAT | SKILL | TIER2_DESCRIPTION",
+   "en": "Summoning duration increased to 45 seconds"
+  },
+  {
+   "id": 3173,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/WOLFSHADE/SUMMON.DAT | SKILL | TIER3_DESCRIPTION",
+   "en": "Summoning duration increased to 1 minute"
+  },
+  {
+   "id": 3174,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/WOLFSTRIKE/STABDASH.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "You lunge forward in a 6 meter dash, claws slashing, rending all foes in your path."
+  },
+  {
+   "id": 3175,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/WOLFSTRIKE/STABDASH.DAT | SKILL | TIER1_DESCRIPTION",
+   "en": "Lunge distance increased to 7 meters"
+  },
+  {
+   "id": 3176,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/WOLFSTRIKE/STABDASH.DAT | SKILL | TIER2_DESCRIPTION",
+   "en": "Lunge distance increased to 8 meters"
+  },
+  {
+   "id": 3177,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/WOLFSTRIKE/STABDASH.DAT | SKILL | TIER3_DESCRIPTION",
+   "en": "Lunge distance increased to 9 meters"
+  },
+  {
+   "id": 3178,
+   "mode": "translate",
+   "ctx": "SKILLS/BERSERKER/WOLFSTRIKE/STABDASH_LEFFERTS.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "You lunge forward, claws slashing, rending all foes in your path."
+  },
+  {
+   "id": 3179,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/ARMORCHARGE/ARMORCHARGE.DAT | #1c7a1db0 | DESCRIPTION",
+   "en": "Each unit hit generates 0.2 |c00ff9933Charges|u"
+  },
+  {
+   "id": 3180,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/ARMORCHARGE/ARMORCHARGE.DAT | #1c7a1db2 | DESCRIPTION",
+   "en": "Each unit hit generates 0.24 |c00ff9933Charges|u"
+  },
+  {
+   "id": 3181,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/ARMORCHARGE/ARMORCHARGE.DAT | #1c7a1db3 | DESCRIPTION",
+   "en": "Each unit hit generates 0.22 |c00ff9933Charges|u"
+  },
+  {
+   "id": 3182,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/ARMORCHARGE/ARMORCHARGE.DAT | #1c7a1db4 | DESCRIPTION",
+   "en": "Each unit hit generates 0.28 |c00ff9933Charges|u"
+  },
+  {
+   "id": 3183,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/ARMORCHARGE/ARMORCHARGE.DAT | #1c7a1db5 | DESCRIPTION",
+   "en": "Each unit hit generates 0.26 |c00ff9933Charges|u"
+  },
+  {
+   "id": 3184,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/ARMORCHARGE/ARMORCHARGE.DAT | #1c7a1db6 | DESCRIPTION",
+   "en": "Each unit hit generates 0.32 |c00ff9933Charges|u"
+  },
+  {
+   "id": 3185,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/ARMORCHARGE/ARMORCHARGE.DAT | #1c7a1db7 | DESCRIPTION",
+   "en": "Each unit hit generates 0.3 |c00ff9933Charges|u"
+  },
+  {
+   "id": 3186,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/ARMORCHARGE/ARMORCHARGE.DAT | #1c7a1db8 | DESCRIPTION",
+   "en": "Each unit hit generates 0.36 |c00ff9933Charges|u"
+  },
+  {
+   "id": 3187,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/ARMORCHARGE/ARMORCHARGE.DAT | #1c7a1db9 | DESCRIPTION",
+   "en": "Each unit hit generates 0.34 |c00ff9933Charges|u"
+  },
+  {
+   "id": 3188,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/ARMORCHARGE/ARMORCHARGE.DAT | #8f43b638 | DESCRIPTION",
+   "en": "Each unit hit generates 0.44 |c00ff9933Charges|u"
+  },
+  {
+   "id": 3189,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/ARMORCHARGE/ARMORCHARGE.DAT | #8f43b639 | DESCRIPTION",
+   "en": "Each unit hit generates 0.42 |c00ff9933Charges|u"
+  },
+  {
+   "id": 3190,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/ARMORCHARGE/ARMORCHARGE.DAT | #8f43b63a | DESCRIPTION",
+   "en": "Each unit hit generates 0.4 |c00ff9933Charges|u"
+  },
+  {
+   "id": 3191,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/ARMORCHARGE/ARMORCHARGE.DAT | #8f43b63b | DESCRIPTION",
+   "en": "Each unit hit generates 0.38 |c00ff9933Charges|u"
+  },
+  {
+   "id": 3192,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/ARMORCHARGE/ARMORCHARGE.DAT | #8f43b63e | DESCRIPTION",
+   "en": "Each unit hit generates 0.48 |c00ff9933Charges|u"
+  },
+  {
+   "id": 3193,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/ARMORCHARGE/ARMORCHARGE.DAT | #8f43b63f | DESCRIPTION",
+   "en": "Each unit hit generates 0.46 |c00ff9933Charges|u"
+  },
+  {
+   "id": 3194,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/ARMORCHARGE/ARMORCHARGE.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "You tap into your armor's energy to project an electrical burst in a 5 meter radius. This electrical surge generates charge for each enemy that is struck, up to five per field."
+  },
+  {
+   "id": 3195,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/ARMORCHARGE/ARMORCHARGE.DAT | SKILL | TIER1_DESCRIPTION",
+   "en": "Field radius increased to 7 meters. Interrupt chance increased to 70%."
+  },
+  {
+   "id": 3196,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/ARMORCHARGE/ARMORCHARGE.DAT | SKILL | TIER2_DESCRIPTION",
+   "en": "Field radius increased to 9 meters. Interrupt chance increased to 90%."
+  },
+  {
+   "id": 3197,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/ARMORCHARGE/ARMORCHARGE.DAT | SKILL | TIER3_DESCRIPTION",
+   "en": "Field radius increased to 11 meters. Interrupt chance increased to 110%."
+  },
+  {
+   "id": 3198,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/BLASTCANNON/BLASTCANNON.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "You fire a long-range, piercing projectile from your cannon. At higher ranks, the blast leaves foes more susceptible to further fire and physical damage."
+  },
+  {
+   "id": 3199,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/BLASTCANNON/BLASTCANNON.DAT | SKILL | REQUIREMENT_DESCRIPTION",
+   "en": "Requires a cannon"
+  },
+  {
+   "id": 3200,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/BLASTCANNON/BLASTCANNON.DAT | SKILL | TIER1_DESCRIPTION",
+   "en": "25% chance to Blind foes for 4 seconds"
+  },
+  {
+   "id": 3201,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/BLASTCANNON/BLASTCANNON.DAT | SKILL | TIER2_DESCRIPTION",
+   "en": "50% chance to Blind foes for 4 seconds"
+  },
+  {
+   "id": 3202,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/BLASTCANNON/BLASTCANNON.DAT | SKILL | TIER3_DESCRIPTION",
+   "en": "75% chance to Blind foes for 4 seconds"
+  },
+  {
+   "id": 3203,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/CANNONSHOT/CANNONSHOT.DAT | #1c7a1db2 | DESCRIPTION",
+   "en": "Fire a projectile from any equipped ranged weapon that detonates on impact, dealing damage to foes within 5 meters"
+  },
+  {
+   "id": 3204,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/CANNONSHOT/CANNONSHOT.DAT | #1c7a1db3 | DESCRIPTION",
+   "en": "Fire a projectile from any equipped ranged weapon that detonates on impact, dealing damage to foes within 4.75 meters"
+  },
+  {
+   "id": 3205,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/CANNONSHOT/CANNONSHOT.DAT | #1c7a1db4 | DESCRIPTION",
+   "en": "Fire a projectile from any equipped ranged weapon that detonates on impact, dealing damage to foes within 5.5 meters"
+  },
+  {
+   "id": 3206,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/CANNONSHOT/CANNONSHOT.DAT | #1c7a1db5 | DESCRIPTION",
+   "en": "Fire a projectile from any equipped ranged weapon that detonates on impact, dealing damage to foes within 5.25 meters"
+  },
+  {
+   "id": 3207,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/CANNONSHOT/CANNONSHOT.DAT | #1c7a1db6 | DESCRIPTION",
+   "en": "Fire a projectile from any equipped ranged weapon that detonates on impact, dealing damage to foes within 6 meters"
+  },
+  {
+   "id": 3208,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/CANNONSHOT/CANNONSHOT.DAT | #1c7a1db7 | DESCRIPTION",
+   "en": "Fire a projectile from any equipped ranged weapon that detonates on impact, dealing damage to foes within 5.75 meters"
+  },
+  {
+   "id": 3209,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/CANNONSHOT/CANNONSHOT.DAT | #1c7a1db8 | DESCRIPTION",
+   "en": "Fire a projectile from any equipped ranged weapon that detonates on impact, dealing damage to foes within 6.5 meters"
+  },
+  {
+   "id": 3210,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/CANNONSHOT/CANNONSHOT.DAT | #1c7a1db9 | DESCRIPTION",
+   "en": "Fire a projectile from any equipped ranged weapon that detonates on impact, dealing damage to foes within 6.25 meters"
+  },
+  {
+   "id": 3211,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/CANNONSHOT/CANNONSHOT.DAT | #8f43b63b | DESCRIPTION",
+   "en": "Fire a projectile from any equipped ranged weapon that detonates on impact, dealing damage to foes within 6.75 meters"
+  },
+  {
+   "id": 3212,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/CANNONSHOT/CANNONSHOT.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "Lob a destructive cannon shot at foes."
+  },
+  {
+   "id": 3213,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/CHARGES/CHARGE_ABSORB.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "Absorbs all nearby railman charge"
+  },
+  {
+   "id": 3214,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/CHARGES/CHARGE_SPAWN.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "Spawn a railman charge"
+  },
+  {
+   "id": 3215,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/CHARGES/CHARGE_SPAWN_HIT.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "Spawn a Railman charge"
+  },
+  {
+   "id": 3216,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/ELECTRIFIEDSHIELD/ELECTRIFIEDSHIELD.DAT | #1c7a1db0 | DESCRIPTION",
+   "en": "20% chance to Stun for 2 seconds"
+  },
+  {
+   "id": 3217,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/ELECTRIFIEDSHIELD/ELECTRIFIEDSHIELD.DAT | #1c7a1db2 | DESCRIPTION",
+   "en": "30% chance to Stun for 2.5 seconds"
+  },
+  {
+   "id": 3218,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/ELECTRIFIEDSHIELD/ELECTRIFIEDSHIELD.DAT | #1c7a1db3 | DESCRIPTION",
+   "en": "25% chance to Stun for 2.25 seconds"
+  },
+  {
+   "id": 3219,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/ELECTRIFIEDSHIELD/ELECTRIFIEDSHIELD.DAT | #1c7a1db4 | DESCRIPTION",
+   "en": "40% chance to Stun for 3 seconds"
+  },
+  {
+   "id": 3220,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/ELECTRIFIEDSHIELD/ELECTRIFIEDSHIELD.DAT | #1c7a1db5 | DESCRIPTION",
+   "en": "35% chance to Stun for 2.75 seconds"
+  },
+  {
+   "id": 3221,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/ELECTRIFIEDSHIELD/ELECTRIFIEDSHIELD.DAT | #1c7a1db6 | DESCRIPTION",
+   "en": "50% chance to Stun for 3.5 seconds"
+  },
+  {
+   "id": 3222,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/ELECTRIFIEDSHIELD/ELECTRIFIEDSHIELD.DAT | #1c7a1db7 | DESCRIPTION",
+   "en": "45% chance to Stun for 3.25 seconds"
+  },
+  {
+   "id": 3223,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/ELECTRIFIEDSHIELD/ELECTRIFIEDSHIELD.DAT | #1c7a1db8 | DESCRIPTION",
+   "en": "60% chance to Stun for 4 seconds"
+  },
+  {
+   "id": 3224,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/ELECTRIFIEDSHIELD/ELECTRIFIEDSHIELD.DAT | #1c7a1db9 | DESCRIPTION",
+   "en": "55% chance to Stun for 3.75 seconds"
+  },
+  {
+   "id": 3225,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/ELECTRIFIEDSHIELD/ELECTRIFIEDSHIELD.DAT | #8f43b638 | DESCRIPTION",
+   "en": "80% chance to Stun for 5 seconds"
+  },
+  {
+   "id": 3226,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/ELECTRIFIEDSHIELD/ELECTRIFIEDSHIELD.DAT | #8f43b639 | DESCRIPTION",
+   "en": "75% chance to Stun for 4.75 seconds"
+  },
+  {
+   "id": 3227,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/ELECTRIFIEDSHIELD/ELECTRIFIEDSHIELD.DAT | #8f43b63a | DESCRIPTION",
+   "en": "70% chance to Stun for 4.5 seconds"
+  },
+  {
+   "id": 3228,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/ELECTRIFIEDSHIELD/ELECTRIFIEDSHIELD.DAT | #8f43b63b | DESCRIPTION",
+   "en": "65% chance to Stun for 4.25 seconds"
+  },
+  {
+   "id": 3229,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/ELECTRIFIEDSHIELD/ELECTRIFIEDSHIELD.DAT | #8f43b63e | DESCRIPTION",
+   "en": "90% chance to Stun for 5.5 seconds"
+  },
+  {
+   "id": 3230,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/ELECTRIFIEDSHIELD/ELECTRIFIEDSHIELD.DAT | #8f43b63f | DESCRIPTION",
+   "en": "85% chance to Stun for 5.25 seconds"
+  },
+  {
+   "id": 3231,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/ELECTRIFIEDSHIELD/ELECTRIFIEDSHIELD.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "You route electrical energy from your armor through your shield, providing a chance to stun enemies when you block their attacks."
+  },
+  {
+   "id": 3232,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/ELECTRIFIEDSHIELD/ELECTRIFIEDSHIELD.DAT | SKILL | REQUIREMENT_DESCRIPTION",
+   "en": "Requires a shield"
+  },
+  {
+   "id": 3233,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/ELECTRIFIEDSHIELD/ELECTRIFY.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "A shock incapacitates enemies for a short time."
+  },
+  {
+   "id": 3234,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/EMBERHAMMER/EMBERHAMMER.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "You deliver a powerful overhand swing. With enough |c00ff9933Charge|u built up, Ember Hammer also increases in damage and range, at the cost of 1 |c00ff9933Charge|u."
+  },
+  {
+   "id": 3235,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/EMBERHAMMER/EMBERHAMMER.DAT | SKILL | REQUIREMENT_DESCRIPTION",
+   "en": "Requires melee weapons"
+  },
+  {
+   "id": 3236,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/EMBERHAMMER2/EMBERHAMMER.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "You deliver a powerful sidelong swing which channels ember energy into a wide, 270 degree arc, destroying shields. Ember Hammer does not gain |c00ff9933Charge|u."
+  },
+  {
+   "id": 3237,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/EMBERHAMMER2/EMBERHAMMER.DAT | SKILL | REQUIREMENT_DESCRIPTION",
+   "en": "Requires any axe, sword, hammer, staff or polearm"
+  },
+  {
+   "id": 3238,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/EMBERHAMMER2/EMBERHAMMER.DAT | SKILL | TIER1_DESCRIPTION",
+   "en": "Damage is amplified by 5% for every |c00ff9933Charge|u"
+  },
+  {
+   "id": 3239,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/EMBERHAMMER2/EMBERHAMMER.DAT | SKILL | TIER2_DESCRIPTION",
+   "en": "Damage is amplified by 10% for every |c00ff9933Charge|u"
+  },
+  {
+   "id": 3240,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/EMBERHAMMER2/EMBERHAMMER.DAT | SKILL | TIER3_DESCRIPTION",
+   "en": "Damage is amplified by 15% for every |c00ff9933Charge|u"
+  },
+  {
+   "id": 3241,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/FISSIONCORE/FISSION CORE.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "The Railman's armor primes its ember core to split, emitting vast amounts of energy.  Gravitational bursts are generated as a side effect.  (Channeled Spell) (Does not consume charge meter)"
+  },
+  {
+   "id": 3242,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/FLAMEGUNBOT/FLAMEGUNBOT.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "You deploy a small drone that assaults your enemies with a hail of gunfire for 60 seconds."
+  },
+  {
+   "id": 3243,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/FLAMEHAMMER/FLAMEHAMMER.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "Your weapon crushes foes it strikes, creating 4 flaming splinters that seek out enemies within 5 meters. If available, a |c00ff9933Charge|u is consumed to generate two additional blasts."
+  },
+  {
+   "id": 3244,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/FLAMEHAMMER/FLAMEHAMMER.DAT | SKILL | TIER1_DESCRIPTION",
+   "en": "Creates 5 flaming splinters travelling 8 meters"
+  },
+  {
+   "id": 3245,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/FLAMEHAMMER/FLAMEHAMMER.DAT | SKILL | TIER2_DESCRIPTION",
+   "en": "Creates 6 flaming splinters travelling 11 meters"
+  },
+  {
+   "id": 3246,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/FLAMEHAMMER/FLAMEHAMMER.DAT | SKILL | TIER3_DESCRIPTION",
+   "en": "Creates 7 flaming splinters travelling 14 meters"
+  },
+  {
+   "id": 3247,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/FORCEFIELD/FORCEFIELD.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "Your armor projects Ember energy, creating a forcefield around you, and a half-strength forcefield around allies. Once the forcefield absorbs its maximum damage it dissipates, removing all benefits.\\nForcefield uses all available |c00ff9933Charges|u to increase damage absorbtion by 50% per |c00ff9933Charge|u."
+  },
+  {
+   "id": 3248,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/FORCEFIELD/FORCEFIELD.DAT | SKILL | TIER1_DESCRIPTION",
+   "en": "Mana cost and casting time are reduced by 20%"
+  },
+  {
+   "id": 3249,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/FORCEFIELD/FORCEFIELD.DAT | SKILL | TIER2_DESCRIPTION",
+   "en": "Allies receive a full strength shield"
+  },
+  {
+   "id": 3250,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/FORCEFIELD/FORCEFIELD.DAT | SKILL | TIER3_DESCRIPTION",
+   "en": "Mana cost and casting time are reduced by 50%"
+  },
+  {
+   "id": 3251,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/FUSILLADE/FUSILLADE.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "You unleash a continuous barrage of long-range, homing rockets from your cannon. Bursts of 2 rockets keep firing as long as the mouse button is held down."
+  },
+  {
+   "id": 3252,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/FUSILLADE/FUSILLADE.DAT | SKILL | TIER1_DESCRIPTION",
+   "en": "3 rockets are released per burst"
+  },
+  {
+   "id": 3253,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/FUSILLADE/FUSILLADE.DAT | SKILL | TIER2_DESCRIPTION",
+   "en": "Rockets detonate in a 3 meter burst"
+  },
+  {
+   "id": 3254,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/FUSILLADE/FUSILLADE.DAT | SKILL | TIER3_DESCRIPTION",
+   "en": "4 rockets are released per burst"
+  },
+  {
+   "id": 3255,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/GRENADES/FIRE GRENADE.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "You lob a naphtha grenade, filling a large area with fire for 5 seconds.  Enemies continue taking damage until they leave the area.\\n\\nIf you have one or more |c00ff9933Charges|u, the Fire Grenade affects a larger area and deals 50% more damage, at the cost of one |c00ff9933Charge|u."
+  },
+  {
+   "id": 3256,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/GRENADES/GRENADE.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "You lob a concussion grenade, which detonates over a large area.\\n\\nIf you have one or more |c00ff9933Charges|u, the Force Grenade adds +50% electric damage and stuns affected foes for two seconds, at the cost of one |c00ff9933Charge|u."
+  },
+  {
+   "id": 3257,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/GRENADES/SHOCKGRENADE.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "You lob a grenade, which shocks and stuns enemies in a 4 meter radius. Consumes one |c00ff9933Charge|u for two additional grenades."
+  },
+  {
+   "id": 3258,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/GRENADES/SHOCKGRENADE.DAT | SKILL | TIER1_DESCRIPTION",
+   "en": "Grenade shock radius grows to 5 meters"
+  },
+  {
+   "id": 3259,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/GRENADES/SHOCKGRENADE.DAT | SKILL | TIER2_DESCRIPTION",
+   "en": "Grenade stun time increased to 5 seconds"
+  },
+  {
+   "id": 3260,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/GRENADES/SHOCKGRENADE.DAT | SKILL | TIER3_DESCRIPTION",
+   "en": "Grenade shock radius grows to 6 meters and stun time increased to 6 seconds"
+  },
+  {
+   "id": 3261,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/GRENADES/STICKYBOMB.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "Lob a sticky bomb that adheres to an enemy, detonating on death.  The weight of the bomb slightly reduces attack and casting speeds.\\n 1 |c00ff9933Charge|u: 50% increased damage"
+  },
+  {
+   "id": 3262,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/GRENADES/STICKYBOMBSTRONG.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "Lob a sticky bomb that adheres to an enemy, detonating on death.  The weight of the bomb slightly reduces attack and casting speeds.\\n 1 Charge: 50% increased damage"
+  },
+  {
+   "id": 3263,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/GRENADES/STUNGRENADE.DAT | #1c7a1db0 | DESCRIPTION",
+   "en": "Blindness effect lasts 4 seconds"
+  },
+  {
+   "id": 3264,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/GRENADES/STUNGRENADE.DAT | #1c7a1db2 | DESCRIPTION",
+   "en": "Blindness effect lasts 6 seconds"
+  },
+  {
+   "id": 3265,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/GRENADES/STUNGRENADE.DAT | #1c7a1db3 | DESCRIPTION",
+   "en": "Blindness effect lasts 5 seconds"
+  },
+  {
+   "id": 3266,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/GRENADES/STUNGRENADE.DAT | #1c7a1db4 | DESCRIPTION",
+   "en": "Blindness effect lasts 8 seconds"
+  },
+  {
+   "id": 3267,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/GRENADES/STUNGRENADE.DAT | #1c7a1db5 | DESCRIPTION",
+   "en": "Blindness effect lasts 7 seconds"
+  },
+  {
+   "id": 3268,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/GRENADES/STUNGRENADE.DAT | #1c7a1db6 | DESCRIPTION",
+   "en": "Blindness effect lasts 10 seconds"
+  },
+  {
+   "id": 3269,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/GRENADES/STUNGRENADE.DAT | #1c7a1db7 | DESCRIPTION",
+   "en": "Blindness effect lasts 9 seconds"
+  },
+  {
+   "id": 3270,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/GRENADES/STUNGRENADE.DAT | #1c7a1db8 | DESCRIPTION",
+   "en": "Blindness effect lasts 12 seconds"
+  },
+  {
+   "id": 3271,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/GRENADES/STUNGRENADE.DAT | #1c7a1db9 | DESCRIPTION",
+   "en": "Blindness effect lasts 11 seconds"
+  },
+  {
+   "id": 3272,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/GRENADES/STUNGRENADE.DAT | #8f43b638 | DESCRIPTION",
+   "en": "Blindness effect lasts 16 seconds"
+  },
+  {
+   "id": 3273,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/GRENADES/STUNGRENADE.DAT | #8f43b639 | DESCRIPTION",
+   "en": "Blindness effect lasts 15 seconds"
+  },
+  {
+   "id": 3274,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/GRENADES/STUNGRENADE.DAT | #8f43b63a | DESCRIPTION",
+   "en": "Blindness effect lasts 14 seconds"
+  },
+  {
+   "id": 3275,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/GRENADES/STUNGRENADE.DAT | #8f43b63b | DESCRIPTION",
+   "en": "Blindness effect lasts 13 seconds"
+  },
+  {
+   "id": 3276,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/GRENADES/STUNGRENADE.DAT | #8f43b63e | DESCRIPTION",
+   "en": "Blindness effect lasts 18 seconds"
+  },
+  {
+   "id": 3277,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/GRENADES/STUNGRENADE.DAT | #8f43b63f | DESCRIPTION",
+   "en": "Blindness effect lasts 17 seconds"
+  },
+  {
+   "id": 3278,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/GRENADES/STUNGRENADE.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "You lob a Flash-Bang Grenade, blinding enermies over a large area.\\n\\nIf you have one or more |c00ff9933Charges|u, affected enemies are blinded twice as long and suffer additional damage from all attacks, at the cost of one |c00ff9933Charge|u."
+  },
+  {
+   "id": 3279,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/HAMMERBOT/HAMMERBOT.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "You construct a powerful Sledgebot to pulverize your foes."
+  },
+  {
+   "id": 3280,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/HAMMERBOT/HAMMERBOT.DAT | SKILL | TIER1_DESCRIPTION",
+   "en": "Sledgebot gains sweep attack"
+  },
+  {
+   "id": 3281,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/HAMMERBOT/HAMMERBOT.DAT | SKILL | TIER2_DESCRIPTION",
+   "en": "Sledgebot gains smash attack"
+  },
+  {
+   "id": 3282,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/HAMMERBOT/HAMMERBOT.DAT | SKILL | TIER3_DESCRIPTION",
+   "en": "Sledgebot gains rocket attack"
+  },
+  {
+   "id": 3283,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/MACHINEGUNBOT/MACHINEGUNBOT.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "You deploy a small drone that assaults your enemies with a hail of gunfire, firing 5 rounds per second. Each rank increases the bot's damage potential."
+  },
+  {
+   "id": 3284,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/MACHINEGUNBOT/MACHINEGUNBOT.DAT | SKILL | TIER1_DESCRIPTION",
+   "en": "Firing range doubled\\nSummoning cooldown reduced to 2.5 minutes"
+  },
+  {
+   "id": 3285,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/MACHINEGUNBOT/MACHINEGUNBOT.DAT | SKILL | TIER2_DESCRIPTION",
+   "en": "Shots pierce enemies\\nSummoning cooldown reduced to 2 minutes"
+  },
+  {
+   "id": 3286,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/MACHINEGUNBOT/MACHINEGUNBOT.DAT | SKILL | TIER3_DESCRIPTION",
+   "en": "Triple-spread shots\\nSummoning cooldown reduced to 1.5 minutes"
+  },
+  {
+   "id": 3287,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/MORTARBOT/MORTARBOT.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "You create and deploy a slowly mobile cannon. The cannon lasts for 30 seconds and fires every 4 seconds for 180% of your weapon's DPS."
+  },
+  {
+   "id": 3288,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/ONSLAUGHT/ONSLAUGHT.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "You leap forward, slamming your melee weapon into the ground. Foes at the point of impact are damaged and slowed significantly. Onslaught gains half of normal |c00ff9933Charge|u."
+  },
+  {
+   "id": 3289,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/ONSLAUGHT/ONSLAUGHT.DAT | SKILL | REQUIREMENT_DESCRIPTION",
+   "en": "Requires a melee weapon in the right hand slot"
+  },
+  {
+   "id": 3290,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/ONSLAUGHT/ONSLAUGHT.DAT | SKILL | TIER1_DESCRIPTION",
+   "en": "Mana cost reduced by 20%"
+  },
+  {
+   "id": 3291,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/ONSLAUGHT/ONSLAUGHT.DAT | SKILL | TIER2_DESCRIPTION",
+   "en": "Mana cost reduced by 40%"
+  },
+  {
+   "id": 3292,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/ONSLAUGHT/ONSLAUGHT.DAT | SKILL | TIER3_DESCRIPTION",
+   "en": "Mana cost reduced by 60%"
+  },
+  {
+   "id": 3293,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/OVERDRIVE/OVERDRIVE.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "Railman shifts into overdrive, gaining a large speed bonus for a short duration.  Afterwards the Railman is slowed while his armor recharges"
+  },
+  {
+   "id": 3294,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/OVERLOAD/OVERLOAD.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "You overload your armor's circuits to project a nova of Ember energy, electrocuting up to 5 foes in a 6 meter radius around you. Overload uses all available |c00ff9933Charges|u to increase its damage by 50% per |c00ff9933Charge|u."
+  },
+  {
+   "id": 3295,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/OVERLOAD/OVERLOAD.DAT | SKILL | TIER1_DESCRIPTION",
+   "en": "Up to 7 foes in an 8 meter radius are electrocuted"
+  },
+  {
+   "id": 3296,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/OVERLOAD/OVERLOAD.DAT | SKILL | TIER2_DESCRIPTION",
+   "en": "Up to 9 foes in a 10 meter radius are electrocuted"
+  },
+  {
+   "id": 3297,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/OVERLOAD/OVERLOAD.DAT | SKILL | TIER3_DESCRIPTION",
+   "en": "Up to 11 foes in a 12 meter radius are electrocuted"
+  },
+  {
+   "id": 3298,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/PASSIVES/2H_MASTERY.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "Your skill with giant weaponry allows you to attack faster and adds a chance to stun your foes."
+  },
+  {
+   "id": 3299,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/PASSIVES/2H_MASTERY.DAT | SKILL | REQUIREMENT_DESCRIPTION",
+   "en": "Requires a greataxe, greathammer, greatsword, polearm or cannon"
+  },
+  {
+   "id": 3300,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/PASSIVES/AEGIS.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "When foes attack you, your armor has a chance to generate a defensive \"bubble\" around you that prevents further damage. The amount of damage this shield can absorb is equal to 200% of your Armor plus 100. While the Aegis is active, you also get 50% Knockback Resistance."
+  },
+  {
+   "id": 3301,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/PASSIVES/CANNON_MASTERY.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "Your expertise with cannons allows you to load and fire faster, and punch holes in your enemies' vitals."
+  },
+  {
+   "id": 3302,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/PASSIVES/CHARGEHEALING.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "When you use |c00ff9933Charge|u for skills, you regain some of your Health."
+  },
+  {
+   "id": 3303,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/PASSIVES/CHARGE_ENGINEER_MASTERY.DAT | #1c7a1db0 | DESCRIPTION",
+   "en": "3% chance to get full charge"
+  },
+  {
+   "id": 3304,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/PASSIVES/CHARGE_ENGINEER_MASTERY.DAT | #1c7a1db2 | DESCRIPTION",
+   "en": "4% chance to get full charge"
+  },
+  {
+   "id": 3305,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/PASSIVES/CHARGE_ENGINEER_MASTERY.DAT | #1c7a1db3 | DESCRIPTION",
+   "en": "3.5% chance to get full charge"
+  },
+  {
+   "id": 3306,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/PASSIVES/CHARGE_ENGINEER_MASTERY.DAT | #1c7a1db4 | DESCRIPTION",
+   "en": "5% chance to get full charge"
+  },
+  {
+   "id": 3307,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/PASSIVES/CHARGE_ENGINEER_MASTERY.DAT | #1c7a1db5 | DESCRIPTION",
+   "en": "4.5% chance to get full charge"
+  },
+  {
+   "id": 3308,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/PASSIVES/CHARGE_ENGINEER_MASTERY.DAT | #1c7a1db6 | DESCRIPTION",
+   "en": "6% chance to get full charge"
+  },
+  {
+   "id": 3309,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/PASSIVES/CHARGE_ENGINEER_MASTERY.DAT | #1c7a1db7 | DESCRIPTION",
+   "en": "5.5% chance to get full charge"
+  },
+  {
+   "id": 3310,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/PASSIVES/CHARGE_ENGINEER_MASTERY.DAT | #1c7a1db8 | DESCRIPTION",
+   "en": "7% chance to get full charge"
+  },
+  {
+   "id": 3311,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/PASSIVES/CHARGE_ENGINEER_MASTERY.DAT | #1c7a1db9 | DESCRIPTION",
+   "en": "6.5% chance to get full charge"
+  },
+  {
+   "id": 3312,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/PASSIVES/CHARGE_ENGINEER_MASTERY.DAT | #8f43b638 | DESCRIPTION",
+   "en": "9% chance to get full charge"
+  },
+  {
+   "id": 3313,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/PASSIVES/CHARGE_ENGINEER_MASTERY.DAT | #8f43b639 | DESCRIPTION",
+   "en": "8.5% chance to get full charge"
+  },
+  {
+   "id": 3314,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/PASSIVES/CHARGE_ENGINEER_MASTERY.DAT | #8f43b63a | DESCRIPTION",
+   "en": "8% chance to get full charge"
+  },
+  {
+   "id": 3315,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/PASSIVES/CHARGE_ENGINEER_MASTERY.DAT | #8f43b63b | DESCRIPTION",
+   "en": "7.5% chance to get full charge"
+  },
+  {
+   "id": 3316,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/PASSIVES/CHARGE_ENGINEER_MASTERY.DAT | #8f43b63e | DESCRIPTION",
+   "en": "10% chance to get full charge"
+  },
+  {
+   "id": 3317,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/PASSIVES/CHARGE_ENGINEER_MASTERY.DAT | #8f43b63f | DESCRIPTION",
+   "en": "9.5% chance to get full charge"
+  },
+  {
+   "id": 3318,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/PASSIVES/CHARGE_ENGINEER_MASTERY.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "When you slay an enemy, you have a chance to absorb enough energy to fill your |c00ff9933Charge|u bar. This ability cannot trigger more often than once every three seconds."
+  },
+  {
+   "id": 3319,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/PASSIVES/COUP DE GRACE PASSIVE.DAT | #1c7a1db0 | DESCRIPTION",
+   "en": "The damage is equal to 3 times your Strength, as expressed below"
+  },
+  {
+   "id": 3320,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/PASSIVES/COUP DE GRACE PASSIVE.DAT | #1c7a1db2 | DESCRIPTION",
+   "en": "The damage is equal to 4 times your Strength, as expressed below"
+  },
+  {
+   "id": 3321,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/PASSIVES/COUP DE GRACE PASSIVE.DAT | #1c7a1db3 | DESCRIPTION",
+   "en": "The damage is equal to 3.5 times your Strength, as expressed below"
+  },
+  {
+   "id": 3322,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/PASSIVES/COUP DE GRACE PASSIVE.DAT | #1c7a1db4 | DESCRIPTION",
+   "en": "The damage is equal to 5 times your Strength, as expressed below"
+  },
+  {
+   "id": 3323,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/PASSIVES/COUP DE GRACE PASSIVE.DAT | #1c7a1db5 | DESCRIPTION",
+   "en": "The damage is equal to 4.5 times your Strength, as expressed below"
+  },
+  {
+   "id": 3324,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/PASSIVES/COUP DE GRACE PASSIVE.DAT | #1c7a1db6 | DESCRIPTION",
+   "en": "The damage is equal to 6 times your Strength, as expressed below"
+  },
+  {
+   "id": 3325,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/PASSIVES/COUP DE GRACE PASSIVE.DAT | #1c7a1db7 | DESCRIPTION",
+   "en": "The damage is equal to 5.5 times your Strength, as expressed below"
+  },
+  {
+   "id": 3326,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/PASSIVES/COUP DE GRACE PASSIVE.DAT | #1c7a1db8 | DESCRIPTION",
+   "en": "The damage is equal to 7 times your Strength, as expressed below"
+  },
+  {
+   "id": 3327,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/PASSIVES/COUP DE GRACE PASSIVE.DAT | #1c7a1db9 | DESCRIPTION",
+   "en": "The damage is equal to 6.5 times your Strength, as expressed below"
+  },
+  {
+   "id": 3328,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/PASSIVES/COUP DE GRACE PASSIVE.DAT | #8f43b638 | DESCRIPTION",
+   "en": "The damage is equal to 9 times your Strength, as expressed below"
+  },
+  {
+   "id": 3329,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/PASSIVES/COUP DE GRACE PASSIVE.DAT | #8f43b639 | DESCRIPTION",
+   "en": "The damage is equal to 8.5 times your Strength, as expressed below"
+  },
+  {
+   "id": 3330,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/PASSIVES/COUP DE GRACE PASSIVE.DAT | #8f43b63a | DESCRIPTION",
+   "en": "The damage is equal to 8 times your Strength, as expressed below"
+  },
+  {
+   "id": 3331,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/PASSIVES/COUP DE GRACE PASSIVE.DAT | #8f43b63b | DESCRIPTION",
+   "en": "The damage and equal to 7.5 times your Strength, as expressed below"
+  },
+  {
+   "id": 3332,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/PASSIVES/COUP DE GRACE PASSIVE.DAT | #8f43b63e | DESCRIPTION",
+   "en": "The damage is equal to 10 times your Strength, as expressed below"
+  },
+  {
+   "id": 3333,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/PASSIVES/COUP DE GRACE PASSIVE.DAT | #8f43b63f | DESCRIPTION",
+   "en": "The damage is equal to 9.5 times your Strength, as expressed below"
+  },
+  {
+   "id": 3334,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/PASSIVES/COUP DE GRACE PASSIVE.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "When you hit a stunned target, an electrical surge helps finish the foe off. This ability cannot trigger more than one time per second."
+  },
+  {
+   "id": 3335,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/PASSIVES/DEFENSE_MASTERY.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "Your expertise with armor lets you get the most out of it, increasing its effectiveness, and reducing any damage that actually gets through."
+  },
+  {
+   "id": 3336,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/PASSIVES/ELEMENTAL_ENGINEER_MASTERY.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "The spark to make things work ... and fire to make things die."
+  },
+  {
+   "id": 3337,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/PASSIVES/SHIELD SYNERGY.DAT | #1c7a1db0 | DESCRIPTION",
+   "en": "20% of shield armor added to melee attacks"
+  },
+  {
+   "id": 3338,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/PASSIVES/SHIELD SYNERGY.DAT | #1c7a1db2 | DESCRIPTION",
+   "en": "30% of shield armor added to melee attacks"
+  },
+  {
+   "id": 3339,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/PASSIVES/SHIELD SYNERGY.DAT | #1c7a1db3 | DESCRIPTION",
+   "en": "25% of shield armor added to melee attacks"
+  },
+  {
+   "id": 3340,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/PASSIVES/SHIELD SYNERGY.DAT | #1c7a1db4 | DESCRIPTION",
+   "en": "40% of shield armor added to melee attacks"
+  },
+  {
+   "id": 3341,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/PASSIVES/SHIELD SYNERGY.DAT | #1c7a1db5 | DESCRIPTION",
+   "en": "35% of shield armor added to melee attacks"
+  },
+  {
+   "id": 3342,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/PASSIVES/SHIELD SYNERGY.DAT | #1c7a1db6 | DESCRIPTION",
+   "en": "50% of shield armor added to melee attacks"
+  },
+  {
+   "id": 3343,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/PASSIVES/SHIELD SYNERGY.DAT | #1c7a1db7 | DESCRIPTION",
+   "en": "45% of shield armor added to melee attacks"
+  },
+  {
+   "id": 3344,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/PASSIVES/SHIELD SYNERGY.DAT | #1c7a1db8 | DESCRIPTION",
+   "en": "60% of shield armor added to melee attacks"
+  },
+  {
+   "id": 3345,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/PASSIVES/SHIELD SYNERGY.DAT | #1c7a1db9 | DESCRIPTION",
+   "en": "55% of shield armor added to melee attacks"
+  },
+  {
+   "id": 3346,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/PASSIVES/SHIELD SYNERGY.DAT | #8f43b638 | DESCRIPTION",
+   "en": "80% of shield armor added to melee attacks"
+  },
+  {
+   "id": 3347,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/PASSIVES/SHIELD SYNERGY.DAT | #8f43b639 | DESCRIPTION",
+   "en": "75% of shield armor added to melee attacks"
+  },
+  {
+   "id": 3348,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/PASSIVES/SHIELD SYNERGY.DAT | #8f43b63a | DESCRIPTION",
+   "en": "70% of shield armor added to melee attacks"
+  },
+  {
+   "id": 3349,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/PASSIVES/SHIELD SYNERGY.DAT | #8f43b63b | DESCRIPTION",
+   "en": "65% of shield armor added to melee attacks"
+  },
+  {
+   "id": 3350,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/PASSIVES/SHIELD SYNERGY.DAT | #8f43b63e | DESCRIPTION",
+   "en": "90% of shield armor added to melee attacks"
+  },
+  {
+   "id": 3351,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/PASSIVES/SHIELD SYNERGY.DAT | #8f43b63f | DESCRIPTION",
+   "en": "85% of shield armor added to melee attacks"
+  },
+  {
+   "id": 3352,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/PASSIVES/SHIELD SYNERGY.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "Your skill with a shield goes beyond \"defense\" and straight to \"offense,\" adding some of your shield's armor value directly to your melee attacks as physical damage."
+  },
+  {
+   "id": 3353,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/PASSIVES/SHIELD SYNERGY.DAT | SKILL | REQUIREMENT_DESCRIPTION",
+   "en": "Requires a Shield and any melee weapon"
+  },
+  {
+   "id": 3354,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/PASSIVES/STICKY BOMB PASSIVE.DAT | #1c7a1db2 | DESCRIPTION",
+   "en": "Bomb does 20% more damage"
+  },
+  {
+   "id": 3355,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/PASSIVES/STICKY BOMB PASSIVE.DAT | #1c7a1db3 | DESCRIPTION",
+   "en": "Bomb does 10% more damage"
+  },
+  {
+   "id": 3356,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/PASSIVES/STICKY BOMB PASSIVE.DAT | #1c7a1db4 | DESCRIPTION",
+   "en": "Bomb does 40% more damage"
+  },
+  {
+   "id": 3357,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/PASSIVES/STICKY BOMB PASSIVE.DAT | #1c7a1db5 | DESCRIPTION",
+   "en": "Bomb does 30% more damage"
+  },
+  {
+   "id": 3358,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/PASSIVES/STICKY BOMB PASSIVE.DAT | #1c7a1db6 | DESCRIPTION",
+   "en": "Bomb does 60% more damage"
+  },
+  {
+   "id": 3359,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/PASSIVES/STICKY BOMB PASSIVE.DAT | #1c7a1db7 | DESCRIPTION",
+   "en": "Bomb does 50% more damage"
+  },
+  {
+   "id": 3360,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/PASSIVES/STICKY BOMB PASSIVE.DAT | #1c7a1db8 | DESCRIPTION",
+   "en": "Bomb does 80% more damage"
+  },
+  {
+   "id": 3361,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/PASSIVES/STICKY BOMB PASSIVE.DAT | #1c7a1db9 | DESCRIPTION",
+   "en": "Bomb does 70% more damage"
+  },
+  {
+   "id": 3362,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/PASSIVES/STICKY BOMB PASSIVE.DAT | #8f43b638 | DESCRIPTION",
+   "en": "Bomb does 120% more damage"
+  },
+  {
+   "id": 3363,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/PASSIVES/STICKY BOMB PASSIVE.DAT | #8f43b639 | DESCRIPTION",
+   "en": "Bomb does 110% more damage"
+  },
+  {
+   "id": 3364,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/PASSIVES/STICKY BOMB PASSIVE.DAT | #8f43b63a | DESCRIPTION",
+   "en": "Bomb does 100% more damage"
+  },
+  {
+   "id": 3365,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/PASSIVES/STICKY BOMB PASSIVE.DAT | #8f43b63b | DESCRIPTION",
+   "en": "Bomb does 90% more damage"
+  },
+  {
+   "id": 3366,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/PASSIVES/STICKY BOMB PASSIVE.DAT | #8f43b63e | DESCRIPTION",
+   "en": "Bomb does 140% more damage"
+  },
+  {
+   "id": 3367,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/PASSIVES/STICKY BOMB PASSIVE.DAT | #8f43b63f | DESCRIPTION",
+   "en": "Bomb does 130% more damage"
+  },
+  {
+   "id": 3368,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/PASSIVES/STICKY BOMB PASSIVE.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "When you hit a stunned target, you attach a sticky bomb that explodes three seconds later.  You can place a maximum of one bomb per second."
+  },
+  {
+   "id": 3369,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/PASSIVES/SUPERCHARGE WEAPON PASSIVE.DAT | #1c7a1db0 | DESCRIPTION",
+   "en": "Supercharge surges do 25% of weapon damage. 3% bonus |c00ff9933Charge|u gain."
+  },
+  {
+   "id": 3370,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/PASSIVES/SUPERCHARGE WEAPON PASSIVE.DAT | #1c7a1db2 | DESCRIPTION",
+   "en": "Supercharge surges do 35% of weapon damage. 9% bonus |c00ff9933Charge|u gain."
+  },
+  {
+   "id": 3371,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/PASSIVES/SUPERCHARGE WEAPON PASSIVE.DAT | #1c7a1db3 | DESCRIPTION",
+   "en": "Supercharge surges do 30% of weapon damage. 6% bonus |c00ff9933Charge|u gain."
+  },
+  {
+   "id": 3372,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/PASSIVES/SUPERCHARGE WEAPON PASSIVE.DAT | #1c7a1db4 | DESCRIPTION",
+   "en": "Supercharge surges do 45% of weapon damage. 15% bonus |c00ff9933Charge|u gain."
+  },
+  {
+   "id": 3373,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/PASSIVES/SUPERCHARGE WEAPON PASSIVE.DAT | #1c7a1db5 | DESCRIPTION",
+   "en": "Supercharge surges do 40% of weapon damage. 12% bonus |c00ff9933Charge|u gain."
+  },
+  {
+   "id": 3374,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/PASSIVES/SUPERCHARGE WEAPON PASSIVE.DAT | #1c7a1db6 | DESCRIPTION",
+   "en": "Supercharge surges do 55% of weapon damage. 21% bonus |c00ff9933Charge|u gain."
+  },
+  {
+   "id": 3375,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/PASSIVES/SUPERCHARGE WEAPON PASSIVE.DAT | #1c7a1db7 | DESCRIPTION",
+   "en": "Supercharge surges do 50% of weapon damage. 18% bonus |c00ff9933Charge|u gain."
+  },
+  {
+   "id": 3376,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/PASSIVES/SUPERCHARGE WEAPON PASSIVE.DAT | #1c7a1db8 | DESCRIPTION",
+   "en": "Supercharge surges do 65% of weapon damage. 27% bonus |c00ff9933Charge|u gain."
+  },
+  {
+   "id": 3377,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/PASSIVES/SUPERCHARGE WEAPON PASSIVE.DAT | #1c7a1db9 | DESCRIPTION",
+   "en": "Supercharge surges do 60% of weapon damage. 24% bonus |c00ff9933Charge|u gain."
+  },
+  {
+   "id": 3378,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/PASSIVES/SUPERCHARGE WEAPON PASSIVE.DAT | #8f43b638 | DESCRIPTION",
+   "en": "Supercharge surges do 85% of weapon damage. 39% bonus |c00ff9933Charge|u gain."
+  },
+  {
+   "id": 3379,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/PASSIVES/SUPERCHARGE WEAPON PASSIVE.DAT | #8f43b639 | DESCRIPTION",
+   "en": "Supercharge surges do 80% of weapon damage. 36% bonus |c00ff9933Charge|u gain."
+  },
+  {
+   "id": 3380,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/PASSIVES/SUPERCHARGE WEAPON PASSIVE.DAT | #8f43b63a | DESCRIPTION",
+   "en": "Supercharge surges do 75% of weapon damage. 33% bonus |c00ff9933Charge|u gain."
+  },
+  {
+   "id": 3381,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/PASSIVES/SUPERCHARGE WEAPON PASSIVE.DAT | #8f43b63b | DESCRIPTION",
+   "en": "Supercharge surges do 70% of weapon damage. 30% bonus |c00ff9933Charge|u gain."
+  },
+  {
+   "id": 3382,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/PASSIVES/SUPERCHARGE WEAPON PASSIVE.DAT | #8f43b63e | DESCRIPTION",
+   "en": "Supercharge surges do 95% of weapon damage. 45% bonus |c00ff9933Charge|u gain."
+  },
+  {
+   "id": 3383,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/PASSIVES/SUPERCHARGE WEAPON PASSIVE.DAT | #8f43b63f | DESCRIPTION",
+   "en": "Supercharge surges do 90% of weapon damage. 42% bonus |c00ff9933Charge|u gain."
+  },
+  {
+   "id": 3384,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/PASSIVES/SUPERCHARGE WEAPON PASSIVE.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "When you hit foes with a melee weapon, you have a chance to direct excess energy into your weapon and then discharge it during attacks over the next 10 seconds. While supercharged you gain additional |c00ff9933Charge|u."
+  },
+  {
+   "id": 3385,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/PASSIVES/SUPERCHARGE WEAPON PASSIVE.DAT | SKILL | REQUIREMENT_DESCRIPTION",
+   "en": "Requires a melee weapon"
+  },
+  {
+   "id": 3386,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/PULL/PULL.DAT | #1c7a1db0 | DESCRIPTION",
+   "en": "Range is 13 meters"
+  },
+  {
+   "id": 3387,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/PULL/PULL.DAT | #1c7a1db2 | DESCRIPTION",
+   "en": "Range is 14 meters"
+  },
+  {
+   "id": 3388,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/PULL/PULL.DAT | #1c7a1db3 | DESCRIPTION",
+   "en": "Range is 13.5 meters"
+  },
+  {
+   "id": 3389,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/PULL/PULL.DAT | #1c7a1db4 | DESCRIPTION",
+   "en": "Range is 15 meters"
+  },
+  {
+   "id": 3390,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/PULL/PULL.DAT | #1c7a1db5 | DESCRIPTION",
+   "en": "Range is 14.5 meters"
+  },
+  {
+   "id": 3391,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/PULL/PULL.DAT | #1c7a1db6 | DESCRIPTION",
+   "en": "Range is 16 meters"
+  },
+  {
+   "id": 3392,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/PULL/PULL.DAT | #1c7a1db7 | DESCRIPTION",
+   "en": "Range is 15.5 meters"
+  },
+  {
+   "id": 3393,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/PULL/PULL.DAT | #1c7a1db8 | DESCRIPTION",
+   "en": "Range is 17 meters"
+  },
+  {
+   "id": 3394,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/PULL/PULL.DAT | #1c7a1db9 | DESCRIPTION",
+   "en": "Range is 16.5 meters"
+  },
+  {
+   "id": 3395,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/PULL/PULL.DAT | #8f43b638 | DESCRIPTION",
+   "en": "Range is 19 meters"
+  },
+  {
+   "id": 3396,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/PULL/PULL.DAT | #8f43b639 | DESCRIPTION",
+   "en": "Range is 18.5 meters"
+  },
+  {
+   "id": 3397,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/PULL/PULL.DAT | #8f43b63a | DESCRIPTION",
+   "en": "Range is 18 meters"
+  },
+  {
+   "id": 3398,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/PULL/PULL.DAT | #8f43b63b | DESCRIPTION",
+   "en": "Range is 17.5 meters"
+  },
+  {
+   "id": 3399,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/PULL/PULL.DAT | #8f43b63e | DESCRIPTION",
+   "en": "Range is 20 meters"
+  },
+  {
+   "id": 3400,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/PULL/PULL.DAT | #8f43b63f | DESCRIPTION",
+   "en": "Range is 19.5 meters"
+  },
+  {
+   "id": 3401,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/PULL/PULL.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "A focused surge of energy draws a foe into striking range. You gain a 20% chance to stun for 3 seconds for every |c00ff9933Charge|u you have, but the skill itself neither gains nor expends |c00ff9933Charge|u. "
+  },
+  {
+   "id": 3402,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/PULL/PULL.DAT | SKILL | TIER1_DESCRIPTION",
+   "en": "Mana cost reduced by 20%. Damage Taken effect lasts 4 seconds."
+  },
+  {
+   "id": 3403,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/PULL/PULL.DAT | SKILL | TIER2_DESCRIPTION",
+   "en": "Mana cost reduced by 40%. Damage Taken effect lasts 6 seconds."
+  },
+  {
+   "id": 3404,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/PULL/PULL.DAT | SKILL | TIER3_DESCRIPTION",
+   "en": "Mana cost reduced by 60%. Damage Taken effect lasts 8 seconds."
+  },
+  {
+   "id": 3405,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/QUAKE/QUAKE.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "A huge overhand smash sends out 8 radiating magma fissures to seek and destroy your enemies."
+  },
+  {
+   "id": 3406,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/QUAKE/QUAKE.DAT | SKILL | TIER1_DESCRIPTION",
+   "en": "Fire damage increased by 20%"
+  },
+  {
+   "id": 3407,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/QUAKE/QUAKE.DAT | SKILL | TIER2_DESCRIPTION",
+   "en": "Fire damage increased by 40%"
+  },
+  {
+   "id": 3408,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/QUAKE/QUAKE.DAT | SKILL | TIER3_DESCRIPTION",
+   "en": "Fire damage increased by 60%"
+  },
+  {
+   "id": 3409,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/REPAIRBOT/REPAIRBOT.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "You deploy a small drone that heals you and your allies, provided you are within range."
+  },
+  {
+   "id": 3410,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/SEISMICSLAM/SEISMIC SLAM.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "Your mechanically-assisted stomp stuns and burns all enemies in a 4 meter radius around you."
+  },
+  {
+   "id": 3411,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/SEISMICSLAM/SEISMIC SLAM.DAT | SKILL | TIER1_DESCRIPTION",
+   "en": "Radius increased to 6 meters"
+  },
+  {
+   "id": 3412,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/SEISMICSLAM/SEISMIC SLAM.DAT | SKILL | TIER2_DESCRIPTION",
+   "en": "Radius increased to 8 meters"
+  },
+  {
+   "id": 3413,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/SEISMICSLAM/SEISMIC SLAM.DAT | SKILL | TIER3_DESCRIPTION",
+   "en": "Radius increased to 10 meters"
+  },
+  {
+   "id": 3414,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/SELFDESTRUCT/SELFDESTRUCT.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "Allies are rigged to explode upon death"
+  },
+  {
+   "id": 3415,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/SELFDESTRUCT/SELFDESTRUCT_AOE.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "Devestating explosion on death"
+  },
+  {
+   "id": 3416,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/SHIELDBASH/FIREBASH.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "You channel a potent blast of energy through your shield up to 6 meters away. Damage is derived from your shield's Armor value. Initial physical damage is tripled and the blast range is increased to 9 meters with one |c00ff9933Charge|u. "
+  },
+  {
+   "id": 3417,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/SHIELDBASH/FIREBASH.DAT | SKILL | REQUIREMENT_DESCRIPTION",
+   "en": "Requires an equipped shield"
+  },
+  {
+   "id": 3418,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/SHIELDBASH/FIREBASH.DAT | SKILL | TIER1_DESCRIPTION",
+   "en": "Burn time increased to 5 seconds, doing more damage"
+  },
+  {
+   "id": 3419,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/SHIELDBASH/FIREBASH.DAT | SKILL | TIER2_DESCRIPTION",
+   "en": "Damage arc widened by 40 degrees to hit more targets"
+  },
+  {
+   "id": 3420,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/SHIELDBASH/FIREBASH.DAT | SKILL | TIER3_DESCRIPTION",
+   "en": "Targets take 50% additional fire damage while burning"
+  },
+  {
+   "id": 3421,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/SHIELDBASH/SHIELDBASH.DAT | #1c7a1db0 | DESCRIPTION",
+   "en": "Each bash generates 0.2 |c00ff9933Charges|u."
+  },
+  {
+   "id": 3422,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/SHIELDBASH/SHIELDBASH.DAT | #1c7a1db2 | DESCRIPTION",
+   "en": "Each bash generates 0.24 |c00ff9933Charges|u."
+  },
+  {
+   "id": 3423,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/SHIELDBASH/SHIELDBASH.DAT | #1c7a1db3 | DESCRIPTION",
+   "en": "Each bash generates 0.22 |c00ff9933Charges|u."
+  },
+  {
+   "id": 3424,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/SHIELDBASH/SHIELDBASH.DAT | #1c7a1db4 | DESCRIPTION",
+   "en": "Each bash generates 0.28 |c00ff9933Charges|u."
+  },
+  {
+   "id": 3425,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/SHIELDBASH/SHIELDBASH.DAT | #1c7a1db5 | DESCRIPTION",
+   "en": "Each bash generates 0.26 |c00ff9933Charges|u."
+  },
+  {
+   "id": 3426,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/SHIELDBASH/SHIELDBASH.DAT | #1c7a1db6 | DESCRIPTION",
+   "en": "Each bash generates 0.32 |c00ff9933Charges|u."
+  },
+  {
+   "id": 3427,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/SHIELDBASH/SHIELDBASH.DAT | #1c7a1db7 | DESCRIPTION",
+   "en": "Each bash generates 0.3 |c00ff9933Charges|u."
+  },
+  {
+   "id": 3428,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/SHIELDBASH/SHIELDBASH.DAT | #1c7a1db8 | DESCRIPTION",
+   "en": "Each bash generates 0.36 |c00ff9933Charges|u."
+  },
+  {
+   "id": 3429,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/SHIELDBASH/SHIELDBASH.DAT | #1c7a1db9 | DESCRIPTION",
+   "en": "Each bash generates 0.34 |c00ff9933Charges|u."
+  },
+  {
+   "id": 3430,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/SHIELDBASH/SHIELDBASH.DAT | #8f43b638 | DESCRIPTION",
+   "en": "Each bash generates 0.44 |c00ff9933Charges|u."
+  },
+  {
+   "id": 3431,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/SHIELDBASH/SHIELDBASH.DAT | #8f43b639 | DESCRIPTION",
+   "en": "Each bash generates 0.42 |c00ff9933Charges|u."
+  },
+  {
+   "id": 3432,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/SHIELDBASH/SHIELDBASH.DAT | #8f43b63a | DESCRIPTION",
+   "en": "Each bash generates 0.4 |c00ff9933Charges|u."
+  },
+  {
+   "id": 3433,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/SHIELDBASH/SHIELDBASH.DAT | #8f43b63b | DESCRIPTION",
+   "en": "Each bash generates 0.38 |c00ff9933Charges|u."
+  },
+  {
+   "id": 3434,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/SHIELDBASH/SHIELDBASH.DAT | #8f43b63e | DESCRIPTION",
+   "en": "Each bash generates 0.48 |c00ff9933Charges|u."
+  },
+  {
+   "id": 3435,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/SHIELDBASH/SHIELDBASH.DAT | #8f43b63f | DESCRIPTION",
+   "en": "Each bash generates 0.46 |c00ff9933Charges|u."
+  },
+  {
+   "id": 3436,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/SHIELDBASH/SHIELDBASH.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "You smash enemies in front of you, stunning them, slowing their attacks and knocking them back. Damage is equal to 5 times your shield's Armor value. Each |c00ff9933Charge|u you currently have provides an additional 10% damage bonus. "
+  },
+  {
+   "id": 3437,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/SHIELDBASH/SHIELDBASH.DAT | SKILL | TIER1_DESCRIPTION",
+   "en": "Damage is increased to 7.5 times your Shield's Armor"
+  },
+  {
+   "id": 3438,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/SHIELDBASH/SHIELDBASH.DAT | SKILL | TIER2_DESCRIPTION",
+   "en": "Damage is increased to 10 times your Shield's Armor"
+  },
+  {
+   "id": 3439,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/SHIELDBASH/SHIELDBASH.DAT | SKILL | TIER3_DESCRIPTION",
+   "en": "Damage is increased to 12.5 times your Shield's Armor"
+  },
+  {
+   "id": 3440,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/SHOCKDASH/SHOCKDASHDASH.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "A blast from your pack rockets you swiftly forward, knocking back foes. 3 bolts of energy discharge from your suit on impact, striking remote enemies. Every enemy hit also recharges your mana by 5%, for up to 5 targets."
+  },
+  {
+   "id": 3441,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/SHOCKDASH/SHOCKDASHDASH.DAT | SKILL | TIER1_DESCRIPTION",
+   "en": "Increases bolt discharge to 6"
+  },
+  {
+   "id": 3442,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/SHOCKDASH/SHOCKDASHDASH.DAT | SKILL | TIER2_DESCRIPTION",
+   "en": "20% chance to immobilize foes"
+  },
+  {
+   "id": 3443,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/SHOCKDASH/SHOCKDASHDASH.DAT | SKILL | TIER3_DESCRIPTION",
+   "en": "Cooldown reduced to 1 second"
+  },
+  {
+   "id": 3444,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/SLOWCOPTER/SLOWCOPTERSUMMON.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "You deploy an immobilization drone which slows enemies within range of its beam. A maximum of 3 targets may be effected at once."
+  },
+  {
+   "id": 3445,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/SLOWCOPTER/SLOWCOPTERSUMMON.DAT | SKILL | TIER1_DESCRIPTION",
+   "en": "A maximum of 5 targets may be affected at once"
+  },
+  {
+   "id": 3446,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/SLOWCOPTER/SLOWCOPTERSUMMON.DAT | SKILL | TIER2_DESCRIPTION",
+   "en": "Electrical damage inflicted while slowed"
+  },
+  {
+   "id": 3447,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/SLOWCOPTER/SLOWCOPTERSUMMON.DAT | SKILL | TIER3_DESCRIPTION",
+   "en": "Targets are intermittently interrupted "
+  },
+  {
+   "id": 3448,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/SPIDERMINES/SPIDERMINESUMMON.DAT | #1c7a1db0 | DESCRIPTION",
+   "en": "5% chance for an upgraded mine explosion"
+  },
+  {
+   "id": 3449,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/SPIDERMINES/SPIDERMINESUMMON.DAT | #1c7a1db2 | DESCRIPTION",
+   "en": "15% chance for an upgraded mine explosion"
+  },
+  {
+   "id": 3450,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/SPIDERMINES/SPIDERMINESUMMON.DAT | #1c7a1db3 | DESCRIPTION",
+   "en": "10% chance for an upgraded mine explosion"
+  },
+  {
+   "id": 3451,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/SPIDERMINES/SPIDERMINESUMMON.DAT | #1c7a1db4 | DESCRIPTION",
+   "en": "25% chance for an upgraded mine explosion"
+  },
+  {
+   "id": 3452,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/SPIDERMINES/SPIDERMINESUMMON.DAT | #1c7a1db5 | DESCRIPTION",
+   "en": "20% chance for an upgraded mine explosion"
+  },
+  {
+   "id": 3453,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/SPIDERMINES/SPIDERMINESUMMON.DAT | #1c7a1db6 | DESCRIPTION",
+   "en": "35% chance for an upgraded mine explosion"
+  },
+  {
+   "id": 3454,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/SPIDERMINES/SPIDERMINESUMMON.DAT | #1c7a1db7 | DESCRIPTION",
+   "en": "30% chance for an upgraded mine explosion"
+  },
+  {
+   "id": 3455,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/SPIDERMINES/SPIDERMINESUMMON.DAT | #1c7a1db8 | DESCRIPTION",
+   "en": "45% chance for an upgraded mine explosion"
+  },
+  {
+   "id": 3456,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/SPIDERMINES/SPIDERMINESUMMON.DAT | #1c7a1db9 | DESCRIPTION",
+   "en": "40% chance for an upgraded mine explosion"
+  },
+  {
+   "id": 3457,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/SPIDERMINES/SPIDERMINESUMMON.DAT | #8f43b638 | DESCRIPTION",
+   "en": "65% chance for an upgraded mine explosion"
+  },
+  {
+   "id": 3458,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/SPIDERMINES/SPIDERMINESUMMON.DAT | #8f43b639 | DESCRIPTION",
+   "en": "60% chance for an upgraded mine explosion"
+  },
+  {
+   "id": 3459,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/SPIDERMINES/SPIDERMINESUMMON.DAT | #8f43b63a | DESCRIPTION",
+   "en": "55% chance for an upgraded mine explosion"
+  },
+  {
+   "id": 3460,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/SPIDERMINES/SPIDERMINESUMMON.DAT | #8f43b63b | DESCRIPTION",
+   "en": "50% chance for an upgraded mine explosion"
+  },
+  {
+   "id": 3461,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/SPIDERMINES/SPIDERMINESUMMON.DAT | #8f43b63e | DESCRIPTION",
+   "en": "75% chance for an upgraded mine explosion"
+  },
+  {
+   "id": 3462,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/SPIDERMINES/SPIDERMINESUMMON.DAT | #8f43b63f | DESCRIPTION",
+   "en": "70% chance for an upgraded mine explosion"
+  },
+  {
+   "id": 3463,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/SPIDERMINES/SPIDERMINESUMMON.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "You deploy a trio of spider drones that charge the nearest foes and explode in a 3 meter radius. Upgraded mines do 20% more damage with a 5 meter radius, a 2 second stun, and electric damage over time."
+  },
+  {
+   "id": 3464,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/SUPPORTBOT/SUPPORTBOT.DAT | #1c7a1db0 | DESCRIPTION",
+   "en": "Healing pulse every 12 seconds; radius 8 meters"
+  },
+  {
+   "id": 3465,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/SUPPORTBOT/SUPPORTBOT.DAT | #1c7a1db2 | DESCRIPTION",
+   "en": "Healing pulse every 11 seconds; radius 9 meters"
+  },
+  {
+   "id": 3466,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/SUPPORTBOT/SUPPORTBOT.DAT | #1c7a1db3 | DESCRIPTION",
+   "en": "Healing pulse every 11.5 seconds; radius 8.5 meters"
+  },
+  {
+   "id": 3467,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/SUPPORTBOT/SUPPORTBOT.DAT | #1c7a1db4 | DESCRIPTION",
+   "en": "Healing pulse every 10 seconds; radius 10 meters"
+  },
+  {
+   "id": 3468,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/SUPPORTBOT/SUPPORTBOT.DAT | #1c7a1db5 | DESCRIPTION",
+   "en": "Healing pulse every 10.5 seconds; radius 9.5 meters"
+  },
+  {
+   "id": 3469,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/SUPPORTBOT/SUPPORTBOT.DAT | #1c7a1db6 | DESCRIPTION",
+   "en": "Healing pulse every 9 seconds; radius 11 meters"
+  },
+  {
+   "id": 3470,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/SUPPORTBOT/SUPPORTBOT.DAT | #1c7a1db7 | DESCRIPTION",
+   "en": "Healing pulse every 9.5 seconds; radius 10.5 meters"
+  },
+  {
+   "id": 3471,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/SUPPORTBOT/SUPPORTBOT.DAT | #1c7a1db8 | DESCRIPTION",
+   "en": "Healing pulse every 8 seconds; radius 12 meters"
+  },
+  {
+   "id": 3472,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/SUPPORTBOT/SUPPORTBOT.DAT | #1c7a1db9 | DESCRIPTION",
+   "en": "Healing pulse every 8.5 seconds; radius 11.5 meters"
+  },
+  {
+   "id": 3473,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/SUPPORTBOT/SUPPORTBOT.DAT | #8f43b638 | DESCRIPTION",
+   "en": "Healing pulse every 6 seconds; radius 14 meters"
+  },
+  {
+   "id": 3474,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/SUPPORTBOT/SUPPORTBOT.DAT | #8f43b639 | DESCRIPTION",
+   "en": "Healing pulse every 6.5 seconds; radius 13.5 meters"
+  },
+  {
+   "id": 3475,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/SUPPORTBOT/SUPPORTBOT.DAT | #8f43b63a | DESCRIPTION",
+   "en": "Healing pulse every 7 seconds; radius 13 meters"
+  },
+  {
+   "id": 3476,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/SUPPORTBOT/SUPPORTBOT.DAT | #8f43b63b | DESCRIPTION",
+   "en": "Healing pulse every 7.5 seconds; radius 12.5 meters"
+  },
+  {
+   "id": 3477,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/SUPPORTBOT/SUPPORTBOT.DAT | #8f43b63e | DESCRIPTION",
+   "en": "Healing pulse every 5 seconds; radius 15 meters"
+  },
+  {
+   "id": 3478,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/SUPPORTBOT/SUPPORTBOT.DAT | #8f43b63f | DESCRIPTION",
+   "en": "Healing pulse every 5.5 seconds; radius 14.5 meters"
+  },
+  {
+   "id": 3479,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/SUPPORTBOT/SUPPORTBOT.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "You deploy a small drone that generates energy pulses, healing both you and your allies."
+  },
+  {
+   "id": 3480,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/SUPPORTBOT/SUPPORTBOT.DAT | SKILL | TIER1_DESCRIPTION",
+   "en": "The energy pulse also regenerates Mana"
+  },
+  {
+   "id": 3481,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/SUPPORTBOT/SUPPORTBOT.DAT | SKILL | TIER2_DESCRIPTION",
+   "en": "The Engineer and allies also get a 8% Armor boost"
+  },
+  {
+   "id": 3482,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/SUPPORTBOT/SUPPORTBOT.DAT | SKILL | TIER3_DESCRIPTION",
+   "en": "The Engineer and allies also get a 16% Armor boost"
+  },
+  {
+   "id": 3483,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/THUNDERHAMMER/THUNDERHAMMER.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "While active, attacks inflict an elemental resistance debuff."
+  },
+  {
+   "id": 3484,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/TREMOR/TREMOR.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "Discharging the energy from your suit into the earth causes a massive shockwave to expand outward, knocking back and weakening foes within 24 meters. |cFFFF0000Tremor only does the listed damage when it uses one|u |c00ff9933Charge|u."
+  },
+  {
+   "id": 3485,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/TREMOR/TREMOR.DAT | SKILL | TIER1_DESCRIPTION",
+   "en": "Adds a 20% chance for foes to Flee for 10 seconds"
+  },
+  {
+   "id": 3486,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/TREMOR/TREMOR.DAT | SKILL | TIER2_DESCRIPTION",
+   "en": "Weakened foes also do 20% less physical damage"
+  },
+  {
+   "id": 3487,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/TREMOR/TREMOR.DAT | SKILL | TIER3_DESCRIPTION",
+   "en": "All targets are stunned for 2 seconds"
+  },
+  {
+   "id": 3488,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/TREMORARMOR/TREMORARMOR.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "The Railman's armor pulses shockwaves for a time, reducing attack and movement speed of enemies around him"
+  },
+  {
+   "id": 3489,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/VORTEX FIELD/GRAVITYWELL.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "You generate a gravity well that slowly draws enemies toward you and damaging their armor in small pulses. This effect lasts for 20 seconds."
+  },
+  {
+   "id": 3490,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/VORTEX FIELD/GRAVITYWELL.DAT | SKILL | DESCRIPTION",
+   "en": "Pulls enemies toward you"
+  },
+  {
+   "id": 3491,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/VORTEX FIELD/VORTEXFIELD.DAT | AFFIXES | ADDITIONALDESCRIPTION",
+   "en": "Draws enemies inward"
+  },
+  {
+   "id": 3492,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/VORTEX FIELD/VORTEXFIELD.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "When this skill is enabled, the engineer projects a gravity well that draws slowly enemies in, doing slight pulses of electric damage."
+  },
+  {
+   "id": 3493,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/WEAPONCHARGE/WEAPONCHARGE.DAT | #1c7a1db0 | DESCRIPTION",
+   "en": "Duration: 30 seconds."
+  },
+  {
+   "id": 3494,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/WEAPONCHARGE/WEAPONCHARGE.DAT | #1c7a1db2 | DESCRIPTION",
+   "en": "Duration: 40 seconds. Adds 20% damage."
+  },
+  {
+   "id": 3495,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/WEAPONCHARGE/WEAPONCHARGE.DAT | #1c7a1db3 | DESCRIPTION",
+   "en": "Duration: 35 seconds. Adds 10% damage."
+  },
+  {
+   "id": 3496,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/WEAPONCHARGE/WEAPONCHARGE.DAT | #1c7a1db4 | DESCRIPTION",
+   "en": "Duration: 50 seconds. Adds 40% damage."
+  },
+  {
+   "id": 3497,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/WEAPONCHARGE/WEAPONCHARGE.DAT | #1c7a1db5 | DESCRIPTION",
+   "en": "Duration: 45 seconds. Adds 30% damage."
+  },
+  {
+   "id": 3498,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/WEAPONCHARGE/WEAPONCHARGE.DAT | #1c7a1db6 | DESCRIPTION",
+   "en": "Duration: 60 seconds. Adds 60% damage."
+  },
+  {
+   "id": 3499,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/WEAPONCHARGE/WEAPONCHARGE.DAT | #1c7a1db7 | DESCRIPTION",
+   "en": "Duration: 55 seconds. Adds 50% damage."
+  },
+  {
+   "id": 3500,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/WEAPONCHARGE/WEAPONCHARGE.DAT | #1c7a1db8 | DESCRIPTION",
+   "en": "Duration: 70 seconds. Adds 80% damage."
+  },
+  {
+   "id": 3501,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/WEAPONCHARGE/WEAPONCHARGE.DAT | #1c7a1db9 | DESCRIPTION",
+   "en": "Duration: 65 seconds. Adds 70% damage."
+  },
+  {
+   "id": 3502,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/WEAPONCHARGE/WEAPONCHARGE.DAT | #8f43b638 | DESCRIPTION",
+   "en": "Duration: 90 seconds. Adds 120% damage."
+  },
+  {
+   "id": 3503,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/WEAPONCHARGE/WEAPONCHARGE.DAT | #8f43b639 | DESCRIPTION",
+   "en": "Duration: 85 seconds. Adds 110% damage."
+  },
+  {
+   "id": 3504,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/WEAPONCHARGE/WEAPONCHARGE.DAT | #8f43b63a | DESCRIPTION",
+   "en": "Duration: 80 seconds. Adds 100% damage."
+  },
+  {
+   "id": 3505,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/WEAPONCHARGE/WEAPONCHARGE.DAT | #8f43b63b | DESCRIPTION",
+   "en": "Duration: 75 seconds. Adds 90% damage."
+  },
+  {
+   "id": 3506,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/WEAPONCHARGE/WEAPONCHARGE.DAT | #8f43b63e | DESCRIPTION",
+   "en": "Duration: 100 seconds. Adds 140% damage."
+  },
+  {
+   "id": 3507,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/WEAPONCHARGE/WEAPONCHARGE.DAT | #8f43b63f | DESCRIPTION",
+   "en": "Duration: 95 seconds. Adds 130% damage."
+  },
+  {
+   "id": 3508,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/WEAPONCHARGE/WEAPONCHARGE.DAT | SKILL | BASE_DESCRIPTION",
+   "en": "You transfer power from your armor into your weapon ... then discharge it into the enemies you strike."
+  },
+  {
+   "id": 3509,
+   "mode": "translate",
+   "ctx": "SKILLS/RAILMAN/WEAPONCHARGE/WEAPONCHARGE.DAT | SKILL | DESCRIPTION",
+   "en": "Duration: 16 seconds."
+  }
+ ]
+}

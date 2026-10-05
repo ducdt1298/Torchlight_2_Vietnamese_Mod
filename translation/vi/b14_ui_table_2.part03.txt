@@ -1,0 +1,300 @@
+@@ 6909
+Trang sức
+@@ 6910
+Kỹ năng Tundra
+@@ 6911
+Tunic of Triangulation
+@@ 6912
+Twitch of the Death Nerve
+@@ 6913
+Tỉ lệ giao diện (cập nhật khi Áp dụng)
+@@ 6914
+UI Textures( <STAT1>) Size: <STAT2>
+@@ 6915
+Ừm ... tôi biết nhờ vả thế này là hơi quá, chúng ta lại chẳng quen biết gì ... nhưng, ừm, hình như tôi đã để lạc mất chiếc |cFFEAAA15đồng hồ bỏ túi|u của mình. Nó to cỡ chừng này, có cái núm vặn nho nhỏ ở trên, và, ừm, có mấy con số ... trên mặt. Kiểu như, à ... một cái đồng hồ.\n\nLúc nãy tôi vẫn còn giữ nó khi dừng lại tán gẫu với mấy anh kia, nhưng sau đó thì tôi không nhớ là còn thấy nó nữa. Chắc tôi làm rơi mất rồi.\n\nKhoan ... bạn không nghĩ là họ đã lấy trộm nó đấy chứ?\n\nỪm ... bạn có thể đi hỏi họ giúp tôi được không ...? Tôi cũng định tự đi ... nhưng trông họ có vẻ, ừm, dữ dằn sao ấy.
+@@ 6916
+Không thể dịch chuyển
+@@ 6917
+Không thể dịch chuyển đến khu vực hiện tại của người chơi đó.
+@@ 6918
+Không thể dùng Dynamite ở Fishing Hole này!
+@@ 6919
+Bỏ chặn
+@@ 6920
+Bỏ chặn người chơi
+@@ 6921
+Hủy xác nhận giao dịch
+@@ 6922
+Underwater Webs
+@@ 6923
+Hủy kết bạn
+@@ 6924
+Hủy kết bạn với người chơi
+@@ 6925
+Unique 
+@@ 6926
+Quên Spell
+@@ 6927
+Unlit Brazier
+@@ 6928
+Unlit Campfire
+@@ 6929
+Mở khóa ở cấp 1
+@@ 6930
+Điểm kỹ năng\nchưa dùng
+@@ 6931
+Điểm thuộc tính\nchưa dùng
+@@ 6932
+Đang cập nhật...
+@@ 6933
+Khi |cFFA1D0FClên cấp |ubạn sẽ nhận được 5 |cFFA1D0FCđiểm thuộc tính|u và 1 |cFFA1D0FCđiểm kỹ năng|u. Các thẻ |cFFA1D0FCBảng nhân vật|u và |cFFA1D0FCBảng kỹ năng |usẽ nhấp nháy khi bạn có điểm để phân bổ.
+@@ 6934
+Dùng Health Potion tốt nhất
+@@ 6935
+Dùng Mana Potion tốt nhất
+@@ 6936
+Dùng kỹ năng
+@@ 6937
+Dùng |cFFA1D0FCchuột trái|u để di chuyển, tấn công và nhặt vật phẩm.\n\nDùng |cFFA1D0FCchuột phải|u để dùng kỹ năng đang chọn. Kỹ năng sẽ tiêu hao mana khi sử dụng. Mana sẽ tự hồi phục theo thời gian.
+@@ 6938
+Valve
+@@ 6939
+Nhanh chóng\ntiêu diệt kẻ địch
+@@ 6940
+Vault
+@@ 6941
+Vault_wall_crawler_spawner
+@@ 6942
+Đầy đủ
+@@ 6943
+Vertical Sync khắc phục hiện tượng xé hình.\nTắt VSync có thể giúp tăng FPS.
+@@ 6944
+Vertical Synchronization (VSync) *
+@@ 6945
+Rất cao
+@@ 6946
+Hình ảnh
+@@ 6947
+Xem nhóm phòng dùng mod
+@@ 6948
+Vitality cộng thêm
+@@ 6949
+Bỏ phiếu đuổi người chơi khỏi phòng
+@@ 6950
+CẢNH BÁO: Kết nối có độ trễ cao. Bạn có thể gặp sự cố khi chơi cùng người này.
+@@ 6951
+CẢNH BÁO: Phát hiện sự cố NAT. Bạn có thể gặp sự cố khi chơi cùng người này.
+@@ 6952
+WINTER WIDOW
+@@ 6953
+Đang chờ TapTap xác thực...
+@@ 6954
+Đang chờ\n<STAT1>\nchấp nhận yêu cầu giao dịch.
+@@ 6955
+Wake of the Alchemist
+@@ 6956
+Kỹ năng Warfare
+@@ 6957
+Cảnh báo
+@@ 6958
+Dịch chuyển
+@@ 6959
+Dịch chuyển đến người chơi
+@@ 6960
+Dịch chuyển đến
+@@ 6961
+Dịch chuyển đến người chơi
+@@ 6962
+Đến cổng dịch chuyển của người chơi
+@@ 6963
+Dịch chuyển đến Zeryphesh
+@@ 6964
+Dịch chuyển đến cổng tại
+@@ 6965
+Dịch chuyển đến cổng của bạn
+@@ 6966
+Watchweald Approach
+@@ 6967
+Watchweald Portal
+@@ 6968
+Water Guardian Palace
+@@ 6969
+Đợt 1
+@@ 6970
+Đợt bốn
+@@ 6971
+Đợt ba
+@@ 6972
+Nút đổi bộ vũ khí
+@@ 6973
+Vũ khí đang bán
+@@ 6974
+Chà chà! Quay lại sớm vậy sao? Ồ, bạn vẫn chưa có dụng cụ à ... \n\nThôi, khi nào có thì quay lại nhé!
+@@ 6975
+Chà, trông ngươi có vẻ giúp được việc đây. Ta đoán ngươi chỉ nói được thứ tiếng man di Vilderan nào đó thôi, phải không? Ở nơi xa Empire thế này, thật khó mà tìm được người phiên dịch ...\n\nXin chào! Ngươi giúp ta! Được không? Thấy chưa? Giúp ... ta. Không nói được! Được thôi! Không nói được à? Nghe thôi! "Nghe."\n\nTa ... mất ... đồ. |cFFEAAA15Dây chuyền|u! Thấy chưa? "Dây. Chuyền." Cướp ... lấy! Ta ... muốn dây-chuyền về! Thấy chưa? Ngươi! Giết cướp ... lấy dây-chuyền! Mang dây-chuyền về! Ta cho tiền! "Tiền." Được chứ? Ngươi hiểu không? "Tiền?"\n\nĐi đi! Đi ngay! Đi lấy dây chuyền về! "Dây-chuyền!"
+@@ 6976
+Wellspring Approach
+@@ 6977
+Khi bật Hiện so sánh vật phẩm, bảng thông tin vật phẩm sẽ hiển thị thêm một \nbảng so sánh với vật phẩm cùng loại mà bạn đang trang bị.
+@@ 6978
+Whirlpool of Fate
+@@ 6979
+Nhắn riêng
+@@ 6980
+Nhắn riêng cho người chơi
+@@ 6981
+Widowmaker Woods
+@@ 6982
+Liệt kê các phòng gần cấp của mình
+@@ 6983
+Cửa sổ
+@@ 6984
+Cửa sổ toàn màn hình
+@@ 6985
+Chà! Họ thật sự trả lại cho bạn sao? Tuyệt quá! Tôi cứ chắc là họ sẽ chối là không cầm nó ... hoặc ít nhất cũng chống cự một phen ... ồ.\n\nThôi thì, ừm ... để tôi tặng bạn một phần thưởng vì đã mang đồng hồ về cho tôi nhé?
+@@ 6986
+Ờ, đúng cái đó đấy! Cái mề đay, kiểu vậy. Hơi bẩn chút, nhưng đồ cổ là thế mà, phải không? Người ta cứ để chúng nằm lăn lóc trong mấy cái hộp cũ, rồi quên béng đi. Chuyện chẳng hay ho gì, nhưng để phí một món hời thế này thì thật vô lý, nhỉ?
+@@ 6987
+Có
+@@ 6988
+Yoon Im\nAlly Gu\nAllen Fong\nJason Lee\nDavis Li\nLukasz Pason\nBill Wang\nMatt Wyatt\nChuck Yang\n\n
+@@ 6989
+Ngươi ... bạn! Ta ... bạn! Ngươi ... giết ... cướp! Ta ... không phải cướp! Ngươi không giết ... ta! Thấy chưa? Không ... giết ... ta!\n\nChà, dù sao thì may là có vẻ nó đã hiểu ra.
+@@ 6990
+Bạn sẽ nhận được
+@@ 6991
+Bạn có thể dịch chuyển đến bất kỳ người chơi nào trong phòng từ Waygate. Hãy chọn người chơi bên dưới để dịch chuyển đến chỗ họ.
+@@ 6992
+Bạn không thể tạo loại hầm ngục này vì đã có người chơi khác hoặc cổng dịch chuyển trong một hầm ngục tương tự. Hãy đóng các cổng dịch chuyển đến hầm ngục đó rồi thử lại, hoặc đến chỗ người chơi đó.
+@@ 6993
+Bạn không tìm được nó sao? Nhưng ... nếu tôi trở về mà không có nó, tôi sẽ bị trục xuất mất!
+@@ 6994
+Bạn chưa thể giải nghệ cho đến khi đạt cấp
+@@ 6995
+Ngươi tìm thấy rồi! Tuyệt hảo!\n\nÀ phải rồi ... ngươi chẳng hiểu ta đang nói gì, đúng không?\n\nĐược! Ngươi ... được! Mang dây chuyền về! Được! Ta cho tiền! Ngươi đưa dây chuyền ... ta cho tiền. Đúng! Đúng rồi, ngươi hiểu rồi đấy!\n\nThật tình, cứ tưởng lũ mọi rợ các ngươi ít nhất cũng chịu học lấy một thứ tiếng văn minh chứ ...
+@@ 6996
+Bạn tìm được rồi! Ôi, tạ ơn các vị thần. Chỉ cần một lát thôi, và đây rồi: một miếng thuốc đắp chữa thương. Giờ tôi chỉ cần nghỉ ngơi một chút là sẽ khỏe như mới.\n\nHóa ra bạn mang về nhiều lá hơn tôi cần. Vậy nên, đây: một Healing Poultice cho bạn, coi như phần thưởng. Nếu bạn bị thương nặng, nó sẽ giúp bạn hồi phục ngay tức thì!
+@@ 6997
+Bạn còn điểm để phân bổ
+@@ 6998
+Bạn đã lấy lại được Tranquil Censer! Cảm ơn bạn!\n\nTôi có thể dùng lư hương này để gột sạch vết nhơ của tà thuật gọi hồn khỏi Path of the Honored Dead. Nếu các Guardian phù hộ, điều đó sẽ giúp các Honored Dead trở về lăng mộ của mình trong yên bình.
+@@ 6999
+Bạn không thể vào phòng có bậc New Game Plus khác
+@@ 7000
+Giờ bạn có thể bước vào chế độ |cFFEAAA15New Game Plus|u!\n\nNếu chọn con đường này, bạn sẽ bắt đầu lại cuộc phiêu lưu với nhân vật hiện tại, và cấp của thế giới sẽ được nâng lên tương xứng. 
+@@ 7001
+Bạn phải nói chuyện với Grand Regent trước khi dùng cổng dịch chuyển.
+@@ 7002
+Bạn đã cứu mạng tôi! Tôi cứ tưởng lần này chắc chắn bị lũ Ratlin đó lấy mạng rồi!
+@@ 7003
+Bạn đã ở trong một phiên bản Nether nào đó của Empty Quarter sao? Thật đáng lo, vì trong lúc bạn đi vắng, có một luồng gió lạnh kỳ lạ thổi ra từ Empty Quarter.
+@@ 7004
+Bạn thật sự tuyệt vời. Bạn biết không? Cả đời tôi luôn sợ những người như thế ... vậy mà bạn cứ thản nhiên bước đến chỗ họ và lấy lại tiền cho tôi! Cảm ơn bạn lần nữa!
+@@ 7005
+Đòn đánh cơ bản của bạn.
+@@ 7006
+Trình duyệt sẽ mở ra để hoàn tất đăng nhập.
+@@ 7007
+Cuộc chiến của bạn đã kết thúc.\nKý ức về bạn rồi sẽ phai nhạt.\nLặng im, tất cả đã mất.
+@@ 7008
+Cuộc phiêu lưu tiếp theo của bạn sẽ bắt đầu ở cấp |cFFA1D0FC<STAT1>|u
+@@ 7009
+Pet cũng đã mang về một số vật phẩm đã chọn. Không đủ vàng để mua tất cả vật phẩm yêu cầu.
+@@ 7010
+Pet cũng đã mang về các vật phẩm bạn chọn.
+@@ 7011
+Pet đến gặp bạn ở thị trấn cùng các vật phẩm bạn yêu cầu.
+@@ 7012
+Pet đến gặp bạn ở thị trấn và mang cho bạn
+@@ 7013
+Pet đến gặp bạn ở thị trấn.
+@@ 7014
+Pet đến gặp bạn ở thị trấn. Không đủ vàng để mua các vật phẩm yêu cầu.
+@@ 7015
+Pet đến gặp bạn ở thị trấn. Tiền lãi đã được dùng để mua các vật phẩm bạn chọn.
+@@ 7016
+Pet đã trở về từ thị trấn và tiền lãi đã được dùng để mua các vật phẩm bạn chọn.
+@@ 7017
+Pet đã trở về từ thị trấn cùng các vật phẩm bạn yêu cầu.
+@@ 7018
+Pet đã trở về từ thị trấn và mang cho bạn
+@@ 7019
+Pet đã trở về từ thị trấn.
+@@ 7020
+Phóng to
+@@ 7021
+Thu nhỏ
+@@ 7022
+Sát thương [DMGTYPE] phải chịu tăng [VALUE]%
+@@ 7023
+[ITEM] of Acid Rain
+@@ 7024
+[KB:Automap]
+@@ 7025
+[KB:BESTMANA]
+@@ 7026
+[KB:BESTPOTION]
+@@ 7027
+[KB:CastSkill]
+@@ 7028
+[KB:F1]
+@@ 7029
+[KB:InventoryMenu]
+@@ 7030
+[KB:Journal]
+@@ 7031
+[KB:Move/Attack]
+@@ 7032
+[KB:OptionsMenu]
+@@ 7033
+[KB:PetMenu]
+@@ 7034
+[KB:QK0]
+@@ 7035
+[KB:QK1]
+@@ 7036
+[KB:QK2]
+@@ 7037
+[KB:QK3]
+@@ 7038
+[KB:QK4]
+@@ 7039
+[KB:QK5]
+@@ 7040
+[KB:QK6]
+@@ 7041
+[KB:QK7]
+@@ 7042
+[KB:QK8]
+@@ 7043
+[KB:QK9]
+@@ 7044
+[KB:QuestMenu]
+@@ 7045
+[KB:ShowItems]
+@@ 7046
+[KB:SkillMenu]
+@@ 7047
+[KB:StatMenu]
+@@ 7048
+[KB:WeaponSwap]
+@@ 7049
+[VALUE]% tỉ lệ phản lại đạn với [VALUE3AND4]% DPS vũ khí\n trong [DURATION]
+@@ 7050
+có một người bạn và một người chơi bị chặn trong phòng này
+@@ 7051
+có một người bạn và một người chơi đã chặn bạn trong phòng này
+@@ 7052
+có một người bạn trong phòng này
+@@ 7053
+có một người chơi đã chặn bạn trong phòng này
+@@ 7054
+có một người chơi bạn đã chặn trong phòng này
+@@ 7055
+backward
+@@ 7056
+bootsImageState
+@@ 7057
+cancel
+@@ 7058
+tỉ lệ kích hoạt

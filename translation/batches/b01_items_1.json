@@ -1,0 +1,4068 @@
+{
+ "batch": "b01_items_1",
+ "count": 677,
+ "items": [
+  {
+   "id": 1,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/2HAXE/GREATAXE_U01.DAT | UNIT | DESCRIPTION",
+   "en": "The best way to kill a troll is to start at the base, and go up."
+  },
+  {
+   "id": 2,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/2HAXE/GREATAXE_U01B.DAT | UNIT | DESCRIPTION",
+   "en": "Bringing trolls down, from the bottom up."
+  },
+  {
+   "id": 3,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/2HAXE/GREATAXE_U01C.DAT | UNIT | DESCRIPTION",
+   "en": "It just cuts trolls in half ... no mucking about."
+  },
+  {
+   "id": 4,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/2HAXE/GREATAXE_U02.DAT | UNIT | DESCRIPTION",
+   "en": "It lets nothing stand between you and your foes."
+  },
+  {
+   "id": 5,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/2HAXE/GREATAXE_U02B.DAT | UNIT | DESCRIPTION",
+   "en": "It gets in your head."
+  },
+  {
+   "id": 6,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/2HAXE/GREATAXE_U02C.DAT | UNIT | DESCRIPTION",
+   "en": "A nasty piece of business."
+  },
+  {
+   "id": 7,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/2HAXE/GREATAXE_U03.DAT | UNIT | DESCRIPTION",
+   "en": "Bad touch!"
+  },
+  {
+   "id": 8,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/2HAXE/GREATAXE_U03B.DAT | UNIT | DESCRIPTION",
+   "en": "A cold, sharp, and all-too-final kiss."
+  },
+  {
+   "id": 9,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/2HAXE/GREATAXE_U03C.DAT | UNIT | DESCRIPTION",
+   "en": "Be gentle."
+  },
+  {
+   "id": 10,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/2HAXE/GREATAXE_U04.DAT | UNIT | DESCRIPTION",
+   "en": "The Tu'tara believe this axe was sent by the gods as punishment."
+  },
+  {
+   "id": 11,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/2HAXE/GREATAXE_U04B.DAT | UNIT | DESCRIPTION",
+   "en": "Off with their heads!"
+  },
+  {
+   "id": 12,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/2HAXE/GREATAXE_U04C.DAT | UNIT | DESCRIPTION",
+   "en": "Throat, neck, and spine, to be precise."
+  },
+  {
+   "id": 13,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/2HAXE/GREATAXE_U05.DAT | UNIT | DESCRIPTION",
+   "en": "The axe wielded by Ogrimmax, King of Ogres."
+  },
+  {
+   "id": 14,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/2HAXE/GREATAXE_U05B.DAT | UNIT | DESCRIPTION",
+   "en": "The axe used to kill Ogrimmax, King of Ogres."
+  },
+  {
+   "id": 15,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/2HAXE/GREATAXE_U05C.DAT | UNIT | DESCRIPTION",
+   "en": "The axe wielded by Magrimax, the second King of Ogres."
+  },
+  {
+   "id": 16,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/2HAXE/GREATAXE_U06.DAT | UNIT | DESCRIPTION",
+   "en": "Made from the horn of the last of the great dragons ... and it remembers who killed it."
+  },
+  {
+   "id": 17,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/2HAXE/GREATAXE_U06B.DAT | UNIT | DESCRIPTION",
+   "en": "It strikes like the bite of a dragon."
+  },
+  {
+   "id": 18,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/2HAXE/GREATAXE_U06C.DAT | UNIT | DESCRIPTION",
+   "en": "The axe that slew the last great dragon of old."
+  },
+  {
+   "id": 19,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/2HAXE/GREATAXE_U07.DAT | UNIT | DESCRIPTION",
+   "en": "Science made manifest, to battle superstition made flesh."
+  },
+  {
+   "id": 20,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/2HAXE/GREATAXE_U07B.DAT | UNIT | DESCRIPTION",
+   "en": "The greatest engineering achievement of all time."
+  },
+  {
+   "id": 21,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/2HAXE/GREATAXE_U07C.DAT | UNIT | DESCRIPTION",
+   "en": "The axe of the future!"
+  },
+  {
+   "id": 22,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/2HAXE/LEGENDARY_GREATAXE01.DAT | UNIT | DESCRIPTION",
+   "en": "Legendary Greataxe Collection\\nNumber One of Three"
+  },
+  {
+   "id": 23,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/2HAXE/LEGENDARY_GREATAXE02.DAT | UNIT | DESCRIPTION",
+   "en": "Legendary Greataxe Collection\\nNumber Two of Three"
+  },
+  {
+   "id": 24,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/2HAXE/LEGENDARY_GREATAXE03.DAT | UNIT | DESCRIPTION",
+   "en": "Legendary Greataxe Collection\\nNumber Three of Three"
+  },
+  {
+   "id": 25,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/2HMACE/GREATHAMMER_U01.DAT | UNIT | DESCRIPTION",
+   "en": "A shield only delays the inevitable"
+  },
+  {
+   "id": 26,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/2HMACE/GREATHAMMER_U01B.DAT | UNIT | DESCRIPTION",
+   "en": "The dwarfs feared it enough to warn their descdendants about it."
+  },
+  {
+   "id": 27,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/2HMACE/GREATHAMMER_U01C.DAT | UNIT | DESCRIPTION",
+   "en": "Don't let that shield stop you."
+  },
+  {
+   "id": 28,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/2HMACE/GREATHAMMER_U01X.DAT | UNIT | DESCRIPTION",
+   "en": "Grind 'em down! Grind 'em all down!"
+  },
+  {
+   "id": 29,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/2HMACE/GREATHAMMER_U02.DAT | UNIT | DESCRIPTION",
+   "en": "You'll break a few hearts with this baby."
+  },
+  {
+   "id": 30,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/2HMACE/GREATHAMMER_U02B.DAT | UNIT | DESCRIPTION",
+   "en": "This should cheer you up."
+  },
+  {
+   "id": 31,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/2HMACE/GREATHAMMER_U02C.DAT | UNIT | DESCRIPTION",
+   "en": "Let the beatings commence."
+  },
+  {
+   "id": 32,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/2HMACE/GREATHAMMER_U03.DAT | UNIT | DESCRIPTION",
+   "en": "Simply smashing!"
+  },
+  {
+   "id": 33,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/2HMACE/GREATHAMMER_U03B.DAT | UNIT | DESCRIPTION",
+   "en": "The cure for rot and decay."
+  },
+  {
+   "id": 34,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/2HMACE/GREATHAMMER_U03C.DAT | UNIT | DESCRIPTION",
+   "en": "... because they're pests."
+  },
+  {
+   "id": 35,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/2HMACE/GREATHAMMER_U04.DAT | UNIT | DESCRIPTION",
+   "en": "Together Forever."
+  },
+  {
+   "id": 36,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/2HMACE/GREATHAMMER_U04B.DAT | UNIT | DESCRIPTION",
+   "en": "A relic from the Arachnos War. The spiders remember it well."
+  },
+  {
+   "id": 37,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/2HMACE/GREATHAMMER_U04C.DAT | UNIT | DESCRIPTION",
+   "en": "DENIED."
+  },
+  {
+   "id": 38,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/2HMACE/GREATHAMMER_U05.DAT | UNIT | DESCRIPTION",
+   "en": "In all fairness, that might be the name of a drink ..."
+  },
+  {
+   "id": 39,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/2HMACE/GREATHAMMER_U05B.DAT | UNIT | DESCRIPTION",
+   "en": "This should drive your point home."
+  },
+  {
+   "id": 40,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/2HMACE/GREATHAMMER_U05C.DAT | UNIT | DESCRIPTION",
+   "en": "This should release plenty of serum thiols."
+  },
+  {
+   "id": 41,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/2HMACE/GREATHAMMER_U05X.DAT | UNIT | DESCRIPTION",
+   "en": "Created in a lab, late one night ..."
+  },
+  {
+   "id": 42,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/2HMACE/GREATHAMMER_U06.DAT | UNIT | DESCRIPTION",
+   "en": "It packs quite a punch."
+  },
+  {
+   "id": 43,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/2HMACE/GREATHAMMER_U06B.DAT | UNIT | DESCRIPTION",
+   "en": "It has the power to shut everything down."
+  },
+  {
+   "id": 44,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/2HMACE/GREATHAMMER_U06C.DAT | UNIT | DESCRIPTION",
+   "en": "Crack!"
+  },
+  {
+   "id": 45,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/2HMACE/GREATHAMMER_U07.DAT | UNIT | DESCRIPTION",
+   "en": "Knock, knock."
+  },
+  {
+   "id": 46,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/2HMACE/GREATHAMMER_U07B.DAT | UNIT | DESCRIPTION",
+   "en": "This is why we can't have nice things."
+  },
+  {
+   "id": 47,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/2HMACE/GREATHAMMER_U07C.DAT | UNIT | DESCRIPTION",
+   "en": "It's never met a wall it couldn't maul."
+  },
+  {
+   "id": 48,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/2HMACE/GREATHAMMER_U07D.DAT | UNIT | DESCRIPTION",
+   "en": "Words fail me."
+  },
+  {
+   "id": 49,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/2HMACE/LEGENDARY_GREATHAMMER01.DAT | UNIT | DESCRIPTION",
+   "en": "Legendary Greathammer Collection\\nNumber One of Three"
+  },
+  {
+   "id": 50,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/2HMACE/LEGENDARY_GREATHAMMER02.DAT | UNIT | DESCRIPTION",
+   "en": "Legendary Greathammer Collection\\nNumber Two of Three"
+  },
+  {
+   "id": 51,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/2HMACE/LEGENDARY_GREATHAMMER03.DAT | UNIT | DESCRIPTION",
+   "en": "Legendary Greathammer Collection\\nNumber Three of Three"
+  },
+  {
+   "id": 52,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/2HMACE/Z_GREATHAMMER_U05_SET.DAT | UNIT | DESCRIPTION",
+   "en": "It is more weapon than tool, now."
+  },
+  {
+   "id": 53,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/2HMACE/Z_GREATHAMMER_U06_SET.DAT | UNIT | DESCRIPTION",
+   "en": "An effective tool, once. Now, a more effective weapon."
+  },
+  {
+   "id": 54,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/2HSWORD/GREATSWORD_U01.DAT | UNIT | DESCRIPTION",
+   "en": "Need a hand with that?"
+  },
+  {
+   "id": 55,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/2HSWORD/GREATSWORD_U01B.DAT | UNIT | DESCRIPTION",
+   "en": "A weapon right out of Valgang legend."
+  },
+  {
+   "id": 56,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/2HSWORD/GREATSWORD_U01C.DAT | UNIT | DESCRIPTION",
+   "en": "Are you sure it's absolutely safe?"
+  },
+  {
+   "id": 57,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/2HSWORD/GREATSWORD_U02.DAT | UNIT | DESCRIPTION",
+   "en": "It levels the playing field."
+  },
+  {
+   "id": 58,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/2HSWORD/GREATSWORD_U02B.DAT | UNIT | DESCRIPTION",
+   "en": "Sometimes, you just have to go around putting goblins on spikes."
+  },
+  {
+   "id": 59,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/2HSWORD/GREATSWORD_U02C.DAT | UNIT | DESCRIPTION",
+   "en": "Your services are no longer required."
+  },
+  {
+   "id": 60,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/2HSWORD/GREATSWORD_U02_SET_THEGRAY.DAT | UNIT | DESCRIPTION",
+   "en": "Forged in fires of smoldering rage, under a rain-dark sky."
+  },
+  {
+   "id": 61,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/2HSWORD/GREATSWORD_U03.DAT | UNIT | DESCRIPTION",
+   "en": "Think of it as an extension of your urge to murder someone."
+  },
+  {
+   "id": 62,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/2HSWORD/GREATSWORD_U03B.DAT | UNIT | DESCRIPTION",
+   "en": "The dwarves made it to aid in \"decommissioning\" broken automatons."
+  },
+  {
+   "id": 63,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/2HSWORD/GREATSWORD_U03C.DAT | UNIT | DESCRIPTION",
+   "en": "It comes from an age undreamed of ..."
+  },
+  {
+   "id": 64,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/2HSWORD/GREATSWORD_U04.DAT | UNIT | DESCRIPTION",
+   "en": "Even the Netherim are horrified by this blade."
+  },
+  {
+   "id": 65,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/2HSWORD/GREATSWORD_U04B.DAT | UNIT | DESCRIPTION",
+   "en": "A blade of great historical significance."
+  },
+  {
+   "id": 66,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/2HSWORD/GREATSWORD_U04C.DAT | UNIT | DESCRIPTION",
+   "en": "Feel my blade, dragon, and despair!"
+  },
+  {
+   "id": 67,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/2HSWORD/GREATSWORD_U05.DAT | UNIT | DESCRIPTION",
+   "en": "Always starts on the first try!"
+  },
+  {
+   "id": 68,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/2HSWORD/GREATSWORD_U05B.DAT | UNIT | DESCRIPTION",
+   "en": "What did the dwarves fight that they needed this to kill it?"
+  },
+  {
+   "id": 69,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/2HSWORD/GREATSWORD_U05C.DAT | UNIT | DESCRIPTION",
+   "en": "Always wear safety goggles. Consult your owner's manual."
+  },
+  {
+   "id": 70,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/2HSWORD/GREATSWORD_U06.DAT | UNIT | DESCRIPTION",
+   "en": "To an ogre, this greatsword is practically a toy."
+  },
+  {
+   "id": 71,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/2HSWORD/GREATSWORD_U06B.DAT | UNIT | DESCRIPTION",
+   "en": "The size of this blade is a joke among the Valgang tribes."
+  },
+  {
+   "id": 72,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/2HSWORD/GREATSWORD_U06C.DAT | UNIT | DESCRIPTION",
+   "en": "Carved ages ago from the fang of a colossal, red dragon."
+  },
+  {
+   "id": 73,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/2HSWORD/GREATSWORD_U07.DAT | UNIT | DESCRIPTION",
+   "en": "The only thing troglodytes really fear is the cold, uncaring stars."
+  },
+  {
+   "id": 74,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/2HSWORD/GREATSWORD_U07B.DAT | UNIT | DESCRIPTION",
+   "en": "What vistas greet those who gaze upon it for too long?"
+  },
+  {
+   "id": 75,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/2HSWORD/GREATSWORD_U07C.DAT | UNIT | DESCRIPTION",
+   "en": "Dwarven-forged from a piece of metal that fell from the sky."
+  },
+  {
+   "id": 76,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/2HSWORD/LEGENDARY_GREATSWORD01.DAT | UNIT | DESCRIPTION",
+   "en": "Legendary Greatsword Collection\\nNumber One of Three"
+  },
+  {
+   "id": 77,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/2HSWORD/LEGENDARY_GREATSWORD02.DAT | UNIT | DESCRIPTION",
+   "en": "Legendary Greatsword Collection\\nNumber Two of Three"
+  },
+  {
+   "id": 78,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/2HSWORD/LEGENDARY_GREATSWORD03.DAT | UNIT | DESCRIPTION",
+   "en": "Legendary Greatsword Collection\\nNumber Three of Three"
+  },
+  {
+   "id": 79,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/AXES/AXE_U01.DAT | UNIT | DESCRIPTION",
+   "en": "The only weapon that can make a Sturmbeorn cry."
+  },
+  {
+   "id": 80,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/AXES/AXE_U01B.DAT | UNIT | DESCRIPTION",
+   "en": "The Arbiter strikes only one target."
+  },
+  {
+   "id": 81,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/AXES/AXE_U01C.DAT | UNIT | DESCRIPTION",
+   "en": "Any last words?"
+  },
+  {
+   "id": 82,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/AXES/AXE_U02.DAT | UNIT | DESCRIPTION",
+   "en": "Bringing the heat!"
+  },
+  {
+   "id": 83,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/AXES/AXE_U02B.DAT | UNIT | DESCRIPTION",
+   "en": "It has acquired a taste for blood."
+  },
+  {
+   "id": 84,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/AXES/AXE_U02C.DAT | UNIT | DESCRIPTION",
+   "en": "All must fall before it!"
+  },
+  {
+   "id": 85,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/AXES/AXE_U03.DAT | UNIT | DESCRIPTION",
+   "en": "\"Even the walking dead know terror of the Wyrd.\""
+  },
+  {
+   "id": 86,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/AXES/AXE_U03B.DAT | UNIT | DESCRIPTION",
+   "en": "You really have no choice."
+  },
+  {
+   "id": 87,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/AXES/AXE_U03C.DAT | UNIT | DESCRIPTION",
+   "en": "\"Whatsoever wears scales trembles at its approach.\""
+  },
+  {
+   "id": 88,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/AXES/AXE_U04.DAT | UNIT | DESCRIPTION",
+   "en": "\"He who pulls the axe from my skull can keep it.\""
+  },
+  {
+   "id": 89,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/AXES/AXE_U04B.DAT | UNIT | DESCRIPTION",
+   "en": "The weapon of choice for axe murderers."
+  },
+  {
+   "id": 90,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/AXES/AXE_U04C.DAT | UNIT | DESCRIPTION",
+   "en": "\"When trees whisper in fear, the Hackmaster is near.\""
+  },
+  {
+   "id": 91,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/AXES/AXE_U05.DAT | UNIT | DESCRIPTION",
+   "en": "It cuts down everyone, eventually."
+  },
+  {
+   "id": 92,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/AXES/AXE_U05B.DAT | UNIT | DESCRIPTION",
+   "en": "Because true villains do not deserve a quick death."
+  },
+  {
+   "id": 93,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/AXES/AXE_U05C.DAT | UNIT | DESCRIPTION",
+   "en": "If you feel it on your neck, it's too late to avoid it."
+  },
+  {
+   "id": 94,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/AXES/AXE_U05X.DAT | UNIT | DESCRIPTION",
+   "en": "Born to fly!"
+  },
+  {
+   "id": 95,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/AXES/AXE_U06.DAT | UNIT | DESCRIPTION",
+   "en": "Life ends where this axe begins."
+  },
+  {
+   "id": 96,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/AXES/AXE_U06B.DAT | UNIT | DESCRIPTION",
+   "en": "Please accept our condolences ..."
+  },
+  {
+   "id": 97,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/AXES/AXE_U06C.DAT | UNIT | DESCRIPTION",
+   "en": "The crime is unlife.\\nThe sentence is death."
+  },
+  {
+   "id": 98,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/AXES/AXE_U07.DAT | UNIT | DESCRIPTION",
+   "en": "Chop! Chop! Make the screaming stop!"
+  },
+  {
+   "id": 99,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/AXES/AXE_U07B.DAT | UNIT | DESCRIPTION",
+   "en": "Hack! Hack! Give 'em all a whack!"
+  },
+  {
+   "id": 100,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/AXES/AXE_U07C.DAT | UNIT | DESCRIPTION",
+   "en": "It is curious that every automaton recognizes this blade."
+  },
+  {
+   "id": 101,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/AXES/LEGENDARY_AXE01.DAT | UNIT | DESCRIPTION",
+   "en": "Legendary Axe Collection\\nNumber One of Four"
+  },
+  {
+   "id": 102,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/AXES/LEGENDARY_AXE02.DAT | UNIT | DESCRIPTION",
+   "en": "Legendary Axe Collection\\nNumber Two of Four"
+  },
+  {
+   "id": 103,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/AXES/LEGENDARY_AXE03.DAT | UNIT | DESCRIPTION",
+   "en": "Legendary Axe Collection\\nNumber Three of Four"
+  },
+  {
+   "id": 104,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/AXES/LEGENDARY_AXE04.DAT | UNIT | DESCRIPTION",
+   "en": "Legendary Axe Collection\\nNumber Four of Four"
+  },
+  {
+   "id": 105,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/AXES/WITCH_AXE.DAT | UNIT | DESCRIPTION",
+   "en": "It appears to have been beaten against a rock."
+  },
+  {
+   "id": 106,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_01_BOOTS.DAT | UNIT | DESCRIPTION",
+   "en": "For the well-heeled ticking time bomb of unbridled fury."
+  },
+  {
+   "id": 107,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_01_BOOTS_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "Angry beyond words."
+  },
+  {
+   "id": 108,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_01_BOOTS_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "Boot to the head!"
+  },
+  {
+   "id": 109,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_01_CHEST.DAT | UNIT | DESCRIPTION",
+   "en": "Fury looks good on you."
+  },
+  {
+   "id": 110,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_01_CHEST_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "Beware of spontaneous combustion."
+  },
+  {
+   "id": 111,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_01_CHEST_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "What the well-dressed psychopath will be wearing."
+  },
+  {
+   "id": 112,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_01_GLOVES.DAT | UNIT | DESCRIPTION",
+   "en": "A gift, from the Son of the Dragon."
+  },
+  {
+   "id": 113,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_01_GLOVES_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "What we got here is a failure to communicate."
+  },
+  {
+   "id": 114,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_01_GLOVES_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "Such a cold finger ... it's the kiss of death."
+  },
+  {
+   "id": 115,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_01_PANTS.DAT | UNIT | DESCRIPTION",
+   "en": "The new standard of ragewear."
+  },
+  {
+   "id": 116,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_01_PANTS_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "Widely credited as the origin of the term \"cranky-pants.\""
+  },
+  {
+   "id": 117,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_01_PANTS_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "The chafing alone will drive you into a murderous rage."
+  },
+  {
+   "id": 118,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_01_SHOULDERS.DAT | UNIT | DESCRIPTION",
+   "en": "You're holding a lot of tension there."
+  },
+  {
+   "id": 119,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_01_SHOULDERS_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "It weighs heavily upon you."
+  },
+  {
+   "id": 120,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_01_SHOULDERS_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "Fury becomes you."
+  },
+  {
+   "id": 121,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_02_AMULET.DAT | UNIT | DESCRIPTION",
+   "en": "Crafted from the frozen core of the Ice Golem Queen."
+  },
+  {
+   "id": 122,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_02_AMULET_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "Crafted from the light of a dying star."
+  },
+  {
+   "id": 123,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_02_AMULET_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "It is all that is left of the Witch of Saymar."
+  },
+  {
+   "id": 124,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_02_BELT.DAT | UNIT | DESCRIPTION",
+   "en": "The Runebelt has been worn by countless heroes."
+  },
+  {
+   "id": 125,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_02_BELT_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "The Highlands Carls were renowned giant-slayers."
+  },
+  {
+   "id": 126,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_02_BELT_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "The Jarlsbelt is the symbol of the rulers of the Highlands."
+  },
+  {
+   "id": 127,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_02_BOOTS.DAT | UNIT | DESCRIPTION",
+   "en": "Built to last, even in the coldest winters."
+  },
+  {
+   "id": 128,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_02_BOOTS_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "The last boots worn by the ancient hero Otzi."
+  },
+  {
+   "id": 129,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_02_BOOTS_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "Kill only monsters ... leave only footprints."
+  },
+  {
+   "id": 130,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_02_BOOTS_ALT_SET.DAT | UNIT | DESCRIPTION",
+   "en": "The boots of the Valgang Kings."
+  },
+  {
+   "id": 131,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_02_CHEST.DAT | UNIT | DESCRIPTION",
+   "en": "Legends say this armor was found on a windswept glacier."
+  },
+  {
+   "id": 132,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_02_CHEST_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "The armor of Sygrud, the Knight of the White Wastes."
+  },
+  {
+   "id": 133,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_02_CHEST_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "Worn by the nameless heroine who slew the Witch of Saymar."
+  },
+  {
+   "id": 134,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_02_CHEST_ALT_SET.DAT | UNIT | DESCRIPTION",
+   "en": "The armor of the Valgang Kings."
+  },
+  {
+   "id": 135,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_02_GLOVES.DAT | UNIT | DESCRIPTION",
+   "en": "Cold hands, warm blood."
+  },
+  {
+   "id": 136,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_02_GLOVES_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "Feel the icy grip of the foul northern wind!"
+  },
+  {
+   "id": 137,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_02_GLOVES_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "A perfect fit for your hand ... and your enemies' throats!"
+  },
+  {
+   "id": 138,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_02_GLOVES_ALT_SET.DAT | UNIT | DESCRIPTION",
+   "en": "The gloves of the Valgang Kings."
+  },
+  {
+   "id": 139,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_02_HELMET.DAT | UNIT | DESCRIPTION",
+   "en": "Feel the wind in your hair ..."
+  },
+  {
+   "id": 140,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_02_HELMET_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "If you keep making that face, it'll freeze that way."
+  },
+  {
+   "id": 141,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_02_HELMET_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "A helmet for the warrior with icewater in his veins."
+  },
+  {
+   "id": 142,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_02_PANTS.DAT | UNIT | DESCRIPTION",
+   "en": "From the furthest reaches of the deep north an ill wind blows."
+  },
+  {
+   "id": 143,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_02_PANTS_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "From a more turbulent time ..."
+  },
+  {
+   "id": 144,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_02_PANTS_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "They feel cooler than they really are."
+  },
+  {
+   "id": 145,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_02_PANTS_ALT_SET.DAT | UNIT | DESCRIPTION",
+   "en": "The trousers of the Valgang Kings."
+  },
+  {
+   "id": 146,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_02_RING.DAT | UNIT | DESCRIPTION",
+   "en": "Ringed in riddles, bound in boons."
+  },
+  {
+   "id": 147,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_02_RING_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "Carved with runes, and bearing the sign of long-dead royalty."
+  },
+  {
+   "id": 148,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_02_RING_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "The rune-carved symbol of authority of the Valgang Jarls."
+  },
+  {
+   "id": 149,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_02_SHOULDERS.DAT | UNIT | DESCRIPTION",
+   "en": "Let your foes know they're not welcome."
+  },
+  {
+   "id": 150,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_02_SHOULDERS_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "\"Beneath the icy mantle lies death.\" -- Valgang Proverb"
+  },
+  {
+   "id": 151,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_02_SHOULDERS_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "The ancestral cloak of the Winter-Walkers."
+  },
+  {
+   "id": 152,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_03_AMULET.DAT | UNIT | DESCRIPTION",
+   "en": "This is the heart of fury. This is the heart of the storm itself."
+  },
+  {
+   "id": 153,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_03_AMULET_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "Unearthed by the wind, polished by the rain."
+  },
+  {
+   "id": 154,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_03_AMULET_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "The distilled essence of the very heart of a thunderstorm."
+  },
+  {
+   "id": 155,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_03_BELT.DAT | UNIT | DESCRIPTION",
+   "en": "Unleash the raw fury!"
+  },
+  {
+   "id": 156,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_03_BELT_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "Unleash the fury of the storm raging inside you!"
+  },
+  {
+   "id": 157,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_03_BELT_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "The pinching, itching, and constriction drive you mad."
+  },
+  {
+   "id": 158,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_03_BELT_ALT_SET.DAT | UNIT | DESCRIPTION",
+   "en": "Function over form, no matter how much it hurts."
+  },
+  {
+   "id": 159,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_03_BOOTS.DAT | UNIT | DESCRIPTION",
+   "en": "What is second best in life?"
+  },
+  {
+   "id": 160,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_03_BOOTS_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "Also known as \"Boots of Sliding and Skiing.\""
+  },
+  {
+   "id": 161,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_03_BOOTS_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "From the snow-capped peaks of the Haldar Mountains."
+  },
+  {
+   "id": 162,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_03_CHEST.DAT | UNIT | DESCRIPTION",
+   "en": "What is best in life?"
+  },
+  {
+   "id": 163,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_03_CHEST_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "The armor of the barbarian kings."
+  },
+  {
+   "id": 164,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_03_CHEST_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "The axe hasn't been forged that can crack it."
+  },
+  {
+   "id": 165,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_03_CHEST_ALT_SET.DAT | UNIT | DESCRIPTION",
+   "en": "Does a heart even beat, beneath that armored breast?"
+  },
+  {
+   "id": 166,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_03_GLOVES.DAT | UNIT | DESCRIPTION",
+   "en": "You want a fresh one?"
+  },
+  {
+   "id": 167,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_03_GLOVES_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "Two fists are better than one."
+  },
+  {
+   "id": 168,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_03_GLOVES_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "And if they get back up, beat 'em down again."
+  },
+  {
+   "id": 169,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_03_HELMET.DAT | UNIT | DESCRIPTION",
+   "en": "What is third best in life?"
+  },
+  {
+   "id": 170,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_03_HELMET_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "Badgermask dost giveth nary a shite."
+  },
+  {
+   "id": 171,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_03_HELMET_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "This helm echoes with the wails  of the dying."
+  },
+  {
+   "id": 172,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_03_HELMET_ALT_SET.DAT | UNIT | DESCRIPTION",
+   "en": "This is the face of your mercy: cold, blank, and unfeeling."
+  },
+  {
+   "id": 173,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_03_PANTS.DAT | UNIT | DESCRIPTION",
+   "en": "These trousers just scream \"cool.\""
+  },
+  {
+   "id": 174,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_03_PANTS_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "The sole protection worn by the barbarian hero Helmutt."
+  },
+  {
+   "id": 175,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_03_PANTS_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "These trousers symbolize the unity of the Clan Mulkar."
+  },
+  {
+   "id": 176,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_03_PANTS_ALT_SET.DAT | UNIT | DESCRIPTION",
+   "en": "\"Cries for mercy fill the air. \\nWe set our jaws. We do our job.\" - battlefield prayer"
+  },
+  {
+   "id": 177,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_03_RING.DAT | UNIT | DESCRIPTION",
+   "en": "Once you slip it on, you can't hold it in."
+  },
+  {
+   "id": 178,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_03_RING_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "No mere ring can contain so much wrath!"
+  },
+  {
+   "id": 179,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_03_RING_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "Forged of thunder, charged with lightning."
+  },
+  {
+   "id": 180,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_03_SHOULDERS.DAT | UNIT | DESCRIPTION",
+   "en": "Fashioned from the pelt of the legendary Snow-Lion."
+  },
+  {
+   "id": 181,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_03_SHOULDERS_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "The ancient hero Fhalfrid tore this cloak from the Ice Boar."
+  },
+  {
+   "id": 182,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_03_SHOULDERS_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "Fashioned from the hide of the Winterfrost Bear of Hulden."
+  },
+  {
+   "id": 183,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_03_SHOULDERS_ALT_SET.DAT | UNIT | DESCRIPTION",
+   "en": "No one cries on these shoulders."
+  },
+  {
+   "id": 184,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_04_AMULET.DAT | UNIT | DESCRIPTION",
+   "en": "Are you looking at me?"
+  },
+  {
+   "id": 185,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_04_AMULET_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "Don't give me that look."
+  },
+  {
+   "id": 186,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_04_AMULET_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "Reputed to be the living eye of the Nether-Hag. It never blinks."
+  },
+  {
+   "id": 187,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_04_BELT.DAT | UNIT | DESCRIPTION",
+   "en": "An ugly but sturdy belt, flayed from the hide of the Fell Bull."
+  },
+  {
+   "id": 188,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_04_BELT_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "The edges of this belt look like it was chewed into shape."
+  },
+  {
+   "id": 189,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_04_BELT_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "The Mucker was a giant who terrorized the eastern Empire."
+  },
+  {
+   "id": 190,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_04_BOOTS.DAT | UNIT | DESCRIPTION",
+   "en": "Brutally ugly boots."
+  },
+  {
+   "id": 191,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_04_BOOTS_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "Only a true savage can walk a mile in the boots of Thargo!"
+  },
+  {
+   "id": 192,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_04_BOOTS_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "It's a lucky thing you had these boots."
+  },
+  {
+   "id": 193,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_04_BOOTS_ALT_SET.DAT | UNIT | DESCRIPTION",
+   "en": "Killian would be furious if he knew you were wearing these."
+  },
+  {
+   "id": 194,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_04_CHEST.DAT | UNIT | DESCRIPTION",
+   "en": "Only the strongest warrior can bear a burden like Thargo's!"
+  },
+  {
+   "id": 195,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_04_CHEST_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "The armor that drags foes down and grinds them up."
+  },
+  {
+   "id": 196,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_04_CHEST_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "The mailcoat worn by General Meddek at the Battle of Skyre."
+  },
+  {
+   "id": 197,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_04_CHEST_ALT_SET.DAT | UNIT | DESCRIPTION",
+   "en": "The armor of the legendary Wildlord of the Jade Jungle."
+  },
+  {
+   "id": 198,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_04_GLOVES.DAT | UNIT | DESCRIPTION",
+   "en": "Once worn by Kylo of the Three Heavens Boxing School."
+  },
+  {
+   "id": 199,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_04_GLOVES_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "Once worn by Irina of the Three Heavens Boxing School."
+  },
+  {
+   "id": 200,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_04_GLOVES_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "Once worn by Lus of the Three Heavens Boxing School."
+  },
+  {
+   "id": 201,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_04_GLOVES_ALT_SET.DAT | UNIT | DESCRIPTION",
+   "en": "The gauntlets of the legendary Wildlord of the Jade Jungle."
+  },
+  {
+   "id": 202,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_04_HELMET.DAT | UNIT | DESCRIPTION",
+   "en": "Worn by the Emperor at the Surrender of the Middlemoors."
+  },
+  {
+   "id": 203,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_04_HELMET_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "Only a true brute can know what is on Thargo's mind!"
+  },
+  {
+   "id": 204,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_04_HELMET_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "Fashioned in the image of the Dire Wolf of the Middlemoors."
+  },
+  {
+   "id": 205,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_04_HELMET_ALT_SET.DAT | UNIT | DESCRIPTION",
+   "en": "The helm of the legendary Wildlord of the Jade Jungle."
+  },
+  {
+   "id": 206,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_04_PANTS.DAT | UNIT | DESCRIPTION",
+   "en": "Sing the praises of pants!"
+  },
+  {
+   "id": 207,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_04_PANTS_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "An exaggeratedly large pair of pantaloons."
+  },
+  {
+   "id": 208,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_04_PANTS_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "Worn by Lord Noah during the War Against the Cuchara."
+  },
+  {
+   "id": 209,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_04_RING.DAT | UNIT | DESCRIPTION",
+   "en": "The Ring That Is Strictly Better Than All Other Rings."
+  },
+  {
+   "id": 210,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_04_RING_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "Behold, the Ring That Was Broken, made whole again."
+  },
+  {
+   "id": 211,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_04_RING_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "It contains the tiniest splinter of the essence of the universe."
+  },
+  {
+   "id": 212,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_04_RING_ALT_SET.DAT | UNIT | DESCRIPTION",
+   "en": "The ring of the legendary Wildlord of the Jade Jungle."
+  },
+  {
+   "id": 213,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_04_RING_SET_XTRO.DAT | UNIT | DESCRIPTION",
+   "en": "Drain you of your sanity ... face the thing that should not be."
+  },
+  {
+   "id": 214,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_04_SHOULDERS.DAT | UNIT | DESCRIPTION",
+   "en": "First worn by the despicable Chief Nosnra."
+  },
+  {
+   "id": 215,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_04_SHOULDERS_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "Forged by Grugnur Frostheart, ruler of the northern giants."
+  },
+  {
+   "id": 216,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_04_SHOULDERS_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "Wrested from the carcass of Dread King Snurre."
+  },
+  {
+   "id": 217,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_05_AMULET.DAT | UNIT | DESCRIPTION",
+   "en": "He has more posts than you. This is a statement of fact."
+  },
+  {
+   "id": 218,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_05_AMULET_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "There is an art to its magic."
+  },
+  {
+   "id": 219,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_05_AMULET_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "It sees into you, and knows the tempest in your heart."
+  },
+  {
+   "id": 220,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_05_AMULET_ALT_SET.DAT | UNIT | DESCRIPTION",
+   "en": "What you really wear."
+  },
+  {
+   "id": 221,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_05_BELT.DAT | UNIT | DESCRIPTION",
+   "en": "Make 'em all bleed!"
+  },
+  {
+   "id": 222,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_05_BELT_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "Your enemies never seem quite dead enough."
+  },
+  {
+   "id": 223,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_05_BELT_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "It fills you to your core with murderous intent."
+  },
+  {
+   "id": 224,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_05_BOOTS.DAT | UNIT | DESCRIPTION",
+   "en": "The wearer of these boots is haunted by dreams of violence."
+  },
+  {
+   "id": 225,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_05_BOOTS_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "These boots reputedly drive the wearer to acts of savagery."
+  },
+  {
+   "id": 226,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_05_BOOTS_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "A pair of iron boots for grinding opponents into dust."
+  },
+  {
+   "id": 227,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_05_CHEST.DAT | UNIT | DESCRIPTION",
+   "en": "Forever stained red with the blood of a thousand enemies."
+  },
+  {
+   "id": 228,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_05_CHEST_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "Because I can."
+  },
+  {
+   "id": 229,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_05_CHEST_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "Each bloody red link represents a life taken."
+  },
+  {
+   "id": 230,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_05_CHEST_ALT_SET.DAT | UNIT | DESCRIPTION",
+   "en": "What you want to wear."
+  },
+  {
+   "id": 231,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_05_CHEST_SET_BLOODBATH.DAT | UNIT | DESCRIPTION",
+   "en": "It may be a bloodbath, but you don't have to make a mess."
+  },
+  {
+   "id": 232,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_05_GLOVES.DAT | UNIT | DESCRIPTION",
+   "en": "If you're angry, count to ten … then kill, kill, kill again!"
+  },
+  {
+   "id": 233,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_05_GLOVES_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "Handle with flair."
+  },
+  {
+   "id": 234,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_05_GLOVES_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "Mother Bloodhand didn't raise any fools."
+  },
+  {
+   "id": 235,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_05_GLOVES_ALT_SET.DAT | UNIT | DESCRIPTION",
+   "en": "What your accomplices want you to wear."
+  },
+  {
+   "id": 236,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_05_HELMET.DAT | UNIT | DESCRIPTION",
+   "en": "Horns are not standard equipment."
+  },
+  {
+   "id": 237,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_05_HELMET_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "Tempered in the blood of conquered foes."
+  },
+  {
+   "id": 238,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_05_HELMET_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "In this helmet, no one can hear you scream."
+  },
+  {
+   "id": 239,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_05_HELMET_ALT_SET.DAT | UNIT | DESCRIPTION",
+   "en": "What your mother wants you to wear."
+  },
+  {
+   "id": 240,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_05_PANTS.DAT | UNIT | DESCRIPTION",
+   "en": "Permanently stained red from the hip down."
+  },
+  {
+   "id": 241,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_05_PANTS_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "Soaked in the blood of butchered foes."
+  },
+  {
+   "id": 242,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_05_PANTS_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "Knee-deep in murder."
+  },
+  {
+   "id": 243,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_05_PANTS_ALT_SET.DAT | UNIT | DESCRIPTION",
+   "en": "What society wants you to wear."
+  },
+  {
+   "id": 244,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_05_RING.DAT | UNIT | DESCRIPTION",
+   "en": "A millennium ago, the Marauder nearly razed Redhaven."
+  },
+  {
+   "id": 245,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_05_RING_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "\"He that offers betrayal wears a ring of fangs.\" - proverb"
+  },
+  {
+   "id": 246,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_05_RING_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "What do you give the person who never has enough?"
+  },
+  {
+   "id": 247,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_05_SET_BLOODBATH.DAT | UNIT | DESCRIPTION",
+   "en": "Think of them as hip-waders for a massacre."
+  },
+  {
+   "id": 248,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_05_SHOULDERS.DAT | UNIT | DESCRIPTION",
+   "en": "They saved the Marauder's life at the Massacre of Silverisle."
+  },
+  {
+   "id": 249,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_05_SHOULDERS_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "A relic of the Massacre of Silverisle."
+  },
+  {
+   "id": 250,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_05_SHOULDERS_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "A warrior king, transformed by sorcery into a frenzied ape-man."
+  },
+  {
+   "id": 251,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_05_SHOULDERS_ALT_SET.DAT | UNIT | DESCRIPTION",
+   "en": "What you see yourself wearing."
+  },
+  {
+   "id": 252,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_06_AMULET.DAT | UNIT | DESCRIPTION",
+   "en": "Oh, how it burns …"
+  },
+  {
+   "id": 253,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_06_AMULET_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "It burns within you ..."
+  },
+  {
+   "id": 254,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_06_AMULET_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "It feeds on destruction, and grows stronger …"
+  },
+  {
+   "id": 255,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_06_AMULET_ALT_SET.DAT | UNIT | DESCRIPTION",
+   "en": "The shape of things to come."
+  },
+  {
+   "id": 256,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_06_BELT.DAT | UNIT | DESCRIPTION",
+   "en": "It inspires one to acts of drive and courage."
+  },
+  {
+   "id": 257,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_06_BELT_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "One spark is all it takes to ignite the fire in your belly."
+  },
+  {
+   "id": 258,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_06_BELT_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "Handed down from one of the founders of the Empire."
+  },
+  {
+   "id": 259,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_06_BELT_ALT_SET.DAT | UNIT | DESCRIPTION",
+   "en": "The Marauder was preceded in conquest by the Harbinger."
+  },
+  {
+   "id": 260,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_06_BOOTS.DAT | UNIT | DESCRIPTION",
+   "en": "The boots of the pyromancer who founded Redhaven."
+  },
+  {
+   "id": 261,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_06_BOOTS_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "A relic from a half-forgotten city-state."
+  },
+  {
+   "id": 262,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_06_BOOTS_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "All that remains of a long-dead tyrant."
+  },
+  {
+   "id": 263,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_06_BOOTS_ALT_SET.DAT | UNIT | DESCRIPTION",
+   "en": "The shoes of the fiend who marched on Redhaven."
+  },
+  {
+   "id": 264,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_06_CHEST.DAT | UNIT | DESCRIPTION",
+   "en": "The personal armor of the Overlord himself."
+  },
+  {
+   "id": 265,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_06_CHEST_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "Easily able to turn aside an arrow or a blow from a scythe."
+  },
+  {
+   "id": 266,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_06_CHEST_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "The Fire-Eaters of the Ashenfeld created this armor."
+  },
+  {
+   "id": 267,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_06_CHEST_ALT_SET.DAT | UNIT | DESCRIPTION",
+   "en": "The ancient Harbinger always wore this mailshirt into battle."
+  },
+  {
+   "id": 268,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_06_GLOVES.DAT | UNIT | DESCRIPTION",
+   "en": "The Fire-Eaters of the Ashenfeld wore these in their rituals."
+  },
+  {
+   "id": 269,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_06_GLOVES_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "One touch and mortal flesh sizzles and smokes."
+  },
+  {
+   "id": 270,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_06_GLOVES_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "The Cindermen were the kings of the Ashenfeld."
+  },
+  {
+   "id": 271,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_06_GLOVES_ALT_SET.DAT | UNIT | DESCRIPTION",
+   "en": "The ancient Harbinger's very own iron fists."
+  },
+  {
+   "id": 272,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_06_HELMET.DAT | UNIT | DESCRIPTION",
+   "en": "A mighty helmet, made of waste from the Imperial Foundries."
+  },
+  {
+   "id": 273,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_06_HELMET_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "The Cindermen ruled Ashenfeld after the Year of the Black Sky."
+  },
+  {
+   "id": 274,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_06_HELMET_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "The royal symbol of the Cindermen of the Ashenfeld."
+  },
+  {
+   "id": 275,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_06_HELMET_ALT_SET.DAT | UNIT | DESCRIPTION",
+   "en": "Behold the helm that struck terror into all of Redhaven!"
+  },
+  {
+   "id": 276,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_06_PANTS.DAT | UNIT | DESCRIPTION",
+   "en": "Made from industrial refuse from the Imperial Foundries."
+  },
+  {
+   "id": 277,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_06_PANTS_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "Solidified pyroclastic flow, bound together by magic."
+  },
+  {
+   "id": 278,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_06_PANTS_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "The Pyrophage was the prophet of the Ashenfeld's Fire-Eaters."
+  },
+  {
+   "id": 279,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_06_PANTS_ALT_SET.DAT | UNIT | DESCRIPTION",
+   "en": "The Harbinger was wearing these the day he was defeated."
+  },
+  {
+   "id": 280,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_06_RING.DAT | UNIT | DESCRIPTION",
+   "en": "A perfect ring that seems to glow with cool, blue light."
+  },
+  {
+   "id": 281,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_06_RING_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "A perfect ring that glows with a holy aura."
+  },
+  {
+   "id": 282,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_06_RING_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "A perfect ring which glows with a burning, golden light."
+  },
+  {
+   "id": 283,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_06_RING_ALT_SET.DAT | UNIT | DESCRIPTION",
+   "en": "The Harbinger's ring is the most famous of his relics."
+  },
+  {
+   "id": 284,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_06_SHOULDERS.DAT | UNIT | DESCRIPTION",
+   "en": "The Pyrophage created the Seven Laws of the Ashenfeld."
+  },
+  {
+   "id": 285,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_06_SHOULDERS_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "Created in the Year of the Black Sky."
+  },
+  {
+   "id": 286,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_06_SHOULDERS_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "Worn by the Cindermen on ceremonial occasions."
+  },
+  {
+   "id": 287,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BERSERKER_06_SHOULDERS_ALT_SET.DAT | UNIT | DESCRIPTION",
+   "en": "We all need a shoulder to die on."
+  },
+  {
+   "id": 288,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BONE_01_AMULET_E.DAT | UNIT | DESCRIPTION",
+   "en": "\"A shadow shall fall over the universe.\" - The Book of Hurlant"
+  },
+  {
+   "id": 289,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BONE_01_AMULET_E_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "I spy, with my Emerald Eye ..."
+  },
+  {
+   "id": 290,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BONE_01_AMULET_E_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "All that remains of the Watchtower of the Jade Kingdoms."
+  },
+  {
+   "id": 291,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BONE_01_AMULET_E_ALT_SET.DAT | UNIT | DESCRIPTION",
+   "en": "After wearing it for a while, you'll feel dead inside."
+  },
+  {
+   "id": 292,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BONE_01_AMULET_F.DAT | UNIT | DESCRIPTION",
+   "en": "A tiny emerald with a flaw that resembles a pulsing heart."
+  },
+  {
+   "id": 293,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BONE_01_AMULET_F_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "The First Emerald, created by the Guardian of Stone."
+  },
+  {
+   "id": 294,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BONE_01_AMULET_F_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "It's all you ever wanted! Until something better comes along."
+  },
+  {
+   "id": 295,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BONE_01_AMULET_I.DAT | UNIT | DESCRIPTION",
+   "en": "The last remaining fragment of a fallen star."
+  },
+  {
+   "id": 296,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BONE_01_AMULET_I_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "The Shardifact leaves a stain on everything it touches."
+  },
+  {
+   "id": 297,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BONE_01_AMULET_I_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "It it theorized that this item is a \"fixed point\" in reality."
+  },
+  {
+   "id": 298,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BONE_01_AMULET_P.DAT | UNIT | DESCRIPTION",
+   "en": "The Gaze is said to be the eye of the Guardian of the Wild."
+  },
+  {
+   "id": 299,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BONE_01_AMULET_P_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "The Glimmergreen contains the essence of nature."
+  },
+  {
+   "id": 300,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BONE_01_AMULET_P_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "So long as it endures, you are never truly defeated."
+  },
+  {
+   "id": 301,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BONE_01_BELT.DAT | UNIT | DESCRIPTION",
+   "en": "You have its full support."
+  },
+  {
+   "id": 302,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BONE_01_BELT_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "The band that bound the Bendenbrack Witch."
+  },
+  {
+   "id": 303,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BONE_01_BELT_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "Behold the belt of the King of Bones!"
+  },
+  {
+   "id": 304,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BONE_01_BELT_ALT_SET.DAT | UNIT | DESCRIPTION",
+   "en": "It's practically falling off of you."
+  },
+  {
+   "id": 305,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BONE_01_BOOTS.DAT | UNIT | DESCRIPTION",
+   "en": "Walk in the footsteps of the Necromancer."
+  },
+  {
+   "id": 306,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BONE_01_BOOTS_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "Crafted by the most powerful necromancer alive … and dead."
+  },
+  {
+   "id": 307,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BONE_01_BOOTS_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "Kneel before the Necromancer!"
+  },
+  {
+   "id": 308,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BONE_01_BOOTS_ALT_SET.DAT | UNIT | DESCRIPTION",
+   "en": "The lack of sensation in your feet is perfectly normal."
+  },
+  {
+   "id": 309,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BONE_01_CHEST.DAT | UNIT | DESCRIPTION",
+   "en": "Severax the Necromancer opened the Gate of the Dead."
+  },
+  {
+   "id": 310,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BONE_01_CHEST_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "A bony cage for your ribs."
+  },
+  {
+   "id": 311,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BONE_01_CHEST_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "Wrap yourself in its cold, hard embrace."
+  },
+  {
+   "id": 312,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BONE_01_CHEST_ALT_SET.DAT | UNIT | DESCRIPTION",
+   "en": "It fits you like a second skin."
+  },
+  {
+   "id": 313,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BONE_01_GLOVES.DAT | UNIT | DESCRIPTION",
+   "en": "They rattle like fingerbones."
+  },
+  {
+   "id": 314,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BONE_01_GLOVES_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "Wear them, and you fall into the Necromancer's hands."
+  },
+  {
+   "id": 315,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BONE_01_GLOVES_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "These bony bracers once bound the Necromancer."
+  },
+  {
+   "id": 316,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BONE_01_GLOVES_ALT_SET.DAT | UNIT | DESCRIPTION",
+   "en": "You're in good hands."
+  },
+  {
+   "id": 317,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BONE_01_HELMET.DAT | UNIT | DESCRIPTION",
+   "en": "The wearer experiences visions of the deaths of others."
+  },
+  {
+   "id": 318,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BONE_01_HELMET_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "A skullcap, appropriately enough."
+  },
+  {
+   "id": 319,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BONE_01_HELMET_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "The first Necromancer's battle helm."
+  },
+  {
+   "id": 320,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BONE_01_HELMET_ALT_SET.DAT | UNIT | DESCRIPTION",
+   "en": "It lets you get into someone else's head."
+  },
+  {
+   "id": 321,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BONE_01_HELMET_SET_THEGRAY.DAT | UNIT | DESCRIPTION",
+   "en": "The mask of the legendary bandit, the Night Watchman."
+  },
+  {
+   "id": 322,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BONE_01_PANTS.DAT | UNIT | DESCRIPTION",
+   "en": "Trousers flayed from enemies of the Necromancer."
+  },
+  {
+   "id": 323,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BONE_01_PANTS_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "There is nothing more skintight than skin itself."
+  },
+  {
+   "id": 324,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BONE_01_PANTS_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "Worn by the Necromancer as he strode into Red Haven."
+  },
+  {
+   "id": 325,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BONE_01_PANTS_ALT_SET.DAT | UNIT | DESCRIPTION",
+   "en": "They give new meaning to \"skintight.\""
+  },
+  {
+   "id": 326,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BONE_01_RING_E.DAT | UNIT | DESCRIPTION",
+   "en": "Whosoever would wear this ring must first take its oath."
+  },
+  {
+   "id": 327,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BONE_01_RING_E_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "The right hand of magic."
+  },
+  {
+   "id": 328,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BONE_01_RING_E_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "The left hand of magic."
+  },
+  {
+   "id": 329,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BONE_01_RING_E_ALT_SET.DAT | UNIT | DESCRIPTION",
+   "en": "It always feels just a little loose."
+  },
+  {
+   "id": 330,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BONE_01_RING_F.DAT | UNIT | DESCRIPTION",
+   "en": "It sings a song of smoke, and destruction, and ashes."
+  },
+  {
+   "id": 331,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BONE_01_RING_F_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "It howls with hunger for the flesh of new victims."
+  },
+  {
+   "id": 332,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BONE_01_RING_F_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "It mocks your pain."
+  },
+  {
+   "id": 333,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BONE_01_RING_I.DAT | UNIT | DESCRIPTION",
+   "en": "A tiny fragment of Castle Brokenstone."
+  },
+  {
+   "id": 334,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BONE_01_RING_I_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "A sliver from the Castle Brokenstone."
+  },
+  {
+   "id": 335,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BONE_01_RING_I_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "The largest remaining portion of Castle Brokenstone."
+  },
+  {
+   "id": 336,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BONE_01_RING_P.DAT | UNIT | DESCRIPTION",
+   "en": "The watchful eye of the Guardian of the Wild."
+  },
+  {
+   "id": 337,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BONE_01_RING_P_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "The glittering green eye of nature itself."
+  },
+  {
+   "id": 338,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BONE_01_RING_P_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "It shines with inner fire."
+  },
+  {
+   "id": 339,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BONE_01_SHOULDERS.DAT | UNIT | DESCRIPTION",
+   "en": "Carved from the bones of those who opposed him."
+  },
+  {
+   "id": 340,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BONE_01_SHOULDERS_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "The head bone is connected to the neck bone."
+  },
+  {
+   "id": 341,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BONE_01_SHOULDERS_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "Severax the Necromancer wore these into battle."
+  },
+  {
+   "id": 342,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BONE_01_SHOULDERS_ALT_SET.DAT | UNIT | DESCRIPTION",
+   "en": "They just hang off of you."
+  },
+  {
+   "id": 343,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BOWS/BOW_U01.DAT | UNIT | DESCRIPTION",
+   "en": "Death comes on swift wings."
+  },
+  {
+   "id": 344,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BOWS/BOW_U01B.DAT | UNIT | DESCRIPTION",
+   "en": "Every kill is its own special thrill ..."
+  },
+  {
+   "id": 345,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BOWS/BOW_U01C.DAT | UNIT | DESCRIPTION",
+   "en": "Pierces flesh, bone and sinew."
+  },
+  {
+   "id": 346,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BOWS/BOW_U02.DAT | UNIT | DESCRIPTION",
+   "en": "Most of the time, it ends with the hero's death."
+  },
+  {
+   "id": 347,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BOWS/BOW_U02B.DAT | UNIT | DESCRIPTION",
+   "en": "You're out of here!"
+  },
+  {
+   "id": 348,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BOWS/BOW_U02C.DAT | UNIT | DESCRIPTION",
+   "en": "Swift and quiet as a fleeting shadow."
+  },
+  {
+   "id": 349,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BOWS/BOW_U03.DAT | UNIT | DESCRIPTION",
+   "en": "It's the only word it knows ..."
+  },
+  {
+   "id": 350,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BOWS/BOW_U03B.DAT | UNIT | DESCRIPTION",
+   "en": "The bow of the Monkey-in-Jade, hero of the Provinces."
+  },
+  {
+   "id": 351,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BOWS/BOW_U03C.DAT | UNIT | DESCRIPTION",
+   "en": "An enchanted bow, from the Nine-Kings Provinces ..."
+  },
+  {
+   "id": 352,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BOWS/BOW_U04.DAT | UNIT | DESCRIPTION",
+   "en": "Behold the bow that slew the Hound of the Middlemoors."
+  },
+  {
+   "id": 353,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BOWS/BOW_U04B.DAT | UNIT | DESCRIPTION",
+   "en": "When the Hunting God laughs ... run!"
+  },
+  {
+   "id": 354,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BOWS/BOW_U04C.DAT | UNIT | DESCRIPTION",
+   "en": "It gets the point across."
+  },
+  {
+   "id": 355,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BOWS/BOW_U05.DAT | UNIT | DESCRIPTION",
+   "en": "Let them know a storm is coming."
+  },
+  {
+   "id": 356,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BOWS/BOW_U05B.DAT | UNIT | DESCRIPTION",
+   "en": "Let your arrows fall like rain ..."
+  },
+  {
+   "id": 357,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BOWS/BOW_U05C.DAT | UNIT | DESCRIPTION",
+   "en": "The bow that split the sky asunder ..."
+  },
+  {
+   "id": 358,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BOWS/BOW_U05D.DAT | UNIT | DESCRIPTION",
+   "en": "An elegant weapon, for an elegant kill."
+  },
+  {
+   "id": 359,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BOWS/BOW_U06.DAT | UNIT | DESCRIPTION",
+   "en": "The greatest heroes of legend always wielded a great bow."
+  },
+  {
+   "id": 360,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BOWS/BOW_U06B.DAT | UNIT | DESCRIPTION",
+   "en": "Put the brute down!"
+  },
+  {
+   "id": 361,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BOWS/BOW_U06C.DAT | UNIT | DESCRIPTION",
+   "en": "It even kills the ones that are already dead."
+  },
+  {
+   "id": 362,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BOWS/BOW_U07.DAT | UNIT | DESCRIPTION",
+   "en": "Keep shooting until the screaming stops."
+  },
+  {
+   "id": 363,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BOWS/BOW_U07B.DAT | UNIT | DESCRIPTION",
+   "en": "Anyone can hit an enemy in the body ..."
+  },
+  {
+   "id": 364,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BOWS/BOW_U07C.DAT | UNIT | DESCRIPTION",
+   "en": "Just a little bite, but right out of the center."
+  },
+  {
+   "id": 365,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BOWS/BOW_U07_SET_CORBUCCI.DAT | UNIT | DESCRIPTION",
+   "en": "He was born in Red Haven, and he died in Red Haven."
+  },
+  {
+   "id": 366,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BOWS/LEGENDARY_BOW01.DAT | UNIT | DESCRIPTION",
+   "en": "Legendary Bow Collection\\nNumber One of Four"
+  },
+  {
+   "id": 367,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BOWS/LEGENDARY_BOW02.DAT | UNIT | DESCRIPTION",
+   "en": "Legendary Bow Collection\\nNumber Two of Four"
+  },
+  {
+   "id": 368,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BOWS/LEGENDARY_BOW03.DAT | UNIT | DESCRIPTION",
+   "en": "Legendary Bow Collection\\nNumber Three of Four"
+  },
+  {
+   "id": 369,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/BOWS/LEGENDARY_BOW04.DAT | UNIT | DESCRIPTION",
+   "en": "Legendary Bow Collection\\nNumber Four of Four"
+  },
+  {
+   "id": 370,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CANNON/CANNON_U01.DAT | UNIT | DESCRIPTION",
+   "en": "Its bark is worse than its bite."
+  },
+  {
+   "id": 371,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CANNON/CANNON_U01B.DAT | UNIT | DESCRIPTION",
+   "en": "When you're hunting bears, be sure to bring your Mighty Mastiff."
+  },
+  {
+   "id": 372,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CANNON/CANNON_U01C.DAT | UNIT | DESCRIPTION",
+   "en": "When the Big Dog barks, you should listen."
+  },
+  {
+   "id": 373,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CANNON/CANNON_U02.DAT | UNIT | DESCRIPTION",
+   "en": "Give 'em something to talk about."
+  },
+  {
+   "id": 374,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CANNON/CANNON_U02B.DAT | UNIT | DESCRIPTION",
+   "en": "Actions always speak louder than words."
+  },
+  {
+   "id": 375,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CANNON/CANNON_U02C.DAT | UNIT | DESCRIPTION",
+   "en": "This ought to stir things up."
+  },
+  {
+   "id": 376,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CANNON/CANNON_U03.DAT | UNIT | DESCRIPTION",
+   "en": "BOOM! Headshot!"
+  },
+  {
+   "id": 377,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CANNON/CANNON_U03B.DAT | UNIT | DESCRIPTION",
+   "en": "This should get their attention."
+  },
+  {
+   "id": 378,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CANNON/CANNON_U03C.DAT | UNIT | DESCRIPTION",
+   "en": "Because there's no such thing as \"too loud.\""
+  },
+  {
+   "id": 379,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CANNON/CANNON_U04.DAT | UNIT | DESCRIPTION",
+   "en": "Open wide and say \"Aaaaaaaah!\""
+  },
+  {
+   "id": 380,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CANNON/CANNON_U04B.DAT | UNIT | DESCRIPTION",
+   "en": "This'll shut 'em up!"
+  },
+  {
+   "id": 381,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CANNON/CANNON_U04C.DAT | UNIT | DESCRIPTION",
+   "en": "Refitted from the cannon that sunk the pirate ship Blackwave."
+  },
+  {
+   "id": 382,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CANNON/CANNON_U05.DAT | UNIT | DESCRIPTION",
+   "en": "For a museum piece, it still packs a punch."
+  },
+  {
+   "id": 383,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CANNON/CANNON_U05B.DAT | UNIT | DESCRIPTION",
+   "en": "Wield the gun that tamed the Underground Jungle."
+  },
+  {
+   "id": 384,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CANNON/CANNON_U05C.DAT | UNIT | DESCRIPTION",
+   "en": "Show no mercy."
+  },
+  {
+   "id": 385,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CANNON/CANNON_U06.DAT | UNIT | DESCRIPTION",
+   "en": "In the land of unarmed men, a man with a cannon is king."
+  },
+  {
+   "id": 386,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CANNON/CANNON_U06B.DAT | UNIT | DESCRIPTION",
+   "en": "\"Give me just one, and I'll build an empire.\" - the first Emperor"
+  },
+  {
+   "id": 387,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CANNON/CANNON_U06C.DAT | UNIT | DESCRIPTION",
+   "en": "Knowledge is power. Money is power. But power is also power."
+  },
+  {
+   "id": 388,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CANNON/CANNON_U07.DAT | UNIT | DESCRIPTION",
+   "en": "It ate its way across the Empire, one battlefield at a time."
+  },
+  {
+   "id": 389,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CANNON/CANNON_U07B.DAT | UNIT | DESCRIPTION",
+   "en": "\"When King Orso saw this cannon, he opened his gates and surrendered at once.\" - History of Empire"
+  },
+  {
+   "id": 390,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CANNON/CANNON_U07C.DAT | UNIT | DESCRIPTION",
+   "en": "Everyone knows a machine cannot kill ... except the machine!"
+  },
+  {
+   "id": 391,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CANNON/LEGENDARY_CANNON01.DAT | UNIT | DESCRIPTION",
+   "en": "Legendary Cannon Collection\\nNumber One of Three"
+  },
+  {
+   "id": 392,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CANNON/LEGENDARY_CANNON02.DAT | UNIT | DESCRIPTION",
+   "en": "Legendary Cannon Collection\\nNumber Two of Three"
+  },
+  {
+   "id": 393,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CANNON/LEGENDARY_CANNON03.DAT | UNIT | DESCRIPTION",
+   "en": "Legendary Cannon Collection\\nNumber Three of Three"
+  },
+  {
+   "id": 394,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_01_BOOTS.DAT | UNIT | DESCRIPTION",
+   "en": "Worn on thousand-league marches, and thousand-day wars."
+  },
+  {
+   "id": 395,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_01_BOOTS_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "The Ebon Magister's slippers represent circumspection."
+  },
+  {
+   "id": 396,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_01_BOOTS_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "The shoes worn by prisoners on their way to execution."
+  },
+  {
+   "id": 397,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_01_CHEST.DAT | UNIT | DESCRIPTION",
+   "en": "A warrior's armor … sturdy, functional, and well-used."
+  },
+  {
+   "id": 398,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_01_CHEST_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "Worn by the Lord Commander of the Penal Battalion."
+  },
+  {
+   "id": 399,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_01_CHEST_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "The Ebon Magister is the judicial enforcer of the Arbiters."
+  },
+  {
+   "id": 400,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_01_GLOVES.DAT | UNIT | DESCRIPTION",
+   "en": "The Ebon Magister's gloves represent even-handed decisions."
+  },
+  {
+   "id": 401,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_01_GLOVES_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "Watch-Captain Karz always was heavy-handed …"
+  },
+  {
+   "id": 402,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_01_GLOVES_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "One can still see the broken links where the chain was cut."
+  },
+  {
+   "id": 403,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_01_PANTS.DAT | UNIT | DESCRIPTION",
+   "en": "The Tribune of Red Haven wielded vast political power."
+  },
+  {
+   "id": 404,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_01_PANTS_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "The Ebon Magister's leggings represent legal purity."
+  },
+  {
+   "id": 405,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_01_PANTS_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "Made of leather sturdy enough to stop an arrow."
+  },
+  {
+   "id": 406,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_01_SHOULDERS.DAT | UNIT | DESCRIPTION",
+   "en": "The Tribune of Red Haven wore these in court."
+  },
+  {
+   "id": 407,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_01_SHOULDERS_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "They represent the burden placed upon the Ebon Magister."
+  },
+  {
+   "id": 408,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_01_SHOULDERS_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "Who is brave enough to take up the mantle of Karz?"
+  },
+  {
+   "id": 409,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_02_AMULET.DAT | UNIT | DESCRIPTION",
+   "en": "The medallion of the notorious Rooster-Magus."
+  },
+  {
+   "id": 410,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_02_AMULET_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "Worn by the judge who signed the Royal Tyrant's death order."
+  },
+  {
+   "id": 411,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_02_AMULET_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "The lady's amulet once bore a powerful family curse."
+  },
+  {
+   "id": 412,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_02_BELT.DAT | UNIT | DESCRIPTION",
+   "en": "The belt of the Mage of the North."
+  },
+  {
+   "id": 413,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_02_BELT_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "Some called her mad, but she salted those zombies!"
+  },
+  {
+   "id": 414,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_02_BELT_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "MacAlister rode down from the north to defend Skyre."
+  },
+  {
+   "id": 415,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_02_BOOTS.DAT | UNIT | DESCRIPTION",
+   "en": "Boots of purest, deepest darkness."
+  },
+  {
+   "id": 416,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_02_BOOTS_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "Sandals steeped in old magic and spells cast by moonlight."
+  },
+  {
+   "id": 417,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_02_BOOTS_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "Those who came after merely followed in his footsteps."
+  },
+  {
+   "id": 418,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_02_BOOTS_ALT_SET.DAT | UNIT | DESCRIPTION",
+   "en": "The Ember Cabal stood against the Royal Tyrant."
+  },
+  {
+   "id": 419,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_02_CHEST.DAT | UNIT | DESCRIPTION",
+   "en": "\"Lead to gold; gold to Ember; Ember to magic; magic to power.\""
+  },
+  {
+   "id": 420,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_02_CHEST_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "Wrap yourself in darkness …"
+  },
+  {
+   "id": 421,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_02_CHEST_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "Wrap yourself in magic."
+  },
+  {
+   "id": 422,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_02_CHEST_ALT_SET.DAT | UNIT | DESCRIPTION",
+   "en": "The last surviving Ember Cabalist left behind his armor."
+  },
+  {
+   "id": 423,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_02_CHEST_SET_WINTERSREACH.DAT | UNIT | DESCRIPTION",
+   "en": "The armor of office of the Cryomancer Guildmaster."
+  },
+  {
+   "id": 424,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_02_GLOVES.DAT | UNIT | DESCRIPTION",
+   "en": "The founder of the Imperial Spellworks.  His magic is legendary."
+  },
+  {
+   "id": 425,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_02_GLOVES_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "Up to your elbows in darkness and sorcery."
+  },
+  {
+   "id": 426,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_02_GLOVES_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "Arm-guards to ward off hexes and curses … as well as blades."
+  },
+  {
+   "id": 427,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_02_GLOVES_ALT_SET.DAT | UNIT | DESCRIPTION",
+   "en": "Feel the power of Ember flowing through your hands."
+  },
+  {
+   "id": 428,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_02_GLOVES_SET_WINTERSREACH.DAT | UNIT | DESCRIPTION",
+   "en": "Master the icy wave."
+  },
+  {
+   "id": 429,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_02_HELMET.DAT | UNIT | DESCRIPTION",
+   "en": "A helmet to match the darkness in your thoughts …"
+  },
+  {
+   "id": 430,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_02_HELMET_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "What has been forgotten can always be relearned."
+  },
+  {
+   "id": 431,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_02_HELMET_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "The skullcap of Opal the Arch-Conjurer, summoner of monsters."
+  },
+  {
+   "id": 432,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_02_PANTS.DAT | UNIT | DESCRIPTION",
+   "en": "They bring new meaning to \"chaps.\""
+  },
+  {
+   "id": 433,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_02_PANTS_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "Step into darkness …"
+  },
+  {
+   "id": 434,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_02_PANTS_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "Where the magic happens."
+  },
+  {
+   "id": 435,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_02_PANTS_ALT_SET.DAT | UNIT | DESCRIPTION",
+   "en": "The Ember Cabal vanished after deposing the Royal Tyrant."
+  },
+  {
+   "id": 436,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_02_RING.DAT | UNIT | DESCRIPTION",
+   "en": "The ring symbolized her authority over the Five Magi."
+  },
+  {
+   "id": 437,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_02_RING_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "Ring of the most headstrong of the Five Magi."
+  },
+  {
+   "id": 438,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_02_RING_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "The \"Mage in Glass\" was an accomplished artificer."
+  },
+  {
+   "id": 439,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_02_SHOULDERS.DAT | UNIT | DESCRIPTION",
+   "en": "Darkness ever rests on your shoulders, whispering its secrets …"
+  },
+  {
+   "id": 440,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_02_SHOULDERS_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "Knowing the future is a skill; making it seem bright is an art."
+  },
+  {
+   "id": 441,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_02_SHOULDERS_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "An artifact of the Archmage Vance, who some say invented magic."
+  },
+  {
+   "id": 442,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_03_AMULET.DAT | UNIT | DESCRIPTION",
+   "en": "Face the thing that should not be."
+  },
+  {
+   "id": 443,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_03_AMULET_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "Dark deception kills the light."
+  },
+  {
+   "id": 444,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_03_AMULET_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "With strange aeons, even death may die."
+  },
+  {
+   "id": 445,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_03_AMULET_SET_SHOCKSHARDS.DAT | UNIT | DESCRIPTION",
+   "en": "It is but a small piece of a great, magical whole."
+  },
+  {
+   "id": 446,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_03_BELT.DAT | UNIT | DESCRIPTION",
+   "en": "The Red Hook Cult worshipped forces older than time."
+  },
+  {
+   "id": 447,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_03_BELT_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "The survivors of the Red Hook formed the Starry Wisdom."
+  },
+  {
+   "id": 448,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_03_BELT_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "It has the power to transport you to a place without pain."
+  },
+  {
+   "id": 449,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_03_BELT_ALT_SET.DAT | UNIT | DESCRIPTION",
+   "en": "The Spellweavers conduct magical research for the Empire."
+  },
+  {
+   "id": 450,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_03_BELT_SET_THEGRAY.DAT | UNIT | DESCRIPTION",
+   "en": "The White Buckle is the emblem of the Last Forester."
+  },
+  {
+   "id": 451,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_03_BOOTS.DAT | UNIT | DESCRIPTION",
+   "en": "Created by the ancient Arbiters for the Stardust Queen."
+  },
+  {
+   "id": 452,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_03_BOOTS_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "Footwear inscribed all over in an incomprehensible language."
+  },
+  {
+   "id": 453,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_03_BOOTS_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "The wearer's footfalls are as light as a feather."
+  },
+  {
+   "id": 454,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_03_BOOTS_ALT_D.DAT | UNIT | DESCRIPTION",
+   "en": "These boots will put a spring in your steps during your walkabouts and keep you bouncing back onto your feet should you hop into trouble."
+  },
+  {
+   "id": 455,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_03_CHEST.DAT | UNIT | DESCRIPTION",
+   "en": "It protects you where you are most vulnerable."
+  },
+  {
+   "id": 456,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_03_CHEST_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "The Stardust Queen wore this in battle against the Dark Zealots."
+  },
+  {
+   "id": 457,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_03_CHEST_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "Embroidered with images of plants found nowhere in nature."
+  },
+  {
+   "id": 458,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_03_CHEST_ALT_SET.DAT | UNIT | DESCRIPTION",
+   "en": "An essential component of the Spellweavers' equipment."
+  },
+  {
+   "id": 459,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_03_GLOVES.DAT | UNIT | DESCRIPTION",
+   "en": "Soft gloves, stained with black ink on each of the fingertips."
+  },
+  {
+   "id": 460,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_03_GLOVES_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "The Incantus represents the pact between the Guardians."
+  },
+  {
+   "id": 461,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_03_GLOVES_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "Reunited again, ages after one was captured by  Dark Zealots."
+  },
+  {
+   "id": 462,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_03_HELMET.DAT | UNIT | DESCRIPTION",
+   "en": "It proved effective against the Felwings of the Black Palace."
+  },
+  {
+   "id": 463,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_03_HELMET_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "Those who don this cap come to understand the secret script."
+  },
+  {
+   "id": 464,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_03_HELMET_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "The wearer can sense the magic of the six Guardians."
+  },
+  {
+   "id": 465,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_03_HELMET_ALT_SET.DAT | UNIT | DESCRIPTION",
+   "en": "Vital protection for a Spellweaver's mind."
+  },
+  {
+   "id": 466,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_03_PANTS.DAT | UNIT | DESCRIPTION",
+   "en": "Comfortable, stylish, and possessed of a certain charm ..."
+  },
+  {
+   "id": 467,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_03_PANTS_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "Leggings covered with intricate and baffling needlework."
+  },
+  {
+   "id": 468,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_03_PANTS_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "The Stardust Queen would not go into battle without them."
+  },
+  {
+   "id": 469,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_03_PANTS_ALT_SET.DAT | UNIT | DESCRIPTION",
+   "en": "The wise Spellweaver leaves nothing to chance."
+  },
+  {
+   "id": 470,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_03_RING.DAT | UNIT | DESCRIPTION",
+   "en": "The ring worn by the Wickmen throughout their adventures."
+  },
+  {
+   "id": 471,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_03_RING_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "The Brotherhood of Lords formed to protect this one lone Ring."
+  },
+  {
+   "id": 472,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_03_RING_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "Wise men still seek it."
+  },
+  {
+   "id": 473,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_03_SHOULDERS.DAT | UNIT | DESCRIPTION",
+   "en": "They saved the Stardust Queen's life on numerous occasions."
+  },
+  {
+   "id": 474,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_03_SHOULDERS_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "According to legend, they were crafted by Mamoga the Spellbinder."
+  },
+  {
+   "id": 475,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_03_SHOULDERS_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "Embossed with sigils said to be written in the \"magic script.\""
+  },
+  {
+   "id": 476,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_03_SHOULDERS_ALT_SET.DAT | UNIT | DESCRIPTION",
+   "en": "The Spellweaver's shoulder-plates bear his personal mark."
+  },
+  {
+   "id": 477,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_04_AMULET.DAT | UNIT | DESCRIPTION",
+   "en": "The War-Miller is one of the world's unsung heroes."
+  },
+  {
+   "id": 478,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_04_AMULET_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "The Warbinder is a half-forgotten hero from dwarven legend."
+  },
+  {
+   "id": 479,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_04_AMULET_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "The center setting is a gear of advanced craftsmanship."
+  },
+  {
+   "id": 480,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_04_BELT.DAT | UNIT | DESCRIPTION",
+   "en": "Thought to have been devised as a restraint for wizards."
+  },
+  {
+   "id": 481,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_04_BELT_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "A magical restraint of dwarven manufacture, repurposed."
+  },
+  {
+   "id": 482,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_04_BELT_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "Crafted for a battlemage, it measured the effects of Ember."
+  },
+  {
+   "id": 483,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_04_BOOTS.DAT | UNIT | DESCRIPTION",
+   "en": "The boots that endure."
+  },
+  {
+   "id": 484,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_04_BOOTS_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "Seven times walk seven miles."
+  },
+  {
+   "id": 485,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_04_BOOTS_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "These boots will be with you to your very last spell."
+  },
+  {
+   "id": 486,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_04_BOOTS_ALT_SET.DAT | UNIT | DESCRIPTION",
+   "en": "Heavy, sturdy boots, made for the deck of an Embercraft."
+  },
+  {
+   "id": 487,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_04_CHEST.DAT | UNIT | DESCRIPTION",
+   "en": "The armor that endures."
+  },
+  {
+   "id": 488,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_04_CHEST_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "In truth, there is power."
+  },
+  {
+   "id": 489,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_04_CHEST_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "Armor meant to be worn when one faces the mightiest of foes."
+  },
+  {
+   "id": 490,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_04_CHEST_ALT_SET.DAT | UNIT | DESCRIPTION",
+   "en": "The armor of Professor Herkon, inventor of the Embercraft."
+  },
+  {
+   "id": 491,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_04_GLOVES.DAT | UNIT | DESCRIPTION",
+   "en": "The wise welcome the gift of wisdom."
+  },
+  {
+   "id": 492,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_04_GLOVES_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "The gauntlets that endure."
+  },
+  {
+   "id": 493,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_04_GLOVES_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "Your shield against your enemies' most terrible attacks."
+  },
+  {
+   "id": 494,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_04_GLOVES_ALT_SET.DAT | UNIT | DESCRIPTION",
+   "en": "The very gloves worn during the construction of the first Embercraft."
+  },
+  {
+   "id": 495,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_04_HELMET.DAT | UNIT | DESCRIPTION",
+   "en": "Knowledge and truth will light your way."
+  },
+  {
+   "id": 496,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_04_HELMET_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "The hood that endures."
+  },
+  {
+   "id": 497,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_04_HELMET_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "Protection for your head, armor for your mind."
+  },
+  {
+   "id": 498,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_04_HELMET_ALT_SET.DAT | UNIT | DESCRIPTION",
+   "en": "Includes an Ember-proof welding visor."
+  },
+  {
+   "id": 499,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_04_PANTS.DAT | UNIT | DESCRIPTION",
+   "en": "Proof against the lowest forms of magic."
+  },
+  {
+   "id": 500,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_04_PANTS_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "The trousers that endure."
+  },
+  {
+   "id": 501,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_04_PANTS_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "Stride true and stride strong."
+  },
+  {
+   "id": 502,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_04_PANTS_ALT_SET.DAT | UNIT | DESCRIPTION",
+   "en": "The pants of Professor Herkon, inventor of the Embercraft."
+  },
+  {
+   "id": 503,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_04_RING.DAT | UNIT | DESCRIPTION",
+   "en": "It whispers to you in the voices of long-dead Embermages."
+  },
+  {
+   "id": 504,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_04_RING_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "It whispers to you in mournful dwarven syllables."
+  },
+  {
+   "id": 505,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_04_RING_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "It whispers to you in your own voice, casting spells in your mind."
+  },
+  {
+   "id": 506,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_04_RING_ALT_SET.DAT | UNIT | DESCRIPTION",
+   "en": "Crafted from a cast-off gasket of the first Embercraft."
+  },
+  {
+   "id": 507,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_04_SHOULDERS.DAT | UNIT | DESCRIPTION",
+   "en": "Bear your burdens with honor and courage."
+  },
+  {
+   "id": 508,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_04_SHOULDERS_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "The mantle that endures."
+  },
+  {
+   "id": 509,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_04_SHOULDERS_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "Your personal magical redoubt."
+  },
+  {
+   "id": 510,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_05_AMULET.DAT | UNIT | DESCRIPTION",
+   "en": "The rogue wizard Spellgunner cast his spells with bullets."
+  },
+  {
+   "id": 511,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_05_AMULET_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "Master the magic."
+  },
+  {
+   "id": 512,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_05_AMULET_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "It bears the symbol of the War Witches."
+  },
+  {
+   "id": 513,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_05_AMULET_ALT_SET.DAT | UNIT | DESCRIPTION",
+   "en": "It bears the sigil of the first Emperor."
+  },
+  {
+   "id": 514,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_05_BELT.DAT | UNIT | DESCRIPTION",
+   "en": "Spellgunner slung his spellpistol from this very belt."
+  },
+  {
+   "id": 515,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_05_BELT_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "The Spellfire Belt incorporates a crystal of pure Ember."
+  },
+  {
+   "id": 516,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_05_BELT_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "Once worn by the Domina of the War Witches."
+  },
+  {
+   "id": 517,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_05_BOOTS.DAT | UNIT | DESCRIPTION",
+   "en": "The Warcasters marched proudly into battle."
+  },
+  {
+   "id": 518,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_05_BOOTS_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "The first Emperor defeated and scattered the War Witches."
+  },
+  {
+   "id": 519,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_05_BOOTS_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "The hedge mages of the Middlemoors predated the Empire."
+  },
+  {
+   "id": 520,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_05_BOOTS_ALT_SET.DAT | UNIT | DESCRIPTION",
+   "en": "The first Emperor wore these on the day he ascended the throne."
+  },
+  {
+   "id": 521,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_05_CHEST.DAT | UNIT | DESCRIPTION",
+   "en": "The Warcasters were a sect of battle-wizards."
+  },
+  {
+   "id": 522,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_05_CHEST_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "The War Witches enslaved the Brackenwilds for a hundred years."
+  },
+  {
+   "id": 523,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_05_CHEST_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "The hedge mages battled for Middlemoors independence."
+  },
+  {
+   "id": 524,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_05_CHEST_ALT_SET.DAT | UNIT | DESCRIPTION",
+   "en": "The last of the Dwarves built this armor for the first Emperor."
+  },
+  {
+   "id": 525,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_05_GLOVES.DAT | UNIT | DESCRIPTION",
+   "en": "Worn by the Master of the Golden Temple."
+  },
+  {
+   "id": 526,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_05_GLOVES_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "The Warcasters held all of magic in the palms of their hands."
+  },
+  {
+   "id": 527,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_05_GLOVES_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "The War Witches were able to catch spells on these bracers."
+  },
+  {
+   "id": 528,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_05_GLOVES_ALT_SET.DAT | UNIT | DESCRIPTION",
+   "en": "The first Emperor ruled with an iron, Ember-laced fist."
+  },
+  {
+   "id": 529,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_05_HELMET.DAT | UNIT | DESCRIPTION",
+   "en": "The Warcasters wore these helms to ward off the Netherim."
+  },
+  {
+   "id": 530,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_05_HELMET_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "The helm-crown of the Master of the Golden Temple."
+  },
+  {
+   "id": 531,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_05_HELMET_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "A War Witch's helm concealed her identity from assassins."
+  },
+  {
+   "id": 532,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_05_HELMET_ALT_SET.DAT | UNIT | DESCRIPTION",
+   "en": "This was the first Emperor's original crown, until his coronation."
+  },
+  {
+   "id": 533,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_05_PANTS.DAT | UNIT | DESCRIPTION",
+   "en": "The queen of the War Witches was known as the Domina."
+  },
+  {
+   "id": 534,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_05_PANTS_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "The Warcasters once served the Jade Kings."
+  },
+  {
+   "id": 535,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_05_PANTS_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "A rare find, indeed. Few hedge mages actually wore pants."
+  },
+  {
+   "id": 536,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_05_PANTS_ALT_SET.DAT | UNIT | DESCRIPTION",
+   "en": "Built to accommodate the first Emperor's large steps."
+  },
+  {
+   "id": 537,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_05_RING.DAT | UNIT | DESCRIPTION",
+   "en": "Spellgunner used his magic to fight injustice in the Empire."
+  },
+  {
+   "id": 538,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_05_RING_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "The Spellfire Ring touches on the power of raw magic."
+  },
+  {
+   "id": 539,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_05_RING_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "The signet of the War Witches, passed down from Domina to Domina."
+  },
+  {
+   "id": 540,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_05_RING_ALT_SET.DAT | UNIT | DESCRIPTION",
+   "en": "Baubles of the first Emperor."
+  },
+  {
+   "id": 541,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_05_SHOULDERS.DAT | UNIT | DESCRIPTION",
+   "en": "The Warcasters guarded the Jade Throne."
+  },
+  {
+   "id": 542,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_05_SHOULDERS_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "Every War Witch etched her personal sigil on her shoulder armor."
+  },
+  {
+   "id": 543,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_05_SHOULDERS_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "Ceremonial garb, worn only by the Master of the Golden Temple."
+  },
+  {
+   "id": 544,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_05_SHOULDERS_ALT_SET.DAT | UNIT | DESCRIPTION",
+   "en": "These helped the first Emperor carry his greatest burdens."
+  },
+  {
+   "id": 545,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_06_AMULET.DAT | UNIT | DESCRIPTION",
+   "en": "The Magus developed the principles of magic."
+  },
+  {
+   "id": 546,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_06_AMULET_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "The Thaumaturge codified the Magus's principles into the Seven Laws."
+  },
+  {
+   "id": 547,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_06_AMULET_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "The Arch-Magus discovered methods of breaking the Seven Laws."
+  },
+  {
+   "id": 548,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_06_AMULET_ALT_SET.DAT | UNIT | DESCRIPTION",
+   "en": "Through the Icon, the quest for Truth overcomes cherished opinion."
+  },
+  {
+   "id": 549,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_06_BELT.DAT | UNIT | DESCRIPTION",
+   "en": "Presented to the original Embermage at the founding of the Spellworks."
+  },
+  {
+   "id": 550,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_06_BELT_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "The Thaumaturge's Seven Laws of Magic are embossed on it."
+  },
+  {
+   "id": 551,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_06_BELT_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "The Arch-Magus himself created it to prove his superiority."
+  },
+  {
+   "id": 552,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_06_BELT_ALT_SET.DAT | UNIT | DESCRIPTION",
+   "en": "The Path to Transcendence is devoid of obstructive preference."
+  },
+  {
+   "id": 553,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_06_BOOTS.DAT | UNIT | DESCRIPTION",
+   "en": "The Winter Magus walked the frozen, deserted streets of Red Haven."
+  },
+  {
+   "id": 554,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_06_BOOTS_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "They shared their shoes, so as to know each other better."
+  },
+  {
+   "id": 555,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_06_BOOTS_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "Each new High Wizard added a new enchantment."
+  },
+  {
+   "id": 556,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_06_BOOTS_ALT_SET.DAT | UNIT | DESCRIPTION",
+   "en": "Every journey begins with a single step in the right direction."
+  },
+  {
+   "id": 557,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_06_CHEST.DAT | UNIT | DESCRIPTION",
+   "en": "The Winter Magus conquered Red Haven with a year of ice storms."
+  },
+  {
+   "id": 558,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_06_CHEST_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "Of their famed fellowship, only a single jacket remains."
+  },
+  {
+   "id": 559,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_06_CHEST_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "This armor was meant to be worn only by the High Wizard."
+  },
+  {
+   "id": 560,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_06_CHEST_ALT_SET.DAT | UNIT | DESCRIPTION",
+   "en": "The Jacket is a path in the form of an obstacle."
+  },
+  {
+   "id": 561,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_06_GLOVES.DAT | UNIT | DESCRIPTION",
+   "en": "\"Hand in hand, we forge ahead. Stand together, to the end.\""
+  },
+  {
+   "id": 562,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_06_GLOVES_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "The Empire nearly died in the Winter Magus's cold embrace."
+  },
+  {
+   "id": 563,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_06_GLOVES_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "The High Arbiter wore these when casting powerful spells."
+  },
+  {
+   "id": 564,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_06_GLOVES_ALT_SET.DAT | UNIT | DESCRIPTION",
+   "en": "When the pinnacle is within your reach, set your sights higher."
+  },
+  {
+   "id": 565,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_06_HELMET.DAT | UNIT | DESCRIPTION",
+   "en": "The fellowship could solve any problem by putting their heads together."
+  },
+  {
+   "id": 566,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_06_HELMET_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "The Helmet remembers the High Wizards, and waits for the new one."
+  },
+  {
+   "id": 567,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_06_HELMET_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "The Winter Magus encased Emperor Imar in ice up to his neck."
+  },
+  {
+   "id": 568,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_06_HELMET_ALT_SET.DAT | UNIT | DESCRIPTION",
+   "en": "The best leader is the one who makes the people believe in themselves."
+  },
+  {
+   "id": 569,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_06_PANTS.DAT | UNIT | DESCRIPTION",
+   "en": "They create a rip in the fabric of magic."
+  },
+  {
+   "id": 570,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_06_PANTS_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "The Winter Magus was the last scion of House Brume."
+  },
+  {
+   "id": 571,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_06_PANTS_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "The fellowship shared this pair of magical plants."
+  },
+  {
+   "id": 572,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_06_PANTS_ALT_SET.DAT | UNIT | DESCRIPTION",
+   "en": "Sit quietly, or do battle. Spring comes, grass grows."
+  },
+  {
+   "id": 573,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_06_RING.DAT | UNIT | DESCRIPTION",
+   "en": "The Legend of the Seventh Sea, and Lord of the House of Blood."
+  },
+  {
+   "id": 574,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_06_RING_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "From the darkest corners of the world ..."
+  },
+  {
+   "id": 575,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_06_RING_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "It calls you \"Master.\""
+  },
+  {
+   "id": 576,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_06_RING_ALT_SET.DAT | UNIT | DESCRIPTION",
+   "en": "With understanding, order. Without understanding, order."
+  },
+  {
+   "id": 577,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_06_SHOULDERS.DAT | UNIT | DESCRIPTION",
+   "en": "Legends tells of the Shaman, the caretaker of the world."
+  },
+  {
+   "id": 578,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_06_SHOULDERS_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "The reign of the Winter Magus ended when Emperor Imar burned him alive."
+  },
+  {
+   "id": 579,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_06_SHOULDERS_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "Their fellowship is long gone, and all but forgotten."
+  },
+  {
+   "id": 580,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CASTER_06_SHOULDERS_ALT_SET.DAT | UNIT | DESCRIPTION",
+   "en": "The Mantle is pliable and soft ... making it hard and strong."
+  },
+  {
+   "id": 581,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CLOCKWORK_01_AMULET_E.DAT | UNIT | DESCRIPTION",
+   "en": "Inscribed with a stark, white lightning bolt on a field of black."
+  },
+  {
+   "id": 582,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CLOCKWORK_01_AMULET_E_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "The World-Mage declared that all magic had a unique color."
+  },
+  {
+   "id": 583,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CLOCKWORK_01_AMULET_E_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "They are known by many names, but they are all called \"hero.\""
+  },
+  {
+   "id": 584,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CLOCKWORK_01_AMULET_E_ALT_SET.DAT | UNIT | DESCRIPTION",
+   "en": "Like a gear from the celestial clock."
+  },
+  {
+   "id": 585,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CLOCKWORK_01_AMULET_F.DAT | UNIT | DESCRIPTION",
+   "en": "It burns! It burns!"
+  },
+  {
+   "id": 586,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CLOCKWORK_01_AMULET_F_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "Oooh … burn."
+  },
+  {
+   "id": 587,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CLOCKWORK_01_AMULET_F_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "Searing the flesh seals in the juices."
+  },
+  {
+   "id": 588,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CLOCKWORK_01_AMULET_I.DAT | UNIT | DESCRIPTION",
+   "en": "It glitters and glimmers and lures fools to their doom."
+  },
+  {
+   "id": 589,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CLOCKWORK_01_AMULET_I_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "It crackles and sparkles and lurks in the gloom."
+  },
+  {
+   "id": 590,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CLOCKWORK_01_AMULET_I_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "It shatters and splinters and ends in a tomb."
+  },
+  {
+   "id": 591,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CLOCKWORK_01_AMULET_P.DAT | UNIT | DESCRIPTION",
+   "en": "It whispers in your ear."
+  },
+  {
+   "id": 592,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CLOCKWORK_01_AMULET_P_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "It can hear your slightest murmur ..."
+  },
+  {
+   "id": 593,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CLOCKWORK_01_AMULET_P_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "It speaks to you in the voices of your friends ..."
+  },
+  {
+   "id": 594,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CLOCKWORK_01_BELT.DAT | UNIT | DESCRIPTION",
+   "en": "Many Engineers build their own clothing out of machine scrap."
+  },
+  {
+   "id": 595,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CLOCKWORK_01_BELT_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "Tightly-wound and tightly-wrapped."
+  },
+  {
+   "id": 596,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CLOCKWORK_01_BELT_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "Crafted according to careful calculations."
+  },
+  {
+   "id": 597,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CLOCKWORK_01_BELT_ALT_SET.DAT | UNIT | DESCRIPTION",
+   "en": "As above, so below."
+  },
+  {
+   "id": 598,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CLOCKWORK_01_BOOTS.DAT | UNIT | DESCRIPTION",
+   "en": "The Tick-Tock King acted as \"governor\" of the Tick-Tock court."
+  },
+  {
+   "id": 599,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CLOCKWORK_01_BOOTS_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "Crafted to exacting specifications."
+  },
+  {
+   "id": 600,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CLOCKWORK_01_BOOTS_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "With each step, its gears turn a tiny bit."
+  },
+  {
+   "id": 601,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CLOCKWORK_01_BOOTS_ALT_SET.DAT | UNIT | DESCRIPTION",
+   "en": "One foot upon the land, one foot set firmly in the heavens."
+  },
+  {
+   "id": 602,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CLOCKWORK_01_CHEST.DAT | UNIT | DESCRIPTION",
+   "en": "Cunningly crafted to conform to any torso."
+  },
+  {
+   "id": 603,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CLOCKWORK_01_CHEST_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "It contains a series of gears, powered by tiny motions and body heat."
+  },
+  {
+   "id": 604,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CLOCKWORK_01_CHEST_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "The Tick-Tock Knight was the Emperor's automaton bodyguard."
+  },
+  {
+   "id": 605,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CLOCKWORK_01_CHEST_ALT_SET.DAT | UNIT | DESCRIPTION",
+   "en": "Armor forged of celestial iron, to turn aside mortal wounds."
+  },
+  {
+   "id": 606,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CLOCKWORK_01_GLOVES.DAT | UNIT | DESCRIPTION",
+   "en": "They always fit perfectly, as though custom-made for the wearer."
+  },
+  {
+   "id": 607,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CLOCKWORK_01_GLOVES_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "The Tick-Tock Duke ensured that the Tick-Tock court ran smoothly."
+  },
+  {
+   "id": 608,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CLOCKWORK_01_GLOVES_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "Every movement of your hands drives their gears another tick."
+  },
+  {
+   "id": 609,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CLOCKWORK_01_GLOVES_ALT_SET.DAT | UNIT | DESCRIPTION",
+   "en": "One can almost feel the hand of the divine in them."
+  },
+  {
+   "id": 610,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CLOCKWORK_01_HELMET.DAT | UNIT | DESCRIPTION",
+   "en": "The Tick-Tock Duke made modifications to the Tick-Tock court."
+  },
+  {
+   "id": 611,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CLOCKWORK_01_HELMET_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "Its cunning design ensures that one size fits all, always."
+  },
+  {
+   "id": 612,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CLOCKWORK_01_HELMET_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "Some say the constant ticking can drive you mad."
+  },
+  {
+   "id": 613,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CLOCKWORK_01_HELMET_ALT_SET.DAT | UNIT | DESCRIPTION",
+   "en": "The blessings of the divine are upon your head."
+  },
+  {
+   "id": 614,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CLOCKWORK_01_PANTS.DAT | UNIT | DESCRIPTION",
+   "en": "They were created to always be a perfect fit."
+  },
+  {
+   "id": 615,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CLOCKWORK_01_PANTS_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "They get more wound-up with every step you take."
+  },
+  {
+   "id": 616,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CLOCKWORK_01_PANTS_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "The Tick-Tock Guard protected the Tick-Tock King from harm."
+  },
+  {
+   "id": 617,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CLOCKWORK_01_PANTS_ALT_SET.DAT | UNIT | DESCRIPTION",
+   "en": "The presence of the celestial can bring you to your knees."
+  },
+  {
+   "id": 618,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CLOCKWORK_01_RING_E.DAT | UNIT | DESCRIPTION",
+   "en": "You can feel it loosening and tightening on your finger."
+  },
+  {
+   "id": 619,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CLOCKWORK_01_RING_E_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "The rhythm of its contractions feels almost like a pulse."
+  },
+  {
+   "id": 620,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CLOCKWORK_01_RING_E_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "It makes a constant, low whirring and clicking noise."
+  },
+  {
+   "id": 621,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CLOCKWORK_01_RING_E_ALT_SET.DAT | UNIT | DESCRIPTION",
+   "en": "To wear it is to feel the touch of the celestial."
+  },
+  {
+   "id": 622,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CLOCKWORK_01_RING_F.DAT | UNIT | DESCRIPTION",
+   "en": "It is tighter than it seemed at first."
+  },
+  {
+   "id": 623,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CLOCKWORK_01_RING_F_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "Sometimes it feels as though it doesn't want to come off."
+  },
+  {
+   "id": 624,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CLOCKWORK_01_RING_F_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "If you look at it closely, you can see that it keeps perfect time."
+  },
+  {
+   "id": 625,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CLOCKWORK_01_RING_I.DAT | UNIT | DESCRIPTION",
+   "en": "It glimmers and glitters and seems to consume."
+  },
+  {
+   "id": 626,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CLOCKWORK_01_RING_I_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "A tinker's band for a tinker's hand."
+  },
+  {
+   "id": 627,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CLOCKWORK_01_RING_I_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "Its movements on your finger track the stars in the sky."
+  },
+  {
+   "id": 628,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CLOCKWORK_01_RING_P.DAT | UNIT | DESCRIPTION",
+   "en": "Its tiny gems mirror the constellations."
+  },
+  {
+   "id": 629,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CLOCKWORK_01_RING_P_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "Properly used, it measures the horizon, equator, and ecliptic."
+  },
+  {
+   "id": 630,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CLOCKWORK_01_RING_P_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "If spun counter-clockwise, it tells you exactly where you are."
+  },
+  {
+   "id": 631,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CLOCKWORK_01_SHOULDERS.DAT | UNIT | DESCRIPTION",
+   "en": "They cannot possibly fit everyone, and yet they do."
+  },
+  {
+   "id": 632,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CLOCKWORK_01_SHOULDERS_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "Only the Tick-Tock Queen could shut them all down."
+  },
+  {
+   "id": 633,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CLOCKWORK_01_SHOULDERS_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "Oddly similar to the Tick-Tock Queen's pauldrons ..."
+  },
+  {
+   "id": 634,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CLOCKWORK_01_SHOULDERS_ALT_SET.DAT | UNIT | DESCRIPTION",
+   "en": "Wearing them, one feels the power of the heavens."
+  },
+  {
+   "id": 635,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CROSSBOWS/CROSSBOW_U01.DAT | UNIT | DESCRIPTION",
+   "en": "Crank it up and let fly!"
+  },
+  {
+   "id": 636,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CROSSBOWS/CROSSBOW_U01B.DAT | UNIT | DESCRIPTION",
+   "en": "Unleash the swarm!"
+  },
+  {
+   "id": 637,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CROSSBOWS/CROSSBOW_U01C.DAT | UNIT | DESCRIPTION",
+   "en": "The seventh Emperor used it to send a message to the goblins: \"Die.\""
+  },
+  {
+   "id": 638,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CROSSBOWS/CROSSBOW_U02.DAT | UNIT | DESCRIPTION",
+   "en": "It doesn't need to put a bolt through your foes ... just in them."
+  },
+  {
+   "id": 639,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CROSSBOWS/CROSSBOW_U02B.DAT | UNIT | DESCRIPTION",
+   "en": "Shot through the heart ... and you're to blame. Good work!"
+  },
+  {
+   "id": 640,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CROSSBOWS/CROSSBOW_U02C.DAT | UNIT | DESCRIPTION",
+   "en": "More than  you need ... but less than you want."
+  },
+  {
+   "id": 641,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CROSSBOWS/CROSSBOW_U03.DAT | UNIT | DESCRIPTION",
+   "en": "Here comes the stinger!"
+  },
+  {
+   "id": 642,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CROSSBOWS/CROSSBOW_U03B.DAT | UNIT | DESCRIPTION",
+   "en": "Let the feast begin!"
+  },
+  {
+   "id": 643,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CROSSBOWS/CROSSBOW_U03C.DAT | UNIT | DESCRIPTION",
+   "en": "Named after the most fearsome beast of the Ossean Wastes."
+  },
+  {
+   "id": 644,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CROSSBOWS/CROSSBOW_U04.DAT | UNIT | DESCRIPTION",
+   "en": "Strike fear directly into the hearts of your foes!"
+  },
+  {
+   "id": 645,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CROSSBOWS/CROSSBOW_U04B.DAT | UNIT | DESCRIPTION",
+   "en": "Lightning-fast delivery."
+  },
+  {
+   "id": 646,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CROSSBOWS/CROSSBOW_U04C.DAT | UNIT | DESCRIPTION",
+   "en": "Ideal for home defense."
+  },
+  {
+   "id": 647,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CROSSBOWS/CROSSBOW_U05.DAT | UNIT | DESCRIPTION",
+   "en": "If you love something, let it go. If it kills something, it was meant to be."
+  },
+  {
+   "id": 648,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CROSSBOWS/CROSSBOW_U05B.DAT | UNIT | DESCRIPTION",
+   "en": "It's just looking for a fight."
+  },
+  {
+   "id": 649,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CROSSBOWS/CROSSBOW_U05C.DAT | UNIT | DESCRIPTION",
+   "en": "Some people fear spiders.\\nAll spiders fear this."
+  },
+  {
+   "id": 650,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CROSSBOWS/CROSSBOW_U06.DAT | UNIT | DESCRIPTION",
+   "en": "If you can't hit your target, at least hit everything around it."
+  },
+  {
+   "id": 651,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CROSSBOWS/CROSSBOW_U06B.DAT | UNIT | DESCRIPTION",
+   "en": "\"How do I find my foes? Dead or dying.\" - Marshall Vurnix"
+  },
+  {
+   "id": 652,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CROSSBOWS/CROSSBOW_U06C.DAT | UNIT | DESCRIPTION",
+   "en": "Legends say it was designed to spare the man, but kill the monster within."
+  },
+  {
+   "id": 653,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CROSSBOWS/CROSSBOW_U07.DAT | UNIT | DESCRIPTION",
+   "en": "It's like a bolt-action hunting falcon."
+  },
+  {
+   "id": 654,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CROSSBOWS/CROSSBOW_U07B.DAT | UNIT | DESCRIPTION",
+   "en": "Varkolyn shudder at a falcon's cry ... all because of this crossbow."
+  },
+  {
+   "id": 655,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CROSSBOWS/CROSSBOW_U07C.DAT | UNIT | DESCRIPTION",
+   "en": "Perhaps the world's only self-winding crossbow."
+  },
+  {
+   "id": 656,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CROSSBOWS/LEGENDARY_CROSSBOW01.DAT | UNIT | DESCRIPTION",
+   "en": "Legendary Crossbow Collection\\nNumber One of Two"
+  },
+  {
+   "id": 657,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/CROSSBOWS/LEGENDARY_CROSSBOW02.DAT | UNIT | DESCRIPTION",
+   "en": "Legendary Crossbow Collection\\nNumber Two of Two"
+  },
+  {
+   "id": 658,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/DYNAMITE.DAT | UNIT | DESCRIPTION",
+   "en": "Lets you go blast fishing!  Yields less total fish per fishing hole than traditional methods.\\n\\n(Dynamite does not work on town fishing holes.)"
+  },
+  {
+   "id": 659,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/EMBER_01_AMULET.DAT | UNIT | DESCRIPTION",
+   "en": "Ember has its eye on you."
+  },
+  {
+   "id": 660,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/EMBER_01_AMULET_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "Even the tiniest fragment of Ember can hold great power."
+  },
+  {
+   "id": 661,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/EMBER_01_AMULET_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "Sometimes, a piece of Ember just catches your eye."
+  },
+  {
+   "id": 662,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/EMBER_01_BELT.DAT | UNIT | DESCRIPTION",
+   "en": "The Emberheart relics are believed to be two thousand years old."
+  },
+  {
+   "id": 663,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/EMBER_01_BELT_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "Named for the tiny Ember studs driven into the leather."
+  },
+  {
+   "id": 664,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/EMBER_01_BELT_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "The Brightember artifacts date back to the Dwarven Empire."
+  },
+  {
+   "id": 665,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/EMBER_01_BOOTS.DAT | UNIT | DESCRIPTION",
+   "en": "According to legend, the Emberheart relics were a gift from a king to his heir."
+  },
+  {
+   "id": 666,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/EMBER_01_BOOTS_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "Put your foot down."
+  },
+  {
+   "id": 667,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/EMBER_01_BOOTS_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "Boots that hum with Ember power."
+  },
+  {
+   "id": 668,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/EMBER_01_CHEST.DAT | UNIT | DESCRIPTION",
+   "en": "Some believe this was the first Ember-infused armor ever made."
+  },
+  {
+   "id": 669,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/EMBER_01_CHEST_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "Heavy with power."
+  },
+  {
+   "id": 670,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/EMBER_01_CHEST_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "Forged of Ember for the first dwarven Battle-King."
+  },
+  {
+   "id": 671,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/EMBER_01_GLOVES.DAT | UNIT | DESCRIPTION",
+   "en": "The Emberheart relics are depicted on thousand-year-old murals."
+  },
+  {
+   "id": 672,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/EMBER_01_GLOVES_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "Power by the handful."
+  },
+  {
+   "id": 673,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/EMBER_01_GLOVES_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "Infused with the oldest power in the world."
+  },
+  {
+   "id": 674,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/EMBER_01_HELMET.DAT | UNIT | DESCRIPTION",
+   "en": "The helm is inscribed with the rune of a long-dead family of dwarven nobles."
+  },
+  {
+   "id": 675,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/EMBER_01_HELMET_ALT_B.DAT | UNIT | DESCRIPTION",
+   "en": "Its power goes straight to your head."
+  },
+  {
+   "id": 676,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/EMBER_01_HELMET_ALT_C.DAT | UNIT | DESCRIPTION",
+   "en": "It fills your head with thoughts of limitless power …"
+  },
+  {
+   "id": 677,
+   "mode": "translate",
+   "ctx": "UNITS/ITEMS/EMBER_01_PANTS.DAT | UNIT | DESCRIPTION",
+   "en": "The Emberheart relics disappeared from a museum over a hundred years ago."
+  }
+ ]
+}

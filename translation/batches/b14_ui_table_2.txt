@@ -1,0 +1,1135 @@
+# b14_ui_table_2: 567 strings. Format: "@@ id | mode | context" then the English text on the next line.
+@@ 6609 | decide | UI/exe string (no data context)
+Randomize Features
+@@ 6610 | decide | UI/exe string (no data context)
+Randomize Pet Name
+@@ 6611 | decide | UI/exe string (no data context)
+Range
+@@ 6612 | decide | UI/exe string (no data context)
+Rare 
+@@ 6613 | decide | UI/exe string (no data context)
+Rare Fishing Hole
+@@ 6614 | decide | UI/exe string (no data context)
+Rate of Health naturally recovered when under \nthe character's maximum amount
+@@ 6615 | decide | UI/exe string (no data context)
+Rate of Mana naturally recovered when under\nthe character's maximum amount
+@@ 6616 | decide | UI/exe string (no data context)
+Recall Pet
+@@ 6617 | decide | UI/exe string (no data context)
+Recalling pet will stop them from selling and purchasing.
+@@ 6618 | decide | UI/exe string (no data context)
+Recipes
+@@ 6619 | decide | UI/exe string (no data context)
+Reconnecting...
+@@ 6620 | decide | UI/exe string (no data context)
+Recover Skill Point
+@@ 6621 | decide | UI/exe string (no data context)
+Recreate the world with randomized dungeons and fresh spawns
+@@ 6622 | decide | UI/exe string (no data context)
+Reduces the damage penalty if an attack is fumbled
+@@ 6623 | decide | UI/exe string (no data context)
+Reflows Occuring: <STAT1>
+@@ 6624 | decide | UI/exe string (no data context)
+Refresh Game List
+@@ 6625 | decide | UI/exe string (no data context)
+Reload Area
+@@ 6626 | decide | UI/exe string (no data context)
+Remap Controls
+@@ 6627 | decide | UI/exe string (no data context)
+Remember Username
+@@ 6628 | decide | UI/exe string (no data context)
+Remove
+@@ 6629 | decide | UI/exe string (no data context)
+Remove One
+@@ 6630 | decide | UI/exe string (no data context)
+Remove Spell
+@@ 6631 | decide | UI/exe string (no data context)
+Remove any current enchantments on this item
+@@ 6632 | decide | UI/exe string (no data context)
+Remove point
+@@ 6633 | decide | UI/exe string (no data context)
+Render Behind Walls
+@@ 6634 | decide | UI/exe string (no data context)
+Render Behind Walls causes a mesh highlight to show objects hidden behind walls.\nDisabling Render Behind Walls improves frame rate.
+@@ 6635 | decide | UI/exe string (no data context)
+Replay Mode: It appears you have found my body.  Very good.  This is where my memories are stored including the locations of multiple caches of treasure.  I could share these with you, if you would help me reacquire the rest of my components.\n\nWe should begin with my Cognition Linkage.  Without that, I won't be able to do much more than repeat this message.  My sensors tell me it is somewhere nearby.  Find it and reinstall it, and I will direct you to one of those treasure troves.
+@@ 6636 | decide | UI/exe string (no data context)
+Required Mods
+@@ 6637 | decide | UI/exe string (no data context)
+Requires an\nIdentify Scroll.
+@@ 6638 | decide | UI/exe string (no data context)
+Reroll World
+@@ 6639 | decide | UI/exe string (no data context)
+Reset Skills
+@@ 6640 | decide | UI/exe string (no data context)
+Resetting your Skill Investment will reclaim <STAT1> |cFFEAAA15Skill Points|u.
+@@ 6641 | decide | UI/exe string (no data context)
+Resistance to Immobilization
+@@ 6642 | decide | UI/exe string (no data context)
+Resistance to Slowing Effects
+@@ 6643 | decide | UI/exe string (no data context)
+Restart And Activate
+@@ 6644 | decide | UI/exe string (no data context)
+Restart And Install These Mods
+@@ 6645 | decide | UI/exe string (no data context)
+Restart Required
+@@ 6646 | decide | UI/exe string (no data context)
+Restart and Install
+@@ 6647 | decide | UI/exe string (no data context)
+Resume
+@@ 6648 | decide | UI/exe string (no data context)
+Return To Last Map
+@@ 6649 | decide | UI/exe string (no data context)
+Return To Town
+@@ 6650 | decide | UI/exe string (no data context)
+Return To Zeryphesh
+@@ 6651 | decide | UI/exe string (no data context)
+Return to Blightbogs
+@@ 6652 | decide | UI/exe string (no data context)
+Return to Surface
+@@ 6653 | decide | UI/exe string (no data context)
+Return to The Blightbogs
+@@ 6654 | decide | UI/exe string (no data context)
+Reveals the properties of an unidentified item.
+@@ 6655 | decide | UI/exe string (no data context)
+Reward Choices
+@@ 6656 | decide | UI/exe string (no data context)
+Rewards
+@@ 6657 | decide | UI/exe string (no data context)
+Right Hand Weapon Slot (Empty)
+@@ 6658 | decide | UI/exe string (no data context)
+Right Mouse Button Active Skill
+@@ 6659 | decide | UI/exe string (no data context)
+Right-click to Equip
+@@ 6660 | decide | UI/exe string (no data context)
+Right-click to \nlearn this ability
+@@ 6661 | decide | UI/exe string (no data context)
+Right-click to identify the item.
+@@ 6662 | decide | UI/exe string (no data context)
+Rim Lighting *
+@@ 6663 | decide | UI/exe string (no data context)
+Rim Lighting adds highlight effects to the game, improving visibility and contrast.\nRim Lighting does not have a noticeable impact on frame rate.
+@@ 6664 | decide | UI/exe string (no data context)
+Ring Slot (Empty)
+@@ 6665 | decide | UI/exe string (no data context)
+Rotate Left
+@@ 6666 | decide | UI/exe string (no data context)
+Rotate Right
+@@ 6667 | decide | UI/exe string (no data context)
+Round One
+@@ 6668 | decide | UI/exe string (no data context)
+Round Two
+@@ 6669 | decide | UI/exe string (no data context)
+Run Speed
+@@ 6670 | decide | UI/exe string (no data context)
+Runic Log In
+@@ 6671 | decide | UI/exe string (no data context)
+SAVED
+@@ 6672 | decide | UI/exe string (no data context)
+SKILLS
+@@ 6673 | decide | UI/exe string (no data context)
+SOUND DRIVER: <STAT1>
+@@ 6674 | decide | UI/exe string (no data context)
+Sadwa Mesa
+@@ 6675 | decide | UI/exe string (no data context)
+Save
+@@ 6676 | decide | UI/exe string (no data context)
+Save and Quit
+@@ 6677 | decide | UI/exe string (no data context)
+Save and Resume
+@@ 6678 | decide | UI/exe string (no data context)
+Say [Enter]
+@@ 6679 | decide | UI/exe string (no data context)
+School of Warsnouts
+@@ 6680 | decide | UI/exe string (no data context)
+Scrap
+@@ 6681 | decide | UI/exe string (no data context)
+Sea Chest
+@@ 6682 | decide | UI/exe string (no data context)
+Secondary Weapon Set
+@@ 6683 | decide | UI/exe string (no data context)
+Secret Room
+@@ 6684 | decide | UI/exe string (no data context)
+Select Game In List
+@@ 6685 | decide | UI/exe string (no data context)
+Select Item Reward
+@@ 6686 | decide | UI/exe string (no data context)
+Select a Reward
+@@ 6687 | decide | UI/exe string (no data context)
+Select a Reward to Continue
+@@ 6688 | decide | UI/exe string (no data context)
+Select a language - requires a restart
+@@ 6689 | decide | UI/exe string (no data context)
+Select an item or skill to assign
+@@ 6690 | decide | UI/exe string (no data context)
+Select which items should appear when the Show Items button is pressed or Show Items is toggled on
+@@ 6691 | decide | UI/exe string (no data context)
+Sell all
+@@ 6692 | decide | UI/exe string (no data context)
+Sell all the items in your pet's inventory
+@@ 6693 | decide | UI/exe string (no data context)
+Send Pet to Town
+@@ 6694 | decide | UI/exe string (no data context)
+Send Pet to Town\n\nYour pet will sell all items in its \ninventory and buy any items \nrequested on your shopping list.
+@@ 6695 | decide | UI/exe string (no data context)
+Send your pet to town, to sell and buy items
+@@ 6696 | decide | UI/exe string (no data context)
+Sentinal Pistol
+@@ 6697 | decide | UI/exe string (no data context)
+Sepulcher of Sorrows
+@@ 6698 | decide | UI/exe string (no data context)
+Server Name
+@@ 6699 | decide | UI/exe string (no data context)
+Set Item Display Filters
+@@ 6700 | decide | UI/exe string (no data context)
+Set Item:
+@@ 6701 | decide | UI/exe string (no data context)
+Settings
+@@ 6702 | decide | UI/exe string (no data context)
+Shadow Detail
+@@ 6703 | decide | UI/exe string (no data context)
+Shadow Detail sets the quality level of shadows in the game.\nTurning off shadows will improve frame rate.
+@@ 6704 | decide | UI/exe string (no data context)
+Shadow Skills
+@@ 6705 | decide | UI/exe string (no data context)
+Shark Frenzy
+@@ 6706 | decide | UI/exe string (no data context)
+Shift-click to Buy
+@@ 6707 | decide | UI/exe string (no data context)
+Shift-click to Sell
+@@ 6708 | decide | UI/exe string (no data context)
+Shift-click to Transfer
+@@ 6709 | decide | UI/exe string (no data context)
+Shopping List
+@@ 6710 | decide | UI/exe string (no data context)
+Should you succeed in your quest, return to me to proceed to the next |cFFEAAA15New Game Plus|u mode for more challenges.\n\n\nYou may also choose to use the |cFFA1D0FCMapworks|u to hone your skills in additional mysterious dungeons.
+@@ 6711 | decide | UI/exe string (no data context)
+Shoulders Slot (Empty)
+@@ 6712 | decide | UI/exe string (no data context)
+Show Blood
+@@ 6713 | decide | UI/exe string (no data context)
+Show Blood adds blood particles to the game.
+@@ 6714 | decide | UI/exe string (no data context)
+Show Game
+@@ 6715 | decide | UI/exe string (no data context)
+Show Helmet
+@@ 6716 | decide | UI/exe string (no data context)
+Show Helmet toggles the display of your character's helmet.
+@@ 6717 | decide | UI/exe string (no data context)
+Show Item Comparisons
+@@ 6718 | decide | UI/exe string (no data context)
+Show Offline Players
+@@ 6719 | decide | UI/exe string (no data context)
+Show Tips
+@@ 6720 | decide | UI/exe string (no data context)
+Show Tips sets helpful tooltips to be displayed during gameplay.
+@@ 6721 | decide | UI/exe string (no data context)
+Show Weather
+@@ 6722 | decide | UI/exe string (no data context)
+Show Weather adds weather effect particles to the game.
+@@ 6723 | decide | UI/exe string (no data context)
+Showing <STAT1> of <STAT2> games
+@@ 6724 | decide | UI/exe string (no data context)
+Sigil Skills
+@@ 6725 | decide | UI/exe string (no data context)
+Sign in with TapTap
+@@ 6726 | decide | UI/exe string (no data context)
+Single Player
+@@ 6727 | decide | UI/exe string (no data context)
+Skill Name
+@@ 6728 | decide | UI/exe string (no data context)
+Skill Panel
+@@ 6729 | decide | UI/exe string (no data context)
+Skill Reset
+@@ 6730 | decide | UI/exe string (no data context)
+Skills
+@@ 6731 | decide | UI/exe string (no data context)
+Skills Used
+@@ 6732 | decide | UI/exe string (no data context)
+Skills [[KB:SkillMenu]]
+@@ 6733 | decide | UI/exe string (no data context)
+Skull Hollow
+@@ 6734 | decide | UI/exe string (no data context)
+Slavers Den
+@@ 6735 | decide | UI/exe string (no data context)
+Slavers' Camp
+@@ 6736 | decide | UI/exe string (no data context)
+Small Treasure Chest
+@@ 6737 | decide | UI/exe string (no data context)
+So what kind of monster was it? I never saw it ... I was too busy running.\n\nWhat? No monster? But, then, why would those soldiers say there was one ... unless ...\n\nSay, you don't think they were lying to me, do you?\n\nWait! You don't think they weren't really soldiers, do you?\n\nI am so gullible.
+@@ 6738 | decide | UI/exe string (no data context)
+So, yeah. I'm a dealer in ... "antiquities," like. See? This and that, nothing special. "Estate" stuff, you might say. I deal with anybody's got an ... antiquity ... what they don't need no more, right? They're not usin' it anymore, so I sell it for 'em.\n\nOnly sometimes I have to deal with people what can't be trusted, if you know what I mean. I dig stuff up, sell it on to these people, and pocket a small ... "commission," like.\n\nBut my latest, well, "buyers" ... these guys don't understand how business works. They took my ... |cFFEAAA15antiquity|u ... and didn't pay me!\n\nThink you can convince them to hand over my ... antiquity? I'll pay you good money ...
+@@ 6739 | decide | UI/exe string (no data context)
+So, you're going after the Alchemist?  I might be able to help you.  I'm a botanist, serving the Empire by gathering various Ember-infused plants.  And I've found a virtual treasure trove of |cFFD1FF7AEmber Truffles|u, down in the |cFFD1FF7AMuckery|u but some of them have already attained sentience, and that's making it difficult for me to gather them.\n\nIf you can bring me, say, a dozen |cFFD1FF7AEmber Truffles|u, I'll keep ten for the Empire, and I'll use the other two to make a |cFFD1FF7ASuper Mana Potion|u for you.  Do we have a deal?
+@@ 6740 | decide | UI/exe string (no data context)
+Soul Basin
+@@ 6741 | decide | UI/exe string (no data context)
+Sounds Playing/Max Allowed: <STAT1>/<STAT2>
+@@ 6742 | decide | UI/exe string (no data context)
+Sparse
+@@ 6743 | decide | UI/exe string (no data context)
+Spawn Punchbag
+@@ 6744 | decide | UI/exe string (no data context)
+Spawn Skeletons
+@@ 6745 | decide | UI/exe string (no data context)
+Spells
+@@ 6746 | decide | UI/exe string (no data context)
+Spells Inventory
+@@ 6747 | decide | UI/exe string (no data context)
+Spells Tab
+@@ 6748 | decide | UI/exe string (no data context)
+Splash Damage
+@@ 6749 | decide | UI/exe string (no data context)
+Start Halfway Through
+@@ 6750 | decide | UI/exe string (no data context)
+Start Server
+@@ 6751 | decide | UI/exe string (no data context)
+Start in Third Area
+@@ 6752 | decide | UI/exe string (no data context)
+Stat points remaining to be spent
+@@ 6753 | decide | UI/exe string (no data context)
+Stay Close to Raise the Totems
+@@ 6754 | decide | UI/exe string (no data context)
+Stay Warm to Survive
+@@ 6755 | decide | UI/exe string (no data context)
+Stay Within the Light
+@@ 6756 | decide | UI/exe string (no data context)
+Steam Stats
+@@ 6757 | decide | UI/exe string (no data context)
+Steam Stats:
+@@ 6758 | decide | UI/exe string (no data context)
+Steamer Trunk
+@@ 6759 | decide | UI/exe string (no data context)
+Step into darkness
+@@ 6760 | decide | UI/exe string (no data context)
+Step into darkness ...
+@@ 6761 | decide | UI/exe string (no data context)
+Storm Armory
+@@ 6762 | decide | UI/exe string (no data context)
+Storm Skills
+@@ 6763 | decide | UI/exe string (no data context)
+Strength Bonus
+@@ 6764 | decide | UI/exe string (no data context)
+Strict NAT Detected
+@@ 6765 | decide | UI/exe string (no data context)
+Stygian Aerie Approach
+@@ 6766 | decide | UI/exe string (no data context)
+Success!
+@@ 6767 | decide | UI/exe string (no data context)
+Summation of all attack speed bonuses
+@@ 6768 | decide | UI/exe string (no data context)
+Summation of all cast speed bonuses
+@@ 6769 | decide | UI/exe string (no data context)
+Survive in the Arena
+@@ 6770 | decide | UI/exe string (no data context)
+Survive the Attack
+@@ 6771 | decide | UI/exe string (no data context)
+Swap Weapon Sets
+@@ 6772 | decide | UI/exe string (no data context)
+Switch To Primary Weapon Set 'W'
+@@ 6773 | decide | UI/exe string (no data context)
+Switch To Secondary Weapon Set 'W'
+@@ 6774 | decide | UI/exe string (no data context)
+Switch pet to be aggressive
+@@ 6775 | decide | UI/exe string (no data context)
+Switch pet to be defensive
+@@ 6776 | decide | UI/exe string (no data context)
+Switch pet to be passive
+@@ 6777 | decide | UI/exe string (no data context)
+TapTap Log In
+@@ 6778 | decide | UI/exe string (no data context)
+Teleport to your allies or their portals
+@@ 6779 | decide | UI/exe string (no data context)
+Thank the Guardians! I thought I was doomed to a life of slavery ...
+@@ 6780 | decide | UI/exe string (no data context)
+Thank you for playing the Beta
+@@ 6781 | decide | UI/exe string (no data context)
+Thank you for your help.  The others are too injured to go on, so it falls to me to stay here and guard them, in addition to the Ambassador.
+@@ 6782 | decide | UI/exe string (no data context)
+Thank you for your understanding and support!
+@@ 6783 | decide | UI/exe string (no data context)
+Thanks again for your help!
+@@ 6784 | decide | UI/exe string (no data context)
+That game name already exists. Please choose another name for this game.
+@@ 6785 | decide | UI/exe string (no data context)
+The Alchemist
+@@ 6786 | decide | UI/exe string (no data context)
+The Artificer
+@@ 6787 | decide | UI/exe string (no data context)
+The Beast Warrens
+@@ 6788 | decide | UI/exe string (no data context)
+The Berserker gains charge by attacking enemies. Upon fully charging the Berserker enters a sped-up |cFFFFBF61Frenzy|u state, where all direct attacks result in critical hits, and other attacks have an increased critical chance. Charge decays after a period of inactivity. \n\nFrenzy lasts for 6(|cFF03BD17+<STAT1>|u) seconds after the first strike.
+@@ 6789 | decide | UI/exe string (no data context)
+The BlightBogs
+@@ 6790 | decide | UI/exe string (no data context)
+The Bone Clutch
+@@ 6791 | decide | UI/exe string (no data context)
+The Cairn Pit
+@@ 6792 | decide | UI/exe string (no data context)
+The Clockwork Core
+@@ 6793 | decide | UI/exe string (no data context)
+The Downfalls
+@@ 6794 | decide | UI/exe string (no data context)
+The Dwarven Labs
+@@ 6795 | decide | UI/exe string (no data context)
+The Embercraft
+@@ 6796 | decide | UI/exe string (no data context)
+The Embermage gains charge by damaging enemies. When the charge bar is full, the Embermage achieves total concentration for 12 seconds. During this period, skills cost no mana, and skill damage is increased by 25%. Charge will decay after a period of inactivity.
+@@ 6797 | decide | UI/exe string (no data context)
+The Empty Quarter
+@@ 6798 | decide | UI/exe string (no data context)
+The Engineer gains charges by damaging enemies, up to a maximum of five charges. If charges are available, certain skills, like Flame Hammer, will consume a charge to significantly increase power. Some skills consume all available charges, while others help to gain charges more rapidly. Charge will decay after a period of inactivity.
+@@ 6799 | decide | UI/exe string (no data context)
+The Fate of the World
+@@ 6800 | decide | UI/exe string (no data context)
+The Forgotten Halls
+@@ 6801 | decide | UI/exe string (no data context)
+The Gorgon
+@@ 6802 | decide | UI/exe string (no data context)
+The Grand Regent
+@@ 6803 | decide | UI/exe string (no data context)
+The Grand Regent is dead?  The plague turned him into a host for a Nether-Beast?  I ... I ... This is too much!
+@@ 6804 | decide | UI/exe string (no data context)
+The Haunted Quarter
+@@ 6805 | decide | UI/exe string (no data context)
+The Honored Dead did so much for us when they were alive ... we should not treat them with disrespect now that they are dead!\n\nThe Tranquil Censer would put them to rest again ... if only I had not dropped it!  Are you sure you cannot find it?
+@@ 6806 | decide | UI/exe string (no data context)
+The King In Masks
+@@ 6807 | decide | UI/exe string (no data context)
+The Luminous Arena
+@@ 6808 | decide | UI/exe string (no data context)
+The Outlander gains charge by damaging enemies. Charge will decay after a period of inactivity. Combat bonuses are received based on the current amount of charge accrued.  Additionally, Outlanders with no charge get a "first shot" bonus, stunning the next enemy they hit.
+@@ 6809 | decide | UI/exe string (no data context)
+The Rot Gardens
+@@ 6810 | decide | UI/exe string (no data context)
+The Rules of the Game
+@@ 6811 | decide | UI/exe string (no data context)
+The Shining Censer
+@@ 6812 | decide | UI/exe string (no data context)
+The Ship Graveyard
+@@ 6813 | decide | UI/exe string (no data context)
+The Siege Guardian
+@@ 6814 | decide | UI/exe string (no data context)
+The Slovak National Symphony Orchestra\n|cFFF5DB94Conducted By|u\nKirk Trevor
+@@ 6815 | decide | UI/exe string (no data context)
+The Swarmstacks
+@@ 6816 | decide | UI/exe string (no data context)
+The Temple Steppes\nvia\nThe Path of the Honored Dead
+@@ 6817 | decide | UI/exe string (no data context)
+The amount of electrical damage subtracted from incoming attacks. \nIf an attack is partially electrical and partially other elements, the armor's \neffective reduction is proportionally scaled to the percentage of electrical damage.
+@@ 6818 | decide | UI/exe string (no data context)
+The amount of fire damage subtracted from incoming attacks. \nIf an attack is partially fire and partially other elements, the armor's \neffective reduction is proportionally scaled to the percentage of fire damage.
+@@ 6819 | decide | UI/exe string (no data context)
+The amount of ice damage subtracted from incoming attacks. \nIf an attack is partially ice and partially other elements, the armor's \neffective reduction is proportionally scaled to the percentage of ice damage.
+@@ 6820 | decide | UI/exe string (no data context)
+The amount of poison damage subtracted from incoming attacks. \nIf an attack is partially poison and partially other elements, the armor's \neffective reduction is proportionally scaled to the percentage of poison damage.
+@@ 6821 | decide | UI/exe string (no data context)
+The arc in front of a weapon attack in which non-targeted \nenemies will be damaged by a 'splash' effect
+@@ 6822 | decide | UI/exe string (no data context)
+The average level of all items currently equipped.
+@@ 6823 | decide | UI/exe string (no data context)
+The character's base movement speed
+@@ 6824 | decide | UI/exe string (no data context)
+The description is either empty or contains invalid text
+@@ 6825 | decide | UI/exe string (no data context)
+The difficulty of the game
+@@ 6826 | decide | UI/exe string (no data context)
+The level delta needs to be a number and cannot be blank.
+@@ 6827 | decide | UI/exe string (no data context)
+The max players allowed into game
+@@ 6828 | decide | UI/exe string (no data context)
+The new account will reset the friend list and will not affect existing local save progress.
+@@ 6829 | decide | UI/exe string (no data context)
+The selected settings require a restart of the game.\n\nDo you want to restart now?
+@@ 6830 | decide | UI/exe string (no data context)
+The server name is either blank or contains invalid text
+@@ 6831 | decide | UI/exe string (no data context)
+The story so far..
+@@ 6832 | decide | UI/exe string (no data context)
+There are more goblins over there!
+@@ 6833 | decide | UI/exe string (no data context)
+These games use an old version of one or more mods, and cannot be joined.
+@@ 6834 | decide | UI/exe string (no data context)
+This character requires one or more mods which are not currently active. Would you like to restart and activate these mods automatically?
+@@ 6835 | decide | UI/exe string (no data context)
+This concludes the demo of Torchlight II! We hope you had fun.\nFor |cFFA1D0FC<STAT1>|u's sake, purchase the full game to continue your journey!\n\n\n
+@@ 6836 | decide | UI/exe string (no data context)
+This concludes the demo of Torchlight! We hope you had fun.\nPurchase the full game to continue your journey!
+@@ 6837 | decide | UI/exe string (no data context)
+This dropdown displays all of the mod combinations currently used in active games. If your current mod combination matches, you may join.\nIf you have the required mods, but they are not currently active, choose 'Restart and Install' to enable them automatically.\nIf you do not have the required mods, you will need to download them first. Steam users can automatically subscribe to and download mods using the 'Restart and Install' button.
+@@ 6838 | decide | UI/exe string (no data context)
+This dungeon already exists!  Join that player via direct warp or portal, or ensure that all players have vacated that realm and closed their portals and try again.
+@@ 6839 | decide | UI/exe string (no data context)
+This weapon's speed for one attack
+@@ 6840 | decide | UI/exe string (no data context)
+Three Sisters
+@@ 6841 | decide | UI/exe string (no data context)
+Tier I Bonus
+@@ 6842 | decide | UI/exe string (no data context)
+Tier II Bonus
+@@ 6843 | decide | UI/exe string (no data context)
+Tier III Bonus
+@@ 6844 | decide | UI/exe string (no data context)
+Time Expired
+@@ 6845 | decide | UI/exe string (no data context)
+Time Since Last Message
+@@ 6846 | decide | UI/exe string (no data context)
+Time Since Last Server Refresh
+@@ 6847 | decide | UI/exe string (no data context)
+Tip
+@@ 6848 | decide | UI/exe string (no data context)
+To Crows Pass
+@@ 6849 | decide | UI/exe string (no data context)
+To Drigung Grotto
+@@ 6850 | decide | UI/exe string (no data context)
+To Echo Pass
+@@ 6851 | decide | UI/exe string (no data context)
+To Frosted Hills\nvia\nCrows Pass
+@@ 6852 | decide | UI/exe string (no data context)
+To Haunted Quarter
+@@ 6853 | decide | UI/exe string (no data context)
+To Imperial Camp
+@@ 6854 | decide | UI/exe string (no data context)
+To Jehannum
+@@ 6855 | decide | UI/exe string (no data context)
+To Mapworks
+@@ 6856 | decide | UI/exe string (no data context)
+To Middenmine
+@@ 6857 | decide | UI/exe string (no data context)
+To Ossean Wastes
+@@ 6858 | decide | UI/exe string (no data context)
+To Path of the Honored Dead
+@@ 6859 | decide | UI/exe string (no data context)
+To Plunder Cove
+@@ 6860 | decide | UI/exe string (no data context)
+To Rivenskull Gorge
+@@ 6861 | decide | UI/exe string (no data context)
+To Salt Barrens
+@@ 6862 | decide | UI/exe string (no data context)
+To Sundered Battlefield
+@@ 6863 | decide | UI/exe string (no data context)
+To Swarm Point
+@@ 6864 | decide | UI/exe string (no data context)
+To Tarroch's Rift
+@@ 6865 | decide | UI/exe string (no data context)
+To Tarroch's Tomb
+@@ 6866 | decide | UI/exe string (no data context)
+To The Blightbogs
+@@ 6867 | decide | UI/exe string (no data context)
+To The Broken Mines
+@@ 6868 | decide | UI/exe string (no data context)
+To The Broken Mines\nvia\nThe Minehead
+@@ 6869 | decide | UI/exe string (no data context)
+To The Emberscratch Mines
+@@ 6870 | decide | UI/exe string (no data context)
+To The Emberworks
+@@ 6871 | decide | UI/exe string (no data context)
+To The Empty Quarter
+@@ 6872 | decide | UI/exe string (no data context)
+To The Enclave
+@@ 6873 | decide | UI/exe string (no data context)
+To The Forsaken Vaults
+@@ 6874 | decide | UI/exe string (no data context)
+To The Frosted Hills
+@@ 6875 | decide | UI/exe string (no data context)
+To The Rotting Crypt of Madness
+@@ 6876 | decide | UI/exe string (no data context)
+To The Salt Barrens\nvia\nThe Empty Quarter
+@@ 6877 | decide | UI/exe string (no data context)
+To The Stygian Aerie
+@@ 6878 | decide | UI/exe string (no data context)
+To The Temple Steppes
+@@ 6879 | decide | UI/exe string (no data context)
+To The Undercurrents
+@@ 6880 | decide | UI/exe string (no data context)
+To The Witherways
+@@ 6881 | decide | UI/exe string (no data context)
+To Tower of the Moon
+@@ 6882 | decide | UI/exe string (no data context)
+To Wellspring Treasury
+@@ 6883 | decide | UI/exe string (no data context)
+To provide long-term and stable operations, the game account system is upgraded to TapTap login starting today. You need to register or sign in with the new account system to continue playing online mode.
+@@ 6884 | decide | UI/exe string (no data context)
+To purchase an enchantment, place weapons, armor or trinkets here.\n\nThe item may receive magical enchantments,\nor if you are unlucky, the enchantment may fizzle with no effect.
+@@ 6885 | decide | UI/exe string (no data context)
+Toggle Active Quest Display
+@@ 6886 | decide | UI/exe string (no data context)
+Toggle Map
+@@ 6887 | decide | UI/exe string (no data context)
+Toggle Names for Items on Ground
+@@ 6888 | decide | UI/exe string (no data context)
+Tomb of Ligeia
+@@ 6889 | decide | UI/exe string (no data context)
+Total Damage this weapon does on a Critcal Hit
+@@ 6890 | decide | UI/exe string (no data context)
+Total Dexterity
+@@ 6891 | decide | UI/exe string (no data context)
+Total Focus
+@@ 6892 | decide | UI/exe string (no data context)
+Total Strength
+@@ 6893 | decide | UI/exe string (no data context)
+Total Vitality
+@@ 6894 | decide | UI/exe string (no data context)
+Total dexterity after bonuses
+@@ 6895 | decide | UI/exe string (no data context)
+Total focus after bonuses
+@@ 6896 | decide | UI/exe string (no data context)
+Total strength after bonuses
+@@ 6897 | decide | UI/exe string (no data context)
+Total vitality after bonuses
+@@ 6898 | decide | UI/exe string (no data context)
+Track Quest
+@@ 6899 | decide | UI/exe string (no data context)
+Trade
+@@ 6900 | decide | UI/exe string (no data context)
+Trade Pending
+@@ 6901 | decide | UI/exe string (no data context)
+Trade Request
+@@ 6902 | decide | UI/exe string (no data context)
+Trade With Player
+@@ 6903 | decide | UI/exe string (no data context)
+Transmuter
+@@ 6904 | decide | UI/exe string (no data context)
+Transmuters can combine items to create new items.\n\nTo perform a transmutation place the ingredients into the slots below.  If the ingredients are appropriate for a recipe, the transmutation button will become active and allow you to perform the transmutation! This will remove the necessary items and place the new item into your bag.\n\nThe recipe list will show the results from transmutations you've performed.  Not all of the transmutation recipes are listed so experimenters may find new recipes!\n
+@@ 6905 | decide | UI/exe string (no data context)
+Travel
+@@ 6906 | decide | UI/exe string (no data context)
+Travel to Estheria
+@@ 6907 | decide | UI/exe string (no data context)
+Travel to Zeryphesh
+@@ 6908 | decide | UI/exe string (no data context)
+Travis Baldree\nBrian Barhorst\nJason Beck\nPatrick Blank\nGreg Brown\nSirio Brozzi\nKyle Cornelius\nJohn Dunbar\nBen Evans\nMike Fisher\nMike Franchina\nAllen Fong\nPeter Hu\nJeremy Huxley\nBrock Jones\nJason Lamb\nMatt Lefferts\nMarsh Lefler\nJeff Mianowski\n
+@@ 6909 | decide | UI/exe string (no data context)
+Trinkets
+@@ 6910 | decide | UI/exe string (no data context)
+Tundra Skills
+@@ 6911 | decide | UI/exe string (no data context)
+Tunic of Triangulation
+@@ 6912 | decide | UI/exe string (no data context)
+Twitch of the Death Nerve
+@@ 6913 | decide | UI/exe string (no data context)
+UI Scale (Updates on Apply)
+@@ 6914 | decide | UI/exe string (no data context)
+UI Textures( <STAT1>) Size: <STAT2>
+@@ 6915 | decide | UI/exe string (no data context)
+Um ... I know this is a lot to ask, us being strangers ... but, um, I seem to have misplaced my |cFFEAAA15pocketwatch|u. It's about yea big, with a little windy thing on top, and, um, numbers ... on the face. Like, well ... a watch.\n\nI had it when I stopped to chat with those other fellows, earlier, but I don't remember seeing it after that. I must have dropped it.\n\nWait ... you don't think they stole it, do you?\n\nUm ... any chance you could go ask them ...? I'd go ... but they seemed kind of, um, mean.
+@@ 6916 | decide | UI/exe string (no data context)
+Unable To Warp
+@@ 6917 | decide | UI/exe string (no data context)
+Unable to teleport to the player's current area.
+@@ 6918 | decide | UI/exe string (no data context)
+Unable to use dynamite on this fishing hole!
+@@ 6919 | decide | UI/exe string (no data context)
+Unblock
+@@ 6920 | decide | UI/exe string (no data context)
+Unblock Player
+@@ 6921 | decide | UI/exe string (no data context)
+Unconfirm Trade
+@@ 6922 | decide | UI/exe string (no data context)
+Underwater Webs
+@@ 6923 | decide | UI/exe string (no data context)
+Unfriend
+@@ 6924 | decide | UI/exe string (no data context)
+Unfriend Player
+@@ 6925 | decide | UI/exe string (no data context)
+Unique 
+@@ 6926 | decide | UI/exe string (no data context)
+Unlearn Spells
+@@ 6927 | decide | UI/exe string (no data context)
+Unlit Brazier
+@@ 6928 | decide | UI/exe string (no data context)
+Unlit Campfire
+@@ 6929 | decide | UI/exe string (no data context)
+Unlock at Level 1
+@@ 6930 | decide | UI/exe string (no data context)
+Unspent\nSkill Points
+@@ 6931 | decide | UI/exe string (no data context)
+Unspent\nStat Points
+@@ 6932 | decide | UI/exe string (no data context)
+Updating...
+@@ 6933 | decide | UI/exe string (no data context)
+Upon |cFFA1D0FCleveling up |uyou will be given 5 |cFFA1D0FCstat points|u and 1 |cFFA1D0FCskill point|u. The |cFFA1D0FCCharacter Panel|u and |cFFA1D0FCSkill Panel |utabs will blink when you have points to invest.
+@@ 6934 | decide | UI/exe string (no data context)
+Use Best Health Potion
+@@ 6935 | decide | UI/exe string (no data context)
+Use Best Mana Potion
+@@ 6936 | decide | UI/exe string (no data context)
+Use Skill
+@@ 6937 | decide | UI/exe string (no data context)
+Use the |cFFA1D0FCLeft Mouse Button|u to move, attack and pick up items.\n\nUse the |cFFA1D0FCRight Mouse Button|u to use the currently active skill. Skills consume mana when used.  Mana will recharge over time.
+@@ 6938 | decide | UI/exe string (no data context)
+Valve
+@@ 6939 | decide | UI/exe string (no data context)
+Vanquish your foes\nwith haste
+@@ 6940 | decide | UI/exe string (no data context)
+Vault
+@@ 6941 | decide | UI/exe string (no data context)
+Vault_wall_crawler_spawner
+@@ 6942 | decide | UI/exe string (no data context)
+Verbose
+@@ 6943 | decide | UI/exe string (no data context)
+Vertical Sync fixes screen tearing.\nDisabling VSync can improve frame rate.
+@@ 6944 | decide | UI/exe string (no data context)
+Vertical Synchronization (VSync) *
+@@ 6945 | decide | UI/exe string (no data context)
+Very High
+@@ 6946 | decide | UI/exe string (no data context)
+Video
+@@ 6947 | decide | UI/exe string (no data context)
+View modded game sets
+@@ 6948 | decide | UI/exe string (no data context)
+Vitality Bonus
+@@ 6949 | decide | UI/exe string (no data context)
+Vote To Kick Player From Game
+@@ 6950 | decide | UI/exe string (no data context)
+WARNING: High Latency Connection.  You may experience problems playing with this person.
+@@ 6951 | decide | UI/exe string (no data context)
+WARNING: NAT Problems Detected.  You may have experience problems playing the game with this person.
+@@ 6952 | decide | UI/exe string (no data context)
+WINTER WIDOW
+@@ 6953 | decide | UI/exe string (no data context)
+Waiting for TapTap authorization...
+@@ 6954 | decide | UI/exe string (no data context)
+Waiting for\n<STAT1>\nto accept trade request.
+@@ 6955 | decide | UI/exe string (no data context)
+Wake of the Alchemist
+@@ 6956 | decide | UI/exe string (no data context)
+Warfare Skills
+@@ 6957 | decide | UI/exe string (no data context)
+Warnings
+@@ 6958 | decide | UI/exe string (no data context)
+Warp
+@@ 6959 | decide | UI/exe string (no data context)
+Warp To Player
+@@ 6960 | decide | UI/exe string (no data context)
+Warp to
+@@ 6961 | decide | UI/exe string (no data context)
+Warp to Player
+@@ 6962 | decide | UI/exe string (no data context)
+Warp to Player's Portal
+@@ 6963 | decide | UI/exe string (no data context)
+Warp to Zeryphesh
+@@ 6964 | decide | UI/exe string (no data context)
+Warp to portal in
+@@ 6965 | decide | UI/exe string (no data context)
+Warp to your portal
+@@ 6966 | decide | UI/exe string (no data context)
+Watchweald Approach
+@@ 6967 | decide | UI/exe string (no data context)
+Watchweald Portal
+@@ 6968 | decide | UI/exe string (no data context)
+Water Guardian Palace
+@@ 6969 | decide | UI/exe string (no data context)
+Wave 1
+@@ 6970 | decide | UI/exe string (no data context)
+Wave Four
+@@ 6971 | decide | UI/exe string (no data context)
+Wave Three
+@@ 6972 | decide | UI/exe string (no data context)
+Weapon Set Swap Toggle
+@@ 6973 | decide | UI/exe string (no data context)
+Weapons for sale
+@@ 6974 | decide | UI/exe string (no data context)
+Well, well!  Back so soon?  Oh, you don't have the tools yet ... \n\nWell, come back when you do!
+@@ 6975 | decide | UI/exe string (no data context)
+Well, you look like you could help. I suppose you only speak some Vilderan barbarian language, don't you? So hard to find any translators out here, so far from the Empire ...\n\nHello! You help me! Okay? See? Help ... me. No speak! Okay! No speak? Just listen! "Listen."\n\nMe ... lose ... something. |cFFEAAA15Necklace|u! See? "Neck. Lace." Bandits ... take! Me ... want neck-lace back! See? You! Kill bandits ... get neck-lace! Bring neck-lace back! Me give money! "Money." Okay? You understand? "Money?"\n\nGo on! Go, now! Go get necklace! "Neck-lace!"
+@@ 6976 | decide | UI/exe string (no data context)
+Wellspring Approach
+@@ 6977 | decide | UI/exe string (no data context)
+When Show Item Comparisons is enabled, item tooltips will also display a \ncomparison tooltip showing your equipped items of the same type.
+@@ 6978 | decide | UI/exe string (no data context)
+Whirlpool of Fate
+@@ 6979 | decide | UI/exe string (no data context)
+Whisper
+@@ 6980 | decide | UI/exe string (no data context)
+Whisper To Player
+@@ 6981 | decide | UI/exe string (no data context)
+Widowmaker Woods
+@@ 6982 | decide | UI/exe string (no data context)
+Will list games near my level
+@@ 6983 | decide | UI/exe string (no data context)
+Windowed
+@@ 6984 | decide | UI/exe string (no data context)
+Windowed Fullscreen
+@@ 6985 | decide | UI/exe string (no data context)
+Wow! They actually gave it back to you? That's amazing! I was sure they'd deny they had it ... or at least put up a fight ... oh.\n\nWell, um ... how about I give you a reward, for returning my watch?
+@@ 6986 | decide | UI/exe string (no data context)
+Yeah, that's the thing! Medallion, like. Bit dirty, but that's the way of antiquities, ain't it? People leave 'em lying around, in old boxes, forget all about 'em. Nasty business, but no sense lettin' a prize like this go to waste, eh?
+@@ 6987 | decide | UI/exe string (no data context)
+Yes
+@@ 6988 | decide | UI/exe string (no data context)
+Yoon Im\nAlly Gu\nAllen Fong\nJason Lee\nDavis Li\nLukasz Pason\nBill Wang\nMatt Wyatt\nChuck Yang\n\n
+@@ 6989 | decide | UI/exe string (no data context)
+You ... friend! Me ... friend! You ... kill ... bandits! Me ... not bandit! You no kill ... me! See? No ... kill ... me!\n\nWell, lucky that seems to have sunk in, at any rate.
+@@ 6990 | decide | UI/exe string (no data context)
+You Will Receive
+@@ 6991 | decide | UI/exe string (no data context)
+You can teleport to any player in the game from a waygate. Select the player below to teleport to them.
+@@ 6992 | decide | UI/exe string (no data context)
+You can't create this type of dungeon, because another player or portal exists in a similar dungeon. Either close portals to that dungeon and try again or join that player.
+@@ 6993 | decide | UI/exe string (no data context)
+You can't find it? But ... if I return without it, I'll be banished!
+@@ 6994 | decide | UI/exe string (no data context)
+You cannot retire until you reach level
+@@ 6995 | decide | UI/exe string (no data context)
+You found it! Capital!\n\nOh, right ... you have no idea what I'm saying, do you?\n\nOkay! You ... okay! Bring back necklace! Okay! Me give money! You give necklace ... me give money. Yes! Yes, you've got it!\n\nHonestly, you'd think you savages would at least try to learn a civilized language ...
+@@ 6996 | decide | UI/exe string (no data context)
+You found some!  Oh, thank the gods. A few moments' work, and yes, there it is:  a healing poultice.  Now it will just take a little rest, and I'll be good as new.\n\nAs it turns out, you brought back more leaves than I needed.  So, here:  a Healing Poultice for you, as a reward.  Should you be badly injured, it'll set you right in no time!
+@@ 6997 | decide | UI/exe string (no data context)
+You have points to spend
+@@ 6998 | decide | UI/exe string (no data context)
+You have retrieved the Tranquil Censer! Thank you!\n\nI can use the censer to purge the necromantic stain from the Path of the Honored Dead. Guardians willing, that should let the Honored Dead return to their tombs in peace.
+@@ 6999 | decide | UI/exe string (no data context)
+You may not join a game with a different New Game Plus rank
+@@ 7000 | decide | UI/exe string (no data context)
+You may now enter |cFFEAAA15New Game Plus|u mode!\n\nIf you choose this path, you will restart your adventure with your current character, and the world will be increased in level to match. 
+@@ 7001 | decide | UI/exe string (no data context)
+You must first speak with the Grand Regent before using portals.
+@@ 7002 | decide | UI/exe string (no data context)
+You saved my life! I thought those ratlins had my number, for sure!
+@@ 7003 | decide | UI/exe string (no data context)
+You were in some sort of Nether-version of the Empty Quarter?  That's unsettling, because there was a strange, cold wind blowing out of the Empty Quarter while you were gone.
+@@ 7004 | decide | UI/exe string (no data context)
+You're really amazing. You know that? All my life I've been afraid of people like that ... then you just casually walk up to them and get my money back! Thank you again!
+@@ 7005 | decide | UI/exe string (no data context)
+Your basic attack.
+@@ 7006 | decide | UI/exe string (no data context)
+Your browser will open to complete login.
+@@ 7007 | decide | UI/exe string (no data context)
+Your fight is ended.\nMemories of you will fade.\nSilence, all is lost.
+@@ 7008 | decide | UI/exe string (no data context)
+Your next adventure will begin at Level |cFFA1D0FC<STAT1>|u
+@@ 7009 | decide | UI/exe string (no data context)
+Your pet has also returned with some selected items. Insignificant funds for all items requested.
+@@ 7010 | decide | UI/exe string (no data context)
+Your pet has also returned with your selected items.
+@@ 7011 | decide | UI/exe string (no data context)
+Your pet meets you in town with your requested items.
+@@ 7012 | decide | UI/exe string (no data context)
+Your pet meets you in town, and brings you
+@@ 7013 | decide | UI/exe string (no data context)
+Your pet meets you in town.
+@@ 7014 | decide | UI/exe string (no data context)
+Your pet meets you in town. Insufficient funds were available for requested purchases.
+@@ 7015 | decide | UI/exe string (no data context)
+Your pet meets you in town. Profits were used to purchase your selected items.
+@@ 7016 | decide | UI/exe string (no data context)
+Your pet returns from town and profits were used to purchase your selected items.
+@@ 7017 | decide | UI/exe string (no data context)
+Your pet returns from town with your requested items.
+@@ 7018 | decide | UI/exe string (no data context)
+Your pet returns from town, and brings you
+@@ 7019 | decide | UI/exe string (no data context)
+Your pet returns from town.
+@@ 7020 | decide | UI/exe string (no data context)
+Zoom In
+@@ 7021 | decide | UI/exe string (no data context)
+Zoom Out
+@@ 7022 | decide | UI/exe string (no data context)
+[DMGTYPE] Damage Taken is increased by [VALUE]%
+@@ 7023 | decide | UI/exe string (no data context)
+[ITEM] of Acid Rain
+@@ 7024 | decide | UI/exe string (no data context)
+[KB:Automap]
+@@ 7025 | decide | UI/exe string (no data context)
+[KB:BESTMANA]
+@@ 7026 | decide | UI/exe string (no data context)
+[KB:BESTPOTION]
+@@ 7027 | decide | UI/exe string (no data context)
+[KB:CastSkill]
+@@ 7028 | decide | UI/exe string (no data context)
+[KB:F1]
+@@ 7029 | decide | UI/exe string (no data context)
+[KB:InventoryMenu]
+@@ 7030 | decide | UI/exe string (no data context)
+[KB:Journal]
+@@ 7031 | decide | UI/exe string (no data context)
+[KB:Move/Attack]
+@@ 7032 | decide | UI/exe string (no data context)
+[KB:OptionsMenu]
+@@ 7033 | decide | UI/exe string (no data context)
+[KB:PetMenu]
+@@ 7034 | decide | UI/exe string (no data context)
+[KB:QK0]
+@@ 7035 | decide | UI/exe string (no data context)
+[KB:QK1]
+@@ 7036 | decide | UI/exe string (no data context)
+[KB:QK2]
+@@ 7037 | decide | UI/exe string (no data context)
+[KB:QK3]
+@@ 7038 | decide | UI/exe string (no data context)
+[KB:QK4]
+@@ 7039 | decide | UI/exe string (no data context)
+[KB:QK5]
+@@ 7040 | decide | UI/exe string (no data context)
+[KB:QK6]
+@@ 7041 | decide | UI/exe string (no data context)
+[KB:QK7]
+@@ 7042 | decide | UI/exe string (no data context)
+[KB:QK8]
+@@ 7043 | decide | UI/exe string (no data context)
+[KB:QK9]
+@@ 7044 | decide | UI/exe string (no data context)
+[KB:QuestMenu]
+@@ 7045 | decide | UI/exe string (no data context)
+[KB:ShowItems]
+@@ 7046 | decide | UI/exe string (no data context)
+[KB:SkillMenu]
+@@ 7047 | decide | UI/exe string (no data context)
+[KB:StatMenu]
+@@ 7048 | decide | UI/exe string (no data context)
+[KB:WeaponSwap]
+@@ 7049 | decide | UI/exe string (no data context)
+[VALUE]% chance to reflect missiles at [VALUE3AND4]% weapon DPS\n for [DURATION]
+@@ 7050 | decide | UI/exe string (no data context)
+a friend and a blocked player are in this game
+@@ 7051 | decide | UI/exe string (no data context)
+a friend and a player who has blocked you are in this game
+@@ 7052 | decide | UI/exe string (no data context)
+a friend is in this game
+@@ 7053 | decide | UI/exe string (no data context)
+a player who has blocked you is in this game
+@@ 7054 | decide | UI/exe string (no data context)
+a player you have blocked is in this game
+@@ 7055 | decide | UI/exe string (no data context)
+backward
+@@ 7056 | decide | UI/exe string (no data context)
+bootsImageState
+@@ 7057 | decide | UI/exe string (no data context)
+cancel
+@@ 7058 | decide | UI/exe string (no data context)
+chance for proc
+@@ 7059 | decide | UI/exe string (no data context)
+cheat!
+@@ 7060 | decide | UI/exe string (no data context)
+del
+@@ 7061 | decide | UI/exe string (no data context)
+down arrow
+@@ 7062 | decide | UI/exe string (no data context)
+end
+@@ 7063 | decide | UI/exe string (no data context)
+forward
+@@ 7064 | decide | UI/exe string (no data context)
+home
+@@ 7065 | decide | UI/exe string (no data context)
+ins
+@@ 7066 | decide | UI/exe string (no data context)
+left arrow
+@@ 7067 | decide | UI/exe string (no data context)
+media/ui/pieces/arbiter_charge_bar_tooltip.layout
+@@ 7068 | decide | UI/exe string (no data context)
+media/ui/pieces/berserker_charge_bar_tooltip.layout
+@@ 7069 | decide | UI/exe string (no data context)
+media/ui/pieces/dexterity_rollover.layout
+@@ 7070 | decide | UI/exe string (no data context)
+media/ui/pieces/effect_tooltip.layout
+@@ 7071 | decide | UI/exe string (no data context)
+media/ui/pieces/engineer_charge_bar_tooltip.layout
+@@ 7072 | decide | UI/exe string (no data context)
+media/ui/pieces/equipment_rollover.layout
+@@ 7073 | decide | UI/exe string (no data context)
+media/ui/pieces/mp_tooltip.layout
+@@ 7074 | decide | UI/exe string (no data context)
+media/ui/pieces/outlander_charge_bar_tooltip.layout
+@@ 7075 | decide | UI/exe string (no data context)
+media/ui/pieces/perk_rollover.layout
+@@ 7076 | decide | UI/exe string (no data context)
+media/ui/pieces/recipe_rollover.layout
+@@ 7077 | decide | UI/exe string (no data context)
+media/ui/pieces/skill_rollover.layout
+@@ 7078 | decide | UI/exe string (no data context)
+media/ui/pieces/skilltier_rollover.layout
+@@ 7079 | decide | UI/exe string (no data context)
+media/ui/pieces/unit_data.layout
+@@ 7080 | decide | UI/exe string (no data context)
+media/ui/pieces/xpbar_tooltip.layout
+@@ 7081 | decide | UI/exe string (no data context)
+pgdn
+@@ 7082 | decide | UI/exe string (no data context)
+pgup
+@@ 7083 | decide | UI/exe string (no data context)
+right arrow
+@@ 7084 | decide | UI/exe string (no data context)
+safgtsdfg
+@@ 7085 | decide | UI/exe string (no data context)
+space
+@@ 7086 | decide | UI/exe string (no data context)
+up arrow
+@@ 7087 | decide | UI/exe string (no data context)
+version: <STAT1>
+@@ 7088 | decide | UI/exe string (no data context)
+|c0097ffa1Left Hand Weapon|u
+@@ 7089 | decide | UI/exe string (no data context)
+|c0097ffa1Right Hand Weapon|u
+@@ 7090 | decide | UI/exe string (no data context)
+|cB4FFFFFF<STAT1>|u
+@@ 7091 | decide | UI/exe string (no data context)
+|cFF1596EF<STAT1>|u
+@@ 7092 | decide | UI/exe string (no data context)
+|cFF4B4B4B<STAT1>|u
+@@ 7093 | decide | UI/exe string (no data context)
+|cFF4B4B4BSkill Points: <STAT1>|u
+@@ 7094 | decide | UI/exe string (no data context)
+|cFF4B4B4BStat Points|u
+@@ 7095 | decide | UI/exe string (no data context)
+|cFF917D56Password|u
+@@ 7096 | decide | UI/exe string (no data context)
+|cFF917D56Username|u
+@@ 7097 | decide | UI/exe string (no data context)
+|cFFA1D0FCCasual Mode|u is great for players of all ages who favor fun action without deeper challenge.
+@@ 7098 | decide | UI/exe string (no data context)
+|cFFA1D0FCCurrent Room|u: <STAT1>
+@@ 7099 | decide | UI/exe string (no data context)
+|cFFA1D0FCElite Mode|u is for advanced or brave players. The monsters are significantly tougher and you may die often. Your adventure will likely take more time than in other game modes.
+@@ 7100 | decide | UI/exe string (no data context)
+|cFFA1D0FCLevelSeed|u: <STAT1>
+@@ 7101 | decide | UI/exe string (no data context)
+|cFFA1D0FCPeer Data|u:\n<STAT1>
+@@ 7102 | decide | UI/exe string (no data context)
+|cFFA1D0FCPlayer Pos|u: <STAT1>
+@@ 7103 | decide | UI/exe string (no data context)
+|cFFA1D0FCRegion|u: <STAT1>
+@@ 7104 | decide | UI/exe string (no data context)
+|cFFA1D0FCRooms|u:\n<STAT1>
+@@ 7105 | decide | UI/exe string (no data context)
+|cFFA1D0FCRule Set|u: <STAT1>
+@@ 7106 | decide | UI/exe string (no data context)
+|cFFA1D0FCThemes|u:\n<STAT1>
+@@ 7107 | decide | UI/exe string (no data context)
+|cFFA1D0FCVeteran Mode|u is intended for players familiar with Torchlight. If the challenges become too difficult, you may need to take extra time to improve your character's abilities to progress.
+@@ 7108 | decide | UI/exe string (no data context)
+|cFFB29560Are you sure you wish to quit?|u
+@@ 7109 | decide | UI/exe string (no data context)
+|cFFD1FF7ALeft-Hand|u
+@@ 7110 | decide | UI/exe string (no data context)
+|cFFD1FF7ARight-Hand|u
+@@ 7111 | decide | UI/exe string (no data context)
+|cFFE0E0E0Damage: <STAT1>-<STAT2>|u
+@@ 7112 | decide | UI/exe string (no data context)
+|cFFEAAA15( * Restart Required )|u
+@@ 7113 | decide | UI/exe string (no data context)
+|cFFEAAA15<STAT1>|u
+@@ 7114 | decide | UI/exe string (no data context)
+|cFFEAAA15Additional Artwork|u
+@@ 7115 | decide | UI/exe string (no data context)
+|cFFEAAA15Appearance|u
+@@ 7116 | decide | UI/exe string (no data context)
+|cFFEAAA15Built Using|u
+@@ 7117 | decide | UI/exe string (no data context)
+|cFFEAAA15Character Name|u
+@@ 7118 | decide | UI/exe string (no data context)
+|cFFEAAA15Dexterity|u increases the chance to perform |cFFA1D0FCcritical strikes|u and |cFFA1D0FCdodge|u enemy attacks. Dexterity also increases |cFFA1D0FCfumble recovery|u.
+@@ 7119 | decide | UI/exe string (no data context)
+|cFFEAAA15Difficulty|u
+@@ 7120 | decide | UI/exe string (no data context)
+|cFFEAAA15Face|u
+@@ 7121 | decide | UI/exe string (no data context)
+|cFFEAAA15Focus|u increases |cFFA1D0FCmana|u (MP) and all |cFFA1D0FCelemental damage|u.  Focus also increases the chance to |cFFA1D0FCexecute|u (strike with both hands simultaneously).
+@@ 7122 | decide | UI/exe string (no data context)
+|cFFEAAA15Hair Color|u
+@@ 7123 | decide | UI/exe string (no data context)
+|cFFEAAA15Hair|u
+@@ 7124 | decide | UI/exe string (no data context)
+|cFFEAAA15Hardcore Mode|u
+@@ 7125 | decide | UI/exe string (no data context)
+|cFFEAAA15Klei Entertainment|u
+@@ 7126 | decide | UI/exe string (no data context)
+|cFFEAAA15Level <STAT1>|u
+@@ 7127 | decide | UI/exe string (no data context)
+|cFFEAAA15Level <STAT1>|u  <STAT2>
+@@ 7128 | decide | UI/exe string (no data context)
+|cFFEAAA15Orchestral Recording|u
+@@ 7129 | decide | UI/exe string (no data context)
+|cFFEAAA15Perfect World|u
+@@ 7130 | decide | UI/exe string (no data context)
+|cFFEAAA15Pet Name|u
+@@ 7131 | decide | UI/exe string (no data context)
+|cFFEAAA15Runic Games|u
+@@ 7132 | decide | UI/exe string (no data context)
+|cFFEAAA15Select Class|u
+@@ 7133 | decide | UI/exe string (no data context)
+|cFFEAAA15Select Pet|u
+@@ 7134 | decide | UI/exe string (no data context)
+|cFFEAAA15Skill Points: <STAT1>|u
+@@ 7135 | decide | UI/exe string (no data context)
+|cFFEAAA15Special Thanks|u
+@@ 7136 | decide | UI/exe string (no data context)
+|cFFEAAA15Stat Points|u
+@@ 7137 | decide | UI/exe string (no data context)
+|cFFEAAA15Strength|u increases |cFFA1D0FCall weapon damage |uas well as the amount of bonus damage done when performing |cFFA1D0FCcritical strikes|u.
+@@ 7138 | decide | UI/exe string (no data context)
+|cFFEAAA15Thank you for playing!|u
+@@ 7139 | decide | UI/exe string (no data context)
+|cFFEAAA15Vitality|u increases |cFFA1D0FChealth|u (HP), total |cFFA1D0FCarmor|u and the chance to |cFFA1D0FCblock|u with shields.
+@@ 7140 | decide | UI/exe string (no data context)
+|cFFEAAA15Voice Talent|u
+@@ 7141 | decide | UI/exe string (no data context)
+|cFFF2BF4D<STAT1>|u
+@@ 7142 | decide | UI/exe string (no data context)
+|cFFF2BF4DAvg. Item Level:|u\n <STAT1>
+@@ 7143 | decide | UI/exe string (no data context)
+|cFFF2BF4DTime Played:|u\n <STAT1>
+@@ 7144 | decide | UI/exe string (no data context)
+|cFFF5DB94-You Found-|u 
+@@ 7145 | decide | UI/exe string (no data context)
+|cFFF5DB94<STAT1>|u
+@@ 7146 | decide | UI/exe string (no data context)
+|cFFF5DB94<STAT1>|u demands you fight on!
+@@ 7147 | decide | UI/exe string (no data context)
+|cFFF5DB94<STAT1>|u loves you.
+@@ 7148 | decide | UI/exe string (no data context)
+|cFFF5DB94Animation|u\nJeff Agala\nAaron Bouthillier\nAllan Cortez\nJordan Krahn\nEugene Trakhtenberg\n\n|cFFF5DB94Backgrounds|u\nMeghan Shaw\nVangelis Christou
+@@ 7149 | decide | UI/exe string (no data context)
+|cFFF5DB94At Current Level|u
+@@ 7150 | decide | UI/exe string (no data context)
+|cFFF5DB94Attack Statistics|u
+@@ 7151 | decide | UI/exe string (no data context)
+|cFFF5DB94Crest of Pools|u
+@@ 7152 | decide | UI/exe string (no data context)
+|cFFF5DB94Crest of Rivers|u
+@@ 7153 | decide | UI/exe string (no data context)
+|cFFF5DB94Crest of Tides|u
+@@ 7154 | decide | UI/exe string (no data context)
+|cFFF5DB94Defense Statistics|u
+@@ 7155 | decide | UI/exe string (no data context)
+|cFFF5DB94Director|u \nJeff Agala\n\n|cFFF5DB94Production Coordinator |u\nSharon Roberts\n\n\n|cFFF5DB94Sound |u\nAlan Wong-Moon\nMatthew Marteinsson
+@@ 7156 | decide | UI/exe string (no data context)
+|cFFF5DB94Engineer|u\nHubert Geschwandtner\n\n|cFFF5DB94Producer|u\nEmil Niznansky\n\n|cFFF5DB94Orchestra Management|u\nMarian Turner\n\n|cFFF5DB94Score Preparation|u\nJason Poss and Danita Ng-Poss
+@@ 7157 | decide | UI/exe string (no data context)
+|cFFF5DB94Game Data|u
+@@ 7158 | decide | UI/exe string (no data context)
+|cFFF5DB94General Statistics|u
+@@ 7159 | decide | UI/exe string (no data context)
+|cFFF5DB94Mask of Kings|u
+@@ 7160 | decide | UI/exe string (no data context)
+|cFFF5DB94Mask of Queens|u
+@@ 7161 | decide | UI/exe string (no data context)
+|cFFF5DB94Mask of Wariz|u
+@@ 7162 | decide | UI/exe string (no data context)
+|cFFF5DB94Miscellaneous Statistics|u
+@@ 7163 | decide | UI/exe string (no data context)
+|cFFFF0000-<STAT1>%|u
+@@ 7164 | decide | UI/exe string (no data context)
+|cFFFF0000Hardcore|u
+@@ 7165 | decide | UI/exe string (no data context)
+|cFFFF0000You Have Perished!|u
+@@ 7166 | decide | UI/exe string (no data context)
+|cFFFFBF61A Gem Socket|u
+@@ 7167 | decide | UI/exe string (no data context)
+|cFFFFBF61Firewood Needed|u
+@@ 7168 | decide | UI/exe string (no data context)
+|cFFFFBF61Gem Needed|u
+@@ 7169 | decide | UI/exe string (no data context)
+|cFFFFBF61Insufficient Funds|u
+@@ 7170 | decide | UI/exe string (no data context)
+|cFFFFBF61Locked|u
+@@ 7171 | decide | UI/exe string (no data context)
+|cFFFFBF61Needs Gem|u
+@@ 7172 | decide | UI/exe string (no data context)
+|cFFFFBF61Needs Plunger|u
+@@ 7173 | decide | UI/exe string (no data context)
+|cFFFFBF61Needs Souls|u
+@@ 7174 | decide | UI/exe string (no data context)
+|cFFFFBF61Not Enough Crab Legs|u
+@@ 7175 | decide | UI/exe string (no data context)
+|cFFFFBF61Shovel Needed|u

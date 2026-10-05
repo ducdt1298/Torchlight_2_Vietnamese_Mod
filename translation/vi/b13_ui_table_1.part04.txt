@@ -1,0 +1,280 @@
+@@ 6200
+Lọc theo khoảng cấp
+@@ 6201
+Lọc theo khoảng cấp
+@@ 6202
+Lọc theo tiền tố tên
+@@ 6203
+Final Boss Room
+@@ 6204
+Vòng cuối
+@@ 6205
+Giáp Fire
+@@ 6206
+Kháng Fire
+@@ 6207
+Phát hiện sự cố tường lửa!
+@@ 6208
+First Mate
+@@ 6209
+May mắn câu cá cộng thêm
+@@ 6210
+Flammable Lantern
+@@ 6211
+Sát thương & chữ nổi
+@@ 6212
+Sát thương & chữ nổi quy định cách hiển thị các con số và \nchữ thông báo nổi trên đầu nhân vật người chơi và quái trong game.\n\nĐầy đủ - Hiển thị mọi sự kiện\nNormal - Ẩn các sự kiện đỡ đòn, gạt đòn, vỡ Shield và hấp thụ sát thương\nTối giản - Chỉ hiển thị sát thương chí mạng, đòn kết liễu và sự kiện nhiệm vụ/hệ thống\nKhông - Chỉ hiển thị sự kiện nhiệm vụ/hệ thống
+@@ 6213
+Flying Fish School
+@@ 6214
+Focus cộng thêm
+@@ 6215
+Quên mật khẩu
+@@ 6216
+Bạn quên mật khẩu?
+@@ 6217
+Forgotten Chamber
+@@ 6218
+Forsaken Gate
+@@ 6219
+Bạn bè
+@@ 6220
+Bạn bè
+@@ 6221
+Danh sách bạn bè
+@@ 6222
+Chỉ bạn bè
+@@ 6223
+Kỹ năng Frost
+@@ 6224
+Toàn màn hình
+@@ 6225
+Tỉ lệ Fumble
+@@ 6226
+Mức phạt sát thương khi Fumble
+@@ 6227
+Phục hồi Fumble
+@@ 6228
+Tên phòng
+@@ 6229
+Tên phòng đã tồn tại
+@@ 6230
+Bậc của phòng
+@@ 6231
+Cài đặt game
+@@ 6232
+Chỉ hiển thị phòng có cấp chênh lệch với cấp của bạn trong phạm vi này
+@@ 6233
+Chỉ phòng có bạn bè tham gia
+@@ 6234
+Gel
+@@ 6235
+Gem Rescue Challenge
+@@ 6236
+Gem Saver
+@@ 6237
+Gem Smasher
+@@ 6238
+Gems
+@@ 6239
+Dâng lễ vật
+@@ 6240
+Ô Gloves (Trống)
+@@ 6241
+Đến trang web Runic Accounts
+@@ 6242
+Gold Chest
+@@ 6243
+Vàng rơi cộng thêm
+@@ 6244
+Thưởng vàng
+@@ 6245
+Vàng thu được từ việc bán vật phẩm.
+@@ 6246
+Vàng thu được từ việc bán vật phẩm. Không đủ tiền để mua những món đã yêu cầu.
+@@ 6247
+Vàng thu được từ việc bán vật phẩm.\n\nPet của bạn cũng đã mang về một số món được chọn. Không đủ tiền để mua tất cả các món đã yêu cầu.
+@@ 6248
+Vàng thu được từ việc bán vật phẩm.\n\nPet của bạn cũng đã mang về các món bạn chọn.
+@@ 6249
+Grand Illusion
+@@ 6250
+Grave of a Fallen Warrior
+@@ 6251
+Gravedeep
+@@ 6252
+Chào lữ khách!\nMột thành viên trong đoàn của chúng tôi đã mạo hiểm đến Zeryphesh để tìm một Iridian Focus thay thế. Trên đường trở về, một bầy Ratlin hung ác đã tấn công anh ấy và cướp mất Focus!\nBạn có thể đến Mesa ngay phía bắc đây và thử giành lại Iridian Focus từ lũ súc sinh xảo trá đó không?
+@@ 6253
+Chế độ Hardcore nghĩa là cái chết là VĨNH VIỄN! Chỉ dành cho người dũng cảm.
+@@ 6254
+Hardware Skinning *
+@@ 6255
+Hồi máu cho người chơi và đồng minh
+@@ 6256
+Máu
+@@ 6257
+Hồi phục máu
+@@ 6258
+Ô Helmet (Trống)
+@@ 6259
+Trợ giúp
+@@ 6260
+Giúp chúng tôi với, bạn ơi!  Lũ Goblin này dường như không bao giờ hết!
+@@ 6261
+Cứu với!
+@@ 6262
+Cứu với! Làm ơn ... cứu tôi!
+@@ 6263
+Cứu với! Làm ơn ... cứu chúng tôi!
+@@ 6264
+Cao
+@@ 6265
+Sát thương gây ra cao nhất
+@@ 6266
+Sát thương nhận vào cao nhất
+@@ 6267
+Hood
+@@ 6268
+Kỹ năng Hunter
+@@ 6269
+I
+@@ 6270
+Tôi không biết cảm ơn bạn thế nào cho đủ vì đã giúp tôi!
+@@ 6271
+Tôi không biết mình có thoát khỏi hang động này được không, nhưng làm ơn:  Hãy cứu tất cả những người khác mà bạn có thể!
+@@ 6272
+Chắc là mọi chuyện đều tốt đẹp, miễn là kết thúc bằng việc tôi không bị quái vật ăn thịt.
+@@ 6273
+Tôi chỉ cần vài phút để thanh tẩy Tranquil Censer ... Nó đã chạm đất, và giờ đã bị ô uế. Nó bị vấy bẩn bởi vết nhơ của tà thuật gọi hồn ...\n... thật ra, tôi nghĩ đó chỉ là bụi đất thôi. Chắc tôi chỉ cần lau bóng nó là được. Tôi chắc là sẽ ổn thôi.
+@@ 6274
+Tôi thật sự nên cẩn thận hơn. Cha tôi lúc nào cũng nói: "Con thật sự nên cẩn thận hơn." Chắc tôi nên thôi nói chuyện với người lạ nhỉ?\n\nỪm ...\n\nTôi nên đi thôi.
+@@ 6275
+Tôi muốn tặng bạn thứ này, để tỏ lòng biết ơn!
+@@ 6276
+Tôi e là đã quá muộn với phần lớn những người lính này. Họ sẽ không còn được thấy Zeryphesh nữa.
+@@ 6277
+Tôi e là đã quá muộn với những người lính này.
+@@ 6278
+Tôi chắc chúng ta sẽ gặp lại nhau, vào một ngày nào đó ... có lẽ bạn sẽ không nhớ tôi, nhưng tôi sẽ nhớ bạn.
+@@ 6279
+GIÁM ĐỊNH?
+@@ 6280
+II
+@@ 6281
+III
+@@ 6282
+Không thể dùng IME ở chế độ toàn màn hình.\nĐể dùng IME, hãy bật\n|cFFEAAA15chế độ Cửa sổ toàn màn hình|u\ntrong menu Cài đặt.
+@@ 6283
+CHÊNH LỆCH CẤP KHÔNG HỢP LỆ
+@@ 6284
+TÊN MÁY CHỦ KHÔNG HỢP LỆ
+@@ 6285
+VẬT PHẨM
+@@ 6286
+Giáp Ice
+@@ 6287
+Ice Caves
+@@ 6288
+Ice Caves Boss
+@@ 6289
+Kháng Ice
+@@ 6290
+Nếu chọn tùy chọn này, kết quả của bạn sẽ
+@@ 6291
+Nếu bạn chết, các rương sẽ biến mất.
+@@ 6292
+Nếu đang giận, hãy đếm đến mười rồi giết, giết, giết tiếp!
+@@ 6293
+Thắp các Brazier theo thứ tự
+@@ 6294
+Tưởng nhớ\nBen Boos
+@@ 6295
+Tăng tỉ lệ câu được cá tốt hơn
+@@ 6296
+Tăng tỉ lệ tìm được chiến lợi phẩm ma thuật\ncấp cao hơn từ quái và rương
+@@ 6297
+Tăng giáp Physical và Elemental
+@@ 6298
+Tăng tỉ lệ đỡ đòn bằng Shield
+@@ 6299
+Tăng tỉ lệ né tránh đòn đánh của kẻ địch
+@@ 6300
+Tăng tỉ lệ gạt đòn của kẻ địch khi dùng vũ khí cận chiến
+@@ 6301
+Tăng tỉ lệ tung đòn chí mạng\n
+@@ 6302
+Tăng tỉ lệ đánh đồng thời bằng hai vũ khí cùng loại
+@@ 6303
+Tăng sát thương gây ra bởi vũ khí
+@@ 6304
+Tăng sát thương của đòn chí mạng
+@@ 6305
+Tăng sát thương phép của vũ khí và kỹ năng
+@@ 6306
+Infected Hive
+@@ 6307
+Kỹ năng Inferno
+@@ 6308
+Nguyên liệu
+@@ 6309
+Xem thông tin
+@@ 6310
+Xem thông tin người chơi
+@@ 6311
+Internet
+@@ 6312
+Mô tả không hợp lệ
+@@ 6313
+Bảng hành trang
+@@ 6314
+Hành trang [[KB:InventoryMenu]]
+@@ 6315
+Có vẻ bạn đã tìm thấy cơ thể của tôi.  Rất tốt.  Đây là nơi lưu trữ ký ức của tôi, bao gồm cả vị trí của nhiều kho báu được cất giấu.  Tôi có thể chia sẻ chúng với bạn, nếu bạn giúp tôi thu hồi những bộ phận còn lại.\n\nChúng ta nên bắt đầu với |cFFD1FF7ACognition Linkage|u của tôi.  Thiếu nó, tôi chẳng thể làm gì hơn ngoài việc lặp lại thông điệp này.  Cảm biến của tôi cho biết nó ở đâu đó gần đây.  Hãy tìm và lắp lại nó, rồi tôi sẽ chỉ cho bạn đường đến một trong những kho báu đó.
+@@ 6316
+Đã ... quá muộn cho tôi rồi. Tôi đã Tan Rã. Tôi đã mong ... đi được tới quán trọ của loài người, nhưng có vẻ tôi sẽ ... bỏ mạng tại đây. Có đồng tộc nào khác của tôi tới được đó không? À ... tôi hiểu rồi, không ai cả.\n\nCó lẽ bạn ... đã đến quá muộn. Người Estherian đang chết dần. Chúng tôi đang bị ... hòa tan ... bởi một bệnh dịch. Một bệnh dịch ma thuật. Có người đang ... cố giúp đỡ ... người bạn Syl của chúng tôi, và vị Alchemist loài người. Không có gì ... hiệu quả cả. Thời của chúng tôi ... đang cạn dần ...
+@@ 6317
+Bổn phận của tôi là chăm lo cho các Honored Dead.  Nhưng họ đang nổi giận, và đã trỗi dậy khỏi mộ!\n\nTranquil Censer sẽ giúp họ bình tâm trở lại.  Nhưng họ đã tấn công tôi, và trong lúc giằng co, tôi đã đánh rơi nó. Bạn có thể giúp tôi lấy lại nó không?\n
+@@ 6318
+May mà có bạn đến!  Xin nhận lấy thứ này, để tỏ lòng biết ơn của tôi.  Giờ thì, nếu bạn không phiền, ngài Đại sứ muốn nói chuyện với bạn.
+@@ 6319
+Hiển thị vật phẩm
+@@ 6320
+Jackal Bass Hole
+@@ 6321
+Tham gia
+@@ 6322
+Vào phòng
+@@ 6323
+Vào phòng đã chọn
+@@ 6324
+Justin Miller\nLeo Miller\nMatt Munroe\nAdam Perin\nWonder Russell\nErich Schaefer\nMax Schaefer\nTim Swope\nJamus Thayn\nMatt Tinari\nMatt Tanwanteng\nJesse Tucker\nColin Turner\nMatt Uelmen\nBrian Ward\nAaron Wardell\nJD Wiker\nMatt Wyatt\nJolene Ziegler\n
+@@ 6325
+Phím
+@@ 6326
+Chìa khóa
+@@ 6327
+Đuổi
+@@ 6328
+King's Mail Cervelliere
+@@ 6329
+LAN
+@@ 6330
+Phòng LAN
+@@ 6331
+LMB
+@@ 6332
+ĐÃ KHÓA
+@@ 6333
+Ladder Up
+@@ 6334
+Lady Vengeance
+@@ 6335
+Chơi LAN
+@@ 6336
+Ngôn ngữ *
+@@ 6337
+Largemouth Hole
+@@ 6338
+Rời khỏi\nEmberscratch Minehead
+@@ 6339
+Rời khỏi\nEstherian Refuge

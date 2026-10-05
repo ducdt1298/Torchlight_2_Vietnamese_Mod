@@ -1,0 +1,80 @@
+@@ 2546
+Cả đội đã chết hết sao? Chỉ còn mình tôi thôi ư? Tôi không thể tin nổi...\n\nBạn sẽ phải tự mình tiến lên thôi - tôi cần quay về trại để báo cáo với Vale.\n\nỞ ngoài này hãy cẩn thận nhé.\n
+@@ 2547
+Lối vào Scrapworks đã bị một vụ sập đá chặn lại. Một đội Vanquisher đang lục soát |cFFD1FF7AAbandoned Sawmill|u với hy vọng tìm được ít |cFFD1FF7Adynamite|u để dọn đống đổ nát - nhưng họ vẫn chưa quay về. Hãy điều tra Abandoned Sawmill, tìm dynamite và đội lính mất tích.
+@@ 2548
+Mang |cFFD1FF7Adynamite|u về cho đội trưởng Vanquisher ở |cFFD1FF7ABlightbogs|u và cho anh ta biết số phận của lính mình. Dùng dynamite phá chỗ đá sập, rồi lấy |cFFD1FF7APower Source|u về cho Professor Stoker.
+@@ 2549
+- Tìm |cFFD1FF7Adynamite|u trong |cFFD1FF7AAbandoned Sawmill|u ở Blightbogs.
+@@ 2550
+- Dùng |cFFD1FF7Adynamite|u để mở lối vào |cFFD1FF7AScrapworks|u ở Blightbogs.
+@@ 2551
+Vậy ra Professor cử bạn đi tìm |cFFD1FF7APower Source|u à? Chúng tôi cũng làm cùng nhiệm vụ đó, nhưng lối duy nhất đến Scrapworks lại phải đi xuyên qua đống đá kia.\n\nTôi biết hồi |cFFD1FF7AAbandoned Sawmill|u còn hoạt động, ở đó từng có rất nhiều thuốc nổ - chỉ cần một ít |cFFD1FF7Adynamite|u là chắc sẽ xong việc ở đây.\n\nTôi đã cử đội của mình đi lấy, nhưng chưa nghe được tin tức gì. Nếu bạn có thể lên đó lấy chỗ dynamite ấy, tất cả chúng ta đều có thể đi qua và mang về cho Professor thứ ông ấy cần.\n
+@@ 2552
+Nếu bạn muốn có Power Source đó, chúng ta sẽ cần thứ gì đó có sức nổ ra trò. Tôi nghĩ là ít |cFFD1FF7Adynamite|u ở |cFFD1FF7AAbandoned Sawmill|u. Mong là lính của tôi đã lấy được nó rồi.\n
+@@ 2553
+Đã quá muộn cho tôi rồi, người lạ - hẳn bạn cũng thấy rõ điều đó. Jessa tuyệt đối không được vào nơi này - đừng để con bé vào!\n\nTôi quả thật đã tìm ra |cFFD1FF7AWraithring|u, nhưng nó không hề thiếu kẻ canh giữ. Chính |cFFD1FF7AWraith Lord|u đã dùng sức mạnh của nó cướp đi mạng sống của tôi, và hài cốt của tôi giờ đang nằm bên dưới chúng ta.
+@@ 2554
+Tìm |cFFD1FF7ARotting Crypt|u ở |cFFD1FF7ABlightbogs|u. Khám phá số phận của cha Jessa.
+@@ 2555
+Tìm |cFFD1FF7ARotting Crypt|u ở |cFFD1FF7ABlightbogs|u. Khám phá số phận của cha Jessa và mang bằng chứng về cho Jessa.
+@@ 2556
+- Khám phá số phận của |cFFD1FF7Acha Jessa|u trong |cFFD1FF7ARotting Crypt|u ở |cFFD1FF7ABlightbogs|u.
+@@ 2557
+Làm ơn, lữ khách! Chờ một chút! Tôi là Jessa - một lữ khách đến từ Estheria. Cha tôi và tôi đến nơi này để thu hồi một cổ vật - |cFFD1FF7AWraithring|u - thứ được cho là có quyền năng chi phối cả cái chết. Chúng tôi muốn đem nó về các đền thờ Estherian để nghiên cứu.\n\nCha tôi đã tiến vào hầm mộ trong lúc tôi trông coi trại - nhưng ông vẫn chưa quay lại, và có những thứ đen tối đang cựa quậy dưới đó.\n\nLàm ơn - tôi chỉ xin bạn tìm hiểu |cFFD1FF7Asố phận của cha tôi|u - biết đâu ông chỉ bị thương và cần người giúp để thoát ra!\n\nNếu điều tồi tệ nhất đã xảy ra ... ông có đeo một chiếc mặt dây chuyền |cFFD1FF7ALocket|u trên cổ, nhờ nó bạn sẽ nhận ra ông.
+@@ 2558
+Làm ơn, bạn phải tìm ra số phận của cha tôi! Hãy nhớ, ông luôn đeo một chiếc mặt dây chuyền |cFFD1FF7ALocket|u độc nhất vô nhị.\n\nTôi phải biết liệu ông có còn sống không!
+@@ 2559
+Than ôi - người cha tội nghiệp của tôi... Tôi không thể tin là ông đã ra đi. Tôi phải trở về Estheria - tôi không thể ở lại đây thêm nữa.\n\nCảm ơn bạn, lữ khách. Nỗi đau của tôi thật lớn, nhưng ít ra tôi đã biết chuyện gì xảy đến với ông, và còn có chiếc Locket của ông để tưởng nhớ.\n\nVĩnh biệt...
+@@ 2560
+Đánh bại |cFFD1FF7AWraith Lord|u và thu hồi |cFFD1FF7ALocket|u từ |cFFD1FF7ARotting Crypt|u ở Blightbogs.
+@@ 2561
+Mang |cFFD1FF7ALocket|u về cho Jessa ở |cFFD1FF7ABlightbogs|u.
+@@ 2562
+- Tìm |cFFD1FF7ALocket|u trong |cFFD1FF7ARotting Crypt|u ở Blightbogs.
+@@ 2563
+- Mang |cFFD1FF7ALocket|u về cho Jessa ở |cFFD1FF7ABlightbogs|u.
+@@ 2564
+Tôi bị trói buộc ở nơi này và không thể bước qua ngưỡng cửa kia.\n\nNếu bạn muốn tìm hài cốt của tôi, bạn phải tìm những viên |cFFD1FF7ASanguine Gems|u - chúng nằm ở sâu phía trong. Hãy đặt chúng lên những bệ thờ này, và con đường dẫn tới Wraith Lord sẽ hiện ra.\n\nNếu bạn đánh bại được hắn, bạn sẽ tìm thấy hài cốt của tôi ở đó - cùng chiếc |cFFD1FF7ALocket|u mà Jessa đang tìm.
+@@ 2565
+Ôi, người cha tội nghiệp của tôi - tôi không thể tin là ông đã ra đi! Cha ơi...\n\nXin hãy cố lấy lại chiếc Locket - tôi không chịu nổi khi nghĩ rằng nó bị thất lạc ở nơi ghê tởm này.
+@@ 2566
+Tôi đã bỏ mạng trong tay Wraith Lord. Để tìm |cFFD1FF7ALocket|u, bạn phải vào sào huyệt của hắn - và lối vào chỉ có thể được mở bằng |cFFD1FF7ASanguine Gems|u.\n\nNếu bạn lấy được chúng từ hầm mộ và đặt chúng lên những bệ thờ này, con đường sẽ mở ra cho bạn.
+@@ 2567
+Con Boombot đó dám dùng Azimuthoscope của tôi làm vũ khí! Thật tầm thường đến phát bực! Lũ máy móc quân sự này chẳng biết tôn trọng một nghệ sĩ chân chính gì cả.\n\nNhưng tôi lạc đề rồi. Tôi dùng Azimuthoscope dẫn đường cho bạn đến một kho báu khác nhé?
+@@ 2568
+Lần theo dấu vết |cFFD1FF7ATrillbot Parts|u ở |cFFD1FF7ABlightbogs|u. Tìm |cFFD1FF7AAzimuthoscope|u của Trillbot trong |cFFD1FF7A[RANDOM DUNGEON]|u.
+@@ 2569
+Lắp |cFFD1FF7AAzimuthoscope|u vào |cFFD1FF7ATrillbot 4000|u.
+@@ 2570
+- Lần theo dấu vết |cFFD1FF7ATrillbot Parts|u đến |cFFD1FF7A[RANDOM DUNGEON]|u
+@@ 2571
+- Thu hồi |cFFD1FF7AAzimuthoscope|u của Trillbot
+@@ 2572
+Tôi tin là bạn đã tìm thấy một trong những bộ phận bị thất lạc của tôi! Có vẻ như chúng rải thành một vệt dẫn về phía [RANDOM DUNGEON] kia.\n\nNếu bạn lần theo dấu vết các bộ phận của tôi, có thể nó sẽ dẫn bạn đến |cFFD1FF7AAzimuthoscope|u của tôi: bộ phận tôi cần để chỉ đường cho bạn đến một kho báu khác!
+@@ 2573
+Azimuthoscope sẽ giúp tôi xác định khoảng cách và phương hướng hiệu quả hơn. Nếu bạn tìm và lắp nó lại cho tôi, tôi sẽ dẫn đường cho bạn đến những kho báu tôi đã nhắc đến tốt hơn nhiều.
+@@ 2574
+Ồ, đúng rồi - ngươi đã tìm được mọi thứ ta cần!\n\nMẻ thuốc này quả thật sẽ biến ngươi thành huyền thoại - với những nguyên liệu hảo hạng này cho vào vạc, ta, Cacklespit, có thể ra lệnh cho người chết trỗi dậy khỏi giấc ngủ ngàn thu và làm theo ý ta!\n\nNgươi sẽ được nhớ đến muôn đời như kẻ ngốc đã mang lại cho Cacklespit sức mạnh tối thượng, và mang lại khổ đau cho cả thế gian! Với một đạo quân xác sống trong tay, không ai có thể chống lại ta!\n\nHẹn ngày gặp lại, bạn hiền!
+@@ 2575
+Bạn đã triệu hồi |cFFD1FF7ACacklespit|u - một mụ phù thủy đã hứa sẽ nấu cho bạn một loại Potion đặc biệt. Mụ cần ba nguyên liệu:\n\n|cFFD1FF7AMask of a Murderer|u, |cFFD1FF7AThorns as Hard as Iron|u và |cFFD1FF7ABlack Heart of a Coward|u.\n\nCả ba đều có thể tìm thấy ở |cFFD1FF7ABlightbogs|u\n\n
+@@ 2576
+Bạn đã thu thập đủ cả ba nguyên liệu cho |cFFD1FF7ACacklespit|u. Hãy mang chúng về cho mụ ở |cFFD1FF7ABlightbogs|u để nhận thưởng
+@@ 2577
+- Thu thập nguyên liệu cho Cacklespit:\n  |cFFD1FF7AMask of a Murderer|u\n  |cFFD1FF7AThorns as Hard as Iron|u\n  |cFFD1FF7ABlack Heart of a Coward|u
+@@ 2578
+- Quay về gặp |cFFD1FF7ACacklespit|u ở |cFFD1FF7ABlightbogs|u
+@@ 2579
+Lại thêm một vị khách tìm đến thuốc của mụ |cFFD1FF7ACacklespit|u già này hả? Ta có thể nấu cho ngươi một món thuốc đặc biệt, miễn phí...nếu ngươi không ngại bẩn tay một chút.\n\nĐầu bếp thực thụ nào cũng sẽ nói với ngươi rằng nguyên liệu hảo hạng là điều quan trọng bậc nhất nếu muốn tạo ra thứ gì đó thật sự đặc biệt. Ta sẽ cần ba món để nấu hỗn hợp đặc biệt mà ta đang tính đến...\n\n|cFFD1FF7AMask of a Murderer|u, |cFFD1FF7AThorns as Hard as Iron|u và |cFFD1FF7ABlack Heart of a Coward|u.\n\nCả ba đều ở ngay trong đầm lầy này - ngươi chỉ việc tìm ra chúng thôi!
+@@ 2580
+Nhưng có vẻ ngươi chưa có thứ ta cần!\n\nNhớ đấy - ngươi phải mang cho ta |cFFD1FF7AMask of a Murderer|u, |cFFD1FF7AThorns as Hard as Iron|u và |cFFD1FF7ABlack Heart of a Coward|u.\n\nMột khi ta nấu chúng đúng cách, tên tuổi của ngươi sẽ được lưu truyền qua bao thế hệ!
+@@ 2581
+Tìm |cFFD1FF7AFade|u ở |cFFD1FF7ASundered Battlefield|u. Bạn cần sự giúp đỡ của hắn để đến được |cFFD1FF7ACacklespit's Realm|u.
+@@ 2582
+Tìm |cFFD1FF7AFade|u ở |cFFD1FF7ASundered Battlefield|u
+@@ 2583
+Vì bạn đã giúp chúng tôi lúc hoạn nạn, chúng tôi vẫn luôn tìm cách đền đáp ơn này.\n\nCó vẻ bạn đã gặp rắc rối bất ngờ với mụ phù thủy |cFFD1FF7ACacklespit|u. Tôi đã nghiên cứu một chút, và nếu bạn muốn tìm mụ, tôi nghĩ tôi có thể giúp!\n\nTheo những truyền thuyết tôi chắp nối được, có một lối đi bí mật dẫn đến cõi giới ẩn giấu của mụ. Linh hồn |cFFD1FF7AFade|u có thể mở lối đi đó - nhưng hắn có thể sẽ đòi thứ gì đó để đổi lại. Bạn sẽ phải đến |cFFD1FF7ASundered Battlefield|u ở phía bắc. Hãy tìm những điện thờ đánh dấu nơi an nghỉ của |cFFD1FF7AFade|u. Mong là điều này giúp ích cho bạn trên đường đi!
+@@ 2584
+Mong là những thông tin chúng tôi cung cấp sẽ giúp ích cho bạn trong cuộc tìm kiếm!
+@@ 2585
+Tôi sẽ tiếp tục nghiên cứu với hy vọng tìm thêm thông tin giúp bạn. Hãy nhớ, bạn cần nói chuyện với |cFFD1FF7AFade|u để vào được |cFFD1FF7ACacklespit's Realm|u.

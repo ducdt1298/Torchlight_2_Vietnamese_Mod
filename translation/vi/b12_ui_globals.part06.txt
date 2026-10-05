@@ -1,0 +1,230 @@
+@@ 5665
+Xác sống đã tiêu diệt
+@@ 5666
+Varkolyn đã tiêu diệt
+@@ 5667
+Hiệu ứng có lợi Leyline
+@@ 5668
+Bộ đếm tạo Leyline
+@@ 5669
+Magic
+@@ 5670
+Mana
+@@ 5671
+Máu tối đa
+@@ 5672
+Mana tối đa
+@@ 5673
+Số đòn đánh
+@@ 5674
+Phần trăm Charge
+@@ 5675
+Số Charge
+@@ 5676
+Người chơi đã đầy Charge
+@@ 5677
+Thưởng Railman
+@@ 5678
+Diệt Zombie
+@@ 5679
+Chỉ số Shadow Bind
+@@ 5680
+Giáp khiên
+@@ 5681
+Bước vào trạng thái giác ngộ, thi triển Spell không tốn Mana và tăng mạnh tốc độ thi triển
+@@ 5682
+Hút máu khi đánh trúng kẻ địch đang bị thiêu đốt
+@@ 5683
+Hồi phục Mana khi đánh trúng kẻ địch bị đóng băng
+@@ 5684
+Tăng sát thương khi đánh trúng kẻ địch bị nhiễm điện
+@@ 5685
+Nhận Mana khi đánh chí mạng
+@@ 5686
+Bước vào trạng thái Berserk, luôn đánh chí mạng và gây thêm sát thương chí mạng. Mỗi đòn chí mạng tiêu hao một ít Charge cho đến khi thanh cạn
+@@ 5687
+Khi chí mạng và đang cuồng nộ, bắt đầu đếm giờ
+@@ 5688
+Tích Charge nhanh hơn sau khi Execute
+@@ 5689
+Kích hoạt Frenzy khi hạ gục kẻ địch
+@@ 5690
+Hồi máu khi đánh chí mạng
+@@ 5691
+Triệu hồi một Red Wolf tấn công kẻ địch khi bạn đánh chí mạng
+@@ 5692
+Phản đòn những kẻ địch trong tầm cận chiến đang tấn công bạn
+@@ 5693
+|cFFEAAA15Augmented Weapon:\n     Tiêu diệt 5 Ratlin để nâng cấp (đã diệt <stat:GOALFLAG1>/5)
+@@ 5694
+|cFFEAAA15Augmented Weapon:\n     Tiêu diệt 250 quái để nâng cấp (đã diệt <stat:killcount_any>/250)
+@@ 5695
+|cFFEAAA15Augmented Weapon:\n     Tiêu diệt 25 quái để nâng cấp (đã diệt <stat:killcount_any>/25)
+@@ 5696
+|cFFEAAA15Augmented Weapon:\n     Tiêu diệt 10 quái Champion để nâng cấp (đã diệt <stat:killcount_champions>/10)
+@@ 5697
+|cFFEAAA15Augmented Weapon:\n     Tiêu diệt 100 quái Champion để nâng cấp (đã diệt <stat:killcount_champions>/100)
+@@ 5698
+|cFFEAAA15Augmented Weapon:\n     Tiêu diệt 20 Dwarf để nâng cấp (đã diệt <stat:KILLCOUNT_DWARF>/20)
+@@ 5699
+|cFFEAAA15Augmented Weapon:\n     Tiêu diệt 200 Dwarf để nâng cấp (đã diệt <stat:KILLCOUNT_DWARF>/200)
+@@ 5700
+|cFFEAAA15Augmented Weapon:\n     Tiêu diệt 50 Ezrohir để nâng cấp (đã diệt <stat:killcount_ezrohir>/50)
+@@ 5701
+|cFFEAAA15Augmented Weapon:\n     Tiêu diệt 20 Mycon để nâng cấp (đã diệt <stat:killcount_fungus>/20)
+@@ 5702
+|cFFEAAA15Augmented Weapon:\n     Tiêu diệt 200 Mycon để nâng cấp (đã diệt <stat:killcount_fungus>/200)
+@@ 5703
+|cFFEAAA15Augmented Weapon:\n     Tiêu diệt 20 Goblin để nâng cấp (đã diệt <stat:killcount_goblin>/20)
+@@ 5704
+|cFFEAAA15Augmented Weapon:\n     Tiêu diệt 20 sinh vật máy móc để nâng cấp (đã diệt <stat:killcount_mechs>/20)
+@@ 5705
+|cFFEAAA15Augmented Weapon:\n     Tiêu diệt 50 Netherim để nâng cấp (đã diệt <stat:killcount_netherim>/50)
+@@ 5706
+|cFFEAAA15Augmented Weapon:\n     Tiêu diệt 20 Spider để nâng cấp (đã diệt <stat:killcount_spiders>/20)
+@@ 5707
+|cFFEAAA15Augmented Weapon:\n     Tiêu diệt 200 Spider để nâng cấp (đã diệt <stat:killcount_spiders>/200)
+@@ 5708
+|cFFEAAA15Augmented Weapon:\n     Tiêu diệt 20 Sturmbeorn để nâng cấp (đã diệt <stat:killcount_sturmbeorn>/20)
+@@ 5709
+|cFFEAAA15Augmented Weapon:\n     Tiêu diệt 20 Trog để nâng cấp (đã diệt <stat:killcount_trogs>/20)
+@@ 5710
+|cFFEAAA15Augmented Weapon:\n     Tiêu diệt 200 Trog để nâng cấp (đã diệt <stat:killcount_trogs>/200)
+@@ 5711
+|cFFEAAA15Augmented Weapon:\n     Tiêu diệt 50 Tu'taran để nâng cấp (đã diệt <stat:killcount_tutaran>/50)
+@@ 5712
+|cFFEAAA15Augmented Weapon:\n     Tiêu diệt 100 xác sống để nâng cấp (đã diệt <stat:KILLCOUNT_UNDEAD>/100)
+@@ 5713
+|cFFEAAA15Augmented Weapon:\n     Tiêu diệt 1000 xác sống để nâng cấp (đã diệt <stat:KILLCOUNT_UNDEAD>/1000)
+@@ 5714
+|cFFEAAA15Augmented Weapon:\n     Tiêu diệt 20 Varkolyn để nâng cấp (đã diệt <stat:killcount_varkolyn>/20)
+@@ 5715
+|cFFEAAA15Augmented Weapon:\n     Tiêu diệt 200 Varkolyn để nâng cấp (đã diệt <stat:killcount_varkolyn>/200)
+@@ 5716
+|cFFEAAA15Augmented Weapon:\n     Tiêu diệt 50 Zombie để nâng cấp (đã diệt <stat:ZOMBIESLAYER>/50)
+@@ 5717
+Đòn chí mạng được cường hóa bằng sét!
+@@ 5718
+|cFFEAAA15Augmented Weapon:\n     Tiêu diệt 10 quái Champion để nâng cấp (đã diệt <stat:killcount_champions_10_attackspeed>/10)
+@@ 5719
+|cFFEAAA15Augmented Weapon:\n     Tiêu diệt 10 quái Champion để nâng cấp (đã diệt <stat:killcount_champions_10_crit>/10)
+@@ 5720
+|cFFEAAA15Augmented Weapon:\n     Tiêu diệt 10 quái Champion để nâng cấp (đã diệt <stat:killcount_champions_10_damagepct>/10)
+@@ 5721
+|cFFEAAA15Augmented Weapon:\n     Tiêu diệt 10 quái Champion để nâng cấp (đã diệt <stat:killcount_champions_10_dot>/10)
+@@ 5722
+|cFFEAAA15Augmented Weapon:\n     Tiêu diệt 10 quái Champion để nâng cấp (đã diệt <stat:killcount_champions_10_dualwield>/10)
+@@ 5723
+|cFFEAAA15Augmented Weapon:\n     Tiêu diệt 10 quái Champion để nâng cấp (đã diệt <stat:killcount_champions_10_execute>/10)
+@@ 5724
+|cFFEAAA15Augmented Weapon:\n     Tiêu diệt 10 quái Champion để nâng cấp (đã diệt <stat:killcount_champions_10_immob>/10)
+@@ 5725
+|cFFEAAA15Augmented Weapon:\n     Tiêu diệt 10 quái Champion để nâng cấp (đã diệt <stat:killcount_champions_10_knockback>/10)
+@@ 5726
+|cFFEAAA15Augmented Weapon:\n     Tiêu diệt 10 quái Champion để nâng cấp (đã diệt <stat:killcount_champions_10_lifesteal>/10)
+@@ 5727
+|cFFEAAA15Augmented Weapon:\n     Tiêu diệt 10 quái Champion để nâng cấp (đã diệt <stat:killcount_champions_10_manasteal>/10)
+@@ 5728
+|cFFEAAA15Augmented Weapon:\n     Tiêu diệt 10 quái Champion để nâng cấp (đã diệt <stat:killcount_champions_10_missilerange>/10)
+@@ 5729
+|cFFEAAA15Augmented Weapon:\n     Tiêu diệt 10 quái Champion để nâng cấp (đã diệt <stat:killcount_champions_10_proc_chaoticrift>/10)
+@@ 5730
+|cFFEAAA15Augmented Weapon:\n     Tiêu diệt 10 quái Champion để nâng cấp (đã diệt <stat:killcount_champions_10_proc_fullheal>/10)
+@@ 5731
+|cFFEAAA15Augmented Weapon:\n     Tiêu diệt 10 quái Champion để nâng cấp (đã diệt <stat:killcount_champions_10_stormclaw>/10)
+@@ 5732
+|cFFEAAA15Augmented Weapon:\n     Tiêu diệt 10 quái Champion để nâng cấp (đã diệt <stat:killcount_champions_10_proc_zombie>/10)
+@@ 5733
+|cFFEAAA15Augmented Weapon:\n     Tiêu diệt 10 quái Champion để nâng cấp (đã diệt <stat:killcount_champions_10_shieldbreaker>/10)
+@@ 5734
+|cFFEAAA15Augmented Weapon:\n     Tiêu diệt 10 quái Champion để nâng cấp (đã diệt <stat:killcount_champions_10_shortstun>/10)
+@@ 5735
+|cFFEAAA15Augmented Weapon:\n     Tiêu diệt 10 quái Champion để nâng cấp (đã diệt <stat:killcount_champions_10_splash>/10)
+@@ 5736
+|cFFEAAA15Augmented Weapon:\n     Tiêu diệt 10 quái Champion để nâng cấp (đã diệt <stat:killcount_champions_10_tangle>/10)
+@@ 5737
+|cFFEAAA15Augmented Weapon:\n     Tiêu diệt 10 quái Champion để nâng cấp (đã diệt <stat:killcount_champions_10_turnalignment>/10)
+@@ 5738
+|cFFEAAA15Augmented Weapon:\n     Tiêu diệt 250 kẻ địch để nâng cấp (đã diệt <stat:killcount_any_250_attackspeed>/250)
+@@ 5739
+|cFFEAAA15Augmented Weapon:\n     Tiêu diệt 250 kẻ địch để nâng cấp (đã diệt <stat:killcount_any_250_crit>/250)
+@@ 5740
+|cFFEAAA15Augmented Weapon:\n     Tiêu diệt 250 kẻ địch để nâng cấp (đã diệt <stat:killcount_any_250_damagepct>/250)
+@@ 5741
+|cFFEAAA15Augmented Weapon:\n     Tiêu diệt 250 kẻ địch để nâng cấp (đã diệt <stat:killcount_any_250_dot>/250)
+@@ 5742
+|cFFEAAA15Augmented Weapon:\n     Tiêu diệt 250 kẻ địch để nâng cấp (đã diệt <stat:killcount_any_250_dualwield>/250)
+@@ 5743
+|cFFEAAA15Augmented Weapon:\n     Tiêu diệt 250 kẻ địch để nâng cấp (đã diệt <stat:killcount_any_250_execute>/250)
+@@ 5744
+|cFFEAAA15Augmented Weapon:\n     Tiêu diệt 250 kẻ địch để nâng cấp (đã diệt <stat:killcount_any_250_immob>/250)
+@@ 5745
+|cFFEAAA15Augmented Weapon:\n     Tiêu diệt 250 kẻ địch để nâng cấp (đã diệt <stat:killcount_any_250_knockback>/250)
+@@ 5746
+|cFFEAAA15Augmented Weapon:\n     Tiêu diệt 250 kẻ địch để nâng cấp (đã diệt <stat:killcount_any_250_lifesteal>/250)
+@@ 5747
+|cFFEAAA15Augmented Weapon:\n     Tiêu diệt 250 kẻ địch để nâng cấp (đã diệt <stat:killcount_any_250_manasteal>/250)
+@@ 5748
+|cFFEAAA15Augmented Weapon:\n     Tiêu diệt 250 kẻ địch để nâng cấp (đã diệt <stat:killcount_any_250_missilerange>/250)
+@@ 5749
+|cFFEAAA15Augmented Weapon:\n     Tiêu diệt 250 kẻ địch để nâng cấp (đã diệt <stat:killcount_any_250_proc_chaoticrift>/250)
+@@ 5750
+|cFFEAAA15Augmented Weapon:\n     Tiêu diệt 250 kẻ địch để nâng cấp (đã diệt <stat:killcount_any_250_proc_fullheal>/250)
+@@ 5751
+|cFFEAAA15Augmented Weapon:\n     Tiêu diệt 250 kẻ địch để nâng cấp (đã diệt <stat:killcount_any_250_proc_stormclaw>/250)
+@@ 5752
+|cFFEAAA15Augmented Weapon:\n     Tiêu diệt 250 kẻ địch để nâng cấp (đã diệt <stat:killcount_any_250_proc_zombie>/250)
+@@ 5753
+|cFFEAAA15Augmented Weapon:\n     Tiêu diệt 250 kẻ địch để nâng cấp (đã diệt <stat:killcount_any_250_shieldbreaker>/250)
+@@ 5754
+|cFFEAAA15Augmented Weapon:\n     Tiêu diệt 250 kẻ địch để nâng cấp (đã diệt <stat:killcount_any_250_shortstun>/250)
+@@ 5755
+|cFFEAAA15Augmented Weapon:\n     Tiêu diệt 250 kẻ địch để nâng cấp (đã diệt <stat:killcount_any_250_splash>/250)
+@@ 5756
+|cFFEAAA15Augmented Weapon:\n     Tiêu diệt 250 kẻ địch để nâng cấp (đã diệt <stat:killcount_any_250_tangle>/250)
+@@ 5757
+|cFFEAAA15Augmented Weapon:\n     Tiêu diệt 250 kẻ địch để nâng cấp (đã diệt <stat:killcount_any_250_turnalignment>/250)
+@@ 5758
+|cFFEAAA15Augmented Weapon:\n     Tiêu diệt 25 kẻ địch để nâng cấp (đã diệt <stat:killcount_any_25_attackspeed>/25)
+@@ 5759
+|cFFEAAA15Augmented Weapon:\n     Tiêu diệt 25 kẻ địch để nâng cấp (đã diệt <stat:killcount_any_25_crit>/25)
+@@ 5760
+|cFFEAAA15Augmented Weapon:\n     Tiêu diệt 25 kẻ địch để nâng cấp (đã diệt <stat:killcount_any_25_damagepct>/25)
+@@ 5761
+|cFFEAAA15Augmented Weapon:\n     Tiêu diệt 25 kẻ địch để nâng cấp (đã diệt <stat:killcount_any_25_dot>/25)
+@@ 5762
+|cFFEAAA15Augmented Weapon:\n     Tiêu diệt 25 kẻ địch để nâng cấp (đã diệt <stat:killcount_any_25_dualwield>/25)
+@@ 5763
+|cFFEAAA15Augmented Weapon:\n     Tiêu diệt 25 kẻ địch để nâng cấp (đã diệt <stat:killcount_any_25_execute>/25)
+@@ 5764
+|cFFEAAA15Augmented Weapon:\n     Tiêu diệt 25 kẻ địch để nâng cấp (đã diệt <stat:killcount_any_25_immob>/25)
+@@ 5765
+|cFFEAAA15Augmented Weapon:\n     Tiêu diệt 25 kẻ địch để nâng cấp (đã diệt <stat:killcount_any_25_knockback>/25)
+@@ 5766
+|cFFEAAA15Augmented Weapon:\n     Tiêu diệt 25 kẻ địch để nâng cấp (đã diệt <stat:killcount_any_25_lifesteal>/25)
+@@ 5767
+|cFFEAAA15Augmented Weapon:\n     Tiêu diệt 25 kẻ địch để nâng cấp (đã diệt <stat:killcount_any_25_manasteal>/25)
+@@ 5768
+|cFFEAAA15Augmented Weapon:\n     Tiêu diệt 25 kẻ địch để nâng cấp (đã diệt <stat:killcount_any_25_missilerange>/25)
+@@ 5769
+|cFFEAAA15Augmented Weapon:\n     Tiêu diệt 25 kẻ địch để nâng cấp (đã diệt <stat:killcount_any_25_proc_chaoticrift>/25)
+@@ 5770
+|cFFEAAA15Augmented Weapon:\n     Tiêu diệt 25 kẻ địch để nâng cấp (đã diệt <stat:killcount_any_25_proc_fullheal>/25)
+@@ 5771
+|cFFEAAA15Augmented Weapon:\n     Tiêu diệt 25 kẻ địch để nâng cấp (đã diệt <stat:killcount_any_25_stormclaw>/25)
+@@ 5772
+|cFFEAAA15Augmented Weapon:\n     Tiêu diệt 25 kẻ địch để nâng cấp (đã diệt <stat:killcount_any_25_proc_zombie>/25)
+@@ 5773
+|cFFEAAA15Augmented Weapon:\n     Tiêu diệt 25 kẻ địch để nâng cấp (đã diệt <stat:killcount_any_25_shieldbreaker>/25)
+@@ 5774
+|cFFEAAA15Augmented Weapon:\n     Tiêu diệt 25 kẻ địch để nâng cấp (đã diệt <stat:killcount_any_25_shortstun>/25)
+@@ 5775
+|cFFEAAA15Augmented Weapon:\n     Tiêu diệt 25 kẻ địch để nâng cấp (đã diệt <stat:killcount_any_25_splash>/25)
+@@ 5776
+|cFFEAAA15Augmented Weapon:\n     Tiêu diệt 25 kẻ địch để nâng cấp (đã diệt <stat:killcount_any_25_tangle>/25)
+@@ 5777
+|cFFEAAA15Augmented Weapon:\n     Tiêu diệt 25 kẻ địch để nâng cấp (đã diệt <stat:killcount_any_25_turnalignment>/25)
+@@ 5778
+Bước vào trạng thái tĩnh tâm, tăng thêm DPS vũ khí và làm choáng mục tiêu kế tiếp.
+@@ 5779
+Bước vào trạng thái tập trung, tăng thêm chí mạng, né tránh và các phần thưởng khác miễn là Wanderer còn đầy Charge

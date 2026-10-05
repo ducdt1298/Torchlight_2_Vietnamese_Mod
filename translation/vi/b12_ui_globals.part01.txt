@@ -1,0 +1,240 @@
+@@ 5065
+|cFFF5DB94[PLAYERNAME] đập tay lên trán ngao ngán.|u
+@@ 5066
+|cFFF5DB94[PLAYERNAME] khoe cơ bắp.|u
+@@ 5067
+|cFFEAAA15[PLAYERNAME] tung xúc xắc được [RAND_INT_0_100].|u
+@@ 5068
+|cFFF5DB94[PLAYERNAME] vỗ tay chậm rãi đầy mỉa mai.|u
+@@ 5069
+|cFFF5DB94[PLAYERNAME] vẫy tay ra hiệu cho bạn đi theo.|u
+@@ 5070
+|cFFF5DB94[PLAYERNAME] gửi một nụ hôn gió.|u
+@@ 5071
+|cFFF5DB94[PLAYERNAME] cúi chào.|u
+@@ 5072
+|cFFF5DB94[PLAYERNAME] ợ một cái.|u
+@@ 5073
+|cFFF5DB94[PLAYERNAME] ho một tiếng.|u
+@@ 5074
+|cFFF5DB94[PLAYERNAME] nhảy múa lóng ngóng.|u
+@@ 5075
+|cFFF5DB94[PLAYERNAME] nhảy múa.|u
+@@ 5076
+|cFFF5DB94[PLAYERNAME] tuyệt vọng.|u
+@@ 5077
+|cFFF5DB94[PLAYERNAME] chẳng hiểu mô tê gì cả.|u
+@@ 5078
+|cFFF5DB94[PLAYERNAME] đang chọc phá Justin!|u
+@@ 5079
+|cFFF5DB94[PLAYERNAME] rất hối hận về việc mình vừa làm.|u
+@@ 5080
+|cFFF5DB94[PLAYERNAME] đã giành chiến thắng!|u
+@@ 5081
+|cFFF5DB94[PLAYERNAME] bật cười.|u
+@@ 5082
+|cFFF5DB94[PLAYERNAME] đập tay lên trán ngao ngán.|u
+@@ 5083
+|cFFF5DB94[PLAYERNAME] quẩy tưng bừng với dàn trống.|u
+@@ 5084
+|cFFF5DB94[PLAYERNAME] quẩy tưng bừng với cây đàn lute.|u
+@@ 5085
+|cFFF5DB94[PLAYERNAME] chào kiểu nhà binh.|u
+@@ 5086
+|cFFF5DB94[PLAYERNAME] kêu lên "Úi."|u
+@@ 5087
+|cFFF5DB94[PLAYERNAME] khoe cơ bắp.|u
+@@ 5088
+|cFFF5DB94[PLAYERNAME] tát một cái vào mặt.|u
+@@ 5089
+|cFFF5DB94[PLAYERNAME] bắt đầu khóc.|u
+@@ 5090
+|cFFF5DB94[PLAYERNAME] khiêu khích.|u
+@@ 5091
+|cFFF5DB94[PLAYERNAME] cố nhảy lên nhưng không được.|u
+@@ 5092
+|cFFF5DB94[PLAYERNAME][COMMAND_PARAM]|u
+@@ 5093
+Không thể phù phép vật phẩm
+@@ 5094
+Đã dùng lệnh console.
+@@ 5095
+phút
+@@ 5096
+giây
+@@ 5097
+Đã bỏ chặn [CHARACTERNAME].
+@@ 5098
+Bạn đã bị đuổi khỏi trận!
+@@ 5099
+Tên đăng nhập hoặc mật khẩu không hợp lệ
+@@ 5100
+Tên đăng nhập hoặc mật khẩu không hợp lệ\\nhoặc\\ntài khoản chưa được liên kết với giao dịch mua
+@@ 5101
+Tên đăng nhập hoặc mật khẩu không hợp lệ\nhoặc\ntài khoản chưa được liên kết với giao dịch mua
+@@ 5102
+|cFFFF0000Không thể tải vì thiếu một số mod (xem chi tiết mod).|u
+@@ 5103
+Đặt vật phẩm vào đây để truyền lại
+@@ 5104
+Tốc độ đánh nhanh nhất
+@@ 5105
+s
+@@ 5106
+Tốc độ đánh chậm nhất
+@@ 5107
+Bạn không câu được gì
+@@ 5108
+Bạn không câu được gì!
+@@ 5109
+Chặn thất bại - tên không hợp lệ!
+@@ 5110
+Đã gửi tin nhắn riêng.
+@@ 5111
+Số lần chết
+@@ 5112
+Đăng nhập thất bại
+@@ 5113
+Không thể kết nối đến máy chủ xác thực
+@@ 5114
+Không thể kết nối đến máy chủ xác thực.
+@@ 5115
+Vàng thu được
+@@ 5116
+Thu hồi
+@@ 5117
+Tử vong
+@@ 5118
+cận chiến
+@@ 5119
+Thời gian chơi cho mỗi cấp quá ngắn.
+@@ 5120
+2-handed
+@@ 5121
+dưới dạng sát thương Poison
+@@ 5122
+Bỏ phiếu đuổi thất bại - tên không hợp lệ!
+@@ 5123
+yêu cầu Dexterity
+@@ 5124
+Nhấn 'Phá hủy' để phá hủy Gem
+@@ 5125
+Shift + nhấp để mua
+@@ 5126
+Mod không xác định: 
+@@ 5127
+Thuộc tính quái của bản đồ
+@@ 5128
+Xóa bạn thất bại - tên không hợp lệ!
+@@ 5129
+Charm Spell
+@@ 5130
+Quay về cổng dịch chuyển
+@@ 5131
+tầm xa
+@@ 5132
+Giải nghệ
+@@ 5133
+Tăng Fame
+@@ 5134
+dưới dạng sát thương Physical
+@@ 5135
+Sát thương Physical
+@@ 5136
+Bạn đã bật chế độ PvP.
+@@ 5137
+mỗi giây
+@@ 5138
+Kết nối thành công.
+@@ 5139
+Pet của bạn không thể rời đi từ đây!
+@@ 5140
+Nhấp chuột phải để trang bị
+@@ 5141
+Hồi sinh tại chỗ, nhưng mất [XP] kinh nghiệm và [FAME] Fame.
+@@ 5142
+Nhấp để mở tùy chọn xã hội
+@@ 5143
+cận chiến một tay
+@@ 5144
+dưới dạng sát thương Fire
+@@ 5145
+Giữ [CTRL] và nhấp chuột trái để
+@@ 5146
+Nhắn riêng thất bại - tên không hợp lệ!
+@@ 5147
+[CHARACTERNAME] không đáng ngờ.
+@@ 5148
+[CHARACTERNAME] đáng ngờ
+@@ 5149
+Không thể chơi nhân vật này vì nó được tạo bằng một mod không xác định. GUID của mod: 
+@@ 5150
+Không có cổng dịch chuyển đang mở
+@@ 5151
+Nhấn 'Phù phép' để nhận một hiệu ứng ngẫu nhiên
+@@ 5152
+Bạn nhúng
+@@ 5153
+Nhấn 'Thu hồi' để thu hồi Gem
+@@ 5154
+Vật phẩm đã phù phép
+@@ 5155
+đã bỏ chặn bạn.
+@@ 5156
+[CHARACTERNAME1] đã bỏ phiếu đuổi [CHARACTERNAME2] khỏi trận.
+@@ 5157
+Shift + nhấp để bán
+@@ 5158
+Người chơi và Pet
+@@ 5159
+Người chơi và Pet:
+@@ 5160
+Đòn sượt
+@@ 5161
+Lượt thử còn lại
+@@ 5162
+Đã kích hoạt điểm dịch chuyển
+@@ 5163
+Thùng đã phá
+@@ 5164
+Đã lưu nhân vật
+@@ 5165
+Tốc độ đánh trung bình
+@@ 5166
+Bạn không thể giải nghệ cho đến khi đạt cấp 
+@@ 5167
+Tay trái yêu cầu
+@@ 5168
+ . Các vật phẩm sau sẽ bị mất:\n
+@@ 5169
+Tỉ lệ đỡ đòn
+@@ 5170
+sát thương vũ khí
+@@ 5171
+Kéo Spell vào đây để học
+@@ 5172
+Bạn câu được
+@@ 5173
+Tốc độ đánh nhanh
+@@ 5174
+Số điểm thuộc tính không đúng.
+@@ 5175
+Số điểm kỹ năng không đúng.
+@@ 5176
+Offensive Spell
+@@ 5177
+Tổ tiên:
+@@ 5178
+Vật phẩm Set: 
+@@ 5179
+Không có nâng cấp bậc nào.
+@@ 5180
+two handed
+@@ 5181
+ Các kỹ năng sau sẽ bị mất:\n
+@@ 5182
+Đã bỏ phiếu đuổi người chơi [CHARACTERNAME] khỏi trận.
+@@ 5183
+Vật phẩm đã chuyển hóa
+@@ 5184
+đã bị giết.

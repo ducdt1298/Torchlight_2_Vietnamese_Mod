@@ -1,0 +1,200 @@
+@@ 3344
+Cộng 60% giáp của Shield vào đòn cận chiến
+@@ 3345
+Cộng 55% giáp của Shield vào đòn cận chiến
+@@ 3346
+Cộng 80% giáp của Shield vào đòn cận chiến
+@@ 3347
+Cộng 75% giáp của Shield vào đòn cận chiến
+@@ 3348
+Cộng 70% giáp của Shield vào đòn cận chiến
+@@ 3349
+Cộng 65% giáp của Shield vào đòn cận chiến
+@@ 3350
+Cộng 90% giáp của Shield vào đòn cận chiến
+@@ 3351
+Cộng 85% giáp của Shield vào đòn cận chiến
+@@ 3352
+Khả năng dùng Shield của bạn vượt ra ngoài "phòng thủ" để tiến thẳng tới "tấn công", cộng một phần giá trị giáp của Shield trực tiếp vào đòn cận chiến dưới dạng sát thương Physical.
+@@ 3353
+Yêu cầu Shield và một vũ khí cận chiến bất kỳ
+@@ 3354
+Bom gây thêm 20% sát thương
+@@ 3355
+Bom gây thêm 10% sát thương
+@@ 3356
+Bom gây thêm 40% sát thương
+@@ 3357
+Bom gây thêm 30% sát thương
+@@ 3358
+Bom gây thêm 60% sát thương
+@@ 3359
+Bom gây thêm 50% sát thương
+@@ 3360
+Bom gây thêm 80% sát thương
+@@ 3361
+Bom gây thêm 70% sát thương
+@@ 3362
+Bom gây thêm 120% sát thương
+@@ 3363
+Bom gây thêm 110% sát thương
+@@ 3364
+Bom gây thêm 100% sát thương
+@@ 3365
+Bom gây thêm 90% sát thương
+@@ 3366
+Bom gây thêm 140% sát thương
+@@ 3367
+Bom gây thêm 130% sát thương
+@@ 3368
+Khi bạn đánh trúng mục tiêu đang bị choáng, bạn gắn lên nó một quả bom dính sẽ phát nổ sau ba giây.  Bạn chỉ có thể gắn tối đa một quả bom mỗi giây.
+@@ 3369
+Luồng điện Supercharge gây 25% sát thương vũ khí. Tăng 3% lượng |c00ff9933Charge|u nhận được.
+@@ 3370
+Luồng điện Supercharge gây 35% sát thương vũ khí. Tăng 9% lượng |c00ff9933Charge|u nhận được.
+@@ 3371
+Luồng điện Supercharge gây 30% sát thương vũ khí. Tăng 6% lượng |c00ff9933Charge|u nhận được.
+@@ 3372
+Luồng điện Supercharge gây 45% sát thương vũ khí. Tăng 15% lượng |c00ff9933Charge|u nhận được.
+@@ 3373
+Luồng điện Supercharge gây 40% sát thương vũ khí. Tăng 12% lượng |c00ff9933Charge|u nhận được.
+@@ 3374
+Luồng điện Supercharge gây 55% sát thương vũ khí. Tăng 21% lượng |c00ff9933Charge|u nhận được.
+@@ 3375
+Luồng điện Supercharge gây 50% sát thương vũ khí. Tăng 18% lượng |c00ff9933Charge|u nhận được.
+@@ 3376
+Luồng điện Supercharge gây 65% sát thương vũ khí. Tăng 27% lượng |c00ff9933Charge|u nhận được.
+@@ 3377
+Luồng điện Supercharge gây 60% sát thương vũ khí. Tăng 24% lượng |c00ff9933Charge|u nhận được.
+@@ 3378
+Luồng điện Supercharge gây 85% sát thương vũ khí. Tăng 39% lượng |c00ff9933Charge|u nhận được.
+@@ 3379
+Luồng điện Supercharge gây 80% sát thương vũ khí. Tăng 36% lượng |c00ff9933Charge|u nhận được.
+@@ 3380
+Luồng điện Supercharge gây 75% sát thương vũ khí. Tăng 33% lượng |c00ff9933Charge|u nhận được.
+@@ 3381
+Luồng điện Supercharge gây 70% sát thương vũ khí. Tăng 30% lượng |c00ff9933Charge|u nhận được.
+@@ 3382
+Luồng điện Supercharge gây 95% sát thương vũ khí. Tăng 45% lượng |c00ff9933Charge|u nhận được.
+@@ 3383
+Luồng điện Supercharge gây 90% sát thương vũ khí. Tăng 42% lượng |c00ff9933Charge|u nhận được.
+@@ 3384
+Khi đánh trúng kẻ địch bằng vũ khí cận chiến, bạn có tỉ lệ dồn năng lượng dư thừa vào vũ khí rồi phóng ra khi tấn công trong 10 giây tiếp theo. Khi được Supercharge, bạn nhận thêm |c00ff9933Charge|u.
+@@ 3385
+Yêu cầu vũ khí cận chiến
+@@ 3386
+Tầm: 13 mét
+@@ 3387
+Tầm: 14 mét
+@@ 3388
+Tầm: 13.5 mét
+@@ 3389
+Tầm: 15 mét
+@@ 3390
+Tầm: 14.5 mét
+@@ 3391
+Tầm: 16 mét
+@@ 3392
+Tầm: 15.5 mét
+@@ 3393
+Tầm: 17 mét
+@@ 3394
+Tầm: 16.5 mét
+@@ 3395
+Tầm: 19 mét
+@@ 3396
+Tầm: 18.5 mét
+@@ 3397
+Tầm: 18 mét
+@@ 3398
+Tầm: 17.5 mét
+@@ 3399
+Tầm: 20 mét
+@@ 3400
+Tầm: 19.5 mét
+@@ 3401
+Một luồng năng lượng tập trung kéo kẻ địch vào tầm đánh. Với mỗi |c00ff9933Charge|u đang có, bạn nhận 20% tỉ lệ làm choáng trong 3 giây, nhưng bản thân kỹ năng không tạo cũng không tiêu hao |c00ff9933Charge|u.
+@@ 3402
+Lượng Mana tiêu hao giảm 20%. Hiệu ứng tăng sát thương phải nhận kéo dài 4 giây.
+@@ 3403
+Lượng Mana tiêu hao giảm 40%. Hiệu ứng tăng sát thương phải nhận kéo dài 6 giây.
+@@ 3404
+Lượng Mana tiêu hao giảm 60%. Hiệu ứng tăng sát thương phải nhận kéo dài 8 giây.
+@@ 3405
+Một cú nện cực mạnh từ trên xuống phóng ra 8 vết nứt dung nham tỏa ra xung quanh, truy tìm và tiêu diệt kẻ địch.
+@@ 3406
+Sát thương Fire tăng 20%
+@@ 3407
+Sát thương Fire tăng 40%
+@@ 3408
+Sát thương Fire tăng 60%
+@@ 3409
+Bạn triển khai một robot nhỏ hồi máu cho bạn và đồng minh, miễn là bạn ở trong tầm của nó.
+@@ 3410
+Cú dậm chân có hỗ trợ cơ khí làm choáng và thiêu đốt mọi kẻ địch trong bán kính 4 mét quanh bạn.
+@@ 3411
+Bán kính tăng lên 6 mét
+@@ 3412
+Bán kính tăng lên 8 mét
+@@ 3413
+Bán kính tăng lên 10 mét
+@@ 3414
+Đồng minh được gài chất nổ để phát nổ khi chết
+@@ 3415
+Vụ nổ hủy diệt khi chết
+@@ 3416
+Bạn dồn một luồng năng lượng mạnh mẽ qua Shield, bắn xa tối đa 6 mét. Sát thương dựa trên giá trị giáp của Shield. Với một |c00ff9933Charge|u, sát thương Physical ban đầu tăng gấp ba và tầm của luồng năng lượng tăng lên 9 mét.
+@@ 3417
+Yêu cầu trang bị Shield
+@@ 3418
+Thời gian thiêu đốt tăng lên 5 giây, gây thêm sát thương
+@@ 3419
+Góc sát thương mở rộng thêm 40 độ để đánh trúng nhiều mục tiêu hơn
+@@ 3420
+Mục tiêu chịu thêm 50% sát thương Fire khi đang bị thiêu đốt
+@@ 3421
+Mỗi cú đập tạo ra 0.2 |c00ff9933Charge|u.
+@@ 3422
+Mỗi cú đập tạo ra 0.24 |c00ff9933Charge|u.
+@@ 3423
+Mỗi cú đập tạo ra 0.22 |c00ff9933Charge|u.
+@@ 3424
+Mỗi cú đập tạo ra 0.28 |c00ff9933Charge|u.
+@@ 3425
+Mỗi cú đập tạo ra 0.26 |c00ff9933Charge|u.
+@@ 3426
+Mỗi cú đập tạo ra 0.32 |c00ff9933Charge|u.
+@@ 3427
+Mỗi cú đập tạo ra 0.3 |c00ff9933Charge|u.
+@@ 3428
+Mỗi cú đập tạo ra 0.36 |c00ff9933Charge|u.
+@@ 3429
+Mỗi cú đập tạo ra 0.34 |c00ff9933Charge|u.
+@@ 3430
+Mỗi cú đập tạo ra 0.44 |c00ff9933Charge|u.
+@@ 3431
+Mỗi cú đập tạo ra 0.42 |c00ff9933Charge|u.
+@@ 3432
+Mỗi cú đập tạo ra 0.4 |c00ff9933Charge|u.
+@@ 3433
+Mỗi cú đập tạo ra 0.38 |c00ff9933Charge|u.
+@@ 3434
+Mỗi cú đập tạo ra 0.48 |c00ff9933Charge|u.
+@@ 3435
+Mỗi cú đập tạo ra 0.46 |c00ff9933Charge|u.
+@@ 3436
+Bạn đập mạnh vào kẻ địch phía trước, làm choáng, làm chậm tốc độ đánh và đẩy lùi chúng. Sát thương bằng 5 lần giá trị giáp của Shield. Mỗi |c00ff9933Charge|u bạn đang có cộng thêm 10% sát thương.
+@@ 3437
+Sát thương tăng lên 7.5 lần giáp của Shield
+@@ 3438
+Sát thương tăng lên 10 lần giáp của Shield
+@@ 3439
+Sát thương tăng lên 12.5 lần giáp của Shield
+@@ 3440
+Một luồng phụt từ ba lô phóng bạn lao vút về phía trước, đẩy lùi kẻ địch. Khi va chạm, bộ giáp phóng ra 3 tia năng lượng, đánh trúng kẻ địch ở xa. Mỗi kẻ địch trúng đòn còn hồi 5% Mana cho bạn, tối đa 5 mục tiêu.
+@@ 3441
+Số tia năng lượng phóng ra tăng lên 6
+@@ 3442
+20% tỉ lệ làm bất động kẻ địch
+@@ 3443
+Thời gian hồi giảm còn 1 giây

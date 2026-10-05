@@ -1,0 +1,1115 @@
+# b10_skills_other: 557 strings. Format: "@@ id | mode | context" then the English text on the next line.
+@@ 3510 | translate | SKILLS/ALCHEMIST/EMBERBEAM/EMBERBEAM.DAT | SKILL | DESCRIPTION
+You pierce your foes with a shaft of blistering energy.
+@@ 3511 | translate | SKILLS/ALCHEMIST/EMBERFIREBALL/EMBERFIREBALL.DAT | #1c7a1db5 | DESCRIPTION
+Three bolts of Ember energy seek out their target
+@@ 3512 | translate | SKILLS/ALCHEMIST/EMBERFIREBALL/EMBERFIREBALL.DAT | #1c7a1db9 | DESCRIPTION
+Four bolts of Ember energy seek out their target
+@@ 3513 | translate | SKILLS/ALCHEMIST/EMBERFIREBALL/EMBERFIREBALL.DAT | SKILL | DESCRIPTION
+You unleash twin bolts of Ember energy that seek your enemies.
+@@ 3514 | translate | SKILLS/ALCHEMIST/EMBERLIGHTNING/EMBERLIGHTNING.DAT | SKILL | DESCRIPTION
+You blast your foes with a bolt of Ember energy.
+@@ 3515 | translate | SKILLS/ALCHEMIST/EMBERPHASE/EMBERPHASE.DAT | SKILL | DESCRIPTION
+You vanish from one location and instantly reappear in another, dealing damage in both places.
+@@ 3516 | translate | SKILLS/ALCHEMIST/EMBERSENTRY/EMBERSENTRY.DAT | SKILL | DESCRIPTION
+You summon a sentry crystal, which blasts nearby enemies with a beam of Ember energy.
+@@ 3517 | translate | SKILLS/ALCHEMIST/EMBERSHIELD/EMBERSHIELD.DAT | SKILL | DESCRIPTION
+You cloak yourself in Ember Energy, absorbing physical damage.
+@@ 3518 | translate | SKILLS/ALCHEMIST/EMBERSTRIKE/EMBERSTRIKE.DAT | SKILL | DESCRIPTION
+You call forth a targeted bolt of burning energy from the sky.
+@@ 3519 | translate | SKILLS/ALCHEMIST/EXPLODEPOTION/EXPLODEPOTIONMISSILE.DAT | SKILL | DESCRIPTION
+You hurl an icy crystal that detonates on contact, freezing nearby foes.
+@@ 3520 | translate | SKILLS/ALCHEMIST/FLAMEPOTION/FLAMEPOTIONMISSILE.DAT | SKILL | DESCRIPTION
+You hurl a fiery crystal, setting your foes aflame.
+@@ 3521 | translate | SKILLS/ALCHEMIST/FLAMEWAVE/FLAMEWAVE.DAT | SKILL | DESCRIPTION
+You summon a wave of energy that damages all foes in its path.
+@@ 3522 | translate | SKILLS/ALCHEMIST/FRAILTY/FRAILTY.DAT | SKILL | DESCRIPTION
+You enfeeble nearby enemies, reducing their armor and elemental resistances, and slowing their attacks.
+@@ 3523 | translate | SKILLS/ALCHEMIST/IMPSUMMON/SUMMONIMP.DAT | #1c7a1db3 | DESCRIPTION
+Summons a maximum of 2 Nether Imps from the dormant energies of corpses
+@@ 3524 | translate | SKILLS/ALCHEMIST/IMPSUMMON/SUMMONIMP.DAT | #1c7a1db5 | DESCRIPTION
+Summons a maximum of 3 Nether Imps from the dormant energies of corpses
+@@ 3525 | translate | SKILLS/ALCHEMIST/IMPSUMMON/SUMMONIMP.DAT | #1c7a1db7 | DESCRIPTION
+Summons a maximum of 4 Nether Imps from the dormant energies of corpses
+@@ 3526 | translate | SKILLS/ALCHEMIST/IMPSUMMON/SUMMONIMP.DAT | #1c7a1db9 | DESCRIPTION
+Summons a maximum of 5 Nether Imps from the dormant energies of corpses
+@@ 3527 | translate | SKILLS/ALCHEMIST/IMPSUMMON/SUMMONIMP.DAT | #8f43b63b | DESCRIPTION
+Summons a maximum of 6 Nether Imps from the dormant energies of corpses
+@@ 3528 | translate | SKILLS/ALCHEMIST/IMPSUMMON/SUMMONIMP.DAT | SKILL | DESCRIPTION
+You summon a single Nether Imp from the dormant energies of nearby corpses.
+@@ 3529 | translate | SKILLS/ALCHEMIST/PETENRAGE/PETENRAGE.DAT | SKILL | DESCRIPTION
+You fill your minons with rage, improving their damage and attack speeds.
+@@ 3530 | translate | SKILLS/ALCHEMIST/PETREFLECT/PETREFLECT.DAT | SKILL | DESCRIPTION
+You imbue your minions with crackling energy, reflecting the damage foes inflict on them.
+@@ 3531 | translate | SKILLS/ALCHEMIST/SHOCK/SHOCK.DAT | SKILL | DESCRIPTION
+You overload your gauntlet and deliver a devastating charge to a single target. Other foes caught in the blast suffer lesser damage.
+@@ 3532 | translate | SKILLS/ALCHEMIST/SUMMONGOLEM/SUMMONBEAMGOLEM.DAT | #1c7a1db2 | DESCRIPTION
+Golem gets upgraded damage, critical hit, and relfects a small static charge on attackers 
+@@ 3533 | translate | SKILLS/ALCHEMIST/SUMMONGOLEM/SUMMONBEAMGOLEM.DAT | #1c7a1db3 | DESCRIPTION
+Golem gets upgraded damage, critical hit, and relfects a small static charge on attackers
+@@ 3534 | translate | SKILLS/ALCHEMIST/SUMMONGOLEM/SUMMONBEAMGOLEM.DAT | #8f43b63b | DESCRIPTION
+The Golem's ultimate upgrade includes a multi-element beam attack
+@@ 3535 | translate | SKILLS/ALCHEMIST/SUMMONGOLEM/SUMMONBEAMGOLEM.DAT | SKILL | DESCRIPTION
+You summon a Beam Golem, which blasts your foes with beams of electricity.
+@@ 3536 | translate | SKILLS/ALCHEMIST/SUMMONGOLEM/SUMMONGOLEM.DAT | #1c7a1db2 | DESCRIPTION
+Golem upgrade has further increased damage, armor and health
+@@ 3537 | translate | SKILLS/ALCHEMIST/SUMMONGOLEM/SUMMONGOLEM.DAT | #1c7a1db3 | DESCRIPTION
+Golem upgrade has increased damage, armor and health
+@@ 3538 | translate | SKILLS/ALCHEMIST/SUMMONGOLEM/SUMMONGOLEM.DAT | #1c7a1db5 | DESCRIPTION
+Golem upgrade delivers new Smash Attack
+@@ 3539 | translate | SKILLS/ALCHEMIST/SUMMONGOLEM/SUMMONGOLEM.DAT | #1c7a1db6 | DESCRIPTION
+Golem upgrade delivers new Vortex Attack
+@@ 3540 | translate | SKILLS/ALCHEMIST/SUMMONGOLEM/SUMMONGOLEM.DAT | #1c7a1db8 | DESCRIPTION
+Golem upgrade has further increased damage, resistances and health
+@@ 3541 | translate | SKILLS/ALCHEMIST/SUMMONGOLEM/SUMMONGOLEM.DAT | #1c7a1db9 | DESCRIPTION
+Golem upgrade has increased damage, resistances and health
+@@ 3542 | translate | SKILLS/ALCHEMIST/SUMMONGOLEM/SUMMONGOLEM.DAT | #8f43b63b | DESCRIPTION
+Golem recieves ultimate upgrade
+@@ 3543 | translate | SKILLS/ALCHEMIST/SUMMONGOLEM/SUMMONGOLEM.DAT | SKILL | DESCRIPTION
+You summon an Alchemical Golem to attack your foes.
+@@ 3544 | translate | SKILLS/ALCHEMIST/TERROR/TERROR.DAT | SKILL | DESCRIPTION
+You fill nearby enemies with terror, and send them fleeing.
+@@ 3545 | translate | SKILLS/ALCHEMIST/WEAPONENCHANT/WEAPONENCHANT.DAT | SKILL | DESCRIPTION
+You imbue your weapons with Ember energy, increasing their damage.
+@@ 3546 | translate | SKILLS/ARBITER/ARCBEAM/ARCBEAM.DAT | SKILL | BASE_DESCRIPTION
+You pierce your foes with a channeled beam of energy from your weapons. Destroyed enemies split the beam and strike nearby targets as a secondary effect.
+@@ 3547 | translate | SKILLS/ARBITER/ARCBEAM/ARCBEAM.DAT | SKILL | REQUIREMENT_DESCRIPTION
+Requires a Staff or Wand
+@@ 3548 | translate | SKILLS/ARBITER/ARCBEAM/ARCBEAM.DAT | SKILL | TIER1_DESCRIPTION
+The beam can split to new targets up to 3 times
+@@ 3549 | translate | SKILLS/ARBITER/ARCBEAM/ARCBEAM.DAT | SKILL | TIER2_DESCRIPTION
+The beam can split to new targets up to 4 times
+@@ 3550 | translate | SKILLS/ARBITER/ARCBEAM/ARCBEAM.DAT | SKILL | TIER3_DESCRIPTION
+The beam can split to new targets up to 5 times
+@@ 3551 | translate | SKILLS/ARBITER/AVATAR/AVATAR.DAT | SKILL | BASE_DESCRIPTION
+Enter an enlightened state
+@@ 3552 | translate | SKILLS/ARBITER/BALLLIGHTNING/BALLLIGHTNING.DAT | SKILL | BASE_DESCRIPTION
+You fire a ball of condensed electrical energy, blasting nearby foes.
+@@ 3553 | translate | SKILLS/ARBITER/BLAZINGPILLAR/BLAZINGPILLAR.DAT | SKILL | BASE_DESCRIPTION
+You create 4 giant pillars of intense flame that seek out and immolate nearby foes. Blazing Pillar is good at building |c00ff9933Charge|u.
+@@ 3554 | translate | SKILLS/ARBITER/BLAZINGPILLAR/BLAZINGPILLAR.DAT | SKILL | TIER1_DESCRIPTION
+5 pillars of flame are created
+@@ 3555 | translate | SKILLS/ARBITER/BLAZINGPILLAR/BLAZINGPILLAR.DAT | SKILL | TIER2_DESCRIPTION
+6 pillars of flame are created
+@@ 3556 | translate | SKILLS/ARBITER/BLAZINGPILLAR/BLAZINGPILLAR.DAT | SKILL | TIER3_DESCRIPTION
+7 pillars of flame are created
+@@ 3557 | translate | SKILLS/ARBITER/DESTABILIZE/DESTABILIZE.DAT | SKILL | BASE_DESCRIPTION
+You draw energy from your enemies, potentially creating temporary ley-lines.  Channeled.
+@@ 3558 | translate | SKILLS/ARBITER/ELEMENTALBOON/ELEMENTALBOON.DAT | SKILL | BASE_DESCRIPTION
+You imbue yourself with a bolstering aura which increases your elemental damages and resistances. Boon's benefits are also applied to any allies within 12 meters.
+@@ 3559 | translate | SKILLS/ARBITER/ELEMENTALBOON/ELEMENTALBOON.DAT | SKILL | TIER1_DESCRIPTION
+Gains resistance to slowing and immobilization effects
+@@ 3560 | translate | SKILLS/ARBITER/ELEMENTALBOON/ELEMENTALBOON.DAT | SKILL | TIER2_DESCRIPTION
+Gains mana recharge
+@@ 3561 | translate | SKILLS/ARBITER/ELEMENTALBOON/ELEMENTALBOON.DAT | SKILL | TIER3_DESCRIPTION
+Faster cast and less mana
+@@ 3562 | translate | SKILLS/ARBITER/FIREBOMB/FIREBOMB.DAT | SKILL | BASE_DESCRIPTION
+You hurl three gouts of flame that ignite the ground for 3 seconds and sometimes cause foes to stumble in panic as they burn. Firebombs gain no |c00ff9933Charge|u.
+@@ 3563 | translate | SKILLS/ARBITER/FIREBOMB/FIREBOMB.DAT | SKILL | TIER1_DESCRIPTION
+Pools of flame last 4 seconds. Cooldown time reduced to 1.6 seconds.
+@@ 3564 | translate | SKILLS/ARBITER/FIREBOMB/FIREBOMB.DAT | SKILL | TIER2_DESCRIPTION
+Pools of flame last 5 seconds. Cooldown time reduced to 1.2 seconds.
+@@ 3565 | translate | SKILLS/ARBITER/FIREBOMB/FIREBOMB.DAT | SKILL | TIER3_DESCRIPTION
+Pools of flame last 6 seconds. Cooldown time reduced to .8 seconds.
+@@ 3566 | translate | SKILLS/ARBITER/FIRESTORM/FIRESTORM.DAT | SKILL | BASE_DESCRIPTION
+You call down burning cinders from the sky over a 15 meter radius, setting foes alight and increasing their susceptability to fire damage. Firestorm gains no |c00ff9933Charge|u.
+@@ 3567 | translate | SKILLS/ARBITER/FIRESTORM/FIRESTORM.DAT | SKILL | TIER1_DESCRIPTION
+Enemies do 30% less fire damage when affected
+@@ 3568 | translate | SKILLS/ARBITER/FIRESTORM/FIRESTORM.DAT | SKILL | TIER2_DESCRIPTION
+Targets killed emit burning splinters
+@@ 3569 | translate | SKILLS/ARBITER/FIRESTORM/FIRESTORM.DAT | SKILL | TIER3_DESCRIPTION
+Burning splinter range doubled
+@@ 3570 | translate | SKILLS/ARBITER/FLAMEAURA/FLAMEAURA.DAT | #1c7a1db0 | DESCRIPTION
+Lasts 30 seconds
+@@ 3571 | translate | SKILLS/ARBITER/FLAMEAURA/FLAMEAURA.DAT | #1c7a1db2 | DESCRIPTION
+Lasts 34 seconds
+@@ 3572 | translate | SKILLS/ARBITER/FLAMEAURA/FLAMEAURA.DAT | #1c7a1db3 | DESCRIPTION
+Lasts 32 seconds
+@@ 3573 | translate | SKILLS/ARBITER/FLAMEAURA/FLAMEAURA.DAT | #1c7a1db4 | DESCRIPTION
+Lasts 38 seconds
+@@ 3574 | translate | SKILLS/ARBITER/FLAMEAURA/FLAMEAURA.DAT | #1c7a1db5 | DESCRIPTION
+Lasts 36 seconds
+@@ 3575 | translate | SKILLS/ARBITER/FLAMEAURA/FLAMEAURA.DAT | #1c7a1db6 | DESCRIPTION
+Lasts 42 seconds
+@@ 3576 | translate | SKILLS/ARBITER/FLAMEAURA/FLAMEAURA.DAT | #1c7a1db7 | DESCRIPTION
+Lasts 40 seconds
+@@ 3577 | translate | SKILLS/ARBITER/FLAMEAURA/FLAMEAURA.DAT | #1c7a1db8 | DESCRIPTION
+Lasts 46 seconds
+@@ 3578 | translate | SKILLS/ARBITER/FLAMEAURA/FLAMEAURA.DAT | #1c7a1db9 | DESCRIPTION
+Lasts 44 seconds
+@@ 3579 | translate | SKILLS/ARBITER/FLAMEAURA/FLAMEAURA.DAT | #8f43b638 | DESCRIPTION
+Lasts 54 seconds
+@@ 3580 | translate | SKILLS/ARBITER/FLAMEAURA/FLAMEAURA.DAT | #8f43b639 | DESCRIPTION
+Lasts 52 seconds
+@@ 3581 | translate | SKILLS/ARBITER/FLAMEAURA/FLAMEAURA.DAT | #8f43b63a | DESCRIPTION
+Lasts 50 seconds
+@@ 3582 | translate | SKILLS/ARBITER/FLAMEAURA/FLAMEAURA.DAT | #8f43b63b | DESCRIPTION
+Lasts 48 seconds
+@@ 3583 | translate | SKILLS/ARBITER/FLAMEAURA/FLAMEAURA.DAT | #8f43b63e | DESCRIPTION
+Lasts 58 seconds
+@@ 3584 | translate | SKILLS/ARBITER/FLAMEAURA/FLAMEAURA.DAT | #8f43b63f | DESCRIPTION
+Lasts 56 seconds
+@@ 3585 | translate | SKILLS/ARBITER/FLAMEAURA/FLAMEAURA.DAT | SKILL | BASE_DESCRIPTION
+A vortex of flame surrounds you, damaging foes within a 3 meter radius.
+@@ 3586 | translate | SKILLS/ARBITER/FLAMEAURA/FLAMEAURA.DAT | SKILL | TIER1_DESCRIPTION
+The aura absorbs 5% of all incoming damage
+@@ 3587 | translate | SKILLS/ARBITER/FLAMEAURA/FLAMEAURA.DAT | SKILL | TIER2_DESCRIPTION
+The aura absorbs 10% of all incoming damage
+@@ 3588 | translate | SKILLS/ARBITER/FLAMEAURA/FLAMEAURA.DAT | SKILL | TIER3_DESCRIPTION
+The aura absorbs 15% of all incoming damage
+@@ 3589 | translate | SKILLS/ARBITER/FROSTBITE/FROSTBITE.DAT | SKILL | BASE_DESCRIPTION
+Flash freese the air in a given area to immobilize your enemies!
+@@ 3590 | translate | SKILLS/ARBITER/FROZEN SOUL/FROZEN SOUL.DAT | SKILL | BASE_DESCRIPTION
+When you kill an enemy, you have chance to freeze up to 4 additional enemies within a 7 meter radius.
+@@ 3591 | translate | SKILLS/ARBITER/HAILSTONES/HAILSTONES.DAT | SKILL | BASE_DESCRIPTION
+You call down shards of ice from the sky, pummeling foes within a 15 meter radius. Hailstorm gains no |c00ff9933Charge|u.
+@@ 3592 | translate | SKILLS/ARBITER/HAILSTONES/HAILSTONES.DAT | SKILL | TIER1_DESCRIPTION
+Targets become 20% more susceptible to Ice and Electric damage for 6 seconds
+@@ 3593 | translate | SKILLS/ARBITER/HAILSTONES/HAILSTONES.DAT | SKILL | TIER2_DESCRIPTION
+Targets become 40% more susceptible to Ice and Electric damage for 6 seconds
+@@ 3594 | translate | SKILLS/ARBITER/HAILSTONES/HAILSTONES.DAT | SKILL | TIER3_DESCRIPTION
+Targets become 60% more susceptible to Ice and Electric damage for 6 seconds
+@@ 3595 | translate | SKILLS/ARBITER/ICEBLAST/ICEBLAST.DAT | SKILL | BASE_DESCRIPTION
+You unleash a hail of 5 ricocheting icy bolts to slow and immobilize your foes. 
+@@ 3596 | translate | SKILLS/ARBITER/ICEBLAST/ICEBLAST.DAT | SKILL | TIER1_DESCRIPTION
+Target's Damage is reduced by 20% for 6 seconds
+@@ 3597 | translate | SKILLS/ARBITER/ICEBLAST/ICEBLAST.DAT | SKILL | TIER2_DESCRIPTION
+Chance to Immobilize increased to 75% over 4 seconds
+@@ 3598 | translate | SKILLS/ARBITER/ICEBLAST/ICEBLAST.DAT | SKILL | TIER3_DESCRIPTION
+Increases to 7 bolts over a wider arc
+@@ 3599 | translate | SKILLS/ARBITER/ICEELEMENTAL/ICE_ELEMENTAL.DAT | SKILL | BASE_DESCRIPTION
+You summon an astral clone of a fellow Embermage, who joins you in battle with powerful spells.
+@@ 3600 | translate | SKILLS/ARBITER/ICEELEMENTAL/ICE_ELEMENTAL.DAT | SKILL | TIER1_DESCRIPTION
+The Astral Ally lasts for 30 seconds
+@@ 3601 | translate | SKILLS/ARBITER/ICEELEMENTAL/ICE_ELEMENTAL.DAT | SKILL | TIER2_DESCRIPTION
+The Astral Ally lasts for 40 seconds
+@@ 3602 | translate | SKILLS/ARBITER/ICEELEMENTAL/ICE_ELEMENTAL.DAT | SKILL | TIER3_DESCRIPTION
+The Astral Ally lasts for 50 seconds
+@@ 3603 | translate | SKILLS/ARBITER/ICEPRISON/ICEPRISON.DAT | #1c7a1db0 | DESCRIPTION
+Pillars last for 8 seconds
+@@ 3604 | translate | SKILLS/ARBITER/ICEPRISON/ICEPRISON.DAT | #1c7a1db2 | DESCRIPTION
+Pillars last for 10 seconds
+@@ 3605 | translate | SKILLS/ARBITER/ICEPRISON/ICEPRISON.DAT | #1c7a1db3 | DESCRIPTION
+Pillars last for 9 seconds
+@@ 3606 | translate | SKILLS/ARBITER/ICEPRISON/ICEPRISON.DAT | #1c7a1db4 | DESCRIPTION
+Pillars last for 12 seconds
+@@ 3607 | translate | SKILLS/ARBITER/ICEPRISON/ICEPRISON.DAT | #1c7a1db5 | DESCRIPTION
+Pillars last for 11 seconds
+@@ 3608 | translate | SKILLS/ARBITER/ICEPRISON/ICEPRISON.DAT | #1c7a1db6 | DESCRIPTION
+Pillars last for 14 seconds
+@@ 3609 | translate | SKILLS/ARBITER/ICEPRISON/ICEPRISON.DAT | #1c7a1db7 | DESCRIPTION
+Pillars last for 13 seconds
+@@ 3610 | translate | SKILLS/ARBITER/ICEPRISON/ICEPRISON.DAT | #1c7a1db8 | DESCRIPTION
+Pillars last for 16 seconds
+@@ 3611 | translate | SKILLS/ARBITER/ICEPRISON/ICEPRISON.DAT | #1c7a1db9 | DESCRIPTION
+Pillars last for 15 seconds
+@@ 3612 | translate | SKILLS/ARBITER/ICEPRISON/ICEPRISON.DAT | #8f43b638 | DESCRIPTION
+Pillars last for 20 seconds
+@@ 3613 | translate | SKILLS/ARBITER/ICEPRISON/ICEPRISON.DAT | #8f43b639 | DESCRIPTION
+Pillars last for 19 seconds
+@@ 3614 | translate | SKILLS/ARBITER/ICEPRISON/ICEPRISON.DAT | #8f43b63a | DESCRIPTION
+Pillars last for 18 seconds
+@@ 3615 | translate | SKILLS/ARBITER/ICEPRISON/ICEPRISON.DAT | #8f43b63b | DESCRIPTION
+Pillars last for 17 seconds
+@@ 3616 | translate | SKILLS/ARBITER/ICEPRISON/ICEPRISON.DAT | #8f43b63e | DESCRIPTION
+Pillars last for 22 seconds
+@@ 3617 | translate | SKILLS/ARBITER/ICEPRISON/ICEPRISON.DAT | #8f43b63f | DESCRIPTION
+Pillars last for 21 seconds
+@@ 3618 | translate | SKILLS/ARBITER/ICEPRISON/ICEPRISON.DAT | SKILL | BASE_DESCRIPTION
+You summon pillars of ice around a target, trapping it within. You, however, can pass through the barrier. Pillars reflect damage back at foes attacking them.
+@@ 3619 | translate | SKILLS/ARBITER/ICEPRISON/ICEPRISON.DAT | SKILL | TIER1_DESCRIPTION
+Ice pillars inflict damage when shattering
+@@ 3620 | translate | SKILLS/ARBITER/ICEPRISON/ICEPRISON.DAT | SKILL | TIER2_DESCRIPTION
+Foes within the prison are damaged over time
+@@ 3621 | translate | SKILLS/ARBITER/ICEPRISON/ICEPRISON.DAT | SKILL | TIER3_DESCRIPTION
+Cooldown reduced to 2 seconds.
+@@ 3622 | translate | SKILLS/ARBITER/ICEWAVE/ICEWAVE.DAT | SKILL | BASE_DESCRIPTION
+You hurl forth a wave of ice shards, impaling and freezing foes in its path.
+@@ 3623 | translate | SKILLS/ARBITER/ICEWAVE/ICEWAVE.DAT | SKILL | TIER1_DESCRIPTION
+A spread of 3 frost waves are released
+@@ 3624 | translate | SKILLS/ARBITER/ICEWAVE/ICEWAVE.DAT | SKILL | TIER2_DESCRIPTION
+Frost wave speed increases
+@@ 3625 | translate | SKILLS/ARBITER/ICEWAVE/ICEWAVE.DAT | SKILL | TIER3_DESCRIPTION
+A spread of 5 frost waves are released
+@@ 3626 | translate | SKILLS/ARBITER/ICEWAVE/ICEWAVE_LEFFERTS.DAT | SKILL | BASE_DESCRIPTION
+You hurl two long columns of icy shards, impaling and freezing foes in their path.
+@@ 3627 | translate | SKILLS/ARBITER/LEYLINE/LEYLINEREGEN.DAT | SKILL | BASE_DESCRIPTION
+Leyline mana regen buff
+@@ 3628 | translate | SKILLS/ARBITER/MAGMAMACE/MAGMAMACE.DAT | SKILL | BASE_DESCRIPTION
+You summon an enormous mace of fire that channels the energy of your weapons, stunning foes in a 5 meter arc and setting them ablaze. Magma Mace does not build |c00ff9933Charge|u.
+@@ 3629 | translate | SKILLS/ARBITER/MAGMAMACE/MAGMAMACE.DAT | SKILL | TIER1_DESCRIPTION
+Magma Mace has a 25% chance to break shields
+@@ 3630 | translate | SKILLS/ARBITER/MAGMAMACE/MAGMAMACE.DAT | SKILL | TIER2_DESCRIPTION
+Hit slows enemy attacks by 33% for 3 seconds
+@@ 3631 | translate | SKILLS/ARBITER/MAGMAMACE/MAGMAMACE.DAT | SKILL | TIER3_DESCRIPTION
+Hit slows enemy attacks by 67% for 3 seconds
+@@ 3632 | translate | SKILLS/ARBITER/MAGMASPEAR/MAGMASPEAR.DAT | SKILL | BASE_DESCRIPTION
+You fire a channeled barrage of magma, piercing foes and setting them aflame. Range is 16 meters.
+@@ 3633 | translate | SKILLS/ARBITER/MAGMASPEAR/MAGMASPEAR.DAT | SKILL | TIER1_DESCRIPTION
+Range extended to 24 meters
+@@ 3634 | translate | SKILLS/ARBITER/MAGMASPEAR/MAGMASPEAR.DAT | SKILL | TIER2_DESCRIPTION
+Burn time increased to 6 seconds
+@@ 3635 | translate | SKILLS/ARBITER/MAGMASPEAR/MAGMASPEAR.DAT | SKILL | TIER3_DESCRIPTION
+Magma Spears ricochet
+@@ 3636 | translate | SKILLS/ARBITER/MANAVAMP/MANAVAMP.DAT | SKILL | BASE_DESCRIPTION
+Every time the Arbiter deals critical damage, the surge of elemental energy reinvigorates him.
+@@ 3637 | translate | SKILLS/ARBITER/METEOR/AMETEOR.DAT | SKILL | BASE_DESCRIPTION
+You create a concentrated sphere of heat, which suddenly expands outward in a devastating 4 meter blast.
+@@ 3638 | translate | SKILLS/ARBITER/METEOR/AMETEOR.DAT | SKILL | TIER1_DESCRIPTION
+Blast radius increased to 5 meters. Increased Knockback.
+@@ 3639 | translate | SKILLS/ARBITER/METEOR/AMETEOR.DAT | SKILL | TIER2_DESCRIPTION
+Blast radius increased to 6 meters. Increased Knockback.
+@@ 3640 | translate | SKILLS/ARBITER/METEOR/AMETEOR.DAT | SKILL | TIER3_DESCRIPTION
+Blast radius increased to 7 meters. Increased Knockback.
+@@ 3641 | translate | SKILLS/ARBITER/PASSIVES/CHAOSWANDPASSIVE.DAT | SKILL | BASE_DESCRIPTION
+Attacks using your wand can result in bizarre, random elemental disturbances. These effects can also happen with the Magma Mace, Magma Spear, Icy Blast and Shockbolts skills.
+@@ 3642 | translate | SKILLS/ARBITER/PASSIVES/CHAOSWANDPASSIVE.DAT | SKILL | REQUIREMENT_DESCRIPTION
+Requires a Wand
+@@ 3643 | translate | SKILLS/ARBITER/PASSIVES/CHAOTICRIFTPASSIVE.DAT | SKILL | BASE_DESCRIPTION
+Your chaotic energy teleports enemies away when they strike you, with a chance of random elemental effects.
+@@ 3644 | translate | SKILLS/ARBITER/PASSIVES/CHARGE_MASTERY_ARBITER.DAT | SKILL | BASE_DESCRIPTION
+Your expertise with |c00ff9933Charge|u lets you gain it faster, and retain it longer.
+@@ 3645 | translate | SKILLS/ARBITER/PASSIVES/ELEMENTAL_ATTUNEMENT.DAT | SKILL | BASE_DESCRIPTION
+The Embermage is finely attuned to the elements, inflicting elemental effects on nearby enemies and extending the duration of all elemental effects.
+@@ 3646 | translate | SKILLS/ARBITER/PASSIVES/FIREBRANDPASSIVE.DAT | SKILL | BASE_DESCRIPTION
+When you hit a burning enemy, you do an additional burst of fire damage.
+@@ 3647 | translate | SKILLS/ARBITER/PASSIVES/ICEBRANDPASSIVE.DAT | SKILL | BASE_DESCRIPTION
+When you hit a frozen enemy, you do an additional burst of ice damage.
+@@ 3648 | translate | SKILLS/ARBITER/PASSIVES/LIGHTNINGBRANDPASSIVE.DAT | SKILL | BASE_DESCRIPTION
+When you hit a shocked enemy, you do an additional burst of lightning damage.
+@@ 3649 | translate | SKILLS/ARBITER/PASSIVES/STAFF_MASTERY.DAT | SKILL | BASE_DESCRIPTION
+Your skill with staves lowers the elemental resistances of enemies when you strike them. These effects are also applied to the Magma Mace, Magma Spear, Icy Blast and Shockbolts skills.
+@@ 3650 | translate | SKILLS/ARBITER/PASSIVES/STAFF_MASTERY.DAT | SKILL | REQUIREMENT_DESCRIPTION
+Requires a staff
+@@ 3651 | translate | SKILLS/ARBITER/PORTAL/PORTAL.DAT | SKILL | BASE_DESCRIPTION
+Nearby enemies are teleported away according to the caster's whim.  Affected enemies resist further teleportation for a short time.
+@@ 3652 | translate | SKILLS/ARBITER/PRISMATICBOLT/PRISMATICBOLT.DAT | SKILL | BASE_DESCRIPTION
+You unleash a flurry of 5 prismatic bolts that seek out nearby foes.
+@@ 3653 | translate | SKILLS/ARBITER/PRISMATICBOLT/PRISMATICBOLT.DAT | SKILL | TIER1_DESCRIPTION
+Damage increased by 10%
+@@ 3654 | translate | SKILLS/ARBITER/PRISMATICBOLT/PRISMATICBOLT.DAT | SKILL | TIER2_DESCRIPTION
+Damage increased by 20%
+@@ 3655 | translate | SKILLS/ARBITER/PRISMATICBOLT/PRISMATICBOLT.DAT | SKILL | TIER3_DESCRIPTION
+Damage increased by 30%
+@@ 3656 | translate | SKILLS/ARBITER/REJUVENATINGKILL/REJUVENATINGKILL.DAT | SKILL | BASE_DESCRIPTION
+You bind the lifeforce of all foes within 6 meters of the target. Upon their death, their life and mana are drawn to you or other players through 3 soul bolts. Stated health and mana recovery is per soul bolt.
+@@ 3657 | translate | SKILLS/ARBITER/REJUVENATINGKILL/REJUVENATINGKILL.DAT | SKILL | TIER1_DESCRIPTION
+4 soul bolts are released and enemies are slowed for 2 seconds
+@@ 3658 | translate | SKILLS/ARBITER/REJUVENATINGKILL/REJUVENATINGKILL.DAT | SKILL | TIER2_DESCRIPTION
+5 soul bolts are released and casting speed is increased by 50%
+@@ 3659 | translate | SKILLS/ARBITER/REJUVENATINGKILL/REJUVENATINGKILL.DAT | SKILL | TIER3_DESCRIPTION
+6 soul bolts are released and enemies are stunned for 1 second
+@@ 3660 | translate | SKILLS/ARBITER/SHIELDWALL/SHIELDWALL.DAT | SKILL | BASE_DESCRIPTION
+Arcane shields advance forwards, knocking back enemies.  Deals increased damage when buffed.
+@@ 3661 | translate | SKILLS/ARBITER/SHOCK/SHOCK.DAT | SKILL | BASE_DESCRIPTION
+You unleash channeled bursts of crackling energy, shocking and stunning all foes up to 8 meters away in a 75 degree angle.The energy burst continues and drains mana while the mouse button is held down.
+@@ 3662 | translate | SKILLS/ARBITER/SHOCK/SHOCK.DAT | SKILL | TIER1_DESCRIPTION
+Arc widened to 105 degrees
+@@ 3663 | translate | SKILLS/ARBITER/SHOCK/SHOCK.DAT | SKILL | TIER2_DESCRIPTION
+Arc widened to 135 degrees
+@@ 3664 | translate | SKILLS/ARBITER/SHOCK/SHOCK.DAT | SKILL | TIER3_DESCRIPTION
+Arc widened to 165 degrees
+@@ 3665 | translate | SKILLS/ARBITER/SHOCKBOLT/SHOCKBOLT.DAT | SKILL | BASE_DESCRIPTION
+You release 4 electrically charged bolts, which follow the ground and ricochet off neighboring objects
+@@ 3666 | translate | SKILLS/ARBITER/SHOCKBOLT/SHOCKBOLT.DAT | SKILL | TIER1_DESCRIPTION
+Bolts have a 10% chance to immobilize
+@@ 3667 | translate | SKILLS/ARBITER/SHOCKBOLT/SHOCKBOLT.DAT | SKILL | TIER2_DESCRIPTION
+Bolts increase in speed
+@@ 3668 | translate | SKILLS/ARBITER/SHOCKBOLT/SHOCKBOLT.DAT | SKILL | TIER3_DESCRIPTION
+Increases to 5 bolts at launch
+@@ 3669 | translate | SKILLS/ARBITER/SHOCKORB/SHOCKORB.DAT | SKILL | BASE_DESCRIPTION
+You release a slow-moving electrical orb, which discharges energy into foes as it passes
+@@ 3670 | translate | SKILLS/ARBITER/SHOCKORB/SHOCKORB.DAT | SKILL | TIER1_DESCRIPTION
+3 Orbs are released
+@@ 3671 | translate | SKILLS/ARBITER/SHOCKORB/SHOCKORB.DAT | SKILL | TIER2_DESCRIPTION
+Orbs ricochet
+@@ 3672 | translate | SKILLS/ARBITER/SHOCKORB/SHOCKORB.DAT | SKILL | TIER3_DESCRIPTION
+Discharge range increased 50%
+@@ 3673 | translate | SKILLS/ARBITER/STORM/STORM.DAT | #1c7a1db0 | DESCRIPTION
+Storm bolts travel up to 10m
+@@ 3674 | translate | SKILLS/ARBITER/STORM/STORM.DAT | #1c7a1db2 | DESCRIPTION
+Storm bolts travel up to 12m
+@@ 3675 | translate | SKILLS/ARBITER/STORM/STORM.DAT | #1c7a1db3 | DESCRIPTION
+Storm bolts travel up to 11m
+@@ 3676 | translate | SKILLS/ARBITER/STORM/STORM.DAT | #1c7a1db4 | DESCRIPTION
+Storm bolts travel up to 14m
+@@ 3677 | translate | SKILLS/ARBITER/STORM/STORM.DAT | #1c7a1db5 | DESCRIPTION
+Storm bolts travel up to 13m
+@@ 3678 | translate | SKILLS/ARBITER/STORM/STORM.DAT | #1c7a1db6 | DESCRIPTION
+Storm bolts travel up to 16m
+@@ 3679 | translate | SKILLS/ARBITER/STORM/STORM.DAT | #1c7a1db7 | DESCRIPTION
+Storm bolts travel up to 15m
+@@ 3680 | translate | SKILLS/ARBITER/STORM/STORM.DAT | #1c7a1db8 | DESCRIPTION
+Storm bolts travel up to 18m
+@@ 3681 | translate | SKILLS/ARBITER/STORM/STORM.DAT | #1c7a1db9 | DESCRIPTION
+Storm bolts travel up to 17m
+@@ 3682 | translate | SKILLS/ARBITER/STORM/STORM.DAT | #8f43b638 | DESCRIPTION
+Storm bolts travel up to 22m
+@@ 3683 | translate | SKILLS/ARBITER/STORM/STORM.DAT | #8f43b639 | DESCRIPTION
+Storm bolts travel up to 21m
+@@ 3684 | translate | SKILLS/ARBITER/STORM/STORM.DAT | #8f43b63a | DESCRIPTION
+Storm bolts travel up to 20m
+@@ 3685 | translate | SKILLS/ARBITER/STORM/STORM.DAT | #8f43b63b | DESCRIPTION
+Storm bolts travel up to 19m
+@@ 3686 | translate | SKILLS/ARBITER/STORM/STORM.DAT | #8f43b63e | DESCRIPTION
+Storm bolts travel up to 24m
+@@ 3687 | translate | SKILLS/ARBITER/STORM/STORM.DAT | #8f43b63f | DESCRIPTION
+Storm bolts travel up to 23m
+@@ 3688 | translate | SKILLS/ARBITER/STORM/STORM.DAT | SKILL | BASE_DESCRIPTION
+You call down lightning from the heavens, blasting nearby foes with multiple storm bolts. While casting Lightning Storm, you take reduced damage.
+@@ 3689 | translate | SKILLS/ARBITER/STORM/STORMCAST.DAT | SKILL | BASE_DESCRIPTION
+You summon a concentrated thunderstorm at a target location, which blasts foes within 7 meters for the duration of its existence. Thunder Locus does not build |c00ff9933Charge|u.
+@@ 3690 | translate | SKILLS/ARBITER/STORM/STORMCAST.DAT | SKILL | TIER1_DESCRIPTION
+The Locus can blast two foes at once
+@@ 3691 | translate | SKILLS/ARBITER/STORM/STORMCAST.DAT | SKILL | TIER2_DESCRIPTION
+The Locus can blast three foes at once
+@@ 3692 | translate | SKILLS/ARBITER/STORM/STORMCAST.DAT | SKILL | TIER3_DESCRIPTION
+The Locus can blast four foes at once
+@@ 3693 | translate | SKILLS/ARBITER/TELEPORT/TELEPORT ALT.DAT | SKILL | BASE_DESCRIPTION
+You vanish from one location and instantly reappear in another, dealing cold damage in both places within a 2.5 meter burst.
+@@ 3694 | translate | SKILLS/ARBITER/TELEPORT/TELEPORT ALT.DAT | SKILL | TIER1_DESCRIPTION
+Burst radius increased to 3.75 meters
+@@ 3695 | translate | SKILLS/ARBITER/TELEPORT/TELEPORT ALT.DAT | SKILL | TIER2_DESCRIPTION
+Burst radius increased to 5 meters
+@@ 3696 | translate | SKILLS/ARBITER/TELEPORT/TELEPORT ALT.DAT | SKILL | TIER3_DESCRIPTION
+Burst radius increased to 6.25 meters
+@@ 3697 | translate | SKILLS/ARBITER/WHIRLDISC/WHIRLDISC.DAT | SKILL | DESCRIPTION
+Launches an exploding disc of fire.
+@@ 3698 | translate | SKILLS/CHAMPIONS/AURAS/CHAMPAURACASTDEBUG.DAT | SKILL | DESCRIPTION
+Aura cast on unit creation
+@@ 3699 | translate | SKILLS/CHAMPIONS/AURAS/CHAMPAURAEXPLODE.DAT | SKILL | DESCRIPTION
+Allies will explode when killed
+@@ 3700 | translate | SKILLS/CHAMPIONS/AURAS/CHAMPAURAHEAL.DAT | SKILL | DESCRIPTION
+Gives health regeneration to allies
+@@ 3701 | translate | SKILLS/CHAMPIONS/AURAS/CHAMPAURARANDOM.DAT | SKILL | DESCRIPTION
+Random aura cast on unit creation
+@@ 3702 | translate | SKILLS/CHAMPIONS/AURAS/CHAMPAURARESIST.DAT | SKILL | DESCRIPTION
+Confers Champion resistance to friendly units
+@@ 3703 | translate | SKILLS/CHAMPIONS/AURAS/CHAMPAURASHIELDALLIES.DAT | SKILL | DESCRIPTION
+Shields allies from harm.
+@@ 3704 | translate | SKILLS/CHAMPIONS/AURAS/CHAMPAURASHIELDSELF.DAT | SKILL | DESCRIPTION
+Gain damage reduction for each ally within the aura's range
+@@ 3705 | translate | SKILLS/CHAMPIONS/AURAS/CHAMPAURASLOW.DAT | SKILL | DESCRIPTION
+Slows enemy movement, attack, and cast speed
+@@ 3706 | translate | SKILLS/CHAMPIONS/AURAS/CHAMPAURASPEED.DAT | SKILL | DESCRIPTION
+Increases ally movement, attack, and cast speed
+@@ 3707 | translate | SKILLS/CHAMPIONS/BARRAGE/BARRAGE.DAT | SKILL | DESCRIPTION
+A barrage of magic missiles hunts down enemies
+@@ 3708 | translate | SKILLS/CHAMPIONS/CYCLONE/CYCLONE.DAT | SKILL | DESCRIPTION
+A long lasting cyclone whirls about the battlefield
+@@ 3709 | translate | SKILLS/CHAMPIONS/FIREWALL/FIREWALL.DAT | SKILL | DESCRIPTION
+Emits a circle of flames to cut off retreat
+@@ 3710 | translate | SKILLS/CHAMPIONS/FLARE/FLARE.DAT | SKILL | DESCRIPTION
+Bursts of energy cause damage all around the caster
+@@ 3711 | translate | SKILLS/CHAMPIONS/HYPERBEAM/HYPERBEAM.DAT | SKILL | DESCRIPTION
+Pierces foes with a shaft of blistering energy
+@@ 3712 | translate | SKILLS/CHAMPIONS/METEOR/METEOR.DAT | SKILL | DESCRIPTION
+A great meteor summoned from the heavens
+@@ 3713 | translate | SKILLS/CHAMPIONS/POISONMINES/POISONMINES.DAT | SKILL | DESCRIPTION
+Exploding acid mines.
+@@ 3714 | translate | SKILLS/CHAMPIONS/RANDOMTELEPORT.DAT | SKILL | DESCRIPTION
+Teleport to a random location
+@@ 3715 | translate | SKILLS/CHAMPIONS/REFLECTION.DAT | SKILL | DESCRIPTION
+Reflects missiles until the shield is broken
+@@ 3716 | translate | SKILLS/CHAMPIONS/SELECTORS/CHAMPSKILLRANDOM.DAT | SKILL | DESCRIPTION
+Selects spells this champ can cast on unit creation
+@@ 3717 | translate | SKILLS/CHAMPIONS/SHIELDS/ELECTRICBARRIER.DAT | SKILL | DESCRIPTION
+Reduces all damage until barrier is nullified with poison
+@@ 3718 | translate | SKILLS/CHAMPIONS/SHIELDS/ELECTRICSHIELD.DAT | SKILL | DESCRIPTION
+Increases Electric Resistance while active
+@@ 3719 | translate | SKILLS/CHAMPIONS/SHIELDS/FIREBARRIER.DAT | SKILL | DESCRIPTION
+Reduces all damage until barrier is shattered with ice
+@@ 3720 | translate | SKILLS/CHAMPIONS/SHIELDS/FIRESHIELD.DAT | SKILL | DESCRIPTION
+Increases Fire Resistance while active
+@@ 3721 | translate | SKILLS/CHAMPIONS/SHIELDS/ICEBARRIER.DAT | SKILL | DESCRIPTION
+Reduces all damage until barrier is melted with fire
+@@ 3722 | translate | SKILLS/CHAMPIONS/SHIELDS/ICESHIELD.DAT | SKILL | DESCRIPTION
+Increases Ice Resistance while active
+@@ 3723 | translate | SKILLS/CHAMPIONS/SHIELDS/PHYSICALSHIELD.DAT | SKILL | DESCRIPTION
+Increases Physical Resistance while active
+@@ 3724 | translate | SKILLS/CHAMPIONS/SHIELDS/POISONBARRIER.DAT | SKILL | DESCRIPTION
+Reduces all damage until barrier is dispersed with electricty
+@@ 3725 | translate | SKILLS/CHAMPIONS/SHIELDS/POISONSHIELD.DAT | SKILL | DESCRIPTION
+Increases Poison Resistance while active
+@@ 3726 | translate | SKILLS/CHAMPIONS/SHIELDS/REACTIVESHIELD.DAT | SKILL | DESCRIPTION
+Casts a shield that hopefully protects against a relevant source of damage
+@@ 3727 | translate | SKILLS/CHAMPIONS/SOULSHACKLE/SOULSHACKLE.DAT | SKILL | DESCRIPTION
+Chains the souls of enemies to dark crystals, while a giant attack is readied.
+@@ 3728 | translate | SKILLS/CHAMPIONS/SPEEDSHIELD.DAT | SKILL | DESCRIPTION
+Haste until the weak shield is broken
+@@ 3729 | translate | SKILLS/CHAMPIONS/STORM/STORM.DAT | SKILL | DESCRIPTION
+Conjure a fierce lightning storm
+@@ 3730 | translate | SKILLS/CHAMPIONS/VOIDRAY/VOIDRAY.DAT | SKILL | DESCRIPTION
+Fire a piercing beam of negative energy.
+@@ 3731 | translate | SKILLS/EMPTY.DAT | SKILL | BASE_DESCRIPTION
+Empty Skill, used to reserve a guid for auto attack
+@@ 3732 | translate | SKILLS/ITEMS/NORMALMANAPOTION.DAT | SKILL | DESCRIPTION
+Restores mana
+@@ 3733 | translate | SKILLS/ITEMS/NORMALPOTION.DAT | SKILL | DESCRIPTION
+Heals caster
+@@ 3734 | translate | SKILLS/MONSTERS/BOSS_GOBLIN_MINES/ICE_STALAGTITES.DAT | SKILL | DESCRIPTION
+Fire a projectile forwards, knocking away enemies and exploding after a set distance
+@@ 3735 | translate | SKILLS/MONSTERS/BOSS_STURM/POUND/POUND.DAT | SKILL | DESCRIPTION
+Sturm smash!
+@@ 3736 | translate | SKILLS/MONSTERS/BOSS_STURM/UPWARD_SHOT/MINE_MORTAR.DAT | SKILL | DESCRIPTION
+Fires a spiked ball into the ground, damaging anything that steps on it.\n
+@@ 3737 | translate | SKILLS/MONSTERS/GHOST/HEAL_FRIENDS.DAT | SKILL | DESCRIPTION
+\nHeals all friends
+@@ 3738 | translate | SKILLS/MONSTERS/GRANDREGENT/REGENT_MARK.DAT | SKILL | DESCRIPTION
+Enemies near you are more likely to attack you.
+@@ 3739 | translate | SKILLS/MONSTERS/GUARDIANWILD/CORRUPTEDBLAST/CORRUPTEDBLAST.DAT | SKILL | DESCRIPTION
+Fire a blast of foul energy.  Stomp, stomp, blast!
+@@ 3740 | translate | SKILLS/MONSTERS/GUARDIANWILD/EARTHENSMASH/EARTHENSMASH.DAT | SKILL | DESCRIPTION
+Guardian of Wild impales nearby enemies with earthen spears
+@@ 3741 | translate | SKILLS/MONSTERS/HANDOFDOOM/HAND_OF_DOOM.DAT | SKILL | DESCRIPTION
+Hand of Doom Arbiter Skill
+@@ 3742 | translate | SKILLS/MONSTERS/MIRKA/ICEMINES.DAT | SKILL | DESCRIPTION
+Exploding ice mines.
+@@ 3743 | translate | SKILLS/MONSTERS/REPAIR_BOT/ABSORPTION_BEAM.DAT | SKILL | DESCRIPTION
+Absorbs energy from the enemy and converts it into a healing aura.\n
+@@ 3744 | translate | SKILLS/MONSTERS/REPAIR_BOT/HEALAURA.DAT | SKILL | DESCRIPTION
+The repair bot radiates a healing energy.\n
+@@ 3745 | translate | SKILLS/MONSTERS/SEER/SEERAOE.DAT | SKILL | DESCRIPTION
+\nTown Seer's Aoe\n
+@@ 3746 | translate | SKILLS/MONSTERS/SEER/SEERFIREBALL.DAT | SKILL | DESCRIPTION
+\nTown Seer's fireball\n
+@@ 3747 | translate | SKILLS/MONSTERS/SKELETON/PASS2_CHAMP_UNDEAD_SUMMON.DAT | SKILL | DESCRIPTION
+Summons Undead Creatures
+@@ 3748 | translate | SKILLS/MONSTERS/SKELETON/SKELCHAMPREACTIVESHIELD.DAT | SKILL | DESCRIPTION
+Protected against a single damage type until shield is broken
+@@ 3749 | translate | SKILLS/MONSTERS/SKELETON/SKELCHAMPSPEEDSHIELD.DAT | SKILL | DESCRIPTION
+Grants increased speed until the shield is broken
+@@ 3750 | translate | SKILLS/MONSTERS/SPIKEDMINE/FIERYMINE.DAT | SKILL | DESCRIPTION
+It's burning hot!
+@@ 3751 | translate | SKILLS/MONSTERS/SPIKEDMINE/FIERYMINEEXPLODE.DAT | SKILL | DESCRIPTION
+Boom
+@@ 3752 | translate | SKILLS/MONSTERS/VARKOLYN/JUMPATTACK.DAT | SKILL | DESCRIPTION
+\nJumps towards an enemy
+@@ 3753 | translate | SKILLS/PROCS/FIREPROC.DAT | SKILL | DESCRIPTION
+ chance for proc
+@@ 3754 | translate | SKILLS/SHARED/BEESWARM/BEESWARM.DAT | SKILL | DESCRIPTION
+Send a cloud of angry bees at your enemies. Monsters who come to near your targets will incur the wrath of the swarm!
+@@ 3755 | translate | SKILLS/SHARED/DERVISH/DERVISH1.DAT | SKILL | DESCRIPTION
+The caster whirls into action with rapidly accelerated attacks and casts for 10 seconds.
+@@ 3756 | translate | SKILLS/SHARED/DERVISH/DERVISH2.DAT | SKILL | DESCRIPTION
+The caster whirls into action with rapidly accelerated attacks and casts for 12 seconds.
+@@ 3757 | translate | SKILLS/SHARED/DERVISH/DERVISH3.DAT | SKILL | DESCRIPTION
+The caster whirls into action with rapidly accelerated attacks and casts for 14 seconds.
+@@ 3758 | translate | SKILLS/SHARED/DERVISH/DERVISH4.DAT | SKILL | DESCRIPTION
+The caster whirls into action with rapidly accelerated attacks and casts for 16 seconds.
+@@ 3759 | translate | SKILLS/SHARED/DERVISH/DERVISH5.DAT | SKILL | DESCRIPTION
+The caster whirls into action with rapidly accelerated attacks and casts for 18 seconds.
+@@ 3760 | translate | SKILLS/SHARED/DERVISH/DERVISH6.DAT | SKILL | DESCRIPTION
+The caster whirls into action with rapidly accelerated attacks and casts for 20 seconds.
+@@ 3761 | translate | SKILLS/SHARED/ELEMENTALOVERLOAD/ELEMENTALOVERLOAD1.DAT | SKILL | DESCRIPTION
+The caster is imbued with increased elemental damage strength
+@@ 3762 | translate | SKILLS/SHARED/FIREBALL/FIREBALL.DAT | SKILL | DESCRIPTION
+Launches a slow-moving, explosive ball of flame from the caster's hand.
+@@ 3763 | translate | SKILLS/SHARED/FROSTBALL/FROSTBALL.DAT | SKILL | DESCRIPTION
+Fires three frost missiles that freeze all enemies within their 3m blast radius.
+@@ 3764 | translate | SKILLS/SHARED/HASTE/HASTE.DAT | SKILL | DESCRIPTION
+The caster's movement speed is increased for 8 seconds
+@@ 3765 | translate | SKILLS/SHARED/HEAL/HEAL1.DAT | SKILL | DESCRIPTION
+Heals the caster
+@@ 3766 | translate | SKILLS/SHARED/HEAL/HEAL_ALL1.DAT | SKILL | DESCRIPTION
+Heals the caster and all allies
+@@ 3767 | translate | SKILLS/SHARED/IDENTIFY/IDENTIFY.DAT | SKILL | DESCRIPTION
+Identifies an enchanted item's properties
+@@ 3768 | translate | SKILLS/SHARED/LIFESTEAL/LIFESTEAL.DAT | SKILL | DESCRIPTION
+The caster draws life from any foes struck for the duration of the spell
+@@ 3769 | translate | SKILLS/SHARED/PASSIVES/ADRENALINERUSH.DAT | SKILL | BASE_DESCRIPTION
+You have a passive 15% chance on being struck to gain a burst of speed, granting you the ability to attack faster or escape safely.  Once triggered, Adrenaline Rush has a 10 second cooldown.
+@@ 3770 | translate | SKILLS/SHARED/PASSIVES/ADVENTURER.DAT | SKILL | BASE_DESCRIPTION
+Improves the potency of potions, increases the rate of Experience and Fame gain, and reduces resurrection penalties.  Only one Adventuring spell may be equipped at a time.
+@@ 3771 | translate | SKILLS/SHARED/PASSIVES/ARMOR.DAT | SKILL | BASE_DESCRIPTION
+Mastery of all forms of armor reduces requirements and improves armor absorption.  Only one Armor Expertise spell may be equipped at a time.
+@@ 3772 | translate | SKILLS/SHARED/PASSIVES/BARTER.DAT | SKILL | BASE_DESCRIPTION
+Reduces the purchase prices at Merchants, Enchanters, and Gamblers. Improves the sale prices of your own goods.  Only one Barter spell may be equipped at a time.
+@@ 3773 | translate | SKILLS/SHARED/PASSIVES/BLOCK.DAT | SKILL | BASE_DESCRIPTION
+Increases the chance to block with a shield.  Only one Blocking spell may be equipped at a time.
+@@ 3774 | translate | SKILLS/SHARED/PASSIVES/CRITICAL.DAT | SKILL | BASE_DESCRIPTION
+Increases the chance and improves the damage of all critical strikes.  Only one Critical Strikes spell may be equipped at a time.
+@@ 3775 | translate | SKILLS/SHARED/PASSIVES/DUALWIELD.DAT | SKILL | BASE_DESCRIPTION
+Improves damage of all weapons when dual-wielding.  Only one Dual Wielding spell may be equipped at a time.
+@@ 3776 | translate | SKILLS/SHARED/PASSIVES/MAGIC.DAT | SKILL | BASE_DESCRIPTION
+Grants mastery of Wands and Staves and grants reduced requirements for Rings and Amulets.  Only one Arcane Tools spell may be equipped at a time.
+@@ 3777 | translate | SKILLS/SHARED/PASSIVES/MARTIAL.DAT | SKILL | BASE_DESCRIPTION
+Mastery of Claws, Swords, Axes, Maces and Polearms.  Only one Weapons Expertise spell may be equipped at a time.
+@@ 3778 | translate | SKILLS/SHARED/PASSIVES/PET.DAT | SKILL | BASE_DESCRIPTION
+Increases your pet and minion's power, and decreases the pet's town-travel time.  Only one Pet Mastery spell may be equipped at a time.
+@@ 3779 | translate | SKILLS/SHARED/PASSIVES/RANGED.DAT | SKILL | BASE_DESCRIPTION
+Mastery of Bows, Pistols, Crossbows, Shotgonnes, and Cannons.  Only one Ranged Weapons Expertise spell may be equipped at a time.
+@@ 3780 | translate | SKILLS/SHARED/PASSIVES/RESISTSLOWANDIMMOB.DAT | SKILL | BASE_DESCRIPTION
+Provides a resistance to slowing and immobilizing effects.  Only one Willpower spell may be equipped at a time.
+@@ 3781 | translate | SKILLS/SHARED/PASSIVES/SPELLCASTING.DAT | SKILL | BASE_DESCRIPTION
+Improves Mana recharge rate.  Only one Concentration spell may be equipped at a time.
+@@ 3782 | translate | SKILLS/SHARED/PASSIVES/TREASURE.DAT | SKILL | BASE_DESCRIPTION
+Increases the chance to find magic items and gold.  Only one Treasure Hunter spell may be equipped at a time.
+@@ 3783 | translate | SKILLS/SHARED/POISONCLOUD/POISONCLOUD.DAT | SKILL | DESCRIPTION
+Blasts a noxious cloud of poison gas around the caster
+@@ 3784 | translate | SKILLS/SHARED/REPEL/REPEL.DAT | SKILL | DESCRIPTION
+Nearby foes are pushed away by a powerful gust of wind
+@@ 3785 | translate | SKILLS/SHARED/RESISTALL/RESISTALL1.DAT | SKILL | DESCRIPTION
+The caster is buffered by increased elemental resistances
+@@ 3786 | translate | SKILLS/SHARED/RETRIBUTION/RETRIBUTION.DAT | SKILL | DESCRIPTION
+The caster is possessed with a vengeful spirit, which automatically strikes back at attackers. Lasts for 12 seconds.
+@@ 3787 | translate | SKILLS/SHARED/RETRIBUTION/RETRIBUTION2.DAT | SKILL | DESCRIPTION
+The caster is possessed with a vengeful spirit, which automatically strikes back at attackers. Lasts for 16 seconds.
+@@ 3788 | translate | SKILLS/SHARED/RETRIBUTION/RETRIBUTION3.DAT | SKILL | DESCRIPTION
+The caster is possessed with a vengeful spirit, which automatically strikes back at attackers. Lasts for 20 seconds.
+@@ 3789 | translate | SKILLS/SHARED/RETRIBUTION/RETRIBUTION4.DAT | SKILL | DESCRIPTION
+The caster is possessed with a vengeful spirit, which automatically strikes back at attackers. Lasts for 24 seconds.
+@@ 3790 | translate | SKILLS/SHARED/RETRIBUTION/RETRIBUTION5.DAT | SKILL | DESCRIPTION
+The caster is possessed with a vengeful spirit, which automatically strikes back at attackers. Lasts for 28 seconds.
+@@ 3791 | translate | SKILLS/SHARED/RETRIBUTION/RETRIBUTION6.DAT | SKILL | DESCRIPTION
+The caster is possessed with a vengeful spirit, which automatically strikes back at attackers. Lasts for 32 seconds.
+@@ 3792 | translate | SKILLS/SHARED/ROLLER/ROLLER.DAT | SKILL | DESCRIPTION
+Launches a wheel of fire.
+@@ 3793 | translate | SKILLS/SHARED/ROLLER/ROLLER2.DAT | SKILL | DESCRIPTION
+Launches an fast wheel of fire.
+@@ 3794 | translate | SKILLS/SHARED/ROLLER/ROLLER3.DAT | SKILL | DESCRIPTION
+Launches a pair of fire wheels.
+@@ 3795 | translate | SKILLS/SHARED/ROLLER/ROLLER4.DAT | SKILL | DESCRIPTION
+Launches a pair of fast fire wheels.
+@@ 3796 | translate | SKILLS/SHARED/ROLLER/ROLLER5.DAT | SKILL | DESCRIPTION
+Launches a trio of fire wheels.
+@@ 3797 | translate | SKILLS/SHARED/ROLLER/ROLLER6.DAT | SKILL | DESCRIPTION
+Launches a trio of fast fire wheels.
+@@ 3798 | translate | SKILLS/SHARED/RUMBLE/RUMBLE.DAT | SKILL | BASE_DESCRIPTION
+A pulse of energy expands outwards, shattering delicate objects in the vicinity
+@@ 3799 | translate | SKILLS/SHARED/SILENCE/SILENCE.DAT | SKILL | DESCRIPTION
+Silences enemies within 4 meters, preventing them from using most skills.
+@@ 3800 | translate | SKILLS/SHARED/SILENCE/SILENCE2.DAT | SKILL | DESCRIPTION
+Silences enemies within 5 meters, preventing them from using most skills.
+@@ 3801 | translate | SKILLS/SHARED/SILENCE/SILENCE3.DAT | SKILL | DESCRIPTION
+Silences enemies within 6 meters, preventing them from using most skills.
+@@ 3802 | translate | SKILLS/SHARED/SILENCE/SILENCE4.DAT | SKILL | DESCRIPTION
+Silences enemies within 7 meters, preventing them from using most skills.
+@@ 3803 | translate | SKILLS/SHARED/SILENCE/SILENCE5.DAT | SKILL | DESCRIPTION
+Silences enemies within 8 meters, preventing them from using most skills.
+@@ 3804 | translate | SKILLS/SHARED/SILENCE/SILENCE6.DAT | SKILL | DESCRIPTION
+Silences enemies within 9 meters, preventing them from using most skills.
+@@ 3805 | translate | SKILLS/SHARED/SUMMONALOEGEL/SUMMONALOEGEL.DAT | SKILL | DESCRIPTION
+Summons a healing Gel that heals the caster and all allies. 120s pet cooldown.
+@@ 3806 | translate | SKILLS/SHARED/SUMMONARCHERS/SUMMONARCHERS.DAT | SKILL | DESCRIPTION
+Summons a pack of 3 non-moving Skeletal Archers to attack your foes. 60s pet cooldown.
+@@ 3807 | translate | SKILLS/SHARED/SUMMONARCHERS/SUMMONARCHERS2.DAT | SKILL | DESCRIPTION
+Summons a pack of 4 non-moving Skeletal Archers to attack your foes. 60s pet cooldown.
+@@ 3808 | translate | SKILLS/SHARED/SUMMONARCHERS/SUMMONARCHERS3.DAT | SKILL | DESCRIPTION
+Summons a pack of 5 non-moving Skeletal Archers to attack your foes. 60s pet cooldown.
+@@ 3809 | translate | SKILLS/SHARED/SUMMONARCHERS/SUMMONARCHERS4.DAT | SKILL | DESCRIPTION
+Summons a pack of 6 non-moving Skeletal Archers to attack your foes. 60s pet cooldown.
+@@ 3810 | translate | SKILLS/SHARED/SUMMONARCHERS/SUMMONARCHERS5.DAT | SKILL | DESCRIPTION
+Summons a pack of 7 non-moving Skeletal Archers to attack your foes. 60s pet cooldown.
+@@ 3811 | translate | SKILLS/SHARED/SUMMONARCHERS/SUMMONARCHERS6.DAT | SKILL | DESCRIPTION
+Summons a pack of 8 non-moving Skeletal Archers to attack your foes. 60s pet cooldown.
+@@ 3812 | translate | SKILLS/SHARED/SUMMONFLAMESWORD/SUMMONFLAMESWORD.DAT | SKILL | DESCRIPTION
+Summons an enchanted Flaming Sword to attack your foes. 120s pet cooldown.
+@@ 3813 | translate | SKILLS/SHARED/SUMMONFLAMESWORD/SUMMONFLAMESWORD2.DAT | SKILL | DESCRIPTION
+Summons an improved Flaming Sword to attack your foes. 120s pet cooldown.
+@@ 3814 | translate | SKILLS/SHARED/SUMMONIMP/SUMMONIMP.DAT | SKILL | DESCRIPTION
+Summons a Nether Imp to attack your foes for 30s
+@@ 3815 | translate | SKILLS/SHARED/SUMMONIMP/SUMMONIMP2.DAT | SKILL | DESCRIPTION
+Summons a Nether Imp to attack your foes for 30s.  Stronger than Nether Imp I and has a chance to silence on attack.
+@@ 3816 | translate | SKILLS/SHARED/SUMMONIMP/SUMMONIMP3.DAT | SKILL | DESCRIPTION
+Summons a Nether Imp to attack your foes for 30s.  Stronger than Nether Imp II and has a higher chance to silence on attack.
+@@ 3817 | translate | SKILLS/SHARED/SUMMONIMP/SUMMONIMP4.DAT | SKILL | DESCRIPTION
+Summons a Nether Imp to attack your foes for 30s.  Stronger than Nether Imp III and has a higher chance to silence on attack.
+@@ 3818 | translate | SKILLS/SHARED/SUMMONIMP/SUMMONIMP5.DAT | SKILL | DESCRIPTION
+Summons a Nether Imp to attack your foes for 30s.  Stronger than Nether Imp IV and has a chance on attack to silence all nearby enemies.
+@@ 3819 | translate | SKILLS/SHARED/SUMMONSKELETON/SUMMONSKELETON.DAT | SKILL | DESCRIPTION
+Summons a Skeletal Warrior to attack your foes. 60s pet cooldown.
+@@ 3820 | translate | SKILLS/SHARED/SUMMONSKELETON/SUMMONSKELETON2.DAT | SKILL | DESCRIPTION
+Summons an improved Skeletal Warrior to attack your foes. 60s pet cooldown.
+@@ 3821 | translate | SKILLS/SHARED/SUMMONSKELETON/SUMMONSKELETON_RARE_BLOOD.DAT | SKILL | DESCRIPTION
+Summons a Blood Skeleton to attack your foes. 30s pet cooldown.
+@@ 3822 | translate | SKILLS/SHARED/SUMMONZOMBIES/SUMMONBLOODZOMBIE.DAT | SKILL | DESCRIPTION
+Summons a fearsome Blood Zombie. 120s pet cooldown.
+@@ 3823 | translate | SKILLS/SHARED/SUMMONZOMBIES/SUMMONZOMBIES.DAT | SKILL | DESCRIPTION
+Summons a pack of suicidal Zombies that poison your foes. 120s pet cooldown.
+@@ 3824 | translate | SKILLS/SHARED/SUMMONZOMBIES/SUMMONZOMBIES2.DAT | SKILL | DESCRIPTION
+Summons a pack of suicidal Zombies that poison your foes. Version II Zombies have a more vicious poison attack. 120s pet cooldown.
+@@ 3825 | translate | SKILLS/SHARED/SUMMONZOMBIES/SUMMONZOMBIES3.DAT | SKILL | DESCRIPTION
+Summons a pack of  suicidal Zombies that poison your foes. Version III Zombies have an even more vicious poison attack. 120s pet cooldown.
+@@ 3826 | translate | SKILLS/SHARED/SUMMONZOMBIES/SUMMONZOMBIES4.DAT | SKILL | DESCRIPTION
+Summons a pack of suicidal Zombies that poison your foes. Version IV Zombies have a still more vicious poison attack. 120s pet cooldown.
+@@ 3827 | translate | SKILLS/SHARED/SUMMONZOMBIES/SUMMONZOMBIES5.DAT | SKILL | DESCRIPTION
+Summons a pack of suicidal Zombies that poison your foes. Version V Zombies upgrade their poison attack even further than before. 120s pet cooldown.
+@@ 3828 | translate | SKILLS/SHARED/SUMMONZOMBIES/SUMMONZOMBIES6.DAT | SKILL | DESCRIPTION
+Summons a pack of suicidal Zombies that poison your foes. Version VI Zombies have the most vicious poison attack of all! 120s pet cooldown.
+@@ 3829 | translate | SKILLS/SHARED/TOWNPORTAL/TOWNPORTAL.DAT | SKILL | DESCRIPTION
+Create a two-way magic Portal back to Town.
+@@ 3830 | translate | SKILLS/SHARED/TUNNELER/TUNNELER_LAUNCH.DAT | SKILL | DESCRIPTION
+Exploding cannonballs that cannot feel love
+@@ 3831 | translate | SKILLS/SHARED/WEB/WEBSPELL.DAT | SKILL | DESCRIPTION
+Fires a sticky web missile, preventing any movement from its target
+@@ 3832 | translate | SKILLS/SHRINES/DRAGONSHRINE.DAT | SKILL | DESCRIPTION
+The Dragon Shrine has endowed you with a magical buff.
+@@ 3833 | translate | SKILLS/TEST/3FIREBALLS.DAT | SKILL | DESCRIPTION
+Three fire balls shot out from the player.
+@@ 3834 | translate | SKILLS/TEST/ATTACKSWOOSH.DAT | SKILL | DESCRIPTION
+A huge slashing swoosh
+@@ 3835 | translate | SKILLS/TEST/LOOPTEST.DAT | SKILL | DESCRIPTION
+Test for looping into an animation
+@@ 3836 | translate | SKILLS/TEST/SLAMDOWN.DAT | SKILL | DESCRIPTION
+Unleashes a powerful exploding force of nature in front of the player.
+@@ 3837 | translate | SKILLS/TEST/SPAWN.DAT | SKILL | DESCRIPTION
+Spawns a line of skeletons
+@@ 3838 | translate | SKILLS/TEST/STOMP.DAT | SKILL | DESCRIPTION
+Stomp, pushes enemies back
+@@ 3839 | translate | SKILLS/VANQUISHER/ARMORTRAP/ARMORTRAP.DAT | #1c7a1db2 | DESCRIPTION
+Hurl a device that drains the armor of all nearby foes. Drains 34% of enemy armor and has a 12% chance to stun for 3 seconds.
+@@ 3840 | translate | SKILLS/VANQUISHER/ARMORTRAP/ARMORTRAP.DAT | #1c7a1db3 | DESCRIPTION
+Hurl a device that drains the armor of all nearby foes. Drains 32% of enemy armor and has a 11% chance to stun for 3 seconds.
+@@ 3841 | translate | SKILLS/VANQUISHER/ARMORTRAP/ARMORTRAP.DAT | #1c7a1db4 | DESCRIPTION
+Hurl a device that drains the armor of all nearby foes. Drains 38% of enemy armor and has a 14% chance to stun for 3 seconds.
+@@ 3842 | translate | SKILLS/VANQUISHER/ARMORTRAP/ARMORTRAP.DAT | #1c7a1db5 | DESCRIPTION
+Hurl a device that drains the armor of all nearby foes. Drains 36% of enemy armor and has a 13% chance to stun for 3 seconds.
+@@ 3843 | translate | SKILLS/VANQUISHER/ARMORTRAP/ARMORTRAP.DAT | #1c7a1db6 | DESCRIPTION
+Hurl a device that drains the armor of all nearby foes. Drains 42% of enemy armor and has a 16% chance to stun for 3 seconds.
+@@ 3844 | translate | SKILLS/VANQUISHER/ARMORTRAP/ARMORTRAP.DAT | #1c7a1db7 | DESCRIPTION
+Hurl a device that drains the armor of all nearby foes. Drains 40% of enemy armor and has a 15% chance to stun for 3 seconds.
+@@ 3845 | translate | SKILLS/VANQUISHER/ARMORTRAP/ARMORTRAP.DAT | #1c7a1db8 | DESCRIPTION
+Hurl a device that drains the armor of all nearby foes. Drains 46% of enemy armor and has a 18% chance to stun for 3 seconds.
+@@ 3846 | translate | SKILLS/VANQUISHER/ARMORTRAP/ARMORTRAP.DAT | #1c7a1db9 | DESCRIPTION
+Hurl a device that drains the armor of all nearby foes. Drains 44% of enemy armor and has a 17% chance to stun for 3 seconds.
+@@ 3847 | translate | SKILLS/VANQUISHER/ARMORTRAP/ARMORTRAP.DAT | #8f43b639 | DESCRIPTION
+Hurl a device that drains the armor of all nearby foes. Drains 52% of enemy armor and has a 21% chance to stun for 3 seconds.
+@@ 3848 | translate | SKILLS/VANQUISHER/ARMORTRAP/ARMORTRAP.DAT | #8f43b63a | DESCRIPTION
+Hurl a device that drains the armor of all nearby foes. Drains 50% of enemy armor and has a 20% chance to stun for 3 seconds.
+@@ 3849 | translate | SKILLS/VANQUISHER/ARMORTRAP/ARMORTRAP.DAT | #8f43b63b | DESCRIPTION
+Hurl a device that drains the armor of all nearby foes. Drains 48% of enemy armor and has a 19% chance to stun for 3 seconds.
+@@ 3850 | translate | SKILLS/VANQUISHER/ARMORTRAP/ARMORTRAP.DAT | SKILL | DESCRIPTION
+Hurl a device that drains the armor of all nearby foes. Drains 30% of enemy armor and has a 10% chance to stun for 3 seconds.
+@@ 3851 | translate | SKILLS/VANQUISHER/ARROWHAIL/ARROWHAIL.DAT | SKILL | DESCRIPTION
+Call forth a hail of arrows to pierce your foes
+@@ 3852 | translate | SKILLS/VANQUISHER/EXPLOSIVE/EXPLOSIVE.DAT | SKILL | DESCRIPTION
+Fire a projectile from any equipped ranged weapon that detonates on impact, dealing damage to foes within 4.5 meters
+@@ 3853 | translate | SKILLS/VANQUISHER/FLAMETRAP/FLAMETRAP.DAT | SKILL | DESCRIPTION
+Hurl a device that burns nearby foes with gouts of flame, devestating low resist enemies.
+@@ 3854 | translate | SKILLS/VANQUISHER/HAMSTRING/DASH.DAT | SKILL | DESCRIPTION
+A swift dash which slices enemies with a pair of dirks, impairing their movement and inducing bleeding.
+@@ 3855 | translate | SKILLS/VANQUISHER/ICESHOT/ICESHOT.DAT | SKILL | DESCRIPTION
+Fire a piercing Ice projectile from a ranged weapon
+@@ 3856 | translate | SKILLS/VANQUISHER/NEEDLES/NEEDLES.DAT | #1c7a1db0 | DESCRIPTION
+Fling an arc of 5 darts that pierces foes
+@@ 3857 | translate | SKILLS/VANQUISHER/NEEDLES/NEEDLES.DAT | #1c7a1db4 | DESCRIPTION
+Fling an arc of 7 darts that pierces foes
+@@ 3858 | translate | SKILLS/VANQUISHER/NEEDLES/NEEDLES.DAT | SKILL | DESCRIPTION
+Fling an arc of 3 darts that pierces foes
+@@ 3859 | translate | SKILLS/VANQUISHER/RICOCHET/RICOCHET.DAT | SKILL | DESCRIPTION
+Fire a ricocheting projectile from the active ranged weapon
+@@ 3860 | translate | SKILLS/VANQUISHER/SEEKING/SEEKING.DAT | SKILL | DESCRIPTION
+Fires 3 projectiles that seek out nearby foes
+@@ 3861 | translate | SKILLS/VANQUISHER/SHOCKTRAP/SHOCKTRAP.DAT | SKILL | DESCRIPTION
+Hurl a device that shocks nearby foes with bolts of lightning
+@@ 3862 | translate | SKILLS/VANQUISHER/SHRAPNELTRAP/SHRAPNELTRAP.DAT | SKILL | DESCRIPTION
+Hurl a device that sprays foes with piercing flechettes
+@@ 3863 | translate | SKILLS/VANQUISHER/STAB/STABDASH.DAT | SKILL | DESCRIPTION
+A brutal forward strike with two dirks
+@@ 3864 | translate | SKILLS/VANQUISHER/SWEEP/SWEEP.DAT | SKILL | DESCRIPTION
+Pushes nearby enemies away with a freezing force of righteousness.
+@@ 3865 | translate | SKILLS/VANQUISHER/TESLABOMB/TESLABOMB.DAT | SKILL | DESCRIPTION
+Hurl a bomb that splits into electrical bolts on impact
+@@ 3866 | translate | SKILLS/VANQUISHER/VENOMDIRK/VENOMDIRK.DAT | SKILL | DESCRIPTION
+Release a set of enchanted poison dirks which slowly seek out and pierce enemies
+@@ 3867 | translate | SKILLS/WANDERER/CHAOSSHOT/CHAOSSHOT.DAT | SKILL | BASE_DESCRIPTION
+You fire a trio of chaotic, ricocheting projectiles.
+@@ 3868 | translate | SKILLS/WANDERER/CHAOSSHOT/CHAOSSHOT.DAT | SKILL | REQUIREMENT_DESCRIPTION
+Requires a bow, crossbow, shotgonne, or pistol
+@@ 3869 | translate | SKILLS/WANDERER/CHAOSSHOT/CHAOSSHOT.DAT | SKILL | TIER1_DESCRIPTION
+Missile speed increased 50%
+@@ 3870 | translate | SKILLS/WANDERER/CHAOSSHOT/CHAOSSHOT.DAT | SKILL | TIER2_DESCRIPTION
+Missiles have a 30% chance to poison their target
+@@ 3871 | translate | SKILLS/WANDERER/CHAOSSHOT/CHAOSSHOT.DAT | SKILL | TIER3_DESCRIPTION
+2 additional missiles per burst
+@@ 3872 | translate | SKILLS/WANDERER/DARTFAN/DARTFAN.DAT | SKILL | BASE_DESCRIPTION
+You fling 9 piercing daggers in a wide arc, which poison and cripple many foes at once, reducing the damage they deal.
+@@ 3873 | translate | SKILLS/WANDERER/DARTFAN/DARTFAN.DAT | SKILL | TIER1_DESCRIPTION
+Number of daggers increased to 11. You gain .5% increased move speed per enemy hit for 4 seconds.
+@@ 3874 | translate | SKILLS/WANDERER/DARTFAN/DARTFAN.DAT | SKILL | TIER2_DESCRIPTION
+Number of daggers increased to 13. You gain .5% critical hit chance per enemy hit for 4 seconds.
+@@ 3875 | translate | SKILLS/WANDERER/DARTFAN/DARTFAN.DAT | SKILL | TIER3_DESCRIPTION
+Number of daggers increased to 15. You gain .5% increased damage per enemy hit for 4 seconds.
+@@ 3876 | translate | SKILLS/WANDERER/DASH/DASH.DAT | SKILL | BASE_DESCRIPTION
+You execute a fiery, spinning leap, up to 7 meters forward. Any foes hit along the way are knocked back and set aflame.
+@@ 3877 | translate | SKILLS/WANDERER/DASH/DASH.DAT | SKILL | TIER1_DESCRIPTION
+10% faster to cast and range extended to 9 meters
+@@ 3878 | translate | SKILLS/WANDERER/DASH/DASH.DAT | SKILL | TIER2_DESCRIPTION
+20% faster to cast and range extended to 11 meters
+@@ 3879 | translate | SKILLS/WANDERER/DASH/DASH.DAT | SKILL | TIER3_DESCRIPTION
+30% faster to cast and range extended to 13 meters
+@@ 3880 | translate | SKILLS/WANDERER/DEATHSPIRAL/DEATHSPIRAL.DAT | SKILL | BASE_DESCRIPTION
+Fire a deadly spiral of arrows to strike the enemies all around you
+@@ 3881 | translate | SKILLS/WANDERER/EXPLODINGGLAIVE/EXPLODINGGLAIVE.DAT | SKILL | BASE_DESCRIPTION
+You hurl a throwing glaive, which shatters on impact, damaging and slowing all foes within 4.5 meters.
+@@ 3882 | translate | SKILLS/WANDERER/EXPLODINGGLAIVE/EXPLODINGGLAIVE.DAT | SKILL | TIER1_DESCRIPTION
+Adds a 25% chance that targets will flee for 3 seconds
+@@ 3883 | translate | SKILLS/WANDERER/EXPLODINGGLAIVE/EXPLODINGGLAIVE.DAT | SKILL | TIER2_DESCRIPTION
+Detonation size increased to 6 meters
+@@ 3884 | translate | SKILLS/WANDERER/EXPLODINGGLAIVE/EXPLODINGGLAIVE.DAT | SKILL | TIER3_DESCRIPTION
+Fire trails emanate from the point of detonation
+@@ 3885 | translate | SKILLS/WANDERER/GLAIVESWIPE/GLAIVESWIPE.DAT | SKILL | BASE_DESCRIPTION
+You sweep your glaive in a 360 degree arc, knocking back and stunning foes within 4 meters, while generating additional |c00ff9933Charge|u for each enemy struck.
+@@ 3886 | translate | SKILLS/WANDERER/GLAIVESWIPE/GLAIVESWIPE.DAT | SKILL | TIER1_DESCRIPTION
+Targets bleed
+@@ 3887 | translate | SKILLS/WANDERER/GLAIVESWIPE/GLAIVESWIPE.DAT | SKILL | TIER2_DESCRIPTION
+Range increased to 5.5 meters
+@@ 3888 | translate | SKILLS/WANDERER/GLAIVESWIPE/GLAIVESWIPE.DAT | SKILL | TIER3_DESCRIPTION
+Stun chance increased to 95%
+@@ 3889 | translate | SKILLS/WANDERER/GLAIVETHROW/GLAIVETHROW.DAT | SKILL | BASE_DESCRIPTION
+You hurl a throwing glaive, slicing through your target, rebounding once to strike additional foes, and generating extra |c00ff9933Charge|u.
+@@ 3890 | translate | SKILLS/WANDERER/GLAIVETHROW/GLAIVETHROW.DAT | SKILL | TIER1_DESCRIPTION
+The Glaive rebounds 2 times
+@@ 3891 | translate | SKILLS/WANDERER/GLAIVETHROW/GLAIVETHROW.DAT | SKILL | TIER2_DESCRIPTION
+The Glaive rebounds 3 times
+@@ 3892 | translate | SKILLS/WANDERER/GLAIVETHROW/GLAIVETHROW.DAT | SKILL | TIER3_DESCRIPTION
+The Glaive rebounds 4 times
+@@ 3893 | translate | SKILLS/WANDERER/GLAIVETHROW/GLAIVETHROW3.DAT | SKILL | DESCRIPTION
+1 extra bounce
+@@ 3894 | translate | SKILLS/WANDERER/GLAIVETHROW/GLAIVETHROWRETURN.DAT | SKILL | DESCRIPTION
+It comes back!
+@@ 3895 | translate | SKILLS/WANDERER/HEALTHANDMANACONVERT/MANACONVERT.DAT | SKILL | BASE_DESCRIPTION
+Intense focus allows you to master your Charge, and channel it immediately into your Health and Mana pools, while conferring additional resistances to elemental damage. Bonuses are proportional to the amount of Charge consumed.
+@@ 3896 | translate | SKILLS/WANDERER/HEXDECK/HEX DECK.DAT | SKILL | BASE_DESCRIPTION
+Curse an enemy, dealing damage over time and causing enemies to flee upon its death.
+@@ 3897 | translate | SKILLS/WANDERER/HEXDECK/HEXFEAR.DAT | SKILL | BASE_DESCRIPTION
+Causes enemies within range to flee in mortal terror
+@@ 3898 | translate | SKILLS/WANDERER/ORBITGLAIVE/ORBITGLAIVE.DAT | SKILL | BASE_DESCRIPTION
+You hurl two flaming glaives that circle outward in concentric rings, slashing all foes in range and setting them alight.
+@@ 3899 | translate | SKILLS/WANDERER/ORBITGLAIVE/ORBITGLAIVE.DAT | SKILL | TIER1_DESCRIPTION
+Glaive size increased, allowing it to strike more accurately
+@@ 3900 | translate | SKILLS/WANDERER/ORBITGLAIVE/ORBITGLAIVE.DAT | SKILL | TIER2_DESCRIPTION
+Struck enemies are 30% more vulnerable to Fire and Poison damage
+@@ 3901 | translate | SKILLS/WANDERER/ORBITGLAIVE/ORBITGLAIVE.DAT | SKILL | TIER3_DESCRIPTION
+Struck enemies are 45% more vulnerable to Fire and Poison Damage
+@@ 3902 | translate | SKILLS/WANDERER/PACTS/ESTHERIANPACT.DAT | SKILL | BASE_DESCRIPTION
+You invoke an ancient curse that protects you and your allies from physical and elemental damage and reflects some damage back on your attackers. The Stone Pact lasts for twenty seconds, and any ally passing through the pact's area benefits from its effects for the listed duration.
+@@ 3903 | translate | SKILLS/WANDERER/PACTS/ESTHERIANPACT.DAT | SKILL | TIER1_DESCRIPTION
+The pact reflects 25% of damage back at attacking monsters
+@@ 3904 | translate | SKILLS/WANDERER/PACTS/ESTHERIANPACT.DAT | SKILL | TIER2_DESCRIPTION
+The pact reflects 50% of damage back at attacking monsters
+@@ 3905 | translate | SKILLS/WANDERER/PACTS/ESTHERIANPACT.DAT | SKILL | TIER3_DESCRIPTION
+The pact reflects 75% of damage back at attacking monsters
+@@ 3906 | translate | SKILLS/WANDERER/PACTS/HEALBURST.DAT | SKILL | BASE_DESCRIPTION
+A healing burst.
+@@ 3907 | translate | SKILLS/WANDERER/PACTS/PACT MOVESPEED BUFF.DAT | SKILL | BASE_DESCRIPTION
+Research Adrenal Glands!
+@@ 3908 | translate | SKILLS/WANDERER/PACTS/TUTARANPACT.DAT | SKILL | BASE_DESCRIPTION
+You invoke an ancient curse that slows your foes and undermines their defenses. The Blade Pact lasts for seven seconds, and any enemy passing through the pact's area suffers the effects for the listed duration.
+@@ 3909 | translate | SKILLS/WANDERER/PACTS/TUTARANPACT.DAT | SKILL | TIER1_DESCRIPTION
+The pact lasts for 9 seconds
+@@ 3910 | translate | SKILLS/WANDERER/PACTS/TUTARANPACT.DAT | SKILL | TIER2_DESCRIPTION
+The pact lasts for 11 seconds
+@@ 3911 | translate | SKILLS/WANDERER/PACTS/TUTARANPACT.DAT | SKILL | TIER3_DESCRIPTION
+The pact lasts for 13 seconds
+@@ 3912 | translate | SKILLS/WANDERER/PASSIVES/BULLSEYE_MASTERY.DAT | SKILL | BASE_DESCRIPTION
+You are a master of accurate shooting, and can more precisely target your enemies' vital areas.
+@@ 3913 | translate | SKILLS/WANDERER/PASSIVES/DODGE_MASTERY.DAT | SKILL | BASE_DESCRIPTION
+Your acrobatic training increases your odds of dodging a blow. 
+@@ 3914 | translate | SKILLS/WANDERER/PASSIVES/DUAL_PISTOL_MASTERY.DAT | SKILL | BASE_DESCRIPTION
+Your skill with pistols enables you to deal more damage when wielding two at once and occasionally fire both simultaneously... to deadly effect.
+@@ 3915 | translate | SKILLS/WANDERER/PASSIVES/DUAL_PISTOL_MASTERY.DAT | SKILL | REQUIREMENT_DESCRIPTION
+Requires two equipped pistols to function
+@@ 3916 | translate | SKILLS/WANDERER/PASSIVES/LONG_RANGE_MASTERY.DAT | SKILL | BASE_DESCRIPTION
+Your expertise increases damage with all ranged weapons. Bows, crossbows, pistols and wands have increased firing distance.
+@@ 3917 | translate | SKILLS/WANDERER/PASSIVES/OUTLANDER_ELEMENTAL_DAMAGE_MASTERY.DAT | SKILL | BASE_DESCRIPTION
+Your expertise with the elements allows you to deal more damage with them. Poison receives twice the benefit of the other elements.
+@@ 3918 | translate | SKILLS/WANDERER/PASSIVES/SHOTGONNE_MASTERY.DAT | SKILL | BASE_DESCRIPTION
+Your expertise with shotgonnes increases the chance that your blasts shock and disorient your targets.
+@@ 3919 | translate | SKILLS/WANDERER/PASSIVES/SHOTGONNE_MASTERY.DAT | SKILL | REQUIREMENT_DESCRIPTION
+Requires a shotgonne
+@@ 3920 | translate | SKILLS/WANDERER/PHANTOMFLIP/PHANTOMBACKFLIP.DAT | SKILL | BASE_DESCRIPTION
+You vault swiftly backward, away from your target. This vault leaves behind a mystic sigil that damages and blinds foes in a 4 meter radius.
+@@ 3921 | translate | SKILLS/WANDERER/PHANTOMFLIP/PHANTOMBACKFLIP.DAT | SKILL | TIER1_DESCRIPTION
+Sigil radius extended to 5 meters. Blindness extended to 4 seconds. Allows use of health and mana steal abilities.
+@@ 3922 | translate | SKILLS/WANDERER/PHANTOMFLIP/PHANTOMBACKFLIP.DAT | SKILL | TIER2_DESCRIPTION
+Knockback added. Blindness extended to 5 seconds. Allows use of all weapon-based abilities.
+@@ 3923 | translate | SKILLS/WANDERER/PHANTOMFLIP/PHANTOMBACKFLIP.DAT | SKILL | TIER3_DESCRIPTION
+Radius extended to 6 meters. Blindness extended to 6 seconds. Builds |c00ff9933Charge|u.
+@@ 3924 | translate | SKILLS/WANDERER/PLAGUE/PLAGUE.DAT | #1c7a1db0 | DESCRIPTION
+A maximum of 2 lightning chains can appear.
+@@ 3925 | translate | SKILLS/WANDERER/PLAGUE/PLAGUE.DAT | #1c7a1db2 | DESCRIPTION
+A maximum of 3 lightning chains can appear.
+@@ 3926 | translate | SKILLS/WANDERER/PLAGUE/PLAGUE.DAT | #1c7a1db6 | DESCRIPTION
+A maximum of 4 lightning chains can appear.
+@@ 3927 | translate | SKILLS/WANDERER/PLAGUE/PLAGUE.DAT | SKILL | BASE_DESCRIPTION
+Throw a flask containing a virulent disease, which rapidly propagates betweenfoes.
+@@ 3928 | translate | SKILLS/WANDERER/PLAGUEDART/PLAGUEAOE.DAT | SKILL | BASE_DESCRIPTION
+Pestileeeence!
+@@ 3929 | translate | SKILLS/WANDERER/PLAGUEDART/PLAGUEDART.DAT | SKILL | BASE_DESCRIPTION
+Hurl a dart that inflicts a rare, deadly disease.\nDying under the effects of this plague results in an infectious explosion.
+@@ 3930 | translate | SKILLS/WANDERER/POISONARROWS/POISONARROWS.DAT | SKILL | BASE_DESCRIPTION
+You fire a flurry of poisonous bolts skyward, which streak to earth in a 4 meter radius around the target location. The hail hits with 8 waves per flurry.
+@@ 3931 | translate | SKILLS/WANDERER/POISONARROWS/POISONARROWS.DAT | SKILL | TIER1_DESCRIPTION
+Impact radius increased to 5.5 meters
+@@ 3932 | translate | SKILLS/WANDERER/POISONARROWS/POISONARROWS.DAT | SKILL | TIER2_DESCRIPTION
+Duration of flurry increased to 12 waves
+@@ 3933 | translate | SKILLS/WANDERER/PULLHEX/PULLHEX.DAT | SKILL | BASE_DESCRIPTION
+You summon a fetish which draws nearby foes toward it and has a chance to stun them. A maximum of 3 foes may be drawn at one time.  Max stun chance of 8%.
+@@ 3934 | translate | SKILLS/WANDERER/PULLHEX/PULLHEX.DAT | SKILL | TIER1_DESCRIPTION
+Foes are damaged when drawn
+@@ 3935 | translate | SKILLS/WANDERER/PULLHEX/PULLHEX.DAT | SKILL | TIER2_DESCRIPTION
+Up to five foes can be drawn at one time
+@@ 3936 | translate | SKILLS/WANDERER/PULLHEX/PULLHEX.DAT | SKILL | TIER3_DESCRIPTION
+Drawn foes transfer Mana to caster
+@@ 3937 | translate | SKILLS/WANDERER/RAPIDSHOT/RAPIDSHOT.DAT | SKILL | BASE_DESCRIPTION
+You fire a rapid burst of projectiles that force enemies back and strip away their armor. The intial range is 7 meters.
+@@ 3938 | translate | SKILLS/WANDERER/RAPIDSHOT/RAPIDSHOT.DAT | SKILL | TIER1_DESCRIPTION
+Errant shots are added every other shot
+@@ 3939 | translate | SKILLS/WANDERER/RAPIDSHOT/RAPIDSHOT.DAT | SKILL | TIER2_DESCRIPTION
+Range extended to 12 meters
+@@ 3940 | translate | SKILLS/WANDERER/RAPIDSHOT/RAPIDSHOT.DAT | SKILL | TIER3_DESCRIPTION
+Targets are ignited for 4 seconds
+@@ 3941 | translate | SKILLS/WANDERER/REPULSION/REPULSION.DAT | #1c7a1db0 | DESCRIPTION
+Hex can fire every 1 second
+@@ 3942 | translate | SKILLS/WANDERER/REPULSION/REPULSION.DAT | #1c7a1db2 | DESCRIPTION
+Hex can fire every .9 seconds and aims a bit faster
+@@ 3943 | translate | SKILLS/WANDERER/REPULSION/REPULSION.DAT | #1c7a1db3 | DESCRIPTION
+Hex can fire every .95 seconds and aims a bit faster
+@@ 3944 | translate | SKILLS/WANDERER/REPULSION/REPULSION.DAT | #1c7a1db4 | DESCRIPTION
+Hex can fire every .8 seconds and aims a bit faster
+@@ 3945 | translate | SKILLS/WANDERER/REPULSION/REPULSION.DAT | #1c7a1db5 | DESCRIPTION
+Hex can fire every .85 seconds and aims a bit faster
+@@ 3946 | translate | SKILLS/WANDERER/REPULSION/REPULSION.DAT | #1c7a1db6 | DESCRIPTION
+Hex can fire every .7 seconds and aims a bit faster
+@@ 3947 | translate | SKILLS/WANDERER/REPULSION/REPULSION.DAT | #1c7a1db7 | DESCRIPTION
+Hex can fire every .75 seconds and aims a bit faster
+@@ 3948 | translate | SKILLS/WANDERER/REPULSION/REPULSION.DAT | #1c7a1db8 | DESCRIPTION
+Hex can fire every .6 seconds and aims a bit faster
+@@ 3949 | translate | SKILLS/WANDERER/REPULSION/REPULSION.DAT | #1c7a1db9 | DESCRIPTION
+Hex can fire every .65 seconds and aims a bit faster
+@@ 3950 | translate | SKILLS/WANDERER/REPULSION/REPULSION.DAT | #8f43b638 | DESCRIPTION
+Hex can fire every .4 seconds and aims a bit faster
+@@ 3951 | translate | SKILLS/WANDERER/REPULSION/REPULSION.DAT | #8f43b639 | DESCRIPTION
+Hex can fire every .45 seconds and aims a bit faster
+@@ 3952 | translate | SKILLS/WANDERER/REPULSION/REPULSION.DAT | #8f43b63a | DESCRIPTION
+Hex can fire every .5 seconds and aims a bit faster
+@@ 3953 | translate | SKILLS/WANDERER/REPULSION/REPULSION.DAT | #8f43b63b | DESCRIPTION
+Hex can fire every .55 seconds and aims a bit faster
+@@ 3954 | translate | SKILLS/WANDERER/REPULSION/REPULSION.DAT | #8f43b63e | DESCRIPTION
+Hex can fire every .3 seconds and aims a bit faster
+@@ 3955 | translate | SKILLS/WANDERER/REPULSION/REPULSION.DAT | #8f43b63f | DESCRIPTION
+Hex can fire every .35 seconds and aims a bit faster
+@@ 3956 | translate | SKILLS/WANDERER/REPULSION/REPULSION.DAT | SKILL | BASE_DESCRIPTION
+You summon a floating hex avatar, which repulses enemies who draw too near.
+@@ 3957 | translate | SKILLS/WANDERER/REPULSION/REPULSION.DAT | SKILL | TIER1_DESCRIPTION
+The hex has a 10% chance to cause enemies to flee for 5 seconds
+@@ 3958 | translate | SKILLS/WANDERER/REPULSION/REPULSION.DAT | SKILL | TIER2_DESCRIPTION
+The hex has a 20% chance to cause enemies to flee for 5 seconds
+@@ 3959 | translate | SKILLS/WANDERER/REPULSION/REPULSION.DAT | SKILL | TIER3_DESCRIPTION
+The hex has a 30% chance to cause enemies to flee for 5 seconds
+@@ 3960 | translate | SKILLS/WANDERER/ROOTWALL/ROOTWALL.DAT | #1c7a1db0 | DESCRIPTION
+Brambles last for 10 seconds.
+@@ 3961 | translate | SKILLS/WANDERER/ROOTWALL/ROOTWALL.DAT | #1c7a1db2 | DESCRIPTION
+Brambles last for 16 seconds.
+@@ 3962 | translate | SKILLS/WANDERER/ROOTWALL/ROOTWALL.DAT | #1c7a1db3 | DESCRIPTION
+Brambles last for 13 seconds.
+@@ 3963 | translate | SKILLS/WANDERER/ROOTWALL/ROOTWALL.DAT | #1c7a1db4 | DESCRIPTION
+Brambles last for 20 seconds.
+@@ 3964 | translate | SKILLS/WANDERER/ROOTWALL/ROOTWALL.DAT | #1c7a1db5 | DESCRIPTION
+Brambles last for 19 seconds.
+@@ 3965 | translate | SKILLS/WANDERER/ROOTWALL/ROOTWALL.DAT | SKILL | BASE_DESCRIPTION
+You call forth a wall of thorned vines that prevent foes from approaching
+@@ 3966 | translate | SKILLS/WANDERER/ROOTWALL/ROOTWALL.DAT | SKILL | TIER1_DESCRIPTION
+Vines damage foes when raised
+@@ 3967 | translate | SKILLS/WANDERER/ROOTWALL/ROOTWALL.DAT | SKILL | TIER2_DESCRIPTION
+Vine length increased
+@@ 3968 | translate | SKILLS/WANDERER/ROOTWALL/ROOTWALL.DAT | SKILL | TIER3_DESCRIPTION
+Vines exude a poison gas
+@@ 3969 | translate | SKILLS/WANDERER/SANDSTORM/ACIDRAIN.DAT | #1c7a1db0 | DESCRIPTION
+Combo skill
+@@ 3970 | translate | SKILLS/WANDERER/SANDSTORM/SANDSTORM.DAT | SKILL | BASE_DESCRIPTION
+You hurl your glaive, generating a whirlwind that cuts through foes and saps their health. The sandstorm travels 20 meters and generates 1.5% of your charge bar |c00ff9933Charge|u for every enemy hit.
+@@ 3971 | translate | SKILLS/WANDERER/SANDSTORM/SANDSTORM.DAT | SKILL | TIER1_DESCRIPTION
+Killed foes emit clouds of plague flies
+@@ 3972 | translate | SKILLS/WANDERER/SANDSTORM/SANDSTORM.DAT | SKILL | TIER2_DESCRIPTION
+Range extended to 40 meters
+@@ 3973 | translate | SKILLS/WANDERER/SANDSTORM/SANDSTORM.DAT | SKILL | TIER3_DESCRIPTION
+Range extended to 50 meters
+@@ 3974 | translate | SKILLS/WANDERER/SHADOWMANTLE/SHADOWMANTLE.DAT | SKILL | BASE_DESCRIPTION
+You call forth a shadow hex protecting you from ranged attackers. The shadowmantle can reflect damage back to the attackers, and it has a chance to blind them for 6 seconds.
+@@ 3975 | translate | SKILLS/WANDERER/SHADOWMANTLE/SHADOWMANTLE.DAT | SKILL | TIER1_DESCRIPTION
+The hex reflects 125% of the missile damage
+@@ 3976 | translate | SKILLS/WANDERER/SHADOWMANTLE/SHADOWMANTLE.DAT | SKILL | TIER2_DESCRIPTION
+The hex reflects 175% of the missile damage
+@@ 3977 | translate | SKILLS/WANDERER/SHADOWMANTLE/SHADOWMANTLE.DAT | SKILL | TIER3_DESCRIPTION
+The hex reflects 250% of the missile damage
+@@ 3978 | translate | SKILLS/WANDERER/SHADOWSHOT/SHADOWSHOT.DAT | SKILL | BASE_DESCRIPTION
+You curse your ammunition, causing it to split into 3 shards upon impact, which seek additional targets.
+@@ 3979 | translate | SKILLS/WANDERER/SHADOWSHOT/SHADOWSHOT.DAT | SKILL | TIER1_DESCRIPTION
+Ammo splits into 4 shards
+@@ 3980 | translate | SKILLS/WANDERER/SHADOWSHOT/SHADOWSHOT.DAT | SKILL | TIER2_DESCRIPTION
+Ammo splits into 5 shards
+@@ 3981 | translate | SKILLS/WANDERER/SHADOWSHOT/SHADOWSHOT.DAT | SKILL | TIER3_DESCRIPTION
+Ammo splits into 6 shards
+@@ 3982 | translate | SKILLS/WANDERER/SHARETHEWEALTH/SHARETHEWEALTH.DAT | #1c7a1db0 | DESCRIPTION
+Shared Charge benefits: 20%
+@@ 3983 | translate | SKILLS/WANDERER/SHARETHEWEALTH/SHARETHEWEALTH.DAT | #1c7a1db2 | DESCRIPTION
+Shared Charge benefits: 28%
+@@ 3984 | translate | SKILLS/WANDERER/SHARETHEWEALTH/SHARETHEWEALTH.DAT | #1c7a1db3 | DESCRIPTION
+Shared Charge benefits: 24%
+@@ 3985 | translate | SKILLS/WANDERER/SHARETHEWEALTH/SHARETHEWEALTH.DAT | #1c7a1db4 | DESCRIPTION
+Shared Charge benefits: 36%
+@@ 3986 | translate | SKILLS/WANDERER/SHARETHEWEALTH/SHARETHEWEALTH.DAT | #1c7a1db5 | DESCRIPTION
+Shared Charge benefits: 32%
+@@ 3987 | translate | SKILLS/WANDERER/SHARETHEWEALTH/SHARETHEWEALTH.DAT | #1c7a1db6 | DESCRIPTION
+Shared Charge benefits: 44%
+@@ 3988 | translate | SKILLS/WANDERER/SHARETHEWEALTH/SHARETHEWEALTH.DAT | #1c7a1db7 | DESCRIPTION
+Shared Charge benefits: 40%
+@@ 3989 | translate | SKILLS/WANDERER/SHARETHEWEALTH/SHARETHEWEALTH.DAT | #1c7a1db8 | DESCRIPTION
+Shared Charge benefits: 52%
+@@ 3990 | translate | SKILLS/WANDERER/SHARETHEWEALTH/SHARETHEWEALTH.DAT | #1c7a1db9 | DESCRIPTION
+Shared Charge benefits: 48%
+@@ 3991 | translate | SKILLS/WANDERER/SHARETHEWEALTH/SHARETHEWEALTH.DAT | #8f43b638 | DESCRIPTION
+Shared Charge benefits: 68%
+@@ 3992 | translate | SKILLS/WANDERER/SHARETHEWEALTH/SHARETHEWEALTH.DAT | #8f43b639 | DESCRIPTION
+Shared Charge benefits: 64%
+@@ 3993 | translate | SKILLS/WANDERER/SHARETHEWEALTH/SHARETHEWEALTH.DAT | #8f43b63a | DESCRIPTION
+Shared Charge benefits: 60%
+@@ 3994 | translate | SKILLS/WANDERER/SHARETHEWEALTH/SHARETHEWEALTH.DAT | #8f43b63b | DESCRIPTION
+Shared Charge benefits: 56%
+@@ 3995 | translate | SKILLS/WANDERER/SHARETHEWEALTH/SHARETHEWEALTH.DAT | #8f43b63e | DESCRIPTION
+Shared Charge benefits: 76%
+@@ 3996 | translate | SKILLS/WANDERER/SHARETHEWEALTH/SHARETHEWEALTH.DAT | #8f43b63f | DESCRIPTION
+Shared Charge benefits: 72%
+@@ 3997 | translate | SKILLS/WANDERER/SHARETHEWEALTH/SHARETHEWEALTH.DAT | SKILL | BASE_DESCRIPTION
+You share a percentage of your |c00ff9933Charge|u benefits with all pets and allies within 16 meters, and you gain the same percentage as an additional bonus to your own benefits.
+@@ 3998 | translate | SKILLS/WANDERER/SNIPERSHOT/SNIPERSHOT.DAT | SKILL | BASE_DESCRIPTION
+An extreme long range shot of focussed energy that blasts a single target for high damage.
+@@ 3999 | translate | SKILLS/WANDERER/SUMMONBRUTE/SHADOWBRUTE.DAT | SKILL | BASE_DESCRIPTION
+You call forth a terrifying Shadowling Brute at the target location, which lays waste to your enemies.
+@@ 4000 | translate | SKILLS/WANDERER/SUMMONBRUTE/SHADOWBRUTE.DAT | SKILL | TIER1_DESCRIPTION
+Brute gains dash attack
+@@ 4001 | translate | SKILLS/WANDERER/SUMMONBRUTE/SHADOWBRUTE.DAT | SKILL | TIER2_DESCRIPTION
+Brute gains leap attack
+@@ 4002 | translate | SKILLS/WANDERER/SUMMONBRUTE/SHADOWBRUTE.DAT | SKILL | TIER3_DESCRIPTION
+Brute attack rate is increased 30%
+@@ 4003 | translate | SKILLS/WANDERER/TANGLINGSHOT/TANGLINGSHOT.DAT | SKILL | BASE_DESCRIPTION
+You fire a cursed projectile that binds and immobilizes your target. Enemies within a 3.5 meter radius of your target have a secondary chance of also being entangled. Entangled foes are slowly crushed, taking damage over time.
+@@ 4004 | translate | SKILLS/WANDERER/TANGLINGSHOT/TANGLINGSHOT.DAT | SKILL | TIER1_DESCRIPTION
+Secondary radius extended to 4.5 meters, and immobilize chance raised to 65%
+@@ 4005 | translate | SKILLS/WANDERER/TANGLINGSHOT/TANGLINGSHOT.DAT | SKILL | TIER2_DESCRIPTION
+Secondary radius extended to 5.5 meters, and immobilize chance raised to 80%
+@@ 4006 | translate | SKILLS/WANDERER/TANGLINGSHOT/TANGLINGSHOT.DAT | SKILL | TIER3_DESCRIPTION
+Secondary radius extended to 6.5 meters, and immobilize chance raised to 95%
+@@ 4007 | translate | SKILLS/WANDERER/VORTEX/VORTEX.DAT | SKILL | BASE_DESCRIPTION
+The Outlander hurls a spinning Glaive that seeks out foes and triggers a swirling vortex that draws enemies in.
+@@ 4008 | translate | SKILLS/WANDERER/WEAPONPROC/PASSIVEPROC.DAT | SKILL | BASE_DESCRIPTION
+You coat your projectiles with Venom Ember, giving them a chance to explode on impact and poison nearby foes.
+@@ 4009 | translate | SKILLS/WANDERER/WEAPONPROC/PASSIVEPROC.DAT | SKILL | REQUIREMENT_DESCRIPTION
+Requires a ranged weapon
+@@ 4010 | translate | SKILLS/WANDERER/WEAPONPROC/POISONEXPLODE.DAT | SKILL | BASE_DESCRIPTION
+You coat your weapons with a venomous agent. If an enemy is killed, there is a chance it will explode in a 6 meter cloud of poison, damaging enemies that come into contact with it. 
+@@ 4011 | translate | SKILLS/WANDERER/WEAPONPROC/POISONPROCSKILL.DAT | SKILL | BASE_DESCRIPTION
+Defeating enemies with melee attacks causes them to explode in a poisonous burst.
+@@ 4012 | translate | SKILLS/WANDERER/WEAPONPROC/ZOMBIEPROC.DAT | SKILL | BASE_DESCRIPTION
+You curse your projectiles with shadow magic that has a chance of converting slain enemies into Shadowling bats that fight for you for ten seconds. Death Ritual improves Shadowling summon duration and attack damage.
+@@ 4013 | translate | SKILLS/WANDERER/WEAPONPROC/ZOMBIEPROCSKILL.DAT | SKILL | BASE_DESCRIPTION
+Defeating enemies with ranged attacks converts them into short-lived Shadowling bats which will attack foes
+@@ 4014 | translate | SKILLS/WANDERER/ZOMBIEDUST/ZOMBIEDUST.DAT | SKILL | BASE_DESCRIPTION
+A blast of cursed breath poisons enemies. If they are killed, they are converted into Shadowling Fiends that fight for you for ten seconds. Note that the Death Ritual skill improves all Shadowling summon duration and attack power.
+@@ 4015 | translate | SKILLS/WANDERER/ZOMBIEDUST/ZOMBIEDUST.DAT | SKILL | TIER1_DESCRIPTION
+Shadowlings move and attack 10% faster
+@@ 4016 | translate | SKILLS/WANDERER/ZOMBIEDUST/ZOMBIEDUST.DAT | SKILL | TIER2_DESCRIPTION
+Shadowlings move and attack 20% faster
+@@ 4017 | translate | SKILLS/WANDERER/ZOMBIEDUST/ZOMBIEDUST.DAT | SKILL | TIER3_DESCRIPTION
+Shadowlings move and attack 30% faster
+@@ 4018 | translate | SKILLS/WANDERER/ZOMBIEPASSIVE/ZOMBIEPASSIVE.DAT | #1c7a1db0 | DESCRIPTION
+Shadowlings live for 11.5 seconds and do 5% additional damage.
+@@ 4019 | translate | SKILLS/WANDERER/ZOMBIEPASSIVE/ZOMBIEPASSIVE.DAT | #1c7a1db2 | DESCRIPTION
+Shadowlings live for 14.5 seconds and do 15% additional damage.
+@@ 4020 | translate | SKILLS/WANDERER/ZOMBIEPASSIVE/ZOMBIEPASSIVE.DAT | #1c7a1db3 | DESCRIPTION
+Shadowlings live for 13 seconds and do 10% additional damage.
+@@ 4021 | translate | SKILLS/WANDERER/ZOMBIEPASSIVE/ZOMBIEPASSIVE.DAT | #1c7a1db4 | DESCRIPTION
+Shadowlings live for 17.5 seconds and do 25% additional damage.
+@@ 4022 | translate | SKILLS/WANDERER/ZOMBIEPASSIVE/ZOMBIEPASSIVE.DAT | #1c7a1db5 | DESCRIPTION
+Shadowlings live for 16 seconds and do 20% additional damage.
+@@ 4023 | translate | SKILLS/WANDERER/ZOMBIEPASSIVE/ZOMBIEPASSIVE.DAT | #1c7a1db6 | DESCRIPTION
+Shadowlings live for 20.5 seconds and do 35% additional damage.
+@@ 4024 | translate | SKILLS/WANDERER/ZOMBIEPASSIVE/ZOMBIEPASSIVE.DAT | #1c7a1db7 | DESCRIPTION
+Shadowlings live for 19 seconds and do 30% additional damage.
+@@ 4025 | translate | SKILLS/WANDERER/ZOMBIEPASSIVE/ZOMBIEPASSIVE.DAT | #1c7a1db8 | DESCRIPTION
+Shadowlings live for 23.5 seconds and do 45% additional damage.
+@@ 4026 | translate | SKILLS/WANDERER/ZOMBIEPASSIVE/ZOMBIEPASSIVE.DAT | #1c7a1db9 | DESCRIPTION
+Shadowlings live for 22 seconds and do 40% additional damage.
+@@ 4027 | translate | SKILLS/WANDERER/ZOMBIEPASSIVE/ZOMBIEPASSIVE.DAT | #8f43b638 | DESCRIPTION
+Shadowlings live for 29.5 seconds and do 65% additional damage.
+@@ 4028 | translate | SKILLS/WANDERER/ZOMBIEPASSIVE/ZOMBIEPASSIVE.DAT | #8f43b639 | DESCRIPTION
+Shadowlings live for 28 seconds and do 60% additional damage.
+@@ 4029 | translate | SKILLS/WANDERER/ZOMBIEPASSIVE/ZOMBIEPASSIVE.DAT | #8f43b63a | DESCRIPTION
+Shadowlings live for 26.5 seconds and do 55% additional damage.
+@@ 4030 | translate | SKILLS/WANDERER/ZOMBIEPASSIVE/ZOMBIEPASSIVE.DAT | #8f43b63b | DESCRIPTION
+Shadowlings live for 25 seconds and do 50% additional damage.
+@@ 4031 | translate | SKILLS/WANDERER/ZOMBIEPASSIVE/ZOMBIEPASSIVE.DAT | #8f43b63e | DESCRIPTION
+Shadowlings live for 32.5 seconds and do 75% additional damage.
+@@ 4032 | translate | SKILLS/WANDERER/ZOMBIEPASSIVE/ZOMBIEPASSIVE.DAT | #8f43b63f | DESCRIPTION
+Shadowlings live for 31 seconds and do 70% additional damage.
+@@ 4033 | translate | SKILLS/WANDERER/ZOMBIEPASSIVE/ZOMBIEPASSIVE.DAT | SKILL | BASE_DESCRIPTION
+Your Shadowling allies last longer and deal more damage.
+@@ 4034 | translate | SKILLS/WARRIOR/ARMORDEBUFF/ARMORDEBUFF.DAT | SKILL | DESCRIPTION
+Disrupts the armor of nearby foes, amplifying the damage you deal to them
+@@ 4035 | translate | SKILLS/WARRIOR/BERSERK/BERSERK.DAT | SKILL | DESCRIPTION
+\nYou become insane gaining speed and damage bonus.\n
+@@ 4036 | translate | SKILLS/WARRIOR/BIGHIT/BIGHIT.DAT | SKILL | DESCRIPTION
+A powerful phantasmal blade cleaves your foes
+@@ 4037 | translate | SKILLS/WARRIOR/BLASTWAVE/BLASTWAVE.DAT | SKILL | DESCRIPTION
+\nMultiple shards of light pierce nearby foes\n
+@@ 4038 | translate | SKILLS/WARRIOR/BURST/BURST.DAT | SKILL | DESCRIPTION
+A burst of energy crackles along the ground,\nflinging enemies from its path\n
+@@ 4039 | translate | SKILLS/WARRIOR/CHAINS/CHAINS.DAT | SKILL | DESCRIPTION
+Phantasmal chains stun nearby foes
+@@ 4040 | translate | SKILLS/WARRIOR/CHARGE/CHARGE.DAT | SKILL | DESCRIPTION
+You rush forward in a flurry of powerful attacks using all equipped melee weapons. Movement is toward the cursor, draining mana as you go.
+@@ 4041 | translate | SKILLS/WARRIOR/FORWARDBLAST/FORWARDBLAST.DAT | SKILL | DESCRIPTION
+A brutal forward dash that damages all foes in its path\n
+@@ 4042 | translate | SKILLS/WARRIOR/FROSTSHIELD/FROSTSHIELD.DAT | SKILL | DESCRIPTION
+A protective field absorbs physical and elemental damage, and freezes foes who strike it
+@@ 4043 | translate | SKILLS/WARRIOR/PHALANX/PHALANX.DAT | SKILL | DESCRIPTION
+\nSummons a phalanx of Skeletal\nWarriorsto attack your foes\n
+@@ 4044 | translate | SKILLS/WARRIOR/QUAKE/QUAKE.DAT | SKILL | DESCRIPTION
+Strike the ground, sending burning cracks outward to pierce your foes
+@@ 4045 | translate | SKILLS/WARRIOR/SHADOWARMOR/SHADOWARMOR.DAT | SKILL | DESCRIPTION
+Summons a phantasm which attacks nearby foes
+@@ 4046 | translate | SKILLS/WARRIOR/SHADOWARMORBOW/SHADOWARMOR.DAT | SKILL | DESCRIPTION
+Summons a phantasm which attacks foes at range with a spectral bow
+@@ 4047 | translate | SKILLS/WARRIOR/SLASHINGWAVE/SLASHINGWAVE.DAT | SKILL | DESCRIPTION
+\nCause a mystic shield to appear that reflects missiles.\n
+@@ 4048 | translate | SKILLS/WARRIOR/SLOWAURA/SLOWAURA.DAT | SKILL | DESCRIPTION
+Enemies near you are slowed, and sometimes interrupted. The Aura lasts for two minutes.\n\nOnly one Aura may be active at a time.
+@@ 4049 | translate | SKILLS/WARRIOR/SPECTRALECHO/SPECTRALECHO.DAT | #1c7a1db0 | DESCRIPTION
+While active, attacks cause a spectral echo to damage foes beyond their normal range, dealing 30% of the weapon's DPS.
+@@ 4050 | translate | SKILLS/WARRIOR/SPECTRALECHO/SPECTRALECHO.DAT | #1c7a1db2 | DESCRIPTION
+While active, attacks cause a spectral echo to damage foes beyond their normal range, dealing 42% of the weapon's DPS.
+@@ 4051 | translate | SKILLS/WARRIOR/SPECTRALECHO/SPECTRALECHO.DAT | #1c7a1db3 | DESCRIPTION
+While active, attacks cause a spectral echo to damage foes beyond their normal range, dealing 36% of the weapon's DPS.
+@@ 4052 | translate | SKILLS/WARRIOR/SPECTRALECHO/SPECTRALECHO.DAT | #1c7a1db4 | DESCRIPTION
+While active, attacks cause a spectral echo to damage foes beyond their normal range, dealing 54% of the weapon's DPS.
+@@ 4053 | translate | SKILLS/WARRIOR/SPECTRALECHO/SPECTRALECHO.DAT | #1c7a1db5 | DESCRIPTION
+While active, attacks cause a spectral echo to damage foes beyond their normal range, dealing 48% of the weapon's DPS.
+@@ 4054 | translate | SKILLS/WARRIOR/SPECTRALECHO/SPECTRALECHO.DAT | #1c7a1db6 | DESCRIPTION
+While active, attacks cause a spectral echo to damage foes beyond their normal range, dealing 66% of the weapon's DPS.
+@@ 4055 | translate | SKILLS/WARRIOR/SPECTRALECHO/SPECTRALECHO.DAT | #1c7a1db7 | DESCRIPTION
+While active, attacks cause a spectral echo to damage foes beyond their normal range, dealing 60% of the weapon's DPS.
+@@ 4056 | translate | SKILLS/WARRIOR/SPECTRALECHO/SPECTRALECHO.DAT | #1c7a1db8 | DESCRIPTION
+While active, attacks cause a spectral echo to damage foes beyond their normal range, dealing 78% of the weapon's DPS.
+@@ 4057 | translate | SKILLS/WARRIOR/SPECTRALECHO/SPECTRALECHO.DAT | #1c7a1db9 | DESCRIPTION
+While active, attacks cause a spectral echo to damage foes beyond their normal range, dealing 72% of the weapon's DPS.
+@@ 4058 | translate | SKILLS/WARRIOR/SPECTRALECHO/SPECTRALECHO.DAT | #8f43b639 | DESCRIPTION
+While active, attacks cause a spectral echo to damage foes beyond their normal range, dealing 96% of the weapon's DPS.
+@@ 4059 | translate | SKILLS/WARRIOR/SPECTRALECHO/SPECTRALECHO.DAT | #8f43b63a | DESCRIPTION
+While active, attacks cause a spectral echo to damage foes beyond their normal range, dealing 90% of the weapon's DPS.
+@@ 4060 | translate | SKILLS/WARRIOR/SPECTRALECHO/SPECTRALECHO.DAT | #8f43b63b | DESCRIPTION
+While active, attacks cause a spectral echo to damage foes beyond their normal range, dealing 84% of the weapon's DPS.
+@@ 4061 | translate | SKILLS/WARRIOR/SPECTRALECHO/SPECTRALECHO.DAT | SKILL | DESCRIPTION
+While active, attacks cause a spectral echo to damage foes beyond their normal range
+@@ 4062 | translate | SKILLS/WARRIOR/STOMP/STOMP.DAT | SKILL | DESCRIPTION
+Blasts all nearby foes with a shockwave that damages and knocks them back\n
+@@ 4063 | translate | SKILLS/WARRIOR/THORNSAURA/THORNSAURA.DAT | SKILL | DESCRIPTION
+Enemies near you incur automatic damage over time. The aura lasts for two minutes.\n\nOnly one Aura may be active at a time.
+@@ 4064 | translate | SKILLS/WARRIOR/THUNDERPUNCH/THUNDERPUNCH.DAT | AFFIXES | ADDITIONALDESCRIPTION
+Explosion on Death Causes\n
+@@ 4065 | translate | SKILLS/WARRIOR/THUNDERPUNCH/THUNDERPUNCH.DAT | SKILL | DESCRIPTION
+A powerful attack that blows all enemies in front of you away.\n
+@@ 4066 | translate | SKILLS/WARRIOR/WHIRLINGGUST/WHIRLINGGUST.DAT | SKILL | DESCRIPTION
+Attacks all foes in front of you\nwith all equipped weapons\n

@@ -1,0 +1,240 @@
+@@ 5425
+Cấp tiếp theo
+@@ 5426
+NG
+@@ 5427
+Normal
+@@ 5428
+Tùy chọn
+@@ 5429
+Gạt đòn
+@@ 5430
+Pet
+@@ 5431
+Physical
+@@ 5432
+món
+@@ 5433
+Poison
+@@ 5434
+Potion
+@@ 5435
+giá
+@@ 5436
+Mua
+@@ 5437
+Nhiệm vụ
+@@ 5438
+Hoàn thành nhiệm vụ
+@@ 5439
+(Vật phẩm nhiệm vụ)
+@@ 5440
+Vật phẩm nhiệm vụ
+@@ 5441
+Nhiệm vụ
+@@ 5442
+Cấp bậc
+@@ 5443
+Rare
+@@ 5444
+đã đạt
+@@ 5445
+Phản lại
+@@ 5446
+Yêu cầu
+@@ 5447
+Yêu cầu 
+@@ 5448
+Hồi sinh
+@@ 5449
+Đã giải nghệ
+@@ 5450
+tay phải
+@@ 5451
+Ring
+@@ 5452
+Scroll
+@@ 5453
+giây
+@@ 5454
+Hiệu ứng phụ
+@@ 5455
+giây
+@@ 5456
+giây
+@@ 5457
+Bán
+@@ 5458
+Giá bán
+@@ 5459
+giá bán
+@@ 5460
+Set
+@@ 5461
+Shield
+@@ 5462
+Vật phẩm khảm
+@@ 5463
+Socket
+@@ 5464
+Strength
+@@ 5465
+Stud
+@@ 5466
+Nhãn
+@@ 5467
+Thrown
+@@ 5468
+Trinket
+@@ 5469
+Loại
+@@ 5470
+Chưa giám định
+@@ 5471
+Unique
+@@ 5472
+KHÔNG RÕ
+@@ 5473
+Không rõ
+@@ 5474
+Very Hard
+@@ 5475
+Veteran
+@@ 5476
+Vitality
+@@ 5477
+Wand
+@@ 5478
+Điểm dịch chuyển
+@@ 5479
+Vũ khí
+@@ 5480
+Vũ khí
+@@ 5481
+nhắn riêng
+@@ 5482
+XP
+@@ 5483
+Bạn đang định mua một vật phẩm mà bạn chưa thể dùng, vì chưa đủ cấp hoặc chưa đáp ứng yêu cầu chỉ số. Những yêu cầu bạn chưa đạt sẽ hiển thị bằng chữ màu đỏ.
+@@ 5484
+Đây là |cFFFFBA00giao diện phù phép|u. Đặt vật phẩm vào đây và trả phí để nhận phù phép ngẫu nhiên. Nhưng hãy nhớ: có khả năng mọi phù phép trên vật phẩm của bạn sẽ bị xóa sạch.
+@@ 5485
+Đây là một |cFFFFBA00điểm câu cá|u. Nhấp vào biểu tượng lưỡi câu khi vòng tròn chuyển sang màu đỏ và bạn nghe thấy tiếng cá đớp mồi. Phần lớn cá câu được có thể dùng để biến Pet của bạn thành sinh vật khác. Bạn thậm chí có thể câu được vật phẩm đặc biệt từ dưới đáy sâu.
+@@ 5486
+Đây là |cFFFFBA00giao diện đánh bạc|u. Mọi vật phẩm của thương nhân đều có thuộc tính chưa biết; bạn phải mua mới biết chúng có tác dụng gì. Vật phẩm nào cũng chắc chắn có ma thuật.
+@@ 5487
+Bạn |cFFFFBA00sắp hết máu|u. Để hồi máu và tránh bỏ mạng oan uổng, hãy |cFFFFBA00nhấp chuột phải vào Health Potion|u để uống. Bạn cũng có thể nhấn phím số tương ứng với Potion đã gán trên thanh ô nhanh ở cuối màn hình.
+@@ 5488
+|cFFFFBA00Nhấp chuột trái|u để tấn công kẻ địch bằng vũ khí. |cFFFFBA00Nhấp chuột phải|u để thi triển |cFFFFBA00kỹ năng|u đang chọn, mạnh hơn đòn đánh thường nhưng tiêu hao Mana.
+@@ 5489
+Đây là |cFFFFBA00màn hình hành trang|u của bạn. Kéo vũ khí và giáp vào ô phù hợp để trang bị. Vứt vật phẩm bằng cách kéo chúng ra khu vực chơi. Vật phẩm dùng được có thể kích hoạt bằng cách nhấp chuột phải. Để dùng vật phẩm cho Pet, hãy kéo chúng vào biểu tượng bát ăn của Pet ở góc trên bên trái màn hình, hoặc giữ |cFFFFBA00[SHIFT]|u khi nhấp chuột phải vào chúng.
+@@ 5490
+|cFFFFBA00Hành trang của bạn đã đầy|u. Hãy vứt bớt những vật phẩm không cần, hoặc đưa chúng cho Pet bằng cách mở hành trang của Pet và kéo vật phẩm vào các ô trống.
+@@ 5491
+Bạn đã lên cấp! Nhấp vào nút |cFFFFBA00Lên cấp|u ở bên trái màn hình để vận dụng những hiểu biết mới của mình.
+@@ 5492
+Bạn |cFFFFBA00sắp hết Mana|u. Mana dùng để sử dụng kỹ năng hoặc thi triển Spell. Mana tự hồi phục theo thời gian, nhưng để hồi nhanh, hãy |cFFFFBA00nhấp chuột phải vào Mana Potion để uống|u. Bạn cũng có thể nhấn phím số tương ứng với Potion đã gán trên thanh ô nhanh ở cuối màn hình.
+@@ 5493
+Đây là |cFFFFBA00giao diện thương nhân|u - kéo vật phẩm từ trái sang phải để mua, và ngược lại để bán. Bạn có thể giao dịch tức thì bằng cách giữ |cFFFFBA00[SHIFT]|u khi nhấp vào vật phẩm. Bạn cũng có thể mua bán từ hành trang của Pet, nằm ở góc dưới bên trái.
+@@ 5494
+|cFFFFBA00Pet của bạn đang bỏ chạy|u: nó sẽ không tấn công nữa và không thể nhặt đồ cho bạn. Máu của Pet sẽ tự hồi phục dần, nhưng bạn có thể hồi máu cho Pet bằng cách kéo Potion vào biểu tượng bát ăn của Pet ở góc trên bên trái màn hình, giữ |cFFFFBA00[SHIFT]|u khi nhấp chuột phải vào Potion, hoặc nhấn |cFFFFBA00[SHIFT-Z]|u.
+@@ 5495
+Đây là |cFFFFBA00hành trang của Pet|u. Pet mang được nhiều vật phẩm như bạn. Bạn cũng có thể bảo Pet nhặt vật phẩm trực tiếp từ mặt đất bằng cách giữ |cFFFFBA00[SHIFT]|u và nhấp vào chúng. Pet còn có thể trang bị một số vật phẩm nhất định để tăng khả năng của mình.
+@@ 5496
+|cFFFFBA00Hành trang của Pet đã đầy|u. Bạn có thể |cFFFFBA00gửi Pet về thị trấn|u bằng cách nhấp vào |cFFFFBA00nút mũi tên xanh lá|u trong giao diện Pet. Pet sẽ rời đi một lúc để bán hết đồ trong hành trang rồi mang tiền lời về cho bạn!
+@@ 5497
+Bạn đã |cFFFFBA00hoàn thành một nhiệm vụ|u. Để nhận thưởng, hãy nói chuyện với người đã giao nhiệm vụ cho bạn; bạn có thể nhận ra NPC giao nhiệm vụ nhờ dấu |cFFFFBA00?|u trên đầu họ. Để nhanh hơn, hãy dùng |cFFFFBA00Waypoint Portal Scroll|u để về thẳng thị trấn.
+@@ 5498
+Đây là |cFFFFBA00rương chung|u của bạn. Vật phẩm đặt ở đây có thể được dùng bởi các nhân vật khác mà bạn đã tạo.
+@@ 5499
+Bạn đã tìm thấy một |cFFFFBA00vật phẩm khảm|u! Khi được khảm vào, vật phẩm khảm sẽ ban cho vũ khí và giáp của bạn thuộc tính ma thuật mới. Nếu tìm được vật phẩm có Socket, chỉ cần khảm Gem vào bằng cách |cFFFFBA00thả nó lên vật phẩm đó|u.
+@@ 5500
+Bạn đã ghi một |cFFFFBA00Spell mới|u vào sách phép; giờ bạn có thể thi triển nó như mọi kỹ năng khác. Kỹ năng và Spell có thể được gán vào các ô nhanh ở cuối màn hình bằng cách nhấp vào chúng.
+@@ 5501
+Bạn đã tìm thấy một |cFFFFBA00Scroll chứa Spell|u! Trong thẻ Spell của hành trang, bạn có thể |cFFFFBA00nhấp chuột phải vào Scroll|u hoặc thả nó vào một ô Spell để học, và bạn sẽ có thêm một khả năng mới. Bạn cũng có thể dạy Spell cho Pet bằng cách thả chúng vào ô phù hợp trong hành trang của Pet.
+@@ 5502
+Đây là |cFFFFBA00rương đồ|u của bạn. Bạn có thể cất vật phẩm ở đây để lưu trữ lâu dài. Nếu hành trang sắp đầy, hãy cất bớt vài món đồ vào đây.
+@@ 5503
+Bạn có |cFFFFBA00điểm thuộc tính|u mới để phân phối! Nhấp vào nút cạnh mỗi thuộc tính để nâng cao mặt đó của nhân vật. Bạn cũng có điểm kỹ năng mới để nâng cao khả năng của nhân vật trong bảng kỹ năng (nhấn S).
+@@ 5504
+Đây là |cFFFFBA00giao diện chuyển hóa|u. Đặt vật phẩm vào đây và thử kết hợp chúng bằng nút chuyển hóa. Có rất nhiều công thức chuyển hóa vật phẩm, vì vậy hãy thử nhiều cách kết hợp khác nhau.
+@@ 5505
+Bạn đã tìm thấy một |cFFFFBA00vật phẩm ma thuật|u! Nó |cFFFFBA00chưa được giám định|u, nghĩa là sức mạnh ma thuật của nó vẫn chưa được khám phá. Hãy giám định bằng cách |cFFFFBA00nhấp chuột phải vào Identify Scroll|u, rồi |cFFFFBA00nhấp chuột trái vào vật phẩm|u.
+@@ 5506
+Chào mừng đến với |cFFFFBA00Torchlight 2|u! Hãy khám phá khu vực bằng cách |cFFFFBA00nhấp chuột trái để di chuyển|u. Hãy ghé thăm những người trong quán trọ, rồi khi đã sẵn sàng, hãy tìm đường về hướng đông bắc. Cảm ơn bạn đã chơi Torchlight 2!
+@@ 5507
+Nhấp vào biểu tượng |cFFFFBA00Gửi Pet về thị trấn|u trong hành trang của Pet hoặc cạnh huy hiệu máu của nó để gửi Pet đi bán bớt đồ thừa, nhờ vậy bạn có thể tiếp tục phiêu lưu.
+@@ 5508
+Đừng để dành |cFFFFBA00Ember|u! Hãy khảm chúng vào bất kỳ trang bị nào còn |cFFFFBA00Socket|u trống. Bạn sẽ sớm tìm được những loại tốt hơn, và nghệ thuật cổ xưa ghép Gem để tạo ra Gem tốt hơn đã thất truyền trong thời đại này.
+@@ 5509
+Sát thương Electric có tỉ lệ ngẫu nhiên gây |cFFFFBA00sốc điện|u lên kẻ địch trong 3 đến 5 giây. Khi bạn đánh trúng mục tiêu đang bị sốc điện, cú va chạm sẽ phóng ra 3 Charged Bolt nhỏ có thể đánh trúng nhiều mục tiêu cách xa tới 10 mét.
+@@ 5510
+Giáp Elemental, như giáp Fire, giúp giảm sát thương Elemental bạn phải chịu, đồng thời giảm tỉ lệ dính hiệu ứng có hại, như thiêu đốt.
+@@ 5511
+Cho Pet ăn cá để biến nó thành những sinh vật có khả năng, điểm mạnh và điểm yếu khác nhau.
+@@ 5512
+Sát thương Fire có thể ngẫu nhiên khiến kẻ địch bị |cFFFFBA00thiêu đốt|u, gây thêm sát thương trong 3 đến 7 giây. Thiêu đốt bỏ qua giáp và rất hữu hiệu để hạ những kẻ địch cứng cựa.
+@@ 5513
+Quái cấp cao hơn gây nhiều |cFFFFBA00sát thương|u hơn, có nhiều |cFFFFBA00giáp|u và |cFFFFBA00máu|u hơn. Những chỉ số chiến đấu then chốt này khiến việc đánh quái cấp cao hơn bạn ngày càng khó khăn.
+@@ 5514
+Giữ |cFFFFBA00[ALT]|u để thấy mọi vật phẩm rơi vãi trên mặt đất, hoặc bật/tắt chế độ xem này bằng biểu tượng kính lúp.
+@@ 5515
+Giữ |cFFFFBA00[CTRL]|u khi tấn công sẽ chỉ di chuyển hoặc dùng kỹ năng khi bạn đang có mục tiêu được đánh dấu. Điều này giúp tránh di chuyển ngoài ý muốn trong lúc giao chiến nhanh.
+@@ 5516
+Giữ |cFFFFBA00[SHIFT]|u khi tấn công sẽ buộc bạn đứng yên tại chỗ trong lúc chiến đấu.
+@@ 5517
+Giữ |cFFFFBA00[SHIFT]|u khi nhấp vào vật phẩm trong màn hình thương nhân sẽ bán hoặc mua nó ngay lập tức.
+@@ 5518
+Giữ |cFFFFBA00[SHIFT]|u khi nhấp vào vật phẩm sẽ khiến Pet chạy tới nhặt nó.
+@@ 5519
+Sát thương Ice có thể ngẫu nhiên khiến kẻ địch bị |cFFFFBA00đóng băng|u, làm chậm đòn đánh, kỹ năng và di chuyển của chúng 33% trong 3 đến 4 giây.
+@@ 5520
+Nếu bạn cầm hai vũ khí cùng loại, như hai vũ khí cận chiến bất kỳ hoặc hai Pistol, bạn có tỉ lệ tung đòn |cFFFFBA00Execute|u, đánh bằng cả hai vũ khí cùng lúc. Đầu tư vào thuộc tính Focus sẽ tăng tỉ lệ này.
+@@ 5521
+Nếu tìm được chiến lợi phẩm tốt mà nhân vật của bạn không dùng được, hãy cân nhắc trao đổi với người chơi khác hoặc cất vào |cFFFFBA00rương chung|u để các nhân vật khác của bạn sử dụng.
+@@ 5522
+Nếu thấy mình chết quá nhiều, hãy thử tăng giáp. Trang bị có giáp cao hơn sẽ giảm sát thương mà quái gây ra cho bạn.
+@@ 5523
+Trong các trận |cFFFFBA00nhiều người chơi|u, mọi chiến lợi phẩm bạn tìm được chỉ mình bạn nhìn thấy. Cứ thoải mái nhặt hết! Những người chơi khác sẽ có chiến lợi phẩm riêng. 
+@@ 5524
+Trong các trận |cFFFFBA00nhiều người chơi|u, quái bạn chiến đấu sẽ gây nhiều sát thương hơn lên bạn và cần nhiều sát thương hơn để hạ gục, tùy theo số người chơi ở gần. Những người chơi ở gần đó cũng sẽ nhận đủ kinh nghiệm cho mỗi con quái bị tiêu diệt.
+@@ 5525
+Hầu hết Enchanter có thể |cFFFFBA00phù phép|u một vật phẩm bất kỳ hai lần. Một số khác lành nghề hơn và có thể ban lần phù phép thứ ba hoặc thứ tư! Enchanter cũng có thể xóa các phù phép hiện có để vật phẩm có thể được phù phép lại.
+@@ 5526
+Phần lớn vũ khí cận chiến gây |cFFFFBA00sát thương lan|u, đánh trúng những con quái kế bên trong một vòng cung phía trước bạn. Vũ khí hai tay có vòng cung dài và rộng hơn, đồng thời gây nhiều sát thương hơn lên các mục tiêu bị đánh lan này.
+@@ 5527
+Sát thương Poison có tỉ lệ ngẫu nhiên khiến kẻ địch |cFFFFBA00trúng độc|u, giảm 33% giáp và sát thương gây ra của chúng trong 3 đến 5 giây.
+@@ 5528
+Nhấn |cFFFFBA00[Space Bar]|u để nhanh chóng đóng mọi bảng giao diện đang mở. Nếu không có bảng nào đang mở, phím này sẽ mở bảng hành trang và bảng nhân vật.
+@@ 5529
+Nhấn |cFFFFBA00M|u để bật/tắt |cFFFFBA00bản đồ nhỏ|u, và dùng phím |cFFFFBA00[|u and |cFFFFBA00]|u để phóng to và thu nhỏ.
+@@ 5530
+Hãy nhớ |cFFFFBA00cho Pet ăn cá!|u Việc này sẽ giúp Pet mạnh hơn và hỗ trợ bạn đắc lực khi tình thế trở nên gay go. Hãy tìm các điểm câu cá ở vùng hoang dã.
+@@ 5531
+Một số trang bị chỉ dùng được khi bạn đáp ứng yêu cầu về cấp hoặc chỉ số. Những yêu cầu bạn chưa đạt sẽ hiển thị màu đỏ.
+@@ 5532
+Sát thương bạn gây ra bị giảm bởi |cFFFFBA00giáp|u của mục tiêu; giáp càng cao thì sát thương càng thấp. Đòn tấn công có thể trở thành |cFFFFBA00đòn chí mạng|u, gây thêm sát thương. Hãy xem bảng |cFFFFBA00Arcane Statistics|u để biết thêm chi tiết về chiến đấu. 
+@@ 5533
+Phím |cFFFFBA00[Z]|u sẽ uống Health Potion tốt nhất của bạn. Phím |cFFFFBA00[X]|u sẽ uống Mana Potion tốt nhất. Phím |cFFFFBA00[Shift-Z]|u sẽ hồi máu cho Pet thay vì cho bạn.
+@@ 5534
+Vật phẩm chưa giám định có thể được giám định bằng |cFFFFBA00Identify Scroll|u. Nhấp chuột phải vào vật phẩm để giám định, trò chơi sẽ tự động dùng Identify Scroll mà bạn đang có.
+@@ 5535
+Dùng con lăn chuột để phóng to và thu nhỏ. Nhấn nút con lăn chuột sẽ đặt lại góc nhìn.
+@@ 5536
+Vật phẩm nhiệm vụ khi được nhặt sẽ được cất trong nhật ký nhiệm vụ |cFFFFBA00[Q]|u, không phải trong hành trang
+@@ 5537
+Khi lên cấp, hãy nhớ phân phối số điểm vừa nhận được để nâng cao thuộc tính của nhân vật. Các thuộc tính này giúp tăng sát thương và cải thiện khả năng phòng thủ.
+@@ 5538
+|cFFFFBA00Pet|u của bạn giờ có thể mua các vật phẩm cơ bản như Potion và Scroll ở thị trấn. Hãy xem thẻ thứ tư trong hành trang của Pet để mở |cFFFFBA00danh sách mua sắm|u. Vật phẩm mua theo cách này sẽ được thêm vào hành trang của bạn khi Pet trở về.
+@@ 5539
+Vật phẩm |cFF94CC94xanh lá|u có phù phép nhỏ. Vật phẩm |cFF9696CFxanh dương|u hiếm hơn và mạnh hơn. Vật phẩm |cFFdbAE12vàng|u là đồ Unique và có phù phép tốt nhất. Vật phẩm |cFFD17AFFtím|u liên quan đến nhiệm vụ.
+@@ 5540
+|cFFFFBA00Cannon|u và |cFFFFBA00Shotgonne|u tấn công nhiều kẻ địch trong vòng cung rộng nhưng ngắn. |cFFFFBA00Crossbow|u có tầm bắn xa nhất. |cFFFFBA00Pistol|u bắn nhanh nhưng tầm ngắn hơn. |cFFFFBA00Bow|u có tầm bắn trung bình.
+@@ 5541
+Vũ khí |cFFFFBA00Claw|u đánh nhanh nhưng không trúng quái kế bên. |cFFFFBA00Hammer|u thường chậm nhưng làm gián đoạn đòn đánh và kỹ năng của quái. |cFFFFBA00Axe|u gây sát thương ổn định hơn. |cFFFFBA00Polearm|u có tầm đánh xa hơn.
+@@ 5542
+|cFFFFBA00Nhấp chuột trái|u vào quái để tấn công. Giữ chuột trái để tấn công liên tục.
+@@ 5543
+Kỹ năng |cFFFFBA00bị động|u luôn có hiệu lực, nhưng đôi khi bạn cần trang bị đúng loại vũ khí.
+@@ 5544
+Số |cFFFFBA00sát thương màu tím|u nghĩa là bạn đã đánh 'hụt', khiến sát thương bị giảm. Nhấn |cFFFFBA00[ J ]|u để xem bảng Arcane Statistics và tìm hiểu về cơ chế này cùng các cơ chế chiến đấu khác.

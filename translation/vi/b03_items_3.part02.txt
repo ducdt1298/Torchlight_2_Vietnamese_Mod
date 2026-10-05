@@ -1,0 +1,240 @@
+@@ 1399
+Có thể dùng để điều chế nhiều loại Potion và cồn thuốc.
+@@ 1400
+Đẹp ... ít nhất là sau khi được cắt gọt và đánh bóng.
+@@ 1401
+Nó quá mỏng manh để dùng trong chiến đấu thực sự.
+@@ 1402
+Biểu tượng cho cơn thịnh nộ của bão tố.
+@@ 1403
+Nó đã mòn vẹt sau rất, rất nhiều giờ sử dụng.
+@@ 1404
+Nó cân đo cả hai phía của cuộc tranh chấp, và trả lại công lý.
+@@ 1405
+Nó đề cao những lý tưởng Estherian.
+@@ 1406
+Thánh tích được bảo quản trong một chiếc hộp niêm phong.
+@@ 1407
+Biểu tượng của vị kiến trúc sư lừng danh.
+@@ 1408
+Nó đen tuyền và được chạm khắc những hoa văn tinh tế.
+@@ 1409
+Nó sáng đến mức không thể nhìn thẳng vào.
+@@ 1410
+Chiếc chén thánh mang hình ảnh của một cung điện.
+@@ 1411
+Một cổ vật của một nền văn minh đã thất truyền.
+@@ 1412
+Một chiếc đầu bằng đá với đôi mắt dữ tợn.
+@@ 1413
+Người ta tin rằng bên trong chứa linh hồn của một phù thủy xác sống.
+@@ 1414
+Với các sinh vật dưới vực sâu, ánh mặt trời chỉ là truyền thuyết.
+@@ 1415
+Từng thuộc về một pháp sư.
+@@ 1416
+Một cái đầu nhão nhoét đầy xúc tu, gắn trên một thân hình gớm ghiếc phủ vảy, cùng đôi cánh thô sơ.
+@@ 1417
+Lính canh ngục để người mang nó đi qua mà không tra hỏi.
+@@ 1418
+Âm thanh của nó ám ảnh khôn nguôi.
+@@ 1419
+Được cho là che chở lữ khách trên những hành trình tăm tối nhất.
+@@ 1420
+Dùng để thăm dò khoáng sản.
+@@ 1421
+Một huy hiệu cổ từng được những người hầu cận của các Guardian nguyên tố đeo.
+@@ 1422
+Một lễ vật mang tính biểu tượng dâng lên các Guardian nguyên tố.
+@@ 1423
+Biểu tượng của sức mạnh hắc ám.
+@@ 1424
+Bên trong có thể là rượu vang vô giá ... hoặc giấm đã ôi thiu ...
+@@ 1425
+Cuộn giấy này rõ ràng đã rất cổ xưa.
+@@ 1426
+Được rèn theo hình dáng một người đàn ông có phong thái cao quý
+@@ 1427
+Được rèn theo hình dáng một người phụ nữ có dáng vẻ vương giả
+@@ 1428
+Được rèn theo hình dáng một ông lão thông thái nhưng nghiêm nghị
+@@ 1429
+Giá mà nó có thân mình.
+@@ 1430
+Giá mà nó có cái đầu.
+@@ 1431
+Thứ gì có thể chơi bộ trống này nhỉ?
+@@ 1432
+Bên hông cái đầu có khắc số 4000.
+@@ 1433
+Những ống này có thể nối vào đâu nhỉ?
+@@ 1434
+Nó nhẹ đến bất ngờ, nhưng bạn ngờ rằng chẳng đòn nào có thể làm nó trầy xước.
+@@ 1435
+Các bản phác thảo mô tả một bộ giáp khổng lồ chạy bằng Ember.
+@@ 1436
+Nó toát ra một cảm giác đầy điềm gở.
+@@ 1437
+Các sắc màu xoáy cuộn bên trong viên tinh thể.
+@@ 1438
+Nó sáng lấp lánh!
+@@ 1439
+Một bánh răng mạ vàng, trông hao hao bánh xe tời neo.
+@@ 1440
+Trái tim của người sói: một trái tim, hai con thú.
+@@ 1441
+Chúng đầy chất nhầy.
+@@ 1442
+Lửa và sét nhảy múa bên dưới bề mặt băng giá của nó.
+@@ 1443
+Từ cái chết, sự sống.
+@@ 1444
+Bạn gần như có thể nghe thấy nó thì thầm.
+@@ 1445
+Nó thô ráp và phủ đầy những ký hiệu thô sơ.
+@@ 1446
+Nó lạnh và trơn tuột.
+@@ 1447
+Một khối Ember đã cháy cạn, đen sì.
+@@ 1448
+Nó rất cổ xưa.  Trên bìa có phác họa một cây đũa phép.
+@@ 1449
+Một cái đầu người máy cứ tuôn ra những từ ngữ và câu nói ngẫu nhiên.
+@@ 1450
+Những dải băng quấn như thế này mang lại hình hài vật chất cho Zeraphi.
+@@ 1451
+Shotgonne gây sát thương lên mọi mục tiêu trong một vòng cung
+@@ 1452
+Bắn ra đạn Poison\n\nBộ sưu tập Rifle Legendary\nMón thứ nhất trong ba món
+@@ 1453
+Bộ sưu tập Rifle Legendary\nMón thứ hai trong ba món
+@@ 1454
+Bộ sưu tập Rifle Legendary\nMón thứ ba trong ba món
+@@ 1455
+Bạn có quyền cầm súng để chống lại lũ gấu cầm súng.
+@@ 1456
+Nghe cho rõ đây, lũ đầu đất nguyên thủy kia!
+@@ 1457
+Baron gần như vô danh, dù có vai trò hết sức quan trọng ở Red Haven.
+@@ 1458
+Cười vang như sấm.
+@@ 1459
+Vũ khí của tên cướp đường được biết đến với cái tên Red Dragoon.
+@@ 1460
+Khiến kẻ địch sững sờ như bị sét đánh.
+@@ 1461
+Một khẩu súng trường giả kim, được thiết kế riêng để đóng băng giáp của Ezrohir.
+@@ 1462
+Hãy nói với đám người lùn rằng Raleigh đã phái bạn đến.
+@@ 1463
+Hãy bóp cò đi.
+@@ 1464
+Dành cho lũ sói!
+@@ 1465
+Gray Sky là một điềm gở ... đối với Netherim.
+@@ 1466
+Khiến kẻ địch chạy tán loạn.
+@@ 1467
+Cuộn tròn mình lại, sẵn sàng tung đòn ...
+@@ 1468
+Nạn nhân của nó chết vì nhiễm độc chì.
+@@ 1469
+Chết chóc bao nhiêu thì mê hoặc bấy nhiêu ...
+@@ 1470
+Các rãnh xoắn trong nòng tạo độ xoáy, giúp tăng độ chính xác ...
+@@ 1471
+Khẩu súng trường này đã đi trước thời đại rất xa.
+@@ 1472
+Bạn có thể chạy, nhưng không thể trốn.
+@@ 1473
+Ít ai còn nhớ đến phần đóng góp của Leone. Người ta chỉ gọi nó là "Khẩu súng không tên."
+@@ 1474
+Không Champion nào mạnh hơn tổng các bộ phận của nó. Hãy tìm ra phần yếu nhất, rồi găm một viên đạn vào đó.
+@@ 1475
+Lẽ ra nó đã chinh phục cả thế giới, nhưng Đế chế đã rút vốn tài trợ. Giờ chỉ còn lại mỗi nguyên mẫu.
+@@ 1476
+Nó gần như là định nghĩa của "vũ lực thái quá."
+@@ 1477
+Nhấp chuột phải để mở cổng dịch chuyển tới một Strange Land
+@@ 1478
+Nhấp chuột phải để dùng Scroll, sau đó nhấp chuột trái vào một vật phẩm chưa giám định
+@@ 1479
+Nhấp chuột phải để mở cổng dịch chuyển tới một Lost Dungeon.\n\nCảnh báo: Nếu rời khỏi Lost Dungeon, bạn sẽ không bao giờ vào lại được nữa!
+@@ 1480
+Chúc mừng, bạn đã tìm thấy một Scroll ma thuật cực kỳ hiếm! \n\nNhấp chuột phải để triệu hồi Boon the Collector, thương nhân chuyên bán trang bị Set.\n\nHãy dùng thật khôn ngoan vì Boon hét giá rất cao.
+@@ 1481
+Nhấp chuột phải để mở cổng dịch chuyển
+@@ 1482
+Bộ sưu tập Shield Legendary\nMón thứ nhất trong bốn món
+@@ 1483
+Bộ sưu tập Shield Legendary\nMón thứ hai trong bốn món
+@@ 1484
+Bộ sưu tập Shield Legendary\nMón thứ ba trong bốn món
+@@ 1485
+Bộ sưu tập Shield Legendary\nMón thứ tư trong bốn món
+@@ 1486
+Thu được từ tay những người bộ lạc ở Jade Jungle.
+@@ 1487
+Có vẻ nó đã bắt đầu thèm khát máu.
+@@ 1488
+Người trong bộ lạc gọi chiếc khiên này là "Cánh cổng không bao giờ mở."
+@@ 1489
+Người nông dân tìm thấy nó đã dùng nó làm ô che mưa, cho tới khi một pháp sư đi ngang qua nhận ra sức mạnh của nó.
+@@ 1490
+Chốn nương thân trước mọi cơn bão ập đến với bạn.
+@@ 1491
+Bến đỗ bình yên của riêng bạn, tránh xa mọi phiền muộn và xung đột.
+@@ 1492
+Canh gác ngày đêm.
+@@ 1493
+Tàn tích duy nhất còn được biết đến của Lorecastle ... một mảnh tường thành.
+@@ 1494
+Tương truyền bên trong chứa linh hồn của một hiệp sĩ cổ xưa.
+@@ 1495
+"Tường có vững, đồng minh mới mạnh." - câu nói quen thuộc
+@@ 1496
+Tự hào về bản thân lắm à?
+@@ 1497
+Nó chứa đựng cảm giác kỳ diệu và niềm khao khát không nguôi, chính là linh hồn của phiêu lưu.
+@@ 1498
+Được Ice Dwarves ở Reijek rèn nên giữa một trận bão tuyết.
+@@ 1499
+Nó không phục vụ cánh hữu hay cánh tả, mà bảo vệ toàn thể.
+@@ 1500
+Được tìm thấy giữa đống tàn tích của Singing Castle.
+@@ 1501
+"Ta thắng thôi thì chưa đủ; ngươi còn phải thua nữa."
+@@ 1502
+Hãy chuẩn bị chịu phán xét!
+@@ 1503
+Người ta gọi nó là "Chiếc đe của những thanh kiếm gãy."
+@@ 1504
+Một chiếc khiên làm từ Tiềm năng, và do Định mệnh cầm nắm.
+@@ 1505
+Chạy bằng Kỳ tích Hơi nước! Hãy cẩn thận khi sử dụng!
+@@ 1506
+Professor Parma đã sai lầm khi khiến chiếc khiên này tự di chuyển theo ý nó.
+@@ 1507
+Professor Parma tin rằng một chiếc khiên sẽ vô dụng nếu không có nguồn năng lượng.
+@@ 1508
+Chiếc khiên đến từ bên kia Void.
+@@ 1509
+Một mảnh Ember đã cháy cạn, nay được nạp đầy trở lại!
+@@ 1510
+Gắn Ember vào vũ khí và giáp có Socket trống để nhận được hiệu ứng của chúng.
+@@ 1511
+"Động cơ servo của tôi... đang bị kẹt cứng..."
+@@ 1512
+"Chà! Bạn chưa chết à?"
+@@ 1513
+Một hòn đá được cậu bé vẽ tặng cha, để nhắc ông mau chóng xong việc và về nhà.
+@@ 1514
+Rèn luyện giúp bạn có tỉ lệ được tăng vọt tốc độ di chuyển và tốc độ đánh khi bị đánh trúng.
+@@ 1515
+Rèn luyện giúp bạn có tỉ lệ được tăng vọt tốc độ di chuyển và tốc độ đánh khi bị đánh trúng.  Mạnh hơn Adrenaline Rush.
+@@ 1516
+Rèn luyện giúp bạn có tỉ lệ được tăng vọt tốc độ di chuyển và tốc độ đánh khi bị đánh trúng.  Mạnh hơn Adrenaline Rush hoặc Burst.
+@@ 1517
+Concentration giúp tăng tốc độ hồi Mana mọi lúc.  Chỉ có thể trang bị một bậc Concentration tại một thời điểm.
+@@ 1518
+Kiến thức giúp tăng hiệu quả của Potion, tăng tốc độ nhận kinh nghiệm và Fame, đồng thời giảm hình phạt khi hồi sinh.  Chỉ có thể trang bị một bậc Adventurering tại một thời điểm.

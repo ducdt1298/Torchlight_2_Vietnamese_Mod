@@ -1,0 +1,300 @@
+@@ 4067
++[VALUE] lực kéo
+@@ 4068
++[VALUE] yêu cầu trang bị giáp
+@@ 4069
++[VALUE] yêu cầu học phép
+@@ 4070
++[VALUE] mọi yêu cầu chỉ số nhân vật của vật phẩm
+@@ 4071
++[VALUE] yêu cầu trang bị pháp sư
+@@ 4072
++[VALUE] yêu cầu trang bị chiến binh
+@@ 4073
++[VALUE] yêu cầu trang bị tầm xa
+@@ 4074
++[VALUE]% sát thương [DMGTYPE] nhận vào cho mỗi quái trong phạm vi [VALUE3]m
+@@ 4075
+-[VALUE1ASDURATION] thời gian triệu hồi
+@@ 4076
+-[VALUE] giáp
+@@ 4077
+-[VALUE] phòng thủ phép
+@@ 4078
+-[VALUE] điểm Dexterity
+@@ 4079
+-[VALUE] giáp Electric
+@@ 4080
+-[VALUE] giáp Fire
+@@ 4081
+-[VALUE] điểm Focus
+@@ 4082
+-[VALUE] máu
+@@ 4083
+-[VALUE] hút máu
+@@ 4084
+-[VALUE] hồi máu mỗi giây
+@@ 4085
+-[VALUE] hút máu cho chủ nhân
+@@ 4086
+-[VALUE] máu/giây cho mỗi quái trong phạm vi [VALUE4] mét
+@@ 4087
+-[VALUE] giáp Ice
+@@ 4088
+-[VALUE] độ bảnh bao
+@@ 4089
+-[VALUE] Mana
+@@ 4090
+-[VALUE] hồi Mana
+@@ 4091
+-[VALUE] hút Mana
+@@ 4092
+-[VALUE] Mana/giây cho mỗi quái trong phạm vi [VALUE4] mét
+@@ 4093
+-[VALUE] sát thương vũ khí cận chiến
+@@ 4094
+-[VALUE] giáp Poison
+@@ 4095
+-[VALUE] kháng logic
+@@ 4096
+-[VALUE] tầm nhìn
+@@ 4097
+-[VALUE] đôi tất
+@@ 4098
+-[VALUE] điểm Strength
+@@ 4099
+-[VALUE] góc nhìn
+@@ 4100
+-[VALUE] điểm Vitality
+@@ 4101
+-[VALUE] sát thương [DMGTYPE]
+@@ 4102
+-[VALUE] sát thương [DMGTYPE] phản lại
+@@ 4103
+-[VALUE] sát thương vũ khí tầm xa
+@@ 4104
+-[VALUE] cấp kỹ năng [NAME]
+@@ 4105
+-[VALUE] giây thiêu đốt/sốc điện/đóng băng/trúng độc
+@@ 4106
+-[VALUE] giây thời gian thiêu đốt
+@@ 4107
+-[VALUE] giây thời gian đóng băng
+@@ 4108
+-[VALUE] giây thời gian trúng độc
+@@ 4109
+-[VALUE] giây thời gian sốc điện
+@@ 4110
+-[VALUE] cấp phép tấn công
+@@ 4111
+-[VALUE] cấp phép bùa chú
+@@ 4112
+-[VALUE] cấp phép phòng thủ
+@@ 4113
+-[VALUE]% phản sát thương
+@@ 4114
+-[VALUE]% sát thương lên mục tiêu phụ
+@@ 4115
+-[VALUE]% Dexterity
+@@ 4116
+-[VALUE]% tỉ lệ né tránh
+@@ 4117
+-[VALUE]% Focus
+@@ 4118
+-[VALUE]% máu
+@@ 4119
+-[VALUE]% hồi máu
+@@ 4120
+-[VALUE]% hút máu
+@@ 4121
+-[VALUE]% hút máu cho chủ nhân
+@@ 4122
+-[VALUE]% kháng ngắt đòn
+@@ 4123
+-[VALUE]% tỉ lệ ngắt đòn
+@@ 4124
+-[VALUE]% kháng đẩy lùi
+@@ 4125
+-[VALUE]% Mana
+@@ 4126
+-[VALUE]% hút Mana
+@@ 4127
+-[VALUE]% sát thương vũ khí cận chiến
+@@ 4128
+-[VALUE]% sát thương vũ khí cận chiến
+@@ 4129
+-[VALUE]% hiệu quả Potion
+@@ 4130
+-[VALUE]% sát thương vũ khí tầm xa
+@@ 4131
+-[VALUE]% sát thương vũ khí tầm xa
+@@ 4132
+-[VALUE]% Strength
+@@ 4133
+-[VALUE]% Vitality
+@@ 4134
+-[VALUE]% sát thương Wand và Staff
+@@ 4135
+-[VALUE]% sát thương [DMGTYPE] cho mỗi quái trong phạm vi [VALUE3]m
+@@ 4136
+-[VALUE]% tỉ lệ thiêu đốt
+@@ 4137
+-[VALUE]% tỉ lệ kết liễu
+@@ 4138
+-[VALUE]% tỉ lệ đóng băng
+@@ 4139
+-[VALUE]% tỉ lệ gây trúng độc
+@@ 4140
+-[VALUE]% tỉ lệ gây sốc điện
+@@ 4141
+-[VALUE]% tỉ lệ làm choáng mục tiêu
+@@ 4142
+-[VALUE]% tỉ lệ mê hoặc mục tiêu trong [DURATION]
+@@ 4143
+-[VALUE]% tỉ lệ phản lại [VALUE3AND4]% sát thương đạn
+@@ 4144
+-[VALUE]% giáp của Pet và tay sai
+@@ 4145
+-[VALUE]% sát thương của Pet và tay sai
+@@ 4146
+-[VALUE]% máu của Pet và tay sai
+@@ 4147
+-[VALUE]% tốc độ của Pet và tay sai
+@@ 4148
+-[VALUE]% giáp [DMGTYPE]
+@@ 4149
+-[VALUE]% Mana tiêu hao của kỹ năng
+@@ 4150
+-[VALUE]% |c00ff9933Charge|u mất đi mỗi giây do hao hụt
+@@ 4151
+-[VALUE]m tầm bắn của Bow, Crossbow, Pistol và Wand
+@@ 4152
+-[VALUE_OT] sát thương [DMGTYPE]
+@@ 4153
+Mọi loại giáp giảm [VALUE]
+@@ 4154
+Mọi loại giáp giảm [VALUE] mỗi đòn đánh
+@@ 4155
+Tốc độ đánh giảm [VALUE]%
+@@ 4156
+Tốc độ thi triển giảm [VALUE]%
+@@ 4157
+Tiêu hao [VALUE]% |c00ff9933Charge|u
+@@ 4158
+Tỉ lệ chí mạng giảm [VALUE]%
+@@ 4159
+Thời gian hồi hiện tại của [NAME] giảm [VALUE] giây
+@@ 4160
+Giảm [VALUE] điểm Charge trên thanh
+@@ 4161
+Vàng nhặt được giảm [VALUE]%
+@@ 4162
+Tay sai gây -[VALUE_OT] sát thương [DMGTYPE]
+@@ 4163
+Tốc độ di chuyển giảm [VALUE]%
+@@ 4164
+Chỉ 1 hiệu ứng loại này được kích hoạt: ưu tiên cao nhất trên đơn vị, sau đó trên khiên, rồi đến affix mặc định
+@@ 4165
+Giảm vĩnh viễn [VALUE] Dexterity
+@@ 4166
+Giảm vĩnh viễn [VALUE] Focus
+@@ 4167
+Giảm vĩnh viễn [VALUE] máu
+@@ 4168
+Giảm vĩnh viễn [VALUE] Mana
+@@ 4169
+Giảm vĩnh viễn [VALUE] Strength
+@@ 4170
+Giảm vĩnh viễn [VALUE] Vitality
+@@ 4171
+Xóa [VALUE] điểm thuộc tính
+@@ 4172
+Xóa thời gian hồi hiện tại của [NAME]
+@@ 4173
+Thời gian trước khi |c00ff9933Charge|u hao hụt được rút ngắn [VALUE] giây
+@@ 4174
+Thời gian biến hình giảm [VALUE]%
+@@ 4175
+Giáp [DMGTYPE] giảm [VALUE]
+@@ 4176
+Sát thương [DMGTYPE] nhận vào tăng [VALUE]
+@@ 4177
+Sát thương [DMGTYPE] nhận vào tăng [VALUE]%
+@@ 4178
+Sát thương [DMGTYPE] giảm [VALUE]%
+@@ 4179
+[VALUE5]% tỉ lệ gây -[VALUE] sát thương [DMGTYPE]
+@@ 4180
+Giảm [VALUE] lượng vàng rơi ra
+@@ 4181
+Giảm [VALUE]% sát thương khi cầm hai vũ khí
+@@ 4182
+Giảm [VALUE]% góc nhìn
+@@ 4183
+Giảm [VALUE]% may mắn tìm đồ ma thuật
+@@ 4184
+Giảm [VALUE]% lượng kinh nghiệm nhận được
+@@ 4185
+Giảm [VALUE]% lượng Fame nhận được
+@@ 4186
+Giảm [VALUE]% may mắn câu cá
+@@ 4187
+Tăng [VALUE]% tỉ lệ ra đòn hỏng
+@@ 4188
+Tăng [VALUE]% mức phạt sát thương khi ra đòn hỏng
+@@ 4189
+Tăng [VALUE]% yêu cầu cấp
+@@ 4190
+Tăng [VALUE]% thời gian Pet đi về thị trấn
+@@ 4191
+Giảm [VALUE]% sát thương chí mạng
+@@ 4192
+Giảm [VALUE]% tầm nhìn
+@@ 4193
+Giảm [VALUE]% tốc độ tích |c00ff9933Charge|u
+@@ 4194
+Tỉ lệ đỡ đòn giảm [VALUE]%
+@@ 4195
+|cffff0000Mất [VALUE] máu mỗi giây!|u
+@@ 4196
+|cffff0000Mất [VALUE] Mana mỗi giây!|u
+@@ 4197
++[VALUE] yêu cầu trang bị giáp trong [DURATION]
+@@ 4198
++[VALUE] yêu cầu học phép trong [DURATION]
+@@ 4199
++[VALUE] mọi yêu cầu chỉ số nhân vật của vật phẩm trong [DURATION]
+@@ 4200
++[VALUE] yêu cầu trang bị pháp sư trong [DURATION]
+@@ 4201
++[VALUE] yêu cầu trang bị chiến binh trong [DURATION]
+@@ 4202
++[VALUE] yêu cầu trang bị tầm xa trong [DURATION]
+@@ 4203
+-[VALUE] giáp trong [DURATION]
+@@ 4204
+-[VALUE] phòng thủ phép trong [DURATION]
+@@ 4205
+-[VALUE] sát thương lên mục tiêu phụ trong [DURATION]
+@@ 4206
+-[VALUE] điểm Dexterity trong [DURATION]
+@@ 4207
+-[VALUE] giáp Electric trong [DURATION]
+@@ 4208
+-[VALUE] giáp Fire trong [DURATION]
+@@ 4209
+-[VALUE] điểm Focus trong [DURATION]
+@@ 4210
+-[VALUE] hút máu trong [DURATION]
+@@ 4211
+-[VALUE] máu trong [DURATION]
+@@ 4212
+-[VALUE] hồi máu trong [DURATION]
+@@ 4213
+-[VALUE] hút máu cho chủ nhân trong [DURATION]
+@@ 4214
+-[VALUE] giáp Ice trong [DURATION]
+@@ 4215
+-[VALUE] Mana trong [DURATION]
+@@ 4216
+-[VALUE] hồi Mana trong [DURATION]

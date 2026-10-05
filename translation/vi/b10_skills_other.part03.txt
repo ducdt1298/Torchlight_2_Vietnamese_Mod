@@ -1,0 +1,200 @@
+@@ 3710
+Những đợt năng lượng bùng nổ gây sát thương khắp xung quanh người thi triển
+@@ 3711
+Xuyên thủng kẻ địch bằng một luồng năng lượng bỏng rát
+@@ 3712
+Một thiên thạch khổng lồ được triệu hồi từ trời cao
+@@ 3713
+Mìn axit phát nổ.
+@@ 3714
+Dịch chuyển đến một vị trí ngẫu nhiên
+@@ 3715
+Phản lại đạn cho đến khi khiên bị phá vỡ
+@@ 3716
+Chọn các phép mà Champion này có thể thi triển khi xuất hiện
+@@ 3717
+Giảm mọi sát thương cho đến khi kết giới bị vô hiệu hóa bằng sát thương Poison
+@@ 3718
+Tăng kháng Electric khi đang kích hoạt
+@@ 3719
+Giảm mọi sát thương cho đến khi kết giới bị phá vỡ bằng sát thương Ice
+@@ 3720
+Tăng kháng Fire khi đang kích hoạt
+@@ 3721
+Giảm mọi sát thương cho đến khi kết giới bị làm tan chảy bằng sát thương Fire
+@@ 3722
+Tăng kháng Ice khi đang kích hoạt
+@@ 3723
+Tăng kháng Physical khi đang kích hoạt
+@@ 3724
+Giảm mọi sát thương cho đến khi kết giới bị phân tán bằng sát thương Electric
+@@ 3725
+Tăng kháng Poison khi đang kích hoạt
+@@ 3726
+Thi triển một tấm khiên, hy vọng là chống được đúng nguồn sát thương cần chống
+@@ 3727
+Xích linh hồn kẻ địch vào các tinh thể bóng tối trong khi một đòn tấn công khổng lồ được chuẩn bị.
+@@ 3728
+Tăng tốc cho đến khi tấm khiên yếu ớt bị phá vỡ
+@@ 3729
+Gọi ra một cơn bão sét dữ dội
+@@ 3730
+Bắn ra một chùm tia năng lượng âm xuyên thấu.
+@@ 3731
+Kỹ năng trống, dùng để giữ chỗ guid cho đòn đánh tự động
+@@ 3732
+Hồi phục Mana
+@@ 3733
+Hồi máu cho người thi triển
+@@ 3734
+Bắn một viên đạn về phía trước, hất văng kẻ địch và phát nổ sau một khoảng cách định sẵn
+@@ 3735
+Sturm đập nát!
+@@ 3736
+Bắn một quả cầu gai xuống đất, gây sát thương cho bất cứ thứ gì giẫm lên nó.\n
+@@ 3737
+\nHồi máu cho mọi đồng đội
+@@ 3738
+Kẻ địch ở gần sẽ có xu hướng tấn công bạn nhiều hơn.
+@@ 3739
+Bắn ra một luồng năng lượng ô uế.  Dậm, dậm, nổ!
+@@ 3740
+Guardian of Wild đâm xuyên kẻ địch gần đó bằng những ngọn giáo đất
+@@ 3741
+Kỹ năng Hand of Doom của Arbiter
+@@ 3742
+Mìn băng phát nổ.
+@@ 3743
+Hấp thụ năng lượng từ kẻ địch và chuyển hóa thành hào quang hồi máu.\n
+@@ 3744
+Repair Bot tỏa ra năng lượng hồi máu.\n
+@@ 3745
+\nĐòn diện rộng của Town Seer\n
+@@ 3746
+\nQuả cầu lửa của Town Seer\n
+@@ 3747
+Triệu hồi sinh vật xác sống
+@@ 3748
+Được bảo vệ khỏi một loại sát thương cho đến khi khiên bị phá vỡ
+@@ 3749
+Tăng tốc độ cho đến khi khiên bị phá vỡ
+@@ 3750
+Nóng như lửa đốt!
+@@ 3751
+Bùm
+@@ 3752
+\nNhảy về phía kẻ địch
+@@ 3753
+ tỉ lệ kích hoạt
+@@ 3754
+Thả một đàn ong giận dữ tấn công kẻ địch. Quái nào đến gần mục tiêu của bạn cũng sẽ hứng chịu cơn thịnh nộ của bầy ong!
+@@ 3755
+Người thi triển xoay tít lao vào trận, tăng vọt tốc độ đánh và thi triển trong 10 giây.
+@@ 3756
+Người thi triển xoay tít lao vào trận, tăng vọt tốc độ đánh và thi triển trong 12 giây.
+@@ 3757
+Người thi triển xoay tít lao vào trận, tăng vọt tốc độ đánh và thi triển trong 14 giây.
+@@ 3758
+Người thi triển xoay tít lao vào trận, tăng vọt tốc độ đánh và thi triển trong 16 giây.
+@@ 3759
+Người thi triển xoay tít lao vào trận, tăng vọt tốc độ đánh và thi triển trong 18 giây.
+@@ 3760
+Người thi triển xoay tít lao vào trận, tăng vọt tốc độ đánh và thi triển trong 20 giây.
+@@ 3761
+Người thi triển được cường hóa sát thương Elemental
+@@ 3762
+Phóng ra từ tay người thi triển một quả cầu lửa bay chậm và phát nổ.
+@@ 3763
+Bắn ra ba viên đạn băng, đóng băng mọi kẻ địch trong bán kính nổ 3m.
+@@ 3764
+Tốc độ di chuyển của người thi triển được tăng trong 8 giây
+@@ 3765
+Hồi máu cho người thi triển
+@@ 3766
+Hồi máu cho người thi triển và mọi đồng minh
+@@ 3767
+Giám định thuộc tính của một vật phẩm được phù phép
+@@ 3768
+Người thi triển hút máu từ mọi kẻ địch bị đánh trúng trong suốt thời gian hiệu lực của phép
+@@ 3769
+Khi bị đánh trúng, bạn có sẵn 15% cơ hội bộc phát tốc độ, giúp bạn tấn công nhanh hơn hoặc thoát thân an toàn.  Sau khi kích hoạt, Adrenaline Rush có thời gian hồi 10 giây.
+@@ 3770
+Tăng hiệu quả của Potion, tăng tốc độ nhận kinh nghiệm và Fame, đồng thời giảm hình phạt khi hồi sinh.  Mỗi lúc chỉ được trang bị một Spell Adventuring.
+@@ 3771
+Tinh thông mọi loại giáp giúp giảm yêu cầu trang bị và tăng khả năng hấp thụ của giáp.  Mỗi lúc chỉ được trang bị một Spell Armor Expertise.
+@@ 3772
+Giảm giá mua ở thương nhân, Enchanter và Gambler. Tăng giá bán hàng hóa của bạn.  Mỗi lúc chỉ được trang bị một Spell Barter.
+@@ 3773
+Tăng tỉ lệ đỡ đòn bằng Shield.  Mỗi lúc chỉ được trang bị một Spell Blocking.
+@@ 3774
+Tăng tỉ lệ và sát thương của mọi đòn chí mạng.  Mỗi lúc chỉ được trang bị một Spell Critical Strikes.
+@@ 3775
+Tăng sát thương của mọi vũ khí khi cầm song thủ.  Mỗi lúc chỉ được trang bị một Spell Dual Wielding.
+@@ 3776
+Tinh thông Wand và Staff, đồng thời giảm yêu cầu của Ring và Amulet.  Mỗi lúc chỉ được trang bị một Spell Arcane Tools.
+@@ 3777
+Tinh thông Claw, Sword, Axe, Mace và Polearm.  Mỗi lúc chỉ được trang bị một Spell Weapons Expertise.
+@@ 3778
+Tăng sức mạnh cho pet và tay sai, đồng thời giảm thời gian pet đi về thị trấn.  Mỗi lúc chỉ được trang bị một Spell Pet Mastery.
+@@ 3779
+Tinh thông Bow, Pistol, Crossbow, Shotgonne và Cannon.  Mỗi lúc chỉ được trang bị một Spell Ranged Weapons Expertise.
+@@ 3780
+Giúp kháng hiệu ứng làm chậm và bất động.  Mỗi lúc chỉ được trang bị một Spell Willpower.
+@@ 3781
+Tăng tốc độ hồi phục Mana.  Mỗi lúc chỉ được trang bị một Spell Concentration.
+@@ 3782
+Tăng tỉ lệ tìm thấy vật phẩm ma thuật và vàng.  Mỗi lúc chỉ được trang bị một Spell Treasure Hunter.
+@@ 3783
+Phun ra một đám mây khí độc quanh người thi triển
+@@ 3784
+Kẻ địch gần đó bị một luồng gió mạnh đẩy ra xa
+@@ 3785
+Người thi triển được tăng cường kháng Elemental
+@@ 3786
+Người thi triển bị một linh hồn báo thù nhập vào, tự động đánh trả kẻ tấn công. Kéo dài 12 giây.
+@@ 3787
+Người thi triển bị một linh hồn báo thù nhập vào, tự động đánh trả kẻ tấn công. Kéo dài 16 giây.
+@@ 3788
+Người thi triển bị một linh hồn báo thù nhập vào, tự động đánh trả kẻ tấn công. Kéo dài 20 giây.
+@@ 3789
+Người thi triển bị một linh hồn báo thù nhập vào, tự động đánh trả kẻ tấn công. Kéo dài 24 giây.
+@@ 3790
+Người thi triển bị một linh hồn báo thù nhập vào, tự động đánh trả kẻ tấn công. Kéo dài 28 giây.
+@@ 3791
+Người thi triển bị một linh hồn báo thù nhập vào, tự động đánh trả kẻ tấn công. Kéo dài 32 giây.
+@@ 3792
+Phóng ra một bánh xe lửa.
+@@ 3793
+Phóng ra một bánh xe lửa tốc độ cao.
+@@ 3794
+Phóng ra một cặp bánh xe lửa.
+@@ 3795
+Phóng ra một cặp bánh xe lửa tốc độ cao.
+@@ 3796
+Phóng ra bộ ba bánh xe lửa.
+@@ 3797
+Phóng ra bộ ba bánh xe lửa tốc độ cao.
+@@ 3798
+Một xung năng lượng lan tỏa ra ngoài, làm vỡ các vật dễ vỡ ở xung quanh
+@@ 3799
+Làm câm lặng kẻ địch trong phạm vi 4 mét, khiến chúng không thể dùng hầu hết kỹ năng.
+@@ 3800
+Làm câm lặng kẻ địch trong phạm vi 5 mét, khiến chúng không thể dùng hầu hết kỹ năng.
+@@ 3801
+Làm câm lặng kẻ địch trong phạm vi 6 mét, khiến chúng không thể dùng hầu hết kỹ năng.
+@@ 3802
+Làm câm lặng kẻ địch trong phạm vi 7 mét, khiến chúng không thể dùng hầu hết kỹ năng.
+@@ 3803
+Làm câm lặng kẻ địch trong phạm vi 8 mét, khiến chúng không thể dùng hầu hết kỹ năng.
+@@ 3804
+Làm câm lặng kẻ địch trong phạm vi 9 mét, khiến chúng không thể dùng hầu hết kỹ năng.
+@@ 3805
+Triệu hồi một Gel hồi máu cho người thi triển và mọi đồng minh. Thời gian hồi pet: 120 giây.
+@@ 3806
+Triệu hồi một nhóm 3 Skeletal Archer đứng yên tấn công kẻ địch. Thời gian hồi pet: 60 giây.
+@@ 3807
+Triệu hồi một nhóm 4 Skeletal Archer đứng yên tấn công kẻ địch. Thời gian hồi pet: 60 giây.
+@@ 3808
+Triệu hồi một nhóm 5 Skeletal Archer đứng yên tấn công kẻ địch. Thời gian hồi pet: 60 giây.
+@@ 3809
+Triệu hồi một nhóm 6 Skeletal Archer đứng yên tấn công kẻ địch. Thời gian hồi pet: 60 giây.

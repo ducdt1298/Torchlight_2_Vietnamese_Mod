@@ -1,0 +1,200 @@
+@@ 3144
+Tia sét có thể nảy chuyền tối đa 5 lần
+@@ 3145
+Mỗi kẻ địch trúng đòn tạo thêm 5% |c00ff9933thanh Charge|u
+@@ 3146
+Mỗi kẻ địch trúng đòn tạo thêm 7% |c00ff9933thanh Charge|u
+@@ 3147
+Mỗi kẻ địch trúng đòn tạo thêm 6% |c00ff9933thanh Charge|u
+@@ 3148
+Mỗi kẻ địch trúng đòn tạo thêm 9% |c00ff9933thanh Charge|u
+@@ 3149
+Mỗi kẻ địch trúng đòn tạo thêm 8% |c00ff9933thanh Charge|u
+@@ 3150
+Mỗi kẻ địch trúng đòn tạo thêm 11% |c00ff9933thanh Charge|u
+@@ 3151
+Mỗi kẻ địch trúng đòn tạo thêm 10% |c00ff9933thanh Charge|u
+@@ 3152
+Mỗi kẻ địch trúng đòn tạo thêm 13% |c00ff9933thanh Charge|u
+@@ 3153
+Mỗi kẻ địch trúng đòn tạo thêm 12% |c00ff9933thanh Charge|u
+@@ 3154
+Mỗi kẻ địch trúng đòn tạo thêm 8.5% |c00ff9933thanh Charge|u
+@@ 3155
+Mỗi kẻ địch trúng đòn tạo thêm 7.5% |c00ff9933thanh Charge|u
+@@ 3156
+Mỗi kẻ địch trúng đòn tạo thêm 19% |c00ff9933thanh Charge|u
+@@ 3157
+Bạn rút tia sét hoang dã phương bắc ra từ vũ khí để tạo một chiếc rìu ném bằng điện có tầm 15 mét.
+@@ 3158
+Tầm của rìu tăng lên 20 mét và rìu bay nhanh hơn
+@@ 3159
+Ném cùng lúc 3 chiếc rìu
+@@ 3160
+Rìu phá vỡ khiên
+@@ 3161
+4 vết nứt lan ra từ điểm thi triển, xuyên qua kẻ địch.
+@@ 3162
+Bạn giải phóng một luồng khí băng giá từ sâu bên trong, bắn ra những mảnh băng để đẩy lùi và đóng băng kẻ địch xung quanh.
+@@ 3163
+Luồng khí được cường hóa thành 4 vết nứt, lan xa hơn kỹ năng gốc
+@@ 3164
+Luồng khí được cường hóa thành 5 vết nứt, lan xa hơn bậc I
+@@ 3165
+Luồng khí được cường hóa thành 6 vết nứt, lan xa hơn bậc II
+@@ 3166
+Bạn thả ra một bầy 5 con sói ma tỏa ra tấn công kẻ địch xung quanh bạn.
+@@ 3167
+Sói có thể tấn công nhiều mục tiêu
+@@ 3168
+Xuất hiện thêm 2 con sói
+@@ 3169
+Giảm lượng Mana tiêu hao
+@@ 3170
+Bạn triệu hồi đồng minh Wolf Shade cắm nanh băng giá vào kẻ địch và hồi máu cho bạn bằng sinh khí của chúng. Shade chỉ có thể được triệu hồi mỗi phút một lần.
+@@ 3171
+Thời gian triệu hồi tăng lên 30 giây
+@@ 3172
+Thời gian triệu hồi tăng lên 45 giây
+@@ 3173
+Thời gian triệu hồi tăng lên 1 phút
+@@ 3174
+Bạn lao tới trước 6 mét, móng vuốt vung chém, xé toạc mọi kẻ địch trên đường đi.
+@@ 3175
+Khoảng cách lao tới tăng lên 7 mét
+@@ 3176
+Khoảng cách lao tới tăng lên 8 mét
+@@ 3177
+Khoảng cách lao tới tăng lên 9 mét
+@@ 3178
+Bạn lao tới trước, móng vuốt vung chém, xé toạc mọi kẻ địch trên đường đi.
+@@ 3179
+Mỗi mục tiêu trúng đòn tạo ra 0.2 |c00ff9933Charge|u
+@@ 3180
+Mỗi mục tiêu trúng đòn tạo ra 0.24 |c00ff9933Charge|u
+@@ 3181
+Mỗi mục tiêu trúng đòn tạo ra 0.22 |c00ff9933Charge|u
+@@ 3182
+Mỗi mục tiêu trúng đòn tạo ra 0.28 |c00ff9933Charge|u
+@@ 3183
+Mỗi mục tiêu trúng đòn tạo ra 0.26 |c00ff9933Charge|u
+@@ 3184
+Mỗi mục tiêu trúng đòn tạo ra 0.32 |c00ff9933Charge|u
+@@ 3185
+Mỗi mục tiêu trúng đòn tạo ra 0.3 |c00ff9933Charge|u
+@@ 3186
+Mỗi mục tiêu trúng đòn tạo ra 0.36 |c00ff9933Charge|u
+@@ 3187
+Mỗi mục tiêu trúng đòn tạo ra 0.34 |c00ff9933Charge|u
+@@ 3188
+Mỗi mục tiêu trúng đòn tạo ra 0.44 |c00ff9933Charge|u
+@@ 3189
+Mỗi mục tiêu trúng đòn tạo ra 0.42 |c00ff9933Charge|u
+@@ 3190
+Mỗi mục tiêu trúng đòn tạo ra 0.4 |c00ff9933Charge|u
+@@ 3191
+Mỗi mục tiêu trúng đòn tạo ra 0.38 |c00ff9933Charge|u
+@@ 3192
+Mỗi mục tiêu trúng đòn tạo ra 0.48 |c00ff9933Charge|u
+@@ 3193
+Mỗi mục tiêu trúng đòn tạo ra 0.46 |c00ff9933Charge|u
+@@ 3194
+Bạn khai thác năng lượng của bộ giáp để phóng ra một luồng điện bùng nổ trong bán kính 5 mét. Luồng điện này tạo Charge cho mỗi kẻ địch bị đánh trúng, tối đa năm kẻ địch mỗi trường điện.
+@@ 3195
+Bán kính trường điện tăng lên 7 mét. Tỉ lệ ngắt đòn tăng lên 70%.
+@@ 3196
+Bán kính trường điện tăng lên 9 mét. Tỉ lệ ngắt đòn tăng lên 90%.
+@@ 3197
+Bán kính trường điện tăng lên 11 mét. Tỉ lệ ngắt đòn tăng lên 110%.
+@@ 3198
+Bạn bắn một viên đạn xuyên thấu tầm xa từ Cannon. Ở các cấp cao hơn, vụ nổ khiến kẻ địch dễ chịu thêm sát thương Fire và Physical.
+@@ 3199
+Yêu cầu Cannon
+@@ 3200
+25% tỉ lệ làm mù kẻ địch trong 4 giây
+@@ 3201
+50% tỉ lệ làm mù kẻ địch trong 4 giây
+@@ 3202
+75% tỉ lệ làm mù kẻ địch trong 4 giây
+@@ 3203
+Bắn một viên đạn từ bất kỳ vũ khí tầm xa nào đang trang bị, đạn phát nổ khi va chạm, gây sát thương cho kẻ địch trong phạm vi 5 mét
+@@ 3204
+Bắn một viên đạn từ bất kỳ vũ khí tầm xa nào đang trang bị, đạn phát nổ khi va chạm, gây sát thương cho kẻ địch trong phạm vi 4.75 mét
+@@ 3205
+Bắn một viên đạn từ bất kỳ vũ khí tầm xa nào đang trang bị, đạn phát nổ khi va chạm, gây sát thương cho kẻ địch trong phạm vi 5.5 mét
+@@ 3206
+Bắn một viên đạn từ bất kỳ vũ khí tầm xa nào đang trang bị, đạn phát nổ khi va chạm, gây sát thương cho kẻ địch trong phạm vi 5.25 mét
+@@ 3207
+Bắn một viên đạn từ bất kỳ vũ khí tầm xa nào đang trang bị, đạn phát nổ khi va chạm, gây sát thương cho kẻ địch trong phạm vi 6 mét
+@@ 3208
+Bắn một viên đạn từ bất kỳ vũ khí tầm xa nào đang trang bị, đạn phát nổ khi va chạm, gây sát thương cho kẻ địch trong phạm vi 5.75 mét
+@@ 3209
+Bắn một viên đạn từ bất kỳ vũ khí tầm xa nào đang trang bị, đạn phát nổ khi va chạm, gây sát thương cho kẻ địch trong phạm vi 6.5 mét
+@@ 3210
+Bắn một viên đạn từ bất kỳ vũ khí tầm xa nào đang trang bị, đạn phát nổ khi va chạm, gây sát thương cho kẻ địch trong phạm vi 6.25 mét
+@@ 3211
+Bắn một viên đạn từ bất kỳ vũ khí tầm xa nào đang trang bị, đạn phát nổ khi va chạm, gây sát thương cho kẻ địch trong phạm vi 6.75 mét
+@@ 3212
+Bắn vồng một phát đạn pháo hủy diệt vào kẻ địch.
+@@ 3213
+Hấp thụ toàn bộ railman charge ở gần
+@@ 3214
+Tạo ra một railman charge
+@@ 3215
+Tạo ra một Railman charge
+@@ 3216
+20% tỉ lệ làm choáng trong 2 giây
+@@ 3217
+30% tỉ lệ làm choáng trong 2.5 giây
+@@ 3218
+25% tỉ lệ làm choáng trong 2.25 giây
+@@ 3219
+40% tỉ lệ làm choáng trong 3 giây
+@@ 3220
+35% tỉ lệ làm choáng trong 2.75 giây
+@@ 3221
+50% tỉ lệ làm choáng trong 3.5 giây
+@@ 3222
+45% tỉ lệ làm choáng trong 3.25 giây
+@@ 3223
+60% tỉ lệ làm choáng trong 4 giây
+@@ 3224
+55% tỉ lệ làm choáng trong 3.75 giây
+@@ 3225
+80% tỉ lệ làm choáng trong 5 giây
+@@ 3226
+75% tỉ lệ làm choáng trong 4.75 giây
+@@ 3227
+70% tỉ lệ làm choáng trong 4.5 giây
+@@ 3228
+65% tỉ lệ làm choáng trong 4.25 giây
+@@ 3229
+90% tỉ lệ làm choáng trong 5.5 giây
+@@ 3230
+85% tỉ lệ làm choáng trong 5.25 giây
+@@ 3231
+Bạn dẫn năng lượng điện từ bộ giáp qua Shield, tạo tỉ lệ làm choáng kẻ địch khi bạn đỡ đòn tấn công của chúng.
+@@ 3232
+Yêu cầu Shield
+@@ 3233
+Một cú sốc điện khiến kẻ địch mất khả năng chiến đấu trong thời gian ngắn.
+@@ 3234
+Bạn tung một cú bổ mạnh từ trên xuống. Khi tích đủ |c00ff9933Charge|u, Ember Hammer còn tăng sát thương và tầm đánh, tiêu tốn 1 |c00ff9933Charge|u.
+@@ 3235
+Yêu cầu vũ khí cận chiến
+@@ 3236
+Bạn tung một cú vung ngang mạnh mẽ, dồn năng lượng Ember thành một vòng cung rộng 270 độ, phá vỡ khiên. Ember Hammer không nhận |c00ff9933Charge|u.
+@@ 3237
+Yêu cầu một Axe, Sword, Hammer, Staff hoặc Polearm bất kỳ
+@@ 3238
+Sát thương tăng 5% cho mỗi |c00ff9933Charge|u
+@@ 3239
+Sát thương tăng 10% cho mỗi |c00ff9933Charge|u
+@@ 3240
+Sát thương tăng 15% cho mỗi |c00ff9933Charge|u
+@@ 3241
+Bộ giáp của Railman kích hoạt lõi Ember để phân hạch, giải phóng một lượng năng lượng khổng lồ.  Các xung hấp dẫn phát sinh như một tác dụng phụ.  (Phép duy trì liên tục) (Không tiêu hao thanh Charge)
+@@ 3242
+Bạn triển khai một robot nhỏ tấn công kẻ địch bằng làn mưa đạn trong 60 giây.
+@@ 3243
+Vũ khí của bạn nghiền nát kẻ địch trúng đòn, tạo ra 4 mảnh vụn rực lửa tự tìm kẻ địch trong phạm vi 5 mét. Nếu có sẵn, một |c00ff9933Charge|u sẽ được tiêu hao để tạo thêm hai vụ nổ.

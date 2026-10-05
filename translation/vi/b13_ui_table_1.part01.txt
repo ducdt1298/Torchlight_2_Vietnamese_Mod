@@ -1,0 +1,280 @@
+@@ 5780
+ Cứu với!
+@@ 5781
+ Thiếu ô hành trang, vật phẩm sẽ bị mất:\n
+@@ 5782
+ chưa được kích hoạt. Thiếu ô hành trang, vật phẩm sẽ bị mất:\n
+@@ 5783
+( chỉ khi tỉ lệ UI dưới 100% )
+@@ 5784
+(Set)
+@@ 5785
+(Bạn không thể vào phòng có bậc New Game Plus khác)
+@@ 5786
+* Tăng theo cấp người chơi
+@@ 5787
+*Khoảng cấp sẽ tăng lên khi chủ phòng vượt quá cấp tối đa.
+@@ 5788
++<STAT1> mét
+@@ 5789
++[VALUE] cho mọi yêu cầu chỉ số nhân vật của vật phẩm [DURATION]
+@@ 5790
+- Shield đỡ sát thương
+@@ 5791
+-Phát hiện lỗi tường lửa-\nVui lòng kiểm tra cài đặt tường lửa
+@@ 5792
+-Phát hiện NAT nghiêm ngặt-\nCó thể không kết nối được tới một số phòng.
+@@ 5793
+-[VALUE] cấp cho các Spell Charm
+@@ 5794
+-[VALUE] cho mọi yêu cầu chỉ số nhân vật của vật phẩm [DURATION]
+@@ 5795
+-[VALUE]% sát thương Wand và Staff
+@@ 5796
+-[VALUE]% tỉ lệ phản lại [VALUE3AND4]% sát thương đạn\n trong [DURATION]
+@@ 5797
+0GP
+@@ 5798
+Thiếu 1 hoặc nhiều mod
+@@ 5799
+Xong 10, còn 90 nữa!
+@@ 5800
+Xong 20, còn 80 nữa!
+@@ 5801
+3 Sisters
+@@ 5802
+Xong 30, còn 70 nữa!
+@@ 5803
+3x
+@@ 5804
+Xong 40, còn 60 nữa!
+@@ 5805
+Xong 50, còn 50 nữa!
+@@ 5806
+Xong 60, còn 40 nữa!
+@@ 5807
+Xong 70, còn 30 nữa!
+@@ 5808
+Xong 80, còn 20 nữa!
+@@ 5809
+Xong 90, còn 10 nữa!
+@@ 5810
+<STAT1> độ
+@@ 5811
+<STAT1> mét
+@@ 5812
+<STAT1> giây
+@@ 5813
+<STAT1>%/giây
+@@ 5814
+<STAT1>/giây
+@@ 5815
+<STAT1>\nhiện đang bận.
+@@ 5816
+<STAT1>\nmuốn giao dịch với bạn
+@@ 5817
+<STAT1>/giây
+@@ 5818
+Một người chơi trong phòng này có NAT nghiêm ngặt. Kết nối có thể thất bại.
+@@ 5819
+CHƯƠNG I
+@@ 5820
+CHƯƠNG II
+@@ 5821
+CHƯƠNG III
+@@ 5822
+CHƯƠNG IV
+@@ 5823
+Bỏ
+@@ 5824
+Bỏ nhiệm vụ
+@@ 5825
+Bỏ nhiệm vụ (có thể nhận lại)
+@@ 5826
+Nhận nhiệm vụ
+@@ 5827
+Nhận thưởng sau
+@@ 5828
+Chấp nhận yêu cầu giao dịch
+@@ 5829
+Tài khoản:
+@@ 5830
+Được Tarroch tìm thấy trong chuyến du hành qua Brackenwild.
+@@ 5831
+Nhiệm vụ đang làm
+@@ 5832
+Thêm bạn
+@@ 5833
+Thêm một
+@@ 5834
+Cộng điểm vào Dexterity
+@@ 5835
+Cộng điểm vào Focus
+@@ 5836
+Cộng điểm vào Strength
+@@ 5837
+Cộng điểm vào Vitality
+@@ 5838
+Sát thương cộng thêm cho mọi đòn đánh thường \nkhi cầm hai vũ khí cùng loại
+@@ 5839
+Sát thương Electric cộng thêm vào mọi đòn Electric đánh trúng
+@@ 5840
+Sát thương Fire cộng thêm vào mọi đòn Fire đánh trúng
+@@ 5841
+Sát thương Ice cộng thêm vào mọi đòn Ice đánh trúng
+@@ 5842
+Sát thương Physical cộng thêm vào mọi đòn Physical đánh trúng
+@@ 5843
+Sát thương Poison cộng thêm vào mọi đòn Poison đánh trúng
+@@ 5844
+Sát thương cộng thêm lên mục tiêu \nkhi trúng đòn chí mạng
+@@ 5845
+Tầm bắn cộng thêm cho vũ khí tầm xa. \nÁp dụng cho Bow, Crossbow, Pistol, Rifle và Wand.
+@@ 5846
+Tầm đánh đã điều chỉnh của vũ khí này
+@@ 5847
+Kỹ năng Aegis
+@@ 5848
+Aereon
+@@ 5849
+After the Alchemist
+@@ 5850
+Alchemist Room
+@@ 5851
+Tất cả phòng
+@@ 5852
+All the Colors of the Dark
+@@ 5853
+Aloe Gel
+@@ 5854
+Kỹ năng chuột phải phụ ([KB:SkillSwap])
+@@ 5855
+Luôn hiện tên vật phẩm ([KB:ShowItems])
+@@ 5856
+Luôn hiện tên người chơi
+@@ 5857
+Ô Amulet (Trống)
+@@ 5858
+Một Iridian Focus, đúng thứ chúng tôi cần! Với lũ Ratlin kia, tôi dám chắc đây chỉ là thêm một món đồ lấp lánh để chúng sưu tầm. Giá mà chúng biết nó làm được gì khi cho vài nghìn jag dòng Ember chạy qua!\n\nÀ, tôi sẽ không làm bạn chán với mấy chi tiết đó đâu... Phần thưởng của bạn đây!
+@@ 5859
+Đã xảy ra lỗi trong game. Thông báo lỗi là
+@@ 5860
+Ancient Spectral Dragon
+@@ 5861
+Another Realm
+@@ 5862
+Một người chơi khác đã bắt đầu một lượt Mapworks trong hầm ngục này, hoặc có người chơi đang chuyển khu vực nên Mapworks không thể bắt đầu lượt mới một cách an toàn.  Vui lòng thử lại sau ít phút!
+@@ 5863
+Anti-Aliasing *
+@@ 5864
+Anti-Aliasing cải thiện chất lượng hình ảnh.\nTắt Anti-Aliasing sẽ tăng tốc độ khung hình.
+@@ 5865
+Antropophagus
+@@ 5866
+Áp dụng
+@@ 5867
+Áp dụng cài đặt và đóng
+@@ 5868
+Áp dụng cài đặt?
+@@ 5869
+Arcane Statistics [[KB:Journal]]
+@@ 5870
+Bạn có chắc muốn bỏ nhiệm vụ này?
+@@ 5871
+Bạn có chắc muốn xóa nhân vật này?
+@@ 5872
+Bạn có chắc muốn chuyển sang chế độ |cFFEAAA15New Game Plus|u tiếp theo?
+@@ 5873
+Arming-Sword
+@@ 5874
+Giáp cộng thêm
+@@ 5875
+Giáp đang bán
+@@ 5876
+Giáp là lượng sát thương Physical được trừ khỏi các đòn đánh nhận vào. \nNếu đòn đánh có một phần Physical và một phần Elemental, mức giảm thực tế \ncủa giáp sẽ được tính theo tỉ lệ phần trăm sát thương Physical.
+@@ 5877
+Giáp/Trang sức
+@@ 5878
+Giáp\n(giảm trực tiếp sát thương từ đòn đánh nhận vào)
+@@ 5879
+Army of the Undead
+@@ 5880
+ArtCoding\n\n|cFFF5DB94Người thắng cuộc thi thiết kế giáp|u\nHenrik Langergaard Jepsen\nIan Mayhew
+@@ 5881
+Aruk The Cruel
+@@ 5882
+Để tỏ lòng biết ơn, tôi muốn tặng bạn thứ này!
+@@ 5883
+Gán |cFFA1D0FCkỹ năng và đồ tiêu hao |uvào thanh phím tắt bằng cách kéo thả chúng vào một ô, hoặc chỉ cần nhấp vào ô để hiện danh sách những thứ có thể gán.
+@@ 5884
+Tốc độ đánh
+@@ 5885
+Tốc độ đánh cộng thêm
+@@ 5886
+Thử phù phép vật phẩm này
+@@ 5887
+Âm thanh
+@@ 5888
+Tự động trang bị
+@@ 5889
+Tự động trang bị sẽ trang bị vật phẩm cho nhân vật khi bạn nhặt lên, nếu còn ô trống dành cho vật phẩm đó.
+@@ 5890
+Sát thương gây ra trung bình
+@@ 5891
+Sát thương nhận vào trung bình
+@@ 5892
+Cấp trung bình của người chơi
+@@ 5893
+Thời gian trung bình mỗi cấp
+@@ 5894
+Cấp trang bị trung bình
+@@ 5895
+Tránh dung nham
+@@ 5896
+BANDIT KINGS
+@@ 5897
+BATCH COUNT: <STAT1>\nBATCH UI COUNT: <STAT2>
+@@ 5898
+THANH CHARGE BERSERKER
+@@ 5899
+BIG TEXT
+@@ 5900
+BOLETUS REX
+@@ 5901
+BOSSNAME
+@@ 5902
+Quay lại
+@@ 5903
+Bandit Chest
+@@ 5904
+Dexterity gốc
+@@ 5905
+Focus gốc
+@@ 5906
+Hồi phục Mana gốc
+@@ 5907
+Strength gốc
+@@ 5908
+Vitality gốc
+@@ 5909
+Dexterity gốc, chưa tính phần cộng thêm
+@@ 5910
+Focus gốc, chưa tính phần cộng thêm
+@@ 5911
+Strength gốc, chưa tính phần cộng thêm
+@@ 5912
+Vitality gốc, chưa tính phần cộng thêm
+@@ 5913
+Đòn đánh thường
+@@ 5914
+Kết bạn với người chơi
+@@ 5915
+Ô Belt (Trống)
+@@ 5916
+Phù hợp nhất cho người mới chơi,\n|cFFA1D0FCchế độ Normal|u mang lại thử thách đa dạng mà không đòi hỏi hiểu biết sâu về game.
+@@ 5917
+Beyond the Darkness
+@@ 5918
+Big Treasure Chest
+@@ 5919
+Black Heart

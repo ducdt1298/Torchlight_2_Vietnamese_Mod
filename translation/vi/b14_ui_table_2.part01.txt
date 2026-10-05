@@ -1,0 +1,300 @@
+@@ 6609
+Ngẫu nhiên ngoại hình
+@@ 6610
+Đặt tên Pet ngẫu nhiên
+@@ 6611
+Tầm đánh
+@@ 6612
+Rare 
+@@ 6613
+Rare Fishing Hole
+@@ 6614
+Tốc độ máu tự hồi phục khi còn thấp hơn \nmức tối đa của nhân vật
+@@ 6615
+Tốc độ mana tự hồi phục khi còn thấp hơn\nmức tối đa của nhân vật
+@@ 6616
+Gọi Pet về
+@@ 6617
+Gọi Pet về sẽ khiến Pet ngừng bán và mua đồ.
+@@ 6618
+Công thức
+@@ 6619
+Đang kết nối lại...
+@@ 6620
+Lấy lại điểm kỹ năng
+@@ 6621
+Tạo lại thế giới với hầm ngục ngẫu nhiên và quái được làm mới
+@@ 6622
+Giảm mức phạt sát thương khi đòn đánh bị Fumble
+@@ 6623
+Reflows Occuring: <STAT1>
+@@ 6624
+Làm mới danh sách phòng
+@@ 6625
+Tải lại khu vực
+@@ 6626
+Gán lại phím
+@@ 6627
+Nhớ tên đăng nhập
+@@ 6628
+Xóa
+@@ 6629
+Bớt một
+@@ 6630
+Gỡ Spell
+@@ 6631
+Xóa mọi phù phép hiện có trên vật phẩm này
+@@ 6632
+Rút điểm
+@@ 6633
+Hiện vật thể sau tường
+@@ 6634
+Hiện vật thể sau tường sẽ tô sáng hình dáng các vật thể bị tường che khuất.\nTắt Hiện vật thể sau tường giúp tăng FPS.
+@@ 6635
+Chế độ phát lại: Có vẻ như bạn đã tìm thấy thân thể của tôi. Rất tốt. Đây là nơi lưu giữ ký ức của tôi, bao gồm cả vị trí của nhiều kho báu được cất giấu. Tôi có thể chia sẻ chúng với bạn, nếu bạn giúp tôi thu hồi những bộ phận còn lại.\n\nChúng ta nên bắt đầu với Cognition Linkage của tôi. Thiếu nó, tôi chẳng thể làm gì hơn ngoài việc lặp lại tin nhắn này. Cảm biến của tôi cho biết nó ở đâu đó gần đây. Hãy tìm và lắp lại nó, rồi tôi sẽ chỉ cho bạn đường đến một trong những kho báu ấy.
+@@ 6636
+Mod cần thiết
+@@ 6637
+Cần một\nIdentify Scroll.
+@@ 6638
+Tạo lại thế giới
+@@ 6639
+Tẩy điểm kỹ năng
+@@ 6640
+Tẩy điểm kỹ năng sẽ hoàn lại <STAT1> |cFFEAAA15điểm kỹ năng|u.
+@@ 6641
+Kháng bất động
+@@ 6642
+Kháng hiệu ứng làm chậm
+@@ 6643
+Khởi động lại và kích hoạt
+@@ 6644
+Khởi động lại và cài các mod này
+@@ 6645
+Cần khởi động lại
+@@ 6646
+Khởi động lại và cài đặt
+@@ 6647
+Tiếp tục
+@@ 6648
+Trở lại bản đồ trước
+@@ 6649
+Về thị trấn
+@@ 6650
+Trở về Zeryphesh
+@@ 6651
+Trở về Blightbogs
+@@ 6652
+Trở lên mặt đất
+@@ 6653
+Trở về The Blightbogs
+@@ 6654
+Hiện các thuộc tính của vật phẩm chưa giám định.
+@@ 6655
+Lựa chọn phần thưởng
+@@ 6656
+Phần thưởng
+@@ 6657
+Ô vũ khí tay phải (Trống)
+@@ 6658
+Kỹ năng chuột phải
+@@ 6659
+Chuột phải để trang bị
+@@ 6660
+Chuột phải để \nhọc kỹ năng này
+@@ 6661
+Chuột phải để giám định vật phẩm.
+@@ 6662
+Rim Lighting *
+@@ 6663
+Rim Lighting thêm hiệu ứng viền sáng vào game, giúp nhìn rõ hơn và tăng độ tương phản.\nRim Lighting không ảnh hưởng đáng kể đến FPS.
+@@ 6664
+Ô Ring (Trống)
+@@ 6665
+Xoay trái
+@@ 6666
+Xoay phải
+@@ 6667
+Vòng một
+@@ 6668
+Vòng hai
+@@ 6669
+Tốc độ chạy
+@@ 6670
+Đăng nhập Runic
+@@ 6671
+ĐÃ LƯU
+@@ 6672
+KỸ NĂNG
+@@ 6673
+SOUND DRIVER: <STAT1>
+@@ 6674
+Sadwa Mesa
+@@ 6675
+Lưu
+@@ 6676
+Lưu và thoát
+@@ 6677
+Lưu và tiếp tục
+@@ 6678
+Nói [Enter]
+@@ 6679
+School of Warsnouts
+@@ 6680
+Scrap
+@@ 6681
+Sea Chest
+@@ 6682
+Bộ vũ khí phụ
+@@ 6683
+Secret Room
+@@ 6684
+Chọn phòng trong danh sách
+@@ 6685
+Chọn vật phẩm thưởng
+@@ 6686
+Chọn phần thưởng
+@@ 6687
+Chọn phần thưởng để tiếp tục
+@@ 6688
+Chọn ngôn ngữ - cần khởi động lại
+@@ 6689
+Chọn vật phẩm hoặc kỹ năng để gán
+@@ 6690
+Chọn những vật phẩm sẽ hiện ra khi nhấn nút Hiện vật phẩm hoặc khi bật Hiện vật phẩm
+@@ 6691
+Bán hết
+@@ 6692
+Bán hết vật phẩm trong hành trang của Pet
+@@ 6693
+Gửi Pet về thị trấn
+@@ 6694
+Gửi Pet về thị trấn\n\nPet sẽ bán hết vật phẩm trong \nhành trang và mua mọi vật phẩm \ncó trong danh sách mua sắm của bạn.
+@@ 6695
+Gửi Pet về thị trấn để bán và mua đồ
+@@ 6696
+Sentinal Pistol
+@@ 6697
+Sepulcher of Sorrows
+@@ 6698
+Tên máy chủ
+@@ 6699
+Thiết lập bộ lọc hiển thị vật phẩm
+@@ 6700
+Vật phẩm Set:
+@@ 6701
+Cài đặt
+@@ 6702
+Chi tiết bóng đổ
+@@ 6703
+Chi tiết bóng đổ đặt mức chất lượng của bóng đổ trong game.\nTắt bóng đổ sẽ giúp tăng FPS.
+@@ 6704
+Kỹ năng Shadow
+@@ 6705
+Shark Frenzy
+@@ 6706
+Shift-click để mua
+@@ 6707
+Shift-click để bán
+@@ 6708
+Shift-click để chuyển
+@@ 6709
+Danh sách mua sắm
+@@ 6710
+Nếu bạn hoàn thành nhiệm vụ, hãy quay lại gặp tôi để tiến đến chế độ |cFFEAAA15New Game Plus|u tiếp theo với nhiều thử thách hơn.\n\n\nBạn cũng có thể dùng |cFFA1D0FCMapworks|u để rèn luyện kỹ năng trong những hầm ngục bí ẩn khác.
+@@ 6711
+Ô Shoulder Armor (Trống)
+@@ 6712
+Hiện máu
+@@ 6713
+Hiện máu thêm hiệu ứng máu văng vào game.
+@@ 6714
+Xem phòng
+@@ 6715
+Hiện Helmet
+@@ 6716
+Hiện Helmet bật/tắt việc hiển thị Helmet của nhân vật.
+@@ 6717
+Hiện so sánh vật phẩm
+@@ 6718
+Hiện người chơi ngoại tuyến
+@@ 6719
+Hiện mẹo
+@@ 6720
+Hiện mẹo sẽ hiển thị các mẹo hữu ích trong lúc chơi.
+@@ 6721
+Hiện thời tiết
+@@ 6722
+Hiện thời tiết thêm hiệu ứng thời tiết vào game.
+@@ 6723
+Đang hiện <STAT1>/<STAT2> phòng
+@@ 6724
+Kỹ năng Sigil
+@@ 6725
+Đăng nhập bằng TapTap
+@@ 6726
+Chơi đơn
+@@ 6727
+Tên kỹ năng
+@@ 6728
+Bảng kỹ năng
+@@ 6729
+Tẩy điểm kỹ năng
+@@ 6730
+Kỹ năng
+@@ 6731
+Kỹ năng đã dùng
+@@ 6732
+Kỹ năng [[KB:SkillMenu]]
+@@ 6733
+Skull Hollow
+@@ 6734
+Slavers Den
+@@ 6735
+Slavers' Camp
+@@ 6736
+Small Treasure Chest
+@@ 6737
+Vậy đó là loại quái gì thế? Tôi chưa hề thấy nó ... tôi còn mải chạy.\n\nSao cơ? Không có quái nào à? Nhưng, vậy thì, sao mấy người lính đó lại bảo là có ... trừ khi ...\n\nNày, bạn không nghĩ là họ đã nói dối tôi đấy chứ?\n\nKhoan! Bạn không nghĩ họ thật ra chẳng phải lính đấy chứ?\n\nTôi đúng là cả tin quá mà.
+@@ 6738
+Ờ, thì đấy. Tôi là dân buôn ... "đồ cổ", kiểu vậy. Hiểu chứ? Cái này cái nọ, chẳng có gì đặc biệt. Đồ "di sản", có thể nói thế. Tôi làm ăn với bất kỳ ai có ... món đồ cổ ... mà họ chẳng cần nữa, hiểu không? Họ đâu còn dùng đến nó nữa, nên tôi bán giùm họ.\n\nChỉ có điều thỉnh thoảng tôi phải làm ăn với mấy kẻ không đáng tin, nếu bạn hiểu ý tôi. Tôi đào đồ lên, bán lại cho bọn đó, rồi bỏ túi chút ... "hoa hồng", kiểu vậy.\n\nNhưng mấy "khách mua" gần đây nhất của tôi thì ... bọn này chẳng hiểu làm ăn là thế nào cả. Chúng lấy ... |cFFEAAA15món đồ cổ|u ... của tôi mà không trả tiền!\n\nBạn nghĩ mình có thể thuyết phục chúng giao lại ... món đồ cổ của tôi không? Tôi sẽ trả bạn hậu hĩnh ...
+@@ 6739
+Vậy là bạn đang truy đuổi Alchemist à? Có lẽ tôi giúp được bạn đấy. Tôi là nhà thực vật học, phục vụ Empire bằng cách thu thập các loại cây ngấm Ember. Và tôi đã tìm ra cả một kho báu |cFFD1FF7AEmber Truffles|u thực thụ ở dưới |cFFD1FF7AMuckery|u, nhưng vài cây trong số đó đã có tri giác, khiến tôi khó mà thu hái được.\n\nNếu bạn mang về cho tôi, chẳng hạn, một tá |cFFD1FF7AEmber Truffles|u, tôi sẽ giữ mười cây cho Empire, và dùng hai cây còn lại để làm một |cFFD1FF7ASuper Mana Potion|u cho bạn. Thỏa thuận nhé?
+@@ 6740
+Soul Basin
+@@ 6741
+Sounds Playing/Max Allowed: <STAT1>/<STAT2>
+@@ 6742
+Tối giản
+@@ 6743
+Spawn Punchbag
+@@ 6744
+Spawn Skeletons
+@@ 6745
+Spell
+@@ 6746
+Hành trang Spell
+@@ 6747
+Thẻ Spell
+@@ 6748
+Sát thương lan
+@@ 6749
+Bắt đầu từ giữa chặng
+@@ 6750
+Khởi động máy chủ
+@@ 6751
+Bắt đầu ở khu vực thứ ba
+@@ 6752
+Điểm thuộc tính còn lại chưa phân bổ
+@@ 6753
+Ở gần để dựng Totem lên
+@@ 6754
+Giữ ấm để sống sót
+@@ 6755
+Ở trong vùng sáng
+@@ 6756
+Thống kê Steam
+@@ 6757
+Thống kê Steam:
+@@ 6758
+Steamer Trunk

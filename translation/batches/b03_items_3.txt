@@ -1,0 +1,1211 @@
+# b03_items_3: 605 strings. Format: "@@ id | mode | context" then the English text on the next line.
+@@ 1279 | translate | UNITS/ITEMS/PONYA_01_CHEST_ALT_SET.DAT | UNIT | DESCRIPTION
+Seafarers still spin tales of Commodore Astrovulpus.
+@@ 1280 | translate | UNITS/ITEMS/PONYA_01_GLOVES.DAT | UNIT | DESCRIPTION
+The Peace-Bringer's gloves were a symbol of authority to the Ponya.
+@@ 1281 | translate | UNITS/ITEMS/PONYA_01_GLOVES_ALT_B.DAT | UNIT | DESCRIPTION
+The Red Paw was a famous outlaw hero among the Ponya.
+@@ 1282 | translate | UNITS/ITEMS/PONYA_01_GLOVES_ALT_C.DAT | UNIT | DESCRIPTION
+No lock could resist Babu the Monkey King!
+@@ 1283 | translate | UNITS/ITEMS/PONYA_01_GLOVES_ALT_SET.DAT | UNIT | DESCRIPTION
+The Commodore always did have steady hands.
+@@ 1284 | translate | UNITS/ITEMS/PONYA_01_HELMET.DAT | UNIT | DESCRIPTION
+It is unclear whether the beastlings were intelligent or not.
+@@ 1285 | translate | UNITS/ITEMS/PONYA_01_HELMET_ALT_B.DAT | UNIT | DESCRIPTION
+When the Ponya Peace-Bringer put on his goggles, everyone knew the fur was about to fly.
+@@ 1286 | translate | UNITS/ITEMS/PONYA_01_HELMET_ALT_C.DAT | UNIT | DESCRIPTION
+Not so much the "King of Beasts," but the "King of Vermin."
+@@ 1287 | translate | UNITS/ITEMS/PONYA_01_HELMET_ALT_SET.DAT | UNIT | DESCRIPTION
+The Commodore wore this helm in every battle.
+@@ 1288 | translate | UNITS/ITEMS/PONYA_01_PANTS.DAT | UNIT | DESCRIPTION
+The Peace-Bringer was lost, along with all of his armor, in the Battle of Lorecastle.
+@@ 1289 | translate | UNITS/ITEMS/PONYA_01_PANTS_ALT_B.DAT | UNIT | DESCRIPTION
+Few images of actual beastlings still exist, since the Theannan Purges.
+@@ 1290 | translate | UNITS/ITEMS/PONYA_01_PANTS_ALT_C.DAT | UNIT | DESCRIPTION
+The Bamboo Bandit defied the Peace-Bringer's best efforts to capture him.
+@@ 1291 | translate | UNITS/ITEMS/PONYA_01_PANTS_ALT_SET.DAT | UNIT | DESCRIPTION
+The Commodore's crew referred to themselves as Argonauts, though it was just a play on words.
+@@ 1292 | translate | UNITS/ITEMS/PONYA_01_RING_E.DAT | UNIT | DESCRIPTION
+The shiniest thing ever!
+@@ 1293 | translate | UNITS/ITEMS/PONYA_01_RING_E_ALT_B.DAT | UNIT | DESCRIPTION
+A holiday gift, symbolizing devotion.
+@@ 1294 | translate | UNITS/ITEMS/PONYA_01_RING_E_ALT_C.DAT | UNIT | DESCRIPTION
+Some things are just meant to be.
+@@ 1295 | translate | UNITS/ITEMS/PONYA_01_RING_E_ALT_SET.DAT | UNIT | DESCRIPTION
+It's said it's the key to a map to Astrovulpus's secret treasure.
+@@ 1296 | translate | UNITS/ITEMS/PONYA_01_RING_F.DAT | UNIT | DESCRIPTION
+Awarded to the Champion Gamesman of the Imperial arenas.
+@@ 1297 | translate | UNITS/ITEMS/PONYA_01_RING_F_ALT_B.DAT | UNIT | DESCRIPTION
+The Fetcher King perished in battle, just a year before the Zeraphi perfected immortality.
+@@ 1298 | translate | UNITS/ITEMS/PONYA_01_RING_F_ALT_C.DAT | UNIT | DESCRIPTION
+Sim designed and built the first cities.
+@@ 1299 | translate | UNITS/ITEMS/PONYA_01_RING_I.DAT | UNIT | DESCRIPTION
+The Liubos were a prominent family in the Nine-Kings Provinces.
+@@ 1300 | translate | UNITS/ITEMS/PONYA_01_RING_I_ALT_B.DAT | UNIT | DESCRIPTION
+After a strategic review of the Little Wars, the Dragons came.
+@@ 1301 | translate | UNITS/ITEMS/PONYA_01_RING_I_ALT_C.DAT | UNIT | DESCRIPTION
+"Without dungeons, there would be no dragons." - dwarven saying
+@@ 1302 | translate | UNITS/ITEMS/PONYA_01_RING_P.DAT | UNIT | DESCRIPTION
+Just sit back and watch the sparks fly.
+@@ 1303 | translate | UNITS/ITEMS/PONYA_01_RING_P_ALT_B.DAT | UNIT | DESCRIPTION
+Versipellis is known as the Prime Lycanthrope.
+@@ 1304 | translate | UNITS/ITEMS/PONYA_01_RING_P_ALT_C.DAT | UNIT | DESCRIPTION
+What's eating you?
+@@ 1305 | translate | UNITS/ITEMS/PONYA_01_SHOULDERS.DAT | UNIT | DESCRIPTION
+No one has dared to take up the mantle of the Peace-Bringer.
+@@ 1306 | translate | UNITS/ITEMS/PONYA_01_SHOULDERS_ALT_B.DAT | UNIT | DESCRIPTION
+Ponya armor is sturdy, though it looks like little more than jewelry.
+@@ 1307 | translate | UNITS/ITEMS/PONYA_01_SHOULDERS_ALT_C.DAT | UNIT | DESCRIPTION
+The Peace-Bringer had a knack for finding what others tried to hide.
+@@ 1308 | translate | UNITS/ITEMS/PONYA_01_SHOULDERS_ALT_SET.DAT | UNIT | DESCRIPTION
+The Commodore always cut a dashing figure.
+@@ 1309 | translate | UNITS/ITEMS/POTIONS/ACCURACYPOTION.DAT | UNIT | DESCRIPTION
+Right-click to drink potion
+@@ 1310 | translate | UNITS/ITEMS/POTIONS/ELIXIR_DEXTERITY.DAT | UNIT | DESCRIPTION
+Right-click to drink elixir
+@@ 1311 | translate | UNITS/ITEMS/POTIONS/FISH_PALACE_02.DAT | UNIT | DESCRIPTION
+Right-click to eat polyp
+@@ 1312 | translate | UNITS/ITEMS/POTIONS/FISH_RUINS_02.DAT | UNIT | DESCRIPTION
+Right-click to eat tooth
+@@ 1313 | translate | UNITS/ITEMS/POTIONS/POTION_BROMS_DEFENSE.DAT | UNIT | DESCRIPTION
+Right-click to drink tonic
+@@ 1314 | translate | UNITS/ITEMS/POTIONS/POTION_LICHKING.DAT | UNIT | DESCRIPTION
+Right-click to swallow eye
+@@ 1315 | translate | UNITS/ITEMS/POTIONS/WITCH_POTION.DAT | UNIT | DESCRIPTION
+A sugary drink that rots teeth
+@@ 1316 | translate | UNITS/ITEMS/QUEST_ITEMS/A3-BELLYFATOFFUNGUS.DAT | UNIT | DESCRIPTION
+The flesh of the Blue Boletus - can be used to treat certain ailments.
+@@ 1317 | translate | UNITS/ITEMS/QUEST_ITEMS/A3-CRYSTAL_ELECTRIC.DAT | UNIT | DESCRIPTION
+Reaching for the crystal you can feel your hair standing on end.
+@@ 1318 | translate | UNITS/ITEMS/QUEST_ITEMS/A3-CRYSTAL_FIRE.DAT | UNIT | DESCRIPTION
+The heat from the crystal burns to the touch.
+@@ 1319 | translate | UNITS/ITEMS/QUEST_ITEMS/A3-CRYSTAL_ICE.DAT | UNIT | DESCRIPTION
+The crystal is cold to the touch.
+@@ 1320 | translate | UNITS/ITEMS/QUEST_ITEMS/A3-CRYSTAL_POISON.DAT | UNIT | DESCRIPTION
+The crystal shines green with a poison-looking fluid flowing within its structure.
+@@ 1321 | translate | UNITS/ITEMS/QUEST_ITEMS/A3-DRAGONTOWERKEY.DAT | UNIT | DESCRIPTION
+The key to Glaviox's Tower in Rivenskull Gorge
+@@ 1322 | translate | UNITS/ITEMS/QUEST_ITEMS/A3-DYNOMITE.DAT | UNIT | DESCRIPTION
+Very old Dynamite
+@@ 1323 | translate | UNITS/ITEMS/QUEST_ITEMS/A3-GOBLIN_CROWN.DAT | UNIT | DESCRIPTION
+A crown made of toe and finger nails. It's quite disgusting.
+@@ 1324 | translate | UNITS/ITEMS/QUEST_ITEMS/A3-LOCKET.DAT | UNIT | DESCRIPTION
+The locket is made of Estherian Stone, and is precious to Jessa.
+@@ 1325 | translate | UNITS/ITEMS/QUEST_ITEMS/A3-SKULL_FOUR.DAT | UNIT | DESCRIPTION
+This skull is barely scratched.
+@@ 1326 | translate | UNITS/ITEMS/QUEST_ITEMS/A3-SKULL_ONE.DAT | UNIT | DESCRIPTION
+The jaw is missing.
+@@ 1327 | translate | UNITS/ITEMS/QUEST_ITEMS/A3-SKULL_THREE.DAT | UNIT | DESCRIPTION
+It's almost as if the skull exploded from the inside.
+@@ 1328 | translate | UNITS/ITEMS/QUEST_ITEMS/A3-SKULL_TWO.DAT | UNIT | DESCRIPTION
+This skull appears to have been pierced by a spear.
+@@ 1329 | translate | UNITS/ITEMS/QUEST_ITEMS/A3-VARKOLYN_STAFF.DAT | UNIT | DESCRIPTION
+It smells of rotten beets
+@@ 1330 | translate | UNITS/ITEMS/QUEST_ITEMS/GLYPHS/GLYPH1.DAT | UNIT | DESCRIPTION
+It's engraved with strange symbols.
+@@ 1331 | translate | UNITS/ITEMS/QUEST_ITEMS/GLYPHS/GLYPH2.DAT | UNIT | DESCRIPTION
+It's warm to the touch.
+@@ 1332 | translate | UNITS/ITEMS/QUEST_ITEMS/GLYPHS/GLYPH3.DAT | UNIT | DESCRIPTION
+It's quite light.
+@@ 1333 | translate | UNITS/ITEMS/QUEST_ITEMS/MAINQUEST/A3-AUTOMATONPOWERSOURCEEMPTY.DAT | UNIT | DESCRIPTION
+It appears to be depleted.
+@@ 1334 | translate | UNITS/ITEMS/QUEST_ITEMS/MAINQUEST/A3-AUTOMATONPOWERSOURCEFULL.DAT | UNIT | DESCRIPTION
+It hums with energy.
+@@ 1335 | translate | UNITS/ITEMS/QUEST_ITEMS/MAINQUEST/A4-ORDRAKS_HEART.DAT | UNIT | DESCRIPTION
+Powerful beyond imagining, Corrupt beyond measure
+@@ 1336 | translate | UNITS/ITEMS/QUEST_ITEMS/MAINQUEST/BANDITKEY.DAT | UNIT | DESCRIPTION
+It looks stolen.
+@@ 1337 | translate | UNITS/ITEMS/QUEST_ITEMS/MAINQUEST/BLOODSTAINEDMESSAGE.DAT | UNIT | DESCRIPTION
+"The Alchemist will attempt to enter the Enclave through the Path of the Honored Dead. Kill him, and bring me his staff. Do not return without it, or you will suffer my wrath."
+@@ 1338 | translate | UNITS/ITEMS/QUEST_ITEMS/MAINQUEST/CRESTOFPOOLS.DAT | UNIT | DESCRIPTION
+A large medallion engraved  with the image of a still pond.
+@@ 1339 | translate | UNITS/ITEMS/QUEST_ITEMS/MAINQUEST/CRESTOFRIVERS.DAT | UNIT | DESCRIPTION
+A large medallion engraved  with the image of a waterfall.
+@@ 1340 | translate | UNITS/ITEMS/QUEST_ITEMS/MAINQUEST/CRESTOFTIDES.DAT | UNIT | DESCRIPTION
+A large medallion engraved  with the image of a wave.
+@@ 1341 | translate | UNITS/ITEMS/QUEST_ITEMS/MAINQUEST/WARPCRYSTAL1.DAT | UNIT | DESCRIPTION
+Crystal used to power the teleporter, that allows entrance into the Guardians Temple.
+@@ 1342 | translate | UNITS/ITEMS/QUEST_ITEMS/NICOLAKEY/NICOLAKEY.DAT | UNIT | DESCRIPTION
+A sustained glow emanates from the strange key.
+@@ 1343 | translate | UNITS/ITEMS/QUEST_ITEMS/RQ_BANNEROFKOSCHEI.DAT | UNIT | DESCRIPTION
+The enduring banner of an immortal champion.
+@@ 1344 | translate | UNITS/ITEMS/QUEST_ITEMS/RQ_BAROFORICHALCUM.DAT | UNIT | DESCRIPTION
+Only the ancient Estherians knew how to forge this metal.
+@@ 1345 | translate | UNITS/ITEMS/QUEST_ITEMS/RQ_BONEOFULLR.DAT | UNIT | DESCRIPTION
+The bone is carved with alchemical symbols.
+@@ 1346 | translate | UNITS/ITEMS/QUEST_ITEMS/RQ_CARVEDIVORYCUP.DAT | UNIT | DESCRIPTION
+It is carved from a single piece of pure ivory, and intricately decorated.
+@@ 1347 | translate | UNITS/ITEMS/QUEST_ITEMS/RQ_CARVEDONYXGARGOYLE.DAT | UNIT | DESCRIPTION
+Created to ward off evil spirits, its power has faded.
+@@ 1348 | translate | UNITS/ITEMS/QUEST_ITEMS/RQ_CELESTIALEYE.DAT | UNIT | DESCRIPTION
+No matter how you turn it, the eye continues to gaze upward.
+@@ 1349 | translate | UNITS/ITEMS/QUEST_ITEMS/RQ_CHAINOFTORMENT.DAT | UNIT | DESCRIPTION
+Used to bind prisoners ... and discipline slaves.
+@@ 1350 | translate | UNITS/ITEMS/QUEST_ITEMS/RQ_CHROMIUMBELL.DAT | UNIT | DESCRIPTION
+When rung, it emits seven harmonic tones.
+@@ 1351 | translate | UNITS/ITEMS/QUEST_ITEMS/RQ_CHUNKOFADAMANT.DAT | UNIT | DESCRIPTION
+An immensely strong metal.
+@@ 1352 | translate | UNITS/ITEMS/QUEST_ITEMS/RQ_CLOCKWORKSPHERE.DAT | UNIT | DESCRIPTION
+Intricate and inscrutable, it appears to depict a map of the world.
+@@ 1353 | translate | UNITS/ITEMS/QUEST_ITEMS/RQ_COPPERTABLET.DAT | UNIT | DESCRIPTION
+Intriguing, but the language written on it is indecipherable.
+@@ 1354 | translate | UNITS/ITEMS/QUEST_ITEMS/RQ_CORALHAIRPIN.DAT | UNIT | DESCRIPTION
+A beautifully crafted Estherian ornament.
+@@ 1355 | translate | UNITS/ITEMS/QUEST_ITEMS/RQ_CRESTOFTHEREGENT.DAT | UNIT | DESCRIPTION
+All Estherian Regents carry these, to symbolize their authority.
+@@ 1356 | translate | UNITS/ITEMS/QUEST_ITEMS/RQ_CRESTOFTHEWARDEN.DAT | UNIT | DESCRIPTION
+A symbol of an Imperial Warden's power and authority.
+@@ 1357 | translate | UNITS/ITEMS/QUEST_ITEMS/RQ_CRYSTALINESOUL.DAT | UNIT | DESCRIPTION
+Spirit solidified.
+@@ 1358 | translate | UNITS/ITEMS/QUEST_ITEMS/RQ_CYCLOPEANLENS.DAT | UNIT | DESCRIPTION
+A very large lens used in detailed dwarven stoneworking.
+@@ 1359 | translate | UNITS/ITEMS/QUEST_ITEMS/RQ_DAGGEROFKOSCHEI.DAT | UNIT | DESCRIPTION
+The ceremonial dagger of an immortal champion.
+@@ 1360 | translate | UNITS/ITEMS/QUEST_ITEMS/RQ_DEATHMASK.DAT | UNIT | DESCRIPTION
+Zeraphi leave no corpses behind ... only empty shells, and lifeless masks.
+@@ 1361 | translate | UNITS/ITEMS/QUEST_ITEMS/RQ_DRAGONSEYE.DAT | UNIT | DESCRIPTION
+Look into it ... and despair.
+@@ 1362 | translate | UNITS/ITEMS/QUEST_ITEMS/RQ_DRAGONSTOOTH.DAT | UNIT | DESCRIPTION
+A warrior's trophy.
+@@ 1363 | translate | UNITS/ITEMS/QUEST_ITEMS/RQ_DUNGEONKEY.DAT | UNIT | DESCRIPTION
+This key is now useful only as decoration.
+@@ 1364 | translate | UNITS/ITEMS/QUEST_ITEMS/RQ_DWARVENCOG.DAT | UNIT | DESCRIPTION
+The cog's teeth are unevenly spaced.
+@@ 1365 | translate | UNITS/ITEMS/QUEST_ITEMS/RQ_ELIXIROFJOY.DAT | UNIT | DESCRIPTION
+This amulet is pure magic ...
+@@ 1366 | translate | UNITS/ITEMS/QUEST_ITEMS/RQ_FAELSHEART.DAT | UNIT | DESCRIPTION
+In legend, Fael removed her own heart, to avoid temptation.
+@@ 1367 | translate | UNITS/ITEMS/QUEST_ITEMS/RQ_FLAMESHARD.DAT | UNIT | DESCRIPTION
+Flame made solid, it is too hot to hold in your hand for long.
+@@ 1368 | translate | UNITS/ITEMS/QUEST_ITEMS/RQ_FLESHBOUNDTOME.DAT | UNIT | DESCRIPTION
+It is filled with arcane knowledge written in a spidery hand.
+@@ 1369 | translate | UNITS/ITEMS/QUEST_ITEMS/RQ_FORSAKENVESSEL.DAT | UNIT | DESCRIPTION
+May it never be unsealed.
+@@ 1370 | translate | UNITS/ITEMS/QUEST_ITEMS/RQ_GOLDENCANDLESTICK.DAT | UNIT | DESCRIPTION
+It is made of pure gold, with crystal windows.
+@@ 1371 | translate | UNITS/ITEMS/QUEST_ITEMS/RQ_GOLDENSICKLE.DAT | UNIT | DESCRIPTION
+Legend has it that this sickle was used to harvest souls.
+@@ 1372 | translate | UNITS/ITEMS/QUEST_ITEMS/RQ_GOLDENTROBET.DAT | UNIT | DESCRIPTION
+A mythical reagent.
+@@ 1373 | translate | UNITS/ITEMS/QUEST_ITEMS/RQ_GRIMOIREOFDEATH.DAT | UNIT | DESCRIPTION
+The spellbook is written in an unknown cipher.
+@@ 1374 | translate | UNITS/ITEMS/QUEST_ITEMS/RQ_HAMMEROFWEYLAND.DAT | UNIT | DESCRIPTION
+The prized tool of a legendary smith.
+@@ 1375 | translate | UNITS/ITEMS/QUEST_ITEMS/RQ_ICEAMULET.DAT | UNIT | DESCRIPTION
+No matter how you turn it, the eye continues to gaze downward.
+@@ 1376 | translate | UNITS/ITEMS/QUEST_ITEMS/RQ_JADEFALCON.DAT | UNIT | DESCRIPTION
+Carved with incredible skill, the Jade Falcon is a symbol of Imperial power.
+@@ 1377 | translate | UNITS/ITEMS/QUEST_ITEMS/RQ_JEWELEDIDOL.DAT | UNIT | DESCRIPTION
+It glares at you with ruby eyes.
+@@ 1378 | translate | UNITS/ITEMS/QUEST_ITEMS/RQ_KALEIDOSCOPEPEARL.DAT | UNIT | DESCRIPTION
+You cannot name its color.
+@@ 1379 | translate | UNITS/ITEMS/QUEST_ITEMS/RQ_LABYRINTHINEDEVICE.DAT | UNIT | DESCRIPTION
+You cannot tell its purpose, for it seems overly complex.
+@@ 1380 | translate | UNITS/ITEMS/QUEST_ITEMS/RQ_LABYRINTHINEMAP.DAT | UNIT | DESCRIPTION
+Where is the maze this map depicts?
+@@ 1381 | translate | UNITS/ITEMS/QUEST_ITEMS/RQ_LAPISMUSICBOX.DAT | UNIT | DESCRIPTION
+It plays a tune you have never heard.
+@@ 1382 | translate | UNITS/ITEMS/QUEST_ITEMS/RQ_LASTWILL.DAT | UNIT | DESCRIPTION
+This is the last will and testament of a famous hero.
+@@ 1383 | translate | UNITS/ITEMS/QUEST_ITEMS/RQ_LIBRAMEXMORTIS.DAT | UNIT | DESCRIPTION
+This book lists a thousand ways to die.
+@@ 1384 | translate | UNITS/ITEMS/QUEST_ITEMS/RQ_MALACHITESEAL.DAT | UNIT | DESCRIPTION
+The stamp of a dwarven high priest.
+@@ 1385 | translate | UNITS/ITEMS/QUEST_ITEMS/RQ_MANACLEOFDOMINATION.DAT | UNIT | DESCRIPTION
+Used to bind spellcasters, and still their magic.
+@@ 1386 | translate | UNITS/ITEMS/QUEST_ITEMS/RQ_MASTERWORKTANKARD.DAT | UNIT | DESCRIPTION
+The mug of dwarven king.
+@@ 1387 | translate | UNITS/ITEMS/QUEST_ITEMS/RQ_MINIATUREORNITHOPTER.DAT | UNIT | DESCRIPTION
+It doesn't look like this could possibly fly.
+@@ 1388 | translate | UNITS/ITEMS/QUEST_ITEMS/RQ_MOSAICALROD.DAT | UNIT | DESCRIPTION
+Used by treasure hunters.
+@@ 1389 | translate | UNITS/ITEMS/QUEST_ITEMS/RQ_MYTHITEMONOCLE.DAT | UNIT | DESCRIPTION
+The lens of a dwarven gem-crafter.
+@@ 1390 | translate | UNITS/ITEMS/QUEST_ITEMS/RQ_NIGHTSHADECHALIS.DAT | UNIT | DESCRIPTION
+Poisons any drink it contains.
+@@ 1391 | translate | UNITS/ITEMS/QUEST_ITEMS/RQ_PATHFINDERSJOURNAL.DAT | UNIT | DESCRIPTION
+The record of a lost expedition.
+@@ 1392 | translate | UNITS/ITEMS/QUEST_ITEMS/RQ_PESTLEVESSEL.DAT | UNIT | DESCRIPTION
+An alchemist's tool, ensuring  that the brew is true.
+@@ 1393 | translate | UNITS/ITEMS/QUEST_ITEMS/RQ_PHIALOFDISTILLEDAETHER.DAT | UNIT | DESCRIPTION
+It shines with inner light.
+@@ 1394 | translate | UNITS/ITEMS/QUEST_ITEMS/RQ_PIQUANTTRUFFLE.DAT | UNIT | DESCRIPTION
+Sought after by chefs and pigs alike.
+@@ 1395 | translate | UNITS/ITEMS/QUEST_ITEMS/RQ_PORTAITOFTHEMASTER.DAT | UNIT | DESCRIPTION
+The Master wouldn't approve.
+@@ 1396 | translate | UNITS/ITEMS/QUEST_ITEMS/RQ_PRESERVEDKEG.DAT | UNIT | DESCRIPTION
+The seal on this keg has remained intact for all these years.
+@@ 1397 | translate | UNITS/ITEMS/QUEST_ITEMS/RQ_PRIMALEMBLEM.DAT | UNIT | DESCRIPTION
+Symbol of a primitive champion.
+@@ 1398 | translate | UNITS/ITEMS/QUEST_ITEMS/RQ_PROSPECTORSCACHE.DAT | UNIT | DESCRIPTION
+The prospector never returned for this bounty.
+@@ 1399 | translate | UNITS/ITEMS/QUEST_ITEMS/RQ_RAREMUSHROOM.DAT | UNIT | DESCRIPTION
+Useful to create a variety of potions and tinctures.
+@@ 1400 | translate | UNITS/ITEMS/QUEST_ITEMS/RQ_RAWGEM.DAT | UNIT | DESCRIPTION
+Beautiful ... at least, once it is cut and polished.
+@@ 1401 | translate | UNITS/ITEMS/QUEST_ITEMS/RQ_RITUALSCYTHE.DAT | UNIT | DESCRIPTION
+It's too fragile for actual combat.
+@@ 1402 | translate | UNITS/ITEMS/QUEST_ITEMS/RQ_RUNEOFSTORM.DAT | UNIT | DESCRIPTION
+A symbol of the storm's fury.
+@@ 1403 | translate | UNITS/ITEMS/QUEST_ITEMS/RQ_RUNICFLAGON.DAT | UNIT | DESCRIPTION
+It is worn from many, many hours of use.
+@@ 1404 | translate | UNITS/ITEMS/QUEST_ITEMS/RQ_SCALEOFTHEARBITER.DAT | UNIT | DESCRIPTION
+It weighs both sides of the argument, and returns justice.
+@@ 1405 | translate | UNITS/ITEMS/QUEST_ITEMS/RQ_SCROLLOFESTHERIANLAW.DAT | UNIT | DESCRIPTION
+It espouses Estherian ideals.
+@@ 1406 | translate | UNITS/ITEMS/QUEST_ITEMS/RQ_SEALEDRELIC.DAT | UNIT | DESCRIPTION
+The relic is preserved in a sealed case.
+@@ 1407 | translate | UNITS/ITEMS/QUEST_ITEMS/RQ_SEALOFTHEOVERSEER.DAT | UNIT | DESCRIPTION
+Emblem of the famous architect.
+@@ 1408 | translate | UNITS/ITEMS/QUEST_ITEMS/RQ_SHADOWSTONEURN.DAT | UNIT | DESCRIPTION
+It is perfectly black and carved with fine patterns.
+@@ 1409 | translate | UNITS/ITEMS/QUEST_ITEMS/RQ_SHARDOFLUMINITE.DAT | UNIT | DESCRIPTION
+It is too bright to look at directly.
+@@ 1410 | translate | UNITS/ITEMS/QUEST_ITEMS/RQ_SILVERCHALICE.DAT | UNIT | DESCRIPTION
+The chalice holds the image of a palace.
+@@ 1411 | translate | UNITS/ITEMS/QUEST_ITEMS/RQ_SILVERSKULL.DAT | UNIT | DESCRIPTION
+An artifact of a lost civilization.
+@@ 1412 | translate | UNITS/ITEMS/QUEST_ITEMS/RQ_SIMULACRUMOFZARD.DAT | UNIT | DESCRIPTION
+A stone head with fierce eyes.
+@@ 1413 | translate | UNITS/ITEMS/QUEST_ITEMS/RQ_SOULBOUNDPHYLACTERY.DAT | UNIT | DESCRIPTION
+It is believed to contain the spirit of an undead sorcerer.
+@@ 1414 | translate | UNITS/ITEMS/QUEST_ITEMS/RQ_SUNMEDALLION.DAT | UNIT | DESCRIPTION
+Sunlight is only a legend to the creatures of the deep.
+@@ 1415 | translate | UNITS/ITEMS/QUEST_ITEMS/RQ_TALISMANOFYENDOR.DAT | UNIT | DESCRIPTION
+Once belonged to a wizard.
+@@ 1416 | translate | UNITS/ITEMS/QUEST_ITEMS/RQ_TENTACLESTATUE.DAT | UNIT | DESCRIPTION
+A pulpy, tentacled head surmounted by a grotesque and scaly body, with rudimentary wings.
+@@ 1417 | translate | UNITS/ITEMS/QUEST_ITEMS/RQ_TOKENOFSAFEPASSAGE.DAT | UNIT | DESCRIPTION
+The prison guards allowed the bearer to pass unchallenged.
+@@ 1418 | translate | UNITS/ITEMS/QUEST_ITEMS/RQ_TRANSCENDENTLYRE.DAT | UNIT | DESCRIPTION
+Its tones are haunting.
+@@ 1419 | translate | UNITS/ITEMS/QUEST_ITEMS/RQ_TRAVELERSCHARM.DAT | UNIT | DESCRIPTION
+Thought to protect travelers on the darkest of journeys.
+@@ 1420 | translate | UNITS/ITEMS/QUEST_ITEMS/RQ_TRUESILVERCOMPASS.DAT | UNIT | DESCRIPTION
+Used for prospecting.
+@@ 1421 | translate | UNITS/ITEMS/QUEST_ITEMS/RQ_WARDERSBADGE.DAT | UNIT | DESCRIPTION
+An ancient badge once worn by the attendants of the elemental Guardians.
+@@ 1422 | translate | UNITS/ITEMS/QUEST_ITEMS/RQ_WAXFRUITBOWL.DAT | UNIT | DESCRIPTION
+A symbolic offering to the elemental Guardians.
+@@ 1423 | translate | UNITS/ITEMS/QUEST_ITEMS/RQ_WICKEDTALISMAN.DAT | UNIT | DESCRIPTION
+An emblem of dark power.
+@@ 1424 | translate | UNITS/ITEMS/QUEST_ITEMS/RQ_WINEBOTTLE.DAT | UNIT | DESCRIPTION
+It could contain a priceless wine ... or rancid vinegar ...
+@@ 1425 | translate | UNITS/ITEMS/QUEST_ITEMS/SCROLLSOFANOM-IREK.DAT | UNIT | DESCRIPTION
+The scroll is clearly ancient.
+@@ 1426 | translate | UNITS/ITEMS/QUEST_ITEMS/SIDEQUESTS/MASKOFKINGS.DAT | UNIT | DESCRIPTION
+Forged in the likeness of a man of noble bearing
+@@ 1427 | translate | UNITS/ITEMS/QUEST_ITEMS/SIDEQUESTS/MASKOFQUEENS.DAT | UNIT | DESCRIPTION
+Forged in the likeness of a woman of regal demeanor
+@@ 1428 | translate | UNITS/ITEMS/QUEST_ITEMS/SIDEQUESTS/MASKOFWAZIR.DAT | UNIT | DESCRIPTION
+Forged in the likeness of a wise but stern old man
+@@ 1429 | translate | UNITS/ITEMS/QUEST_ITEMS/SIDEQUESTS/TRILLBOT_ARM.DAT | UNIT | DESCRIPTION
+If only it had a body.
+@@ 1430 | translate | UNITS/ITEMS/QUEST_ITEMS/SIDEQUESTS/TRILLBOT_BODY.DAT | UNIT | DESCRIPTION
+If only it had a head.
+@@ 1431 | translate | UNITS/ITEMS/QUEST_ITEMS/SIDEQUESTS/TRILLBOT_DRUM.DAT | UNIT | DESCRIPTION
+What could play these drums?
+@@ 1432 | translate | UNITS/ITEMS/QUEST_ITEMS/SIDEQUESTS/TRILLBOT_HEAD.DAT | UNIT | DESCRIPTION
+4000 is engraved on the side of the head.
+@@ 1433 | translate | UNITS/ITEMS/QUEST_ITEMS/SIDEQUESTS/TRILLBOT_PIPES.DAT | UNIT | DESCRIPTION
+To what might these pipes connect?
+@@ 1434 | translate | UNITS/ITEMS/QUEST_ITEMS/VASMANEMBER/ADAMANTEMBER.DAT | UNIT | DESCRIPTION
+It's surprisingly light, but you doubt any blow could scratch it.
+@@ 1435 | translate | UNITS/ITEMS/QUEST_ITEMS/VASMANEMBER/ARMORSCHEMATICS.DAT | UNIT | DESCRIPTION
+Sketches depict a massive, ember-powered suit of armor.
+@@ 1436 | translate | UNITS/ITEMS/QUEST_ITEMS/VASMANEMBER/DEATHLACEEMBER.DAT | UNIT | DESCRIPTION
+It has a sinister feel.
+@@ 1437 | translate | UNITS/ITEMS/QUEST_ITEMS/VASMANEMBER/ELEMENTALEMBER.DAT | UNIT | DESCRIPTION
+Colors whirl inside the crystal.
+@@ 1438 | translate | UNITS/ITEMS/QUEST_ITEMS/VASMANEMBER/GLEAMINGEMBER.DAT | UNIT | DESCRIPTION
+It's gleaming!
+@@ 1439 | translate | UNITS/ITEMS/QUEST_ITEMS/VASMANEMBER/GOLDEN_GEAR.DAT | UNIT | DESCRIPTION
+A gold-plated gear, vaguely resembling a capstan wheel.
+@@ 1440 | translate | UNITS/ITEMS/QUEST_ITEMS/VASMANEMBER/HEARTOFTWOBEASTS.DAT | UNIT | DESCRIPTION
+The heart of a werewolf: one heart, two beasts.
+@@ 1441 | translate | UNITS/ITEMS/QUEST_ITEMS/VASMANEMBER/MERRYWEATHERLEAVES.DAT | UNIT | DESCRIPTION
+They're filled with goo.
+@@ 1442 | translate | UNITS/ITEMS/QUEST_ITEMS/VASMANEMBER/PRIMALEMBER.DAT | UNIT | DESCRIPTION
+Fire and lightning dance beneath its icy surface.
+@@ 1443 | translate | UNITS/ITEMS/QUEST_ITEMS/VASMANEMBER/ROSAMORTIS.DAT | UNIT | DESCRIPTION
+From death, life.
+@@ 1444 | translate | UNITS/ITEMS/QUEST_ITEMS/VASMANEMBER/SANGUINEEMBER.DAT | UNIT | DESCRIPTION
+You can almost hear it whispering.
+@@ 1445 | translate | UNITS/ITEMS/QUEST_ITEMS/VASMANEMBER/SAVAGEEMBER.DAT | UNIT | DESCRIPTION
+It's rough and covered with crude markings.
+@@ 1446 | translate | UNITS/ITEMS/QUEST_ITEMS/VASMANEMBER/SHIMMERINGEMBER.DAT | UNIT | DESCRIPTION
+It's cold and slick.
+@@ 1447 | translate | UNITS/ITEMS/QUEST_ITEMS/VASMANEMBER/SPENT EMBER.DAT | UNIT | DESCRIPTION
+A burned-out, blackened chunk of Ember.
+@@ 1448 | translate | UNITS/ITEMS/QUEST_ITEMS/VASMANEMBER/TOMEOFREVELATION.DAT | UNIT | DESCRIPTION
+It's ancient.  There's a sketch of a wand on the cover.
+@@ 1449 | translate | UNITS/ITEMS/QUEST_ITEMS/VASMANEMBER/TRILLBOTHEAD.DAT | UNIT | DESCRIPTION
+A robot head which spews out random words and phrases.
+@@ 1450 | translate | UNITS/ITEMS/QUEST_ITEMS/VASMANEMBER/ZERAPHIWRAPPINGS.DAT | UNIT | DESCRIPTION
+Wrappings such as these give the Zeraphi a physical form.
+@@ 1451 | translate | UNITS/ITEMS/RIFLES/BASE_RIFLE.DAT | UNIT | DESCRIPTION
+Shotgonnes damage all targets within an arc
+@@ 1452 | translate | UNITS/ITEMS/RIFLES/LEGENDARY_RIFLE01.DAT | UNIT | DESCRIPTION
+Fires Poison Bolts\n\nLegendary Rifle Collection\nNumber One of Three
+@@ 1453 | translate | UNITS/ITEMS/RIFLES/LEGENDARY_RIFLE02.DAT | UNIT | DESCRIPTION
+Legendary Rifle Collection\nNumber Two of Three
+@@ 1454 | translate | UNITS/ITEMS/RIFLES/LEGENDARY_RIFLE03.DAT | UNIT | DESCRIPTION
+Legendary Rifle Collection\nNumber Three of Three
+@@ 1455 | translate | UNITS/ITEMS/RIFLES/RIFLE_U01.DAT | UNIT | DESCRIPTION
+You have a right to bear arms against armed bears.
+@@ 1456 | translate | UNITS/ITEMS/RIFLES/RIFLE_U01B.DAT | UNIT | DESCRIPTION
+Listen up, you primitive screwheads!
+@@ 1457 | translate | UNITS/ITEMS/RIFLES/RIFLE_U01C.DAT | UNIT | DESCRIPTION
+The Baron was virtually anonymous, despite his importance in Red Haven.
+@@ 1458 | translate | UNITS/ITEMS/RIFLES/RIFLE_U02.DAT | UNIT | DESCRIPTION
+Laugh like thunder.
+@@ 1459 | translate | UNITS/ITEMS/RIFLES/RIFLE_U02B.DAT | UNIT | DESCRIPTION
+Wielded by the highwayman known as the Red Dragoon.
+@@ 1460 | translate | UNITS/ITEMS/RIFLES/RIFLE_U02C.DAT | UNIT | DESCRIPTION
+Leave your enemies thunderstruck.
+@@ 1461 | translate | UNITS/ITEMS/RIFLES/RIFLE_U03.DAT | UNIT | DESCRIPTION
+An alchemical rifle, designed specifically to freeze Ezrohir armor.
+@@ 1462 | translate | UNITS/ITEMS/RIFLES/RIFLE_U03B.DAT | UNIT | DESCRIPTION
+Tell the dwarves that Raleigh sent you.
+@@ 1463 | translate | UNITS/ITEMS/RIFLES/RIFLE_U03C.DAT | UNIT | DESCRIPTION
+Take the shot.
+@@ 1464 | translate | UNITS/ITEMS/RIFLES/RIFLE_U04.DAT | UNIT | DESCRIPTION
+For the wolf!
+@@ 1465 | translate | UNITS/ITEMS/RIFLES/RIFLE_U04B.DAT | UNIT | DESCRIPTION
+The Gray Sky is a bad omen ... for the Netherim.
+@@ 1466 | translate | UNITS/ITEMS/RIFLES/RIFLE_U04C.DAT | UNIT | DESCRIPTION
+Scatter your foes.
+@@ 1467 | translate | UNITS/ITEMS/RIFLES/RIFLE_U05.DAT | UNIT | DESCRIPTION
+All coiled up and ready to strike ...
+@@ 1468 | translate | UNITS/ITEMS/RIFLES/RIFLE_U05B.DAT | UNIT | DESCRIPTION
+Its victims die of lead poisoning.
+@@ 1469 | translate | UNITS/ITEMS/RIFLES/RIFLE_U05C.DAT | UNIT | DESCRIPTION
+As deadly as it is mesmerizing ...
+@@ 1470 | translate | UNITS/ITEMS/RIFLES/RIFLE_U06.DAT | UNIT | DESCRIPTION
+The rifled coils impart spin, which improves accuracy ...
+@@ 1471 | translate | UNITS/ITEMS/RIFLES/RIFLE_U06B.DAT | UNIT | DESCRIPTION
+This rifle was well ahead of its time.
+@@ 1472 | translate | UNITS/ITEMS/RIFLES/RIFLE_U06C.DAT | UNIT | DESCRIPTION
+You can run, but you can't hide.
+@@ 1473 | translate | UNITS/ITEMS/RIFLES/RIFLE_U06_SET_LEONE.DAT | UNIT | DESCRIPTION
+Few remember Leone's part in it. They just call it "the Gun With No Name."
+@@ 1474 | translate | UNITS/ITEMS/RIFLES/RIFLE_U07.DAT | UNIT | DESCRIPTION
+No champion is greater than the sum of his parts. Find the weak one, and put a bullet in it.
+@@ 1475 | translate | UNITS/ITEMS/RIFLES/RIFLE_U07B.DAT | UNIT | DESCRIPTION
+It was going to conquer the world, but the Empire withdrew funding. Only the prototype remains.
+@@ 1476 | translate | UNITS/ITEMS/RIFLES/RIFLE_U07C.DAT | UNIT | DESCRIPTION
+It pretty much defines "excessive force."
+@@ 1477 | translate | UNITS/ITEMS/SCROLLS/ANOMIREK.DAT | UNIT | DESCRIPTION
+Right-click to open a portal to a Strange Land
+@@ 1478 | translate | UNITS/ITEMS/SCROLLS/DISENCHANT.DAT | UNIT | DESCRIPTION
+Right-click to use scroll, then Left-click on an unidentified item
+@@ 1479 | translate | UNITS/ITEMS/SCROLLS/MYSTERYPORTALSCROLL.DAT | UNIT | DESCRIPTION
+Right-click to open a portal to a Lost Dungeon.\n\nWarning: If you leave a Lost Dungeon, it can never be re-entered!
+@@ 1480 | translate | UNITS/ITEMS/SCROLLS/SUMMON SET VENDOR.DAT | UNIT | DESCRIPTION
+Congratulations, you have found a very rare magical scroll! \n\nRight-click to Summon Boon the Collector, a vendor of Set Equipment.\n\nUse this wisely as Boon has set his prices very high.
+@@ 1481 | translate | UNITS/ITEMS/SCROLLS/WAYPOINTPORTALSCROLL.DAT | UNIT | DESCRIPTION
+Right-click to open portal
+@@ 1482 | translate | UNITS/ITEMS/SHIELDS/LEGENDARY_SHIELD02.DAT | UNIT | DESCRIPTION
+Legendary Shield Collection\nNumber One of Four
+@@ 1483 | translate | UNITS/ITEMS/SHIELDS/LEGENDARY_SHIELD03.DAT | UNIT | DESCRIPTION
+Legendary Shield Collection\nNumber Two of Four
+@@ 1484 | translate | UNITS/ITEMS/SHIELDS/LEGENDARY_SHIELD04.DAT | UNIT | DESCRIPTION
+Legendary Shield Collection\nNumber Three of Four
+@@ 1485 | translate | UNITS/ITEMS/SHIELDS/LEGENDARY_SHIELD05.DAT | UNIT | DESCRIPTION
+Legendary Shield Collection\nNumber Four of Four
+@@ 1486 | translate | UNITS/ITEMS/SHIELDS/SHIELD_U01.DAT | UNIT | DESCRIPTION
+Captured from the tribesmen of the Jade Jungle.
+@@ 1487 | translate | UNITS/ITEMS/SHIELDS/SHIELD_U01B.DAT | UNIT | DESCRIPTION
+It seems to have acquired a taste for blood.
+@@ 1488 | translate | UNITS/ITEMS/SHIELDS/SHIELD_U01C.DAT | UNIT | DESCRIPTION
+The tribesmen call this shield "The Gate Which Never Opens."
+@@ 1489 | translate | UNITS/ITEMS/SHIELDS/SHIELD_U02.DAT | UNIT | DESCRIPTION
+The peasant who found it was using it as an umbrella until a passing mage recognized its powers.
+@@ 1490 | translate | UNITS/ITEMS/SHIELDS/SHIELD_U02B.DAT | UNIT | DESCRIPTION
+A shelter from whatever storms blow your way.
+@@ 1491 | translate | UNITS/ITEMS/SHIELDS/SHIELD_U02C.DAT | UNIT | DESCRIPTION
+Your personal haven from all the trouble and strife.
+@@ 1492 | translate | UNITS/ITEMS/SHIELDS/SHIELD_U03.DAT | UNIT | DESCRIPTION
+On watch, day and night.
+@@ 1493 | translate | UNITS/ITEMS/SHIELDS/SHIELD_U03B.DAT | UNIT | DESCRIPTION
+The only known remnant of Lorecastle ... a piece of the wall.
+@@ 1494 | translate | UNITS/ITEMS/SHIELDS/SHIELD_U03C.DAT | UNIT | DESCRIPTION
+Said to contain the soul of an ancient knight.
+@@ 1495 | translate | UNITS/ITEMS/SHIELDS/SHIELD_U04.DAT | UNIT | DESCRIPTION
+"Strong walls make strong allies." - popular saying
+@@ 1496 | translate | UNITS/ITEMS/SHIELDS/SHIELD_U04B.DAT | UNIT | DESCRIPTION
+Proud of yourself?
+@@ 1497 | translate | UNITS/ITEMS/SHIELDS/SHIELD_U04C.DAT | UNIT | DESCRIPTION
+It contains a sense of wonder, and a longing for more, the very soul of adventure.
+@@ 1498 | translate | UNITS/ITEMS/SHIELDS/SHIELD_U04_SET_WINTERSREACH.DAT | UNIT | DESCRIPTION
+Forged during a blizzard by the Ice Dwarves of Reijek.
+@@ 1499 | translate | UNITS/ITEMS/SHIELDS/SHIELD_U05.DAT | UNIT | DESCRIPTION
+It serves neither the right nor the left, but defends the whole.
+@@ 1500 | translate | UNITS/ITEMS/SHIELDS/SHIELD_U05B.DAT | UNIT | DESCRIPTION
+Found among the ruins of the Singing Castle.
+@@ 1501 | translate | UNITS/ITEMS/SHIELDS/SHIELD_U05C.DAT | UNIT | DESCRIPTION
+"It's not enough that I win; you have to lose."
+@@ 1502 | translate | UNITS/ITEMS/SHIELDS/SHIELD_U06.DAT | UNIT | DESCRIPTION
+Prepare to be judged!
+@@ 1503 | translate | UNITS/ITEMS/SHIELDS/SHIELD_U06B.DAT | UNIT | DESCRIPTION
+They call it "the Anvil of Broken Swords."
+@@ 1504 | translate | UNITS/ITEMS/SHIELDS/SHIELD_U06C.DAT | UNIT | DESCRIPTION
+A shield made of Potential, and wielded by Destiny.
+@@ 1505 | translate | UNITS/ITEMS/SHIELDS/SHIELD_U07.DAT | UNIT | DESCRIPTION
+Powered by the Miracle of Steam! Handle with care!
+@@ 1506 | translate | UNITS/ITEMS/SHIELDS/SHIELD_U07B.DAT | UNIT | DESCRIPTION
+Professor Parma made the mistake of making this one move of its own accord.
+@@ 1507 | translate | UNITS/ITEMS/SHIELDS/SHIELD_U07C.DAT | UNIT | DESCRIPTION
+Professor Parma believed that a shield was useless without a power source.
+@@ 1508 | translate | UNITS/ITEMS/SHIELDS/Z_SHIELD_U07_SET.DAT | UNIT | DESCRIPTION
+The shield that came from beyond the Void.
+@@ 1509 | translate | UNITS/ITEMS/SOCKETABLES/QUEST_MANAVENT_ACQUIRE.DAT | UNIT | DESCRIPTION
+A burned-out piece of Ember, fully recharged!
+@@ 1510 | translate | UNITS/ITEMS/SOCKETABLES/TL2_BLOODEMBER_BASE.DAT | UNIT | DESCRIPTION
+Insert Ember into weapons and armor with empty slots to garner their effects.
+@@ 1511 | translate | UNITS/ITEMS/SOCKETABLES/TL2_CLAPTRAPBOLT.DAT | UNIT | DESCRIPTION
+"My servos... are seizing..."
+@@ 1512 | translate | UNITS/ITEMS/SOCKETABLES/TL2_CLAPTRAPNUT.DAT | UNIT | DESCRIPTION
+"Wow! You're not dead?"
+@@ 1513 | translate | UNITS/ITEMS/SOCKETABLES/TL2_KELTONSROCK.DAT | UNIT | DESCRIPTION
+A rock painted for his dad to remind him to finish up quickly and hurry home.
+@@ 1514 | translate | UNITS/ITEMS/SPELLS/ADRENALINE RUSH I.DAT | UNIT | DESCRIPTION
+Training that grants a chance to gain a burst of movement and attack speed upon being struck.
+@@ 1515 | translate | UNITS/ITEMS/SPELLS/ADRENALINE RUSH II.DAT | UNIT | DESCRIPTION
+Training that grants a chance to gain a burst of movement and attack speed upon being struck.  More powerful than Adrenaline Rush.
+@@ 1516 | translate | UNITS/ITEMS/SPELLS/ADRENALINE RUSH III.DAT | UNIT | DESCRIPTION
+Training that grants a chance to gain a burst of movement and attack speed upon being struck.  More powerful than Adrenaline Rush or Burst.
+@@ 1517 | translate | UNITS/ITEMS/SPELLS/ADVANCED SPELLCASTING I.DAT | UNIT | DESCRIPTION
+Concentration improves Mana recharge rate at all times.  Only one rank of Concentration can be equipped at a time.
+@@ 1518 | translate | UNITS/ITEMS/SPELLS/ADVENTURER I.DAT | UNIT | DESCRIPTION
+Knowledge that improves the potency of potions, increases the rate of Experience and Fame gain, and reduces resurrection penalties.  Only one rank of Adventurering may be equipped at a time.
+@@ 1519 | translate | UNITS/ITEMS/SPELLS/ARMOR EXPERTISE I.DAT | UNIT | DESCRIPTION
+Training that reduces armor requirements and improves armor absorption.  Only one rank of Armor Expertise may be equipped at a time.
+@@ 1520 | translate | UNITS/ITEMS/SPELLS/BARTER I.DAT | UNIT | DESCRIPTION
+Knowledge that reduces the purchase prices at Merchants, Enchanters, and Gamblers, and Improves the sale prices of your own goods.  Only one rank of Barter may be equipped at a time.
+@@ 1521 | translate | UNITS/ITEMS/SPELLS/BLOCK I.DAT | UNIT | DESCRIPTION
+Training that increases the chance to block with a shield.  Only one rank of Blocking may be equipped at a time.
+@@ 1522 | translate | UNITS/ITEMS/SPELLS/CRITICAL STRIKES I.DAT | UNIT | DESCRIPTION
+Training that increases the chance to score a critial hit, as well as improving the damage bonus.  Only one rank of Critical Strikes may be equipped at a time.
+@@ 1523 | translate | UNITS/ITEMS/SPELLS/DUAL WIELDING I.DAT | UNIT | DESCRIPTION
+Training that improves the damage of all weapons when dual-wielding.
+@@ 1524 | translate | UNITS/ITEMS/SPELLS/DUAL WIELDING II.DAT | UNIT | DESCRIPTION
+A passive spell that improves damage of all weapons when dual-wielding.  Only one Dual Wielding spell may be equipped at a time.\n\nRight-click to learn spell.
+@@ 1525 | translate | UNITS/ITEMS/SPELLS/ELEMENTALOVERLOADSPELL.DAT | UNIT | DESCRIPTION
+The caster is imbued with increased elemental damage strength.
+@@ 1526 | translate | UNITS/ITEMS/SPELLS/FROSTBALL.DAT | UNIT | DESCRIPTION
+Fires three frost missiles that freeze all enemies within their blast radius.
+@@ 1527 | translate | UNITS/ITEMS/SPELLS/HASTESPELL.DAT | UNIT | DESCRIPTION
+The caster's movement speed is increased by 8% and attack speed by 2%  for 12 seconds.
+@@ 1528 | translate | UNITS/ITEMS/SPELLS/HASTESPELL2.DAT | UNIT | DESCRIPTION
+The caster's movement speed is increased by 12% and attack speed by 3%  for 12 seconds.
+@@ 1529 | translate | UNITS/ITEMS/SPELLS/HASTESPELL3.DAT | UNIT | DESCRIPTION
+The caster's movement speed is increased by 16% and attack speed by 4%  for 12 seconds.
+@@ 1530 | translate | UNITS/ITEMS/SPELLS/HASTESPELL4.DAT | UNIT | DESCRIPTION
+The caster's movement speed is increased by 20% and attack speed by 5%  for 12 seconds.
+@@ 1531 | translate | UNITS/ITEMS/SPELLS/HASTESPELL5.DAT | UNIT | DESCRIPTION
+The caster's movement speed is increased by 24% and attack speed by 6%  for 12 seconds.
+@@ 1532 | translate | UNITS/ITEMS/SPELLS/HASTESPELL6.DAT | UNIT | DESCRIPTION
+The caster's movement speed is increased by 28% and attack speed by 7%  for 12 seconds.
+@@ 1533 | translate | UNITS/ITEMS/SPELLS/HEALSPELL.DAT | UNIT | DESCRIPTION
+Heals the caster.
+@@ 1534 | translate | UNITS/ITEMS/SPELLS/HEAL_ALL_SPELL.DAT | UNIT | DESCRIPTION
+Heals the caster and all allies.
+@@ 1535 | translate | UNITS/ITEMS/SPELLS/IDENTIFYSPELL.DAT | UNIT | DESCRIPTION
+Reveals the properties of an unidentified item. 
+@@ 1536 | translate | UNITS/ITEMS/SPELLS/LIFESTEALSPELL.DAT | UNIT | DESCRIPTION
+The caster draws life from any foes struck for the duration of the spell.
+@@ 1537 | translate | UNITS/ITEMS/SPELLS/MAGIC WEAPONS EXPERTISE II.DAT | UNIT | DESCRIPTION
+Knowledge that increases the damage of Wands and Staves and reduces the requirements for Rings and Amulets.  Only one rank of Arcane Tools may be equipped at a time.
+@@ 1538 | translate | UNITS/ITEMS/SPELLS/MARTIAL WEAPONS EXPERTISE I.DAT | UNIT | DESCRIPTION
+Training that increases the damage and reduces the requirements of Claws, Swords, Axes, Maces and Polearms.  Only one rank of Weapons Expertise may be equipped at a time.
+@@ 1539 | translate | UNITS/ITEMS/SPELLS/PET MASTERY I.DAT | UNIT | DESCRIPTION
+Training that increases your pet and minion's power, and decreases the pet's town-travel time.  Only one rank of Animal Handling may be equipped at a time.
+@@ 1540 | translate | UNITS/ITEMS/SPELLS/POISONCLOUD.DAT | UNIT | DESCRIPTION
+Blasts a noxious cloud of poison gas around the caster.
+@@ 1541 | translate | UNITS/ITEMS/SPELLS/RANGED WEAPONS EXPERTISE I.DAT | UNIT | DESCRIPTION
+Training that increases the damage and reduces the requirements of Bows, Pistols, Crossbows and Rifles.  Only one rank of Marksmanship may be equipped at a time.
+@@ 1542 | translate | UNITS/ITEMS/SPELLS/REPELSPELL.DAT | UNIT | DESCRIPTION
+Nearby foes are pushed away by a powerful gust of wind.
+@@ 1543 | translate | UNITS/ITEMS/SPELLS/RESISTALLSPELL.DAT | UNIT | DESCRIPTION
+The caster is imbued with increased elemental armor.
+@@ 1544 | translate | UNITS/ITEMS/SPELLS/RETRIBUTIONSPELL.DAT | UNIT | DESCRIPTION
+The caster is possessed with a vengeful spirit, automatically striking back at all nearby attackers.
+@@ 1545 | translate | UNITS/ITEMS/SPELLS/ROLLER II.DAT | UNIT | DESCRIPTION
+Launches fast rolling wheel of fire.
+@@ 1546 | translate | UNITS/ITEMS/SPELLS/ROLLER.DAT | UNIT | DESCRIPTION
+Launches rolling wheel of fire.
+@@ 1547 | translate | UNITS/ITEMS/SPELLS/RUMBLE SPELL.DAT | UNIT | DESCRIPTION
+A wave of energy expands outwards, shattering delicate objects and sometimes breaking shields.
+@@ 1548 | translate | UNITS/ITEMS/SPELLS/SILENCE5.DAT | UNIT | DESCRIPTION
+Silences enemies within 10 meters, preventing them from using most skills.
+@@ 1549 | translate | UNITS/ITEMS/SPELLS/SILENCE6.DAT | UNIT | DESCRIPTION
+Silences enemies within 11 meters, preventing them from using most skills.
+@@ 1550 | translate | UNITS/ITEMS/SPELLS/SUMMON BLOOD ZOMBIE.DAT | UNIT | DESCRIPTION
+Summons a fearsome Blood Zombie.
+@@ 1551 | translate | UNITS/ITEMS/SPELLS/SUMMON NETHER IMP I.DAT | UNIT | DESCRIPTION
+Summons a Nether Imp to attack your foes.
+@@ 1552 | translate | UNITS/ITEMS/SPELLS/SUMMON NETHER IMP II.DAT | UNIT | DESCRIPTION
+Summons a Nether Imp to attack your foes.  Stronger than Nether Imp I and has a chance to silence foes.
+@@ 1553 | translate | UNITS/ITEMS/SPELLS/SUMMON NETHER IMP III.DAT | UNIT | DESCRIPTION
+Summons a Nether Imp to attack your foes.  Stronger than Nether Imp II and has a higher chance to silence foes.
+@@ 1554 | translate | UNITS/ITEMS/SPELLS/SUMMON NETHER IMP IV.DAT | UNIT | DESCRIPTION
+Summons a Nether Imp to attack your foes.  Stronger than Nether Imp III and has a higher chance to silence foes.
+@@ 1555 | translate | UNITS/ITEMS/SPELLS/SUMMON NETHER IMP V.DAT | UNIT | DESCRIPTION
+Summons a Nether Imp to attack your foes.  Stronger than Nether Imp IV and has a chance to silence small groups of foes.
+@@ 1556 | translate | UNITS/ITEMS/SPELLS/SUMMONALOEGEL.DAT | UNIT | DESCRIPTION
+Summons a healing Gel that heals the caster and all allies.
+@@ 1557 | translate | UNITS/ITEMS/SPELLS/SUMMONARCHERSPELL.DAT | UNIT | DESCRIPTION
+Summons a pack of 3 non-moving Skeletal Archers to attack your foes.
+@@ 1558 | translate | UNITS/ITEMS/SPELLS/SUMMONARCHERSPELL2.DAT | UNIT | DESCRIPTION
+Summons a pack of 4 non-moving Skeletal Archers to attack your foes.
+@@ 1559 | translate | UNITS/ITEMS/SPELLS/SUMMONARCHERSPELL3.DAT | UNIT | DESCRIPTION
+Summons a pack of 5 non-moving Skeletal Archers to attack your foes.
+@@ 1560 | translate | UNITS/ITEMS/SPELLS/SUMMONARCHERSPELL4.DAT | UNIT | DESCRIPTION
+Summons a pack of 6 non-moving Skeletal Archers to attack your foes.
+@@ 1561 | translate | UNITS/ITEMS/SPELLS/SUMMONARCHERSPELL5.DAT | UNIT | DESCRIPTION
+Summons a pack of 7 non-moving Skeletal Archers to attack your foes.
+@@ 1562 | translate | UNITS/ITEMS/SPELLS/SUMMONARCHERSPELL6.DAT | UNIT | DESCRIPTION
+Summons a pack of 8 non-moving Skeletal Archers to attack your foes.
+@@ 1563 | translate | UNITS/ITEMS/SPELLS/SUMMONBLOODSKELETON.DAT | UNIT | DESCRIPTION
+Summons a Blood Skeleton to attack your foes.
+@@ 1564 | translate | UNITS/ITEMS/SPELLS/SUMMONSKELETONSPELL.DAT | UNIT | DESCRIPTION
+Summons a Skeletal Warrior to attack your foes.
+@@ 1565 | translate | UNITS/ITEMS/SPELLS/SUMMONSWORDSPELL.DAT | UNIT | DESCRIPTION
+Summons an enchanted Flaming Sword to attack your foes.
+@@ 1566 | translate | UNITS/ITEMS/SPELLS/SUMMONZOMBIESSPELL.DAT | UNIT | DESCRIPTION
+Summons a pack of suicidal Zombies to poison your foes.
+@@ 1567 | translate | UNITS/ITEMS/SPELLS/SUMMONZOMBIESSPELL2.DAT | UNIT | DESCRIPTION
+Summons a pack of suicidal Zombies to poison your foes
+@@ 1568 | translate | UNITS/ITEMS/SPELLS/TREASURE HUNTER I.DAT | UNIT | DESCRIPTION
+Knowledge that increases the chance to find magic items and gold.  Only one rank of Treasure Hunter may be equipped at a time.
+@@ 1569 | translate | UNITS/ITEMS/SPELLS/TUNNELERS.DAT | UNIT | DESCRIPTION
+Launches burrowing exploding spheres.
+@@ 1570 | translate | UNITS/ITEMS/SPELLS/WEBSPELL.DAT | UNIT | DESCRIPTION
+Fires a sticky web missile, preventing any movement from its target.
+@@ 1571 | translate | UNITS/ITEMS/SPELLS/WHIRLDISC.DAT | UNIT | DESCRIPTION
+Launches a fiery exploding disc.
+@@ 1572 | translate | UNITS/ITEMS/SPELLS/WILLPOWER I.DAT | UNIT | DESCRIPTION
+Training that provides a resistance to slowing and immobilizing effects. Only one rank of Willpower may be equipped at a time.
+@@ 1573 | translate | UNITS/ITEMS/STAVES/LEGENDARY_STAFF01.DAT | UNIT | DESCRIPTION
+Legendary Staff Collection\nNumber One of Five
+@@ 1574 | translate | UNITS/ITEMS/STAVES/LEGENDARY_STAFF02.DAT | UNIT | DESCRIPTION
+Legendary Staff Collection\nNumber Two of Five
+@@ 1575 | translate | UNITS/ITEMS/STAVES/LEGENDARY_STAFF03.DAT | UNIT | DESCRIPTION
+Legendary Staff Collection\nNumber Three of Five
+@@ 1576 | translate | UNITS/ITEMS/STAVES/LEGENDARY_STAFF04.DAT | UNIT | DESCRIPTION
+Legendary Staff Collection\nNumber Four of Five
+@@ 1577 | translate | UNITS/ITEMS/STAVES/LEGENDARY_STAFF05.DAT | UNIT | DESCRIPTION
+Legendary Staff Collection\nNumber Five of Five
+@@ 1578 | translate | UNITS/ITEMS/STAVES/STAFF_U01.DAT | UNIT | DESCRIPTION
+Show your enemies exactly what fear really feels like.
+@@ 1579 | translate | UNITS/ITEMS/STAVES/STAFF_U01B.DAT | UNIT | DESCRIPTION
+A relic of the Nine-Kings Provinces. It gives advice, to those who will listen.
+@@ 1580 | translate | UNITS/ITEMS/STAVES/STAFF_U01C.DAT | UNIT | DESCRIPTION
+Goblins have been known to surrender at the mere sight of it.
+@@ 1581 | translate | UNITS/ITEMS/STAVES/STAFF_U02.DAT | UNIT | DESCRIPTION
+Industrium researches describe the Shard as "pre-Ember" crystal.
+@@ 1582 | translate | UNITS/ITEMS/STAVES/STAFF_U02B.DAT | UNIT | DESCRIPTION
+"He who touches the Wyrd feels the pulse of the world."
+@@ 1583 | translate | UNITS/ITEMS/STAVES/STAFF_U02C.DAT | UNIT | DESCRIPTION
+Madmorrow brought this back from "the edge of the world."
+@@ 1584 | translate | UNITS/ITEMS/STAVES/STAFF_U03.DAT | UNIT | DESCRIPTION
+Its components reputedly came from a clockwork bird.
+@@ 1585 | translate | UNITS/ITEMS/STAVES/STAFF_U03B.DAT | UNIT | DESCRIPTION
+Some believe it was originally a dwarven tool for disassembling automatons.
+@@ 1586 | translate | UNITS/ITEMS/STAVES/STAFF_U03C.DAT | UNIT | DESCRIPTION
+Rumor has it that this staff fell from the sky, two days after a star vanished.
+@@ 1587 | translate | UNITS/ITEMS/STAVES/STAFF_U04.DAT | UNIT | DESCRIPTION
+It gazes out at the world with Death's own eyes ...
+@@ 1588 | translate | UNITS/ITEMS/STAVES/STAFF_U04B.DAT | UNIT | DESCRIPTION
+When the time is right, it will feast.
+@@ 1589 | translate | UNITS/ITEMS/STAVES/STAFF_U04C.DAT | UNIT | DESCRIPTION
+From parts unknown.
+@@ 1590 | translate | UNITS/ITEMS/STAVES/STAFF_U05.DAT | UNIT | DESCRIPTION
+The Varkolyn developed this to combat the dwarves.
+@@ 1591 | translate | UNITS/ITEMS/STAVES/STAFF_U05B.DAT | UNIT | DESCRIPTION
+Built and wielded by Professor Oswald Finneus Herkon himself!
+@@ 1592 | translate | UNITS/ITEMS/STAVES/STAFF_U05C.DAT | UNIT | DESCRIPTION
+Remove the head, or destroy the brain. It's the only way.
+@@ 1593 | translate | UNITS/ITEMS/STAVES/STAFF_U06.DAT | UNIT | DESCRIPTION
+When the Provinces were ruled by six kings, this was their symbol of unity.
+@@ 1594 | translate | UNITS/ITEMS/STAVES/STAFF_U06B.DAT | UNIT | DESCRIPTION
+Join the Legion. The Legion welcomes all.
+@@ 1595 | translate | UNITS/ITEMS/STAVES/STAFF_U06C.DAT | UNIT | DESCRIPTION
+Once used to subdue the rogue mages known as the Blackstaffs.
+@@ 1596 | translate | UNITS/ITEMS/STAVES/STAFF_U07.DAT | UNIT | DESCRIPTION
+It eats automatons for dinner.
+@@ 1597 | translate | UNITS/ITEMS/STAVES/STAFF_U07B.DAT | UNIT | DESCRIPTION
+Carved from the dorsal spine of a Great Dragon.
+@@ 1598 | translate | UNITS/ITEMS/STAVES/STAFF_U07C.DAT | UNIT | DESCRIPTION
+It eats champions for breakfast.
+@@ 1599 | translate | UNITS/ITEMS/STAVES/ZZZ_STAFF_OF_RAH.DAT | UNIT | DESCRIPTION
+Found amid the dunes of the Salt Barrens, over a thousand years ago.
+@@ 1600 | translate | UNITS/ITEMS/SWORDS/LEGENDARY_SWORD01.DAT | UNIT | DESCRIPTION
+Legendary Sword Collection\nNumber One of Four
+@@ 1601 | translate | UNITS/ITEMS/SWORDS/LEGENDARY_SWORD02.DAT | UNIT | DESCRIPTION
+Legendary Sword Collection\nNumber Two of Four
+@@ 1602 | translate | UNITS/ITEMS/SWORDS/LEGENDARY_SWORD03.DAT | UNIT | DESCRIPTION
+Legendary Sword Collection\nNumber Three of Four
+@@ 1603 | translate | UNITS/ITEMS/SWORDS/LEGENDARY_SWORD04.DAT | UNIT | DESCRIPTION
+Legendary Sword Collection\nNumber Four of Four
+@@ 1604 | translate | UNITS/ITEMS/SWORDS/NETHERIM_MELEE_SWORD.DAT | UNIT | DESCRIPTION
+It is said no sane man can wield it long.
+@@ 1605 | translate | UNITS/ITEMS/SWORDS/SWORD_U01.DAT | UNIT | DESCRIPTION
+What better way to get under your skin?
+@@ 1606 | translate | UNITS/ITEMS/SWORDS/SWORD_U01B.DAT | UNIT | DESCRIPTION
+The Eight-Legged Lord slew the hero who wielded it.
+@@ 1607 | translate | UNITS/ITEMS/SWORDS/SWORD_U01C.DAT | UNIT | DESCRIPTION
+The cure is worse than the disease.
+@@ 1608 | translate | UNITS/ITEMS/SWORDS/SWORD_U02.DAT | UNIT | DESCRIPTION
+It's good to be alive!
+@@ 1609 | translate | UNITS/ITEMS/SWORDS/SWORD_U02B.DAT | UNIT | DESCRIPTION
+There is no better feeling than glorious victory.
+@@ 1610 | translate | UNITS/ITEMS/SWORDS/SWORD_U02C.DAT | UNIT | DESCRIPTION
+If a machine is acting up, you might need to force a shutdown.
+@@ 1611 | translate | UNITS/ITEMS/SWORDS/SWORD_U03.DAT | UNIT | DESCRIPTION
+The longer the tooth, the deeper the bite.
+@@ 1612 | translate | UNITS/ITEMS/SWORDS/SWORD_U03B.DAT | UNIT | DESCRIPTION
+The longer the claw, the deeper the slash.
+@@ 1613 | translate | UNITS/ITEMS/SWORDS/SWORD_U03C.DAT | UNIT | DESCRIPTION
+The longer the fang, the deadlier the bite.
+@@ 1614 | translate | UNITS/ITEMS/SWORDS/SWORD_U04.DAT | UNIT | DESCRIPTION
+An impressive fang, cast in steel.
+@@ 1615 | translate | UNITS/ITEMS/SWORDS/SWORD_U04B.DAT | UNIT | DESCRIPTION
+Mortal dread will ever loom, \nAll because of dwarven doom.
+@@ 1616 | translate | UNITS/ITEMS/SWORDS/SWORD_U04C.DAT | UNIT | DESCRIPTION
+A dragon's fang, cast in dwarven steel.
+@@ 1617 | translate | UNITS/ITEMS/SWORDS/SWORD_U05.DAT | UNIT | DESCRIPTION
+Carved from a dragon's tooth, and dipped in blood.
+@@ 1618 | translate | UNITS/ITEMS/SWORDS/SWORD_U05B.DAT | UNIT | DESCRIPTION
+Carved from a dragon's claw, and dipped in blood.
+@@ 1619 | translate | UNITS/ITEMS/SWORDS/SWORD_U05C.DAT | UNIT | DESCRIPTION
+Carved from a dragon's fang, and dipped in blood.
+@@ 1620 | translate | UNITS/ITEMS/SWORDS/SWORD_U06.DAT | UNIT | DESCRIPTION
+It may call you "master," but you'll feel like its slave.
+@@ 1621 | translate | UNITS/ITEMS/SWORDS/SWORD_U06B.DAT | UNIT | DESCRIPTION
+The dead are in here ... with us.
+@@ 1622 | translate | UNITS/ITEMS/SWORDS/SWORD_U06C.DAT | UNIT | DESCRIPTION
+The darkness of the void beckons...
+@@ 1623 | translate | UNITS/ITEMS/SWORDS/SWORD_U07B.DAT | UNIT | DESCRIPTION
+The bigger they are, the more they can bleed.
+@@ 1624 | translate | UNITS/ITEMS/SWORDS/SWORD_U07C.DAT | UNIT | DESCRIPTION
+Pulled from the space between worlds.
+@@ 1625 | translate | UNITS/ITEMS/SWORDS/SWORD_U07_SET_BLOODBATH.DAT | UNIT | DESCRIPTION
+It drinks the blood of the living ... and it is always thirsty ...
+@@ 1626 | translate | UNITS/ITEMS/SWORDS/ZZZ_SWORD_GROM.DAT | UNIT | DESCRIPTION
+Hear the lamentation of the women.
+@@ 1627 | translate | UNITS/ITEMS/SWORDS/ZZZ_SWORD_MC_COBBLESTONE.DAT | UNIT | DESCRIPTION
+Notched
+@@ 1628 | translate | UNITS/ITEMS/SWORDS/ZZZ_SWORD_MC_DIAMOND.DAT | UNIT | DESCRIPTION
+With Sharpness V
+@@ 1629 | translate | UNITS/ITEMS/SWORDS/ZZZ_SWORD_MC_GOLD.DAT | UNIT | DESCRIPTION
+No better than Wood?
+@@ 1630 | translate | UNITS/ITEMS/SWORDS/ZZZ_SWORD_MC_IRON.DAT | UNIT | DESCRIPTION
+Three hearts damage.
+@@ 1631 | translate | UNITS/ITEMS/SWORDS/ZZZ_SWORD_MC_WOODEN.DAT | UNIT | DESCRIPTION
+Two planks and a stick.
+@@ 1632 | translate | UNITS/ITEMS/SWORDS/ZZZ_TESTSWORD_AUGMENT_10CHAMP.DAT | UNIT | DESCRIPTION
+[should not spawn naturally - tell Erich]
+@@ 1633 | translate | UNITS/ITEMS/TL2ARMOR/BASEARMOR_COLLAR.DAT | UNIT | DESCRIPTION
+Collars can only be worn by pets
+@@ 1634 | translate | UNITS/ITEMS/TL2ARMOR/BASEARMOR_STUD.DAT | UNIT | DESCRIPTION
+Pet Tags can only be worn by pets
+@@ 1635 | translate | UNITS/ITEMS/TL2ARMOR/COLLAR_UNIQUE_ARMOR.DAT | UNIT | DESCRIPTION
+It is quite compelling, when properly applied.
+@@ 1636 | translate | UNITS/ITEMS/TL2ARMOR/COLLAR_UNIQUE_DEGRADE.DAT | UNIT | DESCRIPTION
+No one else can remove this, once you snap it on.
+@@ 1637 | translate | UNITS/ITEMS/TL2ARMOR/COLLAR_UNIQUE_ELECTRIC.DAT | UNIT | DESCRIPTION
+Originally fitted for a pet named "Sparky."
+@@ 1638 | translate | UNITS/ITEMS/TL2ARMOR/COLLAR_UNIQUE_FIRE.DAT | UNIT | DESCRIPTION
+The Flammenbund was created from salamander hide.
+@@ 1639 | translate | UNITS/ITEMS/TL2ARMOR/COLLAR_UNIQUE_ICE.DAT | UNIT | DESCRIPTION
+It was crafted from an ice-wolf's pelt.
+@@ 1640 | translate | UNITS/ITEMS/TL2ARMOR/COLLAR_UNIQUE_POISON.DAT | UNIT | DESCRIPTION
+Hakken created this for his pet mirka.
+@@ 1641 | translate | UNITS/ITEMS/TL2ARMOR/COLLAR_UNIQUE_SPIKED.DAT | UNIT | DESCRIPTION
+Built for an ice-spider, but it seems to fit just fine.
+@@ 1642 | translate | UNITS/ITEMS/TL2ARMOR/COLLAR_UNIQUE_VAMPIRE.DAT | UNIT | DESCRIPTION
+It seems to draw its power from your pet.
+@@ 1643 | translate | UNITS/ITEMS/TL2ARMOR/COLLAR_UNIQUE_VAMPIRE_MASTER.DAT | UNIT | DESCRIPTION
+Once used to tame the Beast of the Middlemoors.
+@@ 1644 | translate | UNITS/ITEMS/TL2ARMOR/ENGINEER_01_BOOTS.DAT | UNIT | DESCRIPTION
+Perpetually clogged with mud, even in the desert.
+@@ 1645 | translate | UNITS/ITEMS/TL2ARMOR/ENGINEER_01_CHEST.DAT | UNIT | DESCRIPTION
+Each new wearer wipes his or her greasy hands on it, for luck.
+@@ 1646 | translate | UNITS/ITEMS/TL2ARMOR/ENGINEER_01_GLOVES.DAT | UNIT | DESCRIPTION
+Lost long ago, during the reign of the Winter Magus.
+@@ 1647 | translate | UNITS/ITEMS/TL2ARMOR/ENGINEER_01_PANTS.DAT | UNIT | DESCRIPTION
+Stained with the grime of a thousand Master projects ...
+@@ 1648 | translate | UNITS/ITEMS/TL2ARMOR/WANDERER_01_BOOTS.DAT | UNIT | DESCRIPTION
+Not that Mika...
+@@ 1649 | translate | UNITS/ITEMS/TL2ARMOR/WANDERER_01_CHEST.DAT | UNIT | DESCRIPTION
+The armor of the Keeper of Lists and Master of Archives.
+@@ 1650 | translate | UNITS/ITEMS/TL2ARMOR/WANDERER_01_GLOVES.DAT | UNIT | DESCRIPTION
+Keep magic in the palm of your hand.
+@@ 1651 | translate | UNITS/ITEMS/TL2ARMOR/WANDERER_01_PANTS.DAT | UNIT | DESCRIPTION
+They might be a little tight.
+@@ 1652 | translate | UNITS/ITEMS/WANDERER_01_BOOTS_ALT_B.DAT | UNIT | DESCRIPTION
+All trolls will be booted.
+@@ 1653 | translate | UNITS/ITEMS/WANDERER_01_BOOTS_ALT_C.DAT | UNIT | DESCRIPTION
+Show off.
+@@ 1654 | translate | UNITS/ITEMS/WANDERER_01_CHEST_ALT_B.DAT | UNIT | DESCRIPTION
+Once owned by a man of few words. And then a few more.
+@@ 1655 | translate | UNITS/ITEMS/WANDERER_01_CHEST_ALT_C.DAT | UNIT | DESCRIPTION
+Created for the Master of the Ember Adventurer's Club.
+@@ 1656 | translate | UNITS/ITEMS/WANDERER_01_GLOVES_ALT_B.DAT | UNIT | DESCRIPTION
+No problem is so big that it cannot be broken into bits.
+@@ 1657 | translate | UNITS/ITEMS/WANDERER_01_GLOVES_ALT_C.DAT | UNIT | DESCRIPTION
+Created by the little-known Vitrimancer, and embedded with broken glass.
+@@ 1658 | translate | UNITS/ITEMS/WANDERER_01_PANTS_ALT_B.DAT | UNIT | DESCRIPTION
+They offer an unparalleled freedom of movement.
+@@ 1659 | translate | UNITS/ITEMS/WANDERER_01_PANTS_ALT_C.DAT | UNIT | DESCRIPTION
+Some games are a little more extreme than others.
+@@ 1660 | translate | UNITS/ITEMS/WANDERER_01_SHOULDERS.DAT | UNIT | DESCRIPTION
+It takes a moment to catch your breath.
+@@ 1661 | translate | UNITS/ITEMS/WANDERER_01_SHOULDERS_ALT_B.DAT | UNIT | DESCRIPTION
+They give you the full range of upper-body movement.
+@@ 1662 | translate | UNITS/ITEMS/WANDERER_01_SHOULDERS_ALT_C.DAT | UNIT | DESCRIPTION
+It's a lot of burden for any one person ... but you can make it.
+@@ 1663 | translate | UNITS/ITEMS/WANDERER_02_AMULET.DAT | UNIT | DESCRIPTION
+An artifact of a race that predated even the dwarves.
+@@ 1664 | translate | UNITS/ITEMS/WANDERER_02_AMULET_ALT_B.DAT | UNIT | DESCRIPTION
+Sometimes, you can faintly hear someone playing a recorder ...
+@@ 1665 | translate | UNITS/ITEMS/WANDERER_02_AMULET_ALT_C.DAT | UNIT | DESCRIPTION
+It reverses the polarity of the Ember flow.
+@@ 1666 | translate | UNITS/ITEMS/WANDERER_02_BELT.DAT | UNIT | DESCRIPTION
+The sash was a crucial part of the First Baker's iconic look.
+@@ 1667 | translate | UNITS/ITEMS/WANDERER_02_BELT_ALT_B.DAT | UNIT | DESCRIPTION
+You wear a belt now. Belts are cool.
+@@ 1668 | translate | UNITS/ITEMS/WANDERER_02_BELT_ALT_C.DAT | UNIT | DESCRIPTION
+The buckle bears a small, embossed image of a cat.
+@@ 1669 | translate | UNITS/ITEMS/WANDERER_02_BOOTS.DAT | UNIT | DESCRIPTION
+Sometimes, you just need to get away from it all.
+@@ 1670 | translate | UNITS/ITEMS/WANDERER_02_BOOTS_ALT_B.DAT | UNIT | DESCRIPTION
+Which way are you headed?
+@@ 1671 | translate | UNITS/ITEMS/WANDERER_02_BOOTS_ALT_C.DAT | UNIT | DESCRIPTION
+Really? That's what you're going to wear? Ugg.
+@@ 1672 | translate | UNITS/ITEMS/WANDERER_02_BOOTS_ALT_SET.DAT | UNIT | DESCRIPTION
+An adventurer's armor, chosen from a host of brilliant designs.
+@@ 1673 | translate | UNITS/ITEMS/WANDERER_02_CHEST.DAT | UNIT | DESCRIPTION
+The road ahead of you is long. Make sure you survive the journey.
+@@ 1674 | translate | UNITS/ITEMS/WANDERER_02_CHEST_ALT_B.DAT | UNIT | DESCRIPTION
+It'll keep you warm at night, when nothing else will.
+@@ 1675 | translate | UNITS/ITEMS/WANDERER_02_CHEST_ALT_C.DAT | UNIT | DESCRIPTION
+Sir Bathingstoke was a famous "Gentleman Adventurer" of the past century.
+@@ 1676 | translate | UNITS/ITEMS/WANDERER_02_CHEST_ALT_SET.DAT | UNIT | DESCRIPTION
+Wear the armor specifically designed for true adventurers.
+@@ 1677 | translate | UNITS/ITEMS/WANDERER_02_GLOVES.DAT | UNIT | DESCRIPTION
+Name any place in the world: These gloves have probably been there.
+@@ 1678 | translate | UNITS/ITEMS/WANDERER_02_GLOVES_ALT_B.DAT | UNIT | DESCRIPTION
+Inside, they are covered with tiny inscriptions of the names of all their previous owners.
+@@ 1679 | translate | UNITS/ITEMS/WANDERER_02_GLOVES_ALT_C.DAT | UNIT | DESCRIPTION
+The gloves of a proper lady ... who also carried a shotgonne.
+@@ 1680 | translate | UNITS/ITEMS/WANDERER_02_GLOVES_ALT_SET.DAT | UNIT | DESCRIPTION
+Just because you don't know where you're going, it doesn't mean you're lost.
+@@ 1681 | translate | UNITS/ITEMS/WANDERER_02_HELMET.DAT | UNIT | DESCRIPTION
+Specially designed for the world's greatest adventurer.
+@@ 1682 | translate | UNITS/ITEMS/WANDERER_02_HELMET_ALT_B.DAT | UNIT | DESCRIPTION
+The Ember Adventuress wrote a text that led to gender equality in the Empire.
+@@ 1683 | translate | UNITS/ITEMS/WANDERER_02_HELMET_ALT_C.DAT | UNIT | DESCRIPTION
+The Sojourner once carved her name in inns all across the world.
+@@ 1684 | translate | UNITS/ITEMS/WANDERER_02_PANTS.DAT | UNIT | DESCRIPTION
+Put them on one leg at a time, then put one foot in front of the other.
+@@ 1685 | translate | UNITS/ITEMS/WANDERER_02_PANTS_ALT_B.DAT | UNIT | DESCRIPTION
+The Big Yin stood well over seven feet, and had a wicked sense of humor.
+@@ 1686 | translate | UNITS/ITEMS/WANDERER_02_PANTS_ALT_C.DAT | UNIT | DESCRIPTION
+One size fits all.
+@@ 1687 | translate | UNITS/ITEMS/WANDERER_02_PANTS_ALT_SET.DAT | UNIT | DESCRIPTION
+Made with reinforced leather strips, for the serious wanderer.
+@@ 1688 | translate | UNITS/ITEMS/WANDERER_02_RING.DAT | UNIT | DESCRIPTION
+A ring on the hand is worth two on the run.
+@@ 1689 | translate | UNITS/ITEMS/WANDERER_02_RING_ALT_B.DAT | UNIT | DESCRIPTION
+Eleven owners, but only worn once.
+@@ 1690 | translate | UNITS/ITEMS/WANDERER_02_RING_ALT_C.DAT | UNIT | DESCRIPTION
+All that is known of it is that it came from the north.
+@@ 1691 | translate | UNITS/ITEMS/WANDERER_02_SHOULDERS.DAT | UNIT | DESCRIPTION
+A gift from Emperor Fabulus!
+@@ 1692 | translate | UNITS/ITEMS/WANDERER_02_SHOULDERS_ALT_B.DAT | UNIT | DESCRIPTION
+The Exiles lasted twenty years outside the Empire, before the last one died in Estheria.
+@@ 1693 | translate | UNITS/ITEMS/WANDERER_02_SHOULDERS_ALT_C.DAT | UNIT | DESCRIPTION
+Bathingstoke earned his brassarts at the Battle of Seven Trolls.
+@@ 1694 | translate | UNITS/ITEMS/WANDERER_03_AMULET.DAT | UNIT | DESCRIPTION
+It's full of wibbly-wobbly stuff.
+@@ 1695 | translate | UNITS/ITEMS/WANDERER_03_AMULET_ALT_B.DAT | UNIT | DESCRIPTION
+It sometimes turns purple, in the presence of Praxis Ember.
+@@ 1696 | translate | UNITS/ITEMS/WANDERER_03_AMULET_ALT_C.DAT | UNIT | DESCRIPTION
+The arrowhead-shaped pendant emits the odd beep or whistle.
+@@ 1697 | translate | UNITS/ITEMS/WANDERER_03_BELT.DAT | UNIT | DESCRIPTION
+Sladen was a talented smith who often worked alongside famous doctors.
+@@ 1698 | translate | UNITS/ITEMS/WANDERER_03_BELT_ALT_B.DAT | UNIT | DESCRIPTION
+It should bring you some small comfort.
+@@ 1699 | translate | UNITS/ITEMS/WANDERER_03_BELT_ALT_C.DAT | UNIT | DESCRIPTION
+Where there's a whoot, there's a way.
+@@ 1700 | translate | UNITS/ITEMS/WANDERER_03_BELT_ALT_SET.DAT | UNIT | DESCRIPTION
+The Plainslord rescued lost travelers from the Imsuri tribes.
+@@ 1701 | translate | UNITS/ITEMS/WANDERER_03_BOOTS.DAT | UNIT | DESCRIPTION
+The Hierophant always wore these sandals, even in snow.
+@@ 1702 | translate | UNITS/ITEMS/WANDERER_03_BOOTS_ALT_B.DAT | UNIT | DESCRIPTION
+All of the oldest adventurers have worn these, at one time or another.
+@@ 1703 | translate | UNITS/ITEMS/WANDERER_03_BOOTS_ALT_C.DAT | UNIT | DESCRIPTION
+To some, merely a pair of shoes ... to others, the pathway to adventure!
+@@ 1704 | translate | UNITS/ITEMS/WANDERER_03_BOOTS_SET_LEONE.DAT | UNIT | DESCRIPTION
+You walk down the street in these shoes, and people know you're not afraid of anything.
+@@ 1705 | translate | UNITS/ITEMS/WANDERER_03_CHEST.DAT | UNIT | DESCRIPTION
+The official armor of the Ember Adventurers' Club.
+@@ 1706 | translate | UNITS/ITEMS/WANDERER_03_CHEST_ALT_B.DAT | UNIT | DESCRIPTION
+This is the armor that set the standard for all other armors.
+@@ 1707 | translate | UNITS/ITEMS/WANDERER_03_CHEST_ALT_C.DAT | UNIT | DESCRIPTION
+Mad Prince Ulf inexplicably made his baldrick a Lord.
+@@ 1708 | translate | UNITS/ITEMS/WANDERER_03_CHEST_ALT_SET.DAT | UNIT | DESCRIPTION
+The High Plains Rangers tell tales of the mysterious Plainslord.
+@@ 1709 | translate | UNITS/ITEMS/WANDERER_03_GLOVES.DAT | UNIT | DESCRIPTION
+The Ember Adventurers crafted these gloves as a symbol of their camaraderie.
+@@ 1710 | translate | UNITS/ITEMS/WANDERER_03_GLOVES_ALT_B.DAT | UNIT | DESCRIPTION
+Worn by the adventuress known only as "the Shield Maiden."
+@@ 1711 | translate | UNITS/ITEMS/WANDERER_03_GLOVES_ALT_C.DAT | UNIT | DESCRIPTION
+Lord Arkham wrote at length about the lure of Ember.
+@@ 1712 | translate | UNITS/ITEMS/WANDERER_03_HELMET.DAT | UNIT | DESCRIPTION
+The Black Knight's helmet is a testament to the talent of the smith who crafted it.
+@@ 1713 | translate | UNITS/ITEMS/WANDERER_03_HELMET_ALT_B.DAT | UNIT | DESCRIPTION
+Nice and smooth.
+@@ 1714 | translate | UNITS/ITEMS/WANDERER_03_HELMET_ALT_C.DAT | UNIT | DESCRIPTION
+It makes you think ... just not necessarily faster.
+@@ 1715 | translate | UNITS/ITEMS/WANDERER_03_HELMET_ALT_SET.DAT | UNIT | DESCRIPTION
+The Plainslord is rumored to have been an exiled Imperial noble.
+@@ 1716 | translate | UNITS/ITEMS/WANDERER_03_PANTS.DAT | UNIT | DESCRIPTION
+These pants were made for those who like to travel light.
+@@ 1717 | translate | UNITS/ITEMS/WANDERER_03_PANTS_ALT_B.DAT | UNIT | DESCRIPTION
+Rumored to have been worn by Tarroch the Twice-Exiled.
+@@ 1718 | translate | UNITS/ITEMS/WANDERER_03_PANTS_ALT_C.DAT | UNIT | DESCRIPTION
+The Black Knight never backed down from a challenge.
+@@ 1719 | translate | UNITS/ITEMS/WANDERER_03_PANTS_ALT_SET.DAT | UNIT | DESCRIPTION
+The Plainslord has been sighted for the last two hundred years.
+@@ 1720 | translate | UNITS/ITEMS/WANDERER_03_PANTS_SET_LEONE.DAT | UNIT | DESCRIPTION
+Leone was always whistling the same catchy tune ...
+@@ 1721 | translate | UNITS/ITEMS/WANDERER_03_RING.DAT | UNIT | DESCRIPTION
+A blessed ring, to wear in your travels.
+@@ 1722 | translate | UNITS/ITEMS/WANDERER_03_RING_ALT_B.DAT | UNIT | DESCRIPTION
+You never know where it will take you.
+@@ 1723 | translate | UNITS/ITEMS/WANDERER_03_RING_ALT_C.DAT | UNIT | DESCRIPTION
+Inscribed inside is a message of love ... and loss.
+@@ 1724 | translate | UNITS/ITEMS/WANDERER_03_SHOULDERS.DAT | UNIT | DESCRIPTION
+They belonged to a well-respected sage and storyteller.
+@@ 1725 | translate | UNITS/ITEMS/WANDERER_03_SHOULDERS_ALT_B.DAT | UNIT | DESCRIPTION
+Lord Arkham explored unspeakable mysteries ... then vanished.
+@@ 1726 | translate | UNITS/ITEMS/WANDERER_03_SHOULDERS_ALT_C.DAT | UNIT | DESCRIPTION
+The Black Knight vanished after pursuing a foe to Vilderan.
+@@ 1727 | translate | UNITS/ITEMS/WANDERER_03_SHOULDERS_ALT_SET.DAT | UNIT | DESCRIPTION
+Many men and women have worn the mantle of the Plainslord over the years.
+@@ 1728 | translate | UNITS/ITEMS/WANDERER_04_AMULET.DAT | UNIT | DESCRIPTION
+All shall kneel before the Spicer!
+@@ 1729 | translate | UNITS/ITEMS/WANDERER_04_AMULET_ALT_B.DAT | UNIT | DESCRIPTION
+It belonged to an infamous ne'er-do-well.
+@@ 1730 | translate | UNITS/ITEMS/WANDERER_04_AMULET_ALT_C.DAT | UNIT | DESCRIPTION
+Whosoever wears it shall be the World's Greatest Sidekick.
+@@ 1731 | translate | UNITS/ITEMS/WANDERER_04_BELT.DAT | UNIT | DESCRIPTION
+You've got to pull together ... or lose everything.
+@@ 1732 | translate | UNITS/ITEMS/WANDERER_04_BELT_ALT_B.DAT | UNIT | DESCRIPTION
+Once the infamous Crusher, he eventually acquired an army of followers.
+@@ 1733 | translate | UNITS/ITEMS/WANDERER_04_BELT_ALT_C.DAT | UNIT | DESCRIPTION
+The Razorpeak Hunters brought this back from Varkolyn country.
+@@ 1734 | translate | UNITS/ITEMS/WANDERER_04_BOOTS.DAT | UNIT | DESCRIPTION
+They're quite comfortable ... for a while.
+@@ 1735 | translate | UNITS/ITEMS/WANDERER_04_BOOTS_ALT_B.DAT | UNIT | DESCRIPTION
+The journey of a thousand miles begins with putting on your shoes.
+@@ 1736 | translate | UNITS/ITEMS/WANDERER_04_BOOTS_ALT_C.DAT | UNIT | DESCRIPTION
+Captured from the Varkolyn by the Razorpeak Hunters.
+@@ 1737 | translate | UNITS/ITEMS/WANDERER_04_BOOTS_ALT_SET.DAT | UNIT | DESCRIPTION
+The Tarrochi wear these for their consort ceremony.
+@@ 1738 | translate | UNITS/ITEMS/WANDERER_04_CHEST.DAT | UNIT | DESCRIPTION
+Nothing can stand before the Savage Horde.
+@@ 1739 | translate | UNITS/ITEMS/WANDERER_04_CHEST_ALT_B.DAT | UNIT | DESCRIPTION
+Worn by the brave and daring Prince Batrachius.
+@@ 1740 | translate | UNITS/ITEMS/WANDERER_04_CHEST_ALT_C.DAT | UNIT | DESCRIPTION
+It smells of brimstone and tobacco.
+@@ 1741 | translate | UNITS/ITEMS/WANDERER_04_CHEST_ALT_SET.DAT | UNIT | DESCRIPTION
+Forged to commemorate the day the Tarrochi escaped the Cindermen.
+@@ 1742 | translate | UNITS/ITEMS/WANDERER_04_GLOVES.DAT | UNIT | DESCRIPTION
+They're a great fit! But they feel ... funny.
+@@ 1743 | translate | UNITS/ITEMS/WANDERER_04_GLOVES_ALT_B.DAT | UNIT | DESCRIPTION
+Come get some.
+@@ 1744 | translate | UNITS/ITEMS/WANDERER_04_GLOVES_ALT_C.DAT | UNIT | DESCRIPTION
+Never ever feed the trolls.
+@@ 1745 | translate | UNITS/ITEMS/WANDERER_04_GLOVES_ALT_SET.DAT | UNIT | DESCRIPTION
+The left symbolizes freedom; the right symbolizes determination.
+@@ 1746 | translate | UNITS/ITEMS/WANDERER_04_HELMET.DAT | UNIT | DESCRIPTION
+If it could only talk, what a tale it would tell.
+@@ 1747 | translate | UNITS/ITEMS/WANDERER_04_HELMET_ALT_B.DAT | UNIT | DESCRIPTION
+It's what's in it that counts.
+@@ 1748 | translate | UNITS/ITEMS/WANDERER_04_HELMET_ALT_C.DAT | UNIT | DESCRIPTION
+Get your head in the game.
+@@ 1749 | translate | UNITS/ITEMS/WANDERER_04_HELMET_ALT_SET.DAT | UNIT | DESCRIPTION
+The Tarrochi Queen personally placed this helm on the heads of her consorts.
+@@ 1750 | translate | UNITS/ITEMS/WANDERER_04_PANTS.DAT | UNIT | DESCRIPTION
+They're not much to look at, but they've got you covered.
+@@ 1751 | translate | UNITS/ITEMS/WANDERER_04_PANTS_ALT_B.DAT | UNIT | DESCRIPTION
+Oh, what's the point ...?
+@@ 1752 | translate | UNITS/ITEMS/WANDERER_04_PANTS_ALT_C.DAT | UNIT | DESCRIPTION
+A gift, from the god of ass-kicking.
+@@ 1753 | translate | UNITS/ITEMS/WANDERER_04_RING.DAT | UNIT | DESCRIPTION
+The signet of a world-famous cartographer.
+@@ 1754 | translate | UNITS/ITEMS/WANDERER_04_RING_ALT_B.DAT | UNIT | DESCRIPTION
+Worn by a sorcerer who directed armies of the dead.
+@@ 1755 | translate | UNITS/ITEMS/WANDERER_04_RING_ALT_C.DAT | UNIT | DESCRIPTION
+The Wordbinder could silence her foes with a stroke of her pen.
+@@ 1756 | translate | UNITS/ITEMS/WANDERER_04_RING_ALT_SET.DAT | UNIT | DESCRIPTION
+At one time, every Warrior-Consort had his own ring. Only one remains.
+@@ 1757 | translate | UNITS/ITEMS/WANDERER_04_SHOULDERS.DAT | UNIT | DESCRIPTION
+The indignities heaped upon these shoulders would crush a lesser person.
+@@ 1758 | translate | UNITS/ITEMS/WANDERER_04_SHOULDERS_ALT_B.DAT | UNIT | DESCRIPTION
+Sir Iago of the Spear wore these while jousting.
+@@ 1759 | translate | UNITS/ITEMS/WANDERER_04_SHOULDERS_ALT_C.DAT | UNIT | DESCRIPTION
+Looks like you're carrying a lot of tension in your shoulders.
+@@ 1760 | translate | UNITS/ITEMS/WANDERER_05_AMULET.DAT | UNIT | DESCRIPTION
+The Walrus King was known for being stern, but open-minded.
+@@ 1761 | translate | UNITS/ITEMS/WANDERER_05_AMULET_ALT_B.DAT | UNIT | DESCRIPTION
+Only a true savage would wear something like this in public.
+@@ 1762 | translate | UNITS/ITEMS/WANDERER_05_AMULET_ALT_C.DAT | UNIT | DESCRIPTION
+Despite never uttering a word, he was the Emperor's court magician for decades.
+@@ 1763 | translate | UNITS/ITEMS/WANDERER_05_AMULET_ALT_SET.DAT | UNIT | DESCRIPTION
+Sometimes, those who wander really are just lost.
+@@ 1764 | translate | UNITS/ITEMS/WANDERER_05_BELT.DAT | UNIT | DESCRIPTION
+He was sixty years about the world, before he took up the contemplative life.
+@@ 1765 | translate | UNITS/ITEMS/WANDERER_05_BELT_ALT_B.DAT | UNIT | DESCRIPTION
+Many prominent physicians hated his attitude, but they could not deny his genius.
+@@ 1766 | translate | UNITS/ITEMS/WANDERER_05_BELT_ALT_C.DAT | UNIT | DESCRIPTION
+It belonged to a famous scribe who solved mysteries in his free time.
+@@ 1767 | translate | UNITS/ITEMS/WANDERER_05_BOOTS.DAT | UNIT | DESCRIPTION
+Tarroch left home the first time with just a pair of sturdy boots.
+@@ 1768 | translate | UNITS/ITEMS/WANDERER_05_BOOTS_ALT_B.DAT | UNIT | DESCRIPTION
+Tarroch swore by these, which he claimed a dwarf had made for him.
+@@ 1769 | translate | UNITS/ITEMS/WANDERER_05_BOOTS_ALT_C.DAT | UNIT | DESCRIPTION
+As Tarroch grew older, he favored heavier boots.
+@@ 1770 | translate | UNITS/ITEMS/WANDERER_05_BOOTS_ALT_SET.DAT | UNIT | DESCRIPTION
+It's almost like they have a mind of their own.
+@@ 1771 | translate | UNITS/ITEMS/WANDERER_05_CHEST.DAT | UNIT | DESCRIPTION
+Before his first exile, Tarroch explored the land of the Ash Trolls.
+@@ 1772 | translate | UNITS/ITEMS/WANDERER_05_CHEST_ALT_B.DAT | UNIT | DESCRIPTION
+Tarroch's original exile took him to Vilderan, where he claimed to have met the last surviving dwarf.
+@@ 1773 | translate | UNITS/ITEMS/WANDERER_05_CHEST_ALT_C.DAT | UNIT | DESCRIPTION
+After Tarroch's final exile, he determined that he would create an empire of his own.
+@@ 1774 | translate | UNITS/ITEMS/WANDERER_05_CHEST_ALT_SET.DAT | UNIT | DESCRIPTION
+Made of boiled leather, from the hide of a minotaur.
+@@ 1775 | translate | UNITS/ITEMS/WANDERER_05_GLOVES.DAT | UNIT | DESCRIPTION
+Tarroch wore these every day for over twenty years.
+@@ 1776 | translate | UNITS/ITEMS/WANDERER_05_GLOVES_ALT_B.DAT | UNIT | DESCRIPTION
+Tarroch marked his first year of exile with this new pair of gloves.
+@@ 1777 | translate | UNITS/ITEMS/WANDERER_05_GLOVES_ALT_C.DAT | UNIT | DESCRIPTION
+These were given to Tarroch on the eve of the Battle of the Four Kings.
+@@ 1778 | translate | UNITS/ITEMS/WANDERER_05_GLOVES_ALT_SET.DAT | UNIT | DESCRIPTION
+They point the way out.
+@@ 1779 | translate | UNITS/ITEMS/WANDERER_05_HELMET.DAT | UNIT | DESCRIPTION
+Tarroch found his original helm abandoned on a battlefield.
+@@ 1780 | translate | UNITS/ITEMS/WANDERER_05_HELMET_ALT_B.DAT | UNIT | DESCRIPTION
+Tarroch received this in trade from the Ash Trolls.
+@@ 1781 | translate | UNITS/ITEMS/WANDERER_05_HELMET_ALT_C.DAT | UNIT | DESCRIPTION
+Tarroch crafted this helm himself, but never wore it.
+@@ 1782 | translate | UNITS/ITEMS/WANDERER_05_HELMET_ALT_SET.DAT | UNIT | DESCRIPTION
+When all seems lost, it's important to keep your head.
+@@ 1783 | translate | UNITS/ITEMS/WANDERER_05_PANTS.DAT | UNIT | DESCRIPTION
+Tarroch had a hearty wanderlust from an early age.
+@@ 1784 | translate | UNITS/ITEMS/WANDERER_05_PANTS_ALT_B.DAT | UNIT | DESCRIPTION
+Tarroch set odd goals for himself, such as traveling the entire coastline of Vilderan.
+@@ 1785 | translate | UNITS/ITEMS/WANDERER_05_PANTS_ALT_C.DAT | UNIT | DESCRIPTION
+Before Tarroch's last battle, he handed these to his oldest son.
+@@ 1786 | translate | UNITS/ITEMS/WANDERER_05_PANTS_ALT_SET.DAT | UNIT | DESCRIPTION
+The Labarinto lies at the heart of Riddledeep.
+@@ 1787 | translate | UNITS/ITEMS/WANDERER_05_RING.DAT | UNIT | DESCRIPTION
+An artist who made the human body his canvas.
+@@ 1788 | translate | UNITS/ITEMS/WANDERER_05_RING_ALT_B.DAT | UNIT | DESCRIPTION
+The Players came together to share a meal and tell stories.
+@@ 1789 | translate | UNITS/ITEMS/WANDERER_05_RING_ALT_C.DAT | UNIT | DESCRIPTION
+It grants you a moment of privacy, once per night.
+@@ 1790 | translate | UNITS/ITEMS/WANDERER_05_SHOULDERS.DAT | UNIT | DESCRIPTION
+Acquired by Tarroch on his travels in the Brackenwild. 
+@@ 1791 | translate | UNITS/ITEMS/WANDERER_05_SHOULDERS_ALT_B.DAT | UNIT | DESCRIPTION
+Tarroch is depicted wearing these in his portrait from the Battle of the Four Kings.
+@@ 1792 | translate | UNITS/ITEMS/WANDERER_05_SHOULDERS_ALT_C.DAT | UNIT | DESCRIPTION
+Tarroch's descendants founded the Outlanders' "City of Thieves."
+@@ 1793 | translate | UNITS/ITEMS/WANDERER_05_SHOULDERS_ALT_SET.DAT | UNIT | DESCRIPTION
+The Labarinto has claimed thousands of lives over the years.
+@@ 1794 | translate | UNITS/ITEMS/WANDERER_06_AMULET.DAT | UNIT | DESCRIPTION
+Though powerful, its original owner was little more than a magical thug.
+@@ 1795 | translate | UNITS/ITEMS/WANDERER_06_AMULET_ALT_B.DAT | UNIT | DESCRIPTION
+The Order of the Pike and Pine guard the northern forests.
+@@ 1796 | translate | UNITS/ITEMS/WANDERER_06_AMULET_ALT_C.DAT | UNIT | DESCRIPTION
+The Order of the Pike and Pine gave this to their guildmaster as her badge of office.
+@@ 1797 | translate | UNITS/ITEMS/WANDERER_06_AMULET_ALT_SET.DAT | UNIT | DESCRIPTION
+There is something otherwordly about this necklace.
+@@ 1798 | translate | UNITS/ITEMS/WANDERER_06_BELT.DAT | UNIT | DESCRIPTION
+It came from a battlefield in the ruins of Grunnheim.
+@@ 1799 | translate | UNITS/ITEMS/WANDERER_06_BELT_ALT_B.DAT | UNIT | DESCRIPTION
+Originally found draped over a memorial statue in Estheria.
+@@ 1800 | translate | UNITS/ITEMS/WANDERER_06_BELT_ALT_C.DAT | UNIT | DESCRIPTION
+Interesting story about that ...
+@@ 1801 | translate | UNITS/ITEMS/WANDERER_06_BELT_ALT_SET.DAT | UNIT | DESCRIPTION
+The markings are in no language you have ever seen.
+@@ 1802 | translate | UNITS/ITEMS/WANDERER_06_BOOTS.DAT | UNIT | DESCRIPTION
+An arrow to the knee can end your career.
+@@ 1803 | translate | UNITS/ITEMS/WANDERER_06_BOOTS_ALT_B.DAT | UNIT | DESCRIPTION
+Watch your toes.
+@@ 1804 | translate | UNITS/ITEMS/WANDERER_06_BOOTS_ALT_C.DAT | UNIT | DESCRIPTION
+They put the "Doom" in "Sexy."
+@@ 1805 | translate | UNITS/ITEMS/WANDERER_06_BOOTS_ALT_SET.DAT | UNIT | DESCRIPTION
+Wearing them, you feel as though you could fly.
+@@ 1806 | translate | UNITS/ITEMS/WANDERER_06_CHEST.DAT | UNIT | DESCRIPTION
+The ancestral armor of House Praetorium.
+@@ 1807 | translate | UNITS/ITEMS/WANDERER_06_CHEST_ALT_B.DAT | UNIT | DESCRIPTION
+The ancestral armor of House Athenium.
+@@ 1808 | translate | UNITS/ITEMS/WANDERER_06_CHEST_ALT_C.DAT | UNIT | DESCRIPTION
+The ancestral armor of House Honorium.
+@@ 1809 | translate | UNITS/ITEMS/WANDERER_06_CHEST_ALT_SET.DAT | UNIT | DESCRIPTION
+The pieces of this armor were found in a remote temple in the Jade Jungle.
+@@ 1810 | translate | UNITS/ITEMS/WANDERER_06_CHEST_SET_SOLIMA.DAT | UNIT | DESCRIPTION
+It has a concealed holster under the left arm.
+@@ 1811 | translate | UNITS/ITEMS/WANDERER_06_GLOVES.DAT | UNIT | DESCRIPTION
+Turn your hands into hammers!
+@@ 1812 | translate | UNITS/ITEMS/WANDERER_06_GLOVES_ALT_B.DAT | UNIT | DESCRIPTION
+Sting like a beating!
+@@ 1813 | translate | UNITS/ITEMS/WANDERER_06_GLOVES_ALT_C.DAT | UNIT | DESCRIPTION
+Don't be so traumatic.
+@@ 1814 | translate | UNITS/ITEMS/WANDERER_06_GLOVES_ALT_SET.DAT | UNIT | DESCRIPTION
+It looks as though these gloves originally had more fingers ...
+@@ 1815 | translate | UNITS/ITEMS/WANDERER_06_HELMET.DAT | UNIT | DESCRIPTION
+It'll help you keep your head together, when nothing else will.
+@@ 1816 | translate | UNITS/ITEMS/WANDERER_06_HELMET_ALT_B.DAT | UNIT | DESCRIPTION
+"A soldier's helm is his crown, and he must fight to keep it."
+@@ 1817 | translate | UNITS/ITEMS/WANDERER_06_HELMET_ALT_C.DAT | UNIT | DESCRIPTION
+"There's no one who doesn't appreciate kindness and compassion ... but, just in case, wear this."
+@@ 1818 | translate | UNITS/ITEMS/WANDERER_06_HELMET_ALT_SET.DAT | UNIT | DESCRIPTION
+It seems as though it was designed for something nonhuman.
+@@ 1819 | translate | UNITS/ITEMS/WANDERER_06_HELMET_SET_CORBUCCI.DAT | UNIT | DESCRIPTION
+Corbucci brought the Great Silence upon the world.
+@@ 1820 | translate | UNITS/ITEMS/WANDERER_06_PANTS.DAT | UNIT | DESCRIPTION
+Put on your fightin' pants!
+@@ 1821 | translate | UNITS/ITEMS/WANDERER_06_PANTS_ALT_B.DAT | UNIT | DESCRIPTION
+Get your rear in this gear!
+@@ 1822 | translate | UNITS/ITEMS/WANDERER_06_PANTS_ALT_C.DAT | UNIT | DESCRIPTION
+The War of the Flames ultimately had no winner.
+@@ 1823 | translate | UNITS/ITEMS/WANDERER_06_PANTS_ALT_SET.DAT | UNIT | DESCRIPTION
+They seem as though they were retailored to fit the human form.
+@@ 1824 | translate | UNITS/ITEMS/WANDERER_06_RING.DAT | UNIT | DESCRIPTION
+A royal signet, from the ruins of Grunnheim.
+@@ 1825 | translate | UNITS/ITEMS/WANDERER_06_RING_ALT_B.DAT | UNIT | DESCRIPTION
+Handed down through a long line of heroic adventurers.
+@@ 1826 | translate | UNITS/ITEMS/WANDERER_06_RING_ALT_C.DAT | UNIT | DESCRIPTION
+Can you believe it?
+@@ 1827 | translate | UNITS/ITEMS/WANDERER_06_RING_ALT_SET.DAT | UNIT | DESCRIPTION
+The gemstone may be the only one of its kind ... in this world.
+@@ 1828 | translate | UNITS/ITEMS/WANDERER_06_RING_SET_CORBUCCI.DAT | UNIT | DESCRIPTION
+"The real treasure is always having a friend." - Corbucci
+@@ 1829 | translate | UNITS/ITEMS/WANDERER_06_SHOULDERS.DAT | UNIT | DESCRIPTION
+Get back in there!
+@@ 1830 | translate | UNITS/ITEMS/WANDERER_06_SHOULDERS_ALT_B.DAT | UNIT | DESCRIPTION
+Stand strong!
+@@ 1831 | translate | UNITS/ITEMS/WANDERER_06_SHOULDERS_ALT_C.DAT | UNIT | DESCRIPTION
+"A mercenary can always find a war to fight, if he's not afraid to look."
+@@ 1832 | translate | UNITS/ITEMS/WANDERER_06_SHOULDERS_ALT_SET.DAT | UNIT | DESCRIPTION
+You have never seen the type of metal used to make these.
+@@ 1833 | translate | UNITS/ITEMS/WANDS/LEGENDARY_WAND01.DAT | UNIT | DESCRIPTION
+Legendary Wand Collection\nNumber One of Five
+@@ 1834 | translate | UNITS/ITEMS/WANDS/LEGENDARY_WAND02.DAT | UNIT | DESCRIPTION
+Legendary Wand Collection\nNumber Two of Five
+@@ 1835 | translate | UNITS/ITEMS/WANDS/LEGENDARY_WAND03.DAT | UNIT | DESCRIPTION
+Legendary Wand Collection\nNumber Three of Five
+@@ 1836 | translate | UNITS/ITEMS/WANDS/LEGENDARY_WAND04.DAT | UNIT | DESCRIPTION
+Legendary Wand Collection\nNumber Four of Five
+@@ 1837 | translate | UNITS/ITEMS/WANDS/LEGENDARY_WAND05.DAT | UNIT | DESCRIPTION
+Legendary Wand Collection\nNumber Five of Five
+@@ 1838 | translate | UNITS/ITEMS/WANDS/WAND_U01.DAT | UNIT | DESCRIPTION
+We need more power!
+@@ 1839 | translate | UNITS/ITEMS/WANDS/WAND_U01B.DAT | UNIT | DESCRIPTION
+It embodies the power of the natural world.
+@@ 1840 | translate | UNITS/ITEMS/WANDS/WAND_U01C.DAT | UNIT | DESCRIPTION
+The spirit of the frozen north, bent to the will of its wielder.
+@@ 1841 | translate | UNITS/ITEMS/WANDS/WAND_U02.DAT | UNIT | DESCRIPTION
+Crafted from the remains of the Razorpeaks Goat.
+@@ 1842 | translate | UNITS/ITEMS/WANDS/WAND_U02B.DAT | UNIT | DESCRIPTION
+The Ezrohir rampaged across the steppes, until they encountered the Dark Zealots.
+@@ 1843 | translate | UNITS/ITEMS/WANDS/WAND_U02C.DAT | UNIT | DESCRIPTION
+This'll kill ya. Eventually.
+@@ 1844 | translate | UNITS/ITEMS/WANDS/WAND_U02X.DAT | UNIT | DESCRIPTION
+A hive of vicious wasps!
+@@ 1845 | translate | UNITS/ITEMS/WANDS/WAND_U03.DAT | UNIT | DESCRIPTION
+The wand that keeps on giving.
+@@ 1846 | translate | UNITS/ITEMS/WANDS/WAND_U03B.DAT | UNIT | DESCRIPTION
+It resonates at a specific constant moment in time.
+@@ 1847 | translate | UNITS/ITEMS/WANDS/WAND_U03C.DAT | UNIT | DESCRIPTION
+Onward, to victory!
+@@ 1848 | translate | UNITS/ITEMS/WANDS/WAND_U03_SET_SHOCKSHARDS.DAT | UNIT | DESCRIPTION
+Reach out and touch someone.
+@@ 1849 | translate | UNITS/ITEMS/WANDS/WAND_U04.DAT | UNIT | DESCRIPTION
+After the Eight-Legged Lord died, this weapon forced the Winter Widow to flee.
+@@ 1850 | translate | UNITS/ITEMS/WANDS/WAND_U04B.DAT | UNIT | DESCRIPTION
+The Valgang used it to battle evil spirits.
+@@ 1851 | translate | UNITS/ITEMS/WANDS/WAND_U04C.DAT | UNIT | DESCRIPTION
+All will bow before it!
+@@ 1852 | translate | UNITS/ITEMS/WANDS/WAND_U04X.DAT | UNIT | DESCRIPTION
+Unleash the Scarabs!
+@@ 1853 | translate | UNITS/ITEMS/WANDS/WAND_U05.DAT | UNIT | DESCRIPTION
+Look where its pointing.
+@@ 1854 | translate | UNITS/ITEMS/WANDS/WAND_U05B.DAT | UNIT | DESCRIPTION
+Those who seek the secret of becoming a lich would stop at nothing to obtain it.
+@@ 1855 | translate | UNITS/ITEMS/WANDS/WAND_U05C.DAT | UNIT | DESCRIPTION
+It serves you ... but you can also feel its hatred for you.
+@@ 1856 | translate | UNITS/ITEMS/WANDS/WAND_U05X.DAT | UNIT | DESCRIPTION
+Virtually uncontrollable...
+@@ 1857 | translate | UNITS/ITEMS/WANDS/WAND_U06.DAT | UNIT | DESCRIPTION
+It feeds upon the spirits of the dead.
+@@ 1858 | translate | UNITS/ITEMS/WANDS/WAND_U06B.DAT | UNIT | DESCRIPTION
+"As the Wyrd vanished, so went the gods, leaving only Ember."
+@@ 1859 | translate | UNITS/ITEMS/WANDS/WAND_U06C.DAT | UNIT | DESCRIPTION
+Crafted of hazel from the First Forest.
+@@ 1860 | translate | UNITS/ITEMS/WANDS/WAND_U06X.DAT | UNIT | DESCRIPTION
+Respect is earned.
+@@ 1861 | translate | UNITS/ITEMS/WANDS/WAND_U07.DAT | UNIT | DESCRIPTION
+It is the key to the map of the heavens.
+@@ 1862 | translate | UNITS/ITEMS/WANDS/WAND_U07B.DAT | UNIT | DESCRIPTION
+For the undead cannot abide its glow.
+@@ 1863 | translate | UNITS/ITEMS/WANDS/WAND_U07C.DAT | UNIT | DESCRIPTION
+Never give up. Never surrender.
+@@ 1864 | translate | UNITS/ITEMS/WANDS/WAND_U07X.DAT | UNIT | DESCRIPTION
+The power source to Fraxl's Astrolabe ... though a piece seems to be missing.
+@@ 1865 | translate | UNITS/ITEMS/WANDS/WAND_U07_SET_WINTERSREACH.DAT | UNIT | DESCRIPTION
+All our best.
+@@ 1866 | translate | UNITS/ITEMS/WANDS/WAND_UM05X.DAT | UNIT | DESCRIPTION
+Massive explosions!
+@@ 1867 | translate | UNITS/ITEMS/WITCH_BOOTS.DAT | UNIT | DESCRIPTION
+A pair of shoes that appears to have been chewed by rats
+@@ 1868 | translate | UNITS/ITEMS/WITCH_BOOTS2.DAT | UNIT | DESCRIPTION
+One of them appears to be missing a sole.
+@@ 1869 | translate | UNITS/ITEMS/ZZZ_BOLETUS_AMULET.DAT | UNIT | DESCRIPTION
+You can wear this around your neck, if you don't mind the slime.
+@@ 1870 | translate | UNITS/ITEMS/ZZZ_BONE_01_RING_NARGOTHREL .DAT | UNIT | DESCRIPTION
+Nargothrel studied the art of false life, and created the first homonculus.
+@@ 1871 | translate | UNITS/ITEMS/ZZZ_FINAL_BERSKERKER.DAT | UNIT | DESCRIPTION
+It's almost as though the Alchemist wanted to reward you for defeating him ...
+@@ 1872 | translate | UNITS/ITEMS/ZZZ_IMMOBRESIST.DAT | UNIT | DESCRIPTION
+The cost of freedom is always high.
+@@ 1873 | translate | UNITS/ITEMS/ZZZ_JERICHS_RING.DAT | UNIT | DESCRIPTION
+Jerich wanted you to have this, when you were old enough.
+@@ 1874 | translate | UNITS/ITEMS/ZZZ_REGENRING.DAT | UNIT | DESCRIPTION
+To sleep, perchance to dream...
+@@ 1875 | translate | UNITS/ITEMS/ZZZ_SKULLRING.DAT | UNIT | DESCRIPTION
+From whenceforth came the skull?
+@@ 1876 | translate | UNITS/ITEMS/ZZZ_SPORETHING.DAT | UNIT | DESCRIPTION
+Gross!
+@@ 1877 | translate | UNITS/ITEMS/Z_AMULET_AXLER.DAT | UNIT | DESCRIPTION
+For assistance above and beyond!
+@@ 1878 | translate | UNITS/ITEMS/Z_BERSERKER_05_HELMET_SET.DAT | UNIT | DESCRIPTION
+Be headstrong.
+@@ 1879 | translate | UNITS/ITEMS/Z_ENGINEER_04_GLOVES_SET.DAT | UNIT | DESCRIPTION
+The workmanship is rough ... but effective.
+@@ 1880 | translate | UNITS/ITEMS/Z_ENGINEER_05_AMULET_SET.DAT | UNIT | DESCRIPTION
+It's really the lynchpin of the whole ensemble.
+@@ 1881 | translate | UNITS/ITEMS/Z_ENGINEER_05_RING_SET.DAT | UNIT | DESCRIPTION
+A true engineer can make even the most utilitarian item a work of art.
+@@ 1882 | translate | UNITS/ITEMS/Z_GLOVES_ASPHYX.DAT | UNIT | DESCRIPTION
+Ever wonder what happend to the previous owner?
+@@ 1883 | translate | UNITS/ITEMS/Z_HELMET_ASPHYX.DAT | UNIT | DESCRIPTION
+It started out as a hangman's hood; it still smells of death.

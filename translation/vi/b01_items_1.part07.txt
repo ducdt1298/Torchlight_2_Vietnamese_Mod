@@ -1,0 +1,154 @@
+@@ 601
+Một chân đặt trên mặt đất, một chân vững vàng nơi thiên giới.
+@@ 602
+Được chế tác khéo léo để vừa vặn với mọi thân hình.
+@@ 603
+Bên trong chứa một loạt bánh răng, vận hành nhờ những cử động nhỏ và thân nhiệt.
+@@ 604
+Tick-Tock Knight là cận vệ người máy của Hoàng đế.
+@@ 605
+Bộ giáp rèn từ sắt thiên giới, để gạt đi những vết thương chí mạng.
+@@ 606
+Chúng luôn vừa vặn hoàn hảo, như thể được đặt làm riêng cho người đeo.
+@@ 607
+Tick-Tock Duke đảm bảo triều đình Tick-Tock vận hành trơn tru.
+@@ 608
+Mỗi cử động của đôi tay bạn lại đẩy bánh răng của chúng thêm một nấc.
+@@ 609
+Người ta gần như có thể cảm nhận bàn tay của thần linh trong chúng.
+@@ 610
+Tick-Tock Duke đã tiến hành điều chỉnh triều đình Tick-Tock.
+@@ 611
+Thiết kế khéo léo đảm bảo một cỡ vừa cho tất cả, lúc nào cũng vậy.
+@@ 612
+Có người nói tiếng tích tắc không ngớt có thể khiến bạn phát điên.
+@@ 613
+Phúc lành của thần linh ngự trên đầu bạn.
+@@ 614
+Chúng được tạo ra để luôn vừa vặn hoàn hảo.
+@@ 615
+Mỗi bước bạn đi, chúng lại lên cót căng hơn.
+@@ 616
+Tick-Tock Guard bảo vệ Tick-Tock King khỏi mọi hiểm nguy.
+@@ 617
+Sự hiện diện của thiên giới có thể khiến bạn quỳ gối.
+@@ 618
+Bạn có thể cảm nhận nó lỏng ra rồi siết lại trên ngón tay mình.
+@@ 619
+Nhịp co thắt của nó gần giống như nhịp mạch đập.
+@@ 620
+Nó liên tục phát ra tiếng vù vù và lách cách khe khẽ.
+@@ 621
+Đeo nó là cảm nhận được sự chạm tay của thiên giới.
+@@ 622
+Nó chật hơn so với lúc đầu tưởng.
+@@ 623
+Đôi khi có cảm giác như nó không muốn bị tháo ra.
+@@ 624
+Nếu nhìn kỹ, bạn sẽ thấy nó giữ thời gian chính xác tuyệt đối.
+@@ 625
+Nó lung linh, lấp lánh và dường như đang nuốt chửng mọi thứ.
+@@ 626
+Nhẫn của thợ máy cho bàn tay thợ máy.
+@@ 627
+Chuyển động của nó trên ngón tay bạn dõi theo các vì sao trên trời.
+@@ 628
+Những viên đá quý nhỏ xíu của nó phản chiếu các chòm sao.
+@@ 629
+Nếu dùng đúng cách, nó đo được đường chân trời, xích đạo và hoàng đạo.
+@@ 630
+Nếu xoay ngược chiều kim đồng hồ, nó sẽ cho bạn biết chính xác mình đang ở đâu.
+@@ 631
+Chúng không thể nào vừa với tất cả mọi người, vậy mà lại vừa.
+@@ 632
+Chỉ có Tick-Tock Queen mới có thể tắt hết chúng.
+@@ 633
+Giống một cách kỳ lạ với giáp vai của Tick-Tock Queen ...
+@@ 634
+Khoác chúng lên, người ta cảm nhận được sức mạnh của thiên đường.
+@@ 635
+Lên dây thật căng rồi bắn nào!
+@@ 636
+Giải phóng cả bầy!
+@@ 637
+Vị Hoàng đế thứ bảy đã dùng nó để gửi tới lũ goblin một thông điệp: "Chết đi."
+@@ 638
+Nó không cần bắn mũi tên xuyên qua kẻ địch ... chỉ cần găm vào chúng là đủ.
+@@ 639
+Bắn xuyên tim ... và bạn là kẻ có tội. Làm tốt lắm!
+@@ 640
+Nhiều hơn mức bạn cần ... nhưng ít hơn mức bạn muốn.
+@@ 641
+Mũi chích tới đây!
+@@ 642
+Hãy để bữa tiệc bắt đầu!
+@@ 643
+Được đặt theo tên con quái thú đáng sợ nhất của Ossean Wastes.
+@@ 644
+Gieo nỗi sợ hãi thẳng vào tim kẻ thù!
+@@ 645
+Giao hàng nhanh như chớp.
+@@ 646
+Lý tưởng để phòng vệ tại gia.
+@@ 647
+Nếu yêu thứ gì, hãy để nó ra đi. Nếu nó giết được thứ gì đó, thì đó là định mệnh.
+@@ 648
+Nó chỉ đang ngứa ngáy muốn gây sự.
+@@ 649
+Có người sợ nhện.\nNhưng mọi con nhện đều sợ thứ này.
+@@ 650
+Nếu không bắn trúng mục tiêu, thì ít ra cũng bắn trúng mọi thứ xung quanh nó.
+@@ 651
+"Ta thấy kẻ thù của ta trong tình trạng nào ư? Đã chết hoặc đang hấp hối." - Marshall Vurnix
+@@ 652
+Truyền thuyết kể rằng nó được thiết kế để tha cho con người, nhưng giết con quái vật bên trong.
+@@ 653
+Nó như một con chim ưng săn mồi lên đạn bằng khóa nòng.
+@@ 654
+Varkolyn run rẩy khi nghe tiếng kêu của chim ưng ... tất cả là vì cây nỏ này.
+@@ 655
+Có lẽ là cây nỏ tự lên dây duy nhất trên thế giới.
+@@ 656
+Bộ sưu tập Legendary Crossbow\nMón thứ nhất trong hai
+@@ 657
+Bộ sưu tập Legendary Crossbow\nMón thứ hai trong hai
+@@ 658
+Cho phép bạn đi câu cá bằng thuốc nổ! Tổng số cá thu được ở mỗi điểm câu cá sẽ ít hơn so với cách câu truyền thống.\n\n(Dynamite không có tác dụng ở các điểm câu cá trong thị trấn.)
+@@ 659
+Ember đang để mắt tới bạn.
+@@ 660
+Ngay cả mảnh Ember nhỏ nhất cũng có thể chứa sức mạnh to lớn.
+@@ 661
+Đôi khi, một mảnh Ember cứ thế lọt vào mắt xanh của bạn.
+@@ 662
+Các di vật Emberheart được cho là đã hai nghìn năm tuổi.
+@@ 663
+Được đặt tên theo những chiếc đinh tán Ember nhỏ xíu đóng vào lớp da.
+@@ 664
+Các cổ vật Brightember có từ thời Dwarven Empire.
+@@ 665
+Theo truyền thuyết, các di vật Emberheart là món quà một vị vua tặng cho người thừa kế của mình.
+@@ 666
+Hãy kiên quyết dậm chân xuống.
+@@ 667
+Đôi ủng rung lên với sức mạnh Ember.
+@@ 668
+Có người tin rằng đây là bộ giáp tẩm Ember đầu tiên từng được tạo ra.
+@@ 669
+Nặng trĩu sức mạnh.
+@@ 670
+Được rèn từ Ember cho vị Battle-King người lùn đầu tiên.
+@@ 671
+Các di vật Emberheart được khắc họa trên những bức bích họa nghìn năm tuổi.
+@@ 672
+Nắm trọn sức mạnh trong tay.
+@@ 673
+Được thấm đẫm sức mạnh lâu đời nhất thế giới.
+@@ 674
+Chiếc mũ giáp được khắc ký hiệu rune của một gia tộc quý tộc người lùn đã tuyệt diệt từ lâu.
+@@ 675
+Quyền năng của nó xộc thẳng lên đầu bạn.
+@@ 676
+Nó lấp đầy tâm trí bạn bằng những ý nghĩ về sức mạnh vô hạn …
+@@ 677
+Các di vật Emberheart đã biến mất khỏi một viện bảo tàng hơn một trăm năm trước.

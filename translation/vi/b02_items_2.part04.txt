@@ -1,0 +1,240 @@
+@@ 1038
+Cho phép tiến vào Desecrated Graves qua Mapworks
+@@ 1039
+Cho phép tiến vào Desecrated Cemetery qua Mapworks
+@@ 1040
+Cho phép tiến vào Ghastly Vault qua Mapworks
+@@ 1041
+Cho phép tiến vào Bloody Boneyard qua Mapworks
+@@ 1042
+Cho phép tiến vào Ghastly Crypt qua Mapworks
+@@ 1043
+Cho phép tiến vào Ghastly Mortuary qua Mapworks
+@@ 1044
+Cho phép tiến vào Bloody Vault qua Mapworks
+@@ 1045
+Cho phép tiến vào Bloody Crypt qua Mapworks
+@@ 1046
+Cho phép tiến vào Bloody Mortuary qua Mapworks
+@@ 1047
+Cho phép tiến vào Shadowy Grotto qua Mapworks
+@@ 1048
+Cho phép tiến vào Abyssal Fissure qua Mapworks
+@@ 1049
+Cho phép tiến vào Shadowy Caves qua Mapworks
+@@ 1050
+Cho phép tiến vào Abyssal Grotto qua Mapworks
+@@ 1051
+Cho phép tiến vào Abyssal Pit qua Mapworks
+@@ 1052
+Cho phép tiến vào Abyssal Caves qua Mapworks
+@@ 1053
+Cho phép tiến vào Wyvern Keep qua Mapworks
+@@ 1054
+Cho phép tiến vào Dragon Bastion qua Mapworks
+@@ 1055
+Cho phép tiến vào Wyvern Stronghold qua Mapworks
+@@ 1056
+Cho phép tiến vào Wyvern Citadel qua Mapworks
+@@ 1057
+Cho phép tiến vào Dragon Keep qua Mapworks
+@@ 1058
+Cho phép tiến vào Dragon Stronghold qua Mapworks
+@@ 1059
+Cho phép tiến vào Dragon Citadel qua Mapworks
+@@ 1060
+Cho phép tiến vào Forgotten Labs qua Mapworks
+@@ 1061
+Cho phép tiến vào Deserted Foundry qua Mapworks
+@@ 1062
+Cho phép tiến vào Forgotten Workshop qua Mapworks
+@@ 1063
+Cho phép tiến vào Forgotten Factory qua Mapworks
+@@ 1064
+Cho phép tiến vào Deserted Labs qua Mapworks
+@@ 1065
+Cho phép tiến vào Deserted Workshop qua Mapworks
+@@ 1066
+Cho phép tiến vào Deserted Factory qua Mapworks
+@@ 1067
+Cho phép tiến vào Estherian Depths qua Mapworks
+@@ 1068
+Cho phép tiến vào Ruined Shrine qua Mapworks
+@@ 1069
+Cho phép tiến vào Desolate Chantry qua Mapworks
+@@ 1070
+Cho phép tiến vào Ruined Sanctuary qua Mapworks
+@@ 1071
+Cho phép tiến vào Ruined Temple qua Mapworks
+@@ 1072
+Cho phép tiến vào Desolate Shrine qua Mapworks
+@@ 1073
+Cho phép tiến vào Desolate Sanctuary qua Mapworks
+@@ 1074
+Cho phép tiến vào Desolate Temple qua Mapworks
+@@ 1075
+Cho phép tiến vào Infected Hollow qua Mapworks
+@@ 1076
+Cho phép tiến vào Blighted Sanctum qua Mapworks
+@@ 1077
+Cho phép tiến vào Infected Retreat qua Mapworks
+@@ 1078
+Cho phép tiến vào Infected Depths qua Mapworks
+@@ 1079
+Cho phép tiến vào Blighted Retreat qua Mapworks
+@@ 1080
+Cho phép tiến vào Blighted Depths qua Mapworks
+@@ 1081
+Cho phép tiến vào Frostbitten Caverns qua Mapworks
+@@ 1082
+Cho phép tiến vào Frostshorn Breach qua Mapworks
+@@ 1083
+Cho phép tiến vào Frostbitten Ravine qua Mapworks
+@@ 1084
+Cho phép tiến vào Frostbitten Chasm qua Mapworks
+@@ 1085
+Cho phép tiến vào Frostshorn Caverns qua Mapworks
+@@ 1086
+Cho phép tiến vào Frostshorn Ravine qua Mapworks
+@@ 1087
+Cho phép tiến vào Frostshorn Chasm qua Mapworks
+@@ 1088
+Nhấp chuột phải để mở cổng dịch chuyển đến vùng Wilds.
+@@ 1089
+Cho phép tiến vào Ransacked Halls qua Mapworks
+@@ 1090
+Cho phép tiến vào Ezrohir Treasury qua Mapworks
+@@ 1091
+Cho phép tiến vào Ransacked Commons qua Mapworks
+@@ 1092
+Cho phép tiến vào Ransacked Vault qua Mapworks
+@@ 1093
+Cho phép tiến vào Ezrohir Halls qua Mapworks
+@@ 1094
+Cho phép tiến vào Ezrohir Commons qua Mapworks
+@@ 1095
+Cho phép tiến vào Ezrohir Vault qua Mapworks
+@@ 1096
+Tộc Shadowfolk gửi gắm một chút của chính mình vào đồ trang sức của họ.
+@@ 1097
+Hãy đeo nó, và bạn sẽ biết thế nào là bị bóng tối siết chặt.
+@@ 1098
+Tộc Shadowfolk muốn chiếc bùa hộ mệnh này thật khó tháo ra.
+@@ 1099
+Chẳng hiểu sao, bóng tối dường như trở nên đậm đặc hơn mỗi khi nó ở gần.
+@@ 1100
+Cái bóng của bạn như bị nhuộm đen, thậm chí cháy xém.
+@@ 1101
+Chiếc bùa hộ mệnh dường như tỏa ra một làn sương mờ u tối.
+@@ 1102
+Tộc Shadowfolk muốn nó trở thành một phần của bạn.
+@@ 1103
+Về đêm, bạn có thể nghe thấy nó thì thầm bằng một thứ ngôn ngữ xa lạ.
+@@ 1104
+"Một mũi kim đến từ nửa đêm, nhắm thẳng vào linh hồn bạn."
+@@ 1105
+Đến khi bạn cảm nhận được vết cắn của nó, thì đã quá muộn ...
+@@ 1106
+Nó thúc đẩy bạn làm những điều không thể nói thành lời ...
+@@ 1107
+Người ta nói rằng tộc Shadowfolk đến từ tâm của thế giới.
+@@ 1108
+Tộc Shadowfolk đã bị trục xuất từ một nghìn năm trước.
+@@ 1109
+Màu đen của chiếc đai tượng trưng cho tri thức cấm kỵ.
+@@ 1110
+Bạn có được sự hậu thuẫn toàn diện của tộc Shadowfolk.
+@@ 1111
+Khóa thắt lưng giấu một ngăn bí mật, bên trong có một con ong chết.
+@@ 1112
+Tenebra đã mang đôi giày này khi bước đi trong bóng tối.
+@@ 1113
+"Người ta nói rằng: Hãy dạo bước giữa mây trời nhưng sống giữa nhân gian."
+@@ 1114
+Bước chân như lời thì thầm;\nTiếng cười như tiếng thét.
+@@ 1115
+Nameless Champion đã bảo vệ Cult of the Obscure khỏi kẻ thù của họ.
+@@ 1116
+Tenebra được biết đến là Shadow Queen của Black Palace.
+@@ 1117
+Nó bao bọc bạn trong vòng tay u tối của nó.
+@@ 1118
+Truyền thuyết kể rằng nó từng được King-in-Whispers bí ẩn khoác lên người.
+@@ 1119
+Cult of the Obscure đã tạo ra bộ giáp này cho Nameless Champion.
+@@ 1120
+Người ta đồn rằng đây là đôi tay của một hồn ma ... kẻ vẫn đang tìm cách lấy lại chúng.
+@@ 1121
+Tenebra đã siết cổ không biết bao nhiêu tù nhân bằng đôi găng này.
+@@ 1122
+Đôi hộ uyển này không hề lấp lánh như một số người vẫn tưởng.
+@@ 1123
+Có người tin rằng Cult of the Obscure chưa từng tồn tại.
+@@ 1124
+Shadow Queen có thể nhìn xuyên qua bóng tối.
+@@ 1125
+Tiếng thì thầm ấy hoàn toàn ở trong đầu bạn.
+@@ 1126
+Người Valgang dọa con cái bằng những câu chuyện về Mother Night.
+@@ 1127
+Cult of the Obscure đã bí mật thao túng cả thế giới.
+@@ 1128
+Chúng gần như hút lấy ánh sáng ...
+@@ 1129
+"Và Potentate đã đoạt lấy cái bóng làm của riêng, rồi hóa điên."
+@@ 1130
+Cảm giác khi mặc chúng lên người thật khiến người ta bất an ...
+@@ 1131
+Nameless Champion có thể thực ra là nhiều người khác nhau.
+@@ 1132
+Tụ trong bóng tối, lạc khỏi ánh dương, vây giữa cuồng điên, khuất nẻo muôn phương.
+@@ 1133
+Giờ đây bóng tối chỉ là thứ để bạn xoay quanh ngón tay út.
+@@ 1134
+Cảm giác như bóng tối đang vây quanh bạn ...
+@@ 1135
+Dòng họ Blackburne đã cai trị Silverisle hàng thế kỷ.
+@@ 1136
+Phu nhân Blackburne đời đầu đã nhận chiếc nhẫn này làm quà cưới.
+@@ 1137
+Lãnh chúa Blackburne của Silverisle đã dâng nó lên Hoàng đế để tỏ lòng thần phục.
+@@ 1138
+Diệt vong đang chờ đợi trong bóng tối.
+@@ 1139
+Bóng tụ về, bóng gọi mời.\nBóng vây quanh, đêm sắp rơi.
+@@ 1140
+Truyền thuyết kể về "Bóng tối nghiền nát muôn sao."
+@@ 1141
+Viên đá như một mảnh dằm nhỏ của bóng tối.
+@@ 1142
+Một mảnh dằm u ám nhỏ xíu cắm vào ngón tay và len lỏi vào tâm trí bạn.
+@@ 1143
+Một cái bóng sau lưng, một cái gai bên sườn.
+@@ 1144
+Tương truyền người mang nó có thể nghe thấy tiếng khóc của một người Estherian vọng ra từ đó.
+@@ 1145
+Nó chứa đựng hy vọng và ước mơ của tất cả những người từng mang nó.
+@@ 1146
+Chuyện kể rằng Mother Night bắt cóc trẻ con rồi biến chúng thành búp bê.
+@@ 1147
+Cult of the Obscure biến mất cùng với cái chết của Nameless Champion.
+@@ 1148
+Người Estherian kể lại chuyện Laughing Wights đã sát hại những lữ khách đơn độc trên vùng Steppes.
+@@ 1149
+"Wyrd được rèn thành tia sét để giáng xuống kẻ thù."
+@@ 1150
+Người Estherian đã chế tạo những vũ khí đặc biệt để chiến đấu với Laughing Wights.
+@@ 1151
+Tương truyền khi một bóng ma bị tiêu diệt, nó sẽ tan biến trong một luồng sáng ma quái lóe lên.
+@@ 1152
+"Trái tim của bóng ma là một vật sống." -- ngạn ngữ xưa
+@@ 1153
+Laughing Wights tỏa ra một thứ ánh sáng nhợt nhạt, được gọi là "wightfire."
+@@ 1154
+Nó nhìn thấu bạn, thấy cả những hoài nghi và nỗi sợ trong bạn. Và nó thì thầm với bạn: "Diệt vong."
+@@ 1155
+Một sợi khói mờ mảnh như tơ dường như đang nhảy múa sâu bên trong nó.
+@@ 1156
+Nó biết bạn có thể nghe thấy nó.
+@@ 1157
+"Bằng nanh và bằng vuốt, Wyrd đã nhào nặn nên thế giới."

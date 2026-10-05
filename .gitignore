@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+
+# Generated from the game's own data (copyrighted / regenerable): never commit
+work/
+build/
+output/*
+!output/mod/
+output/mod/*
+# keeps the mod GUID stable across rebuilds
+!output/mod/mod_info.json
+
+# Font experiments (instanced fonts and comparison images)
+fonts/static_candidates/
+fonts/preview_ingame_scale.png

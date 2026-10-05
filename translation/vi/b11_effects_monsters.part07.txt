@@ -1,0 +1,196 @@
+@@ 4967
+Tấn công bằng mảnh băng
+@@ 4968
+Nhảy vồ nhanh - Khạc độc
+@@ 4969
+Ăn thịt những con nhện khác để thêm sức mạnh và trường thọ\n
+@@ 4970
+Khạc độc
+@@ 4971
+Phun tơ gây bất động
+@@ 4972
+Phun tơ gây bất động - Phun axit
+@@ 4973
+Phun tơ gây bất động - Khạc nọc độc
+@@ 4974
+Đòn nện - Phun tơ gây bất động
+@@ 4975
+Một đám tơ nhện chằng chịt chắn lối đi của bạn.
+@@ 4976
+Robot - Phát nổ
+@@ 4977
+Triệu hồi Mana Wisp - Bão Mana
+@@ 4978
+Thi triển Sandstorm và dịch côn trùng
+@@ 4979
+Thi triển dịch côn trùng
+@@ 4980
+Maskbearer - Phép Electric
+@@ 4981
+Maskbearer - Phép Fire
+@@ 4982
+Maskbearer - Phép Poison
+@@ 4983
+Làm chậm kẻ địch - Hút máu
+@@ 4984
+Champion Undead - Triệu hồi Shroudwing
+@@ 4985
+Đơn vị tối ưu hóa nguồn nhân lực
+@@ 4986
+Vụ nổ lớn
+@@ 4987
+Khó bị tiêu diệt
+@@ 4988
+Ăn thịt Troglodyte
+@@ 4989
+Tầm với xa - Phóng giáo
+@@ 4990
+Hồi sinh Trog - Khiến Trog nổi điên
+@@ 4991
+Nôn mửa tấn công - Bỏ chạy khi đồng minh ngã xuống
+@@ 4992
+Đốc công hầm mỏ - Tấn công bằng sóng băng - Đòn đập
+@@ 4993
+Đập bằng tảng đá - Kéo bằng rìu - Nhảy vồ - Dựng tường nhốt nạn nhân
+@@ 4994
+Đập bằng tảng đá - Kéo bằng rìu - Nhảy vồ - Không thể bị ngắt đòn
+@@ 4995
+Bảo vệ Steam Titan
+@@ 4996
+Xả súng máy
+@@ 4997
+Bắn tên lửa truy đuổi
+@@ 4998
+Phát nổ khi ở cự ly gần
+@@ 4999
+Không thể bị tổn thương
+@@ 5000
+Tấn công bằng sét
+@@ 5001
+Tạo ra Shock Copter
+@@ 5002
+Lao tới tấn công - Tiếp sức cho Tutara gần đó - Không thể bị ngắt đòn
+@@ 5003
+Lao tới tấn công - Không thể bị ngắt đòn
+@@ 5004
+Gai xương - Vụ nổ gai
+@@ 5005
+Triệu hồi lốc xoáy - Hồi sinh Tutara
+@@ 5006
+Fire Bolts - Fire Nova
+@@ 5007
+Đũa phép Electric - Phun tia lăng kính - Hồi sinh Tutara
+@@ 5008
+Nhảy vồ - Chém đôi
+@@ 5009
+Đẩy lùi
+@@ 5010
+Nhảy vồ - Khiên chặn sát thương
+@@ 5011
+Ném dây bola
+@@ 5012
+Cào vuốt Electric - Nhảy lùi - Đòn đập phóng Charged Bolt
+@@ 5013
+Nhảy lùi
+@@ 5014
+Tia bóng tối - Shadow Burst - Hồi sinh Varkolyn - Dịch chuyển tức thời - Tia làm chậm
+@@ 5015
+Nhảy lên đâm - Nhảy lùi
+@@ 5016
+Nhảy lên đâm
+@@ 5017
+Bỏ chạy khi đồng minh ngã xuống - Ném chất nổ - Nhảy lùi
+@@ 5018
+Bỏ chạy khi đồng minh ngã xuống - Nhảy lùi
+@@ 5019
+Đẩy lùi - Nhảy lùi
+@@ 5020
+Cú cắn gây vết thương chảy máu
+@@ 5021
+Champion Beast - Gây chảy máu
+@@ 5022
+Chém liên hoàn - Ăn xác chết để hồi máu - Nhảy vồ - Nhảy lùi
+@@ 5023
+Nhảy vồ - Nhảy lùi - Chém đẩy lùi
+@@ 5024
+Nhảy vồ - Chém liên hoàn - Nhảy lùi - Ném tảng đá
+@@ 5025
+Ném đá - Nhảy vồ - Nhảy lùi - Chém liên hoàn
+@@ 5026
+Nhảy vồ - Nhảy lùi - Chém đẩy lùi - Ném tảng đá
+@@ 5027
+Nhảy vồ - Chém liên hoàn
+@@ 5028
+Bắn tia năng lượng thuần khiết
+@@ 5029
+Làm chậm kẻ địch gần đó
+@@ 5030
+Bắn tia Electric
+@@ 5031
+Hóa thành vàng khi bị chạm vào.
+@@ 5032
+Bắn đạn năng lượng truy đuổi
+@@ 5033
+Bắn đạn năng lượng nảy bật
+@@ 5034
+Triệu hồi Fetish - Tấn công bằng bầy dơi - Dịch chuyển tức thời
+@@ 5035
+Triệu hồi Fetish - Tấn công bằng bầy dơi - Dịch chuyển tức thời - Hồi sinh Golem
+@@ 5036
+Cacklespit được bảo vệ khi Golem còn hoạt động - Đòn đập
+@@ 5037
+Cú cắn gây vết thương chảy máu
+@@ 5038
+Corpsefire Phase - Đánh nhanh
+@@ 5039
+Cú cắn tẩm độc
+@@ 5040
+Biến thành Corpsefire Werewolf
+@@ 5041
+Phun gai
+@@ 5042
+Tấn công bằng rễ cây - Mọc ra Wood Wraith
+@@ 5043
+Elite Beast - Lao tới tấn công - Giậm đất - Mảnh băng
+@@ 5044
+Lao tới tấn công - Giậm đất
+@@ 5045
+Champion Beast - Lao tới tấn công - Giậm đất
+@@ 5046
+Xé toạc mặt đất - Đòn đập - Giậm đất đẩy lùi
+@@ 5047
+Undead - Không thể bị ngắt đòn
+@@ 5048
+Kháng ngắt đòn
+@@ 5049
+Hơi thở gây bất động
+@@ 5050
+Quất roi
+@@ 5051
+Vòng xoáy Mana
+@@ 5052
+Giải phóng khí độc khi bị tiêu diệt
+@@ 5053
+Champion Undead - Kháng Poison
+@@ 5054
+Tấn công Ice - Kháng Ice
+@@ 5055
+Hút Mana - Không thể bị ngắt đòn
+@@ 5056
+Rất yêu con thú bông của mình
+@@ 5057
+Đòn đập - Giậm đất đẩy lùi
+@@ 5058
+Undead - Tốc độ tăng khi rũ bỏ lớp thịt
+@@ 5059
+Undead - Kháng Poison
+@@ 5060
+Phát nổ khi ở gần
+@@ 5061
+Được đào tạo về bí thuật, các Embermage sử dụng nhiều loại phép thuật nguyên tố với uy lực chết người.
+@@ 5062
+Tàn bạo và thần tốc, các Berserker khơi dậy ma thuật thú hoang mạnh mẽ để tăng cường kỹ năng chiến đấu chết chóc của mình.
+@@ 5063
+Được trang bị vũ khí và giáp chạy bằng Ember, các Engineer giữ cho vùng biên cương luôn vận hành trơn tru.
+@@ 5064
+Tinh thông bí thuật và những khế ước cổ xưa, các Outlander sử dụng súng và phép thuật điêu luyện như nhau.

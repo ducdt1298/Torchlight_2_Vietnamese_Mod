@@ -1,0 +1,6717 @@
+ [ITEM] of Acid Rain
+'X' Marks the Spot
+(Dividing)
+(Double-Strong)
+(Explosive)
+(Freezing)
+(Haunted)
+(Health Regen)
+(Noxious)
+(Shocking)
+(Swift)
+(Teleporting)
+*Angry Beasts
+*Body Work
+*Coming Out Ahead
+*Getting One's Bearings
+*Ghost of a Chance
+*Green Rewards
+*Hidden Costs
+*Hostage Negotiations
+*Imperial Railmaster
+*Loose Connections
+*Seeing Things
+*Sudden Outbreaks
+*Template: Acquire Quest
+*Template: Kill Quest
+*Template: Kill-and-Acquire Quest
+*The Growing Rift
+*The Merryweather Poultice
+*Treasures of the Lost
+*Truffle Kerfuffle
+*Up In Smoke
+/BLOWKISS
+/BOW
+/BREAKDANCE
+/BURP
+/CLUELESS
+/CMON
+/COUGH
+/CRY
+/DANCE
+/DESPAIR
+/DRUMS
+/EM
+/EMOTE
+/FACEPALM
+/GUNSHOW
+/JUMP
+/LAUGH
+/LUTE
+/OOPS
+/ROLL
+/SALUTE
+/SECRET
+/SLAP
+/SLOWCLAP
+/TAUNT
+/VICTORY
+/WAVE
+/WHATHAVEIDONE
+10 champs
+25 monsters
+4 Prismatic Bolts
+800 Bullets
+A Doom God’s Fist
+A High-Value Target
+A Magnificent Artifact!
+A Mysterious Amulet
+A Mysterious Axe
+A Mysterious Belt
+A Mysterious Bow
+A Mysterious Cannon
+A Mysterious Chest Piece
+A Mysterious Claw
+A Mysterious Collar
+A Mysterious Crossbow
+A Mysterious Greataxe
+A Mysterious Greathammer
+A Mysterious Greatsword
+A Mysterious Helmet
+A Mysterious Mace
+A Mysterious Pet Tag
+A Mysterious Pistol
+A Mysterious Polearm
+A Mysterious Ring
+A Mysterious Shield
+A Mysterious Shotgonne
+A Mysterious Spear
+A Mysterious Staff
+A Mysterious Sword
+A Mysterious Wand
+A Shattered Visage Lies
+A Song for Tomorrow
+A Taste of Blood
+A Truly Spectacular Find!
+Abandoned Sawmill
+Absorb Railman Charges
+Absorption Aura
+Absorption Beam
+Abyssal Caves
+Abyssal Caves Boss
+Abyssal Caves Map (L96-100)
+Abyssal Fissure
+Abyssal Fissure Boss
+Abyssal Fissure Map (L105)
+Abyssal Grotto
+Abyssal Grotto Boss
+Abyssal Grotto Map (L76-85)
+Abyssal Pit
+Abyssal Pit Boss
+Abyssal Pit Map (L86-95)
+Abyssal Scimitar
+Acclaimed
+Accuracy Potion
+Acid Blob
+Acid Gel
+Acid Rain
+AcidGelSpawner
+Acknowledged
+Activate Stone Head
+Adamant Ember
+Adanced Stock-Bow
+Adept [ITEM]
+Adeptus  Leggings
+Adeptus Boots
+Adeptus Bracers
+Adeptus Doublet
+Adeptus Helm
+Adeptus Shoulders
+Adrenaline Rush I
+Adrenaline Rush II
+Adrenaline Rush III
+Advanced Turret
+Adventurer Armor
+Adventurer Baldric
+Adventurer Belt
+Adventurer Boots
+Adventurer Bracers
+Adventurer Breeches
+Adventurer Capeline
+Adventurer Cloak
+Adventurer Clog Boots
+Adventurer Clogs
+Adventurer Gauntlets
+Adventurer Gloves
+Adventurer Greatcoat
+Adventurer Helm
+Adventurer Helmet
+Adventurer Overcoat
+Adventurer Pants
+Adventurer Shoulders
+Adventurer Trousers
+Adventuring
+Aegis
+Aegis of Fate
+Aenigma
+Aergus
+Agile [ITEM]
+Agitating [ITEM]
+Air-Cooled Battle Rifle
+Akimbo
+Albert
+Albino Halibut
+Albrecht the Transmuter
+Alchemical  Plates
+Alchemical Belt
+Alchemical Boots
+Alchemical Chestpiece
+Alchemical Gloves
+Alchemical Helm
+Alchemical Pants
+Alchemical Signet
+Alchemical Token
+Alchemist Armor
+Alchemist Pistol
+Alchemist Ring of Blood
+Alchemist Ring of Ember
+Alchemist Ring of Iron
+Alchemist Ring of Sand
+Alchemist's Note
+Alchemist's Rage
+Alchemist's Sentry
+Aleera
+Alhidade Amulet
+All the Colors of the Dark 
+Alley Shank
+Ally
+Alma
+Alpaca
+Alpha Zone
+Altar
+Amicable Troll
+Amulet Ars Technica
+Amulet of Ponga
+Amulet of Twenty Squares
+Amulet of the Arch-Magus
+Amulet of the Construct
+Amulet of the Eternal Champion
+Amulet of the Fetcher King
+Amulet of the Old Ones
+Amulet of the Walrus King
+Amulet of the War-Miller
+Amulet of the World-Mage
+An Enchanter in Chains
+Ancestral Greatsword
+Ancient Automaton
+Ancient Automaton Mk1
+Ancient Bloatwalker
+Ancient Bone Golem Sword
+Ancient Guardian
+Ancient Gumfish
+Ancient Skeletal Archer
+Ancient Skeletal Shield Warrior
+Ancient Skeleton Leader
+Ancient Titan
+Ancient Vaults of Chaos
+Anger Managers
+Angry Skull
+Animal Badge
+Animal Band
+Animal Charm
+Animal Collar
+Animal Handling
+Animal Harness
+Animal Marker
+Animal Medal
+Animal Neckband
+Antikythering
+Antropophagus 
+Apprentice Enchanter Malo
+Arbalest
+Arbiter Scepter
+Arbiter Staff
+Arc Beam
+Arc Saber
+Arcane Tools
+Arcgap's Vice
+Archer [ITEM]
+Archer's Pavise
+Archmage Baton
+Archmage Scepter
+Archmage Wand
+Arcing [ITEM]
+Arcuballista
+Arena of Slaughter
+Argonaut
+Argonaut Amulet
+Argonaut Armor
+Argonaut Belt
+Argonaut Boots
+Argonaut Gloves
+Argonaut Helm
+Argonaut Pants
+Argonaut Ring
+Argonaut Shoulders
+Ariki'ku'tara kon
+Aristocrat
+Aristocrat Armor
+Aristocrat Belt
+Aristocrat Boots
+Aristocrat Gloves
+Aristocrat Helm
+Aristocrat Mantle
+Aristocrat Pants
+Aristocrat Ring
+Armada Cannon
+Armadax
+Arming-Sword 
+Armor Expertise
+Armor Leech
+Armor Potion
+Armor Rack
+Armor Schematics
+Armor of Bloodshed
+Armor of Burning Rage
+Armor of Crushing
+Armor of Wanton Cruelty
+Armor of the Grimknight
+Armor of the North Wind
+Armor of the Savage Horde
+Armor of the Winter Magus
+ArmorTrap
+Armored Bloatwalker
+Armored Bog Shambler
+Armored Warbeast
+Armored [ITEM]
+ArmoredPunchBag
+Arrow Hail
+Arrowhead Greataxe
+Artifice of Evil
+Artificer
+Artificer's Workshop
+Artillery
+Aruk
+Aruk's Advisor
+Aruk's Retainer
+Ascendant
+Ascendant Armor
+Ascendant Belt
+Ascendant Boots
+Ascendant Gloves
+Ascendant Helmet
+Ascendant Mantle
+Ascendant Pants
+Ash Scythe
+Ashen Shoulders
+Ashenbow
+Ashenbreeks
+Ashenfeld Broadsword
+Ashenfeld Dueling Pistol
+Ashenfeld Slasher
+Asphyx
+Assarian Skull
+Astral Ally
+Ator the Fighting Eagle
+Attach a Sticky Bomb
+Augmented [ITEM]
+Aura of Thorns
+Automatic Turret
+Automaton Power Source
+Avatar
+Avenging [ITEM]
+Axe
+Axe Ray
+Axe of the Elder One
+Axe-Bot 2525
+AxeThrow
+Axebreaker
+Axler's Commendation
+Azure Longbow
+Babbage Band
+Babbage Belt
+Babu's Lockpicking Gloves
+Backhanders
+Badger
+Badgerclaw
+Badgermask
+Badlands
+Badlands Amulet
+Badlands Armor
+Badlands Belt
+Badlands Gloves
+Badlands Helmet
+Badlands Pants
+Badlands Ring
+Badlands Sandals
+Badlands Shoulders
+Baldrick of Turnipz
+Baldrick the Enchanter
+Bale Amulet
+Bale Belt
+Bale Ring
+Bale Tag
+Ball Lightning
+Ballista
+Bandit Hut Door
+Bandit Key
+Bane
+Bane Breath
+Banner of Koschei
+Bao Bei's Ring of Forever
+Bar of Orichalcum
+Barbaric Bow
+Barbaric Glaive
+Barbaric Towershield
+Bardiche
+Barely Known
+Baron Falkenstein's Gun
+Baroque Culverin
+Barrage
+Barrel
+Barricade
+Barter
+BasePlayer
+Bashdrill
+Basic Collar
+Basilisk
+Basket
+Bastard Sword
+Bat-Wing Staff
+Battle Axe
+Battle Crossbow
+Battle Focus
+Battle Hammer
+Battle Mace
+Battle Pistol
+Battle Rage
+Battle Recovery
+Battle Royale
+Battle Standard
+Battle Sword
+Battlebreaker
+Battledrive Ripshank
+Battlefielder
+Battlemage Bracers
+Battlemage Brogans
+Battlemage Greatcoat
+Battlemage Helm
+Battlemage Pants
+Battlemage Shoulders
+Battleplate
+Bayonet Gun
+Beacon Wand
+Beaked Greataxe
+Beam Fragment
+Bear-Baiter
+Bearded Fish
+Bearhug
+Bearstopper
+Beast Band
+Beast Charm
+Beast Choker
+Beast Cinch
+Beast Collar
+Beast Hammer
+Beast Harness
+Beast Marker
+Beast Medal
+Beast Stub
+Beast Tag
+Beastbane
+Beasthead Sledge
+Beastling Armor
+Beastling Breeks
+Beastling Helm
+Beatdown
+Bec de Corbin
+Bec de Faucon
+Bedima Augur Wand
+Bee Swarm
+Beheading Sword
+Belfry Helm
+Bell
+Bell Stand
+Bellethe
+Belly-Bow
+Belt of Dead Kings
+Belt of Fallen Heroes
+Belt of Ignition
+Belt of Legend
+Belt of Tools
+Belt of Wee Tonn
+Belt of a Thousand Bolts
+Belt of the Best Tools
+Belt of the Hunters
+Belt of the Magus
+Belt of the Prime Smith
+Belt of the Right Tools
+Belt of the Thaumaturge
+Berkley
+Berserk
+Berserker
+Berserker Claws
+Berserker Roundshield
+Bestial Badge
+Bestial Charm
+Bestial Collar
+Bestial Neckband
+Beyond the Darkness 
+Bifold [ITEM]
+Big Bog Perch
+Big Bonefish
+Big Bore Shotgonne
+Big Crab Egg
+Big Dog
+Big Electric Eel
+Big Firefish
+Big Flying Fish
+Big Health Potion
+Big Ice Angel
+Big Jackal Bass
+Big Largemouth Bass
+Big Mana Potion
+Big Rejuvenation Potion
+Big Tar
+Big Tunnel Shark
+Big Venomfish
+Big Warsnout
+Big Web Fish
+Biggun's Brogans
+Bill-of-War
+Billy
+Bincho the Haggler
+Bio-Agitator
+Bird-of-Prey Knife
+Bitter Moon
+Bitter Tag
+Bitterbile Tag
+Bitterbite
+Bittersprite
+Black Basilisk Eye
+Black Haven Schiavona
+Black Mask
+Black Palace Staff
+Black Powder Pistol
+Black Rose
+Black Widow
+Black-Powder Shotgonne
+Blackbelt
+Blackclaw
+Blackfang Arachnos
+Blackfang Bludgeon
+Blackfist Assassin
+Blackfist Brigand
+Blackfist Marksman
+Blackfist Pikeman
+Blackstaff Destroyer
+Blade
+Blade Pact
+Blade Stalker
+Blade of the Ripper 
+Bladed Claw
+Bladed Glove
+Bladed Shotgonne
+Blair's Journal
+Blair's Notes
+Blake
+Bland Axe
+Blast Cannon
+Blast Wave
+Blastmaw's Trigger
+Blatand
+Blatann
+Blazing Pillar
+Blazing Tag
+Bleached Captain
+Bleached Crewman
+Bleached Marksman
+Bleached Recluse
+Bleak Spirit
+Bleakwood
+Blight Brute
+Blight Maggot
+Blight Skeleton
+Blight Skeleton Warrior
+Blighted Depths
+Blighted Depths Boss
+Blighted Depths Map (L96-100)
+Blighted Hollow
+Blighted Hollow Boss
+Blighted Hollow Map (L76-85)
+Blighted Retreat
+Blighted Retreat Boss
+Blighted Retreat Map (L86-95)
+Blighted Sanctum
+Blighted Sanctum Boss
+Blighted Sanctum Map (L105)
+Blighted Skara
+Blighted Tag
+Blightslug
+Blightslug Lasher
+Blind Eel
+Blinding Cloud
+Blinding [ITEM]
+Blitz
+Blizzard
+Bloated Mycon
+Bloatfang
+Bloatwalker Champion
+Blocking
+Blood Ember
+Blood Ember Chip
+Blood Ember Shard
+Blood Ember Speck
+Blood Feast
+Blood Hunger
+Blood Leather
+Blood Leather Belt
+Blood Leather Boots
+Blood Leather Gloves
+Blood Scourge
+Blood Skeleton
+Blood Zombie
+Blood and Black Lace 
+Bloodbath
+Bloodbath Bib
+Bloodbath Kama
+Bloodbath Waders
+Bloodcurdle
+Bloodletter
+Bloodstained Message
+Bloodsteam
+Bloodsteam Amulet
+Bloodsteam Belt
+Bloodsteam Breastplate
+Bloodsteam Burgonet
+Bloodsteam Gauntlets
+Bloodsteam Pauldrons
+Bloodsteam Poleyns
+Bloodsteam Ring
+Bloodsteam Sabatons
+Bloodsucker
+Bloody Boneyard
+Bloody Boneyard Boss
+Bloody Boneyard Map (L105)
+Bloody Crypt
+Bloody Crypt Boss
+Bloody Crypt Map (L86-95)
+Bloody Mortuary
+Bloody Mortuary Boss
+Bloody Mortuary Map (L96-100)
+Bloody Vault
+Bloody Vault Boss
+Bloody Vault Map (L76-85)
+Bloom's Margin
+Bludgeon
+Bludgeon Bracers
+Blue Boletus Flesh
+Blue Fire Amulet
+Blue Fire Ring
+Blue Flame Amulet
+Blue Flame Ring
+Blue Forest Amulet
+Blue Forest Ring
+Blue Lich Ring
+Blue Mountain Amulet
+Blue Mountain Ring
+Blue Vanquisher Amulet
+Blue Vanquisher Ring
+Bluefire Ripshank
+Blundergun
+Blunt Object Bracers
+Boar Spear
+Boards
+Body Wrappings
+Bog Perch
+Bog Shambler
+Bohloray
+Boilerbelter
+Boilerplate Jacket
+Boilerplate Mail
+Boletus Rex
+Boletus Rex 
+Boletus' Spore Sack
+Bolstered  [ITEM]
+Bolt Sword
+Bolt and Nuts
+Bolt-Launcher
+Bolt-Thrower
+Boltspray
+Bombard
+Bondron Skull
+Bone Axe
+Bone Crossbow
+Bone Golem
+Bone Maul
+Bone Pile
+Bone Pillar
+Bone Sentry
+Bone Staff
+Bone Thrall
+Bone Wand
+Bone of Ullr
+Bone-Barrel Shotgonne
+Bone-Spined Carbine
+Bonebreaker
+Bonebreaker Maul
+Bonechilling Tag
+Bonefang Pick
+Bonefish
+Bonepry Wedge
+Boneshredder
+Boneskull Staff
+Boneyard Bolt-Spitter
+Bongo
+Boomstick
+Boon the Collector
+Booster Pistol
+Boots of Blind Rage
+Boots of Ferocity
+Boots of Missile Deflection
+Boots of Routing
+Boots of Savagery
+Boots of Silent Rage
+Boots of Tyranny
+Boots of Welling Rage
+Boots of the Fire Lord
+Boots of the Frozen Wastes
+Boots of the Invincible Overlord
+Boots of the Lonely Lineman
+Boots of the Mountain Pass
+Boots of the Tick-Tock King
+Boots of the Vibramite
+Boots of the Winter Magus
+Boots of the Winter Snow
+Boots of the Wraith Overlord
+Border Axe
+Bore Gun
+Borris the Stout
+Boss Entrance
+Boss Room
+Both-Hands Sword
+Bottle of Poison
+Bounty Board
+Bounty: Sturmbeorn!
+Bounty: Warbeasts!
+Bow
+Bowser
+Boxlock Shotgonne
+Bracers ex Machina
+Bracers of Wonder
+Bracers of the Accused
+Bracers of the Grimknight
+Bracers of the Winter Magus
+Bracken Hacker
+Brackenfang Club
+Brackenwitch
+Brainsnatcher
+Bramble Wall
+Brambles
+Brass Brand
+Brass Knuckles
+Brass Torc
+Brass-Barrel Fullbore
+Brass-Barrel Shotgonne
+Brass-Bound Culverin
+Brassbarrel Pistol
+Brassbill
+Brasstaxx
+Brawndonian Bracers
+Brazier
+Breach Gun
+Breach-Loader
+Breaking the Siege
+Breastplate of the Tick-Tock Knight
+Breeches of Bloody Slaughter
+Breeches of Rage
+Breeches of the Clumsy Apprentice
+Breeches of the Wastewalker
+Breeches of the Waywalker
+Breeches of the Wraithborn
+Breeks of Despair
+Breeks of Havoc
+Breeks of the Breathtaker
+Breeks of the Counter-Monkey
+Breeks of the Feud
+Breeks of the North Wind
+Breeks of the Pyrophage
+Breeks of the Railsmith
+Brigandine of Wild Magic
+Brigandine of the Wastes
+Brightember Amulet
+Brightember Band
+Brightember Ring
+Bring Out Your Dead
+Brisk [ITEM]
+Brixtan's Bracers
+Broad-Blade Spear
+Broadaxe
+Broadblade
+Broadblade Hewer
+Broadsword
+Brogans of Wild Magic
+Brogit
+Brom's Roughhide Tonic
+Bronze Armor
+Bronze Axe
+Bronze Barbute
+Bronze Belt
+Bronze Boots
+Bronze Corslet
+Bronze Full-Greaves
+Bronze Gauntlets
+Bronze Gloves
+Bronze Greaves
+Bronze Head
+Bronze Helm
+Bronze Pants
+Bronze Pauldrons
+Bronze Plate
+Bronze Ripshank
+Bronze Roundshield
+Bronze Sabatons
+Bronze Scepter
+Bronze Shoulders
+Bronze Sollerets
+Bronze Spangenhelm
+Bronze Spaulders
+Bronze Spear
+Bronze Torc
+Bronze Vambraces
+Bronze-Blade Axe
+Brood Axe
+Brown Recluse
+Brujeria Bracers
+Brutal [ITEM]
+Brutesbane
+Bruteslayer
+Brutus the Crusher
+Buck Claw
+Buckler
+Bud
+Buffadon Bill's Hide Mask
+Bugbear
+Bugstomper
+Builder Bracers
+Builder Greaves
+Bull Axe
+Bulldog
+Bullet Fist
+Bullet Naga
+Bulletfist
+Bulletsnake
+Bullseye Mastery
+Bulwark
+Bulwark's Eye
+Bunny
+Burial Hammer
+Burning
+Burning Bind
+Burning Leap
+Burning [ITEM]
+Burrower
+Burst
+Butcher's-Fist
+Cabalist
+Cabalist Armor
+Cabalist Boots
+Cabalist Gloves
+Cabalist Pants
+Cacklespit
+Cacklespit's Brew
+Cacklespit's Realm
+Caestus
+Caius the Fleet
+Call Forth the Skull
+Cam
+Candelabra
+Cannon
+Cannon Mastery
+Cannon Shot
+Cannonball Glove
+Cape of the Golden Dawn
+Caplock Revolver
+Captain Logan's Clogs
+Captured Estherian
+Caravan
+Carcass of Justice
+Carfted Kiteshield
+Carlsbelt
+Carnage Quake
+Carved Ivory Cup
+Carved Onyx Gargoyle
+Cash Box
+Casket
+Castle Ruins
+Cat
+Catacombs
+Catalyst
+Catfish
+Cavalry Axe
+Cavalry Crossbow
+Cavalry Kite
+Cavalry Mace
+Cavalry Pistol
+Cave Dasher
+Cave Gnasher
+Caves
+Celebrated
+Celestial
+Celestial Amulet
+Celestial Armor
+Celestial Belt
+Celestial Boots
+Celestial Eye
+Celestial Gloves
+Celestial Helm
+Celestial Pants
+Celestial Ring
+Celestial Shoulders
+Celh Skull
+Cell Doors
+Ceremonial Brand
+Ceremonial Ezrohir Belt
+Ceremonial Ezrohir Boots
+Ceremonial Ezrohir Chestpiece
+Ceremonial Ezrohir Gauntlets
+Ceremonial Ezrohir Helm
+Ceremonial Ezrohir Pants
+Ceremonial Ezrohir Plates
+Ceremonial Ezrohir Signet
+Ceremonial Ezrohir Token
+Ceremonial Fauchard
+Ceremonial Greataxe
+Ceremonial Mace
+Ceremonial Ranseur
+Cerulean Nightmare
+Chain Armor
+Chain Aventail
+Chain Belt
+Chain Boots
+Chain Camail
+Chain Cataphract
+Chain Chausses
+Chain Coif
+Chain Cuisses
+Chain Fists
+Chain Gauntlets
+Chain Gloves
+Chain Haubergeon
+Chain Helm
+Chain Leggings
+Chain Pants
+Chain Sabatons
+Chain Shoulders
+Chain Skullcap
+Chain Snare
+Chain Vortex
+Chain of Torment
+Chainmail Armor
+Chainmail Belt
+Chainmail Boots
+Chainmail Cataphract
+Chainmail Cervelliere
+Chainmail Chausses
+Chainmail Coif
+Chainmail Fists
+Chainmail Gauntlets
+Chainmail Gloves
+Chainmail Hauberk
+Chainmail Helm
+Chainmail Leggings
+Chainmail Pants
+Chainmail Pixane
+Chainmail Sabatons
+Chainmail Shoulders
+Chainmail Standard
+Chakawary
+Chamon
+Champion Aura
+Champion Aura Explode
+Champion Aura Heal
+Champion Aura Resists
+Champion Aura Shield Allies
+Champion Aura Shield Self
+Champion Aura Slow
+Champion Aura Speed
+Champion Skill Selector
+Chaos 
+Chaos Burst
+Chaos Ember
+Chaos Ember Chip
+Chaos Ember Shard
+Chaos Ember Speck
+Chaotic Rift
+Charge Domination
+Charge Mastery
+Charge Reconstitution
+Charged Bolt
+Charged [ITEM]
+Charm
+Charmer Pants
+Charred Tag
+Chest
+Chest of Kings 
+Chest of Pools
+Chest of Queens 
+Chest of Rivers
+Chest of Tides
+Chest of Wazir 
+Chester
+Chester Copperpot
+Chewie
+Chief's Bow
+Chieftain's Gate
+Chill Tag
+Chillhoof
+Chipped Axe
+Chokehold
+Chop-Chop
+Chromium Bell
+Chunk of Adamant
+Cinder Rod
+Cinderblade
+Cindermage
+Cindermage Elite
+Clamorhelm
+Clamorpants
+Clan Blade
+Clanbreeks
+Claptrap
+Claptrap's Bolt
+Claptrap's Nut
+Cleaver
+Clive
+Clockmaster's Tooth
+Clockwork Armet
+Clockwork Chestplate
+Clockwork Demi-Greaves
+Clockwork Kestrel
+Clockwork Pedestal
+Clockwork Solleret
+Clockwork Spaulders
+Clockwork Sphere
+Clockwork Vambraces
+Clogs of Good Measure
+Closerlook Helm
+Closerlook Mask
+Cloth Armlet
+Cloth Belt
+Cloth Boots
+Cloth Brassard
+Cloth Cap
+Cloth Coif
+Cloth Doublet
+Cloth Gloves
+Cloth Hose
+Cloth Jack
+Cloth Leggings
+Cloth Mittens
+Cloth Mitts
+Cloth Pants
+Cloth Shoes
+Cloth Shoulders
+Cloth Skullcap
+Cloth Slippers
+Cloth Vest
+Clovenhoof
+Clovenhoof Bull
+Clovenhoof Cord
+Clovenhoof Fetish
+Clovenhoof Gloves
+Clovenhoof Helm
+Clovenhoof Loop
+Clovenhoof Mantle
+Clovenhoof Pants
+Clovenhoof Sandals
+Clovenhoof Vest
+Clover Axe
+Club
+Club Hammer
+Clyde
+Coach Gun
+Coat of Good Measure
+Coat of the Hellblazer
+Cobblestone Sword
+Cocooned Zombie
+Cog and Gear Gun
+Cognition Unit
+Coif of the Ember Adventurers
+Coin Purse
+Cold Comfort
+Cold Shoulders
+Cold Steel Mastery
+Cold Tag
+Cold Vengeance
+Cold-Gas Blastgun
+Coldfingers
+Coldheart
+Coldheart Coif
+Coldheart Cuirass
+Collosal Rock Troll
+Colonial Crossbow
+Colonist Aketon
+Colonist Armor
+Colonist Belt
+Colonist Boots
+Colonist Bracers
+Colonist Cap
+Colonist Cowl
+Colonist Footwraps
+Colonist Gambeson
+Colonist Gloves
+Colonist Helm
+Colonist Kegs
+Colonist Leggings
+Colonist Mantle
+Colonist Moccasins
+Colonist Pants
+Colonist Pileus
+Colonist Shoulders
+Colonist Wrist-Straps
+Combat Wrench
+Comet's Tail
+Command Staff
+Command Sword
+Commander Vale
+Commanding [ITEM]
+Companion Amulet
+Companion Badge
+Companion Charm
+Companion Collar
+Companion Harness 
+Companion Neckband
+Companion Talisman
+Compass the Map Seller
+Composite Bow
+Composite Crossbow
+Compound Multibow
+Concentration
+Conjurer Coif
+Construction
+Cookbook
+Cookie
+Cool Hand Dukes
+Cool Tag
+Cooling [ITEM]
+Copper Tablet
+Copper-Bound Cannon
+Coral Hairpin
+Corbucci
+Corbucci's Fame
+Corbucci's Fate
+Corbucci's Fortune
+Core of Fate
+Cornerstone
+Coronet of the Midnight King
+Corpsefire Direwolf
+Corpsefire Huntsman
+Corpsefire Skeleton
+Corpsefire Warrior
+Corpsefire Werewolf
+Corpsefire Wolf
+Corpseleather Gloves
+Corpseleather Mantle
+Corpseleather Robe
+Corpseleather Slippers
+Corrupted Blast
+Corsair's Cutlass
+Corseque
+Coup de Grace
+Coupler Ring
+Coward's Heart
+Coyband
+Crab
+Crab Egg
+Crab King
+Crab Legs
+Cracked Cleaver
+Crackle Tag
+Cracklebolt Tag
+Crackledoom
+Cranequin
+Crankbow
+Cranked Leverbow
+Crate
+Creature Badge
+Creature Neckband
+Creed Axe
+Creeper
+Creepy [ITEM]
+Crescendo
+Crest Shield
+Crest of Pools
+Crest of Rivers
+Crest of Tides
+Crest of the Regent
+Crest of the Warden
+Crested Staff
+Crickmer's Ring of Forever
+Crimson Guard
+Critical Strikes
+Critter Choker
+Critter Cinch
+Critter Stub
+Critter Tag
+Crooked Blade
+Crossbones Bow
+Crossbow
+Crosshawk
+Crow Beak
+Crowbill
+Crown of Taskmaster Tempus
+Crown of the Winter Magus
+Crows Pass
+Crucible Chaps
+Crude Cannon
+Crumbling Archer
+Crumbling Footsoldier
+Crumbling Shrine
+Crushing [ITEM]
+Crypt
+Cryptdrinker
+Cryptkeeper Claymore
+Crystal Mace
+Crystal Protection Challenge
+Crystal Shard
+Crystalline Soul
+Crystalwing Longbow
+Cudgel
+Cudgel Bracers
+Culverin
+Cursed Bandit
+Cursed Bow
+Cursed Catacombs
+Cursed Catacombs Boss
+Cursed Catacombs Map (L48-55)
+Cursed Daggers
+Cursed Mausoleum
+Cursed Mausoleum Boss
+Cursed Mausoleum Map (L66-75)
+Cursed Sword
+Cursed Tombs
+Cursed Tombs Boss
+Cursed Tombs Map (L56-65)
+Curved Broadsword
+Curved Claw
+Cutthroat
+Cyclone
+Cyclopean Lens
+Dagger of Koschei
+Damage Transference
+Damascus Breastplate
+Damascus Burgonet
+Damascus Gauntlets
+Damascus Pauldrons
+Damascus Poleyns
+Damascus Sabatons
+Danger
+Danos
+Dansebelt Macabre
+Dark Ember Beam
+Darkneedle
+Day Five
+Day Four
+Day One
+Day Three
+Day Two
+Day-Trippers
+Day-Walkers
+Daze
+Dead Adventurer
+Dead Ezrohir Infantry
+Dead Vanquisher
+Dead Vanquisher Guard
+Dead Zeraphi Fugitive
+Dead-Eyes Scepter
+Deadbolter
+Deadbone Scepter
+Deadly [ITEM]
+Deadwaker
+Death Mask
+Death Ritual
+Death Spiral
+Death's Bite
+Death's Bounty
+Death's Vantage
+Death's-Head Axe
+Deathcap
+Deathflinger
+Deathlace Ember
+Deathsport
+Decapitator
+Decayed Brute
+Decisive Sanctuary
+Decrepit Chanter
+Deep Red
+Defiled Burrow
+Defiled Burrow Boss
+Defiled Burrow Map (L48-55)
+Defiled Cemetery
+Defiled Cemetery Boss
+Defiled Cemetery Map (L66-75)
+Defiled Graves
+Defiled Graves Boss
+Defiled Graves Map (L56-65)
+Deflecting [ITEM]
+Degrade Armor
+Dela
+Demi-Cannon
+Demi-Culverin
+Demigod
+Demolisher
+Demolishing [ITEM]
+Demonia
+Demoza Skull
+Dervish I
+Dervish II
+Dervish III
+Dervish IV
+Dervish V
+Dervish VI
+Desecrated Burrow
+Desecrated Burrow Boss
+Desecrated Burrow Map (L76-85)
+Desecrated Cemetery
+Desecrated Cemetery Boss
+Desecrated Cemetery Map (L96-100)
+Desecrated Graves
+Desecrated Graves Boss
+Desecrated Graves Map (L86-95)
+Desecrated Sepulcher
+Desecrated Sepulcher Boss
+Desecrated Sepulcher Map (L105)
+Desert Armor
+Desert Belt
+Desert Blackfang
+Desert Boots
+Desert Burrower
+Desert Caves
+Desert Chopper
+Desert Cloak
+Desert Cuirass
+Desert Gauntlets
+Desert Gloves
+Desert Helm
+Desert Keffiyeh
+Desert Mantle
+Desert Panoply
+Desert Pantaloons
+Desert Pants
+Desert Riftsword
+Desert Sandals
+Desert Shoes
+Desert Shoulders
+Desert Trousers
+Desert Turban
+Desert Wrist-Wraps
+DesertBurrowerSpawner
+DesertSpiderSpawner
+Deserted Factory
+Deserted Factory Boss
+Deserted Factory Map (L96-100)
+Deserted Foundry
+Deserted Foundry Boss
+Deserted Foundry Map (L105)
+Deserted Labs
+Deserted Labs Boss
+Deserted Labs Map (L76-85)
+Deserted Workshop
+Deserted Workshop Boss
+Deserted Workshop Map (L86-95)
+Desi
+Desiccated Bowman
+Desiccated Corpse
+Desiccated Warrior
+Desolate Chantry
+Desolate Chantry Boss
+Desolate Chantry Map (L105)
+Desolate Sanctuary
+Desolate Sanctuary Boss
+Desolate Sanctuary Map (L86-95)
+Desolate Shrine
+Desolate Shrine Boss
+Desolate Shrine Map (L76-85)
+Desolate Temple
+Desolate Temple Boss
+Desolate Temple Map (L96-100)
+Destabilize
+Destroyer
+Devastate
+Devil Fish Eye
+Devouring Trap
+Dextrix
+Dezrohir Amulet
+Diamond Sword
+Didgit
+Dilawar
+Dimensional Rift
+Dire Wolf
+Direwolf
+Dirk
+Diseased Snowfang
+Disenchant Scroll
+Dispatch
+Distinguished
+Dizzy
+Doctor Tar
+Dodge Mastery
+Dodie
+Doff
+Dog Boots
+Dogbark
+Dogfish
+Dominion Armor
+Dominion Belt
+Dominion Boots
+Dominion Gloves
+Dominion Helmet
+Dominion Mantle
+Dominion Pants
+Doomquake
+Door
+Door Key
+Dot
+Double Axe
+Double Pole Axe
+Double-Hander
+Double-Headed Axe
+Doublet of the Condemned
+Dragon
+Dragon Bastion
+Dragon Bastion Boss
+Dragon Bastion Map (L105)
+Dragon Citadel
+Dragon Citadel Boss
+Dragon Citadel Map (L96-100)
+Dragon Elemental
+Dragon Keep
+Dragon Keep Boss
+Dragon Keep Map (L76-85)
+Dragon Shrine
+Dragon Shrine Buff
+Dragon Slam
+Dragon Spike
+Dragon Stronghold
+Dragon Stronghold Boss
+Dragon Stronghold Map (L86-95)
+Dragon Talon
+Dragon's Claw
+Dragon's Eye
+Dragon's Fang
+Dragon's Tooth
+Dragonaxe
+Dragonbite
+Dragonclaw Rod
+Dragoncoil
+Dragondoom
+Dragonfang Skewer
+Dragonrift
+Dragonrift Amulet
+Dragonrift Aventail
+Dragonrift Belt
+Dragonrift Cataphract
+Dragonrift Cervelliere
+Dragonrift Gauntlets
+Dragonrift Poleyns
+Dragonrift Ring
+Dragonrift Sabatons
+Dragonsbane
+Dragonskull's Balance
+Dragoon Pistol
+Draining Touch
+Draining Touch I
+Draining Touch II
+Draining Touch III
+Draining Touch IV
+Draining Touch V
+Draining Touch VI
+Draining [ITEM]
+Draketalon Armor
+Draketalon Belt
+Draketalon Boots
+Draketalon Gloves
+Draketalon Helmet
+Draketalon Mantle
+Draketalon Pants
+Dreadjudge
+Drumfed Musket
+Dual Wielding
+Duncaen's Hazel
+Dune Burrower
+Dune Fiend
+Dune Mother
+Dungeon Key
+Duros the Blade
+Dwarf Brute
+Dwarf Crusher
+Dwarf Flamekegger
+Dwarf Ironguard
+Dwarf Ironguard Elite
+Dwarf Pulley Bow
+Dwarfbreaker
+Dwarfking
+Dwarfking Amulet
+Dwarfking Boots
+Dwarfking Chest
+Dwarfking Gauntlets
+Dwarfking Girdle
+Dwarfking Helmet
+Dwarfking Pants
+Dwarfking Ring
+Dwarfking Shoulders
+Dwarfsbane
+Dwarven Armor
+Dwarven Bane-Axe
+Dwarven Barbute
+Dwarven Battle Bomb
+Dwarven Battle Turret
+Dwarven Belt
+Dwarven Bolt Amulet
+Dwarven Bolt Ring
+Dwarven Boots
+Dwarven Bracers
+Dwarven Breastplate
+Dwarven Brogans
+Dwarven Clog-Boots
+Dwarven Cog
+Dwarven Crossbow
+Dwarven Fang Amulet
+Dwarven Fang Ring
+Dwarven Flame Amulet
+Dwarven Flame Ring
+Dwarven Full Greaves
+Dwarven Gearblade
+Dwarven Gloves
+Dwarven Gorget
+Dwarven Helm
+Dwarven Mechanoid
+Dwarven Panoply
+Dwarven Pants
+Dwarven Pauldrons
+Dwarven Rune Cannon
+Dwarven Rune Howitzer
+Dwarven Rune Mortar
+Dwarven Schynbalds
+Dwarven Sentry Heal
+Dwarven Sentry Shield
+Dwarven Sentry Top
+Dwarven Shard Amulet
+Dwarven Shard Ring
+Dwarven Shoulders
+Dwarven Skullpunch
+Dwarven Spangenhelm
+Dwarven Standard
+Dwarven Vambraces
+Dwarven War Club
+Dwarvendoom
+Dynamite
+Dynamo Field
+Dywe
+Earpiercer
+Earsplitter
+Earth's Roar
+Earthen Smash
+Eastern Two-Hander
+Eater of the Dead
+Ebola Syndrome
+Ecclesband
+Echo Pass
+Edgar
+Edged Glove
+Edged Kiteshield
+Editor Dungeon
+Edovar
+Egg
+Eight Gauge
+Eight-Armed Axe
+Elara
+Elder Josimon
+Elder Tauna
+Elder Valin
+Eldrayn
+Electric Amulet
+Electric Barrier
+Electric Barsom
+Electric Branch
+Electric Burst
+Electric Crystal
+Electric Eel
+Electric Ring
+Electric Shield
+Electric-Armored [ITEM]
+Electric-Surge [ITEM]
+ElectricAOE
+Electrical Discharge
+Electro-Spiked [ITEM]
+Elegent  LongBow
+Elemental Attunement
+Elemental Boon
+Elemental Ember
+Elemental Oasis
+Elemental Overload I
+Elemental Overload II
+Elemental Overload III
+Elemental Overload IV
+Elemental Overload V
+Elemental Overload VI
+Elemental Protection I
+Elemental Protection II
+Elemental Protection III
+Elemental Protection IV
+Elemental Protection V
+Elemental Protection VI
+Elemental ice bolt
+Elemental ice shot left
+Elemental ice shot right
+Elixir of Dexterity
+Elixir of Focus
+Elixir of Joy
+Elixir of Strength
+Elixir of Terror
+Elixir of Vitality
+Eloui
+Ember Ammo
+Ember Bolt
+Ember Crook
+Ember Eye Pendant
+Ember Eye Ring
+Ember Field
+Ember Fish Eye
+Ember Hammer
+Ember Lance
+Ember Lightning
+Ember Phase
+Ember Reach
+Ember Sentry
+Ember Shield
+Ember Shock
+Ember Strike
+Ember Wave
+Ember-Headed Club
+Ember-Sights Shotgonne
+Ember-Studded Staff
+Emberbright Cod
+Emberclad Armor
+Emberclad Boots
+Emberclad Breeks
+Emberclad Gloves
+Emberclad Helm
+Emberclad Pauldrons
+Embercraft
+Embercraft Armor
+Embercraft Boots
+Embercraft Foreman
+Embercraft Gloves
+Embercraft Helm
+Embercraft Pantaloons
+Embercraft Pilot
+Embercraft Ring
+Emberheart Armor
+Emberheart Belt
+Emberheart Boots
+Emberheart Breeches
+Emberheart Gauntlets
+Emberheart Helm
+Emberheart Mantle
+Embermage
+Emberphage
+Emberplate Armor
+Emberplate Boots
+Emberplate Breeches
+Emberplate Gloves
+Emberplate Helmet
+Emberplate Spaulders
+Emberquake
+Embershard Amulet
+Embershard Ring
+Emberstud Belt
+Emberweave
+Emberweave Amulet
+Emberweave Armor
+Emberweave Boots
+Emberweave Gloves
+Emberweave Helm
+Emberweave Pants
+Emberweave Ring
+Emberweave Shoulders
+Eminent
+Empire Sword
+Empty Egg Container
+EnchantShrine
+Enchanted Component
+Enchanter's Amulet
+Encrusted Hulk
+Endgame
+Endless Adventure
+Energizing [ITEM]
+Engineer
+Engineer Wrench
+Engulfing Flame Bot
+Engulfing [ITEM]
+Enslaved
+Enter Dungeon
+Enter the Emberworks
+Entropic Aura
+Envoy Daphia
+Eon Shank
+Epaulettes of Elevation
+Epic Collar
+Epic Stud
+Equalizer
+Eria
+Escutcheon
+Estheria
+Estherian Amice
+Estherian Baldric
+Estherian Belt
+Estherian Bolt Amulet
+Estherian Bolt Ring
+Estherian Boots
+Estherian Bracers
+Estherian Cassock
+Estherian Cloth Sandals
+Estherian Depths
+Estherian Depths Map (L48-55)
+Estherian Enclave
+Estherian Fang Amulet
+Estherian Fang Ring
+Estherian Flame Amulet
+Estherian Flame Ring
+Estherian Gloves
+Estherian Headdress
+Estherian Helmet
+Estherian Hippe
+Estherian Manablade
+Estherian Mantle
+Estherian Mitre
+Estherian Pants
+Estherian Robe
+Estherian Sandals
+Estherian Shade
+Estherian Shadewisp
+Estherian Shard Amulet
+Estherian Shard Ring
+Estherian Shoulders
+Estherian Shrine
+Estherian Spectre
+Estherian Tunic
+Estherian Vest
+Estherian Warhammer
+Estherian Wrist-Guards
+Evade
+Even More Inferior Boots
+Everfrost Gauntlets
+Everfrost Mantle
+Eviscerate
+Eviscerate2
+Exalted
+Executioner
+Executioner's Blade
+Exile Arm-Guards
+Exile Armor
+Exile Bracers
+Exit Dungeon
+Exit Portal
+Exorcist
+Exorcist Amulet
+Exorcist Armor
+Exorcist Belt
+Exorcist Boots
+Exorcist Gloves
+Exorcist Helm
+Exorcist Mantle
+Exorcist Pants
+Exorcist Ring
+Experimental Chainsword
+Explode
+Exploding Crystal
+Explorer Armor
+Explorer Belt
+Explorer Boots
+Explorer Breeches
+Explorer Brogans
+Explorer Buff Coat
+Explorer Capeline
+Explorer Cloak
+Explorer Glovelettes
+Explorer Gloves
+Explorer Hand-Wraps
+Explorer Helm
+Explorer Longcoat
+Explorer Mantelet
+Explorer Pants
+Explorer Shoes
+Explorer Shoulders
+Explorer Skullcap
+Explorer Trousers
+Explosion
+Explosive Shot
+Eye Socket
+Eye of the Storm
+Eziro Skull
+Ezrek Khan
+Ezrohir
+Ezrohir Ascendant
+Ezrohir Assassin
+Ezrohir Belt
+Ezrohir Boots
+Ezrohir Bracers
+Ezrohir Breeks
+Ezrohir Brigandine
+Ezrohir Brute
+Ezrohir Caligae
+Ezrohir Carrion Axe
+Ezrohir Clogs
+Ezrohir Commons
+Ezrohir Commons Boss
+Ezrohir Commons Map (L86-95)
+Ezrohir Crossbow
+Ezrohir Elite
+Ezrohir Epaulettes
+Ezrohir Field Axe
+Ezrohir Gauntlets
+Ezrohir Gloves
+Ezrohir Halls
+Ezrohir Halls Boss
+Ezrohir Halls Map (L76-85)
+Ezrohir Heirloom Axe
+Ezrohir Hood
+Ezrohir Infantry
+Ezrohir Keffiyeh
+Ezrohir Marksman
+Ezrohir Nomad
+Ezrohir Pantaloons
+Ezrohir Pants
+Ezrohir Pauldrons
+Ezrohir Pistolier
+Ezrohir Ring
+Ezrohir Shadowmaster
+Ezrohir Shemagh
+Ezrohir Shieldbearer
+Ezrohir Shockwielder
+Ezrohir Shoulders
+Ezrohir Slaughtersword
+Ezrohir Snatcher
+Ezrohir Standard
+Ezrohir Treasury
+Ezrohir Treasury Boss
+Ezrohir Treasury Map (L105)
+Ezrohir Tunic
+Ezrohir Vault
+Ezrohir Vault Boss
+Ezrohir Vault Map (L96-100)
+Ezrohir Vest
+Ezrohir Winchbow
+Fabled
+Fade
+Fade's Passage
+Fael's Heart
+Falchion
+Falcon
+Falcon's Grasp
+Falcon's Reach
+Falconet
+Falcor
+Fallen Guardian
+Fallen Warrior
+Famous
+Fang Rod
+Fanged [ITEM]
+Farmer's Greatclub
+Farmer's Shotgonne
+Farquez the Assassin
+Fauchard
+Fazeer Shah
+Fazeer Shah 
+Feasting [ITEM]
+Felicia
+Fell Acolyte
+Fellaxe
+Felling Axe
+Felwalker
+Felwalker Axethrower
+Fendix Skull
+Feral
+Feral Armor
+Feral Badge
+Feral Charm
+Feral Collar
+Feral Gloves
+Feral Helm
+Feral Neckband
+Feral Ring
+Ferret
+Fetish
+Fever Tag
+Feyweald Coldblade
+Field Greatsword
+Fiendfinder
+Fiery Mine
+Fiery [ITEM]
+Fighting Staff
+Fighting Sword
+Filip the Lucky
+Filthy Mitts
+Fine-Crafted Cuirass
+Fine-Crafted Gauntlets
+Fine-Crafted Greaves
+Fine-Crafted Pauldrons
+Fine-Crafted Sallet
+Fine-Crafted Tassets
+Fine-Thread Beret
+Fine-Thread Brigandine
+Fine-Thread Epaulettes
+Fine-Thread Gaiters
+Fine-Thread Gauntlets
+Fine-Thread Trousers
+Fingerbone Eye
+Finnas
+Fiona
+Fire Amulet
+Fire Barrier
+Fire Barsom
+Fire Bash
+Fire Bolt
+Fire Branch
+Fire Brand
+Fire Brand Proc
+Fire Burst
+Fire Crystal
+Fire Elemental
+Fire Grenade
+Fire Nova
+Fire Ring
+Fire Scepter
+Fire Shield
+Fire Storm
+Fire Wand
+Fire and Spark
+Fire-Armored [ITEM]
+Fire-Spiked [ITEM]
+Fire-Surge [ITEM]
+Fireball
+Fireball I
+Fireball II
+Fireball III
+Fireball IV
+Fireball V
+Fireball VI
+Firebelly
+Firebombs
+Firebox Belt
+Firebox Pendant
+Firebox Ring
+Firedrake
+Firefish
+Firestorm
+Firewall
+Firewood
+Fishermans Lantern
+Fishing Hole
+Fission Core
+Fist Axe
+Fist Bullet
+Fist Hooks
+Fist of Fear
+Fists of Fury
+Five Dragons Falconet
+Fjord Axe
+Flambard
+Flame
+Flame Bot
+Flame Ember
+Flame Ember Chip
+Flame Ember Shard
+Flame Ember Speck
+Flame Hammer
+Flame Shard
+Flame Tag
+Flame Trap
+FlameTrap
+Flameweaver
+Flameweaver Champion
+Flameweaver Lieutenant
+Flaming Flask
+Flaming Glaives
+Flaming Sword
+Flammard
+Flammenschwert
+Flanged Iron Star
+Flanged Mace
+Flanged Steel Mace
+Flare
+Flare Tag
+Flash Bang Grenade
+Flayed One
+Flechette Trap
+Fleet Cannon
+Fleshbound Tome
+Flesheater
+Fleshrender
+Flint Axe
+Flintlock Pistol
+Flintlock Shotgonne
+Flying Buttress Pixane
+Flying Fish
+Focusing [ITEM]
+Foe's Collapse
+Foe's Lament
+Foefinder
+Folk Hero
+Fondo the Master
+Footman's Mace
+Force Grenade
+Forcefield
+Foreman Siegfried
+Forest Armor
+Forest Belt
+Forest Blackfang
+Forest Boots
+Forest Bracers
+Forest Breeches
+Forest Brigandine
+Forest Cap
+Forest Cloak
+Forest Gargoyle
+Forest Gauntlets
+Forest Gloves
+Forest Helm
+Forest Jack o' Plates
+Forest Mantle
+Forest Moccasins
+Forest Pants
+Forest Shortbow
+Forest Shoulders
+Forest Skullcap
+Forest Trousers
+Forest Turn-Shoes
+Forgecrafted
+Forgecrafted Boots
+Forgecrafted Gloves
+Forgecrafted Helm
+Forgecrafted Ring
+Forgecrafted Tunic
+Forged Breastplate
+Forged Burgonet
+Forged Gauntlets
+Forged Pauldrons
+Forged Poleyns
+Forged Sabatons
+Forgotten Chest
+Forgotten Factory
+Forgotten Factory Boss
+Forgotten Factory Map (L66-75)
+Forgotten Halls
+Forgotten Labs
+Forgotten Labs Boss
+Forgotten Labs Map (L48-55)
+Forgotten Workshop
+Forgotten Workshop Boss
+Forgotten Workshop Map (L56-65)
+Forked Staff
+Formal Beret
+Formal Brigandine
+Formal Epaulettes
+Formal Gaiters
+Formal Gauntlets
+Formal Regent Amulet
+Formal Regent Crown
+Formal Regent Gloves
+Formal Regent Mantle
+Formal Regent Pants
+Formal Regent Sash
+Formal Regent Shoes
+Formal Regent Signet
+Formal Regent Vest
+Formal Trousers
+Formal Voulge
+Forsaken Vessel
+Fortified  [ITEM]
+Fortified [ITEM]
+Fortress of Fools
+Foul Cave of Shadows
+Foul Tag
+Foundation Boots
+Four Sided Triangle
+Four of the Apocalypse
+Four-Bearded Axe
+Four-Bones Crossbow
+Four-Gauge Heavy Rifle
+Foursquare Gun
+Fractured Nexus
+Fragmentos
+Frailty
+Fraxl's Astrolabe
+Fraxl's Star
+Freezing [ITEM]
+Frenzy
+Frenzy Fish
+Frenzy Mastery
+Frightening [ITEM]
+Frigid Tag
+Frog
+Front-Loading Revolver
+Frost
+Frost Breath
+Frost I
+Frost II
+Frost III
+Frost IV
+Frost Phase
+Frost Pilum
+Frost Screecher
+Frost Screecher Alpha
+Frost Shield
+Frost Tag
+Frost Tide
+Frost V
+Frost VI
+Frost Wave
+Frost Wolf
+Frostbite
+Frostbite Tag
+Frostbitten Caverns
+Frostbitten Caverns Boss
+Frostbitten Caverns Map (L48-55)
+Frostbitten Chasm
+Frostbitten Chasm Boss
+Frostbitten Chasm Map (L66-75)
+Frostbitten Ravine
+Frostbitten Ravine Boss
+Frostbitten Ravine Map (L56-65)
+Frosted Hills
+Frostfang
+Frostling
+Frostshorn Breach
+Frostshorn Breach Boss
+Frostshorn Breach Map (L105)
+Frostshorn Caverns
+Frostshorn Caverns Boss
+Frostshorn Caverns Map (L76-85)
+Frostshorn Chasm
+Frostshorn Chasm Boss
+Frostshorn Chasm Map (L96-100)
+Frostshorn Ravine
+Frostshorn Ravine Boss
+Frostshorn Ravine Map (L86-95)
+Frostweaver Champion
+Frozen
+Frozen Caves
+Frozen Fate
+Frozen Soul Proc
+Frozen Tag
+Frozen [ITEM]
+Fulcrum Bow
+Full Charge
+Full-Bore Falconet
+Full-Bore Saker
+Full-Bore Skull-Bore
+Full-Staff
+Full-borel Bombard
+Fully Heal Self
+Fulmentag
+Fungal Caves
+Fungal Doom
+Fungal Spore
+Fungal Vent
+Fungus Amongus
+Furl the Gem Smasher
+Furs of Fury
+Fused Iron Gloves
+Fused Iron Wrench
+Fusillade
+Gabe
+Gaint Bonefish
+Galaxy Quest
+Gallus Medallus
+Galvanic Flyer
+Gambler's Holdout Pistol
+Gambler's Pistol
+Game Voulge
+Gar
+Garbahd the Enchanter
+Garden Of Tears
+Gargoyle's Crank
+Gaseous Shambler
+Gastraphetes
+Gate
+Gate Key
+Gatecrasher
+Gauntlets of Clan Bloodhand
+Gauntlets of Killious the Troll-Slayer
+Gauntlets of True North
+Gauntlets of Workings
+Gauntlets of the Cindermen
+Gauntlets of the North Wind
+Gauntlets of the Tick-Tock Duke
+Gear Bow
+Gear-Monkey Wrench
+Gearbladed Grindsaw
+Gearcrow
+Gearmaster's Gauntlets
+Gearspring Girdle
+Gearspring Ring
+Gem-Studded Collar
+Gem-Studded Wand
+General Bain
+General Gnash
+General Grell
+General Grell's Command
+General Grell's Doomhelm
+General Grell's Headpiece
+General Grell's Hornhelm
+Geodetic Ring
+Ghastly
+Ghastly Boots
+Ghastly Crypt
+Ghastly Crypt Boss
+Ghastly Crypt Map (L56-65)
+Ghastly Gloves
+Ghastly Mortuary
+Ghastly Mortuary Boss
+Ghastly Mortuary Map (L66-75)
+Ghastly Shoulders
+Ghastly Vault
+Ghastly Vault Boss
+Ghastly Vault Map (L48-55)
+Ghostband
+Ghostfang
+Ghosts of Plunder Cove
+Ghoul
+Giant Blood Ember
+Giant Bog Perch
+Giant Chaos Ember
+Giant Chest
+Giant Crab Egg
+Giant Egg
+Giant Electric Eel
+Giant Firefish
+Giant Flame Ember
+Giant Flying Fish
+Giant Health Potion
+Giant Ice Angel
+Giant Ice Ember
+Giant Iron Ember
+Giant Jackal Bass
+Giant Largemouth Bass
+Giant Mana Potion
+Giant Maul
+Giant Rejuvenation Potion
+Giant Spark Ember
+Giant Tunnel Shark
+Giant Venom Ember
+Giant Venomfish
+Giant Void Ember
+Giant Warsnout
+Giant Web Fish
+Gibson's Ring of Forever
+Gilded Hammerhead
+Ginger
+Girdle of Flambeaux
+Girdle of Howling Fury
+Girdle of Measure
+Girdle of Savage Frenzy
+Girdle of the Arch-Magus
+Glacial Shatter
+Glacial Spike
+Gladius
+Glaive Sweep
+Glaive Throw
+Glamer-Gloves
+Gleamfire
+Gleaming Ember
+Glimmerdoom
+Glitterdoom
+Gloomband
+Gloomcircle
+Gloomgirdle
+Gloomring
+Glorious
+Gloves of Urban Planning
+Gloves of the Ebon Magister
+Gloves of the Ember Adventurers
+Gloves of the Far Reaches
+Gloves of the Golden Dawn
+Glow-Crystal Wand
+Glowing Automaton Power Source
+Glowing Wand
+Glowshark
+Glyph Shield
+Glyph of Direction
+Glyph of Movement
+Glyph of Turning
+Glyphforge
+Gnasher Rotslaver
+Goat Head Wand
+Goblin Archer
+Goblin Chief
+Goblin Crown
+Goblin Crystal
+Goblin Culverin
+Goblin Darkcaster
+Goblin Demolitionist
+Goblin Foreman
+Goblin Hand Cannon
+Goblin Mortar
+Goblin Sack
+Goblin Slasher
+Goblin Spellbinder
+Goblin Totem
+Goblin Twistblade
+Goblin Warden
+Goblin Warrior
+Goblin Worker
+Goblin-Splitter
+Goblinskewer
+Gold
+Gold Explosion
+Gold Fish
+Gold Sword
+Gold Wisp
+Gold-Bearded Chopper
+Goldbrittle Boneshield
+Golden Bow
+Golden Chest
+Golden Crab
+Golden Gear
+Golden Key
+Golden Lantern
+Golden Sickle
+Golden Torc
+Golden Trobet
+Goldwing Longbow
+Golem Soul
+Gorget of the Hill Giant Chief
+Gorn the Gem Saver
+Gouging Axe
+Gourd
+Graceful Longbow
+Grand Architect Amulet
+Grand Architect Boots
+Grand Architect Gloves
+Grand Architect Helm
+Grand Architect Pants
+Grand Architect Shoulders
+Grand Architect Tunic
+Grand Health Potion
+Grand Illusion 
+Grand Mana Potion
+Grand Regent Eldrayn
+Grand Rejuvenation Potion
+Grand Wazir Amulet
+Grand Wazir Armor
+Grand Wazir Belt
+Grand Wazir Boots
+Grand Wazir Drape
+Grand Wazir Gloves
+Grand Wazir Helm
+Grand Wazir Pants
+Grand Wazir Ring
+Grandaxe
+Grandstanders
+Granite Armor
+Granite Belt
+Granite Boots
+Granite Cleaver
+Granite Gloves
+Granite Helm
+Granite Mantle
+Granite Pants
+Granite Ring
+Granite Sledge
+Granite Talisman
+Grapilio Skull
+Grasp's Adjunct
+Grasping [ITEM]
+Grave Digger
+Grave Robber
+Graveyard Maul
+Graveyard of Honor
+Gravity Well
+Gray Sky Omen
+Grease-Spattered Smock
+Great Maul
+Great-Razor
+Great-Staff
+Greataxe
+Greatblade
+Greatclub
+Greathammer
+Greatsledge
+Greatstar
+Greatsword
+Greaves of Striding
+Greaves of the Tick-Tock Guard
+Green Basilisk Eye
+Green Flame Amulet
+Green Flame Ring
+Green Forest Amulet
+Green Forest Ring
+Green Mountain Amulet
+Green Mountain Ring
+Green Shard Amulet
+Green Shard Ring
+Green Vanquisher Amulet
+Green Vanquisher Ring
+Greezo the Enchanter
+Grell's Arsenal
+Grell's Left Fist
+Grell's Missing Sidearm
+Grell's Personal Signet
+Grell's Right Fist
+Grell's Shocking Reach
+Grell's Stone Maul
+Grell's Toxic Reach
+Grell's Trusty Sidearm
+Gretsch
+Grim Flayer
+Grimbone Wand
+Grimoire of Death
+Grimy Work-Brogans
+Grimy Work-Gloves
+Grimy Work-Pants
+Grimy Work-Plates
+Grimy Work-Tunic
+Grizzled Alpha
+Grizzled Were
+Grom the Murderer
+Grom's Arena
+Grom's Fireblade
+Grounded [ITEM]
+Gruefish
+Grundig's Bastion
+Grundig's Chestplate
+Grundig's Pants
+Grundig's Roundshield
+Grunnheim Lock-Staff
+Guardian Of Air
+Guardian Of Mana
+Guardian Of Water
+Guardian Of the Wild
+Guardian of Kings
+Guardian of Mana
+Guardian of Queens
+Guardian of Wariz
+Guardian of the Wild
+Guisarme
+Gun Bot
+Gunnbren
+Gunpowder Culverin
+Gut Punch
+Gyrestaff
+Gyrostoic Boots
+Hack-Chop
+Hack-Hack
+Hacker
+Hailstorm
+Halberd
+Haldar Bladebow
+Haldar Handblade
+Half Guisarme
+Half-Moon Axe
+Hammer
+Hammer Axe
+Hammer Mace
+Hammer of Consecration
+Hammer of Official Rebuke
+Hammer of Retribution
+Hammer of Weyland
+Hammer of the Ecclesiasts
+Hammerhead Maul
+Hamstring
+Hand Axe
+Hand Bombard
+Hand Cannon
+Hand Scythe
+Hand-and-a-Half Sword
+Hands of Orlac
+Harbinger
+Harbinger Ailettes
+Harbinger Badge
+Harbinger Belt
+Harbinger Breeches
+Harbinger Gauntlets
+Harbinger Helmet
+Harbinger Mailshirt
+Harbinger Ring
+Harbinger Shoes
+Hareph
+Hartnellicon
+Haste I
+Haste II
+Haste III
+Haste IV
+Haste V
+Haste VI
+Hasty [ITEM]
+Hatch's Portal
+Hatchet
+Haunt
+Haunted Quarter
+Hawk
+Hawk Blade
+Hawkn's Jack
+Hawkneedle
+Headcrab
+Headhunter
+Headless Axeman
+Headless Shrieker
+Headsman's Axe
+Headsman's Blade
+Heal All I
+Heal All II
+Heal All III
+Heal All IV
+Heal All V
+Heal All VI
+Heal All for Pet
+Heal Self I
+Heal Self II
+Heal Self III
+Heal Self IV
+Heal Self V
+Heal Self VI
+Healing Bot
+Healing Shrine
+Health Potion
+Healthy [ITEM]
+Heart of Glass
+Heart of the Fire-Eater
+Heart of the Ignivore
+Heart of the Pyrophage
+Heartbiter
+Heartbreaker
+Heartfire
+Hearth Tag
+Heartpiercer
+Heartsalve
+Heartwood Bow
+Heat-Forged Apron
+Heater
+Heatwave Tag
+Heavy Crossbow
+Heavy Lifting
+Heavy Metal Bracers
+Heavy Metal Helmet
+Heavy Metal Shoulders
+Heavy Metal Toolcoat
+Heavy Pistol
+Heavy Shield
+Heavy Shotgonne
+Heavy Sword
+Heavyhands
+Hellfire Club
+Hellneedle Staff
+Helm of Good Measure
+Helm of Lamentations
+Helm of Silenced Screams
+Helm of the Cindermen
+Helm of the Edition Wars
+Helm of the Faceless Railman
+Helm of the Grimknight
+Helm of the Laughing Vagabond
+Helm of the North Wind
+Helm of the Tick-Tock Prince
+Helm of the Wastes
+Helmcracker
+Helmsplitter
+Hemp-Cord Arbalest
+Hess
+Hewer
+Hex Deck
+Hexencharm
+Hexengirdle
+Hexenjaeger Bracers
+Hexenjaeger Helm
+Hexenjaeger Jacket
+Hexenjaeger Mantle
+Hexenjaeger Pants
+Hexenjaeger Shoes
+Hexenring
+Hexing Staff
+Hide
+Hidepiercer
+High Priest Tauna
+High Wizard's Brigandine
+High Wizard's Brogans
+High Wizard's Helmet
+High-Gear Gauntlets
+Highridge
+Highridge Armor
+Highridge Belt
+Highridge Boots
+Highridge Gloves
+Highridge Helmet
+Highridge Pants
+Highridge Ring
+Highridge Shoulders
+Highridge Talisman
+Hill Giant Blade
+Hippe
+Hog Hammer
+Hokobo Skull
+Holocaust Tag
+Homesteader Aketon
+Homesteader Armor
+Homesteader Belt
+Homesteader Boots
+Homesteader Breeches
+Homesteader Brogans
+Homesteader Cloak
+Homesteader Coif
+Homesteader Gambeson
+Homesteader Glovelettes
+Homesteader Gloves
+Homesteader Hand-Wraps
+Homesteader Helm
+Homesteader Mantelet
+Homesteader Pants
+Homesteader Shoes
+Homesteader Shoulders
+Homesteader Skullcap
+Homesteader Trousers
+Honest Abe
+Honored
+Hood of the Golden Dawn
+Hook-Billed Chopper
+Hooked Scythe
+Hoplon
+Horn
+Horn-Prod Crossbow
+Horse
+Horseman's Pick
+Hose of the Ebon Magister
+Hoska
+Hot Vengeance
+House Carl Clogs
+House Carl Coat
+House Carl Pants
+Howdah Pistol
+Howitzer
+Howl
+Howling Cave
+Huge Blood Ember
+Huge Chaos Ember
+Huge Flame Ember
+Huge Health Potion
+Huge Ice Ember
+Huge Iron Ember
+Huge Mana Potion
+Huge Rejuvenation Potion
+Huge Spark Ember
+Huge Venom Ember
+Huge Void Ember
+Hulking Slasher
+Hunter
+Hunter's Shotgonne
+Hunting Bow
+Hunting Crossbow
+Hunting Pistol
+Huntsman's Bow
+Hyne's Girdle
+Hyperbeam
+Hyue
+Ice Amulet
+Ice Angel
+Ice Barrier
+Ice Brand
+Ice Brand Proc
+Ice Burst
+Ice Crystal
+Ice Elemental
+Ice Ember
+Ice Ember Chip
+Ice Ember Shard
+Ice Ember Speck
+Ice Gel
+Ice Labs
+Ice Manifestation
+Ice Mines
+Ice Pillar
+Ice Prison
+Ice Ring
+Ice Scepter
+Ice Shield
+Ice Squall
+Ice Wand
+Ice-Armored [ITEM]
+Ice-Crystal Wand
+Ice-Heart
+Ice-Spiked [ITEM]
+Ice-Surge [ITEM]
+Iceberg
+Iceburn Focus
+Icedeep Caverns
+Icefeather Longbow
+Iceshard Dominator
+Iceshield
+Iceshock
+Ichor Pod
+Icy Blast
+Icy Hands of Death
+Icy Mantle
+Icy Tag
+Icy [ITEM]
+Identify Item
+Identify Scroll
+Identify Spell
+Illustrious
+Imaginary
+Imaginary Fish
+Immobilization Bot
+Immobilization Copter
+Immolation Aura
+Immortal
+Imperial Armor
+Imperial Autocannon
+Imperial Battle Sword
+Imperial Battle-Cannon
+Imperial Belt
+Imperial Bolt Amulet
+Imperial Bolt Ring
+Imperial Bombard
+Imperial Boots
+Imperial Camp
+Imperial Crossbow
+Imperial Fang Amulet
+Imperial Fang Ring
+Imperial Flame Amulet
+Imperial Flame Ring
+Imperial Gloves
+Imperial Helm
+Imperial Pants
+Imperial Peacekeeper
+Imperial Railmaster
+Imperial Scorpion
+Imperial Scutum
+Imperial Shard Amulet
+Imperial Shard Ring
+Imperial Shoulders
+Imperial Smoothbore
+Imperial Strongbow
+Imperial Trapper
+Imperial Trench-Rifle
+Improbably Large Fish
+Impulse
+Incantus Arm-Guards
+Incantus Coif
+Incubus
+Incubus Armor
+Incubus Belt
+Incubus Boots
+Incubus Gloves
+Incubus Helm
+Incubus Pants
+Incubus Shoulders
+Industrium #37 Spear
+Industrium Crossbow
+Industrium Heavy Pistol
+Industrium Master-Bow
+Industrium Sear-Sword
+Indy
+Inert Staff
+Infantry Axe
+Infantry Sword
+Infected Depths
+Infected Depths Boss
+Infected Depths Map (L66-75)
+Infected Hollow
+Infected Hollow Boss
+Infected Hollow Map (L48-55)
+Infected Retreat
+Infected Retreat Boss
+Infected Retreat Map (L56-65)
+Infected Warbeast
+Inferior Boots
+Infernal Catacombs
+Infernal Catacombs Boss
+Infernal Catacombs Map (L76-85)
+Infernal Collapse
+Infernal Eye
+Infernal Mausoleum
+Infernal Mausoleum Map (L96-100)
+Infernal Necropolis
+Infernal Necropolis Boss
+Infernal Necropolis Map (L105)
+Infernal One
+Infernal Tombs
+Infernal Tombs Boss
+Infernal Tombs Map (L86-95)
+Inferno
+Inferno Tag
+Infested Skull
+Infuse
+Initiate Matchlock
+Injured Commando
+Inlayed Cuirass
+Inlayed Gauntlets
+Inlayed Greaves
+Inlayed Pauldrons
+Inlayed Sallet
+Inlayed Tassets
+Inquisitor
+Inquisitor Amulet
+Inquisitor Belt
+Inquisitor Beret
+Inquisitor Brigandine
+Inquisitor Epaulettes
+Inquisitor Gaiters
+Inquisitor Gauntlets
+Inquisitor Handaxe
+Inquisitor Ring
+Inquisitor Trousers
+Into the Dark
+Intractable [ITEM]
+Intro
+Invigorating [ITEM]
+Invincible
+Invoking [ITEM]
+Iridian Focus
+Iron Armor
+Iron Axe
+Iron Bardiche
+Iron Belt
+Iron Boots
+Iron Bow
+Iron Breastplate
+Iron Burgonet
+Iron Corslet
+Iron Ember
+Iron Ember Chip
+Iron Ember Shard
+Iron Ember Speck
+Iron Fellaxe
+Iron Gauntlets
+Iron Gloves
+Iron Greaves
+Iron Hammer
+Iron Helm
+Iron Kite
+Iron Mace
+Iron Pants
+Iron Pauldrons
+Iron Poleyns
+Iron Sabatons
+Iron Sallet
+Iron Shoulders
+Iron Sollerets
+Iron Spaulders
+Iron Star
+Iron Sword
+Iron Towershield
+Iron Vambraces
+Iron Windlass
+Iron-Blade Greataxe
+Iron-Bore Revolver
+Iron-Fork Staff
+Iron-Prod Crossbow
+Iron-Rim Shield
+Iron-Wing Staff
+Ironblade Claw
+Ironblock Greathammer
+Ironclaw
+Ironlord
+Ironmail Cataphract
+Ironmail Cervelliere
+Ironmail Gauntlets
+Ironmail Pants
+Ironmail Sabatons
+Ironmail Standard
+Ironorb Shocker
+Ironplank Woodspike
+Ironshard Sledge
+Ironside Buckler
+Ironstar
+Ironwood Thorns
+Ironwrought Cataphract
+Ironwrought Cervelliere
+Ironwrought Gauntlets
+Ironwrought Pants
+Ironwrought Sabatons
+Ironwrought Standard
+Ismeldan Skull
+Ivory-Handled Revolver
+Jackal Bass
+Jackalbeast
+Jackboots of Fortune
+Jacket of Savage Fury
+Jacket of Smoldering Rage
+Jacket of Sodalis
+Jade Falcon
+Jade Goblet
+Jade Hache
+Jade Sovnya
+Jade Spear
+Jadok
+Jagged Axe
+Jagged Fist
+Jagged Handblade
+Jagtooth Hardaxe
+Jana the Merchant
+Janissary
+Janissary Amulet
+Janissary Belt
+Janissary Boots
+Janissary Bracers
+Janissary Breeks
+Janissary Brigandine
+Janissary Brogans
+Janissary Capotain
+Janissary Epaulettes
+Janissary Gauntlets
+Janissary Gloves
+Janissary Greaves
+Janissary Headdress
+Janissary Hood
+Janissary Pantaloons
+Janissary Pants
+Janissary Pauldrons
+Janissary Ring
+Janissary Shoulders
+Janissary Tunic
+Janissary Vest
+Janos
+Jarlsbelt
+Jasha
+Jasha the Sly
+Jawbone Maul
+Jawbreaker
+Jeddart Glaive
+Jehannum
+Jendenny Skull
+Jerich's Ring of Elements
+Jerich's Vest
+Jessa
+Jessa's Locket
+Jeweled Collar
+Jeweled Idol
+Jeweled Scepter
+Jolt Tag
+Jonas
+Joyous
+Juiced [ITEM]
+Juniper Zill
+Jurick the Socketer
+Justacorps of the Bamboo Bandit
+Juthama Kasam
+Kaleidoscope Pearl
+Karkozi the All-Powerful
+Karz's  Gauntlets
+Karz's Armor
+Karz's Boots
+Karz's Leggings
+Karz's Mantle
+Karzenbreeks
+Karzenhelm
+Kelton's Rock
+Khopesh
+Kicks of the Doom God
+Kidney Dagger
+Kidrik the Mauler
+Killian's Boots
+Killseeker
+Killswitch
+Kilt of Ire
+Kindle
+King Ice Gel
+King Mob's Crown
+King Pogg
+King Tar
+King's Mail Armor
+King's Mail Aventail
+King's Mail Boots
+King's Mail Camail
+King's Mail Cataphract
+King's Mail Cervelliere 
+King's Mail Chausses
+King's Mail Coat
+King's Mail Coif
+King's Mail Fists
+King's Mail Gauntlets
+King's Mail Gloves
+King's Mail Helm
+King's Mail Leggings
+King's Mail Pants
+King's Mail Poleyns
+King's Mail Sabatons
+King's Mail Shoulders
+King's Mask
+King's mail Belt
+Kite Shield
+Knock-Out Punch
+Knuckle Dusters
+Knucklehooks
+Knucks
+Kona
+Kontos Fauchard
+Korari Cave
+Korox Skull
+Korto
+Kotic
+Kriegsmacher's Patented Pocket Gun
+Kriegsmacher's Revolutionary Revolver
+Kriegsmacher's Superior Sidearm
+Ku'leth
+Kubrick
+Kwat Pai Belt
+Labarinto
+Labarinto Amulet
+Labarinto Armor
+Labarinto Boots
+Labarinto Gloves
+Labarinto Helm
+Labarinto Pants
+Labarinto Shoulders
+Labrys
+Labyrinthine Device
+Labyrinthine Map
+Lady
+Lady Rachel's Amulet
+Lady Vengeance 
+Lair of the Manticore
+Lair of the Sisters
+Lamarr
+Laminated Ailettes
+Laminated Armor
+Laminated Belt
+Laminated Boots
+Laminated Chaps
+Laminated Corslet
+Laminated Cuirass
+Laminated Fists
+Laminated Gauntlets
+Laminated Gloves
+Laminated Greaves
+Laminated Helm
+Laminated Leggings
+Laminated Pants
+Laminated Sallet
+Laminated Schynbalds
+Laminated Shoulders
+Laminated Skull-Cap
+Laminated Spaulders
+Lamp of Marvels
+Lamp of Wonders
+Land Chewer
+Lantern
+Lapis Music Box
+Large Blood Ember
+Large Chaos Ember
+Large Crystal
+Large Flame Ember
+Large Ice Ember
+Large Iron Ember
+Large Spark Ember
+Large Venom Ember
+Large Void Ember
+Largemouth Bass
+Last Will of the Green Warden
+Latchkey Ember
+Laughing Bow
+Lead-Spitting Cobra
+Leadthrower
+Leather Armor
+Leather Belt
+Leather Boots
+Leather Breeches
+Leather Cap
+Leather Collar
+Leather Corslet
+Leather Cowl
+Leather Cuirass
+Leather Fists
+Leather Gauntlets
+Leather Gloves
+Leather Helm
+Leather Infantry Boots
+Leather Mantle
+Leather Military Boots
+Leather Pants
+Leather Shoulders
+Leather Skull-Cap
+Leather Trousers
+Leave Area
+Legendary
+Leggings of Laughing Shadows
+Legion Sword
+Legion's Embrace
+Legionnaire Ailettes
+Legionnaire Armor
+Legionnaire Belt
+Legionnaire Boots
+Legionnaire Bracers
+Legionnaire Burgonet
+Legionnaire Cataphract
+Legionnaire Gauntlets
+Legionnaire Gloves
+Legionnaire Greaves
+Legionnaire Helm
+Legionnaire Helmet
+Legionnaire Kilt
+Legionnaire Mailcoat
+Legionnaire Pants
+Legionnaire Schynbalds
+Legionnaire Shoulders
+Legionnaire Spaulders
+Legionnaire Tassets
+Leone
+Leone's Fancy Footshoes
+Leone's Fancy Pants
+Leone's Masterpiece
+Lessons of Darkness
+Lever
+Lever-Action Crossbow
+Levergun
+Leviathan Tooth
+Leyline
+Leyline Regen
+Liberating [ITEM]
+Liberation
+Liberation Armor
+Liberation Boots
+Liberation Gloves
+Liberation Helm
+Liberation Ring
+Libram ex Mortis
+Lichlore
+Lifebreaker
+Lifeleech
+Lifesbane
+Lifespring Sniper
+Light
+Light Belt
+Light Boots
+Light Bracers
+Light Breeches
+Light Cap
+Light Cloak
+Light Coif
+Light Cowl
+Light Gauntlets
+Light Gloves
+Light Hood
+Light Infantry Boots
+Light Jack
+Light Jacket
+Light Mantle
+Light Military Boots
+Light Pants
+Light Trousers
+Light Tunic
+Lightfoot Shoes
+Lightning
+Lightning Bolter
+Lightning Bomb
+Lightning Brand
+Lightning Brand Proc
+Lightning Elemental
+Lightning Storm
+Lightning Tag
+Liked
+Lily Mae
+Linen Armlet
+Linen Belt
+Linen Boots
+Linen Brassard
+Linen Cap
+Linen Coif
+Linen Doublet
+Linen Gloves
+Linen Hose
+Linen Jack
+Linen Leggings
+Linen Mittens
+Linen Mitts
+Linen Pants
+Linen Shoes
+Linen Shoulders
+Linen Skullcap
+Linen Slippers
+Linen Vest
+Link Armor
+Link Aventail
+Link Belt
+Link Boots
+Link Camail
+Link Chausses
+Link Coif
+Link Cuisses
+Link Fists
+Link Gauntlets
+Link Gloves
+Link Hauberk
+Link Helm
+Link Leggings
+Link Mailcoat
+Link Pants
+Link Sabatons
+Link Shoulders
+Link Skullcap
+Lion's Claw
+Lionized
+Lito Inso's Lens
+Little Lost Ones
+Little Pup
+Lizard-Hide Cuirass
+Lizard-Hide Gauntlets
+Lizard-Hide Greaves
+Lizard-Hide Pauldrons
+Lizard-Hide Sallet
+Lizard-Hide Tassets
+Lizardtooth
+Load-Bearing Shoulders
+Loc-Nar
+Local Hero
+Local Legend
+Locked Mineshaft Door
+Locomotor Belt
+Long Axe
+Long Gun
+Long Range Mastery
+Long Range [ITEM]
+Long-Bearded Chopper
+Longbow
+Longclaw
+Longfang
+Longhammer
+Longshot
+Longsword
+Longtooth
+Lord Arkham's Creed
+Lord Arkham's Vambraces
+Lord Taldimut
+Lord of Carrion
+Lord's Blade
+Lore
+Lost Crewman
+Lost Notes
+Loudspeaker
+Lovantine Skull
+Lovescratch
+Low Soft Boots
+Lucerne Hammer
+Luck Belt
+Luck Potion
+Lucky Coin
+Lucky Die
+Lucky Fish Tooth
+Lucky [ITEM]
+Lucy
+Lulu
+Lumber Axe
+Lumber Sledge
+Luminous Arena
+Lump Hammer
+Luna Mycon
+Lupara
+Luren the Merchant
+Luseth the Merchant
+MON PROP DON'T USE
+MacAlister's Belt
+MacReady's Shotgun
+Mace
+Mace of Clubs
+Mace of Hearts
+Mace of Spades
+Mace of the Twin Gods
+Machine Forged
+Machine Forged Belt
+Machine Forged Helm
+Machine Forged Pants
+Machine Forged Shoulders
+Machine Forged Tunic
+Machine-Shop Brogans
+Machine-Shop Gauntlets
+Machine-Shop Mantle
+Machine-Shop Trousers
+Machine-Shop Tunic
+Machine-Shop Visor
+Machinist Apron
+Machinist Aventail
+Machinist Breeks
+Machinist Clogs
+Machinist Facemask
+Machinist Gloves
+Mad Demon Staff
+Mad Vanquisher Guard
+Madmorrow's Staff
+Mage Barsom
+Mage Beacon
+Mage Brand
+Mage Scepter
+Mage Wand
+Mage-Captain Kimber
+Magestaff
+Magic Component
+Magic Locked Seal
+Magma Gargoyle
+Magma Mace
+Magma Spear
+Magma-Fused Iron
+Magmamouth Bass
+Magnum Force
+Magus Scream
+Mail Armor
+Mail Belt
+Mail Boots
+Mail Cataphract
+Mail Chausses
+Mail Coif
+Mail Cuisses
+Mail Fists
+Mail Gauntlets
+Mail Gloves
+Mail Hauberk
+Mail Helm
+Mail Leggings
+Mail Pants
+Mail Pixane
+Mail Sabatons
+Mail Shoulders
+Mail Skullcap
+Mail Standard
+Mailcoat of the Invincible Overlord
+Mailcoat of the Pillager
+Mainspring Band
+Mainspring Belt
+Malachite Seal
+Malik Vosh
+Mallet
+Mallet of Loving Correction
+Malo
+Mana Drain
+Mana Potion
+Mana Shrine
+Mana Spectre
+Mana Vampire
+Mana Vent
+Mana Wisp
+Manaburned Ezrohir
+Manaburned Infantry
+Manaburned Jackalbeast
+Manacle of Domination
+Manaforged Thrall
+Manatoxin Pump
+Mandible Mace
+Mannimal
+Manom
+Manos
+Mansmasher
+Manswatter
+Manticore
+Manticore's Mate
+Mantle of Mother Night
+Mantle of the Breathtaker
+Mantle of the Master Planner
+Mantle of the Snowfields
+Mantle of the Winter Magus
+Mantlet
+Manuballista
+Many Augment Blade
+Map Portal
+Map Selector
+Map of the Wilds
+Maple Bow
+Mapworks
+Marbles
+Marishka
+Marishka's Broach
+Marksman's Bow
+Marksman's Crossbow
+Marksmanship
+Marlowe
+Marquezz
+Marvelous Component
+Mashal
+Mask of Mother Night
+Masked Jester
+Masque of the Red Death 
+Master Alric's Journal
+Master Key
+Master of the Elements
+Mastercrafted Crossbow
+Masterwork Tankard
+Match Pistol
+Matchlock Pistol
+Mattock
+Maul
+Maverick
+Maxwell
+Maxwell's Silver Hammer
+Meat Sack
+Mechadallion
+Mechano-Pants
+Medallion
+Medallion of Miskaton
+Medallion of Triangulation
+Medallion of the Magus
+Medrus
+Meerko Skull
+Meet the Djinni
+Mega Health Potion
+Mega Mana Potion
+Mega Rejuvenation Potion
+Memorable
+Menace
+Mephitic Tag
+Merciless
+Merciless Armor
+Merciless Belt
+Merciless Helm
+Merciless Pants
+Merciless Shoulders
+Merryweather Leaves
+Mesa Dasher
+Meteor
+Meteor Strike
+Meteor Sword
+Mia
+Miamin
+Middenmine
+Middlemoor Shortbow
+Mighty Mastiff
+Mighty [ITEM]
+Mika's Boots
+Mila
+Military Bombard
+Military Crossbow
+Military Culverin
+Military Parma
+Military Shotgonne
+Military Spear
+Milo
+Mimic
+Mindtalon Wing
+Mine
+Mine Entrance
+Mine-Cannon
+Minehead
+Mini Skeleton
+Miniature Ornithopter
+Minor Haste
+Mirka Frostbinder
+Mirka Healer
+Mirka Slasher
+Mirror Image
+Misery
+Mission of Mercy
+Mister Tar
+Mobile Sentry
+Mobile Sentry Top
+Mobile Spawner
+Mobile Spawner Top
+Moire
+Molebeast
+MolebeastSpawner
+Molten Eel
+Moltenglaze Ripshank
+Momentous [ITEM]
+Mondon's Belt
+Mondon's Bracers
+Mondon's Breeks
+Mondon's Helmet
+Mondon's Insignia
+Mondon's Mantle
+Mondon's Plate
+Mondon's Ring
+Mondon's Stompers
+Mondon’s Vestment
+Monster Shrine
+Monstrous Shrine
+Moonblade
+Moor Wight
+Mooritz of the Desert
+Mordrox
+Morningstar
+Mort
+Mortal Edge
+Mortar
+Mortar Bot
+Mortar and Pestle
+Mosaical Rod
+Mosby's Red Brogans
+Mosby's Ring
+Mountain Armor
+Mountain Axe
+Mountain Barbute
+Mountain Belt
+Mountain Boots
+Mountain Bracers
+Mountain Breeches
+Mountain Cloak
+Mountain Coat
+Mountain Footwraps
+Mountain Gauntlets
+Mountain Giant Blade
+Mountain Gloves
+Mountain Helm
+Mountain Helmet
+Mountain Jack
+Mountain Leggings
+Mountain Mantle
+Mountain Pants
+Mountain Shoulders
+Mountain Turn-Shoes
+Mountain of the Cannibal God 
+Mournblade
+Mouse Gun
+Mozert
+Mr Kibbles
+Mucous Mound
+Mud-Caked Boots
+Mulberry Bow
+Multi-Socket [ITEM]
+Murderer's Mask
+Murial's Girdle
+Muscaria Brute
+Mushroom
+Musketoon
+Mutant Action
+Mutilated Skull of Baldree
+Muzaffar
+My Best Fiend
+My Little Friend
+Mycon Brute
+Mycon Brute Poison
+Mycon Lobber
+Mycon Pygmy
+Mycon Pygmy Poison
+Myconite
+Mysterious Boots
+Mysterious Cauldron
+Mysterious Crystals
+Mysterious Gem
+Mysterious Gloves
+Mysterious Map
+Mysterious Pants
+Mysterious Portal
+Mysterious Shoulders
+Mysterious Skeleton
+Mysterious Statue
+Mystery Portal Scroll
+Mystical [ITEM]
+Mythic
+Mythite Monocle
+NOSPAWN Temp Monster Item
+NOSPAWN!
+NOSPAWN_NPC_Prop
+NOSPAWN_base_tell Erich
+NOSPAWN_item_tell Erich
+NOSPAWN_monster_tell Erich
+NO_DROP
+Nack
+Nargothrel's Band
+Nationbane
+Near-and-Far Boots
+Neckband of Control
+Neckband of Mastery
+Neckband of Obedience
+Necklace
+Necromius Breeches
+Necromius Cap
+Necromius Collar
+Necromius Doublet
+Necromius Gloves
+Necromius Sandals
+Necros
+Necrotic Amulet
+Necrotic Armor
+Necrotic Belt
+Necrotic Boots
+Necrotic Gloves
+Necrotic Helm
+Necrotic Pants
+Necrotic Ring
+Necrotic Shoulders
+Needle Arc
+Nephanic Skull
+Nerasis
+Nest Spider
+Nestmother
+Nether Imp
+Nether Plaguebearer
+Nether Regent
+Nether-Brute
+Nether-Seer
+Nether-Shade
+Nether-Thrall
+Nether-Thrall Lasher
+Netherbane
+Netherblade
+Netherfang
+Netherim Crusher
+Netherim Glaive Master
+Netherim Mauler
+Netherim Nemesis
+Netherim Slasher
+Netherim Slayer
+Netherim Soldier
+Netherim Spellbreaker
+Netherim Spinethrower
+Netherim Swarmer
+Netherim Warrior
+Netherim Widemaw
+NetherimFlyerSpawner
+Netherlimb Longbow
+Netherling
+Netherling Larva
+Netherlord
+Nethermancer
+Netherrealm
+Netherrealm Axe
+Netherrealm Bow
+Netherrealm Cannon
+Netherrealm Claw
+Netherrealm Crossbow
+Netherrealm Glaive
+Netherrealm Greataxe
+Netherrealm Greathammer
+Netherrealm Greatsword
+Netherrealm Hammer
+Netherrealm Pistol
+Netherrealm Portal
+Netherrealm Shield
+Netherrealm Shotgonne
+Netherrealm Staff
+Netherrealm Sword
+Netherrealm Wand
+Netherskull Mace
+Nighteye Staff
+Nightshade Chalice
+Nine-Kings Jade Spear
+Nine-Kings Jadeblade
+Noble Shield
+Nomad Khopesh
+Nomad Voulge
+Norsk Leiren
+Northern Rage
+Northern Tulwar
+Northstar
+Northwoods Sawblade
+Not of This Earth 
+Notch's Mine
+Notched Axe
+Nous
+Noxious Gel
+Noxious Mass
+Noxious Shambler
+NoxiousGelSpawner
+Nulantep
+OLD Frost Breath
+OLD Gravity Well
+Oaken Bow
+Oathbreaker Amulet
+Oathbreaker Boots
+Oathbreaker Breeches
+Oathbreaker Gloves
+Oathbreaker Hat
+Oathbreaker Jacket
+Oathbreaker Sash
+Oathbreaker Shoulders
+Oathkeeper
+Obscure Armor
+Obscure Belt
+Obscure Boots
+Obscure Gloves
+Obscure Helm
+Obscure Pants
+Obscure Shoulders
+Obscure Tools
+Obsidian Glaive
+Oglaf's Trousers
+Ogre Dagger
+Oil-Stained Shoulders
+Oil-Stained Trousers
+Old Empire Slicer
+Old Irongob
+Old Ironjaw
+Old Ironmouth
+Old Master Q
+Old-Tooth Wand
+Oldboy
+Ole's Massive Wrench
+Ole's Mighty Helm
+Ole's Tools
+Ollie
+Olwin
+Olwin the Betrayed
+Omen Axe
+Omnifas Armor
+On to Grunnheim!
+One Man's Trash
+One-Eyed Willy
+One-Eyed Willy's Other Eye
+Onslaught
+Onward to Zeryphesh!
+Onyx Cleaver
+Ophidian's Endgame
+Optimizer Prime
+Orbstaff
+Ordraake Polyp
+Ordrak's Heart
+Ornate Chest
+Ornate Derringer
+Orpantile Skull
+Orrery Band
+Ossataur
+Ossataur's Gift
+Ossean Wastes
+Otis
+Outburst
+Outercore Armor
+Outercore Belt
+Outercore Boots
+Outercore Gloves
+Outercore Helmet
+Outercore Mantle
+Outercore Pants
+Outland Bow
+Outlander
+Outlaw
+Outlaw's Badge
+Outlaw's Pistol
+Over-Under Crossbow
+Over-Under Gun
+Over-Under Pistol
+Over-Under Revolver
+Overdrive
+Overload
+Overseer's Eye
+Owen
+Owl
+Ozzy
+Pact Heal
+Pact Movespeed
+Padded Belt
+Padded Beret
+Padded Bonnet
+Padded Breeches
+Padded Brigandine
+Padded Epaulettes
+Padded Gaiters
+Padded Gauntlets
+Padded Glovelettes
+Padded Jack-of-Plates
+Padded Shin-Guards
+Padded Shoulder-Straps
+Padded Trousers
+Pagoda
+Paired [ITEM]
+Pale Shambler
+Palisade's Heights
+Pancakes
+Panda
+Pandectos
+Panosh of the North
+Pantaloons of Wild Magic
+Pantaloons of the Bamboo Bandit
+Pantaz the Gem Smasher
+Panther
+Pants of the Tribune
+Papillon
+Parade Voulge
+Parafex
+Parma
+Parma's Coal-Burner
+Parma's Mechanoid
+Pass Through The Gate
+Passkey Ember
+Patchwork Armlet
+Patchwork Belt
+Patchwork Boots
+Patchwork Brassard
+Patchwork Cap
+Patchwork Coif
+Patchwork Doublet
+Patchwork Gloves
+Patchwork Hose
+Patchwork Jack
+Patchwork Leggings
+Patchwork Mittens
+Patchwork Mitts
+Patchwork Pants
+Patchwork Shoes
+Patchwork Shoulders
+Patchwork Skullcap
+Patchwork Slippers
+Patchwork Vest
+Pate
+Path of the Honored Dead
+Pathfinder Armor
+Pathfinder Baldric
+Pathfinder Belt
+Pathfinder Boots
+Pathfinder Bracers
+Pathfinder Breeches
+Pathfinder Brogans
+Pathfinder Buff Coat
+Pathfinder Capeline
+Pathfinder Cloak
+Pathfinder Gauntlets
+Pathfinder Gloves
+Pathfinder Helm
+Pathfinder Longcoat
+Pathfinder Pants
+Pathfinder Shoes
+Pathfinder Shoulders
+Pathfinder Skullcap
+Pathfinder Trousers
+Pathfinder's Journal
+Pauldrons of the Howler King
+Pauldrons of the Pyrophage
+Pauldrons of the Tick-Tock Queen
+Pavise
+Pearce's Pantaloons
+Pearce's Shoulder Gear
+Pearl-Handled Revolver
+Peasant Crossbow
+Peasant Gun
+Pedestal
+Pele
+Pendant of Pandect
+Pendant of Rejected Realities
+Pendant of the Pike
+Pendant of the Pine
+Pendant of the Prestidigitator
+Pendant of the Thaumaturge
+Penderal Skull
+Pepperbox
+Percy
+Perdurabo Armor
+Perdurabo Boots
+Perdurabo Gauntlets
+Perdurabo Hood
+Perdurabo Mantle
+Perdurabo Trousers
+Perform a Coup de Grace
+Perictione's Shoulders
+Permafrost
+Pernach
+Pernicious Tag
+Pertwee's Pendant
+Pestilence Focus
+Pestilence Tag
+Pet Badge
+Pet Band
+Pet Charm
+Pet Collar
+Pet Harness
+Pet Marker
+Pet Medal
+Pet Neckband
+Phase Beast
+Phase Beast Realm
+Phase Portal
+Phenomena
+Phial of Distilled Aether
+Phoenix Armor
+Phoenix Belt
+Phoenix Boots
+Phoenix Burgonet
+Phoenix Cataphract
+Phoenix Faulds
+Phoenix Fists
+Phoenix Gauntlets
+Phoenix Gloves
+Phoenix Greaves
+Phoenix Helm
+Phoenix Helmet
+Phoenix Mailcoat
+Phoenix Pants
+Phoenix Pauldrons
+Phoenix Sabatons
+Phoenix Shoulders
+Phoenix Spaulders
+Phoenix Tassets
+Physical Shield
+Pickaxe
+Picket Spear
+Pike-Staff
+Pilgrim's Staff
+Pioneer Aketon
+Pioneer Armor
+Pioneer Belt
+Pioneer Boots
+Pioneer Bracers
+Pioneer Coif
+Pioneer Cowl
+Pioneer Footwraps
+Pioneer Gambeson
+Pioneer Gloves
+Pioneer Helm
+Pioneer Kegs
+Pioneer Leggings
+Pioneer Mantle
+Pioneer Moccasins
+Pioneer Pants
+Pioneer Shoulders
+Pioneer Skullcap
+Pioneer Wrist-Straps
+Piquant Truffle
+Pistol
+Piston Ring
+Pistonlock Pistol
+Pit Glove
+Pixel
+Plague
+Plague Dart
+Plague Dart AoE
+Plague Flask
+Plague-Crystal Wand
+Plainslord
+Plainslord Armor
+Plainslord Belt
+Plainslord Helm
+Plainslord Pants
+Plainslord Shoulders
+Plate Aegis
+Plate Armor
+Plate Barbute
+Plate Belt
+Plate Boots
+Plate Full-Greaves
+Plate Gauntlets
+Plate Gloves
+Plate Greaves
+Plate Helm
+Plate Pants
+Plate Pauldrons
+Plate Plackart
+Plate Sabatons
+Plate Shoulders
+Plate Sollerets
+Plate Spangenhelm
+Plate Spaulders
+Plate Vambraces
+Pleated Belt
+Pleated Beret
+Pleated Bonnet
+Pleated Boots
+Pleated Breeches
+Pleated Brigandine
+Pleated Cap
+Pleated Epaulettes
+Pleated Gaiters
+Pleated Gauntlets
+Pleated Glovelettes
+Pleated Gloves
+Pleated Jack-of-Plates
+Pleated Pants
+Pleated Shin-Guards
+Pleated Shoulder-Straps
+Pleated Shoulders
+Pleated Trousers
+Pleated Vest
+Plumb-Bob Bracers
+Plumb-Bob Brogans
+Plumb-Bob T-Square Pants
+Plunder Cove
+Plunderlust
+Plunger
+Pneumatic Blastgun
+Poacher's Gun
+Pocket
+Pocket Pistol
+Pocketwatch
+Pocketwatch of the Tennant
+Podstaff
+Pogg Slammer
+Poison Amulet
+Poison Barrel
+Poison Barrels
+Poison Barrier
+Poison Barsom
+Poison Branch
+Poison Burst
+Poison Cloud
+Poison Crystal
+Poison Elemental
+Poison Mines
+Poison Ring
+Poison Scepter
+Poison Shield
+Poison Sword
+Poison Wand
+Poison-Armored [ITEM]
+Poison-Spiked [ITEM]
+Poison-Surge [ITEM]
+Poisoned
+Poisoning [ITEM]
+Pole Axe
+Polearm
+Poleaxe
+Polehammer
+Polymorph
+Ponya Baubles
+Ponya Boots
+Ponya Cap
+Ponya Frock
+Ponya Gloves
+Ponya Mantle
+Ponya Pants
+Ponya Pauldrons
+Portable Mantlet
+Portait of the Master
+Portal
+Portal to Glyph Room
+Portal to Surface
+Positioning Unit
+Possessed One
+Postern Gauntlets
+Pot-de-Fer
+Potion of Electric Resistance
+Potion of Fire Resistance
+Potion of Ice Resistance
+Potion of Poison Resistance
+Potion of Respec
+Pow
+Powder Keg
+Powder Kegs
+Power Crystal
+Power Tag
+Powerful [ITEM]
+Powerspike
+Praetorian Armor
+Praetorian Belt
+Praetorian Boots
+Praetorian Breastplate
+Praetorian Burgonet
+Praetorian Fists
+Praetorian Gauntlets
+Praetorian Gloves
+Praetorian Greaves
+Praetorian Helm
+Praetorian Pants
+Praetorian Pauldrons
+Praetorian Plate
+Praetorian Poleyns
+Praetorian Sabatons
+Praetorian Sallet
+Praetorian Shoulders
+Praetorian Sollerets
+Praetorian Spaulders
+Precise [ITEM]
+Precision Anamorphic Bodywear
+Precision Manumorphic Gloves
+Precision Pedimorphic Impulsors
+Precision Pedometric Footgear
+Precision Phrenologic Headgear
+Precision Scapulotic Mantle
+Preserved Keg
+Prestigious
+Prickly [ITEM]
+Primal Ember
+Primal Emblem
+Primitive Greataxe
+Prismatic Bolt
+Prismatic Morey
+Prismatic Rift
+Prismatic [ITEM]
+Prison Key
+Prison Sledge
+Professor
+Professor Parma's Steam-Shield
+Professor Stoker
+Prominent
+Promising Fishing Hole
+Prospector's Cache
+Protect the Guardian!
+Prototype Falconet
+Prototype Muzzel-Loader
+Prototype Saker
+Pulley-Bow
+Pummelmitts
+Pump Gun
+Punch Blade
+Punch Dagger
+PunchBag
+PunchBagReflect
+PunchBagThorns
+Punching Dagger
+Punt Gun
+Pustule
+Pya
+Pyre
+Pyreshank
+Pyromancer Pants
+Pyrotag
+QA Arena
+QA Arena map
+Quad-Barrel Mine Gun
+Quad-Barrel Shotgonne
+Quarrel's Lover
+Quarreler
+Quarterstaff
+Quartz Sword
+Quatermass and the Pit 
+Queen's Mask
+Quietus
+Qzmonda Skull
+Rage Retaliation
+Raider's Helmet
+Rail Sledge
+Rail-Forge Breeks
+Rail-Forge Brogans
+Rail-Forge Gauntlets
+Rail-Forge Helm
+Rail-Forge Mantle
+Rail-Forge Plate
+Railforged
+Railforged Boots
+Railforged Gloves
+Railforged Pants
+Railforged Tunic
+Railman Aventail
+Railman Breeches
+Railman Charge
+Railman Clogs
+Railman Coat
+Railman Gauntlets
+Railman Lamp-Helm
+Railman Thud-Gonne
+Railman Wrench
+Railman's Standard
+Railmaster Howitzer
+Railmaster Mortar
+Railmaster Punt Gun
+Railspike Amulet
+Railspike Medallion
+Railspike Pendant
+Railspike Ring
+Rainstopper
+Raise Shadowling
+Raise Zombie
+Raleigh Claire
+Rambren Skull
+Rampage
+Ramsey
+Randal
+Random Teleport
+Ransacked Commons
+Ransacked Commons Boss
+Ransacked Commons Map (L56-65)
+Ransacked Halls
+Ransacked Halls Boss
+Ransacked Halls Map (L48-55)
+Ransacked Vault
+Ransacked Vault Boss
+Ransacked Vault Map (L66-75)
+Rapid Fire
+Rare Mushroom
+Rare Stone
+Rascal
+Rat
+Rat Killer
+Ratchet Bow
+Ratchet Ring
+Ratlin
+Ratlin Archer
+Ratlin Bowman
+Ratlin Lobber
+Ratlin Marauder
+Ratlin Skirmisher
+Ratlin Slavemaster
+Ratlin Warrior
+Ravage
+Raw Gem
+Rawhide Armor
+Rawhide Belt
+Rawhide Blazer
+Rawhide Bolt Amulet
+Rawhide Bolt Ring
+Rawhide Boots
+Rawhide Bracers
+Rawhide Breeches
+Rawhide Cap
+Rawhide Caubeen
+Rawhide Cloak
+Rawhide Fang Amulet
+Rawhide Fang Ring
+Rawhide Flame Amulet
+Rawhide Flame Ring
+Rawhide Gloves
+Rawhide Helm
+Rawhide Jack
+Rawhide Leggings
+Rawhide Mantle
+Rawhide Moccasins
+Rawhide Pants
+Rawhide Shard Amulet
+Rawhide Shard Ring
+Rawhide Shoulders
+Rawhide Turn-Shoes
+Rawhide Vambraces
+Raze
+Razor
+Razor Edge Greatsword
+Razor Talon
+Razorbow
+Razorleaf
+Razorpeaks Duskblade
+Reactive Shield
+Reaper of Spiders
+Rebel Voulge
+Recognized
+Red Bolt Amulet
+Red Bolt Ring
+Red Forest Amulet
+Red Forest Ring
+Red Glow Amulet
+Red Glow Ring
+Red Lich Ring
+Red Mountain Amulet
+Red Mountain Ring
+Red Paw Gloves
+Red Vanquisher Amulet
+Red Vanquisher Ring
+Red Wolf
+Redfang Weblord
+Redscale Ailettes
+Redscale Armor
+Redscale Belt
+Redscale Boots
+Redscale Bracers
+Redscale Cataphract
+Redscale Coif
+Redscale Gauntlets
+Redscale Gloves
+Redscale Greaves
+Redscale Helm
+Redscale Kilt
+Redscale Mailcoat
+Redscale Pants
+Redscale Schynbalds
+Redscale Shoulders
+Redscale Skull-Cap
+Redscale Spaulders
+Redscale Tassets
+Reeking Cellar
+Reflex Crossbow
+Regenerating [ITEM]
+Regent
+Regent Amice
+Regent Baldric
+Regent Belt
+Regent Bolt Ring
+Regent Bolt Vo Amulet
+Regent Boots
+Regent Bracers
+Regent Cassock
+Regent Cloth Shoes
+Regent Eldrayn's Sash
+Regent Fang Vo Amulet
+Regent Fang Vo Ring
+Regent Flame Vo Amulet
+Regent Flame Vo Ring
+Regent Gloves
+Regent Headdress
+Regent Helmet
+Regent Mantle
+Regent Mark
+Regent Mitre
+Regent Pants
+Regent Shard Vo Amulet
+Regent Shard Vo Ring
+Regent Shoulders
+Regent Silk Slippers
+Regent Storm
+Regent Trousers
+Regent Tunic
+Regent Vest
+Regent Wrist-Guards
+Regroup at the Enclave
+Reinforced Bow
+Rejuvenating [ITEM]
+Rejuvenation Potion
+Relan
+Remarkable
+Remobilizer
+Renowned
+Repair Bot
+Repeating Crossbow
+Repel
+Repel Spell
+Reptimortis
+Repulsion Hex
+Resisting [ITEM]
+Respected
+Restorative [ITEM]
+Restoring  [ITEM]
+Retribution I
+Retribution II
+Retribution III
+Retribution IV
+Retribution V
+Retribution VI
+Retto the Mapper
+Return to the Enclave
+Revolver
+Rhea
+Rhino-Hide Armor
+Rhino-Hide Belt
+Rhino-Hide Boots
+Rhino-Hide Bracers
+Rhino-Hide Corslet
+Rhino-Hide Cuirass
+Rhino-Hide Faulds
+Rhino-Hide Gauntlets
+Rhino-Hide Gloves
+Rhino-Hide Greaves
+Rhino-Hide Helm
+Rhino-Hide Helmet
+Rhino-Hide Pants
+Rhino-Hide Pauldrons
+Rhino-Hide Sallet
+Rhino-Hide Schynbalds
+Rhino-Hide Shoulders
+Rhino-Hide Spaulders
+Rhino-Hide Tassets
+Ribcleave
+Ricochet
+Riding-Sword
+Rifle
+Rift Ember
+Rift Warp
+Riftclaw
+Riftplane Destroyer
+Riftweaver
+Ring of Assessment
+Ring of Dead Kings
+Ring of Exploration
+Ring of Fallen Heroes
+Ring of Larissa the Autocrat
+Ring of Legend
+Ring of Oan
+Ring of Rings
+Ring of Sim
+Ring of Thayn
+Ring of the Arch-Magus
+Ring of the Dragon
+Ring of the Dungeon
+Ring of the Fetcher King
+Ring of the Five Legends
+Ring of the Lords
+Ring of the Marauder
+Ring of the Oathbreaker
+Ring of the Players
+Ring of the Rising Road
+Ring of the Steward
+Ring of the Warlock
+Ring of the West
+Ring of the Wick
+Ring of the Witchfinder
+Ring of the Wordbinder
+Ringed Aventail
+Ringed Belt
+Ringed Boots
+Ringed Byrnie
+Ringed Camail
+Ringed Cap
+Ringed Chausses
+Ringed Coif
+Ringed Cuisses
+Ringed Fists
+Ringed Gauntlets
+Ringed Gloves
+Ringed Hauberk
+Ringed Leggings
+Ringed Pants
+Ringed Sabatons
+Ringed Shoulders
+Ringed Skullcap
+Ringed Tunic
+Ripley
+Ripthrasher
+Risk and Reward
+Ritual Janissary Crown
+Ritual Janissary Gloves
+Ritual Janissary Necklace
+Ritual Janissary Pants
+Ritual Janissary Sash
+Ritual Janissary Shoes
+Ritual Janissary Signet
+Ritual Janissary Tunic
+Ritual Janissary Wrap
+Ritual Scythe
+Ritual Voulge
+Ritual Wrench
+Rivenskull Gorge
+Riverman's Gun
+Riverman's Pistol
+Rivet Shield
+Roach
+Roach Mage
+Roach Myrmidon
+Roach Sewermaster
+Roachling
+Roachling Tunnel
+Robe of the Ebon Magister
+Robot Eye
+Robot Parts
+Robotic Arm
+Robotic Body
+Robotic Drum
+Robotic Head
+Robotic Pipes
+Rock
+Rock Pile
+Rock Troll
+Rocket Punch
+Rockjaw Axe
+Rocks
+Rocksplinter Club
+Rohac's Comic Boots
+Roller I
+Roller II
+Roller III
+Roller IV
+Roller V
+Roller VI
+Rookie Shotgonne
+Roomsweeper
+Roostling
+Rooty
+Rosamortis
+Rotating Shotgonne
+Rotella
+Rotmonger
+Rotted Dwarf Mechanic
+Rotted Dwarf Shieldbearer
+Rotted Shambler
+Rotting Crypt
+Rotting Shambler
+Rough Handlers
+Round Hammer
+Roundhaven
+Roundshield
+Royal Tulwar
+Rufio the Enchanter
+Rugesh the Shadow
+Ruined Sanctuary
+Ruined Sanctuary Boss
+Ruined Sanctuary Map (L56-65)
+Ruined Shrine
+Ruined Shrine Boss
+Ruined Shrine Map (L48-55)
+Ruined Temple
+Ruined Temple Boss
+Ruined Temple Map (L66-75)
+Rumble
+Rune Vault
+Rune of Storm
+Rune-Barrel Carbine
+Rune-Barrel Musket
+Rune-Cannon
+Rune-Etched Ember Gun
+Runebelt
+Runecaller
+Runemaster
+Runemaster Amulet
+Runemaster Armor
+Runemaster Belt
+Runemaster Boots
+Runemaster Gloves
+Runemaster Helm
+Runemaster Lieutenant
+Runemaster Pants
+Runemaster Signet
+Runemaster Wrap
+Runering
+Runeshock
+Runestone Maul
+Runic Component
+Runic Flagon
+Runic Shotgonne
+Rupture
+Rusted Dwarven Mechanoid
+Rusted Key
+Rusted Mechanoid
+SAMPLE Scroll - no drop
+SHOULD NOT SPAWN Tell Erich
+Sacrificial Axe
+Sagaris
+Sage Merial
+Sage [ITEM]
+Sage's Staff
+Sailfin Claw
+Sailor's Crossbow
+Sak'Roa
+Saker
+Salamander
+Salamander Belt
+Salamander Beret
+Salamander Bonnet
+Salamander Boots
+Salamander Breeches
+Salamander Brigandine
+Salamander Cap
+Salamander Epaulettes
+Salamander Gaiters
+Salamander Gauntlets
+Salamander Glovelettes
+Salamander Gloves
+Salamander Jack-of-Plates
+Salamander Pants
+Salamander Shin-Guards
+Salamander Shoulder-Straps
+Salamander Shoulders
+Salamander Trousers
+Salamander Vest
+Salving [ITEM]
+Sand Hulk
+Sand Spectre
+Sandals of the Heirophant
+Sandrat
+Sandrat Nest
+Sandru
+Sandstorm
+Sanguine Ember
+Sanguine Gem
+Sanguine Zombie
+Santo the Discreet
+Sap
+Sap Blade
+Sarcophagus
+Sash of the First Baker
+Sash of the Second Baker
+Satchel
+Savage
+Savage Amulet
+Savage Armor
+Savage Boots
+Savage Breeks
+Savage Ember
+Savage Gloves
+Savage Helm
+Savage Pants
+Savage Rush
+Savage Shoulders
+Savage [ITEM]
+Savant [ITEM]
+Scaffolding Jacket
+Scalding Geyser
+Scale Armor
+Scale Belt
+Scale Boots
+Scale Cataphract
+Scale Cervelliere
+Scale Chausses
+Scale Coat-of-Mail
+Scale Coif
+Scale Cuisses
+Scale Fists
+Scale Gauntlets
+Scale Gloves
+Scale Helm
+Scale Leggings
+Scale Pants
+Scale Pixane
+Scale Sabatons
+Scale Shoulders
+Scale Standard
+Scale of the Arbiter
+Scalebane
+Scalloped Shield
+Scalping Tool
+Scarab
+Scattergun
+Schematics Trunk
+Scorpion
+Scorpion Blade
+Scortch-Wing Staff
+Scout
+Scout Gun
+Scrapper
+Screambringer
+Screwbarrel Express
+Scroll Cabinet
+Scroll of Anom-Irek
+Scroll of Estherian Law
+Scutterer
+Scutum
+Scythe
+Seafarer's Claymore
+Seal of the Overseer
+Sealed Relic
+Searing Tag
+Seastar Staff
+Secret Fishing Hole
+Secret of the Ezrohir
+Seeker's Staff
+Seeking Shot
+Segmented Armor
+Segmented Barbute
+Segmented Belt
+Segmented Boots
+Segmented Breastplate
+Segmented Corslet
+Segmented Gauntlets
+Segmented Gloves
+Segmented Greaves
+Segmented Helm
+Segmented Pants
+Segmented Pauldrons
+Segmented Poleyns
+Segmented Sabatons
+Segmented Shoulders
+Segmented Sollerets
+Segmented Spangenhelm
+Segmented Spaulders
+Segmented Vambraces
+Seismic Burst
+Seismic Slam
+Select Barrage
+Select Hyperbeam
+Select Meteor
+Self Destruct
+Self Destruct AOE
+Sentinel
+Sentinel Armor
+Sentinel Belt
+Sentinel Boots
+Sentinel Gloves
+Sentinel Helmet
+Sentinel Pants
+Sentinel Pistol
+Sentinel Ring
+Sentinel Shoulders
+Sentinel Talisman
+Sentinel's Watch
+Serpent Spike
+Serrated Axe
+Servo-Helm
+Settler Aketon
+Settler Armor
+Settler Belt
+Settler Boots
+Settler Bracers
+Settler Cap
+Settler Cowl
+Settler Footwraps
+Settler Gambeson
+Settler Gloves
+Settler Helm
+Settler Kegs
+Settler Leggings
+Settler Mantle
+Settler Moccasins
+Settler Pants
+Settler Pileus
+Settler Shoulders
+Settler Wrist-Straps
+Seven Gauge
+Severance
+Shadow
+Shadow Armor
+Shadow Bowman
+Shadow Burst
+Shadow Vault
+Shadow Warrior
+Shadow of the Skara
+Shadowband
+Shadowbarb
+Shadowbat
+Shadowbind
+Shadowblind
+Shadowchar
+Shadowclasp
+Shadowdoom
+Shadowfang
+Shadowflare
+Shadowfragment
+Shadowglow
+Shadowhold
+Shadowhook
+Shadowling
+Shadowling Ammo
+Shadowling Brute
+Shadowmantle
+Shadowshot
+Shadowsplinter
+Shadowspur
+Shadowstone Urn
+Shadowthorn
+Shadowy Caves
+Shadowy Caves Boss
+Shadowy Caves Map (L66-75)
+Shadowy Crevasse
+Shadowy Grotto
+Shadowy Grotto Boss
+Shadowy Grotto Map (L48-55)
+Shadowy Pit
+Shadowy Pit Boss
+Shadowy Pit Map (L56-65)
+Shadowy Plague Warper
+Shady Character
+Shalestone Rod
+Shaman's Bow
+Shaman's Shoulders
+Shandor's Ring
+Shank
+Shank's Gloves
+Shank's Trousers
+Shard of Luminite
+Shard-Rod
+Shard-Scepter
+Shard-Wand
+Shardkeeper
+Shards of Cobalt
+Share the Wealth
+Shared Stash
+Sharkbite
+Sharktooth Claw
+Sharktooth Sword
+Sharp [ITEM]
+Shatter Proc
+Shatter Storm
+Shatterbolt Tag
+Shatterdark
+Shattered Headless
+Shattered Lasher
+Shattered One
+Shattering Glaive
+Shed Poison Spore
+Shelter's Disk
+Shemp the Enchanter
+Sherlock
+Shield Bash
+Shield Bubble
+Shield Stalker
+Shield Turret
+Shieldbasher
+Shieldbearer
+Shieldcrusher
+Shieldshock
+Shieldsplitter [ITEM]
+Shieldwall
+Shillelagh
+Shimmering Ember
+Shimmering Fish Scale
+Shiny Metal Shoulders
+Ship's Cannon
+Shiver Tag
+Shock
+Shock Copter
+Shock Grenade
+Shock Shards
+Shock Tag
+Shock Trap
+Shock Turret
+ShockTrap
+Shockbolts
+Shocked
+Shocking Burst
+Shocking Grasp
+Shocking Orb
+Shocking [ITEM]
+Shoes of Sodalis
+Shoes of the Lastwalk
+Short Cannon
+Short Sword
+Short-Barrel Culverin
+Short-Barrel Howitzer
+Shortbarrel Carbine
+Shortbow
+Shortstaff
+Shotgonne
+Shotgonne Mastery
+Shoulders of Burden
+Shoulders of Fury
+Shoulders of Ire
+Shoulders of Rage
+Shoulders of the Cindermen
+Shoulders of the Clumsy Apprentice
+Shoulders of the Ebon Magister
+Shoulders of the Fire Giant King
+Shoulders of the Tribune
+Shoulders of the Yemenizzard
+Shovel
+Showstopper
+Shrapnel Scarab
+ShrapnelTrap
+Shred Armor
+Shredder
+Shrine of Dexterity
+Shrine of Electricity
+Shrine of Fire
+Shrine of Focus
+Shrine of Healing
+Shrine of Ice
+Shrine of Mana
+Shrine of Poison
+Shrine of Reflection
+Shrine of Skill Mastery
+Shrine of Speed
+Shrine of Strength
+Shrine of Vitality
+Shroomshredder
+Shroud of Mother Night
+Shroud of the Winter Wraith
+Shroudwing
+Sidearm
+Siege Bow
+Siege Crossbow
+Siege Fouchard
+Siege Guardian
+Siege Turret
+Siegebreaker
+Siegebreaker Halberd
+Sigil
+Signet of the Jarls
+Silence
+Silence I
+Silence II
+Silence III
+Silence IV
+Silence V
+Silence VI
+Silencing [ITEM]
+Silver Amulet of the Butcher's Boy
+Silver Chalice
+Silver Skull
+Silverisle Dracoduceus
+Simple Crossbow
+Simulacrum of Zard
+Sinfully Ugly Boots
+Singlestick
+Sinistrix
+Sir Bathingstoke's Brassarts
+Sir Bathingstoke's Brigandine
+Sir Chanary McPherson the Third
+Six-Gun
+Six-King Staff
+Six-Shooter
+Six-Stick Belt
+Six-Stick Ring
+Skara
+Skara Queen
+Skeletal Archer
+Skeletal Footsoldier
+Skeletal General
+Skeletal Headsman
+Skeletal Mage
+Skeletal Marksman
+Skeletal Phalanx
+Skeletal Phantom
+Skeletal Pyromancer
+Skeletal Shambler
+Skeletal Shuffler
+Skeletal Slayer
+Skeletal Torso
+Skeletal Warrior
+Skeleton
+Skeleton Greatsword
+Skeleton Logger
+Skeleton Mace
+Skeleton No Move
+Skeleton Punchingbag
+Skeleton Smasher Challenge
+Skeleton Warrior
+Skeleton_HeadBeam
+Skewer Blade
+Skill Shrine
+Skillful [ITEM]
+Skjollheimer Axe
+Skull
+Skull Axe
+Skull Bow
+Skull Staff
+Skull of Ando
+Skull of Benzirim
+Skull of Crimone
+Skull of Dakyte
+Skull of Erich
+Skull of Erimony
+Skull of Festuur
+Skull of Grimdor
+Skull of Haskool
+Skull of Imeena
+Skull of Joskin
+Skull of Karandir
+Skull of Limoany
+Skull of Macaburg
+Skull of Max
+Skull of Nopsil
+Skull of Omorox
+Skull of Pruntis
+Skull of Quato
+Skull of Riechliu
+Skull of Russell
+Skull of Samadow
+Skull of Trenkay
+Skull of Umbarmun
+Skull of Vastok
+Skull of Whorlbarb
+Skull of X'n!troph
+Skull of Yanfeer
+Skull of Zardon
+Skullcap of Effrenatus the Thinker
+Skullcap of the Sojourner
+Skullcracker
+Skullcracker Axe
+Skullfire Fangbow
+Skullspire
+Skylar
+Skysplitter
+Sladen's Sash
+Slagbreeks
+Slamfists
+Slamming [ITEM]
+Slash Attack
+Slashing [ITEM]
+Slaughter
+Slaughter Scarab
+Slaughter Spade
+Slaughterbreeks
+Slaughterpauldrons
+Slaughterspaulders
+Slavers' Stockade
+Sledgebot
+Sledgehammer
+Slippers of Dread
+Slippers of the Cloud Lord
+Slippers of the Ebon Magister
+Slow Attack And Cast
+Small Favor
+Smallsword
+Smart [ITEM]
+Smithereen
+Smock of Tool Storage
+Smokebox Belt
+Smokebox Pendant
+Smokebox Ring
+Smoothbore Pistol
+Snake
+Snakebite
+Snaketongue Falchion
+Snaketongue Saber
+Sniper Shot
+Snow Tag
+SnowSpiderSpawner
+Snowbell
+Snowcoursers
+Snowfang
+Snowliners
+Snowstorm
+Soaring Longbow
+Sodalis Gloves
+Sodalis Helm
+Sodalis Pantaloons
+Sodalis Shoulders
+Sojourn Jacket
+Solace
+Soldier [ITEM]
+Soldier's Club
+Soldier's Crossbow
+Soldier's Gun
+Soldier's Sword
+Solid-Steel Tower
+Solima's Pistol Vest
+Sollima
+Some Assembly Required
+Soothsayer Shawl
+Sossimu Skull
+Soul Rend
+Soul Shackle
+Soul Transfer
+Soulbound Phylactery
+Soulpiercer
+Soulshield Armor
+Southern Tulwar
+Spark Ember
+Spark Ember Chip
+Spark Ember Shard
+Spark Ember Speck
+Spark Tag
+Spaulders of the Frost Giant Jarl
+Spawn Railman Charge
+Spawn Shadowling Ally
+Spear
+Spear-Bot 2300
+Specterflare Pendant
+Specterheart Pendant
+Spectral Brute
+Spectral Decay
+Spectral Dragon
+Spectral Dragonkin
+Spectral Echo
+Spectral Sword
+Speed Shrine
+Spell: Bee Swarm
+Spell: Dervish I
+Spell: Dervish II
+Spell: Dervish III
+Spell: Dervish IV
+Spell: Dervish V
+Spell: Dervish VI
+Spell: Draining Touch I
+Spell: Draining Touch II
+Spell: Draining Touch III
+Spell: Draining Touch IV
+Spell: Draining Touch V
+Spell: Draining Touch VI
+Spell: Elemental Overload I
+Spell: Elemental Overload II
+Spell: Elemental Overload III
+Spell: Elemental Overload IV
+Spell: Elemental Overload V
+Spell: Elemental Overload VI
+Spell: Elemental Protection I
+Spell: Elemental Protection II
+Spell: Elemental Protection III
+Spell: Elemental Protection IV
+Spell: Elemental Protection V
+Spell: Elemental Protection VI
+Spell: Fireball I
+Spell: Fireball II
+Spell: Fireball III
+Spell: Fireball IV
+Spell: Fireball V
+Spell: Fireball VI
+Spell: Frost I
+Spell: Frost II
+Spell: Frost III
+Spell: Frost IV
+Spell: Frost V
+Spell: Frost VI
+Spell: Haste I
+Spell: Haste II
+Spell: Haste III
+Spell: Haste IV
+Spell: Haste V
+Spell: Haste VI
+Spell: Heal All I
+Spell: Heal All II
+Spell: Heal All III
+Spell: Heal All IV
+Spell: Heal All V
+Spell: Heal All VI
+Spell: Heal Self I
+Spell: Heal Self II
+Spell: Heal Self III
+Spell: Heal Self IV
+Spell: Heal Self V
+Spell: Heal Self VI
+Spell: Poison Cloud
+Spell: Retribution I
+Spell: Retribution II
+Spell: Retribution III
+Spell: Retribution IV
+Spell: Retribution V
+Spell: Retribution VI
+Spell: Roller I
+Spell: Roller II
+Spell: Roller III
+Spell: Roller IV
+Spell: Roller V
+Spell: Roller VI
+Spell: Rumble
+Spell: Silence I
+Spell: Silence II
+Spell: Silence III
+Spell: Silence IV
+Spell: Silence V
+Spell: Silence VI
+Spell: Summon Aloe Gel
+Spell: Summon Archers I
+Spell: Summon Archers II
+Spell: Summon Archers III
+Spell: Summon Archers IV
+Spell: Summon Archers V
+Spell: Summon Archers VI
+Spell: Summon Blood Skeleton
+Spell: Summon Blood Zombie
+Spell: Summon Flaming Sword I
+Spell: Summon Flaming Sword II
+Spell: Summon Flaming Sword III
+Spell: Summon Flaming Sword IV
+Spell: Summon Flaming Sword V
+Spell: Summon Flaming Sword VI
+Spell: Summon Nether Imp I
+Spell: Summon Nether Imp II
+Spell: Summon Nether Imp III
+Spell: Summon Nether Imp IV
+Spell: Summon Nether Imp V
+Spell: Summon Skeleton I
+Spell: Summon Skeleton II
+Spell: Summon Skeleton III
+Spell: Summon Skeleton IV
+Spell: Summon Skeleton V
+Spell: Summon Skeleton VI
+Spell: Summon Zombies I
+Spell: Summon Zombies II
+Spell: Summon Zombies III
+Spell: Summon Zombies IV
+Spell: Summon Zombies V
+Spell: Summon Zombies VI
+Spell: Tunnelers
+Spell: Web I
+Spell: Whirling Flames
+Spellbinder Shoulders
+Spellbreaker Breeches
+Spellfire Belt
+Spellfire Pendant
+Spellfire Ring
+Spellgunner's Amulet
+Spellgunner's Belt
+Spellgunner's Ring
+Spellstaff
+Spellweaver
+Spellweaver Armor
+Spellweaver Belt
+Spellweaver Champion
+Spellweaver Helm
+Spellweaver Pants
+Spellweaver Shoulders
+Spent Ember
+Sphinx
+Spicer's Amulet
+Spider
+Spider - Vampiric
+Spider Egg
+Spider Mine
+Spider Mine Explosion
+Spider Mines
+Spider Nest
+Spider Web
+Spider's Lament
+Spiderling
+Spike Axe
+Spike-Tooth Wand
+Spikebeard Greataxe
+Spiked Bow
+Spiked Collar
+Spiked Glove
+Spiked [ITEM]
+Spikedriver
+Spikeskull Pick
+Spinechill
+Spinecord Crossbow
+Spinecracker
+Spinegun
+Spinepiercer
+Spirit
+Spirit Key
+Spite
+Splinter Wraith
+Splinterdark
+Splinterdoom
+Splintergloom
+Splinterjade
+Split Skeleton
+Splitkick Breeches
+Splitkick Shoulders
+Splitting Skeleton
+Spontoon
+Spooky
+Spore Sprout
+Sprawl Street Pistol
+Sprawler's Blade
+Sprocket
+Sputnik
+Stab
+Staff
+Staff Mastery
+Staff of Industry
+Staff of Rah
+Staff of the Ancestor
+Staff-o'-the-Wild
+Stag
+Stairs Down
+Stairs Up
+Stampede
+Standard of the Python
+Standing Stone
+Star Caestus
+Star's Breach
+Star-Bladed Mace
+Starblade
+Starfall's Command
+Stari
+Stash
+Statue
+Steam-Loaded Pistol
+Steam-Tech Nine
+Steam-Valve Rifle
+Steampowered Shotgonne
+Steel Armor
+Steel Belt
+Steel Boots
+Steel Bore Cannon
+Steel Brand
+Steel Breastplate
+Steel Burgonet
+Steel Corslet
+Steel Gauntlets
+Steel Gloves
+Steel Greaves
+Steel Helm
+Steel Longsword
+Steel Mace
+Steel Pants
+Steel Pauldrons
+Steel Poleyns
+Steel Sabatons
+Steel Sallet
+Steel Shoulders
+Steel Sollerets
+Steel Spaulders
+Steel Sword
+Steel Vambraces
+Steel-Thorn Greataxe
+Steeleye Mace
+Steelfang
+Steelfire Battleblade
+Steelgaze Scepter
+Steelhead Buckler
+Steelhead Fixer
+Stennbrun
+Stennbrun's Hammer
+Sticky Bomb
+Sticky Bombs
+Sticky Web
+Stock Crossbow
+Stocking Gun
+Stone Ailettes
+Stone Armor
+Stone Axe
+Stone Barbute
+Stone Belt
+Stone Bolt Amulet
+Stone Bolt Ring
+Stone Boots
+Stone Bracers
+Stone Breastplate
+Stone Brogans
+Stone Chestplate
+Stone Clogs
+Stone Door
+Stone Fang Amulet
+Stone Fang Ring
+Stone Faulds
+Stone Flame Amulet
+Stone Flame Ring
+Stone Giant Blade
+Stone Gloves
+Stone Hammer
+Stone Helm
+Stone Helmet
+Stone Kilt
+Stone Pact
+Stone Pants
+Stone Pillar
+Stone Shard Amulet
+Stone Shard Ring
+Stone Shoulders
+Stone Smallsword
+Stone Spaulders
+Stone Vambraces
+Stone-Blade Greataxe
+Stonecrush Maul
+Stonesplitter Hammer
+Stonewedge Mace
+Stonewheel Hammer
+Storm
+Storm Burst
+Storm Focus
+Storm Hatchet
+Stormbow
+Stormclaw
+Stormcore
+Stormfront Stompers
+Stormheart
+Stormstone
+Straight-Shot Shoulder-Guards
+Strange Key
+Strange Scroll
+Stregheria Sandals
+Striking Dragon Staff
+Striking Hawk Spear
+Strong [ITEM]
+Stronghold of Dreams
+Studded Collar
+Studded Glove
+Stunned
+Stunning [ITEM]
+Sturdy Ailettes
+Sturdy Belt
+Sturdy Boots
+Sturdy Breastplate
+Sturdy Breeks
+Sturdy Brogans
+Sturdy Cap
+Sturdy Cuirass
+Sturdy Gauntlets
+Sturdy Gloves
+Sturdy Leggings
+Sturdy Pants
+Sturdy Shoes
+Sturdy Shoulders
+Sturdy Skullcap
+Sturdy Spangenhelm
+Sturdy Spaulders
+Sturdy Tunic
+Sturdy Vambraces
+Sturm Bolt Amulet
+Sturm Bolt Ring
+Sturm Fang Amulet
+Sturm Fang Ring
+Sturm Flame Amulet
+Sturm Flame Ring
+Sturm Pound
+Sturm Shard Amulet
+Sturm Shard Ring
+Sturm Shield
+Sturm Spike Mine
+Sturm Spike Mine Mortar
+Sturm Spike Shot
+Sturm Spike Shot Rapid
+Sturmbeorn Armor
+Sturmbeorn Belt
+Sturmbeorn Boots
+Sturmbeorn Breastplate
+Sturmbeorn Chestplate
+Sturmbeorn FireStaff
+Sturmbeorn Gauntlets
+Sturmbeorn Gloves
+Sturmbeorn Greaves
+Sturmbeorn Helm
+Sturmbeorn Houndskull
+Sturmbeorn Hundsgugel
+Sturmbeorn Leggings
+Sturmbeorn Necro-Staff
+Sturmbeorn Pants
+Sturmbeorn Pauldrons
+Sturmbeorn Schynbalds
+Sturmbeorn Shoulders
+Sturmbeorn Spaulders
+Sturmbeorn Staff
+Sturmbeorn Steelfists
+Sturmbeorn Tassets
+Sturmby Tent
+Sturmclaw
+Suicide Wand
+Sultan Wakeel
+Summon Alchemic Golem MkII
+Summon Alchemic Golem MkIII
+Summon Alchemic Golem MkULTRA
+Summon Alchemic Golem V2
+Summon Alchemic Golem V2 MkII
+Summon Alchemic Golem V2 MkIII
+Summon Alchemic Golem V3
+Summon Alchemic Golem V3 MkII
+Summon Alchemic Golem V3 MkIII
+Summon Alchemical Golem
+Summon Aloe Gel
+Summon Archers I
+Summon Archers II
+Summon Archers III
+Summon Archers IV
+Summon Archers V
+Summon Archers VI
+Summon Beam Golem
+Summon Blood Skeleton
+Summon Blood Zombie
+Summon Boon the Collector
+Summon Flaming Sword I
+Summon Flaming Sword II
+Summon Flaming Sword III
+Summon Flaming Sword IV
+Summon Flaming Sword V
+Summon Flaming Sword VI
+Summon Nether Imp I
+Summon Nether Imp II
+Summon Nether Imp III
+Summon Nether Imp IV
+Summon Nether Imp V
+Summon Skeleton I
+Summon Skeleton II
+Summon Skeleton III
+Summon Skeleton IV
+Summon Skeleton V
+Summon Skeleton VI
+Summon Zombies I
+Summon Zombies II
+Summon Zombies III
+Summon Zombies IV
+Summon Zombies V
+Summon Zombies VI
+Sun Medallion
+Sunbeam
+Sundered Battlefield
+Sundial
+Sunglaze Needle
+Super Health Potion
+Super Mana Potion
+Super Rejuvenation Potion
+Supercharge
+Supercharge Weapon
+Superior [ITEM]
+Support Schynbalds
+Surge Tag
+Surveyor Boots
+Surveyor Gloves
+Surveyor Goggle-Cap
+Surveyor Jacket
+Surveyor Pants
+Surveyor Shoulders
+Sushi Grade Fish Meat
+Susperia
+Swamp Flier Scream
+Swamp Golem
+Swamp Troll
+Swampflyer
+Swampwing
+Swarm Point
+Sweep Blade
+Sweet-Aide
+Sweltering Tag
+Swift [ITEM]
+Sword
+Sword and Board
+Symbol of the Davi Child
+Synergistic [ITEM]
+TEST
+TNT Barrel
+TNT Bomb
+Tabitha
+Tag of Bolts
+Tag of Static
+Tainted Tag
+Taking Notes
+Talisman of Yendor
+Tallbow
+Tams the Merchant
+Tangling Shot
+Taper Shield
+Tar Ball
+Tar Drop
+Tar Slime
+Target Dummy
+Tarroch's Battle-Brassarts
+Tarroch's Battle-Gloves
+Tarroch's Battlebreeks
+Tarroch's Boots
+Tarroch's Breeches
+Tarroch's Gloves
+Tarroch's Greatcoat
+Tarroch's Greathelm
+Tarroch's Helm
+Tarroch's Hobnail Boots
+Tarroch's Leather Gloves
+Tarroch's Mailcoat
+Tarroch's Masterhelm
+Tarroch's Rift
+Tarroch's Shoulders
+Tarroch's Surcoat
+Tarroch's Tackety Boots
+Tarroch's Tomb
+Tarroch's Trousers
+Tarroch's War-Spaulders
+Tasty Fish Meat
+Tatterwing
+Teardrop Shield
+Teleport
+Telescoping Goggle-Helm
+Telias's Tunic
+Telsor of the Storm
+Ten Gauge Revolver
+Tenebra's Armor
+Tenebra's Boots
+Tenebra's Bracers
+Tenebra's Helm
+Tenebra's Shoulders
+Tenebre
+Tenebris Arm-Guards
+Tenebris Boots
+Tenebris Doublet
+Tenebris Helm
+Tenebris Hose
+Tenebris Shoulders
+Tentacle
+Tentacle Statue
+Terror
+Tesla's Coilgun
+Tesla's Lament
+Test Room
+Thargo's Mighty Boots
+Thargo's Mighty Helm
+Thargo's Mighty Mailcoat
+Thaster
+Thaymor
+The Administrator
+The Adventure Continues
+The Agitator
+The Ailettes of Severax
+The Amulet of Frost
+The Amulet of Ludo
+The Armor of Severax
+The Asphyx
+The Astonished Heart
+The Astrolabe Ring
+The Axe of Broken Pacts
+The Axe of Throwing
+The Axe of War
+The Axe of the Ogre King
+The Badge of Tos
+The Band of Bone
+The Banewand
+The Battlecrown
+The Battlemantle
+The Beast with a Million Eyes
+The Beatdowners
+The Beckoners
+The Belt Ex Oblivione
+The Belt of Bloodlust
+The Belt of Bolruk
+The Belt of Bone
+The Belt of Captain Castle
+The Belt of Carnage
+The Belt of Slaughter
+The Belt of the Mucker
+The Beyond
+The Black Glove
+The Black Knight's Brassarts
+The Black Knight's Breeches
+The Black Knight's Helm
+The Blackburne Band
+The Blackburne Ring
+The Blackburne Signet
+The Blackpowder Staff
+The Blightbogs
+The Blood Monkey
+The Bloody Red Helm
+The Bloody Red Mailcoat
+The Blue Boletus
+The Blue Fang
+The Bone Gallery
+The Boots of Severax
+The Bouncer
+The Bow of Heroes
+The Bracers of Severax
+The Brave Ones
+The Breeks of Severax
+The Brigandine of Severax
+The Broadshoulders
+The Broken Mines
+The Broken Ring
+The Brood Hive
+The Brutal Belt
+The Burdenbearers
+The Burial Chambers
+The Caliphaze
+The Cast-Iron Ring
+The Cave-In
+The Cavitator
+The Celsus Band
+The Centerwing
+The Centurius
+The Champion
+The Chevalion
+The Circle of Shadows
+The Clonus Horror
+The Cogsplitter
+The Coif of Severax
+The Corona
+The Corrupted Crypt
+The Crab King
+The Crab Trap
+The Critical Factor
+The Critter-King's Crown
+The Crown of Ashes
+The Crucibelt
+The Cruel Hand of Fate
+The Dark Alchemist
+The Day of the Beast
+The Dead Shoals
+The Death Sentence
+The Death Toll
+The Deep One Ring
+The Diolkos Device
+The Direhelm
+The Disenchanter
+The Djinni's Final Task
+The Djinni's First Task
+The Djinni's Next Task
+The Double-Deckers
+The Dragonhorn Halberd
+The Dragonspike
+The Dragonspine
+The Dragonstaff
+The Duskers
+The Earth Dies Screaming
+The Effrenatus Band
+The Embalmer
+The Ember Keys
+The Emberscratch Mines
+The Emberworks
+The Emerald Eye
+The Emerald Heart
+The Emperor's Wrath
+The Empire Builder
+The Ethereal Ring
+The Eve of War
+The Evil Eye
+The Evil Eye 
+The Eviscerator
+The Executioner's Kiss
+The Extension Sword
+The Eye of Aleera
+The Eye of Aruk
+The Eye of Bloatfang
+The Eye of Boletus Rex
+The Eye of Cacklespit
+The Eye of Eldrayn
+The Eye of Envy
+The Eye of Ezrek Khan
+The Eye of Gallo
+The Eye of Grell
+The Eye of Grom
+The Eye of Gunnbren
+The Eye of Jade
+The Eye of Jutham Kasam
+The Eye of Kidrik
+The Eye of King Pogg
+The Eye of Marishka
+The Eye of Mordrox
+The Eye of Prion-Kuru
+The Eye of Stennbrun
+The Eye of Tiamat
+The Eye of Verona
+The Eye of Winter Widow
+The Eye of the Artificer
+The Eye of the Dark Alchemist
+The Eye of the Dragon
+The Eye of the Grizzled Alpha
+The Eye of the Killbot
+The Eye of the Mana Guardian
+The Eye of the Manaforged
+The Eye of the Manticore
+The Eye of the Netherlord
+The Eye of the Wraith Lord
+The Eyes
+The Faceless King
+The Final Arbiter
+The Final Component
+The Final Embrace
+The Flamecoat
+The Flamegloves
+The Flammenbund
+The Forgotten Hero
+The Forgotten Lair
+The Forsaken Vaults
+The Fraybreeks
+The Fraymantle
+The Frosted Hills
+The Funken Collar
+The Funkenring
+The Gann Ring
+The Gauntlets of Severax
+The Gear of War
+The Gearhead
+The Ghoulfire Band
+The Girdle of Ludo
+The Glimmer of Hope
+The Glimmergreen
+The Glittergreen
+The Gloomgloves
+The Goonbreeks
+The Gorgon 
+The Grammar Hammer
+The Grand Design
+The Gray
+The Greaves of Severax
+The Gristmill
+The Guardian's Gaze
+The Guardian's Tale
+The Hackmaster
+The Hairy Eyeball
+The Hakken Choker
+The Halo
+The Hammontree Amulet
+The Hardy Medallion
+The Harrowhelm
+The Haymaker
+The Headsman's Caress
+The Heart Of Two Beasts
+The Heart of Ordrak
+The Heart of the World
+The Heartsleeves
+The Helm of Conquest
+The Helm of Severax
+The Hero's Journey
+The Hobgoblin
+The Honorguard's Touch
+The Hornet's Nest
+The Howling Flame
+The Hunting God's Bow
+The Ice Doom Scepter
+The Icy Hand of Death
+The Integral Segment
+The Iron Grip
+The Ivory Signet
+The Judge's Gavel
+The Judge's Hand
+The Keeper's Journal
+The Key to Victory
+The Killdozer
+The King in Masks
+The King of Quarry
+The Kingmaker
+The Last Word
+The Laughing Blaze
+The Light of Dawn
+The Locket
+The Long and Winding Ring
+The Lost Hold
+The Lost Key
+The Lost Okwari Caves
+The Mace of Virtue
+The Mail of Conquest
+The Mailstromm
+The Malcontent
+The Manaforged
+The Mandlebow
+The Manticore
+The Manticore's Lair
+The Mapworks
+The Mask of Kings
+The Mask of Queens
+The Mask of the Wazir
+The Matchstick Medallion
+The Mechano-Axe
+The Midnight Quarter
+The Minehead
+The Mini-Maul
+The Missing Zeraphi
+The Monster Mash
+The Mountain King's Axe
+The Murder Tool
+The Myrmidiac
+The Necromantium
+The Nether-Ring
+The Nightmare Hammer
+The Nimbus
+The Ninth Gate
+The Ogre's Fist
+The Olenjacket
+The Ossarch
+The Ossean Wastes
+The Overwrought Pendant
+The Pacma Pendant
+The Paladin's Fist
+The Pants of Severax
+The Pendant of Pegg
+The Peregrine Gun
+The Plague of the Zombies
+The Plummer Pendant
+The Possessed
+The Power Behind the Throne
+The Power Source
+The Primitive God
+The Prophecy
+The Rabble-Rouser
+The Ravenous Ring
+The Red Hook Band
+The Red Legs
+The Rift Keep
+The Ring of Bolruk
+The Ring of Ethereal Flame
+The Ring of Fangs
+The Ring of Ludo
+The Ring of Necromius
+The Ring of Steel on Steel
+The Ring of Versipellis
+The Ring of Vitrifilius
+The Rivenskull Gorge
+The Rotted Path
+The Rules of the Game 
+The Runeband
+The Runebinding
+The Salt Barrens
+The Samaritan
+The Sash of Brother Jacobi
+The Sash of Doctor Padd
+The Savage Belt
+The Savage Sword
+The Scorcher
+The Scorpion
+The Scrapworks
+The Scroll of Anom-Irek
+The Searing Amulet
+The Searing Gauntlets
+The Searing Medallion
+The Searing Pendant
+The Senet Pendant
+The Serpent
+The Shadowpants
+The Shard Ring
+The Shardifact
+The Shardlance
+The Shoulders of Severax
+The Siege is Broken
+The Singing Fire
+The Singularity
+The Skull
+The Slaghelm
+The Slow Hand of Justice
+The Smaragdus
+The Snow Witch Scepter
+The Song of Slaying
+The Spellband
+The Spellbinding
+The Spellring
+The Spelltithe
+The Stamp of Disapproval
+The Star-Shard
+The Starlight Blade
+The Starry Wisdom Belt
+The Steampike
+The Stink-Eye
+The Stormgirdle
+The Stormrider
+The Stormring
+The Stygian Aerie
+The Sundered Battlefield
+The Sundered Ring
+The Swarm
+The Sword of Oakeshott
+The Temple Steppes
+The Three Sisters
+The Thunderbow
+The Thunderhammer
+The Trane Track
+The Triskelion Fragment
+The Troll's Knuckle
+The Trollboots
+The Ultimate Foundation
+The Undercurrents
+The Unforgiven
+The Untold Story
+The Vitruvian Ring
+The Voice of Pain
+The Voynich Cassock
+The Voynich Gloves
+The Voynich Hose
+The Voynich Sandals
+The Voynich Skullcap
+The Voynich Spaulders
+The Wanderhelm
+The Wanderlusters
+The Warbeast Armory
+The Warforge
+The Warmantle
+The Watchweald Eye
+The Wellspring Treasury
+The Whispercowl
+The Whispershroud
+The Whisperveil
+The White Diamond
+The Widowmaker
+The Wightcrown
+The Wightmantle
+The Winterfrost Cloak
+The Witherways
+The Wizard of Gore
+The Word of Wounds
+The Wraithring
+The Wraithwings
+The Wrought-Iron Belt
+The Wrought-Iron Medallion
+The Wrought-Iron Ring
+The Wumpus Medallion
+The Wyrdaxe
+The Wyrdbolt Pendant
+The Wyrdfire Ring
+The Wyrdhammer
+The Wyrdshard Ring
+The Wyrdsplinter Ring
+The Wyrdwand
+The Wyvern's Sting
+The Xiangqi Shard
+The Zeraphi Envoy
+The Ziddercrown
+The deWhalley Pendant
+Theos
+Thiss
+Thorned Minions
+Threaded Bolt Driver
+Threaded Nut
+Three Steel Sword
+Three-Hand Sword
+Thrist
+Throwing Axe
+Thuggs
+Thunder
+Thunder Hammer
+Thunder Locus
+Thunder Tag
+Thunderbolter
+Thunderbuss
+Thundergun
+Thunderstrike
+Tiamat's Wrath
+Tibbeek Skull
+Tiger Lilly
+Timber Axe
+Timefork
+Tinder Tag
+Tinkerband
+Tinya
+Titan Stomp
+To Zeryphesh
+To the Wildlands
+Token of Safe Passage
+Tolerated
+Tomahawk
+Tomb Fiend
+Tomb Jailer
+Tomb of Ligeia 
+Tombstone Maul
+Tome Of Revelation
+Tome: Adrenaline Burst
+Tome: Adrenaline Rush
+Tome: Adrenaline Shock
+Tome: Adventuring I
+Tome: Adventuring II
+Tome: Adventuring III
+Tome: Adventuring IV
+Tome: Adventuring V
+Tome: Adventuring VI
+Tome: Arcane Tools I
+Tome: Arcane Tools II
+Tome: Arcane Tools III
+Tome: Arcane Tools IV
+Tome: Arcane Tools V
+Tome: Arcane Tools VI
+Tome: Armor Expertise I
+Tome: Armor Expertise II
+Tome: Armor Expertise III
+Tome: Armor Expertise IV
+Tome: Armor Expertise V
+Tome: Armor Expertise VI
+Tome: Barter I
+Tome: Barter II
+Tome: Barter III
+Tome: Barter IV
+Tome: Barter V
+Tome: Barter VI
+Tome: Blocking I
+Tome: Blocking II
+Tome: Blocking III
+Tome: Blocking IV
+Tome: Blocking V
+Tome: Blocking VI
+Tome: Concentration
+Tome: Concentration II
+Tome: Concentration III
+Tome: Concentration IV
+Tome: Concentration V
+Tome: Concentration VI
+Tome: Critical Strikes I
+Tome: Critical Strikes II
+Tome: Critical Strikes III
+Tome: Critical Strikes IV
+Tome: Critical Strikes V
+Tome: Critical Strikes VI
+Tome: Dual Wielding I
+Tome: Dual Wielding II
+Tome: Dual Wielding III
+Tome: Dual Wielding IV
+Tome: Dual Wielding V
+Tome: Dual Wielding VI
+Tome: Marksmanship I
+Tome: Marksmanship II
+Tome: Marksmanship III
+Tome: Marksmanship IV
+Tome: Marksmanship V
+Tome: Marksmanship VI
+Tome: Treasure Hunter I
+Tome: Treasure Hunter II
+Tome: Treasure Hunter III
+Tome: Treasure Hunter IV
+Tome: Treasure Hunter V
+Tome: Treasure Hunter VI
+Tome: Weapons Expertise I
+Tome: Weapons Expertise II
+Tome: Weapons Expertise III
+Tome: Weapons Expertise IV
+Tome: Weapons Expertise V
+Tome: Weapons Expertise VI
+Tome: Willpower I
+Tome: Willpower II
+Tome: Willpower III
+Tome: Willpower IV
+Tome: Willpower V
+Tome: Willpower VI
+Tome:  Animal Handling I
+Tome:  Animal Handling II
+Tome:  Animal Handling III
+Tome:  Animal Handling IV
+Tome:  Animal Handling V
+Tome:  Animal Handling VI
+Tong
+Topper
+Torchbearer
+Tormbrock Claymore
+Tormentor
+Torque Ring
+Torquetum Ring
+Torso
+Tortho the Gem Saver
+Totem
+Totemic Greataxe
+Toth the Coward
+Tough [ITEM]
+Tower Shield
+Tower of the Moon
+Toxic Tag
+Trail of the Grand Regent
+Trailblazer Armor
+Trailblazer Baldric
+Trailblazer Belt
+Trailblazer Boots
+Trailblazer Bracers
+Trailblazer Breeches
+Trailblazer Capeline
+Trailblazer Cloak
+Trailblazer Clog Boots
+Trailblazer Clogs
+Trailblazer Gauntlets
+Trailblazer Gloves
+Trailblazer Greatcoat
+Trailblazer Helm
+Trailblazer Overcoat
+Trailblazer Pants
+Trailblazer Shoulders
+Trailblazer Skullcap
+Trailblazer Trousers
+Training Collar
+Trancendent Bracers
+Trancendent Crown
+Trancendent Icon
+Trancendent Jacket
+Trancendent Mantle
+Trancendent Ring
+Trancendent Sash
+Trancendent Shoes
+Trancendent Trousers
+Tranquil Censer
+Transcendent
+Transcendent Lyre
+Trap Door
+Trapper Pistol
+Traveler's Charm
+Traveling Staff
+Travelling Pantaloons
+Treasure Hunter
+Treasure Map
+Treechop
+Treesapper
+Tremble, mortals, and despair!  Doom has come to this world!
+Tremor
+Tremor Armor
+Trench Hammer
+Trench Knife
+Trevor
+Tri-claw Shank
+Tri-force Catalyst
+Tribal Bow
+Tribal Greataxe
+Tribal Staff
+Tribal War-Sledge
+Tribal Warshield
+Trident Dagger
+Trill-Bot 4000
+Trish
+Trog Cerebrite
+Trog Grot
+Trog Hurler
+Troglodyte
+Troglodyte Grot
+Troll Knucks
+Trollcleaver
+Trollcutter
+Trollpierce
+Trollrender
+Trollsapper
+Trollspike
+Trophy Pistol
+Troublemaker
+Troughtonius
+Trousers of the Overseer
+Trousers of the Winter Magus
+True Blade
+True Estheria Armor
+True Estheria Belt
+True Estheria Boots
+True Estheria Broach
+True Estheria Gauntlets
+True Estheria Helmet
+True Estheria Pants
+True Estheria Ring
+True Estheria Shoulders
+True North
+True North Armor
+True North Boots
+True North Gloves
+True North Pants
+True Sword
+Truesilver Compass
+Trufflesnout Fish
+Truncheon
+Trunk
+Tu'tara Flamecaller
+Tu'tara Sandstrider
+Tu'tara Sandweaver
+Tu'tara Sentry
+Tu'tara Spotter
+Tulio the Enchanter
+Tundra
+Tuned Staff
+Tung
+Tunic of Extreme Comfort
+Tunic of Taskmaster Tempus
+Tunic of Triangulation 
+Tunnel Shark
+Tunnelers
+Turquet Band
+Turret
+Tutara Cliffguard
+Tutara Duneranger
+Tutara Hunter
+Tutara Lancer
+Tutara Sandweaver
+Tutara Skullcrusher
+Tutara Warlord
+Tutara Wrecker
+Tutaran Trap
+Twang
+Tweeds of the Big Yin
+Twelve Gauge
+Twilight Vambraces
+Twin Spear
+Twinblade Claw
+Twinblade Ripper
+Twinferno
+Twinferno Wand
+Twistblade Pixie
+Twisted Bone Staff
+Twisted Companion
+Twisted Fate
+Twisted Tools
+Twitch of the Death Nerve 
+Two Stroke
+Two Stroke Hammer
+Two Thousand Maniacs!
+Two-Barrel Revolver
+Two-Finger Claw
+Two-Handed Axe
+Two-Handed Sword
+Two-Hander
+Two-Headed Viper
+Uber Test Room
+Ulrec
+Ultimate Health Potion
+Ultimate Mana Potion
+Ultimate Rejuvenation Potion
+Ultimatum
+Umahd
+Umbral Trousers
+Unapom Skull
+Unattainable
+Undercurrents Maggot
+Unearthly
+Unearthly Belt
+Unearthly Bracers
+Unearthly Brassarts
+Unearthly Breeks
+Unearthly Hauberk
+Unearthly Helmet
+Unearthly Hikers
+Unearthly Ring
+Unearthly Token
+Unidentified Amulet
+Unidentified Axe
+Unidentified Belt
+Unidentified Boots
+Unidentified Bow
+Unidentified Cannon
+Unidentified Chest Armor
+Unidentified Claw
+Unidentified Collar
+Unidentified Crossbow
+Unidentified Gloves
+Unidentified Greataxe
+Unidentified Greathammer
+Unidentified Greatsword
+Unidentified Helmet
+Unidentified Mace
+Unidentified Pants
+Unidentified Pet Tag
+Unidentified Pistol
+Unidentified Polearm
+Unidentified Rifle
+Unidentified Ring
+Unidentified Shield
+Unidentified Shotgonne
+Unidentified Shoulders
+Unidentified Staff
+Unidentified Sword
+Unidentified Wand
+Unrecognized
+Unstable Acceleration
+Unusual Component
+Urn
+Valeria
+Valgang Axe
+Valgang Hammer
+Valgang Roundshield
+Valgang Toothpick
+Valgang War Axe
+Valkyrie
+Valkyrie Amulet
+Valkyrie Belt
+Valkyrie Burgonet
+Valkyrie Cataphract
+Valkyrie Gauntlets
+Valkyrie Pauldrons
+Valkyrie Ring
+Valkyrie Sabatons
+Valkyrie Tassets
+Valmarken Axe
+Valmarken Skullsplitter
+Vambraces of Lady Brantley
+Vambraces of Vitrifilius
+Vambraces of the Bloodless Count
+Vampiric Spider
+Vampiric Spider Egg
+Vampiric [ITEM]
+Vance's Cape
+Vance's Gloves
+Vance's Leggings
+Vance's Robe
+Vance's Shoes
+Vance's Skullcap
+Vaneez the Poisoner
+Vanquisher
+Vanquisher Armor
+Vanquisher Belt
+Vanquisher Boots
+Vanquisher Captain
+Vanquisher Commando
+Vanquisher Gloves
+Vanquisher Guard
+Vanquisher Helm
+Vanquisher Medic
+Vanquisher Pants
+Vanquisher Scout
+Vanquisher Sentry
+Vanquisher Shoulders
+Vargulf Claw
+Varkolyn Arm-Guards
+Varkolyn Armor
+Varkolyn Belt
+Varkolyn Bolt Amulet
+Varkolyn Bolt Ring
+Varkolyn Boots
+Varkolyn Brassarts
+Varkolyn Brute
+Varkolyn Chestplate
+Varkolyn Chief
+Varkolyn Claw-Boots
+Varkolyn Claw-Gloves
+Varkolyn Cuirass
+Varkolyn Fang Amulet
+Varkolyn Fang Ring
+Varkolyn Flame Amulet
+Varkolyn Flame Ring
+Varkolyn Gloves
+Varkolyn Helm
+Varkolyn Hood
+Varkolyn Hunter
+Varkolyn Hurler
+Varkolyn Kirtle
+Varkolyn Mage's Staff
+Varkolyn Overlord
+Varkolyn Pants
+Varkolyn Shard Amulet
+Varkolyn Shard Ring
+Varkolyn Sharpshooter
+Varkolyn Shoulders
+Varkolyn Skullcap
+Varkolyn Spawner
+Varkolyn Staff
+Varkolyn Talon-Boots
+Varkolyn Talon-Gloves
+Varkolyn Tassets
+Varkolyn Warlock
+Varkolyn Whelpling
+Varmint Choker
+Varmint Cinch
+Varmint Stub
+Varmint Tag
+Vasman
+Vault of Souls
+Vellinque Skull
+Vendor Boon Scroll
+Venin Tag
+Venom Ember
+Venom Ember Chip
+Venom Ember Shard
+Venom Ember Speck
+Venom Spider
+Venom Tag
+Venomfish
+Venomous Cliff Crawler
+Venomous Dirks
+Venomous Hail
+Venomous [ITEM]
+Vented Shotgonne
+Verona
+Very Adept [ITEM]
+Very Deadly [ITEM]
+Very Healthy [ITEM]
+Very Powerful [ITEM]
+Very Prickly [ITEM]
+Very Sharp [ITEM]
+Very Smart [ITEM]
+Very Strong [ITEM]
+Very Swift [ITEM]
+Very Tough [ITEM]
+Vicious [ITEM]
+Victory's Bend
+Viewpoint
+Vilderan Oxbow
+Vilderan Ripsaw
+Vile Gnasher
+Vile Tag
+Violet
+Viridiax
+Virulent [ITEM]
+Viscous Longbow
+Void Ember
+Void Ember Chip
+Void Ember Shard
+Void Ember Speck
+Void Ray
+Voidsaber
+Voidspawned Longbow
+Volatile Ember
+Voltaic Archer
+Voltaic Bat
+Vortex Glaive
+Vortex Hex
+Vortex Mage
+Voulge
+Vyrax
+Vyrax's Heartfire
+Vyrax's Tower
+Wagon Under Attack
+Walkabout Boots
+Walking Staff
+Wallop Grinder
+Wand Chaos
+Wanderer Ring
+Wanderlust
+Wanderlust Armor
+Wanderlust Boots
+Wanderlust Gloves
+Wanderlust Pants
+War Axe
+War Bardiche
+War Bow
+War Buckler
+War Caber
+War Club
+War Guisarme
+War Hammer
+War Mace
+War Mallet
+War Maul
+War Saber
+War Scythe
+War Shield
+War Sledge
+War Sword
+War Titan
+War Troll
+War-Dog Boots
+War-Rune Shield
+Warbeast
+Warbeast Pack Leader
+Warbinder's Amulet
+Warcaster Armor
+Warcaster Boots
+Warcaster Gauntlets
+Warcaster Helm
+Warcaster Shoulders
+Warcaster Trousers
+Warder's Badge
+Warfare
+Wariz Mask
+Warlock Belt
+Warlock Cap
+Warlock Dueling Pistol
+Warlock Gloves
+Warlock Helm
+Warlock Leathers
+Warlock Mantle
+Warlock Overcoat
+Warlock Pantaloons
+Warlock Pants
+Warlock Pendant
+Warlock Shoes
+Warlock Shoulders
+Warmaker
+Warmaster
+Warming [ITEM]
+Warn the Estherians
+Warneedle
+Warshark
+Warsnout
+Warspike
+Warstaff
+Warstar
+Wash Away My Sins
+Wasteland Bow
+Watchweald Temple
+Water Shrine
+Waterlogged Corpse
+Wax Fruit Bowl
+Wayfarers
+Waygate
+Waygate to Town
+Waypoint
+Waypoint Portal
+Waypoint Portal Scroll
+Waypoint Portal Spell
+Waywatcher
+Wazir
+Wazir Ailettes
+Wazir Armor
+Wazir Barbute
+Wazir Belt
+Wazir Boots
+Wazir Bracers
+Wazir Cloth Slippers
+Wazir Gloves
+Wazir Gorget
+Wazir Hauberk
+Wazir Helm
+Wazir Ka Bolt Amulet
+Wazir Ka Bolt Ring
+Wazir Ka Fang Amulet
+Wazir Ka Fang Ring
+Wazir Ka Flame Amulet
+Wazir Ka Flame Ring
+Wazir Ka Shard Amulet
+Wazir Ka Shard Ring
+Wazir Kilt
+Wazir Mailcoat
+Wazir Pants
+Wazir Shoulders
+Wazir Silk Slippers
+Wazir Spaulders
+Wazir Tassets
+Wazir Vambraces
+Wealdhammer
+Wealthy [ITEM]
+Weapon Rack
+Weapons Expertise
+Web
+Web Fish
+Web-Shooter
+Webbed Victim
+Webbstre's Talisman
+Webshredder
+Welcome to Torchlight II!
+Well-Known
+Wellspring Temple
+Werewolf
+Wfuntir Skull
+Wheellock Pistol
+Whirling Flames
+Whirlpool of Fate 
+Whisperdoom
+Whispering Cave
+Whispershard
+Whisperstep Slippers
+White Buckle
+White Fang Creeper
+WhiteSpiderSpawner
+Whootcord
+Wicked Talisman
+Wicker Grove
+Widely Known
+Widget
+Widow's Veil
+Wightarrow Amulet
+Wightarrow Fragment
+Wightboots
+Wightcloak
+Wightfang
+Wightfire Amulet
+Wildwood
+Wildwood Amulet
+Wildwood Belt
+Wildwood Boots
+Wildwood Chest
+Wildwood Gloves
+Wildwood Helm
+Wildwood Pants
+Wildwood Ring
+Wildwood Shoulders
+Willpower
+Wind Wall
+Wind of Justice
+Windchillers
+Windshear Breeches
+Wine Bottle
+Winnower
+Winston
+Winter Tag
+Winter Widow
+Winter's Mantle
+Winter's Reach
+Winterkiss Tag
+Wintry Cloak
+Wisp
+Witch-Wand
+Witchfinder Band
+Witchfinder Boots
+Witchfinder Breeches
+Witchfinder Gauntlets
+Witchfinder Hat
+Witchfinder Jacket
+Witchfinder Mantle
+Witchfinder Medallion
+Wizard Staff
+Wolf
+Wolf Shade
+Wolfpack
+Wolfstrike
+Wood Shield
+Wood Wraith
+Wooden Sword
+Work-Boots of Overtime
+Worldspike
+Wounded Vanquisher
+Wounded Zeraphi
+Woven Beret
+Woven Brigandine
+Woven Epaulettes
+Woven Gaiters
+Woven Gauntlets
+Woven Trousers
+Wraith
+Wraith Lord
+Wraith Lord's Axe
+Wraith Lord's Hammer
+Wraith Lord's Mace
+Wraith Lord's Spear
+Wraithsplinter
+Wrapped Bow
+Wrathring
+Wright's Ring
+Writhing Longbow
+Wyrdband
+Wyrdfang
+Wyrdstaff
+Wyrdwrath
+Wyvern Citadel
+Wyvern Citadel Boss
+Wyvern Citadel Map (L66-75)
+Wyvern Keep
+Wyvern Keep Boss
+Wyvern Keep Map (L48-55)
+Wyvern Spike
+Wyvern Stronghold
+Wyvern Stronghold Boss
+Wyvern Stronghold Map (L56-65)
+Xax Skull
+Xtro's Blades
+Xtro's Horn
+Xtro's Maw
+Yakator Mage
+Yellow Basilisk Eye
+Yellow Fang Amulet
+Yellow Fang Ring
+Yellow Flame Amulet
+Yellow Flame Ring
+Yellow Forest Amulet
+Yellow Forest Ring
+Yellow Mountain Amulet
+Yellow Mountain Ring
+Yellow Vanquisher Amulet
+Yellow Vanquisher Ring
+Yeti
+Yew Bow
+Yololo Skull
+Zardon's Mighty Skull
+Zeraphesque Tulwar
+Zeraphi
+Zeraphi Ailettes
+Zeraphi Alchemy
+Zeraphi Armor
+Zeraphi Belt
+Zeraphi Bodyguard
+Zeraphi Bolt Amulet
+Zeraphi Boots
+Zeraphi Bracers
+Zeraphi Breeches
+Zeraphi Brigandine
+Zeraphi Cloth Slippers
+Zeraphi Crossbow
+Zeraphi Falchion
+Zeraphi Fang Amulet
+Zeraphi Fang Ring
+Zeraphi Flame Amulet
+Zeraphi Flame Ring
+Zeraphi Gloves
+Zeraphi Greatblade
+Zeraphi Guard
+Zeraphi Helm
+Zeraphi Igal
+Zeraphi Khopesh
+Zeraphi Mattock
+Zeraphi Niqaab
+Zeraphi Pantaloons
+Zeraphi Pants
+Zeraphi Shard Amulet
+Zeraphi Shard Ring
+Zeraphi Shoulders
+Zeraphi Silk Slippers
+Zeraphi Spaulders
+Zeraphi Standard
+Zeraphi Vambraces
+Zeraphi Vest
+Zeryphesh
+Zidders' Boots of the Roo
+Zidders' Flitters
+Zombie
+Zugmeister's Boots
+Zugmeister's Gloves
+Zugmeister's Mantle
+Zugmeister's Torchlighter
+Zugmeister's Trousers
+Zugmeister's Tunic
+Zyll
+[ITEM] of Agility
+[ITEM] of Annihilation
+[ITEM] of Blinding
+[ITEM] of Blood
+[ITEM] of Burning
+[ITEM] of Carnage
+[ITEM] of Charm
+[ITEM] of Chilling
+[ITEM] of Clouded Vision
+[ITEM] of Command
+[ITEM] of Cooling
+[ITEM] of Curing
+[ITEM] of Defense
+[ITEM] of Deflection
+[ITEM] of Demolishing
+[ITEM] of Draining
+[ITEM] of Duality
+[ITEM] of Electric Rage
+[ITEM] of Energy
+[ITEM] of Escape
+[ITEM] of Fire
+[ITEM] of Fire Rage
+[ITEM] of Focus
+[ITEM] of Fortification
+[ITEM] of Freezing
+[ITEM] of Grasping
+[ITEM] of Great Charm
+[ITEM] of Great Defense
+[ITEM] of Great Offense
+[ITEM] of Haste
+[ITEM] of Health
+[ITEM] of Ice
+[ITEM] of Ice Rage
+[ITEM] of Incineration
+[ITEM] of Insulating
+[ITEM] of Insulation
+[ITEM] of Invigoration
+[ITEM] of Jolting
+[ITEM] of Lethality
+[ITEM] of Lightning
+[ITEM] of Luck
+[ITEM] of Might
+[ITEM] of Momentum
+[ITEM] of Mortal Wounds
+[ITEM] of Mystery
+[ITEM] of Offense
+[ITEM] of Poison Rage
+[ITEM] of Poisoning
+[ITEM] of Precision
+[ITEM] of Range
+[ITEM] of Re-Doubling
+[ITEM] of Regeneration
+[ITEM] of Rejuvenation
+[ITEM] of Remedy
+[ITEM] of Resistance
+[ITEM] of Restoration
+[ITEM] of Shadow
+[ITEM] of Shieldbreaking
+[ITEM] of Shock
+[ITEM] of Silence
+[ITEM] of Skill
+[ITEM] of Speed
+[ITEM] of Strength
+[ITEM] of Stunning
+[ITEM] of Swiftness
+[ITEM] of Terror
+[ITEM] of Thunder
+[ITEM] of Toxicity
+[ITEM] of Vengeance
+[ITEM] of Venom
+[ITEM] of Violence
+[ITEM] of Vitality
+[ITEM] of Warming
+[ITEM] of Wealth
+[ITEM] of Wisdom
+[ITEM] of Zapping
+[ITEM] of the Archer
+[ITEM] of the Castle
+[ITEM] of the Citadel
+[ITEM] of the Drake
+[ITEM] of the Fire Storm
+[ITEM] of the Glacier
+[ITEM] of the Invoker
+[ITEM] of the Lucky
+[ITEM] of the Mage
+[ITEM] of the Meteor
+[ITEM] of the Mule
+[ITEM] of the Ram
+[ITEM] of the SUPER Lucky
+[ITEM] of the Sage
+[ITEM] of the Savant
+[ITEM] of the Soldier
+[ITEM] of the Spectrum
+[ITEM] of the Usurper
+[ITEM] of the Vampire
+a Bizarre Effect
+bland greataxe
+charm sword
+dwarvenlab large door
+dwarvenlab small door
+esthShrine_bridge_01
+fire sword
+flameemberbase NOSPAWN
+generic_trigger_collision_01
+hidden
+ice sword
+ironemberbase NOSPAWN
+shatter
+shock sword
+stun sword
+test
+test kill
+test proc
+valve
+voidemberbase NOSPAWN
+|cFFEB17FFFather's Corpse|u

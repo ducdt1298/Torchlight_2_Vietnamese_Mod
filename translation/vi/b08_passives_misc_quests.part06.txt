@@ -1,0 +1,96 @@
+@@ 2896
+Một lần nữa cảm ơn bạn đã cứu chúng tôi!
+@@ 2897
+Chúng tôi mãi mãi mang ơn bạn!
+@@ 2898
+Bạn đã giúp chúng tôi một việc lớn - chúng tôi sẽ không quên đâu!
+@@ 2899
+Cảm ơn bạn lần nữa! Chúng tôi sẽ không quên lòng tốt của bạn.
+@@ 2900
+Chúng tôi nợ bạn ân tình suốt đời!
+@@ 2901
+Cẩn thận nhé! Chúng tôi lo cho sự an toàn của bạn.
+@@ 2902
+Bảo trọng nhé! Mong một ngày nào đó chúng tôi có thể đền đáp ơn này.
+@@ 2903
+Tôi đã thiết lập sẵn: một khi bạn bước qua cổng dịch chuyển này, bạn có thể đến Mapworks từ bất kỳ cổng Waygate nào. Ôi, bao cuộc phiêu lưu đang chờ đợi!
+@@ 2904
+Để sử dụng Mapworks, bạn phải mua hoặc tìm được các Scroll bản đồ. Một ông bạn cũ của tôi đang bán cả một bộ sưu tập ở bên trong.
+@@ 2905
+Professor Stoker nói bạn đã vào được Scrapworks. Ở đó có thật là đầy sói không? Cả troll nữa? Và những thứ còn tệ hơn?
+@@ 2906
+Cảm ơn bạn của tôi, vì đã tiễn Alchemist về nơi an nghỉ.
+@@ 2907
+Mapworks huyền thoại đã hoạt động trở lại! Từ đây, bạn có thể đi đến đủ mọi nơi kỳ thú!
+@@ 2908
+Dù Alchemist đã chết, vẫn còn rất nhiều việc phải làm. Nhưng ít ra giờ chúng tôi đã an toàn, nhờ có bạn.
+@@ 2909
+Chiến thắng thuộc về chúng ta!
+@@ 2910
+Estherian Steppes đã có bọn tôi lo. Bạn đi nghỉ ngơi đi, bạn xứng đáng mà.
+@@ 2911
+Bạn đã đánh bại Alchemist rồi ư? Tuyệt vời!
+@@ 2912
+Bạn đã làm quá nhiều cho tất cả chúng tôi. Cảm ơn bạn.
+@@ 2913
+Tôi nghĩ mình đã tìm thấy một lối vào Mapworks. Lát nữa quay lại nhé, hy vọng khi đó tôi đã tìm ra cách vận hành nó an toàn!
+@@ 2914
+Lấy |cFFD1FF7A[ACQUIRE1]|u ở tầng |cFFD1FF7A[ACQUIRE1DEPTH]|u của |cFFD1FF7ACorrupted Crypt|u, trong |cFFD1FF7APath of the Honored Dead|u.
+@@ 2915
+- Thu hồi |cFFD1FF7A[ACQUIRE1]|u từ |cFFD1FF7ACorrupted Crypt
+@@ 2916
+Lấy |cFFD1FF7A[ACQUIRE1]|u ở tầng |cFFD1FF7A[ACQUIRE1DEPTH]|u của Defiled Crypt. Có thể vào hầm mộ qua |cFFD1FF7APath of the Honored Dead|u.
+@@ 2917
+- Lấy |cFFD1FF7A[ACQUIRE1]|u ở |cFFD1FF7ATemple Steppes|u.
+@@ 2918
+Lấy |cFFD1FF7A[ACQUIRE1]|u ở |cFFD1FF7ATemple Steppes|u.
+@@ 2919
+Tiêu diệt |cFFD1FF7A[DEFEAT1]|u ở |cFFD1FF7ACorrupted Crypt|u. Có thể vào hầm mộ qua |cFFD1FF7APath of the Honored Dead|u.
+@@ 2920
+- Tiêu diệt |cFFD1FF7A[DEFEAT1]|u ở |cFFD1FF7ADefiled Crypt|u.
+@@ 2921
+Tiêu diệt |cFFD1FF7A[DEFEAT1]|u ở Defiled Crypt. Có thể vào hầm mộ qua |cFFD1FF7APath of the Honored Dead|u.
+@@ 2922
+Empire rất biết ơn và muốn ban thưởng cho sự phục vụ quý báu của bạn!
+@@ 2923
+Tiêu diệt 10 con |cFFA1D0FCWarbeast|u ở |cFFA1D0FCTemple Steppes|u, sau đó quay về |cFFA1D0FCBounty Board|u ở |cFFA1D0FCEstherian Enclave|u để nhận thưởng.
+@@ 2924
+- Tiêu diệt [DEFEAT1COUNT]/[DEFEATCOUNT] |cFFA1D0FCWarbeast|u ở |cFFA1D0FCTemple Steppes|u
+@@ 2925
+TREO THƯỞNG!\n\nCommander Vale của Vanquisher Corps treo thưởng cho bất kỳ ai giúp làm thưa bớt các bầy |cFFA1D0FCWarbeast|u đang cản trở nỗ lực khai hoang và phòng thủ ở Estheria.\n\nPhần thưởng sẽ được trả cho bất kỳ ai tiêu diệt từ 10 con |cFFA1D0FCWarbeast|u trở lên ở |cFFA1D0FCTemple Steppes|u.
+@@ 2926
+Các bầy Warbeast đang tràn ngập một số khu vực trọng yếu của Temple Steppes. Đội quân Sturmbeorn xâm lược dùng Warbeast làm quân xung kích trong cuộc chiến chống lại người Estherian, gây cản trở cho nỗ lực định cư trong vùng. Empire cần những nhà thám hiểm có năng lực để tiêu diệt lũ quái thú này và mở đường cho công cuộc khai hoang.
+@@ 2927
+Cảm ơn bạn đã giúp đỡ. Đây ... chút quà đền công cho bạn.
+@@ 2928
+Đánh bại lũ quái đang tấn công xe ngựa của người lữ khách.
+@@ 2929
+Ai đó cứu tôi với!
+@@ 2930
+Mapworks huyền thoại đã hoạt động trở lại! Từ Mapworks, bạn có thể đi đến đủ mọi nơi kỳ thú! Chắc chắn nhiều cuộc phiêu lưu tuyệt vời đang chờ bạn ở trong đó.
+@@ 2931
+Trông bạn có vẻ mệt mỏi - có lẽ bạn cần một góc nhìn mới. Nếu bạn muốn, tôi có thể cho bạn đi lại con đường cũ với toàn bộ kiến thức bạn đang có. Chỉ cần hỏi, tôi sẽ chỉ đường cho bạn!
+@@ 2932
+Xem nào, có gì đây? Chà, đây là mẫu 4000! Dòng này khá cũ rồi - chiếc này có vẻ đã được sửa sang, nâng cấp khá nhiều. Không rõ sao nó lại tan thành từng mảnh thế này - thử tìm hiểu xem nào! Để tôi lắp chúng lại cho bạn, rồi xem nó tự giải thích thế nào nhé.
+@@ 2933
+Bạn tìm thấy một mảnh kim loại kỳ lạ, có vẻ là một bộ phận của robot. Trên đó có khắc số '4000'. Bạn tự hỏi không biết còn bao nhiêu mảnh nữa.
+@@ 2934
+Có vẻ bạn đã có đủ mảnh để lắp nó lại. Giờ bạn chỉ cần tìm một nhà khoa học biết cách lắp ráp nó.
+@@ 2935
+- Tìm thêm các mảnh của robot.
+@@ 2936
+- Tìm một nhà khoa học có thể lắp ráp robot.
+@@ 2937
+Ngươi đã hạ được bọn |cFFFFBA00Sisters|u xấu xa rồi ư? Tuyệt vời! Ta sẽ viết một đoạn kết mới cho bài ca của mình.\n\nBa kẻ độc ác, tìm ra hắc lực, cai trị vùng đất tà ma,\nnhưng ta nhìn thấy, một người trọng nghĩa, và chiến thắng chẳng còn xa!\n\nÀ, đây sẽ là một câu chuyện tuyệt diệu! Xin hãy nhận món quà nhỏ này, như lời tri ân bất diệt của ta.
+@@ 2938
+Trillbot vừa được lắp ráp lại đã đọc cho bạn nghe một đoạn thơ:\n\nNhện cất tiếng gọi, ba chị em, thân cây già há rộng,\nQua sảnh cổ xưa, dòng máu đen, chúng gặp số phận bên trong.\n\nCó lẽ bạn nên tìm hiểu một thân cây ở khu vực có nhiều nhện.
+@@ 2939
+Bạn đã hạ gục ba chị em, và bạn khá chắc là chúng độc ác. Hãy quay lại gặp Trillbot.
+@@ 2940
+Đánh bại |cFFFFBA00Three Sisters|u ở |cFFFFBA00Battlefield|u.
+@@ 2941
+Quay về gặp |cFFFFBA00Trillbot|u ở |cFFFFBA00Imperial Camp|u
+@@ 2942
+Xin chào! Ta là đại thi sĩ |cFFFFBA00Trill|u. Hẳn ngươi đã nghe danh ta, tài năng của ta vang khắp Veras. Từ Torchlight đến Redhaven, người ta đều ca tụng những.. bài hát của ta.\n\nTorchlight... ở đó đã xảy ra chuyện gì sao? Ta thấy hơi... À, thôi bỏ đi. Ta nhận ra nơi này!\n\nNhện cất tiếng gọi, |cFFFFBA00ba chị em|u, |cFFFFBA00thân cây già há rộng|u,\nQua sảnh cổ xưa, dòng máu đen, chúng gặp số phận bên trong.\n\nMột câu thơ thật xác đáng, hẳn ngươi cũng đồng ý. Dĩ nhiên, chính ta viết đấy.
+@@ 2943
+Nhện cất tiếng gọi, |cFFFFBA00ba chị em|u, |cFFFFBA00thân cây già há rộng|u,\nQua sảnh cổ xưa, dòng máu đen, chúng gặp số phận bên trong.\n\nPhần còn lại của bài ca ta không sao nhớ nổi... Xin hãy lượng thứ! Dĩ nhiên, với một đại thi sĩ như ta thì sơ suất này thật không thể tha thứ, nhưng ta thấy mình hơi.. không ổn.\n\nDù vậy, chỉ mẩu thơ ít ỏi ấy thôi cũng đủ dẫn ngươi tới vinh quang. Hãy tiến lên, hỡi chiến binh dũng cảm, và tiêu diệt lũ quái thú hùng mạnh! Dù chúng là gì đi nữa...

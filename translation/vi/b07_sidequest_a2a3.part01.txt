@@ -1,0 +1,80 @@
+@@ 2426
+Đánh bại |cFFD1FF7ACaptain Stillheart|u tại |cFFD1FF7APlunder Cove|u.
+@@ 2427
+- Đánh bại |cFFD1FF7ACaptain Stillheart|u
+@@ 2428
+Tôi chỉ là một linh hồn, nhưng tôi không có ý hại bạn. Khi còn sống, tôi đã bị chính những người đồng đội mà mình tin tưởng phản bội. Giờ tôi bị giam cầm ở đây, không được yên nghỉ như lẽ ra phải thế, vì suốt bao năm qua cái chết của tôi vẫn chưa được báo thù.\n\nGiờ thì chính những kẻ phản bội tôi cũng đã chết. Hãy đi qua cổng dịch chuyển này để tìm kẻ cầm đầu bọn chúng, |cFFD1FF7ACaptain Stillheart|u, ở |cFFD1FF7APlunder Cove|u, và cho hắn thấy công lý vẫn có thể tìm đến hắn!
+@@ 2429
+Vào thời của mình, tôi từng là một kẻ bất lương. Tôi đột nhập lăng mộ và cướp đồ của người chết. Nhưng rồi một ngày, tôi nhận ra mình đã gây ra biết bao đau khổ cho những người còn sống ... và tôi thề sẽ chấm dứt chuyện đó.\n\nĐồng đội của tôi ... những kẻ đồng lõa với tôi ... lại không nghĩ vậy. Chúng dụ tôi ra giữa bãi cát hoang vắng này rồi bỏ mặc tôi chết. Từ đó, linh hồn tôi cứ lởn vởn nơi đây, bị trói buộc bởi sức nặng của tội lỗi, mong chờ ngày báo thù. Nhưng chúng lại bỏ mạng ở một nơi khác, ngoài tầm với của tôi, dù giờ đây chúng cũng đã thành hồn ma.
+@@ 2430
+Tuyệt vời! Giờ đã vào lại được Armory, chúng tôi có thể tự trang bị cho trận chiến sắp tới!\n\nNhư tôi đã nói với bạn ở Frosted Hills: người Zeraphi mang ơn bạn rất lớn, bạn của tôi! Hãy để chúng tôi bắt đầu đền đáp món nợ ấy bằng thứ này.
+@@ 2431
+Dùng |cFFD1FF7AGolden Gear|u để mở khóa |cFFD1FF7ACelestial Armory|u ở |cFFD1FF7AOssean Wastes|u.
+@@ 2432
+Kích hoạt |cFFD1FF7AArmory Portal|u trong |cFFD1FF7ACelestial Armory|u, rồi trở về gặp |cFFD1FF7AAmbassador Taldimut|u ở |cFFD1FF7AZeryphesh|u
+@@ 2433
+- Vào |cFFD1FF7ATower of the Moon|u ở |cFFD1FF7AOssean Wastes|u; tiêu diệt mọi Ezrohir bên trong
+@@ 2434
+- Trở về gặp |cFFD1FF7ACommander Muzaffar|u ở |cFFD1FF7AOssean Wastes|u
+@@ 2435
+Thật vui được gặp lại bạn, bạn của tôi! Tôi biết mình đã hứa sẽ tặng bạn phần thưởng lớn hơn nếu bạn ghé thăm ... nhưng đó là trước khi tôi trở lại Ossean Wastes và thấy |cFFD1FF7ACelestial Armory|u đang bị quân Ezrohir vây hãm.\n\nHay là thế này: tôi để bạn tự chọn bảo vật trong Armory nhé? Bạn chỉ cần dùng |cFFD1FF7AGolden Gear|u để vào trong, rồi kích hoạt |cFFD1FF7AArmory Portal|u, nhờ đó chúng tôi có thể thu gom vũ khí và giáp trụ một cách an toàn ... mà bọn Ezrohir chẳng hề hay biết!
+@@ 2436
+Sau khi người Zeraphi rút khỏi Ember Wars, chúng tôi cất kho phần lớn vũ khí của mình, mong rằng sẽ không bao giờ phải dùng đến chúng nữa. Một số vũ khí và giáp trụ tốt nhất của chúng tôi được cất vào Celestial Armory. Chúng tôi niêm phong Armory bằng Golden Gear, rồi gửi Golden Gear cho người Estherian như một cử chỉ thể hiện thiện chí hòa bình. Đáng buồn thay, cái ngày chúng tôi phải mở lại Armory đã đến. Nhưng cánh cửa ấy được xây để ngăn chính chúng tôi vào, bằng mọi giá, đó là lý do bọn Ezrohir không thể vào được ... và cũng là lý do Golden Gear lại quan trọng với chúng tôi đến vậy.
+@@ 2437
+Tuyệt lắm! Ngươi đã mang Royal Masks trở về!\n\nChẳng bao lâu nữa, Ezrohir và Zeraphi sẽ lại cúi đầu trước ta, và ta sẽ hợp nhất lực lượng của chúng thành một đạo quân không gì cản nổi, tràn vào Estheria cùng những vùng đất xa hơn, và nuốt trọn từng mảnh Ember còn sót lại! Quân ta sẽ chinh phục toàn bộ Vilderan, rồi vượt biển và nô dịch cái "đế chế" loài người thô sơ của các ngươi! Các ngươi sẽ phải khổ sai trong hầm mỏ suốt một ngàn thế hệ, để chủ nhân của các ngươi được trị vì đến muôn đời!\n\nĐợi ở đây, con người. Và hãy vui mừng đi! Một khi ta đoạt lại sức mạnh của mình từ Vault of Souls, ta sẽ biến ngươi thành kẻ đầu tiên của cả một dòng dõi nô lệ.
+@@ 2438
+Tìm ba chiếc |cFFD1FF7ARoyal Masks|u ở |cFFD1FF7ASalt Barrens|u.
+@@ 2439
+Mang |cFFD1FF7ARoyal Masks|u về cho |cFFD1FF7AFaceless King|u.
+@@ 2440
+- Thu hồi ba chiếc |cFFD1FF7ARoyal Masks|u ở |cFFD1FF7ASalt Barrens|u
+@@ 2441
+- Mang |cFFFFBA00Royal Masks về cho |cFFFFBA00Faceless King|u
+@@ 2442
+Người ta gọi ta là Faceless King, và ta đã ngự ở nơi này từ thuở Zeraphi và Ezrohir còn là một tộc. Giấc mơ của ta là hợp nhất họ lại bằng cách mở |cFFD1FF7AVault of Souls|u, nhưng Vault sẽ không mở nếu thiếu những chiếc mặt nạ của dòng dõi hoàng tộc, vốn đã bị đánh cắp khỏi tay ta từ rất lâu rồi.\n\nNếu ngươi tìm được |cFFD1FF7ARoyal Masks|u và mang chúng về cho ta, ta sẽ có thể nâng |cFFD1FF7AEternal Palace|u lên, mở khóa |cFFD1FF7AVault of Souls|u, và hợp nhất Zeraphi với Ezrohir! Xin ngươi, người bạn phàm trần của ta ... hãy giúp ta chấm dứt cuộc chiến này.
+@@ 2443
+Zeraphi và Ezrohir từng là một dân tộc ... và ta là vua của họ. Nhưng trên con đường truy cầu sự bất tử, dân ta đã chia rẽ: Ezrohir chọn lối đi nhanh hơn là những bộ giáp vận hành bằng Ember, còn Zeraphi tìm kiếm một phương pháp giả kim "an toàn hơn". Nhưng rồi Ezrohir đòi lấy Ember của Zeraphi ... rồi gây chiến với người Estherian để cướp Ember của họ ... và cuối cùng, đòi ta phải cho chúng vào Vault of Souls. Ta từ chối, và thay vì để chúng chiếm lấy Vault, ta đã nhấn chìm cả Eternal Palace xuống Bay of Stars. Trong cơn thịnh nộ, chúng xích ta lại rồi ném ta xuống theo, để ta cai trị đáy biển. Giờ đây nước đã rút từ lâu, và cả Zeraphi lẫn Ezrohir đều chẳng còn ai nhớ đến vị vua có thể dùng sức mạnh của Vault of Souls để đoàn tụ họ một lần nữa.
+@@ 2444
+Tiến vào |cFFD1FF7AEternal Palace|u ở |cFFD1FF7ASalt Barrens|u và ngăn |cFFD1FF7AFaceless King|u dùng |cFFD1FF7AVault of Souls|u để nô dịch người Zeraphi và Ezrohir.
+@@ 2445
+- Tìm |cFFD1FF7AFaceless King|u trong |cFFD1FF7AEternal Palace|u
+@@ 2446
+- Ngăn |cFFD1FF7AFaceless King|u sử dụng |cFFD1FF7AVault of Souls|u
+@@ 2447
+Dùng thuốc nổ để cho nổ tung các |cFFD1FF7AInfected Skara Nests|u.
+@@ 2448
+Tiến vào |cFFD1FF7ASkaran Hives|u.
+@@ 2449
+- Dùng thuốc nổ để cho nổ tung các |cFFD1FF7AInfected Skara Nests|u.
+@@ 2450
+- Tiến vào |cFFD1FF7ASkaran Hives.
+@@ 2451
+Hoska là người duy nhất còn lại sao?\n\nBạn phải giúp anh ấy hoàn thành nhiệm vụ!
+@@ 2452
+Jasha nhờ bạn đi tìm tôi sao? Tôi mang ơn cả hai người!
+@@ 2453
+Tìm |cFFD1FF7AHareph|u ở |cFFD1FF7ASalt Barrens|u và thuyết phục anh ấy quay về Zeryphesh.
+@@ 2454
+- Tìm |cFFD1FF7AHareph|u ở |cFFD1FF7ASalt Barrens|u và thuyết phục anh ấy quay về Zeryphesh.
+@@ 2455
+Nếu bạn định đến Salt Barrens, bạn có thể tìm hiểu xem chuyện gì đã xảy ra với người bạn đồng hành Hareph của tôi không?\n\nAnh ấy đã dẫn một nhóm đi tìm hiểu vì sao dạo này lũ Skara trở nên hung hăng như vậy, nhưng chưa ai quay về cả.\n\nNếu bạn đi về |cFFD1FF7Aphía Bắc|u đến |cFFD1FF7ASwarm Stacks|u, chắc bạn sẽ tìm được anh ấy - hoặc ít nhất là biết anh ấy đã gặp chuyện gì.
+@@ 2456
+Bạn đã tìm thấy Hareph chưa?\n\nAnh ấy là bạn đồng hành của tôi - chúng tôi được tạo ra cùng một lúc. Làm ơn, tôi phải biết anh ấy có ổn không!
+@@ 2457
+À, bạn còn phá được thật nhiều trứng nữa! Đây là phần thưởng thêm cho bạn.
+@@ 2458
+À, Hareph gửi bạn đến cùng ít thuốc nổ. Cuối cùng cũng có tin tốt!\n\nĐừng mất công tìm những người còn lại trong nhóm nữa - tôi là người duy nhất sống sót.\n\nMột số tổ đang có vấn đề - hình như chúng đã bị nhiễm bệnh. Bạn cần tìm những tổ đã được gài thuốc nổ và kích nổ chúng, rồi xuống tận Brood Hive để phá hủy mọi quả trứng nhiễm bệnh mà bạn tìm thấy. Biết đâu bạn sẽ khám phá ra thứ gì đã gây bệnh cho lũ trứng!\n\nĐây là một nhiệm vụ lớn lao, nhưng phải có người làm. Tất cả chúng tôi sẽ mang ơn bạn.
+@@ 2459
+Tìm và giúp đỡ nhóm người mất tích.
+@@ 2460
+- Tìm và giúp đỡ nhóm người mất tích.
+@@ 2461
+Thật nhẹ nhõm khi bạn đã đến! Tôi và nhóm của mình đã tới tiền đồn này để đối phó với lũ Skara ngày càng hung hăng.\n\nTôi ở lại đây để chế thêm thuốc nổ trong lúc nhóm của tôi đi điều tra các tháp tổ, nhưng họ không bao giờ quay lại. Tôi không thể rời khỏi đây vì lũ Skara đang bu kín khắp nơi.\n\nXin hãy mang theo chỗ thuốc nổ này, đến |cFFD1FF7ASwarm Point|u, tìm kiếm những |cFFD1FF7AZeraphi còn sống sót|u và giúp họ bằng mọi cách có thể!
+@@ 2462
+Bạn phải tìm được nhóm của tôi!
+@@ 2463
+Bạn đã giải quyết xong mối họa! Tuyệt vời!\n\nNếu bạn không chiến thắng, dịch bệnh có thể đã lan sang những tổ khác trong vùng hoang địa này.\n\nTôi đã kể với Jasha về những việc bạn làm, và cô ấy muốn mời bạn gia nhập nhóm giao thương của chúng tôi. Giờ bạn có thể mua vật phẩm quý hiếm từ cô ấy - tất nhiên là với giá ưu đãi.\n\nCảm ơn bạn, lữ khách! Bạn đã giúp chúng tôi một việc lớn.
+@@ 2464
+Đập vỡ |cFFD1FF7Atrứng|u trong |cFFD1FF7ASkaran Hive|u và tiêu diệt thế lực gây tha hóa, dù đó là thứ gì đi nữa.
+@@ 2465
+Trở về |cFFD1FF7AZeryphesh|u.

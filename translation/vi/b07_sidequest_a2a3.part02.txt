@@ -1,0 +1,80 @@
+@@ 2466
+- Đập vỡ |cFFD1FF7Atrứng|u trong |cFFD1FF7ASkaran Hive|u và tiêu diệt thế lực gây tha hóa, dù đó là thứ gì đi nữa.
+@@ 2467
+- Trở về |cFFD1FF7AZeryphesh|u.
+@@ 2468
+Tôi là Trill, thi sĩ hát rong vĩ đại. Có lẽ bạn đã từng nghe danh tôi?\n\nĐến giờ bạn đã làm rất tốt, và tôi rất vui được ban thưởng cho bạn. Có lẽ nếu bạn sống sót được lâu hơn, bạn sẽ tìm thêm được những bộ phận bị thất lạc của tôi ... và tôi có thể thưởng cho bạn vị trí của một kho báu khác chăng?
+@@ 2469
+Lục soát |cFFD1FF7AForsaken Vaults|u ở |cFFD1FF7AOssean Wastes|u để tìm |cFFD1FF7ACognition Linkage|u.
+@@ 2470
+Lắp |cFFD1FF7ACognition Linkage|u vào |cFFD1FF7ATrillbot 4000|u.
+@@ 2471
+- Tìm |cFFD1FF7ACognition Unit|u trong |cFFD1FF7AForsaken Vaults|u
+@@ 2472
+- Lắp |cFFD1FF7ACognition Unit|u vào |cFFD1FF7ATrillbot 4000|u.
+@@ 2473
+Có vẻ như bạn đã tìm thấy cơ thể của tôi. Rất tốt. Đây là nơi lưu trữ ký ức của tôi … bao gồm cả vị trí của nhiều kho báu được cất giấu. Tôi có thể chia sẻ chúng với bạn, nếu bạn giúp tôi thu hồi những bộ phận còn lại của mình.\n\nChúng ta nên bắt đầu với |cFFD1FF7ACognition Linkage|u của tôi. Thiếu nó, tôi chẳng làm được gì hơn ngoài việc lặp lại tin nhắn này. Cảm biến của tôi cho biết nó ở đâu đó gần đây. Hãy tìm và lắp nó lại, rồi tôi sẽ chỉ đường cho bạn đến một trong những kho báu đó.
+@@ 2474
+Chế độ phát lại: Có vẻ như bạn đã tìm thấy cơ thể của tôi. Rất tốt. Đây là nơi lưu trữ ký ức của tôi … bao gồm cả vị trí của nhiều kho báu được cất giấu. Tôi có thể chia sẻ chúng với bạn, nếu bạn giúp tôi thu hồi những bộ phận còn lại của mình.\n\nChúng ta nên bắt đầu với Cognition Linkage của tôi. Thiếu nó, tôi chẳng làm được gì hơn ngoài việc lặp lại tin nhắn này. Cảm biến của tôi cho biết nó ở đâu đó gần đây. Hãy tìm và lắp nó lại, rồi tôi sẽ chỉ đường cho bạn đến một trong những kho báu đó.
+@@ 2475
+Bạn làm được rồi! Ôi, cảm ơn bạn, bạn của tôi! Bạn không thể tưởng tượng được cảm giác khi ... khi lại được cảm nhận lần nữa!\n\nTôi có cảm ơn bao nhiêu cũng không đủ, bạn của tôi. Nhưng có lẽ thứ này là một khởi đầu ...?
+@@ 2476
+Tìm |cFFD1FF7AEzrohir Marauder|u ở |cFFD1FF7AOssean Wastes|u. Đánh bại hắn và thu lấy |cFFD1FF7ABody Wrappings|u của hắn.
+@@ 2477
+Mang |cFFD1FF7ABody Wrappings|u của Ezrohir Marauder về cho |cFFD1FF7AUmahd|u ở |cFFD1FF7AOssean Wastes|u.
+@@ 2478
+- Đánh bại |cFFD1FF7AEzrohir Marauder|u ở |cFFD1FF7AOssean Wastes|u
+@@ 2479
+- Mang |cFFD1FF7ABody Wrappings|u về cho |cFFD1FF7AUmahd|u ở |cFFD1FF7AOssean Wastes|u
+@@ 2480
+Tôi không phải hồn ma, chỉ là một linh hồn không thân xác: một chiến binh Zeraphi bị lột khỏi lớp vải quấn của mình, nhưng không thể tự rời bỏ thế giới này. Tên tôi là Umahd. Tôi đã bại trận, thân xác của tôi bị tước đoạt và bị bắt phải phục vụ Ezrohir. Nhưng tên |cFFD1FF7AEzrohir Marauder|u đang khoác lớp vải quấn của tôi đã quay lại, hẳn hắn nghĩ rằng tôi đã biến mất từ lâu.\n\nHãy tìm tên |cFFD1FF7AEzrohir Marauder|u đó! Giúp tôi lấy lại thân xác, và tôi sẽ ban thưởng cho bạn!
+@@ 2481
+Tên Ezrohir Marauder hẳn đang ở đâu đó quanh đây: cơ thể mà hắn đánh cắp đã thuộc về tôi suốt hàng thế kỷ, tôi không thể dễ dàng quên nó được. Nó ở đây! Tôi cảm nhận được! Tôi van bạn: hãy tìm nó giúp tôi!
+@@ 2482
+Tôi đã quan sát bạn từ trên vách đá này đấy! Bạn thật tuyệt vời!\n\nTôi biết đây chẳng phải phần thưởng gì lớn lao, nhưng đó là tất cả những gì tôi có thể trao. Xin hãy nhận lấy, cùng với lòng biết ơn của tôi.
+@@ 2483
+Tiến vào |cFFD1FF7ADead Shoals|u ở |cFFD1FF7ASalt Barrens|u và đánh bại |cFFD1FF7ACrab King|u cùng |cFFD1FF7AWakeel|u. Quay về gặp |cFFD1FF7AMashal|u ở |cFFD1FF7Angọn hải đăng|u để nhận thưởng.
+@@ 2484
+- Đánh bại |cFFD1FF7ACrab King|u và |cFFD1FF7AWakeel|u ở |cFFD1FF7ADead Shoals|u
+@@ 2485
+- Quay về gặp |cFFD1FF7AMashal|u ở |cFFD1FF7Angọn hải đăng|u để nhận thưởng
+@@ 2486
+Bạn đến thật đúng lúc, bạn của tôi! Ngay bên dưới chúng ta, trong |cFFD1FF7ADead Shoals|u, |cFFD1FF7AKing of the Crabs|u đang thương lượng với một sứ giả của Ezrohir để cung cấp cho chúng một kho sắt vụn khổng lồ mà lũ Crab đã trục vớt được. Ezrohir sẽ dùng chỗ sắt vụn đó để rèn thêm vũ khí chống lại chúng tôi! Phải ngăn chúng lại!\n\nTôi van bạn: hãy xuống |cFFD1FF7ADead Shoals|u và ngăn |cFFD1FF7ACrab King|u hoàn tất cuộc thương lượng với Ezrohir!
+@@ 2487
+Mấy tuần nay, lũ Crab đã thu gom sắt vụn từ những xác tàu cổ ở Salt Barrens rồi tích trữ tại đây, trong hang ổ của chúng ở Dead Shoals. Tôi được cử đi tìm hiểu lý do. Khi đến nơi, tôi thấy chúng đang thương lượng với một Ezrohir Champion ... và cuộc mặc cả của chúng sắp ngã ngũ rồi. Tôi đang trên đường về Zeryphesh để tìm người phá hỏng cuộc gặp này thì bạn xuất hiện.
+@@ 2488
+Đa tạ, hỡi con người! Theo lời lũ Ezrohir khốn kiếp này, những kẻ tra tấn của chúng đang trên đường tới, và tôi gần như chẳng còn chút hy vọng nào chịu đựng nổi những thủ đoạn của chúng ... chứ đừng nói đến chuyện trốn thoát.\n\nTôi cần ở lại đây để bảo đảm những tù nhân khác về được Zeryphesh an toàn, nhưng tôi vẫn còn việc cần đến bạn, nếu bạn có thời gian.
+@@ 2489
+Tìm |cFFD1FF7AMuzaffar|u ở |cFFD1FF7AOssean Wastes|u và giải cứu ông ấy khỏi tay quân Ezrohir.
+@@ 2490
+- Tìm |cFFD1FF7AMuzaffar|u ở |cFFD1FF7AOssean Wastes|u
+@@ 2491
+- Giải cứu |cFFD1FF7AMuzaffar|u khỏi tay Ezrohir
+@@ 2492
+Xin chào, bạn của tôi! Chào mừng đến Zeryphesh! Tôi là Malik Vosh. Tôi là người phát ngôn của dân Zeraphi.\n\nNhư bạn đã biết, quân Ezrohir đang chuẩn bị tấn công thành phố của chúng tôi. Người chỉ huy quân đội của chúng tôi, Commander |cFFD1FF7AMuzaffar|u, dường như đã bị Ezrohir bắt ở ngoài |cFFD1FF7AOssean Wastes|u. Chắc chúng đã cho gọi các quan thẩm vấn đến để giải tù binh về thành trì của chúng. Một khi đưa được ông ấy tới Riftkeep, chúng sẽ sớm nhận ra ông ấy là ai, rồi tra hỏi ông ấy cho đến khi biết hết mọi thứ về hệ thống phòng thủ của chúng tôi.\n\nTôi nghĩ bạn đang định đến |cFFD1FF7AOssean Wastes|u. Xin hãy cứu |cFFD1FF7AMuzaffar|u. Chúng tôi cần ông ấy.
+@@ 2493
+Lần cuối chúng tôi nhận được tin từ Muzaffar, ông ấy đang khảo sát những địa điểm có thể làm chiến trường ở Ossean Wastes. Ông ấy tin rằng chúng tôi có thể giảm thiểu thiệt hại cho thành phố nếu mang cuộc chiến đến chỗ Ezrohir ... nhưng nếu không có chiến trường phù hợp, chúng tôi sẽ có cơ hội sống sót cao hơn khi đối đầu với chúng ngay tại đây. Dù vậy, chúng tôi không thể đưa ra quyết định cuối cùng cho đến khi có tin từ Muzaffar.
+@@ 2494
+Cuối cùng cũng được cứu rồi! Cảm ơn bạn! Trông bạn có vẻ là người thích mạo hiểm đấy! Giờ tôi sẽ quay về thị trấn. Hãy gặp tôi ở đó và xem vận may của bạn còn trụ được bao lâu nhé!
+@@ 2495
+Tôi không hiểu bằng cách nào mà chúng có thể cài gã pháp sư Juthama Kasam của chúng ở sát tường thành như vậy mà chúng tôi không hề hay biết! Nhưng tạ ơn các Guardian vì bạn đã đánh bại được hắn và chặn đứng mọi âm mưu của chúng!
+@@ 2496
+Do thám |cFFD1FF7ATower of the Moon|u ở |cFFD1FF7AOssean Wastes|u. Tiêu diệt mọi gián điệp Ezrohir bạn tìm thấy ở đó, rồi báo cáo lại với |cFFD1FF7ACommander Muzaffar|u ở |cFFD1FF7AOssean Wastes|u.
+@@ 2497
+Bạn của tôi, tôi có một nhiệm vụ cho bạn. Có lẽ bạn đã để ý thấy hoạt động của quân Ezrohir ở Ossean Wastes. Chúng tôi tin rằng đó là những toán trinh sát xuất phát từ |cFFD1FF7AForsaken Vaults|u, nhưng chúng xuất hiện quá gần cổng thành, nên chúng tôi nghĩ chúng có thể có một căn cứ gần hơn nhiều để từ đó do thám chúng tôi.\n\nChúng tôi đã thu hẹp các khả năng, và tôi muốn bạn đến kiểm tra |cFFD1FF7ATower of the Moon|u ở |cFFD1FF7AOssean Wastes|u. Hãy xác định xem có trinh sát Ezrohir nào ở đó không ... và nếu có, hãy xử lý chúng.
+@@ 2498
+Bạn đã xác minh được liệu Ezrohir có đang dùng Tower of the Moon để do thám chúng tôi hay không chưa?
+@@ 2499
+Bạn đã phát hiện ra đấu trường của Grom the Murderer. Chắc chắn hắn đang giữ |cFFD1FF7AMask of the Murderer|u. Để giành được nó, bạn phải vượt qua các thử thách của đấu trường và đánh bại chính Grom trong trận đấu.
+@@ 2500
+Đánh bại Grom trong đấu trường của hắn.
+@@ 2501
+Vậy là...ngươi đến tìm kho báu của Grom? Chiến lợi phẩm của ta vô cùng đồ sộ, không gì trong cõi này sánh bằng.\n\nNgươi chẳng có con đường nào dẫn tới thành công, trừ khi ngươi sống sót qua đấu trường của ta và chứng tỏ giá trị của mình.\n\nTa nói trước cho ngươi biết - rất nhiều kẻ đã thử sức trên nền đất đẫm máu này, nhưng chưa một ai thành công. Linh hồn của chúng giờ thuộc về ta, và chúng làm theo mọi mệnh lệnh.\n\nNgươi có dám nhận thử thách không? Ta sẽ chờ quyết định của ngươi ở bên dưới.
+@@ 2502
+Chưa một ai chiến thắng được trong đấu trường của ta.\n\nCó lẽ ngươi sẽ là kẻ đầu tiên?\n\nCó lẽ...
+@@ 2503
+Bạn đã tìm thấy một viên pha lê kỳ lạ trong khu vực này. Có vẻ như nó mang một ý nghĩa quan trọng nào đó. Có thể bạn sẽ tìm ra công dụng của nó. Không biết còn viên nào khác không?
+@@ 2504
+Tìm các viên pha lê Elemental và bệ thờ của chúng.
+@@ 2505
+Để tìm |cFFD1FF7AHeartfire Stone|u, trước tiên bạn cần lấy được |cFFD1FF7Achìa khóa|u vào |cFFD1FF7AVyrax's Tower|u ở sâu trong |cFFD1FF7AForgotten Halls|u. Dùng |cFFD1FF7Achìa khóa|u để vào |cFFD1FF7AVyrax's Tower|u ở |cFFD1FF7ARivenskull Gorge|u.

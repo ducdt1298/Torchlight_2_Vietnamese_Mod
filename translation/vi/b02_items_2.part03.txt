@@ -1,0 +1,240 @@
+@@ 918
+Bộ sưu tập Claw Legendary\nMón thứ ba trong năm món
+@@ 919
+Bộ sưu tập Claw Legendary\nMón thứ tư trong năm món
+@@ 920
+Bộ sưu tập Claw Legendary\nMón thứ năm trong năm món
+@@ 921
+Có khi hắn sẽ muốn đòi lại nó đấy...
+@@ 922
+Nó ban cho Warlock năng lực tìm ra những kho báu thất lạc.
+@@ 923
+Nó từng là phù hiệu chức vụ của người đàn ông chỉ được biết đến với cái tên Oathbreaker.
+@@ 924
+Trên đó khắc dòng chữ "Gươm đao hơn phép thuật."
+@@ 925
+Được lột từ da của những pháp sư Varkolyn.
+@@ 926
+Được làm từ tấm áo choàng rách tả tơi của Oathbreaker.
+@@ 927
+Nhiều người tin rằng nó đã che chở Witchfinder khỏi Netherim.
+@@ 928
+Warlock đã đè bẹp tộc Varkolyn, rồi xua chúng đi đánh người Estherian.
+@@ 929
+Oathbreaker đã đứng về phía người Estherian để chống lại tộc Varkolyn.
+@@ 930
+Được mang suốt cuộc truy lùng Warlock và Oathbreaker.
+@@ 931
+Warlock của Razorpeaks đã thống nhất tộc Varkolyn để chống lại người Estherian.
+@@ 932
+Oathbreaker đã ấp ủ âm mưu bất thành nhằm lật đổ Hoàng đế Pol.
+@@ 933
+Witchfinder đã nhổ tận gốc sự thối nát trong Đế chế.
+@@ 934
+Hai chiếc găng của Warlock được tìm thấy cách nhau hàng dặm, và cách nhau hàng năm trời.
+@@ 935
+Khi Oathbreaker đi lưu đày, hắn đang đeo đôi găng này.
+@@ 936
+Witchfinder đã không bao giờ trở về từ Vilderan.
+@@ 937
+Warlock cho rằng sự nhanh trí của mình là nhờ chiếc mũ này.
+@@ 938
+Có người nói Warlock và Oathbreaker là anh em ruột.
+@@ 939
+Witchfinder luôn nói chiếc mũ này giúp ông trở thành một kiếm sĩ giỏi hơn ...
+@@ 940
+Chẳng hiểu vì sao, ống quần lúc nào cũng dính đầy lông dơi.
+@@ 941
+Được khâu tay từ da của một con thằn lằn khổng lồ.
+@@ 942
+Đồ đạc của Witchfinder từng xuất hiện trong một cuộc đấu giá ở Red Haven cách đây một trăm năm.
+@@ 943
+Warlock khét tiếng đã vứt bỏ chiếc nhẫn này khi bị lưu đày đến Vilderan.
+@@ 944
+Oathbreaker đã bán đứng Warlock cho Đế chế, rồi cũng bị trục xuất cùng hắn.
+@@ 945
+Witchfinder tin rằng Warlock và Oathbreaker thực chất là một người.
+@@ 946
+Warlock đã tạo hình chúng dựa theo cấu tạo cơ thể của tộc Varkolyn.
+@@ 947
+Lớp da này trông giống như đôi cánh của một Varkolyn.
+@@ 948
+Đế chế không còn Witchfinder chính thức nào kể từ khi người cuối cùng biến mất.
+@@ 949
+Axe Legendary thất lạc từ lâu!
+@@ 950
+Bow Legendary thất lạc từ lâu!
+@@ 951
+Cannon Legendary thất lạc từ lâu!
+@@ 952
+Crossbow Legendary thất lạc từ lâu!
+@@ 953
+Claw Legendary thất lạc từ lâu!
+@@ 954
+Greataxe Legendary thất lạc từ lâu!
+@@ 955
+Greathammer Legendary thất lạc từ lâu!
+@@ 956
+Greatsword Legendary thất lạc từ lâu!
+@@ 957
+Hammer Legendary thất lạc từ lâu!
+@@ 958
+Pistol Legendary thất lạc từ lâu!
+@@ 959
+Polearm Legendary thất lạc từ lâu!
+@@ 960
+Rifle Legendary thất lạc từ lâu!
+@@ 961
+Shield Legendary thất lạc từ lâu!
+@@ 962
+Staff Legendary thất lạc từ lâu!
+@@ 963
+Sword Legendary thất lạc từ lâu!
+@@ 964
+Wand Legendary thất lạc từ lâu!
+@@ 965
+Viên ngọc trông như thể là con mắt của một quái thú cổ xưa.
+@@ 966
+Hãy quay lại Altar gần lối vào Rotting Crypt.
+@@ 967
+Một lọ kem thoa đáng ngờ.
+@@ 968
+Chìa khóa nhà ngục
+@@ 969
+Một chiếc chìa khóa nhỏ.
+@@ 970
+Chiếc chuông được khắc những biểu tượng cổ xưa.
+@@ 971
+Nó chứa đầy tiền xu và được khóa chặt.
+@@ 972
+Trên chiếc chìa khóa có khắc hình một cái rương.
+@@ 973
+Lớp da được phủ đầy hoa văn cuộn tinh xảo.
+@@ 974
+Một mảnh vỡ của Shard pha lê.\n
+@@ 975
+Chìa khóa để mở Gate.\n
+@@ 976
+Nhang trầm bên trong vẫn còn âm ỉ cháy, tỏa ra một mùi hương thanh bình.
+@@ 977
+Tàn dư rực lửa của một Bone Golem
+@@ 978
+Một viên ngọc bẻ cong ánh sáng theo cách tưởng chừng không thể.
+@@ 979
+Chìa khóa mở chuồng chó.
+@@ 980
+Chiếc chìa khóa lớn dành cho một cái rương lớn
+@@ 981
+Nó khá cũ và bám đầy bụi đất.
+@@ 982
+Không có cách nào rõ ràng để mở mặt dây chuyền này.
+@@ 983
+Một loại đồ vật trông giống chìa khóa.
+@@ 984
+Chắc hẳn có ai đó cần mấy thứ này.
+@@ 985
+Rất hợp để nhóm lửa sưởi ấm.
+@@ 986
+Nó ẩn chứa những bí mật gì?
+@@ 987
+Một cái xẻng cũ sẽ gãy khi sử dụng.
+@@ 988
+Có vẻ như dấu 'X' đánh dấu rất nhiều chỗ.
+@@ 989
+Một chai thuốc độc ngon lành.
+@@ 990
+Cần ấn của một Detonator
+@@ 991
+Một chiếc đồng hồ bỏ túi bằng vàng.
+@@ 992
+Thứ này có thể dùng làm nguồn năng lượng.
+@@ 993
+Một chiếc chìa khóa gỉ sét của thợ mỏ.
+@@ 994
+Chìa khóa của Juthama Kasam
+@@ 995
+Những chiếc gai cứng như sắt của một Wood Wraith lâu năm
+@@ 996
+Trái tim đen của một kẻ hèn nhát
+@@ 997
+Mặt nạ của Grom the Murderer
+@@ 998
+Nó biết điều gì khiến bạn sợ hãi.
+@@ 999
+"Và Wyrd thật uy mãnh."
+@@ 1000
+Trật tự! Trật tự!
+@@ 1001
+Bọn Goblin gọi nó là "Cây búa kết thúc trận chiến."
+@@ 1002
+Thước đo thật sự của một nhà vô địch là phải mất bao lâu mới hạ được hắn.
+@@ 1003
+Hết phim rồi!
+@@ 1004
+Dành cho những kẻ thù hay chìa cằm ra trước ...
+@@ 1005
+Nếu nó chưa gãy ... thì sửa cho gãy.
+@@ 1006
+Tất cả đều nằm trong đầu bạn.
+@@ 1007
+Khi có cây chùy này, bạn nắm trong tay mọi lá bài tẩy.
+@@ 1008
+Cây chùy này sẽ làm tan nát vài trái tim.
+@@ 1009
+Đòn roi sẽ còn tiếp tục cho đến khi sĩ khí được cải thiện.
+@@ 1010
+Vẫn đang đặt chữ “Hủy diệt” vào trong chữ “Gợi cảm.”
+@@ 1011
+Nỗi kinh hoàng thần thánh của riêng bạn.
+@@ 1012
+Nó giết chết những gì khiến bạn sợ hãi.
+@@ 1013
+Giữ cho tín đồ mãi một lòng trung tín.
+@@ 1014
+Một bản sao hoàn hảo của cây đại chùy ... với kích thước chỉ bằng một phần tám.
+@@ 1015
+Cốp! Cốp!
+@@ 1016
+Vũ khí của Scalzius, "Old Man Warrior" huyền thoại.
+@@ 1017
+Hãy đưa linh hồn chúng về nơi an nghỉ.
+@@ 1018
+Nó nện cho tỉnh ngộ những kẻ bị nó nện đến bất tỉnh.
+@@ 1019
+Quả báo khốn nạn lắm đấy!
+@@ 1020
+Bộ sưu tập Hammer Legendary\nMón thứ nhất trong bốn món
+@@ 1021
+Bộ sưu tập Hammer Legendary\nMón thứ hai trong bốn món
+@@ 1022
+Bộ sưu tập Hammer Legendary\nMón thứ ba trong bốn món
+@@ 1023
+Bộ sưu tập Hammer Legendary\nMón thứ tư trong bốn món
+@@ 1024
+Cuối cùng cũng có! CUỐI CÙNG CŨNG CÓ RỒI!
+@@ 1025
+Nhấp chuột phải để mở cổng dịch chuyển đến một hầm ngục thất lạc
+@@ 1026
+Cho phép tiến vào Cursed Catacombs qua Mapworks
+@@ 1027
+Cho phép tiến vào Infernal Necropolis qua Mapworks
+@@ 1028
+Cho phép tiến vào Cursed Tombs qua Mapworks
+@@ 1029
+Cho phép tiến vào Cursed Mausoleum qua Mapworks
+@@ 1030
+Cho phép tiến vào Infernal Catacombs qua Mapworks
+@@ 1031
+Cho phép tiến vào Infernal Tombs qua Mapworks
+@@ 1032
+Cho phép tiến vào Infernal Mausoleum qua Mapworks
+@@ 1033
+Cho phép tiến vào Defiled Burrow qua Mapworks
+@@ 1034
+Cho phép tiến vào Desecrated Sepulcher qua Mapworks
+@@ 1035
+Cho phép tiến vào Defiled Graves qua Mapworks
+@@ 1036
+Cho phép tiến vào Defiled Cemetery qua Mapworks
+@@ 1037
+Cho phép tiến vào Desecrated Burrow qua Mapworks

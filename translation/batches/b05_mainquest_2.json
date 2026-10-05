@@ -1,0 +1,1128 @@
+{
+ "batch": "b05_mainquest_2",
+ "count": 187,
+ "items": [
+  {
+   "id": 2087,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-PASS_STARTOFGAMES.DAT | PASSIVE | DIALOG",
+   "en": "As you meet the horse's large brown eyes, a chill runs down your spine."
+  },
+  {
+   "id": 2088,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-PASS_STARTOFGAMES.DAT | PASSIVE | DIALOG",
+   "en": "Did you come from Torchlight?  We heard rumors that somebody wiped out the whole town ... killed a lot of Vanquishers, and that mystic, Syl, too."
+  },
+  {
+   "id": 2089,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-PASS_STARTOFGAMES.DAT | PASSIVE | DIALOG",
+   "en": "Ever since the Alchemist's attack, there has been a sickness in the Enclave.  Grand Regent Eldrayn has sent my cousin, Miamin, out into the Path of the Honored Dead to seek a cure."
+  },
+  {
+   "id": 2090,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-PASS_STARTOFGAMES.DAT | PASSIVE | DIALOG",
+   "en": "GLUEEEEEEEEE!"
+  },
+  {
+   "id": 2091,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-PASS_STARTOFGAMES.DAT | PASSIVE | DIALOG",
+   "en": "Gazing into the horse's eyes, you feel on the verge of understanding a deep mystery."
+  },
+  {
+   "id": 2092,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-PASS_STARTOFGAMES.DAT | PASSIVE | DIALOG",
+   "en": "I thank you for rescuing me.  There are other captives, as well, in a cave below the lake.  There is a hatch, just outside that nearby hut, which leads to the slavers' den."
+  },
+  {
+   "id": 2093,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-PASS_STARTOFGAMES.DAT | PASSIVE | DIALOG",
+   "en": "I'm sorry, but access to the Path of the Honored Dead is closed, by order of the Estherian Grand Regent."
+  },
+  {
+   "id": 2094,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-PASS_STARTOFGAMES.DAT | PASSIVE | DIALOG",
+   "en": "If you're not authorized for travel here, I can't help you.  Talk to the Grand Regent."
+  },
+  {
+   "id": 2095,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-PASS_STARTOFGAMES.DAT | PASSIVE | DIALOG",
+   "en": "It is a human misconception that we Estherians \"worship\" the Guardians.  We tend to their temples, and provide for them as we might.  In return, from time to time they honor us with their presence."
+  },
+  {
+   "id": 2096,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-PASS_STARTOFGAMES.DAT | PASSIVE | DIALOG",
+   "en": "It looks like just an ordinary horse..."
+  },
+  {
+   "id": 2097,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-PASS_STARTOFGAMES.DAT | PASSIVE | DIALOG",
+   "en": "It was a brutal fight, getting up here through that bear-infested pass.  We lost a lot of good soldiers, and most of who we have left are injured."
+  },
+  {
+   "id": 2098,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-PASS_STARTOFGAMES.DAT | PASSIVE | DIALOG",
+   "en": "It's a horse."
+  },
+  {
+   "id": 2099,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-PASS_STARTOFGAMES.DAT | PASSIVE | DIALOG",
+   "en": "It's good to know that someone else made it through!  Does this mean Echo Pass is finally clear of the Sturmbeorn?"
+  },
+  {
+   "id": 2100,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-PASS_STARTOFGAMES.DAT | PASSIVE | DIALOG",
+   "en": "Peering deep into the horse's eyes, you feel you are not yet ready for its wisdom."
+  },
+  {
+   "id": 2101,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-PASS_STARTOFGAMES.DAT | PASSIVE | DIALOG",
+   "en": "Sturmbeorn are bear-men ... raiders from the north.  They attack the Estherians every few years.  The Vanquisher Corps is here to protect the Estherians, and make sure the Guardians' temples are safe."
+  },
+  {
+   "id": 2102,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-PASS_STARTOFGAMES.DAT | PASSIVE | DIALOG",
+   "en": "That big guy's the Destroyer, isn't he?  Commander Vale will be glad to see him!  They used to run together, back in the day.  She told me once how she, the Destroyer, and their buddy the Alchemist rescued Torchlight from some kind of dragon."
+  },
+  {
+   "id": 2103,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-PASS_STARTOFGAMES.DAT | PASSIVE | DIALOG",
+   "en": "The Alchemist attacked us!  If not for the Grand Regent defending the entire city, the Enclave would be as much a smoking ruin as Torchlight is."
+  },
+  {
+   "id": 2104,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-PASS_STARTOFGAMES.DAT | PASSIVE | DIALOG",
+   "en": "The Alchemist could not have chosen a more opportune moment to attack.  Grand Regent Eldrayn's resources were already stretched to the limit dealing with the Sturmbeorn raiders."
+  },
+  {
+   "id": 2105,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-PASS_STARTOFGAMES.DAT | PASSIVE | DIALOG",
+   "en": "The Enclave is this way, up Echo Pass. What with the ratlins and the Sturmbeorn, it can be dangerous.  So if you're not sure you're ready, you should get your bearings here first."
+  },
+  {
+   "id": 2106,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-PASS_STARTOFGAMES.DAT | PASSIVE | DIALOG",
+   "en": "The Grand Regent is afraid that the Alchemist might try to attack the Guardians next.  That is why Commander Vale is at the Wellspring Temple right now, conferring with the Guardian of Water."
+  },
+  {
+   "id": 2107,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-PASS_STARTOFGAMES.DAT | PASSIVE | DIALOG",
+   "en": "The Guardians are not gods, as humans seem to believe.  They are elementals ... the most powerful in the world.  By their very existence they create the elements; by the power of their will, they control the elements.  Without them, the world is chaos."
+  },
+  {
+   "id": 2108,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-PASS_STARTOFGAMES.DAT | PASSIVE | DIALOG",
+   "en": "The Sturmbeorn have made a mess of it, but Estheria's still some beautiful country.  The Estherians worship the Guardians ... the beings that control the elements.  There's even two of them right here in Estheria!  Just my luck, though: I'm stuck guarding a deserted tavern, in the rain."
+  },
+  {
+   "id": 2109,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-PASS_STARTOFGAMES.DAT | PASSIVE | DIALOG",
+   "en": "The alchemist must have spared this horse.  Or vice-versa."
+  },
+  {
+   "id": 2110,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-PASS_STARTOFGAMES.DAT | PASSIVE | DIALOG",
+   "en": "The horse appears surprisingly intelligent.  You have difficulty meeting its gaze."
+  },
+  {
+   "id": 2111,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-PASS_STARTOFGAMES.DAT | PASSIVE | DIALOG",
+   "en": "The horse chews placidly."
+  },
+  {
+   "id": 2112,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-PASS_STARTOFGAMES.DAT | PASSIVE | DIALOG",
+   "en": "The horse fixes you with a withering gaze."
+  },
+  {
+   "id": 2113,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-PASS_STARTOFGAMES.DAT | PASSIVE | DIALOG",
+   "en": "The horse flicks its ears twice.  You wonder what it means."
+  },
+  {
+   "id": 2114,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-PASS_STARTOFGAMES.DAT | PASSIVE | DIALOG",
+   "en": "The horse gazes at you serenely.  You feel lucky."
+  },
+  {
+   "id": 2115,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-PASS_STARTOFGAMES.DAT | PASSIVE | DIALOG",
+   "en": "The horse gazes upon you calmly, reminding you that patience is a virtue."
+  },
+  {
+   "id": 2116,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-PASS_STARTOFGAMES.DAT | PASSIVE | DIALOG",
+   "en": "The horse ignores you, perhaps if you offered it some food?"
+  },
+  {
+   "id": 2117,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-PASS_STARTOFGAMES.DAT | PASSIVE | DIALOG",
+   "en": "The horse ignores you."
+  },
+  {
+   "id": 2118,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-PASS_STARTOFGAMES.DAT | PASSIVE | DIALOG",
+   "en": "The horse looks like it's about to speak, and then doesn't."
+  },
+  {
+   "id": 2119,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-PASS_STARTOFGAMES.DAT | PASSIVE | DIALOG",
+   "en": "The horse makes unbroken eye contact with you.  While urinating."
+  },
+  {
+   "id": 2120,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-PASS_STARTOFGAMES.DAT | PASSIVE | DIALOG",
+   "en": "The horse seems pleased with itself, despite its dire surroundings."
+  },
+  {
+   "id": 2121,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-PASS_STARTOFGAMES.DAT | PASSIVE | DIALOG",
+   "en": "The horse seems to look into your future.  He appears disappointed."
+  },
+  {
+   "id": 2122,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-PASS_STARTOFGAMES.DAT | PASSIVE | DIALOG",
+   "en": "The horse snorts at you.  You feel dejected."
+  },
+  {
+   "id": 2123,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-PASS_STARTOFGAMES.DAT | PASSIVE | DIALOG",
+   "en": "The horse thinks you are wasting your time."
+  },
+  {
+   "id": 2124,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-PASS_STARTOFGAMES.DAT | PASSIVE | DIALOG",
+   "en": "The horse wickers menacingly."
+  },
+  {
+   "id": 2125,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-PASS_STARTOFGAMES.DAT | PASSIVE | DIALOG",
+   "en": "The horse winks at you.  You feel blessed."
+  },
+  {
+   "id": 2126,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-PASS_STARTOFGAMES.DAT | PASSIVE | DIALOG",
+   "en": "The horse's calm in the face of danger steels your will."
+  },
+  {
+   "id": 2127,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-PASS_STARTOFGAMES.DAT | PASSIVE | DIALOG",
+   "en": "The horse's countenance seethes with unbridled apathy."
+  },
+  {
+   "id": 2128,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-PASS_STARTOFGAMES.DAT | PASSIVE | DIALOG",
+   "en": "The horse's immense strength inspires you."
+  },
+  {
+   "id": 2129,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-PASS_STARTOFGAMES.DAT | PASSIVE | DIALOG",
+   "en": "The horses eyes narrow.  You feel a moment of terror."
+  },
+  {
+   "id": 2130,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-PASS_STARTOFGAMES.DAT | PASSIVE | DIALOG",
+   "en": "The pass is infested with ratlins, and there's some Sturmbeorn raiders, too.   They pretty much control the pass right now;  we can't get any troops through.  Every time we try, we end up with more wounded."
+  },
+  {
+   "id": 2131,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-PASS_STARTOFGAMES.DAT | PASSIVE | DIALOG",
+   "en": "This horse came through the desert.  You wonder if it has a name."
+  },
+  {
+   "id": 2132,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-PASS_STARTOFGAMES.DAT | PASSIVE | DIALOG",
+   "en": "This horse clearly thinks he's the mane attraction."
+  },
+  {
+   "id": 2133,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-PASS_STARTOFGAMES.DAT | PASSIVE | DIALOG",
+   "en": "This horse seems important somehow."
+  },
+  {
+   "id": 2134,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-PASS_STARTOFGAMES.DAT | PASSIVE | DIALOG",
+   "en": "This horse seems saddled with many burdens."
+  },
+  {
+   "id": 2135,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-PASS_STARTOFGAMES.DAT | PASSIVE | DIALOG",
+   "en": "This is the second most interesting horse you've ever seen."
+  },
+  {
+   "id": 2136,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-PASS_STARTOFGAMES.DAT | PASSIVE | DIALOG",
+   "en": "We've tangled with the Sturmbeorn a few times since we got here.  Them or the ratlins jump us every time we try to move supplies up the pass, to the Estherian city.  I hope the Commander comes back with some relief soon."
+  },
+  {
+   "id": 2137,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-PASS_STARTOFGAMES.DAT | PASSIVE | DIALOG",
+   "en": "You are lost for a moment in the horses eyes.  You feel you have lived an entire lifetime in that moment.  Your flute skills have improved."
+  },
+  {
+   "id": 2138,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-PASS_STARTOFGAMES.DAT | PASSIVE | DIALOG",
+   "en": "You are transfixed by the horse's gaze.  Your pack feels lighter."
+  },
+  {
+   "id": 2139,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-PASS_STARTOFGAMES.DAT | PASSIVE | DIALOG",
+   "en": "You attempt to communicate with the horse telepathically, you can't tell if it worked."
+  },
+  {
+   "id": 2140,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-PASS_STARTOFGAMES.DAT | PASSIVE | DIALOG",
+   "en": "You can tell from its eyes, this horse has seen dark days."
+  },
+  {
+   "id": 2141,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-PASS_STARTOFGAMES.DAT | PASSIVE | DIALOG",
+   "en": "You can tell that the horse does not want to be disturbed."
+  },
+  {
+   "id": 2142,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-PASS_STARTOFGAMES.DAT | PASSIVE | DIALOG",
+   "en": "You don't think the horse is going to talk to you."
+  },
+  {
+   "id": 2143,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-PASS_STARTOFGAMES.DAT | PASSIVE | DIALOG",
+   "en": "You feel the horse approves of your presence here."
+  },
+  {
+   "id": 2144,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-PASS_STARTOFGAMES.DAT | PASSIVE | DIALOG",
+   "en": "You get a sense that the horse doesn't like you."
+  },
+  {
+   "id": 2145,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-PASS_STARTOFGAMES.DAT | PASSIVE | DIALOG",
+   "en": "You must be pretty tough to have made it through the pass.  We lost a lot of good people getting here ... not to mention most of our supplies."
+  },
+  {
+   "id": 2146,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-PASS_STARTOFGAMES.DAT | PASSIVE | DIALOG",
+   "en": "You ponder the horse's speed, and are inspired to quicken your own step."
+  },
+  {
+   "id": 2147,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-PASS_STARTOFGAMES.DAT | PASSIVE | DIALOG",
+   "en": "You sidle up to the horse.  It sidles away."
+  },
+  {
+   "id": 2148,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-PASS_STARTOFGAMES.DAT | PASSIVE | DIALOG",
+   "en": "You think the horse winked at you.  Maybe not though."
+  },
+  {
+   "id": 2149,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-PASS_STARTOFGAMES.DAT | PASSIVE | DIALOG",
+   "en": "You think this horse may be lord of all horses.  You feel a bit dim."
+  },
+  {
+   "id": 2150,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-PASS_STARTOFGAMES.DAT | PASSIVE | DIALOG",
+   "en": "You trot out a few jokes, but the horse seems nonplussed."
+  },
+  {
+   "id": 2151,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-PASS_STARTOFGAMES.DAT | PASSIVE | DIALOG",
+   "en": "You two are lucky to have made it this far, seeing as how badly wounded the Destroyer is.  But I think you're on your own now, from here to the Enclave.  The Destroyer can barely stand ... let alone fight his way through all those Sturmbeorn in the pass."
+  },
+  {
+   "id": 2152,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-PASS_STARTOFGAMES.DAT | PASSIVE | DIALOG",
+   "en": "You wonder how this horse escaped Torchlight."
+  },
+  {
+   "id": 2153,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT1PASSIVES/A1-PASS_STARTOFGAMES.DAT | PASSIVE | DIALOG",
+   "en": "You wonder if this horse has a name."
+  },
+  {
+   "id": 2154,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT2/A2-CONTINUE_TO_ACT3.DAT | COMPLETE | DIALOG",
+   "en": "Well, the transport is all patched up, and we've taken on fuel and supplies.  I can have you up to Grunnheim in no time!"
+  },
+  {
+   "id": 2155,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT2/A2-CONTINUE_TO_ACT3.DAT | DETAILS | DIALOG",
+   "en": "Speak to the |cFFFFBA00Imperial Railmaster|u, in |cFFFFBA00Zeryphesh|u, to travel to |cFFFFBA00Grunnheim|u."
+  },
+  {
+   "id": 2156,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT2/A2-CONTINUE_TO_ACT3.DAT | DETAILS | DIALOG_COMPLETE",
+   "en": "Report in at the |cFFFFBA00Imperial Camp|u, in |cFFFFBA00Grunnheim|u"
+  },
+  {
+   "id": 2157,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT2/A2-CONTINUE_TO_ACT3.DAT | HUDDETAILS | DIALOG",
+   "en": "- Speak to the |cFFFFBA00Railmaster|u in |cFFFFBA00Zeryphesh|u"
+  },
+  {
+   "id": 2158,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT2/A2-CONTINUE_TO_ACT3.DAT | HUDDETAILS | DIALOG_COMPLETE",
+   "en": "- Travel to |cFFFFBA00Grunnheim|u"
+  },
+  {
+   "id": 2159,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT2/A2-CONTINUE_TO_ACT3.DAT | INTRO | DIALOG",
+   "en": "You have done well.  The Ezrohir forces at Riftkeep are defeated, and their troops are in retreat.  Most importantly, the Guardian of Mana is once again safe.\\n\\nLet us return to the matter of the Dark Alchemist.  He has now stolen the energy of three Guardians, and we thought he desired my power as well.  But, for some reason, he has left the desert, and is now en route to |cFFFFBA00Grunnheim|u.\\n\\nThat can only mean that he is bound for the |cFFFFBA00Clockwork Core|u.  With the power he has amassed, he could destroy the barrier between our world and the realm of the Netherim.  They would pour through by the millions.\\n\\nSeek the |cFFFFBA00Railmaster|u, and depart for |cFFFFBA00Grunnheim|u as soon as you are able."
+  },
+  {
+   "id": 2160,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT2/A2-CONTINUE_TO_ACT3.DAT | MOREDETAILS | DIALOG",
+   "en": "With the Guardian of Mana freed from Ezrohir control, the city of Zeryphesh is safe.  The Ezrohir are fleeing back to their hiding places in the deserts.  The Zeraphi are safe once again.\\n\\nBut the Alchemist is still on the loose, and now, bolstered with the energy of the Guardians of Water, the Wild, and Mana, he is en route to the dwarven ruins at Grunnheim to put the final step of his mad plan into action.\\n\\nIf the Alchemist reaches the Clockwork Core, and uses the full power of Ordrak's Heart to destroy the ancient barrier between the world and the foul Nether, he will open a floodgate through which the Netherim will pour by the thousands.  You are the only one who can stop him!"
+  },
+  {
+   "id": 2161,
+   "mode": "decide",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT2/A2-CONTINUE_TO_ACT3.DAT | QUEST | DISPLAYNAMECOMPLETE",
+   "en": "Talk to Railmaster"
+  },
+  {
+   "id": 2162,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT2/A2-CONTINUE_TO_ACT3.DAT | RETURN | DIALOG",
+   "en": "The Alchemist is nearly within your reach!  Hasten at once to Grunnheim!"
+  },
+  {
+   "id": 2163,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT2/A2-DEFEAT_MANA_GUARDIAN.DAT | COMPLETE | DIALOG",
+   "en": "Stop.  Enough.  You have freed me from my enslavement and I am myself once more!\\n\\nWe must leave this place.  I will open a portal for you, to Zeryphesh.\\n"
+  },
+  {
+   "id": 2164,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT2/A2-DEFEAT_MANA_GUARDIAN.DAT | DETAILS | DIALOG",
+   "en": "Travel through the |cFFFFBA00Witherways|u, in the |cFFFFBA00Salt Barrens|u, to the Ezrohir stronghold of |cFFFFBA00Riftkeep|u, and free the |cFFFFBA00Guardian of Mana|u from Ezrohir control."
+  },
+  {
+   "id": 2165,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT2/A2-DEFEAT_MANA_GUARDIAN.DAT | DETAILS | DIALOG_COMPLETE",
+   "en": "Speak to the newly freed |cFFFFBA00Guardian of Mana|u."
+  },
+  {
+   "id": 2166,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT2/A2-DEFEAT_MANA_GUARDIAN.DAT | HUDDETAILS | DIALOG",
+   "en": "- Travel through the |cFFFFBA00Witherways|u, in the |cFFFFBA00Salt Barrens|u, to |cFFFFBA00Riftkeep|u, and defeat the |cFFFFBA00Siege Guardian|u "
+  },
+  {
+   "id": 2167,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT2/A2-DEFEAT_MANA_GUARDIAN.DAT | HUDDETAILS | DIALOG_COMPLETE",
+   "en": "- Speak to the |cFFFFBA00Guardian of Mana|u in |cFFFFBA00Riftkeep|u"
+  },
+  {
+   "id": 2168,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT2/A2-DEFEAT_MANA_GUARDIAN.DAT | INTRO | DIALOG",
+   "en": "By slaying Ezrek Khan, you broke the enchantment used to enslave the Guardian of Mana.  That means that you can defeat her without destroying her.\\n\\nThe Ezrohir have moved the Guardian to the fortress of |cFFFFBA00Riftkeep|u in the |cFFFFBA00Salt Barrens|u, where they are marshaling their forces for the assault on Zeryphesh.\\n\\nGo.  Fight past the Ezrohir and free the |cFFFFBA00Guardian|u!"
+  },
+  {
+   "id": 2169,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT2/A2-DEFEAT_MANA_GUARDIAN.DAT | MOREDETAILS | DIALOG",
+   "en": "The time has come to enter Riftkeep and try to rescue the Guardian of Mana.  The djinni, Fazeer Shah, claims that he has broken the Ezrohir's control over the Guardian ... but there still remains the matter of actually freeing her.  Resistance inside Riftkeep will be formidable; the Ezrohir army is already prepared for war, and they are no doubt expecting a rescue attempt.  You will have to act fast, and strike without mercy."
+  },
+  {
+   "id": 2170,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT2/A2-DEFEAT_MANA_GUARDIAN.DAT | RETURN | DIALOG",
+   "en": "When the Zeraphi and Ezrohir \"parted ways,\" they designated the nearby fortress of Riftkeep as a neutral ground, where they could meet and talk over their differences.  But it has remained unused for centuries ... until a few weeks ago, when the Ezrohir army seized the fortress.  They have occupied it ever since, and that is surely where they are holding the Guardian of Mana while they marshal their forces.\\n\\nThe Ezrohir will be expecting the Zeraphi to attack them at Riftkeep, to attempt to rescue the Guardian.  But they know it will take time for the Zeraphi to arrive.  You can get there much more quickly, and fight your way inside before they are prepared to repel you."
+  },
+  {
+   "id": 2171,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT2/A2-DJINNI_1ST_TASK.DAT | COMPLETE | DIALOG",
+   "en": "So!  You retrieved the Lamp of Wonders!  Your pitiful struggles do provide some small entertainment after all.\\n\\nYou can throw that piece of  junk away.  It's just a lamp with a pretentious name. It doesn't actually do anything, although I suppose you could put some oil in it and use it to provide light ...\\n\\nThis second task should prove much more amusing."
+  },
+  {
+   "id": 2172,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT2/A2-DJINNI_1ST_TASK.DAT | DETAILS | DIALOG",
+   "en": "Go to the |cFFFFBA00Sadwa Mesa|u in the |cFFFFBA00Salt Barrens|u and recover the |cFFFFBA00Lamp of Wonders|u."
+  },
+  {
+   "id": 2173,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT2/A2-DJINNI_1ST_TASK.DAT | DETAILS | DIALOG_COMPLETE",
+   "en": "Return to |cFFFFBA00Fazeer Shah|u in the |cFFFFBA00Salt Barrens|u."
+  },
+  {
+   "id": 2174,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT2/A2-DJINNI_1ST_TASK.DAT | HUDDETAILS | DIALOG",
+   "en": "- Recover the |cFFFFBA00Lamp of Wonders|u from the |cFFFFBA00Sadwa Mesa|u in the |cFFFFBA00Salt Barrens|u"
+  },
+  {
+   "id": 2175,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT2/A2-DJINNI_1ST_TASK.DAT | HUDDETAILS | DIALOG_COMPLETE",
+   "en": "- Return to |cFFFFBA00Fazeer Shah|u in the |cFFFFBA00Salt Barrens|u"
+  },
+  {
+   "id": 2176,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT2/A2-DJINNI_1ST_TASK.DAT | INTRO | DIALOG",
+   "en": "The Artificer and the Alchemist might be formidable, but even their combined powers are nothing more than parlor tricks to one such as me.  I can easily undo anything that they have done to your \"Guardian.\"  I will of course require something in return.\\n\\nMy only real enemy in this desert is boredom.  I will make you a bargain:  Perform three tasks for my amusement.  If your struggles provide suitable entertainment, then, and only then, will I free your Guardian.\\n\\nYour first task: Journey to the |cFFFFBA00Sadwa Mesa|u, and recover my |cFFFFBA00Lamp of Wonders|u from the Tu'tara!"
+  },
+  {
+   "id": 2177,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT2/A2-DJINNI_1ST_TASK.DAT | MOREDETAILS | DIALOG",
+   "en": "The djinni, Fazeer Shah, has agreed to help you free the Guardian of Mana ... but only if you perform a few tasks for his amusement first.  Fazeer Shah doesn't seem to understand the gravity of the situation ... or just doesn't care ... but, if this is the only way to rescue the Guardian, there doesn't seem to be much choice."
+  },
+  {
+   "id": 2178,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT2/A2-DJINNI_1ST_TASK.DAT | RETURN | DIALOG",
+   "en": "I suppose you're wondering why I need the Lamp of Wonders.  Perhaps you're thinking it has powers that will enable me to help you.  Perhaps you're also thinking that, if it has powers like that, you don't need me ... you just need the lamp?\\n\\nAllow me to put your mind at rest:  The Lamp of Wonders has no powers.  I simply want to make you retrieve it, to test your resolve to rescue the Guardian ... which I can't help but notice you haven't done yet."
+  },
+  {
+   "id": 2179,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT2/A2-DJINNI_2ST_TASK.DAT | COMPLETE | DIALOG",
+   "en": "So ... you finally found your way out.  You are the most entertaining diversion I've found in a thousand years!\\n\\nWell, I suppose you'll be needing one final task ..."
+  },
+  {
+   "id": 2180,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT2/A2-DJINNI_2ST_TASK.DAT | DETAILS | DIALOG",
+   "en": "Survive against the hordes of enemies until you find a way to return to |cFFFFBA00Fazeer Shah|u."
+  },
+  {
+   "id": 2181,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT2/A2-DJINNI_2ST_TASK.DAT | DETAILS | DIALOG_COMPLETE",
+   "en": "You have prevailed against the hordes of enemies. Return to |cFFFFBA00Fazeer Shah|u in the |cFFFFBA00Salt Barrens|u."
+  },
+  {
+   "id": 2182,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT2/A2-DJINNI_2ST_TASK.DAT | HUDDETAILS | DIALOG",
+   "en": "- Survive the |cFFFFBA00Luminous Arena|u"
+  },
+  {
+   "id": 2183,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT2/A2-DJINNI_2ST_TASK.DAT | INTRO | DIALOG",
+   "en": "You survived the Tu'tara more or less in one piece.  Congratulations.  But it occurs to me that you didn't do anything that you wouldn't ordinarily have done.  This second task should prove much more amusing.\\n\\nStep through the |cFFFFBA00Portal|u.  Your second task ... is to survive!"
+  },
+  {
+   "id": 2184,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT2/A2-DJINNI_2ST_TASK.DAT | MOREDETAILS | DIALOG",
+   "en": "Fazeer Shah has promised to help you release the magical bonds placed on the Guardian of Mana by the Artificer, if you'll just perform three tasks for the djinni's amusement.  The first task was easy enough, but the second seems much riskier.\\n\\nBut, if jumping through the djinni's hoops will free the Guardian of Mana from Ezrohir control, then that's what you'll have to do."
+  },
+  {
+   "id": 2185,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT2/A2-DJINNI_2ST_TASK.DAT | RETURN | DIALOG",
+   "en": "Go on, then. Glory awaits!"
+  },
+  {
+   "id": 2186,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT2/A2-DJINNI_3RD_TASK.DAT | COMPLETE | DIALOG",
+   "en": "Everything has transpired exactly as I intended!  I have my Lamp of Marvels!  At last, I am free!\\n\\nI confess:  This lamp is much more valuable than you could have known.  Ezrek Kahn stole it from me ages ago, and now that I have them both, I have my freedom, and ultimate power over my oldest rival. \\n\\nAs for your Guardian ... defeating Ezrek Kahn has sufficiently weakened the magic they bound her with. You should be able to confront her now.\\n\\nI HAVE HONORED MY BARGAIN!"
+  },
+  {
+   "id": 2187,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT2/A2-DJINNI_3RD_TASK.DAT | DETAILS | DIALOG",
+   "en": "Defeat |cFFFFBA00Ezrek Khan|u in |cFFFFBA00Jehannum|u, and retrieve the |cFFFFBA00Lamp of Marvels|u."
+  },
+  {
+   "id": 2188,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT2/A2-DJINNI_3RD_TASK.DAT | DETAILS | DIALOG_COMPLETE",
+   "en": "Return to |cFFFFBA00Fazeer Shah|u after you have defeated |cFFFFBA00Ezrek Khan|u."
+  },
+  {
+   "id": 2189,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT2/A2-DJINNI_3RD_TASK.DAT | HUDDETAILS | DIALOG",
+   "en": "- Defeat |cFFFFBA00Ezrek Khan|u in |cFFFFBA00Jehannum|u"
+  },
+  {
+   "id": 2190,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT2/A2-DJINNI_3RD_TASK.DAT | HUDDETAILS | DIALOG_COMPLETE",
+   "en": "- Give the |cFFFFBA00Lamp of Marvels|u to |cFFFFBA00Fazeer Shah|u"
+  },
+  {
+   "id": 2191,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT2/A2-DJINNI_3RD_TASK.DAT | INTRO | DIALOG",
+   "en": "Well, well.  You are much more determined ... and capable ... than I had suspected!  Excellent ...\\n\\nIf you truly wish to free the Guardian, you must humiliate my old rival, |cFFFFBA00Ezrek Khan|u, by stealing his precious |cFFFFBA00Lamp of Marvels|u."
+  },
+  {
+   "id": 2192,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT2/A2-DJINNI_3RD_TASK.DAT | MOREDETAILS | DIALOG",
+   "en": "Fazeer Shah's \"entertainments\" have put your life in serious jeopardy twice now ... and he still isn't satisfied!  Fortunately, he swears he only has this one last task for you, and then he'll honor his bargain, and free the Guardian of Mana from the controls placed upon her by the Ezrohir."
+  },
+  {
+   "id": 2193,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT2/A2-DJINNI_3RD_TASK.DAT | RETURN | DIALOG",
+   "en": "Be warned:  Ezrek Khan draws his power from the same source as the Netherim.  His realm borders closely on theirs; they will almost certainly stand against you, should you challenge the djinni."
+  },
+  {
+   "id": 2194,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT2/A2-FIGHT_ARTIFICER.DAT | COMPLETE | DIALOG",
+   "en": "We must act quickly. It appears that the Artificer you defeated in the Vaults has enslaved the Guardian of Mana for the enemy. The most pressing danger is that they will use the enslaved Guardian to corrupt ... and control ... all the world's magic. Our only recourse in that event may be to destroy the Guardian.\\n\\nThere might still be hope. If we can find a way to free the |cFFFFBA00Guardian|u from Ezrohir control, we can save Zeryphesh, and thwart the Alchemist's plans."
+  },
+  {
+   "id": 2195,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT2/A2-FIGHT_ARTIFICER.DAT | DETAILS | DIALOG",
+   "en": "Search the |cFFFFBA00Ossean Wastes|u for the entrance to the |cFFFFBA00Forsaken Vaults|u, where the |cFFFFBA00Guardian of Mana|u was taken, and defeat the forces that captured her."
+  },
+  {
+   "id": 2196,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT2/A2-FIGHT_ARTIFICER.DAT | DETAILS | DIALOG_COMPLETE",
+   "en": "Defeat the |cFFFFBA00Artificer|u, and inform the |cFFFFBA00Guardian of Air|u in |cFFFFBA00Zeryphesh|u."
+  },
+  {
+   "id": 2197,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT2/A2-FIGHT_ARTIFICER.DAT | HUDDETAILS | DIALOG",
+   "en": "- Locate the |cFFFFBA00Forsaken Vaults|u in the |cFFFFBA00Ossean Wastes|u\\n- Defeat the forces holding the |cFFFFBA00Guardian of Mana|u"
+  },
+  {
+   "id": 2198,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT2/A2-FIGHT_ARTIFICER.DAT | HUDDETAILS | DIALOG_COMPLETE",
+   "en": "- Return to |cFFFFBA00Guardian of Air|u in |cFFFFBA00Zeryphesh|u"
+  },
+  {
+   "id": 2199,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT2/A2-FIGHT_ARTIFICER.DAT | INTRO | DIALOG",
+   "en": "The Ezrohir have Mana enslaved\\nBut there's still hope; she might yet be saved.\\nThe enemy lie in this foul creche.\\nSave the |cFFFFBA00Guardian|u ... save Zeryphesh."
+  },
+  {
+   "id": 2200,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT2/A2-FIGHT_ARTIFICER.DAT | MOREDETAILS | DIALOG",
+   "en": "Once again, the Sphinx has provided you with a kind of riddle about the fate of the Guardian of Mana:  Apparently, the Ezrohir captured the Guardian and brought her into the Forsaken Vaults, where they have devised some way of forcing her to work for them!\\n\\nYou have to free her, or Zeryphesh will surely be lost ... and all the world's magic might come under the control of the bellicose Ezrohir!"
+  },
+  {
+   "id": 2201,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT2/A2-FIGHT_ARTIFICER.DAT | RETURN | DIALOG",
+   "en": "The Ezrohir prepare today for war\\nTheir legions number in the score.\\nTheir Alchemy and Artifice suffice\\nTo capture Mana ... not once but twice.\\nImprisoned in the Vaults Forsaken:\\nSubdued, enslaved, her magic taken.\\nForced to lead their troops in battle\\nFrom Guardian ... to so much chattel.\\n"
+  },
+  {
+   "id": 2202,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT2/A2-FIND_DJINNI.DAT | COMPLETE | DIALOG",
+   "en": "Greetings, o insignificant one.\\n\\nAh, yes ... I know of this Artificer.  He came to me, seeking the secret of binding a Guardian ... but I refused his entreaties.  Instead, he turned to my ancient foe, the despicable Ezrek Khan, who was all too eager to teach him such abominable rituals.\\n\\nOf course, whatever Ezrek Khan has done, I can undo."
+  },
+  {
+   "id": 2203,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT2/A2-FIND_DJINNI.DAT | DETAILS | DIALOG",
+   "en": "Locate the djinni |cFFFFBA00Fazeer Shah|u in the |cFFFFBA00Salt Barrens|u."
+  },
+  {
+   "id": 2204,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT2/A2-FIND_DJINNI.DAT | HUDDETAILS | DIALOG",
+   "en": "- Locate the |cFFFFBA00Djinni|u in |cFFFFBA00Salt Barrens|u"
+  },
+  {
+   "id": 2205,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT2/A2-FIND_DJINNI.DAT | INTRO | DIALOG",
+   "en": "Not far from here, in the |cFFFFBA00Salt Barrens|u, there abides a djinni named |cFFFFBA00Fazeer Shah|u.  This djinni has the power to release the Guardian of Mana from Ezrohir control ... but his aid will come with a price.\\n\\nYou must travel out into the |cFFFFBA00Salt Barrens|u.  Locate |cFFFFBA00Fazeer Shah|u, and convince him to help you free the Guardian."
+  },
+  {
+   "id": 2206,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT2/A2-FIND_DJINNI.DAT | MOREDETAILS | DIALOG",
+   "en": "Curse that riddle-tongued Sphinx!  The Guardian of Mana had been in the Forsaken Vaults, but the Ezrohir took her away before you even arrived!  Now they are keeping her under guard at Riftkeep, their fortress in the Salt Barrens, until they are ready to launch their attack on Zeryphesh.\\n\\nThings are getting desperate, but the Guardian of Air has suggested a way that Mana might still be saved.  The magical bonds placed upon the Guardian of Mana are beyond the abilities of the Guardians to remove, but, out in the Salt Barrens, there abides a powerful djinni named Fazeer Shah.  This djinni can easily undo the Artificer's work, but you have to find him first ... and then convince him to help."
+  },
+  {
+   "id": 2207,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT2/A2-FIND_DJINNI.DAT | RETURN | DIALOG",
+   "en": "Centuries ago, a djinni named Fazeer Shah and a djinni named Ezrek Khan quarreled over some trivial matter, and ultimately went to war.  They caused considerable damage to the cities, and devastated the land, until the Zeraphi sultan had had enough.  He banished them both: one to the desert, and one to ... another place.  A shadow realm, between this world and the endless void where the Netherim dwell.\\n\\nIf you can reach Fazeer Shah, you might be able to convince him to help us."
+  },
+  {
+   "id": 2208,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT2/A2-RETURN_TO_TOWN_AFTER_DEFEATING_SIEGE_GUARDIAN.DAT | DETAILS | DIALOG",
+   "en": "Return to |cFFFFBA00Zeryphesh|u when the |cFFFFBA00Guardian of Mana|u is free."
+  },
+  {
+   "id": 2209,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT2/A2-RETURN_TO_TOWN_AFTER_DEFEATING_SIEGE_GUARDIAN.DAT | HUDDETAILS | DIALOG",
+   "en": "- Return to the |cFFFFBA00Guardian of Air|u in |cFFFFBA00Zeryphesh|u"
+  },
+  {
+   "id": 2210,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT2/A2-SEARCH_FOR_MANA_GUARDIAN.DAT | COMPLETE | DIALOG",
+   "en": "The Mana Queen has come and gone\\nThrough this gate, she journeyed on.\\nFollow her and pay the cost.\\nHasten forth, or she'll be lost."
+  },
+  {
+   "id": 2211,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT2/A2-SEARCH_FOR_MANA_GUARDIAN.DAT | DETAILS | DIALOG",
+   "en": "Search the |cFFFFBA00Ossean Wastes|u for the |cFFFFBA00Guardian of Mana|u."
+  },
+  {
+   "id": 2212,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT2/A2-SEARCH_FOR_MANA_GUARDIAN.DAT | HUDDETAILS | DIALOG",
+   "en": "- Search for the |cFFFFBA00Guardian of Mana|u in the |cFFFFBA00Ossean Wastes|u"
+  },
+  {
+   "id": 2213,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT2/A2-SEARCH_FOR_MANA_GUARDIAN.DAT | INTRO | DIALOG",
+   "en": "I have been expecting you.  I am the |cFFFFBA00Guardian of Air|u.  Yes, the Alchemist has already come to the |cFFFFBA00Ossean Wastes|u, and has allied himself with the vile Ezrohir, presumably to aid their impending attack on Zeryphesh.  \\n\\nThe |cFFFFBA00Guardian of Mana|u has pursued the Alchemist into the |cFFFFBA00Forsaken Vaults|u, which are guarded by the |cFFFFBA00Sphinx|u.  Seek the Vaults, and convince the Sphinx to grant you entry.  The Guardian is in great danger ... if not from the |cFFFFBA00Alchemist|u, then from the Netherim."
+  },
+  {
+   "id": 2214,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT2/A2-SEARCH_FOR_MANA_GUARDIAN.DAT | MOREDETAILS | DIALOG",
+   "en": "The once-heroic Alchemist is on a mad rampage!  After destroying Torchlight, he invaded the Estherian Steppes, where he attacked two of the elemental Guardians, draining their powers to fuel the evil artifact he reclaimed from the Torchlight mines: Ordrak's Heart.\\n\\nConvinced he needs even more power, the Alchemist has apparently headed south, to the Ossean Wastes, where two more Guardians are preparing to defend the desert city of Zeryphesh against an attack by their old foes, the Ezrohir.  Now one of those Guardians has gone missing, and the other, the Guardian of Air, believes that the Guardian of Mana may be heading into a trap."
+  },
+  {
+   "id": 2215,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT2/A2-SEARCH_FOR_MANA_GUARDIAN.DAT | RETURN | DIALOG",
+   "en": "The |cFFFFBA00Guardian of Mana|u has pursued the Alchemist into the |cFFFFBA00Forsaken Vaults|u, which are guarded by the |cFFFFBA00Sphinx|u.  Seek the Vaults, and convince the Sphinx to grant you entry.  The Guardian is in great danger ... if not from the |cFFFFBA00Alchemist|u, then from the Netherim."
+  },
+  {
+   "id": 2216,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT2/A2-SEARCH_OUT_MANTICORE.DAT | COMPLETE | DIALOG",
+   "en": "Your valor proved; the way is clear.\\nThe forge, the Queen ... the end is near."
+  },
+  {
+   "id": 2217,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT2/A2-SEARCH_OUT_MANTICORE.DAT | DETAILS | DIALOG",
+   "en": "Defeat the |cFFFFBA00Manticore|u in the |cFFFFBA00Stygian Aerie|u."
+  },
+  {
+   "id": 2218,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT2/A2-SEARCH_OUT_MANTICORE.DAT | DETAILS | DIALOG_COMPLETE",
+   "en": "Return to the |cFFFFBA00Sphinx|u at the |cFFFFBA00CForsaken Gate|u."
+  },
+  {
+   "id": 2219,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT2/A2-SEARCH_OUT_MANTICORE.DAT | HUDDETAILS | DIALOG",
+   "en": "- Defeat the |cFFFFBA00Manticore|u in the |cFFFFBA00Stygian Aerie|u"
+  },
+  {
+   "id": 2220,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT2/A2-SEARCH_OUT_MANTICORE.DAT | HUDDETAILS | DIALOG_COMPLETE",
+   "en": "- Return to the |cFFFFBA00Sphinx|u at the |cFFFFBA00Forsaken Gate|u"
+  },
+  {
+   "id": 2221,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT2/A2-SEARCH_OUT_MANTICORE.DAT | INTRO | DIALOG",
+   "en": "My ancient charge, to guard the gate\\nThe desert sands to contemplate.\\nIn Stygian realm lurks beast of yore\\nPart drake, part lion:  |cFFFFBA00Manticore|u.\\nLay its skin before my eyes\\nAnd passage through shall be your prize.\\n"
+  },
+  {
+   "id": 2222,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT2/A2-SEARCH_OUT_MANTICORE.DAT | MOREDETAILS | DIALOG",
+   "en": "If you understood the enigmatic Sphinx correctly, the Guardian of Mana was captured by the Ezrohir and taken into the Forsaken Vaults for some nefarious purpose.  The Guardian is clearly in danger ... but the Sphinx will not open the Forsaken Gate until you slay her most hated enemy: a Manticore that lurks in a cave in the Ossean Wastes."
+  },
+  {
+   "id": 2223,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT2/A2-SEARCH_OUT_MANTICORE.DAT | RETURN | DIALOG",
+   "en": "Forge of darkness, deep below.\\nChains are wrought and bellows blow\\nQueen of Mana trapped, restrained\\nMagic stolen, power drained.\\nEzrohir make plans for war\\nCaptured Queen is at the fore."
+  },
+  {
+   "id": 2224,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT2/A2-VANQUISHERSENDTOZERYPHESHPT2.DAT | HUDDETAILS | DIALOG",
+   "en": "- Speak to |cFFFFBA00Guardian of Air|u in |cFFFFBA00Zeryphesh|u"
+  },
+  {
+   "id": 2225,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT2/A2-VANQUISHERSENDTOZERYPHESHPT2.DAT | INTRO | DIALOG",
+   "en": "You're the one the Vanquisher-lady told me about, then?  Alright ... whenever you're ready to get rollin', we'll get your gear aboard our Embercraft, and we'll set out.  Shouldn't take us more than a couple of days to get there!"
+  },
+  {
+   "id": 2226,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT2/A2-VANQUISHER_SEND_TO_ACT2.DAT | DETAILS | DIALOG",
+   "en": "Speak to the |cFFFFBA00Railmaster|u in the |cFFFFBA00Enclave|u to leave the Estherian Steppes and travel to the desert city of |cFFFFBA00Zeryphesh|u."
+  },
+  {
+   "id": 2227,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT2/A2-VANQUISHER_SEND_TO_ACT2.DAT | DETAILS | DIALOG_COMPLETE",
+   "en": "When you reach |cFFFFBA00Zeryphesh|u, speak with the |cFFFFBA00Guardian of Air|u."
+  },
+  {
+   "id": 2228,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT2/A2-VANQUISHER_SEND_TO_ACT2.DAT | HUDDETAILS | DIALOG",
+   "en": "- Speak to |cFFFFBA00Railmaster|u in |cFFFFBA00Enclave|u to travel to |cFFFFBA00Zeryphesh|u"
+  },
+  {
+   "id": 2229,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT2/A2-VANQUISHER_SEND_TO_ACT2.DAT | INTRO | DIALOG",
+   "en": "I'm commandeering a transport to take you to |cFFFFBA00Zeryphesh|u, in the Ossean Wastes.\\n\\nJust speak to the |cFFFFBA00Railmaster|u, when you're ready to go."
+  },
+  {
+   "id": 2230,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT2/A2-VANQUISHER_SEND_TO_ACT2.DAT | MOREDETAILS | DIALOG",
+   "en": "The Alchemist must be stopped.  His mad plan to free the Netherim from their ancient prison has now caused the deaths of Syl, Grand Regent Eldrayn, the entire village of Torchlight, and countless Estherians and Vanquishers ... not to mention nearly killing two of the elemental Guardians.\\n\\nThe power the Alchemist has stolen from the Guardians is vast, but not limitless ... not yet.  But there are two more Guardians not far away, in the Ossean Wastes, and the Guardian of the Wild has asked you to journey there, to help protect them from the Alchemist."
+  },
+  {
+   "id": 2231,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT2/A2-VANQUISHER_SEND_TO_ACT2.DAT | RETURN | DIALOG",
+   "en": "Things are pretty rough down in Zeryphesh, too.  That's why the Guardians are there.  The Ezrohir, after something like five hundred years of peace, are making war on the Zeraphi again.  A couple of the Guardians went down there to maintain order as best they can.\\n\\nIf the Alchemist only needs the energy of two more Guardians, he couldn't have gotten more lucky.  They'll both be right there, in easy reach.  Let's just hope that they're more prepared than the others were."
+  },
+  {
+   "id": 2232,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT3/A3-ARRIVEATBASE.DAT | DETAILS | DIALOG",
+   "en": "You arrive in Grunnheim to find the Imperial Camp has recently been attacked. Seek out |cFFFFBA00Professor Stoker|u to discover the fate of the camp and learn about the |cFFFFBA00Clockwork Core|u."
+  },
+  {
+   "id": 2233,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT3/A3-ARRIVEATBASE.DAT | HUDDETAILS | DIALOG",
+   "en": "Seek out |cFFFFBA00Professor Stoker|u."
+  },
+  {
+   "id": 2234,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT3/A3-INTROTOACT3.DAT | COMPLETE | DIALOG",
+   "en": "Trying to reach the Scrapworks?  That's what we were doing - until a cave-in made it impossible to get through the entrance."
+  },
+  {
+   "id": 2235,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT3/A3-INTROTOACT3.DAT | DETAILS | DIALOG",
+   "en": "Travel through the Rotted Path and the Blightbogs to the Middenmine, and seek the entrance to the |cFFFFBA00Scrapworks|u. Search the Scrapworks for a |cFFFFBA00Power Source|u, and bring it back to Professor Stoker in the Imperial Camp."
+  },
+  {
+   "id": 2236,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT3/A3-INTROTOACT3.DAT | HUDDETAILS | DIALOG",
+   "en": "- Search the |cFFFFBA00Scrapworks|u for a |cFFFFBA00Power Source|u"
+  },
+  {
+   "id": 2237,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT3/A3-INTROTOACT3.DAT | INTRO | DIALOG",
+   "en": "I wish you had gotten here sooner! The Alchemist came through here about an hour ago. He laid waste to the camp and then went through the |cFFFFBA00Great Door|u, there - sealed it shut behind him.\\n\\nWe believe that door leads to the Clockwork Core. We've been unable to open it ourselves, but we know how in theory. See that dwarven automaton? It's designed to open the door, but it's missing its |cFFFFBA00Power Source|u. There should be one in the |cFFFFBA00Scrapworks|u, but it was too dangerous for us to enter. Perhaps you will have more luck.\\n"
+  },
+  {
+   "id": 2238,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT3/A3-INTROTOACT3.DAT | MOREDETAILS | DIALOG",
+   "en": "You have arrived at the Imperial Camp in the midst of the ruins at Grunnheim to find that the Alchemist is only an hour or so ahead of you. After destroying the camp, the Alchemist went through a nearby door, believed by Professor Stoker, the camp's chief archeologist, to lead to the Clockwork Core.\\n\\nIf the Alchemist reaches the Clockwork Core with Ordrak's Heart, he can unleash the Netherim upon our world. You must find a way to open the Great Door. The Professor believes that the automaton by the door is equipped to open it, but only if you can find a replacement for its dead power source.\\n"
+  },
+  {
+   "id": 2239,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT3/A3-INTROTOACT3.DAT | RETURN | DIALOG",
+   "en": "We've been trying to get through the Great Door for weeks. We determined that the door was missing its power source, and were beginning to mount an expedition to the Scrapworks to find a replacement. The Alchemist attacked before we could act."
+  },
+  {
+   "id": 2240,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT3/A3-INTROTOACT3_PT2.DAT | COMPLETE | DIALOG",
+   "en": "Well done! This Power Source will fit perfectly into the automaton's boiler!\\n\\nHmm... That's odd. Nothing's happening. Oh, no... I was afraid of this! The Power Source is completely drained! This is going to be more difficult than I'd anticipated.\\n"
+  },
+  {
+   "id": 2241,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT3/A3-INTROTOACT3_PT2.DAT | HUDDETAILS | DIALOG_COMPLETE",
+   "en": "- Bring the Power Source to Professor Stoker in the |cFFFFBA00Imperial Camp|u"
+  },
+  {
+   "id": 2242,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT3/A3-OPENDOOR.DAT | COMPLETE | DIALOG",
+   "en": "My powers remain diminished, but I had to come, to give you a warning.  The barrier between our world and the Nether is most fragile at the Clockwork Core.  Hordes of them are beginning to burst through, and, if the Alchemist destroys the Core, the tide of Netherim will be unstoppable."
+  },
+  {
+   "id": 2243,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT3/A3-OPENDOOR.DAT | DETAILS | DIALOG",
+   "en": "With the |cFFFFBA00Great Door|u now opened, you prepare to enter the |cFFFFBA00Broken Mines|u in pursuit of the Alchemist."
+  },
+  {
+   "id": 2244,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT3/A3-OPENDOOR.DAT | HUDDETAILS | DIALOG",
+   "en": "- Place |cFFFFBA00Power Source|u in |cFFFFBA00Robo-Porter|u in the |cFFFFBA00Imperial Camp|u"
+  },
+  {
+   "id": 2245,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT3/A3-OPENDOOR.DAT | HUDDETAILS | DIALOG_COMPLETE",
+   "en": "- Enter the |cFFFFBA00Broken Mines|u"
+  },
+  {
+   "id": 2246,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT3/A3-OPENDOOR.DAT | INTRO | DIALOG",
+   "en": "We're nearly there, my friend!  Stand back while I activate the |cFFFFBA00Automaton|u!\\n\\nI don't know what we'll encounter in there.  We know that the Alchemist went that way, and he won't have made it easy for anyone to follow him.\\n"
+  },
+  {
+   "id": 2247,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT3/A3-OPENDOOR.DAT | MOREDETAILS | DIALOG",
+   "en": "You have recharged the Power Source!  Once you install it, the automaton should come to life and ... if all goes well ... it will open the Great Door, and you can continue your pursuit of the Alchemist.\\n\\nMeanwhile, the Alchemist has been inside the old dwarven mines for hours.  If he hasn't reached the Clockwork Core by now, he must be dangerously close.\\n\\nTime is running out."
+  },
+  {
+   "id": 2248,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT3/A3-OPENDOOR.DAT | RETURN | DIALOG",
+   "en": "This is the only entrance to these mines that we've found, so the Alchemist is almost certainly in there.  That probably means he's near his goal, whatever that is ... and that means he'll do everything he can to keep you from stopping him.  He'll be even more desperate, more dangerous."
+  },
+  {
+   "id": 2249,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT3/A3-RECHARGEPOWERSOURCE.DAT | COMPLETE | DIALOG",
+   "en": "Who are you? What do YOU want?"
+  },
+  {
+   "id": 2250,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT3/A3-RECHARGEPOWERSOURCE.DAT | DETAILS | DIALOG",
+   "en": "Travel through Rivenskull Gorge to the Sundered Battlefield. Search the |cFFFFBA00Emberworks|u for a way to recharge the |cFFFFBA00Power Source|u, then return to Professor Stoker at the Imperial Camp."
+  },
+  {
+   "id": 2251,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT3/A3-RECHARGEPOWERSOURCE.DAT | HUDDETAILS | DIALOG",
+   "en": "- Journey to the Sundered Battlefield via Rivenskull Gorge; Enter the |cFFFFBA00Emberworks|u and recharge the |cFFFFBA00Power Source|u"
+  },
+  {
+   "id": 2252,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT3/A3-RECHARGEPOWERSOURCE.DAT | INTRO | DIALOG",
+   "en": "This is only a minor setback. We knew about these Power Sources from our explorations of the |cFFFFBA00Emberworks|u, on the far side of the Sundered Battlefield. We found machines there that the ancient dwarves once used to craft them. If you can reach the Emberworks, it should be child's play to recharge it.\\n\\nYou'll have to make your way through |cFFFFBA00Rivenskull Pass|u to reach the battlefield. Once you've charged the Power Source, come back here, and we'll install it in the Automaton.\\n"
+  },
+  {
+   "id": 2253,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT3/A3-RECHARGEPOWERSOURCE.DAT | MOREDETAILS | DIALOG",
+   "en": "The Alchemist is slipping further out of reach! On Professor Stoker's advice, you retrieved a Power Source for the old dwarven automaton, but its charge was exhausted. So, while the Alchemist draws ever closer to the Clockwork Core, you're forced with searching an ancient dwarven battlefield for a way to recharge the Power Source."
+  },
+  {
+   "id": 2254,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT3/A3-RECHARGEPOWERSOURCE.DAT | RETURN | DIALOG",
+   "en": "I've been having a look at the automaton again, and I think the overall charge doesn't need to be too great... just enough to impel its servomotors to open and close the door. It's not like we need it to do any fighting, after all!\\n\\nThat's a good thing. The old machines in the dwarven |cFFFFBA00Emberworks|u might still be functioning, but only just... and, although we might be able to work out how to make them work, we don't exactly know how to get the most out of them. That's why the Empire sent this expedition, after all!\\n"
+  },
+  {
+   "id": 2255,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT3/A3-RECHARGEPOWERSOURCE_PT2.DAT | COMPLETE | DIALOG",
+   "en": "That's it!  That's the ticket! Just let me install this, and let's hope it works!"
+  },
+  {
+   "id": 2256,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT3/A3-RECHARGEPOWERSOURCE_PT2.DAT | HUDDETAILS | DIALOG",
+   "en": "- Journey to the Sundered Battlefield via Rivenskull Gorge; Locate the |cFFFFBA00Emberworks|u and recharge the |cFFFFBA00Power Source|u"
+  },
+  {
+   "id": 2257,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT3/A3-RECHARGEPOWERSOURCE_PT2.DAT | HUDDETAILS | DIALOG_COMPLETE",
+   "en": "- Return the |cFFFFBA00Power Source|u to Professor Stoker at the |cFFFFBA00Imperial Camp|u"
+  },
+  {
+   "id": 2258,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT4/A4-DEFEAT_ALCHEMIST.DAT | DETAILS | DIALOG",
+   "en": "Defeat the |cFFFFBA00Alchemist|u and retrieve |cFFFFBA00Ordrak's Heart|u."
+  },
+  {
+   "id": 2259,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT4/A4-DEFEAT_ALCHEMIST.DAT | HUDDETAILS | DIALOG",
+   "en": "- Defeat the |cFFFFBA00Alchemist|u and retrieve |cFFFFBA00Ordrak's Heart|u"
+  },
+  {
+   "id": 2260,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT4/A4-DEFEAT_ALCHEMIST.DAT | MOREDETAILS | DIALOG",
+   "en": "The Alchemist is inside the Broken Mine, and on his way to destroy the Clockwork Core and unleash the Netherim upon the world. But his plan hinges on using Ordrak's Heart as a weapon; if you can wrest it from his grasp, you can stop him, and the Netherim, and save the world!"
+  },
+  {
+   "id": 2261,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT4/A4-DEFEAT_NETHER-REGENT.DAT | COMPLETE | DIALOG",
+   "en": "All the world owes you a debt that they can barely comprehend, let alone ever repay."
+  },
+  {
+   "id": 2262,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT4/A4-DEFEAT_NETHER-REGENT.DAT | DETAILS | DIALOG",
+   "en": "Defeat the |cFFFFBA00Netherlord|u."
+  },
+  {
+   "id": 2263,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT4/A4-DEFEAT_NETHER-REGENT.DAT | DETAILS | DIALOG_COMPLETE",
+   "en": "Install |cFFFFBA00Ordrak's Heart|u in the |cFFFFBA00Clockwork Core|u."
+  },
+  {
+   "id": 2264,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT4/A4-DEFEAT_NETHER-REGENT.DAT | HUDDETAILS | DIALOG",
+   "en": "- Defeat the |cFFFFBA00Netherlord|u"
+  },
+  {
+   "id": 2265,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT4/A4-DEFEAT_NETHER-REGENT.DAT | HUDDETAILS | DIALOG_COMPLETE",
+   "en": "- Install |cFFFFBA00Ordrak's Heart|u"
+  },
+  {
+   "id": 2266,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT4/A4-DEFEAT_NETHER-REGENT.DAT | MOREDETAILS | DIALOG",
+   "en": "The Alchemist lies defeated, and you have Ordrak's Heart! Your quest is nearly at an end.\\n\\nSomewhere, though, further inside the Clockwork Core, the foul Netherim are still straining and clawing at the walls of reality, trying to tear their way through into the world.\\n\\nAnd you are all that stands between them and the end of the world."
+  },
+  {
+   "id": 2267,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT4/A4-INTRO_TO_ACT4.DAT | DETAILS | DIALOG",
+   "en": "Search the |cFFFFBA00Minehead|u for the entrance to the |cFFFFBA00Broken Mines|u.\\n"
+  },
+  {
+   "id": 2268,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT4/A4-INTRO_TO_ACT4.DAT | DETAILS | DIALOG_COMPLETE",
+   "en": "Enter the |cFFFFBA00Broken Mines|u and locate the |cFFFFBA00Alchemist|u."
+  },
+  {
+   "id": 2269,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT4/A4-INTRO_TO_ACT4.DAT | HUDDETAILS | DIALOG",
+   "en": "- Enter the |cFFFFBA00Broken Mines|u\\n"
+  },
+  {
+   "id": 2270,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT4/A4-INTRO_TO_ACT4.DAT | HUDDETAILS | DIALOG_COMPLETE",
+   "en": "- Locate the |cFFFFBA00Alchemist|u"
+  },
+  {
+   "id": 2271,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT4/A4-INTRO_TO_ACT4.DAT | INTRO | DIALOG",
+   "en": "You must overtake the |cFFFFBA00Alchemist|u before he reaches the |cFFFFBA00Clockwork Core|u. With the power of Ordrak's Heart, he could destroy the barrier between the worlds, which would mean the end of everything.\\n\\nYou must defeat the Alchemist and seize the Heart. He intends to use it for destruction, but, infused with the energy stolen from the Guardians, it now has the power to restore the Core, and repair the damage to the barrier."
+  },
+  {
+   "id": 2272,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT4/A4-INTRO_TO_ACT4.DAT | MOREDETAILS | DIALOG",
+   "en": "Only a few hours ago, the Alchemist stormed through the Imperial Camp, amid the dwarven ruins at Grunnheim, where he stormed into the dwarven mines, and sealed the Great Door behind him.\\n\\nWhile you searched for a means to open the door again, the Alchemist has been running loose inside the mines, drawing nearer and nearer to his ultimate goal at the Clockwork Core.\\n\\nIf the Alchemist reaches the Core, he will use Ordrak's Heart to destroy i ... and the world will end."
+  },
+  {
+   "id": 2273,
+   "mode": "translate",
+   "ctx": "QUESTS/TL2MAINQUEST/ACT4/A4-INTRO_TO_ACT4.DAT | RETURN | DIALOG",
+   "en": "The Alchemist will try to use Ordrak's Heart to destroy the Clockwork Core. If he succeeds, reality itself will be torn open, and the Netherim will flood through. The world will end.\\n\\nBut the Netherim have not told the Alchemist everything. Ordrak was once a Guardian, of sorts, and his heart is more powerful than they imagine. Certainly, the Netherim have corrupted it, but, if it were put to a good use... such as rejuvenating the Clockwork Core... then the world would be safe from their kind once again, and perhaps for all time."
+  }
+ ]
+}

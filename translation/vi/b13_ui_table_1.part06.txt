@@ -1,0 +1,258 @@
+@@ 6480
+Trang sau
+@@ 6481
+Bậc tiếp theo
+@@ 6482
+Không
+@@ 6483
+Không tìm thấy phòng nào
+@@ 6484
+Không có kỹ năng\nnào để đặt lại.
+@@ 6485
+Không
+@@ 6486
+Chưa đăng nhập
+@@ 6487
+Không đủ vàng
+@@ 6488
+Not of This Earth
+@@ 6489
+Ghi chú
+@@ 6490
+Không có gì xảy ra
+@@ 6491
+Thông báo
+@@ 6492
+Số người chơi
+@@ 6493
+OK
+@@ 6494
+THANH CHARGE OUTLANDER
+@@ 6495
+Tắt
+@@ 6496
+Ogre3d\nCEGUI\nParticle Universe\nFMOD\nBink\n
+@@ 6497
+Ôi, bỏng rát quá
+@@ 6498
+Ôi, cảm ơn bạn! Cảm ơn! Cảm ơn nhiều!\n\nĐây: Bạn cầm lấy này. Tôi biết nó chẳng đáng là bao, nhưng nếu tôi thưởng bạn nhiều hơn nữa, cha tôi sẽ nghĩ tôi đã tiêu nửa số lời của nhà vào rượu mất!
+@@ 6499
+Một hoặc nhiều mod đã bị tắt kể từ lần cuối bạn chơi nhân vật này. Tiếp tục có thể làm mất dữ liệu. Xem Chi tiết mod để biết thêm thông tin.
+@@ 6500
+Chỉ người trong danh sách bạn bè mới có thể vào phòng của bạn
+@@ 6501
+Option3
+@@ 6502
+Sắp xếp hành trang
+@@ 6503
+Khác
+@@ 6504
+Các thẻ của bảng
+@@ 6505
+Tỉ lệ gạt đòn
+@@ 6506
+Chi tiết hiệu ứng hạt
+@@ 6507
+Chi tiết hiệu ứng hạt quy định chất lượng đồ họa của hiệu ứng hạt.\nGiảm mức chi tiết sẽ tăng tốc độ khung hình.
+@@ 6508
+Kỹ năng bị động
+@@ 6509
+Mật khẩu (Tùy chọn)
+@@ 6510
+Có mật khẩu
+@@ 6511
+Cần mật khẩu
+@@ 6512
+Mật khẩu của phòng. Có thể để trống.
+@@ 6513
+Nộp cống\n|cFFEAAA15(2500 vàng)|u
+@@ 6514
+Dexterity cộng thêm theo %
+@@ 6515
+Focus cộng thêm theo %
+@@ 6516
+Strength cộng thêm theo %
+@@ 6517
+Vitality cộng thêm theo %
+@@ 6518
+Tỉ lệ % kháng hiệu ứng bất động
+@@ 6519
+Phần trăm DPS của bạn gây ra khi phản đạn
+@@ 6520
+Phần trăm giảm hiệu ứng làm chậm
+@@ 6521
+Phần trăm tăng lượng vàng\ntìm thấy trong chiến lợi phẩm từ quái hoặc rương
+@@ 6522
+Phần trăm sát thương đòn đánh gây lên các kẻ địch\nkhông phải mục tiêu trong góc sát thương của vũ khí
+@@ 6523
+Phần trăm giảm sát thương Electric nhận vào \nsau khi đã qua mọi kháng Elemental
+@@ 6524
+Phần trăm giảm sát thương Fire nhận vào \nsau khi đã qua mọi kháng Elemental
+@@ 6525
+Phần trăm giảm sát thương Ice nhận vào \nsau khi đã qua mọi kháng Elemental
+@@ 6526
+Phần trăm giảm sát thương Physical nhận vào \nsau khi đã qua mọi kháng Physical
+@@ 6527
+Phần trăm giảm sát thương Poison nhận vào \nsau khi đã qua mọi kháng Elemental
+@@ 6528
+Giáp của Pet
+@@ 6529
+Đồ tiêu hao của Pet
+@@ 6530
+Hành trang đồ tiêu hao của Pet
+@@ 6531
+Giáp Electric của Pet
+@@ 6532
+Trang bị của Pet
+@@ 6533
+Hành trang trang bị của Pet
+@@ 6534
+Giáp Fire của Pet
+@@ 6535
+Máu của Pet
+@@ 6536
+Máu và Mana của Pet
+@@ 6537
+Giáp Ice của Pet
+@@ 6538
+Lượng Mana của Pet
+@@ 6539
+Bảng Pet
+@@ 6540
+Bảng Pet [[KB:PetMenu]]
+@@ 6541
+Giáp Poison của Pet
+@@ 6542
+Spell của Pet
+@@ 6543
+Hành trang Spell của Pet
+@@ 6544
+Ô Pet Tag\n\n |c00ff9933Cách tốt nhất để tìm\nPet Tag là câu cá \nở những vùng nguy hiểm!|u
+@@ 6545
+Pet sẽ trở về từ thị trấn sau
+@@ 6546
+Phase Beast Challenge
+@@ 6547
+Phase Pillar Challenge
+@@ 6548
+Phase Room Intro Text
+@@ 6549
+Giáp Physical
+@@ 6550
+Sát thương Physical cộng thêm
+@@ 6551
+Giảm sát thương Physical
+@@ 6552
+Ghim mở
+@@ 6553
+Ping
+@@ 6554
+Đặt Gem
+@@ 6555
+Đặt vật phẩm vào đây để phá hủy nó và thu hồi các Gem đã khảm
+@@ 6556
+Đặt vật phẩm vào đây để phá hủy các Gem đã khảm
+@@ 6557
+Đặt nguyên liệu vào đây
+@@ 6558
+Chơi
+@@ 6559
+Chơi qua Internet
+@@ 6560
+Chơi qua Internet\n( không có trong bản demo )
+@@ 6561
+Chơi qua mạng nội bộ
+@@ 6562
+Chơi qua mạng nội bộ\n( không có trong bản demo )
+@@ 6563
+Chơi đơn
+@@ 6564
+Người chơi đang gõ
+@@ 6565
+Tùy chọn người chơi
+@@ 6566
+Người chơi
+@@ 6567
+Người chơi trong phòng
+@@ 6568
+Vui lòng nhập tên tài khoản
+@@ 6569
+Vui lòng chờ trong khi Mapworks tạo kết nối ổn định.
+@@ 6570
+Làm ơn! Giúp tôi với! Một mình tôi không cầm cự nổi với lũ này!
+@@ 6571
+Làm ơn! Tôi cần bạn giúp!\n\nMấy tên côn đồ đã lấy hết tiền của tôi! Tôi đang theo con đường thương mại trở về, thì mấy tên, mấy tên côn đồ đó từ đâu nhảy ra! Chúng dùng kiếm đe dọa tôi, rồi cướp mất |cFFEAAA15Cash Box|u của tôi! Ôi, cha tôi mà biết chuyện thì sẽ giết tôi mất!\n\nBạn có thể thử lấy lại nó cho tôi không? Nếu được tôi sẽ thưởng cho bạn!
+@@ 6572
+Xin hãy nhận lấy thứ này, để tỏ lòng biết ơn của tôi!
+@@ 6573
+Làm ơn, bạn phải đến vùng Mesa ở phía bắc và lấy lại Focus!
+@@ 6574
+Giáp Poison
+@@ 6575
+Kháng Poison
+@@ 6576
+Đầu độc các tổ nhện.
+@@ 6577
+Cổng dịch chuyển đến Estherian City
+@@ 6578
+Power Source
+@@ 6579
+Tiền tố của tên máy chủ
+@@ 6580
+Nhấn một phím hoặc nút
+@@ 6581
+Nhấn nút để thoát ra menu chính.
+@@ 6582
+Ngoại hình trước
+@@ 6583
+Khuôn mặt trước
+@@ 6584
+Màu tóc trước
+@@ 6585
+Kiểu tóc trước
+@@ 6586
+Vật phẩm trước
+@@ 6587
+Trang trước
+@@ 6588
+Bộ vũ khí chính
+@@ 6589
+Prison Caravan
+@@ 6590
+Bảo vệ các viên pha lê khỏi\nđạo quân Goblin!
+@@ 6591
+Mua Shovel\n|cFFEAAA15(1000 vàng)|u
+@@ 6592
+Mua Shovel\n|cFFEAAA15(5 Crab Legs)|u
+@@ 6593
+Bỏ kem dưỡng vào xô đi!
+@@ 6594
+ĐÃ NHẬN NHIỆM VỤ
+@@ 6595
+THOÁT?
+@@ 6596
+Quatermass and the Pit
+@@ 6597
+Vật phẩm nhiệm vụ đã nhận
+@@ 6598
+Bảng nhiệm vụ
+@@ 6599
+Phần thưởng nhiệm vụ
+@@ 6600
+Nhiệm vụ [[KB:QuestMenu]]
+@@ 6601
+Thoát
+@@ 6602
+Menu thoát
+@@ 6603
+Thoát ra menu chính
+@@ 6604
+ĐỌC SCROLL
+@@ 6605
+GỠ BỎ
+@@ 6606
+RMB
+@@ 6607
+ROOM: <STAT1>
+@@ 6608
+Raleigh Briggs\nJuniper Brown\nRichard and Sandra Schaefer\nBud and Lulu\nTricia Lapp\nKirk and Maria Trevor\nNathan Rightnour\nLienn Lefler\nKelton Lefler\nMarshall and Barbara Chew\nMichael and Rita Lefler\n

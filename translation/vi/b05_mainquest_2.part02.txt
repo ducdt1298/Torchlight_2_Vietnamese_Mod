@@ -1,0 +1,80 @@
+@@ 2127
+Gương mặt con ngựa sôi sục một sự thờ ơ bất kham.
+@@ 2128
+Sức vóc phi thường của con ngựa truyền cảm hứng cho bạn.
+@@ 2129
+Con ngựa nheo mắt lại.  Bạn chợt thấy hoảng sợ trong giây lát.
+@@ 2130
+Con đèo nhung nhúc lũ ratlin, lại còn có cả vài tên cướp Sturmbeorn nữa.   Giờ thì gần như chúng kiểm soát cả con đèo;  chúng tôi không thể đưa quân qua được.  Lần nào thử cũng chỉ thêm người bị thương.
+@@ 2131
+Con ngựa này đã băng qua sa mạc.  Bạn tự hỏi liệu nó có tên không.
+@@ 2132
+Con ngựa này rõ ràng nghĩ bộ bờm của nó là tâm điểm của mọi ánh nhìn.
+@@ 2133
+Chẳng hiểu sao con ngựa này có vẻ quan trọng.
+@@ 2134
+Con ngựa này dường như đang oằn lưng vì bao gánh nặng.
+@@ 2135
+Đây là con ngựa thú vị thứ nhì mà bạn từng thấy.
+@@ 2136
+Từ khi đến đây, chúng tôi đã đụng độ Sturmbeorn vài lần.  Mỗi lần chúng tôi cố chuyển đồ tiếp tế lên đèo tới thành phố của người Estherian là lại bị chúng hoặc lũ ratlin phục kích.  Mong là Commander sớm quay lại cùng quân tiếp viện.
+@@ 2137
+Bạn lạc vào đôi mắt con ngựa trong giây lát.  Bạn cảm thấy như đã sống trọn cả một đời người trong khoảnh khắc ấy.  Kỹ năng thổi sáo của bạn đã tiến bộ.
+@@ 2138
+Bạn đứng sững trước ánh nhìn của con ngựa.  Túi đồ của bạn như nhẹ đi.
+@@ 2139
+Bạn thử dùng thần giao cách cảm để trò chuyện với con ngựa, nhưng chẳng rõ có thành công không.
+@@ 2140
+Nhìn vào mắt nó, bạn biết con ngựa này đã từng trải qua những ngày đen tối.
+@@ 2141
+Bạn có thể thấy con ngựa không muốn bị làm phiền.
+@@ 2142
+Bạn không nghĩ con ngựa sẽ nói chuyện với mình.
+@@ 2143
+Bạn cảm thấy con ngựa hài lòng với sự có mặt của bạn ở đây.
+@@ 2144
+Bạn có cảm giác con ngựa không ưa mình.
+@@ 2145
+Bạn hẳn phải cứng cựa lắm mới vượt qua được con đèo đó.  Chúng tôi đã mất rất nhiều người giỏi trên đường tới đây ... chưa kể phần lớn đồ tiếp tế.
+@@ 2146
+Bạn ngẫm nghĩ về tốc độ của con ngựa, và được truyền cảm hứng để rảo bước nhanh hơn.
+@@ 2147
+Bạn lân la lại gần con ngựa.  Nó lảng dần ra xa.
+@@ 2148
+Bạn nghĩ con ngựa vừa nháy mắt với mình.  Mà có lẽ là không.
+@@ 2149
+Bạn nghĩ con ngựa này có thể là chúa tể của muôn loài ngựa.  Bạn thấy mình hơi đần.
+@@ 2150
+Bạn tung ra vài câu đùa, nhưng con ngựa có vẻ chẳng hiểu gì.
+@@ 2151
+Hai người may mắn lắm mới đến được đây, khi mà Destroyer bị thương nặng đến vậy.  Nhưng tôi nghĩ từ đây đến Enclave, bạn sẽ phải tự lo liệu thôi.  Destroyer gần như không đứng vững nổi ... nói gì đến chuyện đánh xuyên qua cả đám Sturmbeorn trên đèo.
+@@ 2152
+Bạn tự hỏi con ngựa này đã thoát khỏi Torchlight bằng cách nào.
+@@ 2153
+Bạn tự hỏi con ngựa này có tên không.
+@@ 2154
+Chà, phương tiện đã được vá víu xong xuôi, chúng tôi cũng đã nạp đủ nhiên liệu và đồ tiếp tế.  Tôi sẽ đưa bạn lên Grunnheim trong nháy mắt!
+@@ 2155
+Nói chuyện với |cFFFFBA00Imperial Railmaster|u ở |cFFFFBA00Zeryphesh|u để đi đến |cFFFFBA00Grunnheim|u.
+@@ 2156
+Trình diện tại |cFFFFBA00Imperial Camp|u ở |cFFFFBA00Grunnheim|u
+@@ 2157
+- Nói chuyện với |cFFFFBA00Railmaster|u ở |cFFFFBA00Zeryphesh|u
+@@ 2158
+- Đi đến |cFFFFBA00Grunnheim|u
+@@ 2159
+Ngươi đã làm rất tốt.  Lực lượng Ezrohir ở Riftkeep đã bị đánh bại và quân của chúng đang tháo chạy.  Quan trọng nhất là Guardian of Mana đã lại được an toàn.\n\nGiờ hãy quay lại chuyện của Dark Alchemist.  Hắn đã đánh cắp năng lượng của ba Guardian, và chúng ta tưởng hắn cũng thèm khát sức mạnh của ta.  Nhưng vì lý do nào đó, hắn đã rời sa mạc và đang trên đường đến |cFFFFBA00Grunnheim|u.\n\nĐiều đó chỉ có thể có nghĩa là hắn đang nhắm tới |cFFFFBA00Clockwork Core|u.  Với sức mạnh đã tích tụ được, hắn có thể phá hủy rào chắn giữa thế giới của chúng ta và cõi của Netherim.  Hàng triệu tên sẽ tràn qua.\n\nHãy tìm |cFFFFBA00Railmaster|u và lên đường đến |cFFFFBA00Grunnheim|u càng sớm càng tốt.
+@@ 2160
+Khi Guardian of Mana đã thoát khỏi sự khống chế của Ezrohir, thành phố Zeryphesh đã được an toàn.  Bọn Ezrohir đang tháo chạy về những nơi ẩn náu trong sa mạc.  Người Zeraphi một lần nữa được bình yên.\n\nNhưng Alchemist vẫn đang tự do hoành hành, và giờ đây, được tiếp sức bởi năng lượng của Guardian of Water, Guardian of the Wild và Guardian of Mana, hắn đang trên đường đến tàn tích của người lùn ở Grunnheim để thực hiện bước cuối cùng trong kế hoạch điên rồ của mình.\n\nNếu Alchemist đến được Clockwork Core và dùng toàn bộ sức mạnh của Ordrak's Heart để phá hủy rào chắn cổ xưa giữa thế giới và cõi Nether ô uế, hắn sẽ mở toang cánh cửa để Netherim ồ ạt tràn qua hàng nghìn tên.  Bạn là người duy nhất có thể ngăn hắn!
+@@ 2161
+Nói chuyện với Railmaster
+@@ 2162
+Alchemist sắp nằm trong tầm tay ngươi rồi!  Hãy lập tức đến Grunnheim!
+@@ 2163
+Dừng lại.  Đủ rồi.  Ngươi đã giải thoát ta khỏi xiềng xích nô lệ và ta đã lại là chính mình!\n\nChúng ta phải rời khỏi nơi này.  Ta sẽ mở một cổng dịch chuyển đưa ngươi đến Zeryphesh.\n
+@@ 2164
+Đi qua |cFFFFBA00Witherways|u ở |cFFFFBA00Salt Barrens|u để đến |cFFFFBA00Riftkeep|u, thành trì của Ezrohir, và giải thoát |cFFFFBA00Guardian of Mana|u khỏi sự khống chế của Ezrohir.
+@@ 2165
+Nói chuyện với |cFFFFBA00Guardian of Mana|u vừa được giải thoát.
+@@ 2166
+- Đi qua |cFFFFBA00Witherways|u ở |cFFFFBA00Salt Barrens|u đến |cFFFFBA00Riftkeep|u và đánh bại |cFFFFBA00Siege Guardian|u

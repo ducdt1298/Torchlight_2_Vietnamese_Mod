@@ -1,0 +1,200 @@
+@@ 101
+Bộ sưu tập Legendary Axe\nMón thứ nhất trong bốn
+@@ 102
+Bộ sưu tập Legendary Axe\nMón thứ hai trong bốn
+@@ 103
+Bộ sưu tập Legendary Axe\nMón thứ ba trong bốn
+@@ 104
+Bộ sưu tập Legendary Axe\nMón thứ tư trong bốn
+@@ 105
+Có vẻ như nó từng bị đập vào đá.
+@@ 106
+Dành cho quả bom nổ chậm của cơn cuồng nộ không kìm hãm, sành điệu đến tận gót.
+@@ 107
+Giận dữ đến mức không lời nào tả xiết.
+@@ 108
+Ăn giày vào đầu này!
+@@ 109
+Cơn thịnh nộ trông rất hợp với bạn.
+@@ 110
+Coi chừng tự bốc cháy.
+@@ 111
+Thứ mà một kẻ tâm thần ăn mặc chỉnh tề sẽ khoác lên người.
+@@ 112
+Một món quà, từ Son of the Dragon.
+@@ 113
+Điều chúng ta gặp phải ở đây là một thất bại trong giao tiếp.
+@@ 114
+Ngón tay lạnh lẽo đến thế ... đó là nụ hôn tử thần.
+@@ 115
+Tiêu chuẩn mới của thời trang cuồng nộ.
+@@ 116
+Được nhiều người xem là nguồn gốc của cụm từ "quần khó ở."
+@@ 117
+Chỉ riêng sự cọ xát thôi cũng đủ đẩy bạn vào cơn cuồng sát.
+@@ 118
+Chỗ này của bạn đang căng cứng lắm đấy.
+@@ 119
+Nó đè nặng lên vai bạn.
+@@ 120
+Cơn thịnh nộ thật xứng với bạn.
+@@ 121
+Được chế tác từ lõi băng của Ice Golem Queen.
+@@ 122
+Được chế tác từ ánh sáng của một ngôi sao đang tàn lụi.
+@@ 123
+Đó là tất cả những gì còn sót lại của Witch of Saymar.
+@@ 124
+Runebelt đã được vô số anh hùng đeo qua.
+@@ 125
+Các Carl vùng Highlands từng là những kẻ diệt khổng lồ lừng danh.
+@@ 126
+Jarlsbelt là biểu tượng của những người cai trị Highlands.
+@@ 127
+Được làm để bền bỉ, kể cả trong những mùa đông lạnh giá nhất.
+@@ 128
+Đôi ủng cuối cùng mà người anh hùng cổ đại Otzi từng mang.
+@@ 129
+Chỉ giết quái ... chỉ để lại dấu chân.
+@@ 130
+Đôi ủng của các vị Vua Valgang.
+@@ 131
+Truyền thuyết kể rằng bộ giáp này được tìm thấy trên một dòng sông băng lộng gió.
+@@ 132
+Bộ giáp của Sygrud, Knight of the White Wastes.
+@@ 133
+Từng được khoác lên bởi nữ anh hùng vô danh đã hạ sát Witch of Saymar.
+@@ 134
+Bộ giáp của các vị Vua Valgang.
+@@ 135
+Tay lạnh, máu nóng.
+@@ 136
+Hãy cảm nhận cái siết băng giá của cơn gió phương bắc độc địa!
+@@ 137
+Vừa khít với bàn tay bạn ... và với cổ họng kẻ thù!
+@@ 138
+Đôi găng của các vị Vua Valgang.
+@@ 139
+Cảm nhận làn gió lùa qua tóc ...
+@@ 140
+Nếu cứ nhăn mặt như thế, mặt bạn sẽ đông cứng luôn đấy.
+@@ 141
+Chiếc mũ dành cho chiến binh mang dòng máu lạnh như băng.
+@@ 142
+Từ tận cùng phương bắc xa xôi, một luồng gió dữ thổi tới.
+@@ 143
+Từ một thời đại hỗn loạn hơn ...
+@@ 144
+Mặc vào thấy mát và ngầu hơn thực tế.
+@@ 145
+Chiếc quần của các vị Vua Valgang.
+@@ 146
+Quấn quanh bằng câu đố, gắn kết bằng phúc lành.
+@@ 147
+Khắc chữ rune, mang dấu ấn của một vương tộc đã chết từ lâu.
+@@ 148
+Biểu tượng quyền lực khắc chữ rune của các Jarl Valgang.
+@@ 149
+Hãy cho kẻ địch biết chúng không được chào đón.
+@@ 150
+"Bên dưới lớp áo băng là cái chết." -- Tục ngữ Valgang
+@@ 151
+Chiếc áo choàng tổ truyền của Winter-Walkers.
+@@ 152
+Đây là trái tim của cơn thịnh nộ. Đây chính là trái tim của cơn bão.
+@@ 153
+Được gió khai quật, được mưa đánh bóng.
+@@ 154
+Tinh chất chưng cất từ chính trái tim của một cơn giông bão.
+@@ 155
+Giải phóng cơn thịnh nộ nguyên sơ!
+@@ 156
+Giải phóng cơn thịnh nộ của cơn bão đang cuồn cuộn trong bạn!
+@@ 157
+Những cơn véo, ngứa ngáy và bó chặt khiến bạn phát điên.
+@@ 158
+Công năng hơn hình thức, dù có đau đến đâu.
+@@ 159
+Điều tuyệt vời thứ nhì trong đời là gì?
+@@ 160
+Còn được gọi là "Ủng trượt băng và trượt tuyết."
+@@ 161
+Đến từ những đỉnh núi phủ tuyết của Haldar Mountains.
+@@ 162
+Điều tuyệt vời nhất trong đời là gì?
+@@ 163
+Bộ giáp của các vị vua man tộc.
+@@ 164
+Chưa có cây rìu nào được rèn ra mà có thể chẻ đôi nó.
+@@ 165
+Liệu có trái tim nào còn đập, bên dưới lồng ngực bọc giáp ấy?
+@@ 166
+Muốn ăn thêm cú nữa không?
+@@ 167
+Hai nắm đấm vẫn hơn một.
+@@ 168
+Và nếu chúng đứng dậy, cứ đánh gục chúng lần nữa.
+@@ 169
+Điều tuyệt vời thứ ba trong đời là gì?
+@@ 170
+Badgermask chẳng thèm đếm xỉa cái khỉ gì sất.
+@@ 171
+Chiếc mũ giáp này vang vọng tiếng than khóc của những kẻ hấp hối.
+@@ 172
+Đây là gương mặt lòng thương xót của bạn: lạnh lùng, trống rỗng và vô cảm.
+@@ 173
+Chiếc quần này đúng chuẩn "ngầu."
+@@ 174
+Thứ đồ bảo hộ duy nhất mà người anh hùng man tộc Helmutt mặc trên người.
+@@ 175
+Chiếc quần này tượng trưng cho sự đoàn kết của Clan Mulkar.
+@@ 176
+"Tiếng van xin tha mạng vang khắp không trung. \nChúng ta nghiến chặt răng. Chúng ta làm tròn phận sự." - lời cầu nguyện nơi chiến trường
+@@ 177
+Một khi đã đeo vào, bạn không thể kìm nén được nữa.
+@@ 178
+Không chiếc nhẫn tầm thường nào chứa nổi ngần ấy cơn thịnh nộ!
+@@ 179
+Rèn từ sấm sét, nạp đầy tia chớp.
+@@ 180
+Được làm từ bộ da của Snow-Lion huyền thoại.
+@@ 181
+Người anh hùng cổ đại Fhalfrid đã xé chiếc áo choàng này từ Ice Boar.
+@@ 182
+Được làm từ tấm da của Winterfrost Bear xứ Hulden.
+@@ 183
+Đừng hòng ai tựa vào đôi vai này mà khóc.
+@@ 184
+Nhìn gì mà nhìn?
+@@ 185
+Đừng có lườm tôi như thế.
+@@ 186
+Tương truyền đây là con mắt sống của Nether-Hag. Nó không bao giờ chớp.
+@@ 187
+Một chiếc thắt lưng xấu xí nhưng chắc chắn, được lột từ da của Fell Bull.
+@@ 188
+Mép chiếc thắt lưng này trông như thể bị gặm cho ra hình dạng.
+@@ 189
+Mucker là một gã khổng lồ từng gieo rắc kinh hoàng khắp miền đông Đế quốc.
+@@ 190
+Đôi ủng xấu xí một cách tàn bạo.
+@@ 191
+Chỉ kẻ man rợ thực thụ mới có thể đi một dặm trong đôi ủng của Thargo!
+@@ 192
+Thật may là bạn có đôi ủng này.
+@@ 193
+Killian sẽ nổi điên nếu biết bạn đang mang chúng.
+@@ 194
+Chỉ chiến binh mạnh nhất mới gánh nổi gánh nặng như của Thargo!
+@@ 195
+Bộ giáp kéo kẻ địch xuống và nghiền nát chúng.
+@@ 196
+Chiếc áo giáp xích mà General Meddek đã mặc trong Battle of Skyre.
+@@ 197
+Bộ giáp của Wildlord of the Jade Jungle huyền thoại.
+@@ 198
+Từng thuộc về Kylo của Three Heavens Boxing School.
+@@ 199
+Từng thuộc về Irina của Three Heavens Boxing School.
+@@ 200
+Từng thuộc về Lus của Three Heavens Boxing School.

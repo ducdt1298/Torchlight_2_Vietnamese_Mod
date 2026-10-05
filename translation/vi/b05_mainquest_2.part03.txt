@@ -1,0 +1,80 @@
+@@ 2167
+- Nói chuyện với |cFFFFBA00Guardian of Mana|u ở |cFFFFBA00Riftkeep|u
+@@ 2168
+Bằng việc hạ sát Ezrek Khan, ngươi đã phá vỡ bùa phép dùng để nô dịch Guardian of Mana.  Điều đó có nghĩa là ngươi có thể đánh bại nàng mà không phải hủy diệt nàng.\n\nBọn Ezrohir đã đưa Guardian đến pháo đài |cFFFFBA00Riftkeep|u ở |cFFFFBA00Salt Barrens|u, nơi chúng đang tập hợp lực lượng để tấn công Zeryphesh.\n\nĐi đi.  Hãy đánh xuyên qua bọn Ezrohir và giải thoát |cFFFFBA00Guardian|u!
+@@ 2169
+Đã đến lúc tiến vào Riftkeep và tìm cách giải cứu Guardian of Mana.  Gã djinni Fazeer Shah khẳng định hắn đã phá vỡ sự khống chế của Ezrohir đối với Guardian ... nhưng việc thực sự giải thoát nàng thì vẫn còn đó.  Sự kháng cự bên trong Riftkeep sẽ rất dữ dội; quân đội Ezrohir đã sẵn sàng cho chiến tranh, và chắc chắn chúng đang chờ sẵn một cuộc giải cứu.  Bạn sẽ phải hành động thật nhanh và ra đòn không chút nương tay.
+@@ 2170
+Khi người Zeraphi và Ezrohir "đường ai nấy đi", họ đã chọn pháo đài Riftkeep gần đây làm vùng đất trung lập, nơi hai bên có thể gặp gỡ và bàn bạc về những bất đồng.  Nhưng nơi đó đã bị bỏ không suốt nhiều thế kỷ ... cho đến vài tuần trước, khi quân đội Ezrohir chiếm lấy pháo đài.  Từ đó chúng vẫn chiếm giữ nơi ấy, và chắc chắn đó là nơi chúng đang giam giữ Guardian of Mana trong lúc tập hợp lực lượng.\n\nBọn Ezrohir sẽ đề phòng người Zeraphi tấn công Riftkeep để giải cứu Guardian.  Nhưng chúng biết người Zeraphi sẽ cần thời gian mới đến được đó.  Ngươi có thể đến đó nhanh hơn nhiều và đánh vào bên trong trước khi chúng kịp chuẩn bị đẩy lùi ngươi.
+@@ 2171
+Chà!  Ngươi đã mang được Lamp of Wonders về!  Rốt cuộc thì những nỗ lực thảm hại của ngươi cũng đem lại chút trò vui nho nhỏ.\n\nNgươi có thể vứt món đồ bỏ đi đó được rồi.  Nó chỉ là một cái đèn với cái tên khoa trương mà thôi. Nó chẳng có tác dụng gì cả, dù ta cho là ngươi có thể đổ chút dầu vào để thắp sáng ...\n\nNhiệm vụ thứ hai này hẳn sẽ thú vị hơn nhiều.
+@@ 2172
+Đến |cFFFFBA00Sadwa Mesa|u ở |cFFFFBA00Salt Barrens|u và lấy lại |cFFFFBA00Lamp of Wonders|u.
+@@ 2173
+Quay lại gặp |cFFFFBA00Fazeer Shah|u ở |cFFFFBA00Salt Barrens|u.
+@@ 2174
+- Lấy lại |cFFFFBA00Lamp of Wonders|u tại |cFFFFBA00Sadwa Mesa|u ở |cFFFFBA00Salt Barrens|u
+@@ 2175
+- Quay lại gặp |cFFFFBA00Fazeer Shah|u ở |cFFFFBA00Salt Barrens|u
+@@ 2176
+Artificer và Alchemist có thể đáng gờm thật, nhưng ngay cả khi hợp sức lại, sức mạnh của chúng cũng chỉ là trò ảo thuật vặt đối với kẻ như ta.  Ta có thể dễ dàng hóa giải mọi thứ chúng đã làm với "Guardian" của ngươi.  Đương nhiên, ta sẽ đòi hỏi thứ gì đó để đáp lại.\n\nKẻ thù thực sự duy nhất của ta nơi sa mạc này là sự buồn chán.  Ta sẽ giao kèo với ngươi:  Hãy thực hiện ba nhiệm vụ để mua vui cho ta.  Nếu những nỗ lực của ngươi đủ làm ta vui, thì khi đó, và chỉ khi đó, ta mới giải thoát Guardian của ngươi.\n\nNhiệm vụ đầu tiên của ngươi: Hãy lên đường đến |cFFFFBA00Sadwa Mesa|u và lấy lại |cFFFFBA00Lamp of Wonders|u của ta từ tay bọn Tu'tara!
+@@ 2177
+Gã djinni Fazeer Shah đã đồng ý giúp bạn giải thoát Guardian of Mana ... nhưng chỉ khi bạn thực hiện vài nhiệm vụ để mua vui cho hắn trước đã.  Fazeer Shah có vẻ không hiểu mức độ nghiêm trọng của tình hình ... hoặc đơn giản là chẳng quan tâm ... nhưng nếu đây là cách duy nhất để giải cứu Guardian, có vẻ bạn chẳng còn nhiều lựa chọn.
+@@ 2178
+Ta đoán ngươi đang thắc mắc vì sao ta cần Lamp of Wonders.  Có lẽ ngươi nghĩ nó có sức mạnh giúp ta ra tay giúp ngươi.  Có lẽ ngươi còn nghĩ rằng, nếu nó có sức mạnh như vậy, thì ngươi đâu cần đến ta ... ngươi chỉ cần cái đèn là đủ?\n\nĐể ta giúp ngươi yên tâm:  Lamp of Wonders chẳng có sức mạnh gì cả.  Ta chỉ đơn giản muốn bắt ngươi đi lấy nó về, để thử quyết tâm giải cứu Guardian của ngươi ... việc mà ta không thể không để ý là ngươi vẫn chưa làm.
+@@ 2179
+Vậy là ... cuối cùng ngươi cũng tìm được đường ra.  Ngươi là trò tiêu khiển thú vị nhất mà ta tìm được trong suốt một nghìn năm qua!\n\nChà, ta đoán ngươi sẽ cần thêm một nhiệm vụ cuối cùng ...
+@@ 2180
+Sống sót trước hàng đàn kẻ địch cho đến khi tìm được đường quay về chỗ |cFFFFBA00Fazeer Shah|u.
+@@ 2181
+Bạn đã chiến thắng hàng đàn kẻ địch. Quay lại gặp |cFFFFBA00Fazeer Shah|u ở |cFFFFBA00Salt Barrens|u.
+@@ 2182
+- Sống sót qua |cFFFFBA00Luminous Arena|u
+@@ 2183
+Ngươi đã sống sót qua bọn Tu'tara mà người ngợm vẫn gần như lành lặn.  Chúc mừng.  Nhưng ta chợt nhận ra ngươi chẳng làm gì khác với những việc ngươi vẫn thường làm.  Nhiệm vụ thứ hai này hẳn sẽ thú vị hơn nhiều.\n\nHãy bước qua |cFFFFBA00Portal|u.  Nhiệm vụ thứ hai của ngươi ... là sống sót!
+@@ 2184
+Fazeer Shah đã hứa sẽ giúp bạn phá bỏ xiềng xích ma thuật mà Artificer đã dùng để trói buộc Guardian of Mana, chỉ cần bạn thực hiện ba nhiệm vụ để mua vui cho gã djinni.  Nhiệm vụ đầu tiên khá dễ dàng, nhưng nhiệm vụ thứ hai có vẻ nguy hiểm hơn nhiều.\n\nNhưng nếu chiều theo những trò oái oăm của gã djinni có thể giải thoát Guardian of Mana khỏi sự khống chế của Ezrohir, thì đó là điều bạn buộc phải làm.
+@@ 2185
+Vậy thì đi đi. Vinh quang đang chờ đợi!
+@@ 2186
+Mọi chuyện đã diễn ra đúng như ta dự tính!  Ta đã có Lamp of Marvels của ta!  Cuối cùng, ta đã được tự do!\n\nTa thú nhận:  Cây đèn này quý giá hơn nhiều so với những gì ngươi có thể biết.  Ezrek Khan đã đánh cắp nó từ tay ta từ thuở xa xưa, và giờ khi đã có cả hai cây đèn, ta có được tự do, cùng quyền năng tối thượng đối với kẻ kình địch lâu đời nhất của ta. \n\nCòn về Guardian của ngươi ... việc đánh bại Ezrek Khan đã đủ làm suy yếu thứ ma thuật mà chúng dùng để trói buộc nàng. Giờ ngươi đã có thể đối đầu với nàng.\n\nTA ĐÃ GIỮ ĐÚNG LỜI GIAO KÈO!
+@@ 2187
+Đánh bại |cFFFFBA00Ezrek Khan|u ở |cFFFFBA00Jehannum|u và đoạt lấy |cFFFFBA00Lamp of Marvels|u.
+@@ 2188
+Quay lại gặp |cFFFFBA00Fazeer Shah|u sau khi đã đánh bại |cFFFFBA00Ezrek Khan|u.
+@@ 2189
+- Đánh bại |cFFFFBA00Ezrek Khan|u ở |cFFFFBA00Jehannum|u
+@@ 2190
+- Đưa |cFFFFBA00Lamp of Marvels|u cho |cFFFFBA00Fazeer Shah|u
+@@ 2191
+Chà, chà.  Ngươi quyết tâm hơn ... và giỏi giang hơn ... nhiều so với ta tưởng!  Tuyệt lắm ...\n\nNếu thực sự muốn giải thoát Guardian, ngươi phải làm nhục kẻ kình địch lâu năm của ta, |cFFFFBA00Ezrek Khan|u, bằng cách đánh cắp |cFFFFBA00Lamp of Marvels|u quý giá của hắn.
+@@ 2192
+Những "trò giải trí" của Fazeer Shah đã hai lần đẩy tính mạng bạn vào vòng nguy hiểm ... vậy mà hắn vẫn chưa thỏa mãn!  May thay, hắn thề rằng chỉ còn đúng một nhiệm vụ cuối cùng này thôi, sau đó hắn sẽ giữ lời giao kèo và giải thoát Guardian of Mana khỏi sự khống chế mà bọn Ezrohir đã áp đặt lên nàng.
+@@ 2193
+Hãy coi chừng:  Ezrek Khan lấy sức mạnh từ cùng một nguồn với Netherim.  Cõi của hắn nằm sát cạnh cõi của chúng; gần như chắc chắn chúng sẽ đứng lên chống lại ngươi nếu ngươi thách thức gã djinni đó.
+@@ 2194
+Chúng ta phải hành động nhanh. Có vẻ tên Artificer mà ngươi đánh bại trong Vaults đã nô dịch Guardian of Mana cho kẻ thù. Mối nguy cấp bách nhất là chúng sẽ dùng Guardian bị nô dịch để làm tha hóa ... và khống chế ... toàn bộ ma thuật trên thế gian. Khi đó, con đường duy nhất của chúng ta có lẽ là phải hủy diệt Guardian.\n\nVẫn có thể còn hy vọng. Nếu tìm được cách giải thoát |cFFFFBA00Guardian|u khỏi sự khống chế của Ezrohir, chúng ta có thể cứu Zeryphesh và phá tan kế hoạch của Alchemist.
+@@ 2195
+Tìm lối vào |cFFFFBA00Forsaken Vaults|u ở |cFFFFBA00Ossean Wastes|u, nơi |cFFFFBA00Guardian of Mana|u bị đưa đến, và đánh bại lực lượng đã bắt giữ nàng.
+@@ 2196
+Đánh bại |cFFFFBA00Artificer|u và báo tin cho |cFFFFBA00Guardian of Air|u ở |cFFFFBA00Zeryphesh|u.
+@@ 2197
+- Tìm |cFFFFBA00Forsaken Vaults|u ở |cFFFFBA00Ossean Wastes|u\n- Đánh bại lực lượng đang giam giữ |cFFFFBA00Guardian of Mana|u
+@@ 2198
+- Quay lại gặp |cFFFFBA00Guardian of Air|u ở |cFFFFBA00Zeryphesh|u
+@@ 2199
+Ezrohir xích Mana làm nô lệ\nNhưng còn hy vọng; nàng vẫn có thể được cứu về.\nKẻ thù ẩn trong hang ổ nhơ nhớp này.\nCứu |cFFFFBA00Guardian|u ... là cứu Zeryphesh.
+@@ 2200
+Một lần nữa, Sphinx lại đưa cho bạn một câu đố về số phận của Guardian of Mana:  Có vẻ bọn Ezrohir đã bắt Guardian và đưa nàng vào Forsaken Vaults, nơi chúng đã nghĩ ra cách nào đó để buộc nàng phục vụ cho chúng!\n\nBạn phải giải thoát nàng, nếu không Zeryphesh chắc chắn sẽ thất thủ ... và toàn bộ ma thuật trên thế gian có thể rơi vào tay bọn Ezrohir hiếu chiến!
+@@ 2201
+Hôm nay Ezrohir sửa soạn binh đao\nQuân đoàn của chúng đông biết bao.\nNhờ Alchemist, Artificer góp phần\nChúng bắt Mana ... chẳng phải một, mà hai lần.\nBị cầm tù nơi Forsaken Vaults đơn côi:\nBị khuất phục, nô dịch, ma lực bị tước rồi.\nBị ép dẫn quân chúng ra chiến trường\nTừ Guardian ... thành thứ nô lệ tầm thường.\n
+@@ 2202
+Chào ngươi, hỡi kẻ tầm thường.\n\nÀ phải ... ta biết tên Artificer này.  Hắn từng đến tìm ta, mong có được bí quyết trói buộc một Guardian ... nhưng ta đã khước từ lời nài nỉ của hắn.  Thay vào đó, hắn tìm đến kẻ thù truyền kiếp của ta, tên Ezrek Khan đê tiện, kẻ vô cùng hăm hở dạy cho hắn những nghi thức ghê tởm ấy.\n\nĐương nhiên, bất cứ điều gì Ezrek Khan đã làm, ta đều có thể hóa giải.
+@@ 2203
+Tìm djinni |cFFFFBA00Fazeer Shah|u ở |cFFFFBA00Salt Barrens|u.
+@@ 2204
+- Tìm |cFFFFBA00Djinni|u ở |cFFFFBA00Salt Barrens|u
+@@ 2205
+Cách đây không xa, ở |cFFFFBA00Salt Barrens|u, có một djinni tên là |cFFFFBA00Fazeer Shah|u đang trú ngụ.  Djinni này có sức mạnh giải thoát Guardian of Mana khỏi sự khống chế của Ezrohir ... nhưng sự giúp đỡ của hắn sẽ đi kèm một cái giá.\n\nNgươi phải lên đường đến |cFFFFBA00Salt Barrens|u.  Hãy tìm |cFFFFBA00Fazeer Shah|u và thuyết phục hắn giúp ngươi giải thoát Guardian.
+@@ 2206
+Quỷ tha ma bắt con Sphinx chỉ biết nói bằng câu đố!  Guardian of Mana đã từng ở trong Forsaken Vaults, nhưng bọn Ezrohir đã đưa nàng đi trước cả khi bạn tới!  Giờ chúng đang canh giữ nàng tại Riftkeep, pháo đài của chúng ở Salt Barrens, cho đến khi sẵn sàng tấn công Zeryphesh.\n\nTình hình ngày càng tuyệt vọng, nhưng Guardian of Air đã gợi ý một cách để vẫn có thể cứu Mana.  Xiềng xích ma thuật trói buộc Guardian of Mana vượt quá khả năng hóa giải của các Guardian, nhưng ngoài Salt Barrens kia có một djinni hùng mạnh tên là Fazeer Shah đang trú ngụ.  Djinni này có thể dễ dàng hóa giải những gì Artificer đã làm, nhưng trước tiên bạn phải tìm ra hắn ... rồi thuyết phục hắn giúp đỡ.

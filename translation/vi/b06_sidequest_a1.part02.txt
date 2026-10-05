@@ -1,0 +1,76 @@
+@@ 2312
+Thời còn sống, tôi là một kẻ bất lương. Tôi đột nhập vào các lăng mộ và trộm đồ của người chết. Nhưng rồi một ngày, tôi nhận ra mình đã gây ra bao nhiêu đau khổ cho những người còn sống... và tôi đã thề sẽ chấm dứt chuyện đó.\n\nNhững đồng đội... những kẻ đồng lõa của tôi... lại không nghĩ vậy. Chúng dụ tôi ra sông trên chiếc thuyền này, dù biết rõ nó sẽ chìm. Chúng cười nhạo khi tôi chìm xuống lòng nước. Tôi cứ ngỡ chúng sẽ bị bắt và bị trừng phạt, nhưng thay vào đó chúng lại chết trong lúc cất giấu chiến lợi phẩm ở Plunder Cove... và thế là suốt ngần ấy năm qua, cái chết của tôi vẫn chưa được báo thù.
+@@ 2313
+Bạn tìm được rồi à? Tuyệt vời! Đây, để tôi trả công cho bạn vì đã vất vả, rồi tôi sẽ lên đường ngay...
+@@ 2314
+Thuyết phục các linh hồn Estherian cho bạn vào |cFFD1FF7ABone Gallery|u, rồi lấy |cFFD1FF7ARosamortis|u.
+@@ 2315
+Mang |cFFD1FF7ARosamortis|u đến cho |cFFD1FF7ASelrenki|u ở |cFFD1FF7ASkull Hollow|u, thuộc |cFFD1FF7ATemple Steppes|u.
+@@ 2316
+- Đánh thức các linh hồn Estherian và vào |cFFD1FF7ABone Gallery|u ở |cFFD1FF7ATemple Steppes|u. Lấy |cFFD1FF7ARosamortis|u
+@@ 2317
+- Mang |cFFD1FF7ARosamortis|u về cho |cFFD1FF7ASelrenki|u ở |cFFD1FF7ASkull Hollow|u, thuộc |cFFD1FF7ATemple Steppes|u
+@@ 2318
+Tôi có một đề nghị cho bạn đây... kiểu "tôi gãi lưng tôi, bạn gãi lưng bạn" ấy mà. Thấy cái hầm mộ đằng này không? Nó tên là |cFFD1FF7ABone Gallery|u, và trong đó có một món nho nhỏ tên là |cFFD1FF7ARosamortis|u... món này tuy khá giá trị, nhưng cũng được canh giữ bởi con quái vật xác sống to lớn nhất mà tôi từng thấy!\n\nBạn sẽ phải thuyết phục các linh hồn Estherian mở khóa |cFFD1FF7AGhost Chains|u để cho bạn vào, rồi đoạt Rosamortis khỏi tay con quái đó... nhưng tôi hứa sẽ khiến bạn thấy đáng công!\n
+@@ 2319
+Nghe nói Rosamortis là một món đồ nho nhỏ gì đó rất tiện lợi, có thể cứu mạng người bị trọng thương sắp chết. Hiển nhiên, thứ này sẽ cực kỳ quý giá với ai đó có quê hương đang bị xâm lược bởi, ví dụ như, lũ người gấu... Nhưng dù Rosamortis có đáng giá cỡ nào, nó cũng chẳng giúp gì được tôi nếu tôi không vào được Sepulcher of Sorrows để lấy nó!\n\nChỉ huy của quân Vanquisher kể cho tôi về thứ này, cứ như thể tôi chỉ việc thong thả ra đây nhặt nó lên vậy. Nhưng cô ta đâu có nói cánh cổng bị khóa bằng xích mà chỉ có ma mới mở được! Và tất nhiên, trong lúc tôi phí thời gian quý báu tìm lối vào khác, bọn Sturmbeorn đã kéo đến và chặn mất đường ra của tôi.
+@@ 2320
+A, bạn lấy được rồi! Tuyệt quá! Tôi hy vọng gã pháp sư gấu không mặc cả quá gắt...? \n\nKhoan. Có phải máu dính trên mấy dụng cụ này không? Ồ. Chà, có lẽ tốt nhất tôi không nên hỏi. \n\nNào, giờ thì: tôi nhớ là mình đã hứa tặng bạn một lần phù phép miễn phí làm phần thưởng...?
+@@ 2321
+Tìm |cFFD1FF7ASturmbeorn Necromancer|u ở |cFFD1FF7APath of the Honored Dead|u và lấy |cFFD1FF7AImplements of Enchantment|u của hắn.
+@@ 2322
+Quay về gặp |cFFD1FF7AEnchanter|u ở |cFFD1FF7AEstherian Enclave|u để nhận thưởng.
+@@ 2323
+- Tìm |cFFD1FF7ASturmbeorn Necromancer|u ở |cFFD1FF7APath of the Honored Dead|u
+@@ 2324
+- Mang |cFFD1FF7AImplements of Enchantment|u đến cho |cFFD1FF7AEnchanter|u ở |cFFD1FF7AEstherian Enclave|u
+@@ 2325
+Chào mừng! Chào mừng bạn, bạn của tôi. Tôi có vô số kiểu phù phép... cho vũ khí, giáp, đồ trang sức và đủ thứ khác. À, nói đúng hơn là tôi sẽ có, nếu tôi không làm mất bộ đồ nghề phù phép của mình!\n\nCó lẽ bạn giúp được tôi. Tôi nghe nói có một tay thầy pháp Beornen hay gì đó ở |cFFD1FF7APath of the Honored Dead|u, hắn có đúng loại dụng cụ phù phép mà tôi cần. Nếu bạn tìm được gã pháp sư gấu đó và lấy được mấy dụng cụ ấy, tôi rất sẵn lòng phù phép lần đầu cho bạn, hoàn toàn miễn phí!
+@@ 2326
+Chà chà! Quay lại sớm vậy sao? Ồ, bạn vẫn chưa có dụng cụ à... \n\nVậy khi nào có thì quay lại nhé! 
+@@ 2327
+Xin cảm ơn bạn, con người. Sau khi ngôi đền thất thủ, rồi bọn buôn nô lệ này lại tấn công những người tị nạn chúng tôi, tôi đã sợ rằng số phận chúng tôi coi như đã định.\n\nNhưng tôi không phải là tù nhân duy nhất. Tên thủ lĩnh bọn buôn nô lệ đang nhốt những người khác trong lồng, ở hang động bên dưới hồ này. Có một cửa sập bên ngoài một túp lều gần đây dẫn xuống hang động đó.\n\nLàm ơn, nhân danh các Guardian... bạn phải giải cứu họ!
+@@ 2328
+Ôi, cảm ơn bạn, bạn của tôi! Tôi đã sợ rằng mình sẽ không bao giờ được gặp lại gia đình nữa!
+@@ 2329
+Tôi không chắc mình có thể sống sót ra khỏi hang động này… nhưng làm ơn: hãy cứu tất cả những người khác mà bạn có thể!
+@@ 2330
+Bạn đã cứu chúng tôi! Tôi đã hoàn toàn hết hy vọng là sẽ có người đến cứu!
+@@ 2331
+Hôm nay bạn đã giúp người Estherian một việc vô cùng lớn lao. Tôi biết bạn còn đang trên đường đến với những chiến công anh hùng lớn lao hơn nữa, nên xin đừng để tôi làm bạn chậm trễ. Chỉ xin bạn nhận lấy thứ này, cùng lời cảm ơn của tôi.
+@@ 2332
+Đánh bại |cFFD1FF7AKidrik the Mauler|u ở |cFFD1FF7ASlavers' Den|u và giải cứu các |cFFD1FF7ACaptured Estherians|u
+@@ 2333
+Quay về gặp |cFFD1FF7AElder Josimon|u ở |cFFD1FF7ASlavers' Camp|u, thuộc |cFFD1FF7AFrosted Hills|u.
+@@ 2334
+- Đánh bại |cFFD1FF7AKidrik the Mauler|u và giải cứu các |cFFD1FF7ACaptured Estherians|u
+@@ 2335
+- Quay về gặp |cFFD1FF7AElder Josimon|u
+@@ 2336
+Tên thủ lĩnh bọn buôn nô lệ, |cFFD1FF7AKidrik the Mauler|u, hẳn đã lẻn trốn trong cuộc tấn công và ẩn nấp trong hang nô lệ dưới lòng đất của chúng! Và nếu những tù nhân Estherian cũng ở đó, thì chắc chắn Kidrik đang giữ họ làm con tin!\n\nBạn phải giải cứu họ, nếu không thì mọi công sức bạn bỏ ra để ngăn chặn bọn buôn nô lệ sẽ thành công cốc!
+@@ 2337
+Bạn đã tìm thấy các con tin chưa? Gần như chắc chắn Kidrik the Mauler đang nhốt họ trong lồng, ở dưới Slavers' Den.
+@@ 2338
+Những ghi chép này quả là mở mang tầm mắt, nói vậy vẫn còn nhẹ. Rõ ràng Alchemist đang mắc chứng mất trí do Ember Blight gây ra. Mỗi ghi chép sau lại càng hoang tưởng hơn ghi chép trước.\n\nNhưng... hừm. Hắn quả thật đã mặc một bộ giáp, quả thật đã sử dụng Ordrak's Heart, và quả thật đã tấn công Guardian of Water. Lỡ đâu trong cơn điên loạn của hắn lại ẩn chứa chút sự thật thì sao?
+@@ 2339
+Vào |cFFD1FF7AIcedeep Caverns|u ở |cFFD1FF7ACrows' Pass|u và tìm ba cuốn |cFFD1FF7AJournals|u còn lại của Alchemist.
+@@ 2340
+- Thu thập |cFFD1FF7A[DEFEATCOMPLETECOUNT]/[DEFEATCOUNT] Journals|u ở |cFFD1FF7AIcedeep Caverns|u
+@@ 2341
+- Quay về gặp |cFFD1FF7AJadok|u ở |cFFD1FF7AFrosted Hills|u
+@@ 2342
+Bạn đến thật đúng lúc. Tôi tin là mình đã tìm ra hang ổ của Alchemist, ngay tại |cFFD1FF7AIcedeep Caverns|u này. Tôi tìm thấy một cuốn |cFFD1FF7AJournal|u ngay phía trong lối vào; trong đó viết về việc tiến vào khu mỏ ở Torchlight và lấy Ordrak's Heart. Tôi đã định tìm thêm ở sâu hơn bên trong hang, nhưng lũ sinh vật đang trú ngụ trong đó giờ quá sức đối với tôi.\n\nTìm được những cuốn |cFFD1FF7AJournals|u còn lại của Alchemist có lẽ sẽ rất hữu ích để xác định cách ngăn chặn hắn. Cuốn tôi thấy là tập bốn, vậy có lẽ còn ba cuốn nữa trong |cFFD1FF7AIcedeep Caverns|u.
+@@ 2343
+"Sau nhiều tháng nghiên cứu và thí nghiệm, tôi buộc phải kết luận rằng chứng Ember Blight của tôi là không thể chữa khỏi... và tôi không phải người duy nhất. Mỗi năm có hàng trăm người chết vì nó. Hàng nghìn người khác phải bị cách ly khỏi Ember, kẻo chỉ một chút tiếp xúc nhỏ nhất cũng khơi dậy một cơn loạn thần. Có vẻ như giải pháp thực sự duy nhất là loại bỏ nguồn lây nhiễm... tiêu diệt toàn bộ Ember, ở khắp mọi nơi. Cho đến nay, đây vẫn là một đề xuất phi thực tế. Nhưng giờ Ordrak đã bị đánh bại, tôi tin rằng một phương thuốc chữa Ember Blight cho cả thế giới cuối cùng cũng đã nằm trong tầm tay..."
+@@ 2344
+"Bản thân Ordrak's Heart đã bị tha hóa, và có khi còn nguy hiểm với tôi hơn cả Ember. Tôi đã thiết kế và chế tạo một công cụ mang hình dạng cây gậy phép để điều khiển và sử dụng Heart. Nhưng như vậy vẫn chưa đủ; những luồng năng lượng ô uế mà Heart tỏa ra có thể gây dị dạng cả về thể xác lẫn tinh thần, dù chỉ tiếp xúc thoáng qua. Vì thế, tôi phải chế tạo một bộ giáp kháng Ember để bảo vệ bản thân khỏi những tác động tồi tệ nhất."
+@@ 2345
+"Hẳn phải có cách để tăng sức mạnh của Heart... có lẽ bằng cách rút lấy từ các Guardian nguyên tố? Quyền năng của họ lớn lao đến mức không thể hiểu thấu, và bất kỳ ai trong số họ cũng có thể 'siêu nạp' cho Ordrak's Heart, thừa sức đảm đương việc này. Nhưng liệu việc rút cạn nguồn năng lượng đó có giết chết Guardian không? Liệu nguyên tố gắn liền với Guardian đó có trở nên mất kiểm soát... hay biến mất hoàn toàn? Tôi phải chia phần 'quyên góp' ra cho nhiều Guardian. Các Guardian khó mà tự nguyện nhường lại nguồn năng lượng đó; tôi phải tự lấy thứ mình cần, và cầu mong sau này vẫn còn thời gian để xin lỗi."
+@@ 2346
+Những ghi chép này có vẻ chưa đầy đủ. Còn rất nhiều chỗ trống cần được lấp vào. Bạn đã có dịp xem thử còn cuốn nào nữa không?
+@@ 2347
+Đến |cFFD1FF7A[place]|u ở |cFFD1FF7A[zone]|u và đánh bại [champion].
+@@ 2348
+Quay về gặp |cFFD1FF7A[quest npc]|u để nhận thưởng.
+@@ 2349
+- Bước một

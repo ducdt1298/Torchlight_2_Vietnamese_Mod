@@ -1,0 +1,4980 @@
+{
+ "batch": "b13_ui_table_1",
+ "count": 829,
+ "items": [
+  {
+   "id": 5780,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": " Help!"
+  },
+  {
+   "id": 5781,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": " Inventory slot missing, items will be lost:\\n"
+  },
+  {
+   "id": 5782,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": " not active. Inventory slot missing, items will be lost:\\n"
+  },
+  {
+   "id": 5783,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "( only below 100% UI Scale )"
+  },
+  {
+   "id": 5784,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "(Set)"
+  },
+  {
+   "id": 5785,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "(You may not join a game with a different New Game Plus rank)"
+  },
+  {
+   "id": 5786,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "* Improves with Player Level"
+  },
+  {
+   "id": 5787,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "*Level Range increments when the owner of the game passes the maximum level."
+  },
+  {
+   "id": 5788,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "+<STAT1> meter(s)"
+  },
+  {
+   "id": 5789,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "+[VALUE] to all item character stat requirements [DURATION]"
+  },
+  {
+   "id": 5790,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "- Shield Blocks Damage"
+  },
+  {
+   "id": 5791,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "-Firewall Errors Detected-\\nPlease Check Your Firewall Settings"
+  },
+  {
+   "id": 5792,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "-Strict NAT Detected-\\nSome games may not be reachable."
+  },
+  {
+   "id": 5793,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "-[VALUE] to Charm Spell levels"
+  },
+  {
+   "id": 5794,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "-[VALUE] to all item character stat requirements [DURATION]"
+  },
+  {
+   "id": 5795,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "-[VALUE]% Wand and Staff Damage"
+  },
+  {
+   "id": 5796,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "-[VALUE]% chance to reflect [VALUE3AND4]% of Missile Damage\\n for [DURATION]"
+  },
+  {
+   "id": 5797,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "0GP"
+  },
+  {
+   "id": 5798,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "1 or More Mods Missing"
+  },
+  {
+   "id": 5799,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "10 Down, 90 to Go!"
+  },
+  {
+   "id": 5800,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "20 Down, 80 to Go!"
+  },
+  {
+   "id": 5801,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "3 Sisters"
+  },
+  {
+   "id": 5802,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "30 Down, 70 to Go!"
+  },
+  {
+   "id": 5803,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "3x"
+  },
+  {
+   "id": 5804,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "40 Down, 60 to Go!"
+  },
+  {
+   "id": 5805,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "50 Down, 50 to Go!"
+  },
+  {
+   "id": 5806,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "60 Down, 40 to Go!"
+  },
+  {
+   "id": 5807,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "70 Down, 30 to Go!"
+  },
+  {
+   "id": 5808,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "80 Down, 20 to Go!"
+  },
+  {
+   "id": 5809,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "90 Down, 10 to Go!"
+  },
+  {
+   "id": 5810,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "<STAT1> degrees"
+  },
+  {
+   "id": 5811,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "<STAT1> meters"
+  },
+  {
+   "id": 5812,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "<STAT1> seconds"
+  },
+  {
+   "id": 5813,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "<STAT1>%/sec"
+  },
+  {
+   "id": 5814,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "<STAT1>/sec"
+  },
+  {
+   "id": 5815,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "<STAT1>\\nis currently busy."
+  },
+  {
+   "id": 5816,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "<STAT1>\\nis requesting a trade"
+  },
+  {
+   "id": 5817,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "<STAT1>\\sec"
+  },
+  {
+   "id": 5818,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "A player in this game has strict NAT. Connection may fail."
+  },
+  {
+   "id": 5819,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "ACT I"
+  },
+  {
+   "id": 5820,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "ACT II"
+  },
+  {
+   "id": 5821,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "ACT III"
+  },
+  {
+   "id": 5822,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "ACT IV"
+  },
+  {
+   "id": 5823,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Abandon"
+  },
+  {
+   "id": 5824,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Abandon Quest"
+  },
+  {
+   "id": 5825,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Abandon Quest (you can get it again)"
+  },
+  {
+   "id": 5826,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Accept Quest"
+  },
+  {
+   "id": 5827,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Accept Reward Later"
+  },
+  {
+   "id": 5828,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Accept Trade Request"
+  },
+  {
+   "id": 5829,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Account:"
+  },
+  {
+   "id": 5830,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Acquired by Tarroch on his travels in the Brackenwild."
+  },
+  {
+   "id": 5831,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Active Quests"
+  },
+  {
+   "id": 5832,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Add Friend"
+  },
+  {
+   "id": 5833,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Add One"
+  },
+  {
+   "id": 5834,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Add point to Dexterity"
+  },
+  {
+   "id": 5835,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Add point to Focus"
+  },
+  {
+   "id": 5836,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Add point to Strength"
+  },
+  {
+   "id": 5837,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Add point to Vitality"
+  },
+  {
+   "id": 5838,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Additional damage applied to any normal attack \\nwhen wielding two similar weapons"
+  },
+  {
+   "id": 5839,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Additional electrical damage added to any successful electrical attack"
+  },
+  {
+   "id": 5840,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Additional fire damage added to any successful fire attack"
+  },
+  {
+   "id": 5841,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Additional ice damage added to any successful ice attack"
+  },
+  {
+   "id": 5842,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Additional physical damage added to any successful physical attack"
+  },
+  {
+   "id": 5843,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Additional poison damage added to any successful poison attack"
+  },
+  {
+   "id": 5844,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Additonal damage applied to target \\nwhen hit with a Critical attack"
+  },
+  {
+   "id": 5845,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Additonal range on missile weapons. \\nThis applies to bows, crossbows, pistols, rifles and wands."
+  },
+  {
+   "id": 5846,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Adjusted range of this weapon"
+  },
+  {
+   "id": 5847,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Aegis Skills"
+  },
+  {
+   "id": 5848,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Aereon"
+  },
+  {
+   "id": 5849,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "After the Alchemist"
+  },
+  {
+   "id": 5850,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Alchemist Room"
+  },
+  {
+   "id": 5851,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "All Games"
+  },
+  {
+   "id": 5852,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "All the Colors of the Dark"
+  },
+  {
+   "id": 5853,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Aloe Gel"
+  },
+  {
+   "id": 5854,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Alternate Right Skill([KB:SkillSwap])"
+  },
+  {
+   "id": 5855,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Always Show Item Names([KB:ShowItems])"
+  },
+  {
+   "id": 5856,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Always Show Player Names"
+  },
+  {
+   "id": 5857,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Amulet Slot (Empty)"
+  },
+  {
+   "id": 5858,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "An Iridian Focus, just what we need! To those Ratlins, I'm sure this is just another shiny for them to collect. If only they knew what it can do when you send a few thousand jags of ember current through it!\\n\\nAh, I won't bore you with the details... Here's your reward!"
+  },
+  {
+   "id": 5859,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "An error occured in the game. Error message is"
+  },
+  {
+   "id": 5860,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Ancient Spectral Dragon"
+  },
+  {
+   "id": 5861,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Another Realm"
+  },
+  {
+   "id": 5862,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Another player has initiated a Mapworks run in this dungeon, or players are in transition and Mapworks cannot safely initiate a new run.  Please try again shortly!"
+  },
+  {
+   "id": 5863,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Anti-Aliasing *"
+  },
+  {
+   "id": 5864,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Anti-Aliasing improves visual quality.\\nDisabling Anti-Aliasing will improve frame rate."
+  },
+  {
+   "id": 5865,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Antropophagus"
+  },
+  {
+   "id": 5866,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Apply"
+  },
+  {
+   "id": 5867,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Apply Settings and Close"
+  },
+  {
+   "id": 5868,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Apply Settings?"
+  },
+  {
+   "id": 5869,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Arcane Statistics [[KB:Journal]]"
+  },
+  {
+   "id": 5870,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Are you sure you want to abandon this Quest?"
+  },
+  {
+   "id": 5871,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Are you sure you want to delete this character?"
+  },
+  {
+   "id": 5872,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Are you sure you want to proceed to the next |cFFEAAA15New Game Plus|u mode?"
+  },
+  {
+   "id": 5873,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Arming-Sword"
+  },
+  {
+   "id": 5874,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Armor Bonus"
+  },
+  {
+   "id": 5875,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Armor for sale"
+  },
+  {
+   "id": 5876,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Armor is the amount of physical damage subtracted from incoming attacks. \\nIf an attack is partially physical and partially elemental, the armor's effective \\nreduction is proportionally scaled to the percentage of physical damage."
+  },
+  {
+   "id": 5877,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Armor/Trinkets"
+  },
+  {
+   "id": 5878,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Armor\\n(directly reduces incoming attack damage)"
+  },
+  {
+   "id": 5879,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Army of the Undead"
+  },
+  {
+   "id": 5880,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "ArtCoding\\n\\n|cFFF5DB94Armor Contest Winners|u\\nHenrik Langergaard Jepsen\\nIan Mayhew"
+  },
+  {
+   "id": 5881,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Aruk The Cruel"
+  },
+  {
+   "id": 5882,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "As a token of my gratitude, I would like you to have this!"
+  },
+  {
+   "id": 5883,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Assign |cFFA1D0FCskills and consumables |uto the quick bar by drag and dropping them onto a slot or simply click on the slot to show a list of assignable options."
+  },
+  {
+   "id": 5884,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Attack Speed"
+  },
+  {
+   "id": 5885,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Attack Speed Bonus"
+  },
+  {
+   "id": 5886,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Attempt to enchant this item"
+  },
+  {
+   "id": 5887,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Audio"
+  },
+  {
+   "id": 5888,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Auto-Equip Items"
+  },
+  {
+   "id": 5889,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Auto-Equip Items will equip items on your character when you pick them up if an empty slot for that item exists."
+  },
+  {
+   "id": 5890,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Average Damage Dealt"
+  },
+  {
+   "id": 5891,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Average Damage Taken"
+  },
+  {
+   "id": 5892,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Average Level of Players"
+  },
+  {
+   "id": 5893,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Average Time Per Level"
+  },
+  {
+   "id": 5894,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Avg. Equipment Level"
+  },
+  {
+   "id": 5895,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Avoid the Lava"
+  },
+  {
+   "id": 5896,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "BANDIT KINGS"
+  },
+  {
+   "id": 5897,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "BATCH COUNT: <STAT1>\\nBATCH UI COUNT: <STAT2>"
+  },
+  {
+   "id": 5898,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "BERSERKER CHARGE BAR"
+  },
+  {
+   "id": 5899,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "BIG TEXT"
+  },
+  {
+   "id": 5900,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "BOLETUS REX"
+  },
+  {
+   "id": 5901,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "BOSSNAME"
+  },
+  {
+   "id": 5902,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Back"
+  },
+  {
+   "id": 5903,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Bandit Chest"
+  },
+  {
+   "id": 5904,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Base Dexterity"
+  },
+  {
+   "id": 5905,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Base Focus"
+  },
+  {
+   "id": 5906,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Base Mana Regeneration"
+  },
+  {
+   "id": 5907,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Base Strength"
+  },
+  {
+   "id": 5908,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Base Vitality"
+  },
+  {
+   "id": 5909,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Base dexterity before bonuses"
+  },
+  {
+   "id": 5910,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Base focus before bonuses"
+  },
+  {
+   "id": 5911,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Base strength before bonuses"
+  },
+  {
+   "id": 5912,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Base vitality before bonuses"
+  },
+  {
+   "id": 5913,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Basic Attack"
+  },
+  {
+   "id": 5914,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Befriend Player"
+  },
+  {
+   "id": 5915,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Belt Slot (Empty)"
+  },
+  {
+   "id": 5916,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Best for first-time players,\\n|cFFA1D0FCNormal Mode|u presents a wide range of challenge without requiring in-depth knowledge of the game."
+  },
+  {
+   "id": 5917,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Beyond the Darkness"
+  },
+  {
+   "id": 5918,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Big Treasure Chest"
+  },
+  {
+   "id": 5919,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Black Heart"
+  },
+  {
+   "id": 5920,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Blade of the Ripper"
+  },
+  {
+   "id": 5921,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Blast fish out of the water with dynamite!"
+  },
+  {
+   "id": 5922,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Bleak Chamber"
+  },
+  {
+   "id": 5923,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Blitz Skills"
+  },
+  {
+   "id": 5924,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Block"
+  },
+  {
+   "id": 5925,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Block List"
+  },
+  {
+   "id": 5926,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Block Player"
+  },
+  {
+   "id": 5927,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Blood and Black Lace"
+  },
+  {
+   "id": 5928,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Bloom"
+  },
+  {
+   "id": 5929,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Bloom adds glow effects to the game.\\nDisabling bloom may improve frame rate."
+  },
+  {
+   "id": 5930,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Bones"
+  },
+  {
+   "id": 5931,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Bonus dexterity from equipment and effects"
+  },
+  {
+   "id": 5932,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Bonus focus from equipment and effects"
+  },
+  {
+   "id": 5933,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Bonus multiplier to base dexterity"
+  },
+  {
+   "id": 5934,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Bonus multiplier to base focus"
+  },
+  {
+   "id": 5935,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Bonus multiplier to base strength"
+  },
+  {
+   "id": 5936,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Bonus multiplier to base vitality"
+  },
+  {
+   "id": 5937,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Bonus strength from equipment and effects"
+  },
+  {
+   "id": 5938,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Bonus vitality from equipment and effects"
+  },
+  {
+   "id": 5939,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Boots Slot (Empty)"
+  },
+  {
+   "id": 5940,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Boss Chest"
+  },
+  {
+   "id": 5941,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Breakables"
+  },
+  {
+   "id": 5942,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Breakables Broken"
+  },
+  {
+   "id": 5943,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Broken Detonator"
+  },
+  {
+   "id": 5944,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Brood Hive"
+  },
+  {
+   "id": 5945,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Browse to Website"
+  },
+  {
+   "id": 5946,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Bruce Miles\\nLev Liberman\\nLani Minella\\nAnna Vocino\\nRowell Gormon\\nSusanna Burney\\nMike Vaughn\\nSam Brando\\nKate Yeager\\nBobby Baldwin\\nEric Newsome\\nPeta Johnson\\nChris Ackerman\\n\\n|cFFF5DB94Recorded at|u\\nPure Audio"
+  },
+  {
+   "id": 5947,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Busy"
+  },
+  {
+   "id": 5948,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Buy Full Version"
+  },
+  {
+   "id": 5949,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Buy items back from the merchant"
+  },
+  {
+   "id": 5950,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "By exiting to the |cFFEAAA15Main Menu|u now you will lose any progress you have made since entering the current level!\\n"
+  },
+  {
+   "id": 5951,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "By perfoming this action, all socketables in the item will be destroyed, leaving the slots empty."
+  },
+  {
+   "id": 5952,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "By perfoming this action, the equipment will be destroyed, returning to you any socketables that it contained."
+  },
+  {
+   "id": 5953,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Cabin Trunk"
+  },
+  {
+   "id": 5954,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Cancel"
+  },
+  {
+   "id": 5955,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Cancel Connection"
+  },
+  {
+   "id": 5956,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Cancel Trade Request"
+  },
+  {
+   "id": 5957,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Cancel and Discard Changes"
+  },
+  {
+   "id": 5958,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Canceling in"
+  },
+  {
+   "id": 5959,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Caps Lock is on"
+  },
+  {
+   "id": 5960,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Cast Speed Bonus"
+  },
+  {
+   "id": 5961,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Catacombs Boss"
+  },
+  {
+   "id": 5962,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Center UI Globes"
+  },
+  {
+   "id": 5963,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Center UI Globes causes the health and mana globes to be \\nplaced next to the hotbar instead of the corners of the screen."
+  },
+  {
+   "id": 5964,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Champions Killed"
+  },
+  {
+   "id": 5965,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Chance any normal attack or damaging skill \\nwill result in a 'Critical', dealing maximum damage \\nplus the Critical Damage modifier (below)"
+  },
+  {
+   "id": 5966,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Chance any normal attack will result in a 'Fumble',\\nreducing damage by a Penalty amount (right below)"
+  },
+  {
+   "id": 5967,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Chance that any incoming direct attack will be blocked,\\nmitigating all damage. \\nA character must have a shield equipped to block attacks."
+  },
+  {
+   "id": 5968,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Chance that any incoming direct attack\\nwill be dodged, mitigating all damage"
+  },
+  {
+   "id": 5969,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Chance that any ranged attack will be reflected"
+  },
+  {
+   "id": 5970,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Chance, when wielding two similar weapons,\\nthat a normal attack will be upgraded to a \\ndouble attack using both weapons"
+  },
+  {
+   "id": 5971,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Change sort order"
+  },
+  {
+   "id": 5972,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Chaos"
+  },
+  {
+   "id": 5973,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Character Mod Details"
+  },
+  {
+   "id": 5974,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Character Panel"
+  },
+  {
+   "id": 5975,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Character Panel [[KB:StatMenu]]"
+  },
+  {
+   "id": 5976,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Character not playable in Demo Mode"
+  },
+  {
+   "id": 5977,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Characters"
+  },
+  {
+   "id": 5978,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Chest Slot (Empty)"
+  },
+  {
+   "id": 5979,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Chest of Kings"
+  },
+  {
+   "id": 5980,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Chest of Queens"
+  },
+  {
+   "id": 5981,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Chest of Wazir"
+  },
+  {
+   "id": 5982,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Choose Map Destination"
+  },
+  {
+   "id": 5983,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Choose a Door"
+  },
+  {
+   "id": 5984,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Choose a spell to permanently unlearn"
+  },
+  {
+   "id": 5985,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Cinematics"
+  },
+  {
+   "id": 5986,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Clear"
+  },
+  {
+   "id": 5987,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Clear Assignment"
+  },
+  {
+   "id": 5988,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Clear trade items and gold"
+  },
+  {
+   "id": 5989,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Click for Best Health Potion ( [KB:BESTPETPOTION] )"
+  },
+  {
+   "id": 5990,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Click for Best Mana Potion ( [KB:BESTPETMANA] )"
+  },
+  {
+   "id": 5991,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Clockwork Core"
+  },
+  {
+   "id": 5992,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Close"
+  },
+  {
+   "id": 5993,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Close Active Portal"
+  },
+  {
+   "id": 5994,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Close Panel"
+  },
+  {
+   "id": 5995,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Collar Slot\\n\\n |c00ff9933The best way to find\\nCollars is to fish in\\ndangerous areas!|u"
+  },
+  {
+   "id": 5996,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Combat Log"
+  },
+  {
+   "id": 5997,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "ComboText"
+  },
+  {
+   "id": 5998,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Completed Quests"
+  },
+  {
+   "id": 5999,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Confirm"
+  },
+  {
+   "id": 6000,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Confirm Password"
+  },
+  {
+   "id": 6001,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Confirm Reward Selection"
+  },
+  {
+   "id": 6002,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Confirm Trade"
+  },
+  {
+   "id": 6003,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Conflict"
+  },
+  {
+   "id": 6004,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Congratulations"
+  },
+  {
+   "id": 6005,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Connecting"
+  },
+  {
+   "id": 6006,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Connecting to lobby service..."
+  },
+  {
+   "id": 6007,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Construction Skills"
+  },
+  {
+   "id": 6008,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Consumables"
+  },
+  {
+   "id": 6009,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Consumables Inventory"
+  },
+  {
+   "id": 6010,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Consumables Tab"
+  },
+  {
+   "id": 6011,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Continue Anyway"
+  },
+  {
+   "id": 6012,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Continue to the \\nRunic Games account management website?"
+  },
+  {
+   "id": 6013,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Control"
+  },
+  {
+   "id": 6014,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Controls"
+  },
+  {
+   "id": 6015,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Conveys"
+  },
+  {
+   "id": 6016,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Could not connect to lobby server"
+  },
+  {
+   "id": 6017,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Crab Nest"
+  },
+  {
+   "id": 6018,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Crafted by the most powerful necromancer alive ... and dead."
+  },
+  {
+   "id": 6019,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Crafted by the most powerful necromancer alive and dead."
+  },
+  {
+   "id": 6020,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Create Game"
+  },
+  {
+   "id": 6021,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Create a New Game"
+  },
+  {
+   "id": 6022,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Create a new account, \\nmanage an existing account,\\nor retrive a lost password."
+  },
+  {
+   "id": 6023,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Create or manage your account!"
+  },
+  {
+   "id": 6024,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Credits"
+  },
+  {
+   "id": 6025,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Crit and Dodge"
+  },
+  {
+   "id": 6026,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Critical Damage"
+  },
+  {
+   "id": 6027,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Critical Damage Bonus"
+  },
+  {
+   "id": 6028,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Crow's Pass"
+  },
+  {
+   "id": 6029,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Crows' Pass"
+  },
+  {
+   "id": 6030,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Ctr"
+  },
+  {
+   "id": 6031,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Ctrl"
+  },
+  {
+   "id": 6032,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Ctrl-click to Split Stack"
+  },
+  {
+   "id": 6033,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Current Level: "
+  },
+  {
+   "id": 6034,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Current Location"
+  },
+  {
+   "id": 6035,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "DEMO"
+  },
+  {
+   "id": 6036,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Damage Arc"
+  },
+  {
+   "id": 6037,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Damage Dealt"
+  },
+  {
+   "id": 6038,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Damage Per Second"
+  },
+  {
+   "id": 6039,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Damage Taken"
+  },
+  {
+   "id": 6040,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Damage penalty applied to a Fumbled attack"
+  },
+  {
+   "id": 6041,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Daphne Cabral\\nEmily and Bunny\\nGabbers\\nKatie Garner\\nZoey Baldree\\nEmma June Baldree\\nGearbox\\nWade Callender\\nDavid Eddings\\nBen Donges\\nFalcor \\n"
+  },
+  {
+   "id": 6042,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Dear players:"
+  },
+  {
+   "id": 6043,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Decline Quest"
+  },
+  {
+   "id": 6044,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Decline Trade Request"
+  },
+  {
+   "id": 6045,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Defaults"
+  },
+  {
+   "id": 6046,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Defeat the Troll"
+  },
+  {
+   "id": 6047,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Defeat the Witches"
+  },
+  {
+   "id": 6048,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Delete"
+  },
+  {
+   "id": 6049,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Description"
+  },
+  {
+   "id": 6050,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Description of the game"
+  },
+  {
+   "id": 6051,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Destroy the Gems currently socketed into this item"
+  },
+  {
+   "id": 6052,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Destroy the risen graves"
+  },
+  {
+   "id": 6053,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Destroy this item, in order to recover any socketed Gems"
+  },
+  {
+   "id": 6054,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Details"
+  },
+  {
+   "id": 6055,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Detonator"
+  },
+  {
+   "id": 6056,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Dexterity Bonus"
+  },
+  {
+   "id": 6057,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Dialog Text"
+  },
+  {
+   "id": 6058,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Difficulty of Server"
+  },
+  {
+   "id": 6059,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Difficulty of games to list"
+  },
+  {
+   "id": 6060,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Difficulty of the game"
+  },
+  {
+   "id": 6061,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Dig for Buried Treasure"
+  },
+  {
+   "id": 6062,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Disabling Hardware Skinning can drastically decrease frame rate.\\nHardware Skinning enables GFX card acceleration of skinning.\\nOnly disable for compatibility reasons."
+  },
+  {
+   "id": 6063,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Discovered\\nEmberscratch Minehead"
+  },
+  {
+   "id": 6064,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Discovered\\nEstherian Refuge"
+  },
+  {
+   "id": 6065,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Discovered\\nForsaken Gate"
+  },
+  {
+   "id": 6066,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Discovered\\nGravedeep"
+  },
+  {
+   "id": 6067,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Discovered\\nPrison Caravan"
+  },
+  {
+   "id": 6068,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Discovered\\nSadwa Mesa"
+  },
+  {
+   "id": 6069,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Discovered\\nSkull Hollow"
+  },
+  {
+   "id": 6070,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Discovered\\nSlavers' Camp"
+  },
+  {
+   "id": 6071,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Discovered\\nStygian Aerie Approach"
+  },
+  {
+   "id": 6072,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Discovered\\nThe Beast Warrens"
+  },
+  {
+   "id": 6073,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Discovered\\nThe Bone Clutch"
+  },
+  {
+   "id": 6074,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Discovered\\nThe Cairn Pit"
+  },
+  {
+   "id": 6075,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Discovered\\nThe Downfalls"
+  },
+  {
+   "id": 6076,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Discovered\\nThe Embercraft"
+  },
+  {
+   "id": 6077,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Discovered\\nThe Lost Hold"
+  },
+  {
+   "id": 6078,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Discovered\\nThe Rot Gardens"
+  },
+  {
+   "id": 6079,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Discovered\\nThe Ship Graveyard"
+  },
+  {
+   "id": 6080,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Discovered\\nThe Swarmstacks"
+  },
+  {
+   "id": 6081,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Discovered\\nTower of the Moon"
+  },
+  {
+   "id": 6082,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Discovered\\nWatchweald Approach"
+  },
+  {
+   "id": 6083,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Discovered\\nWellspring Approach"
+  },
+  {
+   "id": 6084,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Discovered\\nWicker Grove"
+  },
+  {
+   "id": 6085,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Discovered\\nWidowmaker Woods"
+  },
+  {
+   "id": 6086,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Disenchant Item Cost"
+  },
+  {
+   "id": 6087,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Display"
+  },
+  {
+   "id": 6088,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Do you wish to Exit?"
+  },
+  {
+   "id": 6089,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Do you wish to continue?"
+  },
+  {
+   "id": 6090,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Do you wish to travel to Cacklespit's Realm?"
+  },
+  {
+   "id": 6091,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Do you wish to travel to The Blightbogs?"
+  },
+  {
+   "id": 6092,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Do you wish to travel to Zeryphesh?"
+  },
+  {
+   "id": 6093,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Do you wish to travel to the Estherian Enclave?"
+  },
+  {
+   "id": 6094,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Do you wish to travel to the Imperial Camp?"
+  },
+  {
+   "id": 6095,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Dodge Chance"
+  },
+  {
+   "id": 6096,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Doing so will start your adventure anew. All of your items, statistics and skills will remain unchanged, but the game will begin at level |cFFA1D0FC<STAT1>|u.\\n\\nYou will be unable to play with any characters who do not occupy the same New Game Plus tier."
+  },
+  {
+   "id": 6097,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Door #1"
+  },
+  {
+   "id": 6098,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Door #2"
+  },
+  {
+   "id": 6099,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Door #3"
+  },
+  {
+   "id": 6100,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Dragon Boss"
+  },
+  {
+   "id": 6101,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Drop potion to heal or restore mana"
+  },
+  {
+   "id": 6102,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Dual Wielding Bonus"
+  },
+  {
+   "id": 6103,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Dungeon Properties"
+  },
+  {
+   "id": 6104,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Duration"
+  },
+  {
+   "id": 6105,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "EMBERMAGE CHARGE BAR"
+  },
+  {
+   "id": 6106,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "ENGINEER CHARGE BAR"
+  },
+  {
+   "id": 6107,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "ERROR"
+  },
+  {
+   "id": 6108,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Eggs"
+  },
+  {
+   "id": 6109,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Electric Armor"
+  },
+  {
+   "id": 6110,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Electric Resist"
+  },
+  {
+   "id": 6111,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Electrical jolt when struck - Resists Electricity"
+  },
+  {
+   "id": 6112,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Elemental Armors"
+  },
+  {
+   "id": 6113,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Elemental Damage Bonuses"
+  },
+  {
+   "id": 6114,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Elemental Damage Reductions"
+  },
+  {
+   "id": 6115,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Elemental Damages"
+  },
+  {
+   "id": 6116,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Embercraft Repair"
+  },
+  {
+   "id": 6117,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Emberscratch Minehead"
+  },
+  {
+   "id": 6118,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Emberworks"
+  },
+  {
+   "id": 6119,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Enable/Disable Level Difference Filter"
+  },
+  {
+   "id": 6120,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Enables verbal alerts for low Mana or Health and fleeing pets"
+  },
+  {
+   "id": 6121,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Enabling Always Show Player Names will set all other players \\nto have their name visible above their head at all times.\\n\\nDisabling Always Show Player Names will cause them to be displayed \\nonly if the Show Items Toggle is on or the Show Items Modifier button is pressed."
+  },
+  {
+   "id": 6122,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Enchant Item Cost"
+  },
+  {
+   "id": 6123,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Enchanter"
+  },
+  {
+   "id": 6124,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Enchanters can bestow new properties on your equipment.\\n\\nNot all Enchanters are the same - some can enchant an item only once, while others may do so 2 or more times.\\n\\nNot all Enchanters provide the same enchantments - some may even add sockets to your equipment."
+  },
+  {
+   "id": 6125,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Encrusted Construct"
+  },
+  {
+   "id": 6126,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Enter"
+  },
+  {
+   "id": 6127,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Enter Haunted Quarter"
+  },
+  {
+   "id": 6128,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Enter Ice Labs"
+  },
+  {
+   "id": 6129,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Enter Icedeep Caverns"
+  },
+  {
+   "id": 6130,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Enter Korari Cave"
+  },
+  {
+   "id": 6131,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Enter Luminous Arena"
+  },
+  {
+   "id": 6132,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Enter Norsk Leiren"
+  },
+  {
+   "id": 6133,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Enter Notch's Mine"
+  },
+  {
+   "id": 6134,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Enter The Ancient Vaults of Chaos"
+  },
+  {
+   "id": 6135,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Enter The Bone Gallery"
+  },
+  {
+   "id": 6136,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Enter The Burial Chambers"
+  },
+  {
+   "id": 6137,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Enter The Catacombs"
+  },
+  {
+   "id": 6138,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Enter The Caves"
+  },
+  {
+   "id": 6139,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Enter The Corrupted Crypt"
+  },
+  {
+   "id": 6140,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Enter The Forgotten Halls"
+  },
+  {
+   "id": 6141,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Enter The Foul Cave of Shadows"
+  },
+  {
+   "id": 6142,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Enter The Fungal Caves"
+  },
+  {
+   "id": 6143,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Enter The Howling Cave of Doom"
+  },
+  {
+   "id": 6144,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Enter The Ice Caves"
+  },
+  {
+   "id": 6145,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Enter The Lost Hold"
+  },
+  {
+   "id": 6146,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Enter The Lost Okwari Caves"
+  },
+  {
+   "id": 6147,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Enter The Shadowy Crevasse"
+  },
+  {
+   "id": 6148,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Enter The Warbeast Den"
+  },
+  {
+   "id": 6149,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Enter The Wellspring Temple"
+  },
+  {
+   "id": 6150,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Enter The Whispering Cave"
+  },
+  {
+   "id": 6151,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Enter The Widows Veil"
+  },
+  {
+   "id": 6152,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Enter a berserk state, always critting and dealign bonus crit damage. Each crit consumes some charge until the bar is empty"
+  },
+  {
+   "id": 6153,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Enter the Watchweald Temple"
+  },
+  {
+   "id": 6154,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Entered\\nAnother Realm"
+  },
+  {
+   "id": 6155,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Entered\\nEmberscratch Minehead"
+  },
+  {
+   "id": 6156,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Entered\\nEstherian Refuge"
+  },
+  {
+   "id": 6157,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Entered\\nForsaken Gate"
+  },
+  {
+   "id": 6158,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Entered\\nGravedeep"
+  },
+  {
+   "id": 6159,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Entered\\nPrison Caravan"
+  },
+  {
+   "id": 6160,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Entered\\nSadwa Mesa"
+  },
+  {
+   "id": 6161,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Entered\\nSkull Hollow"
+  },
+  {
+   "id": 6162,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Entered\\nSlavers' Camp"
+  },
+  {
+   "id": 6163,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Entered\\nStorm Armory"
+  },
+  {
+   "id": 6164,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Entered\\nStygian Aerie Approach"
+  },
+  {
+   "id": 6165,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Entered\\nThe Beast Warrens"
+  },
+  {
+   "id": 6166,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Entered\\nThe Bone Clutch"
+  },
+  {
+   "id": 6167,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Entered\\nThe Cairn Pit"
+  },
+  {
+   "id": 6168,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Entered\\nThe Downfalls"
+  },
+  {
+   "id": 6169,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Entered\\nThe Embercraft"
+  },
+  {
+   "id": 6170,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Entered\\nThe Lost Hold"
+  },
+  {
+   "id": 6171,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Entered\\nThe Rot Gardens"
+  },
+  {
+   "id": 6172,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Entered\\nThe Ship Graveyard"
+  },
+  {
+   "id": 6173,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Entered\\nThe Swarmstacks"
+  },
+  {
+   "id": 6174,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Entered\\nWatchweald Approach"
+  },
+  {
+   "id": 6175,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Entered\\nWellspring Approach"
+  },
+  {
+   "id": 6176,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Entered\\nWicker Grove"
+  },
+  {
+   "id": 6177,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Entered\\nWidowmaker Woods"
+  },
+  {
+   "id": 6178,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Equipment"
+  },
+  {
+   "id": 6179,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Equipment Inventory"
+  },
+  {
+   "id": 6180,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Equipment Tab"
+  },
+  {
+   "id": 6181,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Equipped"
+  },
+  {
+   "id": 6182,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Error"
+  },
+  {
+   "id": 6183,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Estherian Refuge"
+  },
+  {
+   "id": 6184,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Estherian Shrine Boss"
+  },
+  {
+   "id": 6185,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Execute Chance"
+  },
+  {
+   "id": 6186,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Exit Luminous Arena"
+  },
+  {
+   "id": 6187,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Exit to Salt Barrens"
+  },
+  {
+   "id": 6188,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Exit to main menu"
+  },
+  {
+   "id": 6189,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Exit?"
+  },
+  {
+   "id": 6190,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Experience"
+  },
+  {
+   "id": 6191,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Experience Reward"
+  },
+  {
+   "id": 6192,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Experience progress to next level"
+  },
+  {
+   "id": 6193,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Extra Fast - Elemental attacks"
+  },
+  {
+   "id": 6194,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Ezrek Kahn"
+  },
+  {
+   "id": 6195,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "FAIL"
+  },
+  {
+   "id": 6196,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "FPS: <STAT1>"
+  },
+  {
+   "id": 6197,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Faceless King"
+  },
+  {
+   "id": 6198,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Fame Reward"
+  },
+  {
+   "id": 6199,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Fame progress to next level"
+  },
+  {
+   "id": 6200,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Filter By Level Range"
+  },
+  {
+   "id": 6201,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Filter By Lvl Range"
+  },
+  {
+   "id": 6202,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Filter By Name Prefix"
+  },
+  {
+   "id": 6203,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Final Boss Room"
+  },
+  {
+   "id": 6204,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Final Round"
+  },
+  {
+   "id": 6205,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Fire Armor"
+  },
+  {
+   "id": 6206,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Fire Resist"
+  },
+  {
+   "id": 6207,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Firewall Problems Detected!"
+  },
+  {
+   "id": 6208,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "First Mate"
+  },
+  {
+   "id": 6209,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Fishing Luck Bonus"
+  },
+  {
+   "id": 6210,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Flammable Lantern"
+  },
+  {
+   "id": 6211,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Floating Damage & Text"
+  },
+  {
+   "id": 6212,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Floating Damage & Text sets the behavior of the floating numbers and \\ntext events that appear over player characters and monsters in the game.\\n\\nVerbose - All events are displayed\\nNormal - Block, parry, shield shatter, and damage absorption events are muted\\nSparse - Only critical damage, death blows, and quest\\system events are displayed\\nNone - Only quest\\system events are displayed"
+  },
+  {
+   "id": 6213,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Flying Fish School"
+  },
+  {
+   "id": 6214,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Focus Bonus"
+  },
+  {
+   "id": 6215,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Forgot Password"
+  },
+  {
+   "id": 6216,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Forgot your password?"
+  },
+  {
+   "id": 6217,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Forgotten Chamber"
+  },
+  {
+   "id": 6218,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Forsaken Gate"
+  },
+  {
+   "id": 6219,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Friend"
+  },
+  {
+   "id": 6220,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Friends"
+  },
+  {
+   "id": 6221,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Friends List"
+  },
+  {
+   "id": 6222,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Friends Only"
+  },
+  {
+   "id": 6223,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Frost Skills"
+  },
+  {
+   "id": 6224,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Fullscreen"
+  },
+  {
+   "id": 6225,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Fumble Chance"
+  },
+  {
+   "id": 6226,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Fumble Damage Penalty"
+  },
+  {
+   "id": 6227,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Fumble Recovery"
+  },
+  {
+   "id": 6228,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Game Name"
+  },
+  {
+   "id": 6229,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Game Name Exists"
+  },
+  {
+   "id": 6230,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Game Rank"
+  },
+  {
+   "id": 6231,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Game Settings"
+  },
+  {
+   "id": 6232,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Games must be within this many levels of your player level to display"
+  },
+  {
+   "id": 6233,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Games only with friends in them"
+  },
+  {
+   "id": 6234,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Gel"
+  },
+  {
+   "id": 6235,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Gem Rescue Challenge"
+  },
+  {
+   "id": 6236,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Gem Saver"
+  },
+  {
+   "id": 6237,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Gem Smasher"
+  },
+  {
+   "id": 6238,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Gems"
+  },
+  {
+   "id": 6239,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Give Offering"
+  },
+  {
+   "id": 6240,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Gloves Slot (Empty)"
+  },
+  {
+   "id": 6241,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Go to Runic Accounts website"
+  },
+  {
+   "id": 6242,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Gold Chest"
+  },
+  {
+   "id": 6243,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Gold Drop Bonus"
+  },
+  {
+   "id": 6244,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Gold Reward"
+  },
+  {
+   "id": 6245,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Gold from the sale of items."
+  },
+  {
+   "id": 6246,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Gold from the sale of items. Insufficient funds were available for requested purchases."
+  },
+  {
+   "id": 6247,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Gold from the sale of items.\\n\\nYour pet has also returned with some selected items. Insignificant funds for all items requested."
+  },
+  {
+   "id": 6248,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Gold from the sale of items.\\n\\nYour pet has also returned with your selected items."
+  },
+  {
+   "id": 6249,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Grand Illusion"
+  },
+  {
+   "id": 6250,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Grave of a Fallen Warrior"
+  },
+  {
+   "id": 6251,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Gravedeep"
+  },
+  {
+   "id": 6252,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Hail, Traveler!\\nA member of our crew had ventured to Zeryphesh to obtain a replacement for our Iridian Focus. Upon returning, a band of fiendish Ratlins attacked him and stole the Focus!\\nCould you go to the Mesa just North of here and see if you can win the Iridian Focus back from those treacherous beasts?"
+  },
+  {
+   "id": 6253,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Hardcore Mode means that death is PERMANENT! Only for the Brave."
+  },
+  {
+   "id": 6254,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Hardware Skinning *"
+  },
+  {
+   "id": 6255,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Heals the player and allies"
+  },
+  {
+   "id": 6256,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Health"
+  },
+  {
+   "id": 6257,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Health Regeneration"
+  },
+  {
+   "id": 6258,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Helmet Slot (Empty)"
+  },
+  {
+   "id": 6259,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Help"
+  },
+  {
+   "id": 6260,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Help us, friend!  There seems to be no end of these goblins!"
+  },
+  {
+   "id": 6261,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Help!"
+  },
+  {
+   "id": 6262,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Help! Please ... help me!"
+  },
+  {
+   "id": 6263,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Help! Please ... help us!"
+  },
+  {
+   "id": 6264,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "High"
+  },
+  {
+   "id": 6265,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Highest Damage Dealt"
+  },
+  {
+   "id": 6266,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Highest Damage Taken"
+  },
+  {
+   "id": 6267,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Hood"
+  },
+  {
+   "id": 6268,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Hunter Skills"
+  },
+  {
+   "id": 6269,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "I"
+  },
+  {
+   "id": 6270,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "I can't thank you enough for helping me!"
+  },
+  {
+   "id": 6271,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "I do not know that I will make it out of this cave but, please:  Save everyone else that you can!"
+  },
+  {
+   "id": 6272,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "I guess all's well that ends with me not getting eaten by a monster."
+  },
+  {
+   "id": 6273,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "I just need a few minutes to purify the Tranquil Censer ... It has touched the ground, and now is unclean. It is marred by the stain of necromantic ...\\n... actually, I think it's just dirt. I can probably just polish it. I'm sure it'll be fine."
+  },
+  {
+   "id": 6274,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "I really should try to be more careful. My father's always saying: \"You really should try to be more careful.\" I guess I should stop talking to strangers, huh?\\n\\nUm ...\\n\\nI should go now."
+  },
+  {
+   "id": 6275,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "I would like you to have this, as a token of my gratitude!"
+  },
+  {
+   "id": 6276,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "I'm afraid it's too late for most of these soldiers. They will not see Zeryphesh again."
+  },
+  {
+   "id": 6277,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "I'm afraid it's too late for these soldiers."
+  },
+  {
+   "id": 6278,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "I'm sure we'll meet again, someday ... you probably won't remember me, but I'll remember you."
+  },
+  {
+   "id": 6279,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "IDENTIFY?"
+  },
+  {
+   "id": 6280,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "II"
+  },
+  {
+   "id": 6281,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "III"
+  },
+  {
+   "id": 6282,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "IME is not available in Fullscreen mode.\\nTo use IME, enable\\n|cFFEAAA15Windowed Fullscreen Mode|u\\nfrom the Settings menu."
+  },
+  {
+   "id": 6283,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "INVALID LEVEL DELTA"
+  },
+  {
+   "id": 6284,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "INVALID SERVER NAME"
+  },
+  {
+   "id": 6285,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "ITEMS"
+  },
+  {
+   "id": 6286,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Ice Armor"
+  },
+  {
+   "id": 6287,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Ice Caves"
+  },
+  {
+   "id": 6288,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Ice Caves Boss"
+  },
+  {
+   "id": 6289,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Ice Resist"
+  },
+  {
+   "id": 6290,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "If you choose this option, your results will be"
+  },
+  {
+   "id": 6291,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "If you die, the chests will disappear."
+  },
+  {
+   "id": 6292,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "If you're angry, count to ten then kill, kill, kill again!"
+  },
+  {
+   "id": 6293,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Ignite Braziers in Order"
+  },
+  {
+   "id": 6294,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "In Memoriam\\nBen Boos"
+  },
+  {
+   "id": 6295,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Increase in the chance to catch better fish"
+  },
+  {
+   "id": 6296,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Increase in the chance to find higher classes\\nof magical loot from monsters and chests"
+  },
+  {
+   "id": 6297,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Increases physical and elemental armor"
+  },
+  {
+   "id": 6298,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Increases the chance to block attacks with a shield"
+  },
+  {
+   "id": 6299,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Increases the chance to evade enemy attacks"
+  },
+  {
+   "id": 6300,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Increases the chance to parry enemy attacks when using melee weapons"
+  },
+  {
+   "id": 6301,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Increases the chance to perform a critical attack\\n"
+  },
+  {
+   "id": 6302,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Increases the chance to strike with two similar weapons simultaneously"
+  },
+  {
+   "id": 6303,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Increases the damage done by weapons"
+  },
+  {
+   "id": 6304,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Increases the damage done for critical attacks"
+  },
+  {
+   "id": 6305,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Increases the magic damage done by weapons and skills"
+  },
+  {
+   "id": 6306,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Infected Hive"
+  },
+  {
+   "id": 6307,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Inferno Skills"
+  },
+  {
+   "id": 6308,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Ingredients"
+  },
+  {
+   "id": 6309,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Inspect"
+  },
+  {
+   "id": 6310,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Inspect Player"
+  },
+  {
+   "id": 6311,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Internet"
+  },
+  {
+   "id": 6312,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Invalid Description"
+  },
+  {
+   "id": 6313,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Inventory Panel"
+  },
+  {
+   "id": 6314,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Inventory [[KB:InventoryMenu]]"
+  },
+  {
+   "id": 6315,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "It appears you have found my body.  Very good.  This is where my memories are stored including the locations of multiple caches of treasure.  I could share these with you, if you would help me reacquire the rest of my components.\\n\\nWe should begin with my |cFFD1FF7ACognition Linkage|u.  Without that, I won't be able to do much more than repeat this message.  My sensors tell me it is somewhere nearby.  Find it and reinstall it, and I will direct you to one of those treasure troves."
+  },
+  {
+   "id": 6316,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "It is ... too late for me. I am Undone. I had hoped ... to make it as far as the human inn, but it seems I will ... perish here. Did any of my other kindred make it? Ah ... I see not.\\n\\nYou may ... be too late. The Estherians are dying. We are being ... dissolved ... by a plague. A magical plague. Some are ... trying to help ... our friend Syl, and the human Alchemist. Nothing ... is working. Our time ... is ending ..."
+  },
+  {
+   "id": 6317,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "It is my duty to tend to the Honored Dead.  But they are angry, and have risen from their tombs!\\n\\nThe Tranquil Censer should calm them once again.  But they attacked me, and, during the struggle, I dropped it. Can you help me get it back?\\n"
+  },
+  {
+   "id": 6318,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "It's lucky you came along!  Take this, as a token of my gratitude.  Now, if you please, the Ambassador would like a word with you."
+  },
+  {
+   "id": 6319,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Item Display"
+  },
+  {
+   "id": 6320,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Jackal Bass Hole"
+  },
+  {
+   "id": 6321,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Join"
+  },
+  {
+   "id": 6322,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Join Game"
+  },
+  {
+   "id": 6323,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Join the Selected Game"
+  },
+  {
+   "id": 6324,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Justin Miller\\nLeo Miller\\nMatt Munroe\\nAdam Perin\\nWonder Russell\\nErich Schaefer\\nMax Schaefer\\nTim Swope\\nJamus Thayn\\nMatt Tinari\\nMatt Tanwanteng\\nJesse Tucker\\nColin Turner\\nMatt Uelmen\\nBrian Ward\\nAaron Wardell\\nJD Wiker\\nMatt Wyatt\\nJolene Ziegler\\n"
+  },
+  {
+   "id": 6325,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Key"
+  },
+  {
+   "id": 6326,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Keys"
+  },
+  {
+   "id": 6327,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Kick"
+  },
+  {
+   "id": 6328,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "King's Mail Cervelliere"
+  },
+  {
+   "id": 6329,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "LAN"
+  },
+  {
+   "id": 6330,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "LAN Games"
+  },
+  {
+   "id": 6331,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "LMB"
+  },
+  {
+   "id": 6332,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "LOCKED"
+  },
+  {
+   "id": 6333,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Ladder Up"
+  },
+  {
+   "id": 6334,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Lady Vengeance"
+  },
+  {
+   "id": 6335,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Lan Play"
+  },
+  {
+   "id": 6336,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Language *"
+  },
+  {
+   "id": 6337,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Largemouth Hole"
+  },
+  {
+   "id": 6338,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Leaving\\nEmberscratch Minehead"
+  },
+  {
+   "id": 6339,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Leaving\\nEstherian Refuge"
+  },
+  {
+   "id": 6340,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Leaving\\nForsaken Gate"
+  },
+  {
+   "id": 6341,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Leaving\\nGravedeep"
+  },
+  {
+   "id": 6342,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Leaving\\nPrison Caravan"
+  },
+  {
+   "id": 6343,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Leaving\\nSadwa Mesa"
+  },
+  {
+   "id": 6344,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Leaving\\nSkull Hollow"
+  },
+  {
+   "id": 6345,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Leaving\\nSlavers' Camp"
+  },
+  {
+   "id": 6346,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Leaving\\nStorm Armory"
+  },
+  {
+   "id": 6347,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Leaving\\nStygian Aerie Approach"
+  },
+  {
+   "id": 6348,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Leaving\\nThe Beast Warrens"
+  },
+  {
+   "id": 6349,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Leaving\\nThe Bone Clutch"
+  },
+  {
+   "id": 6350,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Leaving\\nThe Cairn Pit"
+  },
+  {
+   "id": 6351,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Leaving\\nThe Downfalls"
+  },
+  {
+   "id": 6352,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Leaving\\nThe Embercraft"
+  },
+  {
+   "id": 6353,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Leaving\\nThe Lost Hold"
+  },
+  {
+   "id": 6354,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Leaving\\nThe Rot Gardens"
+  },
+  {
+   "id": 6355,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Leaving\\nThe Ship Graveyard"
+  },
+  {
+   "id": 6356,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Leaving\\nThe Swarmstacks"
+  },
+  {
+   "id": 6357,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Leaving\\nWatchweald Approach"
+  },
+  {
+   "id": 6358,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Leaving\\nWellspring Approach"
+  },
+  {
+   "id": 6359,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Leaving\\nWicker Grove"
+  },
+  {
+   "id": 6360,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Leaving\\nWidowmaker Woods"
+  },
+  {
+   "id": 6361,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Left Hand Weapon Slot (Empty)"
+  },
+  {
+   "id": 6362,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Left Mouse Button Attack"
+  },
+  {
+   "id": 6363,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Legendary "
+  },
+  {
+   "id": 6364,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Leggings Slot (Empty)"
+  },
+  {
+   "id": 6365,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Let me tell you a little about Ember Truffles.  Lots of plants and even some animals absorb Ember essence, if they're exposed to high enough concentrations of it.  Those plants and animals can be harvested, and the Ember distilled out of them, to make it absorbable by humans.  This work is mainly done by Imperial Alchemists which is probably what happened to the guy you're looking for.\\n\\nBut sometimes, in the wild, plants and animals absorb Ember and it changes them.  They begin to move by themselves.  Some of them even develop a rudimentary intelligence.  Most of the time, that's not too horrific but, when the plant or animal is big or dangerous enough, well, they can get pretty vicious.  You've probably even faced one or two creatures that have absorbed a little too much Ember."
+  },
+  {
+   "id": 6366,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Level Range"
+  },
+  {
+   "id": 6367,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Level Range of Server"
+  },
+  {
+   "id": 6368,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Level Range*"
+  },
+  {
+   "id": 6369,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Lich Grave"
+  },
+  {
+   "id": 6370,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Lift Down"
+  },
+  {
+   "id": 6371,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Lift Up"
+  },
+  {
+   "id": 6372,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Lighting Info"
+  },
+  {
+   "id": 6373,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Lighting Only"
+  },
+  {
+   "id": 6374,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Lists games that are password protected or not"
+  },
+  {
+   "id": 6375,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Load"
+  },
+  {
+   "id": 6376,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Lobby Options"
+  },
+  {
+   "id": 6377,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Locked"
+  },
+  {
+   "id": 6378,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Locked Bandit Chest"
+  },
+  {
+   "id": 6379,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Locked Golden Chest"
+  },
+  {
+   "id": 6380,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Locked Kennel Door"
+  },
+  {
+   "id": 6381,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Locked Vyrax's Tower"
+  },
+  {
+   "id": 6382,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Log In"
+  },
+  {
+   "id": 6383,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Log in"
+  },
+  {
+   "id": 6384,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Log out"
+  },
+  {
+   "id": 6385,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Logged In"
+  },
+  {
+   "id": 6386,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Login Failed"
+  },
+  {
+   "id": 6387,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Lootables Looted"
+  },
+  {
+   "id": 6388,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Lore Skills"
+  },
+  {
+   "id": 6389,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Low"
+  },
+  {
+   "id": 6390,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Low Resource Verbal Alerts"
+  },
+  {
+   "id": 6391,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Luck Bonus"
+  },
+  {
+   "id": 6392,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "MMB"
+  },
+  {
+   "id": 6393,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "MOD NAME"
+  },
+  {
+   "id": 6394,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "MWDOWN"
+  },
+  {
+   "id": 6395,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "MWUP"
+  },
+  {
+   "id": 6396,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Magic Damage"
+  },
+  {
+   "id": 6397,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Mana Pool"
+  },
+  {
+   "id": 6398,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Mana Regeneration"
+  },
+  {
+   "id": 6399,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Manage Account"
+  },
+  {
+   "id": 6400,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Map Control"
+  },
+  {
+   "id": 6401,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Map Overlay Opacity"
+  },
+  {
+   "id": 6402,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Map Overlay Opacity controls the opacity of the \\nmap when displayed over the playing area."
+  },
+  {
+   "id": 6403,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Mapworks Initiating"
+  },
+  {
+   "id": 6404,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Mapworks Safety"
+  },
+  {
+   "id": 6405,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Mask of Kings"
+  },
+  {
+   "id": 6406,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Mask of Queens"
+  },
+  {
+   "id": 6407,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Mask of Wariz"
+  },
+  {
+   "id": 6408,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Masque of the Red Death"
+  },
+  {
+   "id": 6409,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Max Players"
+  },
+  {
+   "id": 6410,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Maximum Enchantments: <STAT1>"
+  },
+  {
+   "id": 6411,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Maximum Health (HP)"
+  },
+  {
+   "id": 6412,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Maximum Mana (MP)"
+  },
+  {
+   "id": 6413,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Maximum level a player can be to join the game"
+  },
+  {
+   "id": 6414,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Maximum number of players allowed in the game"
+  },
+  {
+   "id": 6415,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Medium"
+  },
+  {
+   "id": 6416,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Memory Using/Max: <STAT1>/<STAT2>"
+  },
+  {
+   "id": 6417,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Merryweather Bush"
+  },
+  {
+   "id": 6418,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Messages Recieved"
+  },
+  {
+   "id": 6419,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Messages Sent"
+  },
+  {
+   "id": 6420,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Minimum level a player can be to join the game"
+  },
+  {
+   "id": 6421,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Miscellaneous items for sale"
+  },
+  {
+   "id": 6422,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Missile Range Bonus"
+  },
+  {
+   "id": 6423,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Missile Reflect Chance"
+  },
+  {
+   "id": 6424,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Missile Reflect DPS"
+  },
+  {
+   "id": 6425,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Missing Latchkey Ember"
+  },
+  {
+   "id": 6426,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Missing Mod"
+  },
+  {
+   "id": 6427,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Missing Mods Detected!"
+  },
+  {
+   "id": 6428,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Missing Passkey Ember"
+  },
+  {
+   "id": 6429,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Mod Collection Details"
+  },
+  {
+   "id": 6430,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Mod Configurations"
+  },
+  {
+   "id": 6431,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Mod Details"
+  },
+  {
+   "id": 6432,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Mod Filter"
+  },
+  {
+   "id": 6433,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Mod History"
+  },
+  {
+   "id": 6434,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Mod Mode Active - Using Mod Save Folder"
+  },
+  {
+   "id": 6435,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Mod Warning"
+  },
+  {
+   "id": 6436,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Modified Damage per Second for this weapon"
+  },
+  {
+   "id": 6437,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Modified electrical damage per attack for this weapon"
+  },
+  {
+   "id": 6438,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Modified fire damage per attack for this weapon"
+  },
+  {
+   "id": 6439,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Modified ice damage per attack for this weapon"
+  },
+  {
+   "id": 6440,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Modified physical damage per attack for this weapon"
+  },
+  {
+   "id": 6441,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Modified poison damage per attack for this weapon"
+  },
+  {
+   "id": 6442,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Modifier"
+  },
+  {
+   "id": 6443,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Mods Active"
+  },
+  {
+   "id": 6444,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Mods Currently Installed"
+  },
+  {
+   "id": 6445,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Mondon's Vestment"
+  },
+  {
+   "id": 6446,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Mondons Vestment"
+  },
+  {
+   "id": 6447,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Monster! Monster!\\n\\nThere's a monster back there! I was walking along, and these soldiers came by ... I think they were soldiers ... and said there was a monster headed right toward us! They told me to run! So I dropped my pack and ran!\\n\\nDo you think the soldiers might need help? It's just ... I kind of need to go back. I left my |cFFEAAA15coinpurse|u in my pack ... but I don't want to get eaten by the monster!\\n\\nYou look trustworthy. Can I pay you to go back and retrieve my coinpurse?"
+  },
+  {
+   "id": 6448,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Monsters Exploded"
+  },
+  {
+   "id": 6449,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Monsters Killed"
+  },
+  {
+   "id": 6450,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Most Recent Mods"
+  },
+  {
+   "id": 6451,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Mountain of the Cannibal God"
+  },
+  {
+   "id": 6452,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Mute Music"
+  },
+  {
+   "id": 6453,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Mute Sound"
+  },
+  {
+   "id": 6454,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Mysterious Socket"
+  },
+  {
+   "id": 6455,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "NOTE: You may only reclaim Skill Points while your character is of level 10 or below."
+  },
+  {
+   "id": 6456,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "NOTE: You may only reclaim the last 3 Skill Points you have invested."
+  },
+  {
+   "id": 6457,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "NUM 0"
+  },
+  {
+   "id": 6458,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "NUM 1"
+  },
+  {
+   "id": 6459,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "NUM 2"
+  },
+  {
+   "id": 6460,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "NUM 3"
+  },
+  {
+   "id": 6461,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "NUM 4"
+  },
+  {
+   "id": 6462,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "NUM 5"
+  },
+  {
+   "id": 6463,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "NUM 6"
+  },
+  {
+   "id": 6464,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "NUM 7"
+  },
+  {
+   "id": 6465,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "NUM 8"
+  },
+  {
+   "id": 6466,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "NUM 9"
+  },
+  {
+   "id": 6467,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Name of the game"
+  },
+  {
+   "id": 6468,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Navigate the Maze"
+  },
+  {
+   "id": 6469,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Near My Level"
+  },
+  {
+   "id": 6470,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Needs Bell"
+  },
+  {
+   "id": 6471,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Network bytes/sec out: <STAT1> in: <STAT2>"
+  },
+  {
+   "id": 6472,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "New Game"
+  },
+  {
+   "id": 6473,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "New Game Plus"
+  },
+  {
+   "id": 6474,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "New Game Plus Rank"
+  },
+  {
+   "id": 6475,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Next Appearance"
+  },
+  {
+   "id": 6476,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Next Face"
+  },
+  {
+   "id": 6477,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Next Hair Color"
+  },
+  {
+   "id": 6478,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Next Hair Style"
+  },
+  {
+   "id": 6479,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Next Item"
+  },
+  {
+   "id": 6480,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Next Page"
+  },
+  {
+   "id": 6481,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Next Rank"
+  },
+  {
+   "id": 6482,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "No"
+  },
+  {
+   "id": 6483,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "No games found"
+  },
+  {
+   "id": 6484,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "No skills\\nto reset."
+  },
+  {
+   "id": 6485,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "None"
+  },
+  {
+   "id": 6486,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Not Logged In"
+  },
+  {
+   "id": 6487,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Not enough gold"
+  },
+  {
+   "id": 6488,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Not of This Earth"
+  },
+  {
+   "id": 6489,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Note"
+  },
+  {
+   "id": 6490,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Nothing Happens"
+  },
+  {
+   "id": 6491,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Notice"
+  },
+  {
+   "id": 6492,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Number of Players"
+  },
+  {
+   "id": 6493,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "OK"
+  },
+  {
+   "id": 6494,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "OUTLANDER CHARGE BAR"
+  },
+  {
+   "id": 6495,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Off"
+  },
+  {
+   "id": 6496,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Ogre3d\\nCEGUI\\nParticle Universe\\nFMOD\\nBink\\n"
+  },
+  {
+   "id": 6497,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Oh, how it burns"
+  },
+  {
+   "id": 6498,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Oh, thank you! Thank you! Thank you!\\n\\nHere: Take this. I know it's not much, but if I give you any more of a reward, my father will think I spent half our profits on wine!"
+  },
+  {
+   "id": 6499,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "One or more mods have been disabled since this character was last played. Continuing may result in loss of data. Check the Mod Details for more information."
+  },
+  {
+   "id": 6500,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Only people in your friends list can join your game"
+  },
+  {
+   "id": 6501,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Option3"
+  },
+  {
+   "id": 6502,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Organize Inventory"
+  },
+  {
+   "id": 6503,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Other"
+  },
+  {
+   "id": 6504,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Panel Tabs"
+  },
+  {
+   "id": 6505,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Parry Chance"
+  },
+  {
+   "id": 6506,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Particle Detail"
+  },
+  {
+   "id": 6507,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Particle Detail sets the graphical quality of particles.\\nLowering the detail improves frame rate."
+  },
+  {
+   "id": 6508,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Passive Skills"
+  },
+  {
+   "id": 6509,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Password (Optional)"
+  },
+  {
+   "id": 6510,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Password Protected"
+  },
+  {
+   "id": 6511,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Password Required"
+  },
+  {
+   "id": 6512,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Password for the game. Can be blank."
+  },
+  {
+   "id": 6513,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Pay Tribute\\n|cFFEAAA15(2500 Gold)|u"
+  },
+  {
+   "id": 6514,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Percent Dexterity Bonus"
+  },
+  {
+   "id": 6515,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Percent Focus Bonus"
+  },
+  {
+   "id": 6516,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Percent Strength Bonus"
+  },
+  {
+   "id": 6517,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Percent Vitality Bonus"
+  },
+  {
+   "id": 6518,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Percent chance to resist immobilization effects"
+  },
+  {
+   "id": 6519,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Percent of your DPS dealt when reflecting missiles"
+  },
+  {
+   "id": 6520,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Percent reduction to slowing effects"
+  },
+  {
+   "id": 6521,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Percentage increase in the amount of gold\\nfound in any loot from monsters or chests"
+  },
+  {
+   "id": 6522,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Percentage of attack damage applied to non-targeted\\nenemies within the weapon's damage arc"
+  },
+  {
+   "id": 6523,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Percentage reduction in incoming electrical damage \\nafter it has passed through any Elemental Resistance"
+  },
+  {
+   "id": 6524,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Percentage reduction in incoming fire damage \\nafter it has passed through any Elemental Resistance"
+  },
+  {
+   "id": 6525,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Percentage reduction in incoming ice damage \\nafter it has passed through any Elemental Resistance"
+  },
+  {
+   "id": 6526,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Percentage reduction in incoming physical damage \\nafter it has passed through any physical resistance"
+  },
+  {
+   "id": 6527,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Percentage reduction in incoming poison damage \\nafter it has passed through any Elemental Resistance"
+  },
+  {
+   "id": 6528,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Pet Armor"
+  },
+  {
+   "id": 6529,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Pet Consumables"
+  },
+  {
+   "id": 6530,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Pet Consumables Inventory"
+  },
+  {
+   "id": 6531,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Pet Electric Armor"
+  },
+  {
+   "id": 6532,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Pet Equipment"
+  },
+  {
+   "id": 6533,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Pet Equipment Inventory"
+  },
+  {
+   "id": 6534,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Pet Fire Armor"
+  },
+  {
+   "id": 6535,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Pet Health"
+  },
+  {
+   "id": 6536,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Pet Health and Mana"
+  },
+  {
+   "id": 6537,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Pet Ice Armor"
+  },
+  {
+   "id": 6538,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Pet Mana Pool"
+  },
+  {
+   "id": 6539,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Pet Panel"
+  },
+  {
+   "id": 6540,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Pet Panel [[KB:PetMenu]]"
+  },
+  {
+   "id": 6541,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Pet Poison Armor"
+  },
+  {
+   "id": 6542,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Pet Spells"
+  },
+  {
+   "id": 6543,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Pet Spells Inventory"
+  },
+  {
+   "id": 6544,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Pet Tag Slot\\n\\n |c00ff9933The best way to find\\nPet Tags is to fish \\nin dangerous areas!|u"
+  },
+  {
+   "id": 6545,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Pet will return from town in"
+  },
+  {
+   "id": 6546,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Phase Beast Challenge"
+  },
+  {
+   "id": 6547,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Phase Pillar Challenge"
+  },
+  {
+   "id": 6548,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Phase Room Intro Text"
+  },
+  {
+   "id": 6549,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Physical Armor"
+  },
+  {
+   "id": 6550,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Physical Damage Bonus"
+  },
+  {
+   "id": 6551,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Physical Damage Reduction"
+  },
+  {
+   "id": 6552,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Pin Open"
+  },
+  {
+   "id": 6553,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Ping"
+  },
+  {
+   "id": 6554,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Place Gem"
+  },
+  {
+   "id": 6555,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Place an item here to destroy it, and recover any socketed Gems"
+  },
+  {
+   "id": 6556,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Place an item here to destroy socketed Gems"
+  },
+  {
+   "id": 6557,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Place ingredients here"
+  },
+  {
+   "id": 6558,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Play"
+  },
+  {
+   "id": 6559,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Play a Game on the Internet"
+  },
+  {
+   "id": 6560,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Play a Game on the Internet\\n( not available in demo )"
+  },
+  {
+   "id": 6561,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Play a Game on the Local Network"
+  },
+  {
+   "id": 6562,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Play a Game on the Local Network\\n( not available in demo )"
+  },
+  {
+   "id": 6563,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Play a Single Player Game"
+  },
+  {
+   "id": 6564,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Player Is Typing"
+  },
+  {
+   "id": 6565,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Player Options"
+  },
+  {
+   "id": 6566,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Players"
+  },
+  {
+   "id": 6567,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Players In Game"
+  },
+  {
+   "id": 6568,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Please enter the account name"
+  },
+  {
+   "id": 6569,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Please wait while Mapworks creates a stable connection."
+  },
+  {
+   "id": 6570,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Please! Help me! I can't hold these things off by myself!"
+  },
+  {
+   "id": 6571,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Please! I need your help!\\n\\nSome thugs took all my money! I was coming back along the trading road, and these, these thugs just came out of nowhere! They threatened me with their swords, and then they took my |cFFEAAA15cash box|u! Oh, my father's going to kill me when he finds out!\\n\\nCan you try to get it back for me? I'll reward you if you do!"
+  },
+  {
+   "id": 6572,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Please, take this, as a token of my gratitude!"
+  },
+  {
+   "id": 6573,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Please, you must go to the mesa to the north and retrieve the Focus!"
+  },
+  {
+   "id": 6574,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Poison Armor"
+  },
+  {
+   "id": 6575,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Poison Resist"
+  },
+  {
+   "id": 6576,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Poison the spider nests."
+  },
+  {
+   "id": 6577,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Portal to Estherian City"
+  },
+  {
+   "id": 6578,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Power Source"
+  },
+  {
+   "id": 6579,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Prefix of the server name"
+  },
+  {
+   "id": 6580,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Press a key or button"
+  },
+  {
+   "id": 6581,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Press button to exit to the main menu."
+  },
+  {
+   "id": 6582,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Previous Appearance"
+  },
+  {
+   "id": 6583,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Previous Face"
+  },
+  {
+   "id": 6584,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Previous Hair Color"
+  },
+  {
+   "id": 6585,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Previous Hair Style"
+  },
+  {
+   "id": 6586,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Previous Item"
+  },
+  {
+   "id": 6587,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Previous Page"
+  },
+  {
+   "id": 6588,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Primary Weapon Set"
+  },
+  {
+   "id": 6589,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Prison Caravan"
+  },
+  {
+   "id": 6590,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Protect the Crystals From\\nthe Goblin Hordes!"
+  },
+  {
+   "id": 6591,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Purchase Shovel\\n|cFFEAAA15(1000 Gold)|u"
+  },
+  {
+   "id": 6592,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Purchase Shovel\\n|cFFEAAA15(5 Crab Legs)|u"
+  },
+  {
+   "id": 6593,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Put the lotion in the bucket!"
+  },
+  {
+   "id": 6594,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "QUEST ACCEPTED"
+  },
+  {
+   "id": 6595,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "QUIT?"
+  },
+  {
+   "id": 6596,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Quatermass and the Pit"
+  },
+  {
+   "id": 6597,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Quest Items Acquired"
+  },
+  {
+   "id": 6598,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Quest Panel"
+  },
+  {
+   "id": 6599,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Quest Reward"
+  },
+  {
+   "id": 6600,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Quests [[KB:QuestMenu]]"
+  },
+  {
+   "id": 6601,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Quit"
+  },
+  {
+   "id": 6602,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Quit Menu"
+  },
+  {
+   "id": 6603,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Quit to Main Menu"
+  },
+  {
+   "id": 6604,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "READ SCROLL"
+  },
+  {
+   "id": 6605,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "REMOVE"
+  },
+  {
+   "id": 6606,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "RMB"
+  },
+  {
+   "id": 6607,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "ROOM: <STAT1>"
+  },
+  {
+   "id": 6608,
+   "mode": "decide",
+   "ctx": "UI/exe string (no data context)",
+   "en": "Raleigh Briggs\\nJuniper Brown\\nRichard and Sandra Schaefer\\nBud and Lulu\\nTricia Lapp\\nKirk and Maria Trevor\\nNathan Rightnour\\nLienn Lefler\\nKelton Lefler\\nMarshall and Barbara Chew\\nMichael and Rita Lefler\\n"
+  }
+ ]
+}

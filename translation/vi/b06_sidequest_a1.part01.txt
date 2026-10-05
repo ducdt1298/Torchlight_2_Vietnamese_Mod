@@ -1,0 +1,76 @@
+@@ 2274
+Văn bản hoàn thành nhiệm vụ
+@@ 2275
+Lấy |cFFD1FF7A[item]|u từ |cFFD1FF7A[place]|u, ở |cFFD1FF7A[zone]|u.
+@@ 2276
+Quay về gặp |cFFD1FF7A[questNPC] ở |cFFD1FF7A[zone]|u để nhận thưởng.
+@@ 2277
+- Lấy |cFFD1FF7A[item]|u ở |cFFD1FF7A[zone]|u
+@@ 2278
+- Mang |cFFD1FF7AArmor Schematics|u về cho |cFFD1FF7AVanquisher Scout|u
+@@ 2279
+Văn bản giới thiệu nhiệm vụ
+@@ 2280
+Văn bản khi quay lại gặp NPC nhiệm vụ
+@@ 2281
+Làm tốt lắm! Tôi chắc Commander Vale sẽ không phản đối việc tôi thưởng cho bạn vì đã phục vụ Empire. Cầm lấy này: tôi chỉ có chừng này thôi, nhưng hãy biết rằng bạn còn có cả lòng biết ơn của tôi nữa!
+@@ 2282
+Lấy |cFFD1FF7AArmor Schematics|u từ |cFFD1FF7ABeast Warrens|u, ở |cFFD1FF7ATemple Steppes|u.
+@@ 2283
+Quay về gặp |cFFD1FF7AVanquisher Scout|u ở |cFFD1FF7AEnclave|u để nhận thưởng.
+@@ 2284
+- Lấy |cFFD1FF7AArmor Schematics|u từ các thợ rèn Sturmbeorn ở |cFFD1FF7AThe Temple Steppes|u
+@@ 2285
+Nếu bạn định ra |cFFD1FF7ATemple Steppes|u thì tôi đang cần bạn giúp một tay. Bọn Sturmbeorn đã dựng một lò rèn tạm bợ ở đó, với hai thợ rèn chuyên làm giáp cho lũ Warbeast hoang dã mà chúng bắt được.\n\nCó vẻ bọn Sturmbeorn đó làm theo bản thiết kế, nhưng chúng cất giữ rất cẩn mật. Bạn nghĩ mình có thể lẻn vào đó và lấy |cFFD1FF7AArmor Schematics|u không?
+@@ 2286
+Bọn Sturmbeorn đã gom một đám Warbeast để làm quân xung kích, và giờ chúng đang bắt vít từng tấm giáp lên mình lũ thú đó. Lúc bình thường lũ này đã nguy hiểm lắm rồi, giờ có thêm lớp giáp đó thì lại càng khó giết hơn. Vì thế chúng ta cần tìm hiểu xem bọn Sturmbeorn đã thiết kế bộ giáp ra sao; chắc chắn phải có điểm yếu ở đâu đó.
+@@ 2287
+Nạn nấm ký sinh à? Chuyện gớm thật!\n\nDù sao thì bạn đã làm rất xuất sắc... và bạn xứng đáng với từng chút một của phần thưởng này!
+@@ 2288
+Đến |cFFD1FF7ABone Defile|u ở |cFFD1FF7ATemple Steppes|u và tìm hiểu điều gì đang khiến bầy Warbeast bất ổn.
+@@ 2289
+Quay về gặp |cFFD1FF7AImperial Trapper|u để nhận thưởng.
+@@ 2290
+- Điều tra |cFFD1FF7AWarbeast Lair|u
+@@ 2291
+Tôi được giao việc săn bớt lũ Warbeast ở đây, phục vụ công cuộc thuộc địa hóa của Empire. Tôi có thể giữ cho số lượng của chúng ở mức thấp, nhưng có thứ gì đó đang khiến chúng phát cuồng, cứ như bị dại hay sao ấy.\n\nBạn có thể vào |cFFD1FF7AWarbeast Den|u ở |cFFD1FF7ABone Defile|u và diệt trừ thứ đang khiến chúng hung dữ như vậy không?
+@@ 2292
+Vụ lũ Warbeast tới đâu rồi? Đã có manh mối gì về thứ khiến chúng hung hăng như vậy chưa?
+@@ 2293
+Chính nó đây! Golden Gear! Thay mặt toàn thể người Zeraphi, tôi xin cảm ơn bạn. Có lẽ chính thứ này sẽ xoay chuyển cục diện trận chiến theo hướng có lợi cho chúng tôi! Giờ tôi chỉ có thể trả công cho bạn bằng thứ này, nhưng nếu có dịp đến Zeryphesh, hãy tìm tôi và tôi sẽ ban cho bạn một phần thưởng xứng đáng!
+@@ 2294
+Tìm |cFFD1FF7AWhispering Cave|u ở |cFFD1FF7AFrosted Hills|u và lấy lại |cFFD1FF7AGolden Gear|u.
+@@ 2295
+Mang |cFFD1FF7AGolden Gear|u về cho |cFFD1FF7AAmbassador Taldimut|u ở |cFFD1FF7AFrosted Hills|u
+@@ 2296
+- Lấy |cFFD1FF7AGolden Gear|u từ |cFFD1FF7AWhispering Cave|u
+@@ 2297
+- Mang |cFFD1FF7AGolden Gear|u về cho |cFFD1FF7AAmbassador Taldimut|u
+@@ 2298
+Có vẻ người Estherian đã cất giấu |cFFD1FF7AGolden Gear|u trong |cFFD1FF7AWhispering Cave|u để chúng tôi không thể tìm ra, chứ đừng nói là đoạt lại. Họ đã mã hóa vị trí hang động vào ba tấm huy hiệu đó để chính họ có thể lấy lại nó... nhưng rồi lại đánh mất các huy hiệu.\n\nXin bạn, vì người Zeraphi: hãy đến |cFFD1FF7AWhispering Cave|u, lấy |cFFD1FF7AGolden Gear|u và mang nó về cho tôi.
+@@ 2299
+Tôi vẫn tiếp tục nghiên cứu các tấm huy hiệu, và giờ tôi tin chắc hơn bao giờ hết rằng Golden Gear được giấu trong Whispering Cave. Nếu bạn lấy được nó, tôi có thể mang nó về Zeryphesh để giúp thành phố chống lại cuộc vây hãm của quân Ezrohir.
+@@ 2300
+"Nó nằm trong băng. Ai biết đã bao lâu rồi? Nhưng nó chưa chết. Và giờ nó đang ẩn nấp, đâu đó quanh đây... trong một người trong số chúng tôi. Chúng tôi đã phát hiện ra nó trong Bennings, nhưng rồi Fuchs biến mất. Nó vẫn còn ở đây, và nó đang tìm đường thoát ra. Nếu nó thoát ra thế giới bên ngoài, nó có thể lây nhiễm cho tất cả mọi người, ở khắp mọi nơi. Nhiều nhất là ba năm. Cầu xin các Guardian tha thứ cho chúng tôi vì thứ mà chúng tôi đã thả ra thế gian này."
+@@ 2301
+Bạn đã hóa giải lời nguyền mà tôi tự chuốc lấy, và nỗi dày vò của tôi cuối cùng cũng chấm dứt. Tôi nghĩ mình sẽ nán lại đây một thời gian trước khi về nơi an nghỉ cuối cùng. Có lẽ, ít nhất thì tôi cũng sẽ kể câu chuyện của mình cho những kẻ định làm trộm, để cứu họ khỏi một số phận tương tự...
+@@ 2302
+Đi qua |cFFD1FF7ATreasury Portal|u và đưa |cFFD1FF7AGlyph of Balthazar|u về đúng chỗ của nó ở |cFFD1FF7AWellspring Basin|u.
+@@ 2303
+- Vào |cFFD1FF7AWellspring Treasury|u qua cổng dịch chuyển ở |cFFD1FF7ATemple Steppes|u
+@@ 2304
+- Đưa |cFFD1FF7AGlyph of Balthazar|u về |cFFD1FF7AWellspring Basin|u
+@@ 2305
+Tôi chỉ còn là một linh hồn, nhưng tôi không có ý hại bạn. Khi còn sống, tôi là một tên trộm đầy tham vọng, và tôi tưởng mình là bất khả chiến bại. Thành tựu lớn nhất của tôi là đánh cắp |cFFD1FF7AGlyph of Balthazar|u từ |cFFD1FF7AWellspring Treasury|u. Tôi tưởng mình có thể làm chủ quyền năng điều khiển nước của nó, nhưng tôi đã sai, sai lầm vô cùng.\n\nGiờ tôi bị giam cầm ở đây trong nỗi dày vò vĩnh viễn, không thể sửa chữa sai lầm của mình. Bạn có thể đưa |cFFD1FF7AGlyph of Balthazar|u về |cFFD1FF7AWellspring Basin|u, để linh hồn tôi cuối cùng cũng được giải thoát không?
+@@ 2306
+Thời còn sống, tôi là một kẻ tội phạm... một tên trộm tự phụ và đầy tham vọng. Tôi đột nhập vào các lăng mộ và trộm đồ của người chết, chỉ để danh tiếng của mình thêm vang dội. Nhưng tôi đã quá tự phụ. Tôi đã đánh cắp Glyph of Balthazar. Guardian of Water đã cố cảnh báo tôi phải trả lại Glyph, nhưng tôi vẫn quá tự phụ.\n\nTôi tưởng mình có thể điều khiển sức mạnh của nó, và ở một mức độ nào đó, tôi đã làm được. Nhưng khi tôi thử dùng nó để đi trên mặt sông... nó hút sức mạnh từ dòng sông và quay lại chống lại tôi. Chẳng bao lâu sau, phổi tôi ngập đầy nước, ngay cả khi đang ở trên cạn. Giờ đây linh hồn tôi phải chết đuối đến muôn đời.
+@@ 2307
+Có vẻ như tôi vẫn chưa xứng đáng được yên nghỉ vĩnh hằng. Dù vậy, phần của bạn trong câu chuyện của tôi đã xong, và nếu lòng biết ơn của tôi có ý nghĩa gì với bạn, thì bạn đã có nó.
+@@ 2308
+Đánh bại |cFFD1FF7ACaptain Willy|u ở |cFFD1FF7APlunder Cove|u.
+@@ 2309
+- Vào |cFFD1FF7APlunder Cove|u qua cổng dịch chuyển ở |cFFD1FF7ATemple Steppes|u\n
+@@ 2310
+- Đánh bại |cFFD1FF7ACaptain Willy|u
+@@ 2311
+Tôi không có ý hại bạn; tôi chỉ là một linh hồn cô độc, bị mắc kẹt ở thế giới bên kia. Bị lũ đồng bọn gian ác phản bội và dìm chết, tôi lưu lại nơi đây, mãi sống lại giây phút cuối đời mình, chờ đợi trong vô vọng ngày cái chết của mình được báo thù.\n\nNhưng đã hơn một trăm năm kể từ khi tôi trút hơi thở cuối cùng, và cũng gần ngần ấy năm kể từ khi chính những kẻ đã sát hại tôi bỏ mạng, tại nơi ẩn náu bí mật của chúng ở |cFFD1FF7APlunder Cove|u. Hãy đi qua cổng dịch chuyển này và tìm kẻ cầm đầu của chúng, |cFFD1FF7ACaptain Willy|u. Hãy cho hắn thấy rằng công lý chưa hề quên hắn... và cũng chưa hề tha thứ cho hắn!

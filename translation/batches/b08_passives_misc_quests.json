@@ -1,0 +1,2094 @@
+{
+ "batch": "b08_passives_misc_quests",
+ "count": 348,
+ "items": [
+  {
+   "id": 2596,
+   "mode": "translate",
+   "ctx": "QUESTS/A1Z1-BOUNTYBOARD2.DAT | COMPLETE | DIALOG",
+   "en": "The Empire thanks you for your valuable service, and wishes to reward you!"
+  },
+  {
+   "id": 2597,
+   "mode": "translate",
+   "ctx": "QUESTS/A1Z1-BOUNTYBOARD2.DAT | DETAILS | DIALOG",
+   "en": "Kill 10 |cFFA1D0FCSturmbeorn|u in the |cFFA1D0FCTemple Steppes|u, then return to the |cFFA1D0FCBounty Board|u in the |cFFA1D0FCEstherian Enclave|u for your reward."
+  },
+  {
+   "id": 2598,
+   "mode": "translate",
+   "ctx": "QUESTS/A1Z1-BOUNTYBOARD2.DAT | HUDDETAILS | DIALOG",
+   "en": "- Kill [DEFEAT1COUNT]/[DEFEATCOUNT] |cFFA1D0FCSturmbeorn|u in the |cFFA1D0FCTemple Steppes|u"
+  },
+  {
+   "id": 2599,
+   "mode": "translate",
+   "ctx": "QUESTS/A1Z1-BOUNTYBOARD2.DAT | HUDDETAILS | DIALOG_COMPLETE",
+   "en": "- Return to |cFFA1D0FCBounty Board|u in |cFFA1D0FCEstherian Enclave|u for reward"
+  },
+  {
+   "id": 2600,
+   "mode": "translate",
+   "ctx": "QUESTS/A1Z1-BOUNTYBOARD2.DAT | INTRO | DIALOG",
+   "en": "BOUNTY!\\n\\nThe Sturmbeorn raiders are a threat to the Estherian people and to the brave settlers of the Empire. Commander Vale is authorized to pay a reward to anyone who assists the Vanquisher Corps in ridding the |cFFA1D0FCTemple Steppes|u of these savage brutes.\\n\\nThis bounty shall be paid to anyone who slays 10 or more |cFFA1D0FCSturmbeorn|u in the |cFFA1D0FCTemple Steppes|u."
+  },
+  {
+   "id": 2601,
+   "mode": "translate",
+   "ctx": "QUESTS/A1Z1-BOUNTYBOARD2.DAT | RETURN | DIALOG",
+   "en": "The Sturmbeorn have been conducting raids in northeastern Vilderan for generations. However, their current leader, General Grell, has brought them together in unprecedented numbers. So long as Grell and his Sturmbeorn are able to roam the area freely, the Temple Steppes will not be safe for either the Estherians or the Empire's subjects settling in Vilderan."
+  },
+  {
+   "id": 2602,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-CONTINUE_TO_ACT3.DAT | PASSIVE | DIALOG",
+   "en": "Are you sure you want to go out there?  Maybe you should have a word with Professor Stoker, first."
+  },
+  {
+   "id": 2603,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-CONTINUE_TO_ACT3.DAT | PASSIVE | DIALOG",
+   "en": "Do not worry about us.  Zeryphesh is safe, now that you have rescued the Guardian of Mana from the Ezrohir.  Find the Alchemist.  Stopping him is the key to saving the world."
+  },
+  {
+   "id": 2604,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-CONTINUE_TO_ACT3.DAT | PASSIVE | DIALOG",
+   "en": "I appreciate you coming all the way back here, but shouldn't you be going after the Alchemist?"
+  },
+  {
+   "id": 2605,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-CONTINUE_TO_ACT3.DAT | PASSIVE | DIALOG",
+   "en": "Is it true?  The Ezrohir are defeated?"
+  },
+  {
+   "id": 2606,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-CONTINUE_TO_ACT3.DAT | PASSIVE | DIALOG",
+   "en": "Just because this mana rift didn't pan out, that doesn't mean there's not another one on my surveys that might work much, much better!  It's just going to take a while to determine which mana rift is the best bet."
+  },
+  {
+   "id": 2607,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-CONTINUE_TO_ACT3.DAT | PASSIVE | DIALOG",
+   "en": "Thank you again, my friend.  When we've recovered from our injuries, we'll retrieve our companions from the Undercurrents and return to help defend Zeryphesh."
+  },
+  {
+   "id": 2608,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-CONTINUE_TO_ACT3.DAT | PASSIVE | DIALOG",
+   "en": "That's the last of the bodies ... everyone's accounted for.  Can you let Professor Stoker know?"
+  },
+  {
+   "id": 2609,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-CONTINUE_TO_ACT3.DAT | PASSIVE | DIALOG",
+   "en": "The Alchemist just murdered a lot of good people, for no reason at all!  You haven't talked to the Professor, have you?"
+  },
+  {
+   "id": 2610,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-CONTINUE_TO_ACT3.DAT | PASSIVE | DIALOG",
+   "en": "The Alchemist tore us up ... killed a lot of good people.  The Professor can tell you more."
+  },
+  {
+   "id": 2611,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-CONTINUE_TO_ACT3.DAT | PASSIVE | DIALOG",
+   "en": "The Alchemist went through us like we weren't even here.  Went through the Great Door.  Professor Stoker's over there now."
+  },
+  {
+   "id": 2612,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-CONTINUE_TO_ACT3.DAT | PASSIVE | DIALOG",
+   "en": "The Ezrohir are in flight, and word is getting back from Zeryphesh that their defeat is your doing, and that the Guardian of Mana is safe.  Outstanding work, human!"
+  },
+  {
+   "id": 2613,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-CONTINUE_TO_ACT3.DAT | PASSIVE | DIALOG",
+   "en": "Unless it's an emergency, I have to keep this gate closed.  If any of the ... things on the other side get in here, they'll finish what the Alchemist started."
+  },
+  {
+   "id": 2614,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-CONTINUE_TO_ACT3.DAT | PASSIVE | DIALOG",
+   "en": "We've got a lot of injuries, here ... but it could've been a lot worse.  As powerful as the Alchemist is, we got real lucky."
+  },
+  {
+   "id": 2615,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-CONTINUE_TO_ACT3.DAT | PASSIVE | DIALOG",
+   "en": "What in the name of the Guardians are you doing back here?  We've got the Estherian Steppes handled."
+  },
+  {
+   "id": 2616,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-CONTINUE_TO_ACT3.DAT | PASSIVE | DIALOG",
+   "en": "You got here just a little too late; you just missed the Alchemist.  You'll probably want to talk to Professor Stoker."
+  },
+  {
+   "id": 2617,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-CONTINUE_TO_ACT3.DAT | PASSIVE | DIALOG",
+   "en": "You've given us a fighting chance, hero.  Thank you."
+  },
+  {
+   "id": 2618,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-DEFEAT_MANA_GUARDIAN.DAT | PASSIVE | DIALOG",
+   "en": "Congratulations!  And ... thank you."
+  },
+  {
+   "id": 2619,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-DEFEAT_MANA_GUARDIAN.DAT | PASSIVE | DIALOG",
+   "en": "I am actually quite relieved that I was never called upon to fight ..."
+  },
+  {
+   "id": 2620,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-DEFEAT_MANA_GUARDIAN.DAT | PASSIVE | DIALOG",
+   "en": "I have honored my bargain!  To trouble me further is to invoke my wrath!"
+  },
+  {
+   "id": 2621,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-DEFEAT_MANA_GUARDIAN.DAT | PASSIVE | DIALOG",
+   "en": "My power is drained ... but it is the nature of magic that it will return to me sevenfold."
+  },
+  {
+   "id": 2622,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-DEFEAT_MANA_GUARDIAN.DAT | PASSIVE | DIALOG",
+   "en": "No ... no ... no!  The welds aren't holding!  Come on, you miserable hunk of scrap!"
+  },
+  {
+   "id": 2623,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-DEFEAT_MANA_GUARDIAN.DAT | PASSIVE | DIALOG",
+   "en": "Now that you have defeated the Ezrohir sorcerer in the tower, Zeryphesh is a great deal safer.  We still have to prepare ourselves for the coming siege ... but you've made that task a lot easier!"
+  },
+  {
+   "id": 2624,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-DEFEAT_MANA_GUARDIAN.DAT | PASSIVE | DIALOG",
+   "en": "One more hour!  That's all I need!"
+  },
+  {
+   "id": 2625,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-DEFEAT_MANA_GUARDIAN.DAT | PASSIVE | DIALOG",
+   "en": "Praise the day you came to our city!"
+  },
+  {
+   "id": 2626,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-DEFEAT_MANA_GUARDIAN.DAT | PASSIVE | DIALOG",
+   "en": "The Alchemist must have fled when he saw that the Ezrohir could not further his goals.  He cannot be far ahead of you, now!"
+  },
+  {
+   "id": 2627,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-DEFEAT_MANA_GUARDIAN.DAT | PASSIVE | DIALOG",
+   "en": "The people of Zeryphesh will long remember what you did here today."
+  },
+  {
+   "id": 2628,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-DEFEAT_MANA_GUARDIAN.DAT | PASSIVE | DIALOG",
+   "en": "Well done, human. Well done."
+  },
+  {
+   "id": 2629,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-DEFEAT_MANA_GUARDIAN.DAT | PASSIVE | DIALOG",
+   "en": "Well done, my friend.  Well done."
+  },
+  {
+   "id": 2630,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-DEFEAT_MANA_GUARDIAN.DAT | PASSIVE | DIALOG",
+   "en": "You have done the Zeraphi an amazing service ... and we will never forget."
+  },
+  {
+   "id": 2631,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-DEFEAT_MANA_GUARDIAN.DAT | PASSIVE | DIALOG",
+   "en": "You have done well, human.  The Zeraphi owe you a tremendous debt."
+  },
+  {
+   "id": 2632,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-DEFEAT_MANA_GUARDIAN.DAT | PASSIVE | DIALOG",
+   "en": "Zeryphesh is saved!"
+  },
+  {
+   "id": 2633,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-DJINNI_1ST_TASK.DAT | PASSIVE | DIALOG",
+   "en": "Any luck out in the Salt Barrens?  Rescue that Guardian yet?"
+  },
+  {
+   "id": 2634,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-DJINNI_1ST_TASK.DAT | PASSIVE | DIALOG",
+   "en": "Did you disturb any Dustwings, while you were out in the Salt Barrens?  You must've gotten too close to the Swarmstacks."
+  },
+  {
+   "id": 2635,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-DJINNI_1ST_TASK.DAT | PASSIVE | DIALOG",
+   "en": "Do you really think that Fazeer Shah is going to help you out of the goodness of his heart?  It is not in that monster's nature!"
+  },
+  {
+   "id": 2636,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-DJINNI_1ST_TASK.DAT | PASSIVE | DIALOG",
+   "en": "Enslaved to the Ezrohir, the Guardian of Mana is a potent weapon.  We must do whatever it takes to release her from their control."
+  },
+  {
+   "id": 2637,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-DJINNI_1ST_TASK.DAT | PASSIVE | DIALOG",
+   "en": "Fazeer Shah had you to steal something from the Tu'tara?  What could they possibly have had that he would want?"
+  },
+  {
+   "id": 2638,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-DJINNI_1ST_TASK.DAT | PASSIVE | DIALOG",
+   "en": "Getting into Riftkeep to rescue the Guardian of Mana won't be easy.  You'll almost certainly have to use the Witherways, which means fighting your way through a host of Ezrohir warriors."
+  },
+  {
+   "id": 2639,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-DJINNI_1ST_TASK.DAT | PASSIVE | DIALOG",
+   "en": "How are things going with Fazeer Shah?"
+  },
+  {
+   "id": 2640,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-DJINNI_1ST_TASK.DAT | PASSIVE | DIALOG",
+   "en": "How's it look in the Salt Barrens?  Any sign of the Ezrohir advancing toward the city?"
+  },
+  {
+   "id": 2641,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-DJINNI_1ST_TASK.DAT | PASSIVE | DIALOG",
+   "en": "I wish I could help, but this Embercraft is my only real weapon ... and it's not going anywhere, anytime soon."
+  },
+  {
+   "id": 2642,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-DJINNI_1ST_TASK.DAT | PASSIVE | DIALOG",
+   "en": "If you can't find anything of value in the shipwrecks of the Sand Shoals, it could be that something else out there has already been there, looting.  The Ezrohir, perhaps?"
+  },
+  {
+   "id": 2643,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-DJINNI_1ST_TASK.DAT | PASSIVE | DIALOG",
+   "en": "If you defeat the Ezrohir at Riftkeep, and free the Guardian of Mana, this war will basically be over.  Do you think you can do it?"
+  },
+  {
+   "id": 2644,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-DJINNI_1ST_TASK.DAT | PASSIVE | DIALOG",
+   "en": "Is Fazeer Shah as mad as they say?"
+  },
+  {
+   "id": 2645,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-DJINNI_1ST_TASK.DAT | PASSIVE | DIALOG",
+   "en": "Is it always this nerve-wracking?  Waiting for a battle to start?"
+  },
+  {
+   "id": 2646,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-DJINNI_1ST_TASK.DAT | PASSIVE | DIALOG",
+   "en": "It doesn't make any sense:  The Alchemist captured the Guardian of Mana ... then turned her over to the Ezrohir and just left?  Why hasn't he attacked us?"
+  },
+  {
+   "id": 2647,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-DJINNI_1ST_TASK.DAT | PASSIVE | DIALOG",
+   "en": "Now that the Crab King is gone, the crabs should disperse, as well.  The Zeraphi will recover the weapons the Crab King gathered, and dispose of them safely.  At the very least, the Ezrohir won't be using them against Zeryphesh."
+  },
+  {
+   "id": 2648,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-DJINNI_1ST_TASK.DAT | PASSIVE | DIALOG",
+   "en": "Rumor is that you're working with the djinni, Fazeer Shah, to find a way to free the Guardian of Mana."
+  },
+  {
+   "id": 2649,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-DJINNI_1ST_TASK.DAT | PASSIVE | DIALOG",
+   "en": "The Alchemist enslaved the Guardian of Mana for the Ezrohir?  Why would he do that?"
+  },
+  {
+   "id": 2650,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-DJINNI_1ST_TASK.DAT | PASSIVE | DIALOG",
+   "en": "The Ancient Vaults of Chaos are full of old artifacts ... things we Zeraphi sealed away, lest they fall into the wrong hands.  The Ezrohir are almost certainly there, looting the place, as we speak."
+  },
+  {
+   "id": 2651,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-DJINNI_1ST_TASK.DAT | PASSIVE | DIALOG",
+   "en": "The Ezrohir have to be on their way here by now! The siege could start at any moment!"
+  },
+  {
+   "id": 2652,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-DJINNI_1ST_TASK.DAT | PASSIVE | DIALOG",
+   "en": "The Ezrohir's plans may have been undone by the loss of the Artificer.  This might explain why they are delaying, out in the Salt Barrens."
+  },
+  {
+   "id": 2653,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-DJINNI_1ST_TASK.DAT | PASSIVE | DIALOG",
+   "en": "The siege will begin soon.  I hope we're ready for it."
+  },
+  {
+   "id": 2654,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-DJINNI_1ST_TASK.DAT | PASSIVE | DIALOG",
+   "en": "The walls are suddenly no longer the weak point; the Guardian of Mana can fly over them at will ... or simply appear here, in the heart of the city."
+  },
+  {
+   "id": 2655,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-DJINNI_1ST_TASK.DAT | PASSIVE | DIALOG",
+   "en": "We need to move the battle out, away from the city ... attack the Ezrohir while they're still in the desert."
+  },
+  {
+   "id": 2656,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-DJINNI_1ST_TASK.DAT | PASSIVE | DIALOG",
+   "en": "When Fazeer Shah sets you on a quest, you can be sure that, ultimately, it benefits him.  Those djinn never do anything without some ulterior motive."
+  },
+  {
+   "id": 2657,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-DJINNI_1ST_TASK.DAT | PASSIVE | DIALOG",
+   "en": "With the Guardian of Mana on their side, we have virtually no hope of surviving the Ezrohir attack.\\n"
+  },
+  {
+   "id": 2658,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-DJINNI_1ST_TASK.DAT | PASSIVE | DIALOG",
+   "en": "Without the Artificer, the Ezrohir may have to rely on the Alchemist to do their planning, and he seems like he has an agenda very different from theirs."
+  },
+  {
+   "id": 2659,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-DJINNI_2ND_TASK.DAT | PASSIVE | DIALOG",
+   "en": "Could it be that the Alchemist got what he wanted from the Guardian, and then moved on to the next part of his plan?"
+  },
+  {
+   "id": 2660,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-DJINNI_2ND_TASK.DAT | PASSIVE | DIALOG",
+   "en": "Did you investigate the Ancient Vaults of Chaos?  Did you find anything there that might help you rescue the Guardian ... or help us hold off the Ezrohir?"
+  },
+  {
+   "id": 2661,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-DJINNI_2ND_TASK.DAT | PASSIVE | DIALOG",
+   "en": "Fazeer Shah sent you to wipe out the Tu'tara?  I don't understand.  Why would he do that?"
+  },
+  {
+   "id": 2662,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-DJINNI_2ND_TASK.DAT | PASSIVE | DIALOG",
+   "en": "Having any luck out in the Salt Barrens?  Any sign of the Guardian of Mana?"
+  },
+  {
+   "id": 2663,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-DJINNI_2ND_TASK.DAT | PASSIVE | DIALOG",
+   "en": "How did the Alchemist get powerful enough to subdue even one Guardian ... let alone three?"
+  },
+  {
+   "id": 2664,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-DJINNI_2ND_TASK.DAT | PASSIVE | DIALOG",
+   "en": "I can help, but I need more time to finish repairs.  Can you buy me half a day?  Maybe a little more?"
+  },
+  {
+   "id": 2665,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-DJINNI_2ND_TASK.DAT | PASSIVE | DIALOG",
+   "en": "If the Ezrohir forces arrive with the Guardian of Mana leading them, Zeryphesh is doomed."
+  },
+  {
+   "id": 2666,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-DJINNI_2ND_TASK.DAT | PASSIVE | DIALOG",
+   "en": "If you cannot defeat the Ezrohir, at least sell your life dearly!"
+  },
+  {
+   "id": 2667,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-DJINNI_2ND_TASK.DAT | PASSIVE | DIALOG",
+   "en": "If you see the Ezrohir army moving toward the city, please:  Send word immediately."
+  },
+  {
+   "id": 2668,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-DJINNI_2ND_TASK.DAT | PASSIVE | DIALOG",
+   "en": "Is Fazeer Shah insane, or he is deliberately delaying you?  Is this some petty vengeance for Malik Vosh imprisoning him, so long ago?"
+  },
+  {
+   "id": 2669,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-DJINNI_2ND_TASK.DAT | PASSIVE | DIALOG",
+   "en": "It's very brave of you to face the challenges of the djinni, on our behalf."
+  },
+  {
+   "id": 2670,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-DJINNI_2ND_TASK.DAT | PASSIVE | DIALOG",
+   "en": "Keep your wits about you, if you're dealing with Fazeer Shah!  Nothing he says is exactly as it seems!"
+  },
+  {
+   "id": 2671,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-DJINNI_2ND_TASK.DAT | PASSIVE | DIALOG",
+   "en": "The Ezrohir seem to be in disarray.  They are taking much longer to marshal their forces than we expected."
+  },
+  {
+   "id": 2672,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-DJINNI_2ND_TASK.DAT | PASSIVE | DIALOG",
+   "en": "The Salt Barrens used to be a harbor town, until Fazeer Shah and Ezrek Khan started fighting.  Remember that, if you ever start thinking that either of those djinn are on your side."
+  },
+  {
+   "id": 2673,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-DJINNI_2ND_TASK.DAT | PASSIVE | DIALOG",
+   "en": "The djinn aren't like humans, or Zeraphi, or even the Guardians.  Theirs is an ancient magic, that doesn't follow any understood rules of alchemy or elementalism."
+  },
+  {
+   "id": 2674,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-DJINNI_2ND_TASK.DAT | PASSIVE | DIALOG",
+   "en": "The word is that you've already faced the djinni's challenges, but he's given you another one.  How many more will you have to face, before he helps you free the Guardian of Mana?"
+  },
+  {
+   "id": 2675,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-DJINNI_2ND_TASK.DAT | PASSIVE | DIALOG",
+   "en": "Waiting for the attack is the worst part."
+  },
+  {
+   "id": 2676,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-DJINNI_2ND_TASK.DAT | PASSIVE | DIALOG",
+   "en": "We aren't ready for the siege yet.  Even if you can't rescue the Guardian of Mana, we need you to buy us some time, to finish preparing our defenses."
+  },
+  {
+   "id": 2677,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-DJINNI_2ND_TASK.DAT | PASSIVE | DIALOG",
+   "en": "What reason would Fazeer Shah have for helping you?  Why all these games?  Are you sure the djinni isn't just trying to get you killed?"
+  },
+  {
+   "id": 2678,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-DJINNI_2ND_TASK.DAT | PASSIVE | DIALOG",
+   "en": "Why can't Fazeer Shah just open a portal into the heart of Riftkeep?  You could rescue the Guardian of Mana and be out before the Ezrohir knew you were there!"
+  },
+  {
+   "id": 2679,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-DJINNI_2ND_TASK.DAT | PASSIVE | DIALOG",
+   "en": "Without the Artificer, the Ezrohir may have to rely on the Alchemist to do their planning, and his agenda is no doubt very different from theirs."
+  },
+  {
+   "id": 2680,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-DJINNI_2ND_TASK.DAT | PASSIVE | DIALOG",
+   "en": "You were in some sort of Nether-version of the Empty Quarter?  That's … unsettling, because there was a strange, cold wind blowing out of the Empty Quarter while you were gone."
+  },
+  {
+   "id": 2681,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-DJINNI_2ND_TASK.DAT | PASSIVE | DIALOG",
+   "en": "You've been out there.  You've faced the Ezrohir ... seen the strength of their army.  Do you think we have a chance?"
+  },
+  {
+   "id": 2682,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-DJINNI_3RD_TASK.DAT | PASSIVE | DIALOG",
+   "en": "All we can do now is pray to the Guardians that you succeed.  If you fail, it will take every one of us to defend the city."
+  },
+  {
+   "id": 2683,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-DJINNI_3RD_TASK.DAT | PASSIVE | DIALOG",
+   "en": "Are the Ezrohir stirring from their stronghold at all?"
+  },
+  {
+   "id": 2684,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-DJINNI_3RD_TASK.DAT | PASSIVE | DIALOG",
+   "en": "Are you any closer to freeing the Guardian of Mana?"
+  },
+  {
+   "id": 2685,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-DJINNI_3RD_TASK.DAT | PASSIVE | DIALOG",
+   "en": "Argh!  If it's not one thing, it's another!  Where's my calipers?"
+  },
+  {
+   "id": 2686,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-DJINNI_3RD_TASK.DAT | PASSIVE | DIALOG",
+   "en": "Can you rescue the Guardian of Mana?  Or is it too late for that now?"
+  },
+  {
+   "id": 2687,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-DJINNI_3RD_TASK.DAT | PASSIVE | DIALOG",
+   "en": "Did Fazeer Shah at least tell you how to rescue the Guardian of Mana, without killing her?"
+  },
+  {
+   "id": 2688,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-DJINNI_3RD_TASK.DAT | PASSIVE | DIALOG",
+   "en": "Did the djinni tell you how to rescue the Guardian of Mana?"
+  },
+  {
+   "id": 2689,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-DJINNI_3RD_TASK.DAT | PASSIVE | DIALOG",
+   "en": "I am prepared for battle ... but I would be just as content for you to free the Guardian of Mana and end this right now."
+  },
+  {
+   "id": 2690,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-DJINNI_3RD_TASK.DAT | PASSIVE | DIALOG",
+   "en": "If the Guardian of Mana leads the Ezrohir to attack us, at least the siege will be brief."
+  },
+  {
+   "id": 2691,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-DJINNI_3RD_TASK.DAT | PASSIVE | DIALOG",
+   "en": "If you see any sign of the Ezrohir heading toward the city, you must inform us at once!"
+  },
+  {
+   "id": 2692,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-DJINNI_3RD_TASK.DAT | PASSIVE | DIALOG",
+   "en": "Is that it, then?  No more crazy djinni errands?  Now you can go rescue the Guardian of Mana?"
+  },
+  {
+   "id": 2693,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-DJINNI_3RD_TASK.DAT | PASSIVE | DIALOG",
+   "en": "Is there any chance that it's too late?  That the Guardian of Mana is too far gone to rescue?"
+  },
+  {
+   "id": 2694,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-DJINNI_3RD_TASK.DAT | PASSIVE | DIALOG",
+   "en": "It cannot be much longer now.  A confrontation of some kind is inevitable; it merely remains to be seen where, exactly."
+  },
+  {
+   "id": 2695,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-DJINNI_3RD_TASK.DAT | PASSIVE | DIALOG",
+   "en": "Of course you have to break down in the desert in the hottest part of the year ...!"
+  },
+  {
+   "id": 2696,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-DJINNI_3RD_TASK.DAT | PASSIVE | DIALOG",
+   "en": "Sounds like you're in the final stretch.  Good luck.  We know you'll do your best."
+  },
+  {
+   "id": 2697,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-DJINNI_3RD_TASK.DAT | PASSIVE | DIALOG",
+   "en": "That place Fazeer Shah sent you ... it might have been the Nether, or at least a place very close to it."
+  },
+  {
+   "id": 2698,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-DJINNI_3RD_TASK.DAT | PASSIVE | DIALOG",
+   "en": "The Ezrohir may not be prepared to mount their siege quite yet.  Perhaps the Guardian of Mana is being ... difficult."
+  },
+  {
+   "id": 2699,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-DJINNI_3RD_TASK.DAT | PASSIVE | DIALOG",
+   "en": "The way is clear for you to free the Guardian of Mana now, correct?"
+  },
+  {
+   "id": 2700,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-DJINNI_3RD_TASK.DAT | PASSIVE | DIALOG",
+   "en": "This is the burden of immortality:  You live long enough to see the death of your entire civilization ..."
+  },
+  {
+   "id": 2701,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-DJINNI_3RD_TASK.DAT | PASSIVE | DIALOG",
+   "en": "What did you learn from Fazeer Shah?  Can you free the Guardian?"
+  },
+  {
+   "id": 2702,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-DJINNI_3RD_TASK.DAT | PASSIVE | DIALOG",
+   "en": "What if this is another of the djinni's tests?  What if Fazeer Shah wants the Guardian of Mana to die?"
+  },
+  {
+   "id": 2703,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-DJINNI_3RD_TASK.DAT | PASSIVE | DIALOG",
+   "en": "When the Ezrohir come, it would be an honor to fight beside you."
+  },
+  {
+   "id": 2704,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-DJINNI_3RD_TASK.DAT | PASSIVE | DIALOG",
+   "en": "Why have the Ezrohir not attacked yet?"
+  },
+  {
+   "id": 2705,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-DJINNI_3RD_TASK.DAT | PASSIVE | DIALOG",
+   "en": "Zeryphesh is as ready as it will ever be ..."
+  },
+  {
+   "id": 2706,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-DJINNI_SECOND_TASK_COMPLETE.DAT | PASSIVE | DIALOG",
+   "en": "All this waiting is driving me mad!"
+  },
+  {
+   "id": 2707,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-DJINNI_SECOND_TASK_COMPLETE.DAT | PASSIVE | DIALOG",
+   "en": "Be careful what you agree to, with Fazeer Shah.  He has been imprisoned for centuries, and no doubt has been plotting revenge against the Zeraphi all that time."
+  },
+  {
+   "id": 2708,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-DJINNI_SECOND_TASK_COMPLETE.DAT | PASSIVE | DIALOG",
+   "en": "I'm almost finished with repairs.  Another six hours ... maybe less?"
+  },
+  {
+   "id": 2709,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-DJINNI_SECOND_TASK_COMPLETE.DAT | PASSIVE | DIALOG",
+   "en": "If the Alchemist is doing all of the planning for the Ezrohir, he may be stalling until I leave the city ... whereupon he will surely arrange to ambush me."
+  },
+  {
+   "id": 2710,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-DJINNI_SECOND_TASK_COMPLETE.DAT | PASSIVE | DIALOG",
+   "en": "Repairs are going a lot faster now ... but it's still going to take time."
+  },
+  {
+   "id": 2711,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-DJINNI_SECOND_TASK_COMPLETE.DAT | PASSIVE | DIALOG",
+   "en": "The djinni Fazeer Shah was imprisoned centuries ago by our sultan.  His battles with Ezrek Khan had claimed a number of Zeraphi lives."
+  },
+  {
+   "id": 2712,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-DJINNI_SECOND_TASK_COMPLETE.DAT | PASSIVE | DIALOG",
+   "en": "The word is that you've already faced two of the djinni's challenges, but he's given you another one.  How many more will you have to face, before he helps you free the Guardian of Mana?"
+  },
+  {
+   "id": 2713,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-DJINNI_SECOND_TASK_COMPLETE.DAT | PASSIVE | DIALOG",
+   "en": "There have been strange lights coming from the direction of the Salt Barrens.  Did the djinni have something to do with that?"
+  },
+  {
+   "id": 2714,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-DJINNI_SECOND_TASK_COMPLETE.DAT | PASSIVE | DIALOG",
+   "en": "These next hours will separate cowards from heroes."
+  },
+  {
+   "id": 2715,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-DJINNI_SECOND_TASK_COMPLETE.DAT | PASSIVE | DIALOG",
+   "en": "What a strange set of tasks for the djinni to assign you.  He's up to something; he's got ulterior motives in all of this."
+  },
+  {
+   "id": 2716,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-DJINNI_SECOND_TASK_COMPLETE.DAT | PASSIVE | DIALOG",
+   "en": "What has the djinni got you doing next?"
+  },
+  {
+   "id": 2717,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-DJINNI_SECOND_TASK_COMPLETE.DAT | PASSIVE | DIALOG",
+   "en": "You survived all that, and Fazeer Shah has another task for you?  That djinni must be mad!"
+  },
+  {
+   "id": 2718,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-DOOROPENEDTOMANAGUARDIANBATTLE.DAT | PASSIVE | DIALOG",
+   "en": "Do what you have to do, my friend.  Even if you cannot prevent the Ezrohir from attacking the city, you must save the Guardian of Mana."
+  },
+  {
+   "id": 2719,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-DOOROPENEDTOMANAGUARDIANBATTLE.DAT | PASSIVE | DIALOG",
+   "en": "Do you think you can free the Guardian?  Or will saving the Zeraphi require destroying her?"
+  },
+  {
+   "id": 2720,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-DOOROPENEDTOMANAGUARDIANBATTLE.DAT | PASSIVE | DIALOG",
+   "en": "Don't worry about us.  Go to Riftkeep.  Do what you have to do."
+  },
+  {
+   "id": 2721,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-DOOROPENEDTOMANAGUARDIANBATTLE.DAT | PASSIVE | DIALOG",
+   "en": "Good luck, human.  May your journey be swift, and your heart true."
+  },
+  {
+   "id": 2722,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-DOOROPENEDTOMANAGUARDIANBATTLE.DAT | PASSIVE | DIALOG",
+   "en": "Have you divined a way to free the Guardian ... without killing her?"
+  },
+  {
+   "id": 2723,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-DOOROPENEDTOMANAGUARDIANBATTLE.DAT | PASSIVE | DIALOG",
+   "en": "I just need another couple of hours!  She's almost repaired!"
+  },
+  {
+   "id": 2724,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-DOOROPENEDTOMANAGUARDIANBATTLE.DAT | PASSIVE | DIALOG",
+   "en": "If you cannot reach Riftkeep and the Guardian before the Ezrohir army mobilizes, you will have to contend with the entire army all at once.  The odds would not be in your favor."
+  },
+  {
+   "id": 2725,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-DOOROPENEDTOMANAGUARDIANBATTLE.DAT | PASSIVE | DIALOG",
+   "en": "It's all up to you now.  If you cannot stop the Ezrohir, they will raze Zeryphesh.  And the two Guardians will tear each other apart ... along with most of the desert."
+  },
+  {
+   "id": 2726,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-DOOROPENEDTOMANAGUARDIANBATTLE.DAT | PASSIVE | DIALOG",
+   "en": "She'll be ready to go when you are ... I promise!"
+  },
+  {
+   "id": 2727,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-DOOROPENEDTOMANAGUARDIANBATTLE.DAT | PASSIVE | DIALOG",
+   "en": "The Ezrohir are still hiding inside Riftkeep?  This really should come as no surprise ..."
+  },
+  {
+   "id": 2728,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-DOOROPENEDTOMANAGUARDIANBATTLE.DAT | PASSIVE | DIALOG",
+   "en": "The Ezrohir may be having difficulty controlling the Guardian of Mana without the Artificer.  I would imagine the Guardian of Mana is being ... difficult."
+  },
+  {
+   "id": 2729,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-DOOROPENEDTOMANAGUARDIANBATTLE.DAT | PASSIVE | DIALOG",
+   "en": "The time to strike is now!  The Ezrohir will not be expecting an attack inside their own stronghold!"
+  },
+  {
+   "id": 2730,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-DOOROPENEDTOMANAGUARDIANBATTLE.DAT | PASSIVE | DIALOG",
+   "en": "Today is a fine day to die ... but a finer day to slay Ezrohir!"
+  },
+  {
+   "id": 2731,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-DOOROPENEDTOMANAGUARDIANBATTLE.DAT | PASSIVE | DIALOG",
+   "en": "We will do whatever it takes to buy you the time you need."
+  },
+  {
+   "id": 2732,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-DOOROPENEDTOMANAGUARDIANBATTLE.DAT | PASSIVE | DIALOG",
+   "en": "We will stand our ground against the Ezrohir until they cut our legs out from under us ... and we will not give up until they pry our lifeless hands from around their throats."
+  },
+  {
+   "id": 2733,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-DOOROPENEDTOMANAGUARDIANBATTLE.DAT | PASSIVE | DIALOG",
+   "en": "When this battle is done, if we survive, we should wipe out the Ezrohir once and for all!"
+  },
+  {
+   "id": 2734,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-DOOROPENEDTOMANAGUARDIANBATTLE.DAT | PASSIVE | DIALOG",
+   "en": "Why are you here?  Go!  Stop the Ezrohir before they can unleash the Guardian of Mana upon us!"
+  },
+  {
+   "id": 2735,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-DOOROPENEDTOMANAGUARDIANBATTLE.DAT | PASSIVE | DIALOG",
+   "en": "You are very brave, to undertake this assault on the Ezrohir fortress, on the eve of their invasion."
+  },
+  {
+   "id": 2736,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-DOOROPENEDTOMANAGUARDIANBATTLE.DAT | PASSIVE | DIALOG",
+   "en": "You are very nearly at the conclusion, my friend.  Stay the course.  Save the Zeraphi."
+  },
+  {
+   "id": 2737,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-FIGHT_ARTIFICER.DAT | PASSIVE | DIALOG",
+   "en": "After he had stolen her power, the Alchemist clearly no longer had a use for the Guardian ... but the Ezrohir did."
+  },
+  {
+   "id": 2738,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-FIGHT_ARTIFICER.DAT | PASSIVE | DIALOG",
+   "en": "Everyone is saying that you faced the Ezrohir vanguard ... and prevailed!  I'm glad you're on our side, my friend."
+  },
+  {
+   "id": 2739,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-FIGHT_ARTIFICER.DAT | PASSIVE | DIALOG",
+   "en": "Good luck in the Empty Quarter.  We had to close access to it years ago:  It pretty much belongs to the Tu'tara now ... and a host of Dune Fiends."
+  },
+  {
+   "id": 2740,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-FIGHT_ARTIFICER.DAT | PASSIVE | DIALOG",
+   "en": "Have you investigated the Cursed Cave of Fear?  The Ezrohir used it as a base of operations during the Ember Wars, and parts of it are still intact."
+  },
+  {
+   "id": 2741,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-FIGHT_ARTIFICER.DAT | PASSIVE | DIALOG",
+   "en": "I suddenly have a great deal less confidence about the outcome of this siege."
+  },
+  {
+   "id": 2742,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-FIGHT_ARTIFICER.DAT | PASSIVE | DIALOG",
+   "en": "If the Ezrohir have enslaved the Guardian of Mana, what happens if they send her to attack the city?"
+  },
+  {
+   "id": 2743,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-FIGHT_ARTIFICER.DAT | PASSIVE | DIALOG",
+   "en": "Is it true?  Have the Ezrohir enslaved the Guardian of Mana?"
+  },
+  {
+   "id": 2744,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-FIGHT_ARTIFICER.DAT | PASSIVE | DIALOG",
+   "en": "Now we know why the Ezrohir haven't moved earlier;  they were waiting for the Artificer to finish forging the Guardian's bonds."
+  },
+  {
+   "id": 2745,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-FIGHT_ARTIFICER.DAT | PASSIVE | DIALOG",
+   "en": "People are starting to say that the Guardian of Mana wasn't actually captured, but that it's in league with the Ezrohir."
+  },
+  {
+   "id": 2746,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-FIGHT_ARTIFICER.DAT | PASSIVE | DIALOG",
+   "en": "Quite a few Zeraphi soldiers have made it back from the Ossean Wastes, and they've got you to thank for that."
+  },
+  {
+   "id": 2747,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-FIGHT_ARTIFICER.DAT | PASSIVE | DIALOG",
+   "en": "So ... the Alchemist enslaved the Guardian of Mana ... and then just handed her over to the Ezrohir?"
+  },
+  {
+   "id": 2748,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-FIGHT_ARTIFICER.DAT | PASSIVE | DIALOG",
+   "en": "The Alchemist must have already siphoned the powers of the Guardian of Mana!"
+  },
+  {
+   "id": 2749,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-FIGHT_ARTIFICER.DAT | PASSIVE | DIALOG",
+   "en": "The Ezrohir must be involved somehow in the disappearance of the Guardian.  It's the only explanation that makes sense."
+  },
+  {
+   "id": 2750,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-FIGHT_ARTIFICER.DAT | PASSIVE | DIALOG",
+   "en": "The Guardian of Air tells me that you have defeated the Ezrohir Artificer.  If you can do that, you're more than capable of handling yourself out in the Salt Barrens."
+  },
+  {
+   "id": 2751,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-FIGHT_ARTIFICER.DAT | PASSIVE | DIALOG",
+   "en": "The Guardian of Mana serves the Ezrohir now?  You're going to stop them, right?"
+  },
+  {
+   "id": 2752,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-FIGHT_ARTIFICER.DAT | PASSIVE | DIALOG",
+   "en": "The Guardian of Mana wasn't at the Forsaken Vaults?  The Ezrohir must have taken her to Riftkeep ... which means we're doomed.  You'll never get in there."
+  },
+  {
+   "id": 2753,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-FIGHT_ARTIFICER.DAT | PASSIVE | DIALOG",
+   "en": "The only chance to save the Zeraphi now is to stop the Ezrohir before they reach the city."
+  },
+  {
+   "id": 2754,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-FIGHT_ARTIFICER.DAT | PASSIVE | DIALOG",
+   "en": "There's been activity in the Salt Barrens; that must be where the rest of the Ezrohir are massing before the final assault."
+  },
+  {
+   "id": 2755,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-FIGHT_ARTIFICER.DAT | PASSIVE | DIALOG",
+   "en": "This news changes everything!  We can't rely on the Ezrohir mounting a purely ground assault, if they have the Guardian of Mana at their disposal."
+  },
+  {
+   "id": 2756,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-FIGHT_ARTIFICER.DAT | PASSIVE | DIALOG",
+   "en": "Until we know exactly how the Alchemist captured the Guardian of Mana, the Guardian of Air can't risk a rescue attempt.  The Alchemist might capture her, too ... and then we'd have two Guardians to contend with."
+  },
+  {
+   "id": 2757,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-FIGHT_ARTIFICER.DAT | PASSIVE | DIALOG",
+   "en": "We saw a column of Ezrohir on the horizon an hour or so ago ... moving something big.  The Guardian, maybe?"
+  },
+  {
+   "id": 2758,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-FIGHT_ARTIFICER.DAT | PASSIVE | DIALOG",
+   "en": "You killed the Manticore?  You must be more dangerous than you look."
+  },
+  {
+   "id": 2759,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-FIGHT_ARTIFICER.DAT | PASSIVE | DIALOG",
+   "en": "You'll be passing through the Sand Shoals, once you reach the Salt Barrens.  That entire area was the harbor for our ships, centuries ago.  Keep an eye open:  We didn't salvage everything, and you might find something useful."
+  },
+  {
+   "id": 2760,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-FIND_DJINNI.DAT | PASSIVE | DIALOG",
+   "en": "Are you certain the Ezrohir have the Guardian of Mana in their thrall?"
+  },
+  {
+   "id": 2761,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-FIND_DJINNI.DAT | PASSIVE | DIALOG",
+   "en": "Enslaved to the Ezrohir, the Guardian of Mana is a potent weapon.  We must do our best to release her from their control."
+  },
+  {
+   "id": 2762,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-FIND_DJINNI.DAT | PASSIVE | DIALOG",
+   "en": "Have you face Tu'tara before?  They're nasty, savage lizard-men, who attack our caravans and steal our trade goods."
+  },
+  {
+   "id": 2763,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-FIND_DJINNI.DAT | PASSIVE | DIALOG",
+   "en": "Hm.  There has been no news of the Alchemist, since he helped the Ezrohir capture the Guardian of Mana.  That doesn't make sense ... unless he doesn't actually need the Guardian of Air, as well."
+  },
+  {
+   "id": 2764,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-FIND_DJINNI.DAT | PASSIVE | DIALOG",
+   "en": "I have a great deal less confidence about the outcome of this siege, now."
+  },
+  {
+   "id": 2765,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-FIND_DJINNI.DAT | PASSIVE | DIALOG",
+   "en": "I hear the Guardian of Air sent you out to the Salt Barrens, to negotiate with the djinni.  I'm glad it's you, and not me."
+  },
+  {
+   "id": 2766,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-FIND_DJINNI.DAT | PASSIVE | DIALOG",
+   "en": "I think you've pretty well proven yourself against the Artificer.  Still, an Ezrohir, even one as powerful as the Artificer, is a far cry from a djinni."
+  },
+  {
+   "id": 2767,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-FIND_DJINNI.DAT | PASSIVE | DIALOG",
+   "en": "I'm pretty sure the Ezrohir moved the Guardian of Mana to the east, somewhere."
+  },
+  {
+   "id": 2768,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-FIND_DJINNI.DAT | PASSIVE | DIALOG",
+   "en": "It doesn't make any sense:  The Alchemist captured the Guardian of Mana ... then turned her over to the Ezrohir and just left?  Why hasn't he attacked us?\\n"
+  },
+  {
+   "id": 2769,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-FIND_DJINNI.DAT | PASSIVE | DIALOG",
+   "en": "It is curious that the Alchemist is waiting for the Ezrohir army to begin their siege.  Either the Alchemist or the enslaved Guardian could easily conquer Zeryphesh ... even with me defending the city."
+  },
+  {
+   "id": 2770,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-FIND_DJINNI.DAT | PASSIVE | DIALOG",
+   "en": "It's curious that the Ezrohir didn't attack as soon as they had the Guardian of Mana under their control ..."
+  },
+  {
+   "id": 2771,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-FIND_DJINNI.DAT | PASSIVE | DIALOG",
+   "en": "Some say that the Tu'tara of the Sadwa Mesa have domesticated the desert Basilisks, and use them as guards and hunting beasts."
+  },
+  {
+   "id": 2772,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-FIND_DJINNI.DAT | PASSIVE | DIALOG",
+   "en": "The Alchemist is working with the Ezrohir?  Oh, this is not going to end well for the Zeraphi ..."
+  },
+  {
+   "id": 2773,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-FIND_DJINNI.DAT | PASSIVE | DIALOG",
+   "en": "The Zeraphi and Ezrohir were once one people.  But we differed, ideologically, and sought other means of attaining eternal life ..."
+  },
+  {
+   "id": 2774,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-FIND_DJINNI.DAT | PASSIVE | DIALOG",
+   "en": "The timetable for preparing the city's defenses has moved up dramatically in the past few hours.  If you can't actually rescue the Guardian, can you try to buy us some time?"
+  },
+  {
+   "id": 2775,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-FIND_DJINNI.DAT | PASSIVE | DIALOG",
+   "en": "The word is that the Guardian of Air sent you on some mission to talk to that djinni out in the Salt Barrens ... Fazeer Shah.  Do not trust that fiend!"
+  },
+  {
+   "id": 2776,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-FIND_DJINNI.DAT | PASSIVE | DIALOG",
+   "en": "There were once two such djinn in the Salt Barrens, but their constant fighting laid waste to the land and boiled away the sea itself.  It took the wisdom of Prince Malik Vosh to stop their quarreling."
+  },
+  {
+   "id": 2777,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-FIND_DJINNI.DAT | PASSIVE | DIALOG",
+   "en": "There's been activity in the Salt Barrens ... perhaps the Ezrohir took the Guardian there?"
+  },
+  {
+   "id": 2778,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-FIND_DJINNI.DAT | PASSIVE | DIALOG",
+   "en": "While you're out in the Salt Barrens, be wary around the Swarmstacks:  That entire area is infested with Dustwings, and they're always hungry for fresh meat."
+  },
+  {
+   "id": 2779,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-FIND_DJINNI.DAT | PASSIVE | DIALOG",
+   "en": "Why are you talking to the djinni?  That creature is dangerous ... possibly even insane!"
+  },
+  {
+   "id": 2780,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-KILL_MANTICORE.DAT | PASSIVE | DIALOG",
+   "en": "Are the crew of the Embercraft safe out there, while they work on their vehicle?"
+  },
+  {
+   "id": 2781,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-KILL_MANTICORE.DAT | PASSIVE | DIALOG",
+   "en": "Have you looked into the situation at the Tower of the Moon yet?"
+  },
+  {
+   "id": 2782,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-KILL_MANTICORE.DAT | PASSIVE | DIALOG",
+   "en": "I heard the Sphinx sent you to kill the Manticore in the Stygian Aerie.  I'm guessing you were successful?"
+  },
+  {
+   "id": 2783,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-KILL_MANTICORE.DAT | PASSIVE | DIALOG",
+   "en": "I've got my first mate working on the boiler, while I go over all of these valves."
+  },
+  {
+   "id": 2784,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-KILL_MANTICORE.DAT | PASSIVE | DIALOG",
+   "en": "If the Ezrohir army is even half as large as we've been told, this city is doomed.\\n"
+  },
+  {
+   "id": 2785,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-KILL_MANTICORE.DAT | PASSIVE | DIALOG",
+   "en": "If the Ezrohir employ scaling ladders, they'll almost certainly come over the south wall."
+  },
+  {
+   "id": 2786,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-KILL_MANTICORE.DAT | PASSIVE | DIALOG",
+   "en": "If you're going to try to kill the Manticore, you'd better be certain the Guardian of Mana is in the Forsaken Vaults."
+  },
+  {
+   "id": 2787,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-KILL_MANTICORE.DAT | PASSIVE | DIALOG",
+   "en": "It is clear now that the Alchemist is helping the Ezrohir only as part of a larger scheme."
+  },
+  {
+   "id": 2788,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-KILL_MANTICORE.DAT | PASSIVE | DIALOG",
+   "en": "The Alchemist's goal all along may have been to capture the Guardian of Mana.  But that does not explain why he has yet to mobilize the Ezrohir against me."
+  },
+  {
+   "id": 2789,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-KILL_MANTICORE.DAT | PASSIVE | DIALOG",
+   "en": "The Empty Quarter sealed is still closed off; we're expecting the Ezrohir to attack from that direction.  If the Guardian gives you leave, then I can allow you to pass."
+  },
+  {
+   "id": 2790,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-KILL_MANTICORE.DAT | PASSIVE | DIALOG",
+   "en": "The Guardian of Air warns us that, should you fail to rescue the Guardian of Mana, we might wish to consider evacuating the city."
+  },
+  {
+   "id": 2791,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-KILL_MANTICORE.DAT | PASSIVE | DIALOG",
+   "en": "The Guardian of Air will be our best asset in this coming battle.  We'll do whatever it takes to protect her.\\n"
+  },
+  {
+   "id": 2792,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-KILL_MANTICORE.DAT | PASSIVE | DIALOG",
+   "en": "The city might fall.  The Zeraphi might scatter.  But it will not be because we didn't fight."
+  },
+  {
+   "id": 2793,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-KILL_MANTICORE.DAT | PASSIVE | DIALOG",
+   "en": "The scouts are saying that the Ossean Wastes are mostly clear at this point.  You should have a clear path to rescuing the Guardian of Mana from the Forsaken Vaults."
+  },
+  {
+   "id": 2794,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-KILL_MANTICORE.DAT | PASSIVE | DIALOG",
+   "en": "There used to be a massive armory, in the Forsaken Vaults, during the war.  If the Ezrohir took the Guardian of Mana there, they must be planning a major assault ... and very soon."
+  },
+  {
+   "id": 2795,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-KILL_MANTICORE.DAT | PASSIVE | DIALOG",
+   "en": "There's definitely Ezrohir activity in both the Forsaken Vaults and the Salt Barrens."
+  },
+  {
+   "id": 2796,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-KILL_MANTICORE.DAT | PASSIVE | DIALOG",
+   "en": "We lost serious pressure in the primary Ember feed.  We've got an auxiliary line ... but that's no way to get around!"
+  },
+  {
+   "id": 2797,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-KILL_MANTICORE.DAT | PASSIVE | DIALOG",
+   "en": "We would know if the Guardian of Mana had expired:  All magic would cease.  I fear something more sinister is afoot."
+  },
+  {
+   "id": 2798,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-KILL_MANTICORE.DAT | PASSIVE | DIALOG",
+   "en": "When the siege begins, will you be here to help defend the city?"
+  },
+  {
+   "id": 2799,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-KILL_MANTICORE.DAT | PASSIVE | DIALOG",
+   "en": "You may have defeated scores of Ezrohir soldiers, and even the Manticore, but the Forsaken Vaults are their stronghold.  They'll have activated the ancient defenses; your mission there will not be easy."
+  },
+  {
+   "id": 2800,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-KILL_MANTICORE.DAT | PASSIVE | DIALOG",
+   "en": "You're actually going after the Manticore?  Best of luck, my friend.  That beast is said to be indestructible."
+  },
+  {
+   "id": 2801,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-KILL_MANTICORE.DAT | PASSIVE | DIALOG",
+   "en": "You're trying to get into the Forsaken Vaults, aren't you?  To follow up on the rumors about the Guardian's capture?"
+  },
+  {
+   "id": 2802,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-SEARCH_FOR_MANA_GUARDIAN.DAT | PASSIVE | DIALOG",
+   "en": "Any sign of Ezrohir troop movement out there?  Are they mobilizing yet?"
+  },
+  {
+   "id": 2803,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-SEARCH_FOR_MANA_GUARDIAN.DAT | PASSIVE | DIALOG",
+   "en": "How many of those slave camps do the Ezrohir have out in the Ossean Wastes?  How many Zeraphi are they holding prisoner?"
+  },
+  {
+   "id": 2804,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-SEARCH_FOR_MANA_GUARDIAN.DAT | PASSIVE | DIALOG",
+   "en": "I am prepared to defend the city square, when the time comes."
+  },
+  {
+   "id": 2805,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-SEARCH_FOR_MANA_GUARDIAN.DAT | PASSIVE | DIALOG",
+   "en": "I knew that boiler was dodgy!  I can fix it, but it'll take time ..."
+  },
+  {
+   "id": 2806,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-SEARCH_FOR_MANA_GUARDIAN.DAT | PASSIVE | DIALOG",
+   "en": "I will lay down my life for my people ... if only to buy them time to flee."
+  },
+  {
+   "id": 2807,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-SEARCH_FOR_MANA_GUARDIAN.DAT | PASSIVE | DIALOG",
+   "en": "I'm starting to make evacuation plans ... just in case."
+  },
+  {
+   "id": 2808,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-SEARCH_FOR_MANA_GUARDIAN.DAT | PASSIVE | DIALOG",
+   "en": "If I'm really lucky, we didn't lose too much hydraulic pressure on the purge line."
+  },
+  {
+   "id": 2809,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-SEARCH_FOR_MANA_GUARDIAN.DAT | PASSIVE | DIALOG",
+   "en": "If the Guardian of Mana returns here, we might have a chance against the Alchemist."
+  },
+  {
+   "id": 2810,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-SEARCH_FOR_MANA_GUARDIAN.DAT | PASSIVE | DIALOG",
+   "en": "If your plan is to take back the Ossean Wastes from the Ezrohir, you must face the Manticore of the Stygian Aerie.  You cannot avoid it forever."
+  },
+  {
+   "id": 2811,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-SEARCH_FOR_MANA_GUARDIAN.DAT | PASSIVE | DIALOG",
+   "en": "Keep your eyes open for the Manticore, particularly around the Stygian Approach.  It likes to hunt the Wastes from the air."
+  },
+  {
+   "id": 2812,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-SEARCH_FOR_MANA_GUARDIAN.DAT | PASSIVE | DIALOG",
+   "en": "The Bone Clutch is the place where a great desert dragon lay down to die, centuries ago.  Now only its skeleton remains, and only the Basilisks live there."
+  },
+  {
+   "id": 2813,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-SEARCH_FOR_MANA_GUARDIAN.DAT | PASSIVE | DIALOG",
+   "en": "The Ezrohir attack on Zeryphesh is simply a feint.  The Alchemist seeks to draw me out, by forcing me to choose:  Remain in the city, but doom the Zeraphi ... or save the Zeraphi, but lose the world."
+  },
+  {
+   "id": 2814,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-SEARCH_FOR_MANA_GUARDIAN.DAT | PASSIVE | DIALOG",
+   "en": "The Guardian of Air has ordered the gate to the Empty Quarter sealed.  If the Guardian gives you leave, then I can allow you to pass."
+  },
+  {
+   "id": 2815,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-SEARCH_FOR_MANA_GUARDIAN.DAT | PASSIVE | DIALOG",
+   "en": "The city might fall.  The Zeraphi might scatter.  But it will not be because I didn't fight."
+  },
+  {
+   "id": 2816,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-SEARCH_FOR_MANA_GUARDIAN.DAT | PASSIVE | DIALOG",
+   "en": "The postern doors are barricaded, and the gates are reinforced.  When they come, we'll try to funnel them toward the south gate."
+  },
+  {
+   "id": 2817,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-SEARCH_FOR_MANA_GUARDIAN.DAT | PASSIVE | DIALOG",
+   "en": "There seems to be more activity around the Tower of the Moon."
+  },
+  {
+   "id": 2818,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-SEARCH_FOR_MANA_GUARDIAN.DAT | PASSIVE | DIALOG",
+   "en": "There's a rumor that the Ezrohir have defeated the Guardian of Mana.  Is this true?"
+  },
+  {
+   "id": 2819,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-SEARCH_FOR_MANA_GUARDIAN.DAT | PASSIVE | DIALOG",
+   "en": "War is seemingly unavoidable.  If the Alchemist joins the Ezrohir attack, we may not be able to save Zeryphesh.  He is too powerful now."
+  },
+  {
+   "id": 2820,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-SEARCH_FOR_MANA_GUARDIAN.DAT | PASSIVE | DIALOG",
+   "en": "We have been weakening the structure of some of the buildings in the Empty Quarter, so that the Ezrohir cannot use them as cover."
+  },
+  {
+   "id": 2821,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-SEARCH_FOR_MANA_GUARDIAN.DAT | PASSIVE | DIALOG",
+   "en": "Without the Guardian of Mana, this is going to be a lot tougher fight."
+  },
+  {
+   "id": 2822,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-SEARCH_FOR_MANA_GUARDIAN.DAT | PASSIVE | DIALOG",
+   "en": "You came in on that Imperial Embercraft, didn't you?  Bad luck, it breaking down so near the Jackalbeast warrens."
+  },
+  {
+   "id": 2823,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-SEARCH_FOR_MANA_GUARDIAN.DAT | PASSIVE | DIALOG",
+   "en": "You've spoken to the Guardian of Air, about the Ossean Wastes?  You know the risks, then?  Alright.  Good luck out there."
+  },
+  {
+   "id": 2824,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-SEARCH_OUT_MANTICORE.DAT | PASSIVE | DIALOG",
+   "en": "I'd feel a lot better about this siege if the Guardian of Mana were accounted for."
+  },
+  {
+   "id": 2825,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-SEARCH_OUT_MANTICORE.DAT | PASSIVE | DIALOG",
+   "en": "Repairing the boiler's the easy part ... but if any of those valves are damaged, we might be stuck here."
+  },
+  {
+   "id": 2826,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-SEARCH_OUT_MANTICORE.DAT | PASSIVE | DIALOG",
+   "en": "The Bone Clutch is the place where a great desert dragon lay down to die, centuries ago.  Now only its sun-bleached skeleton remains ... as a nest for Basilisks."
+  },
+  {
+   "id": 2827,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-SEARCH_OUT_MANTICORE.DAT | PASSIVE | DIALOG",
+   "en": "The Sphinx of the Forsaken Gate loathes the Manticore.  If you hope to win favor with the Sphinx, that's the surest way.\\n"
+  },
+  {
+   "id": 2828,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-SEARCH_OUT_MANTICORE.DAT | PASSIVE | DIALOG",
+   "en": "The boiler's shot!  I'm going to have to rebuild it from scrap!"
+  },
+  {
+   "id": 2829,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-SEARCH_OUT_MANTICORE.DAT | PASSIVE | DIALOG",
+   "en": "The postern doors are barricaded, and the gates are reinforced.  When they come, we'll try to funnel them toward the south gate.\\n"
+  },
+  {
+   "id": 2830,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-SEARCH_OUT_MANTICORE.DAT | PASSIVE | DIALOG",
+   "en": "The story of the Guardian's disappearance is spreading.  Just what did happen out there?"
+  },
+  {
+   "id": 2831,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-SEARCH_OUT_MANTICORE.DAT | PASSIVE | DIALOG",
+   "en": "There are rumors of an Ezrohir army five times larger than our own, massing at the Forsaken Vaults.  Can you confirm this?"
+  },
+  {
+   "id": 2832,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-SEARCH_OUT_MANTICORE.DAT | PASSIVE | DIALOG",
+   "en": "There's a rumor that the Guardian of Mana has fallen in battle.  Is this true?"
+  },
+  {
+   "id": 2833,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-SEARCH_OUT_MANTICORE.DAT | PASSIVE | DIALOG",
+   "en": "We're seeing a few troops coming back in from out of the Ossean Wastes.  They say you're doing good work out there.  Keep it up!"
+  },
+  {
+   "id": 2834,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-SEARCH_OUT_MANTICORE.DAT | PASSIVE | DIALOG",
+   "en": "Were the crew of the Embercraft able to make their repairs?"
+  },
+  {
+   "id": 2835,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-SEARCH_OUT_MANTICORE.DAT | PASSIVE | DIALOG",
+   "en": "What is going on at the Tower of the Moon?"
+  },
+  {
+   "id": 2836,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-SEARCH_OUT_MANTICORE.DAT | PASSIVE | DIALOG",
+   "en": "When the attack comes, we'll draw the Ezrohir toward the south gate, where the Guardian of Air will be waiting."
+  },
+  {
+   "id": 2837,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-SEARCH_OUT_MANTICORE.DAT | PASSIVE | DIALOG",
+   "en": "Without the Guardian of Mana, the coming battle will play out very differently."
+  },
+  {
+   "id": 2838,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-SEARCH_OUT_MANTICORE.DAT | PASSIVE | DIALOG",
+   "en": "Word is that you're searching the Ossean Wastes for the Guardian of Mana.  You're certain, then, that the Guardian is still in the wastes somewhere?"
+  },
+  {
+   "id": 2839,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER-SEARCH_OUT_MANTICORE.DAT | PASSIVE | DIALOG",
+   "en": "Zeryphesh is my home ... and I'm going to fight to keep it that way."
+  },
+  {
+   "id": 2840,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER_VANQUISHER_SEND.DAT | PASSIVE | DIALOG",
+   "en": "Do you think there's a connection between that business with the Guardians in Estheria and the Ezrohir suddenly deciding to attack us again?"
+  },
+  {
+   "id": 2841,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER_VANQUISHER_SEND.DAT | PASSIVE | DIALOG",
+   "en": "Have you noticed the lights, around the Tower of the Moon?  It almost seems like there's someone moving about in there."
+  },
+  {
+   "id": 2842,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER_VANQUISHER_SEND.DAT | PASSIVE | DIALOG",
+   "en": "Honestly, what do you think our chances are, against the Ezrohir siege?"
+  },
+  {
+   "id": 2843,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER_VANQUISHER_SEND.DAT | PASSIVE | DIALOG",
+   "en": "I am confident that, should it come to war, the Guardians will be more than able to defend the city."
+  },
+  {
+   "id": 2844,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER_VANQUISHER_SEND.DAT | PASSIVE | DIALOG",
+   "en": "I am deeply troubled by those notes you found in the Icedeep Caverns.  I have notified the Enclave that I will remain here, to guard the caves, and prevent any of the Alchemist's notes and paraphernalia from being lost."
+  },
+  {
+   "id": 2845,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER_VANQUISHER_SEND.DAT | PASSIVE | DIALOG",
+   "en": "I am prepared to defend the city, when the time comes."
+  },
+  {
+   "id": 2846,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER_VANQUISHER_SEND.DAT | PASSIVE | DIALOG",
+   "en": "I contacted the Commander, and she's sending a team to secure the caverns until we can do a more thorough sweep of the place.  If we find anything that might help with the Alchemist, we'll send word."
+  },
+  {
+   "id": 2847,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER_VANQUISHER_SEND.DAT | PASSIVE | DIALOG",
+   "en": "I will lay down my life for my people."
+  },
+  {
+   "id": 2848,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER_VANQUISHER_SEND.DAT | PASSIVE | DIALOG",
+   "en": "I'd heard you were headed down to Zeryphesh, to look for the Alchemist.  What are you doing back here?"
+  },
+  {
+   "id": 2849,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER_VANQUISHER_SEND.DAT | PASSIVE | DIALOG",
+   "en": "I'm actually rather surprised the Ezrohir have been able to move about the Ossean Wastes at all, with the Manticore making its lair out there, in the Stygian Aerie."
+  },
+  {
+   "id": 2850,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER_VANQUISHER_SEND.DAT | PASSIVE | DIALOG",
+   "en": "I'm confident that the Zeraphi will prevail over the Ezrohir."
+  },
+  {
+   "id": 2851,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER_VANQUISHER_SEND.DAT | PASSIVE | DIALOG",
+   "en": "I've heard that the Ezrohir are massing by the Forsaken Gate.  I wonder how they got past the Sphinx?"
+  },
+  {
+   "id": 2852,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER_VANQUISHER_SEND.DAT | PASSIVE | DIALOG",
+   "en": "If you go out into the Ossean Wastes, you might wish to avoid the Bone Clutch.  The Basilisks lay their eggs near that old carcass, so there's quite a few of them in the area ... and they're quite aggressive."
+  },
+  {
+   "id": 2853,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER_VANQUISHER_SEND.DAT | PASSIVE | DIALOG",
+   "en": "If you haven't yet spoken to the Guardian of Air, I must caution you:  The Ossean Wastes are not safe during this siege.  If you get into trouble, we cannot send a rescue party."
+  },
+  {
+   "id": 2854,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER_VANQUISHER_SEND.DAT | PASSIVE | DIALOG",
+   "en": "The Empty Quarter should slow down the Ezrohir.  We can bombard the derelict buildings from the upper walls."
+  },
+  {
+   "id": 2855,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER_VANQUISHER_SEND.DAT | PASSIVE | DIALOG",
+   "en": "The Ezrohir have already taken a number of the Zeraphi forces prisoner.  They've got them shackled up at their caravan, out in the Ossean Wastes ... but we can't spare the troops to mount a rescue."
+  },
+  {
+   "id": 2856,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER_VANQUISHER_SEND.DAT | PASSIVE | DIALOG",
+   "en": "The Guardian of Air will be able to provide us some support, but only inside the city walls.  If it should fall while flying outside, we won't be able to reach it for a rescue."
+  },
+  {
+   "id": 2857,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER_VANQUISHER_SEND.DAT | PASSIVE | DIALOG",
+   "en": "The caverns are pretty clear now.  Thanks for everything you did.  It's just too bad there wasn't more of a clue about where the Alchemist went."
+  },
+  {
+   "id": 2858,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER_VANQUISHER_SEND.DAT | PASSIVE | DIALOG",
+   "en": "They're saying that you rescued the two Guardians in Estheria.  Is that why you're here, now?  Are the Guardians here in danger?"
+  },
+  {
+   "id": 2859,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER_VANQUISHER_SEND.DAT | PASSIVE | DIALOG",
+   "en": "We can reinforce the city gates, and barricade the postern doors.  But we have to be ready for them to attack from another direction."
+  },
+  {
+   "id": 2860,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER_VANQUISHER_SEND.DAT | PASSIVE | DIALOG",
+   "en": "We need more troops at the south gate.  If we're lucky, the Guardian of Mana will be back soon, with the troops she took with her."
+  },
+  {
+   "id": 2861,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER_VANQUISHER_SEND.DAT | PASSIVE | DIALOG",
+   "en": "We've not survived this long to be brought down by those Ezrohir rabble."
+  },
+  {
+   "id": 2862,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER_VANQUISHER_SEND.DAT | PASSIVE | DIALOG",
+   "en": "Weren't you going to Zeryphesh?  Is the Alchemist not there?"
+  },
+  {
+   "id": 2863,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT2PASSIVES/A2-AFTER_VANQUISHER_SEND.DAT | PASSIVE | DIALOG",
+   "en": "Zeryphesh is my home.  If it's destroyed by the Alchemist and the Ezrohir, I will die with it."
+  },
+  {
+   "id": 2864,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT3PASSIVES/A3-AFTER_A3-OPENDOOR.DAT | PASSIVE | DIALOG",
+   "en": "Aren't you going after the Alchemist yet?  Did you have some unfinished business out in the Battlefield?"
+  },
+  {
+   "id": 2865,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT3PASSIVES/A3-AFTER_A3-OPENDOOR.DAT | PASSIVE | DIALOG",
+   "en": "Did you need something else from the swamps, before you go after the Alchemist?"
+  },
+  {
+   "id": 2866,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT3PASSIVES/A3-AFTER_A3-OPENDOOR.DAT | PASSIVE | DIALOG",
+   "en": "Have you seen any more of those demon-things?"
+  },
+  {
+   "id": 2867,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT3PASSIVES/A3-AFTER_A3-OPENDOOR.DAT | PASSIVE | DIALOG",
+   "en": "If you're going in there, after the Alchemist, you have to know:  We have to bar the door behind you.  We can't let him back out, if he gets past you."
+  },
+  {
+   "id": 2868,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT3PASSIVES/A3-AFTER_A3-OPENDOOR.DAT | PASSIVE | DIALOG",
+   "en": "Listen!  Can you hear that?  Like ... voices.  Voices from the other side of the Great Door ..."
+  },
+  {
+   "id": 2869,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT3PASSIVES/A3-AFTER_A3-OPENDOOR.DAT | PASSIVE | DIALOG",
+   "en": "Should we start gathering timbers, to brace the Great Door?"
+  },
+  {
+   "id": 2870,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT3PASSIVES/A3-AFTER_A3-OPENDOOR.DAT | PASSIVE | DIALOG",
+   "en": "The Alchemist tore us up the first time.  And who knows what ancient dwarven monstrosities he's stirring up against us now?"
+  },
+  {
+   "id": 2871,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT3PASSIVES/A3-AFTER_A3-OPENDOOR.DAT | PASSIVE | DIALOG",
+   "en": "The energies I sensed flowing out from the Nether-Rift have slackened, so I gather you were successful.  Well done!\\n\\nBut I'm starting to sense similar energy, emanating from beyond the Great Door, by our base camp.  It seems likely that there are other rifts opening somewhere underground, perhaps very close by ... or very, very numerous."
+  },
+  {
+   "id": 2872,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT3PASSIVES/A3-AFTER_A3-OPENDOOR.DAT | PASSIVE | DIALOG",
+   "en": "There's some sign that one of those weird little twig-things was inside the camp.  This isn't good.  The witches are testing us ... testing our defenses."
+  },
+  {
+   "id": 2873,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT3PASSIVES/A3-AFTER_A3-OPENDOOR.DAT | PASSIVE | DIALOG",
+   "en": "What's the Alchemist want with some old dwarven mine, anyway?"
+  },
+  {
+   "id": 2874,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT3PASSIVES/A3-AFTER_A3-OPENDOOR.DAT | PASSIVE | DIALOG",
+   "en": "Word is we might have to abandon the camp."
+  },
+  {
+   "id": 2875,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT3PASSIVES/A3-AFTER_A3-RECHARGEPOWERSOURCE.DAT | PASSIVE | DIALOG",
+   "en": "Did you need to get back out into the Blightbogs for something?  No worries.  Be careful out there."
+  },
+  {
+   "id": 2876,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT3PASSIVES/A3-AFTER_A3-RECHARGEPOWERSOURCE.DAT | PASSIVE | DIALOG",
+   "en": "One of the wounded died, about an hour ago.  Poor Hudson ... he was short, too.  Two more weeks, and he'd've been out of this swamp."
+  },
+  {
+   "id": 2877,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT3PASSIVES/A3-AFTER_A3-RECHARGEPOWERSOURCE.DAT | PASSIVE | DIALOG",
+   "en": "Rebuilding the camp is going to take a while."
+  },
+  {
+   "id": 2878,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT3PASSIVES/A3-AFTER_A3-RECHARGEPOWERSOURCE.DAT | PASSIVE | DIALOG",
+   "en": "The Professor says it'll be another seventeen days before relief arrives.  Seventeen days?  If the Alchemist comes back, we won't last seventeen seconds!"
+  },
+  {
+   "id": 2879,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT3PASSIVES/A3-AFTER_A3-RECHARGEPOWERSOURCE.DAT | PASSIVE | DIALOG",
+   "en": "The Professor says you're cleared for access to the Sundered Battlefield.  If you don't make it back, is there someone we should notify?"
+  },
+  {
+   "id": 2880,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT3PASSIVES/A3-AFTER_A3-RECHARGEPOWERSOURCE.DAT | PASSIVE | DIALOG",
+   "en": "We need to secure the gates.  It'll be dark soon, and the things that live out there mostly come at night ... mostly."
+  },
+  {
+   "id": 2881,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT3PASSIVES/A3-AFTER_A3-RECHARGEPOWERSOURCE.DAT | PASSIVE | DIALOG",
+   "en": "We'll bounce back from this.  We just need to hold out until relief arrives from the coast."
+  },
+  {
+   "id": 2882,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT3PASSIVES/A3-AFTER_A3-RECHARGEPOWERSOURCE.DAT | PASSIVE | DIALOG",
+   "en": "We've had some werewolves sniffing around the edges of the camp ... and we can hear those weird witch-things cackling sometimes ..."
+  },
+  {
+   "id": 2883,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT3PASSIVES/A3-SAWMILLPASSIVES.DAT | PASSIVE | DIALOG",
+   "en": "Cameron is dead - I found this journal amongst his belongings.  There are only a handful of us left now, barricaded in the cellar.  We must leave this place, for we cannot outlast them.  \\n\\nWhen Cameron made to leave, Foreman Siegfried...transformed... into one of those beasts, right in front of us!  He tore them to pieces in his rage.  His bloodthirst slaked, he left the camp, but we are sure that he will return.  \\n\\nWe may not see another dawn.  \\n\\n- Sarah"
+  },
+  {
+   "id": 2884,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT3PASSIVES/A3-SAWMILLPASSIVES.DAT | PASSIVE | DIALOG",
+   "en": "They are Werewolves - Sarah spotted one vaulting the stockade as easily as though it were a garden gate.  There are over thirty souls lost now, and we have sent for help.  We can only pray that aid returns in time.  The howls are rising now, even before sunset.  \\n\\nTomorrow, I may take as many folk as will join me and attempt to make an escape. Guardians be with us. \\n\\n- Cameron"
+  },
+  {
+   "id": 2885,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT3PASSIVES/A3-SAWMILLPASSIVES.DAT | PASSIVE | DIALOG",
+   "en": "This is my last journal entry. There are only three of us now, and we have a few hours of sunlight before dusk.  The sounds of the wolves are everywhere.  We will try for the gates, but we do not have much hope.  \\n\\nIf anyone finds this, it is likely that you are as doomed as we.  Leave at once, if you can.  Guardians protect us. \\n\\n- Sarah, Tat and Birram"
+  },
+  {
+   "id": 2886,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT3PASSIVES/A3-SAWMILLPASSIVES.DAT | PASSIVE | DIALOG",
+   "en": "Two entire families have gone missing - the Rourkes and the Sammay clan.  There were strong and capable men among them, and their homes showed signs of a vicious struggle.  The total count of dead and missing has risen to sixteen.\\n\\nThe wolves in the area are showing a peculiar aggression, snarling and slinking outside the stockade walls - they seem to smell the fear here.\\n\\n- Cameron"
+  },
+  {
+   "id": 2887,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT3PASSIVES/A3-SAWMILLPASSIVES.DAT | PASSIVE | DIALOG",
+   "en": "We are in mourning today - Sophia was found dead.  I can't bring myself to describe the state her body was found in - as ruined as the flesh of the other poor souls discovered last week.  \\n\\nIf Foreman Siegfried won't organize a hunting party to find the perpetrator, we'll have to do it ourselves.  We are afraid to leave our cabins when night falls...  \\n\\n- Cameron"
+  },
+  {
+   "id": 2888,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT3PASSIVES/AFTER A3-INTROACT3.DAT | PASSIVE | DIALOG",
+   "en": "Find anything out there that could help us, if the Alchemist comes back?"
+  },
+  {
+   "id": 2889,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT3PASSIVES/AFTER A3-INTROACT3.DAT | PASSIVE | DIALOG",
+   "en": "If you don't have anything better to do, we could use some help on burial detail."
+  },
+  {
+   "id": 2890,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT3PASSIVES/AFTER A3-INTROACT3.DAT | PASSIVE | DIALOG",
+   "en": "It just doesn't make any sense."
+  },
+  {
+   "id": 2891,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT3PASSIVES/AFTER A3-INTROACT3.DAT | PASSIVE | DIALOG",
+   "en": "Professor Stoker says you're going to try to get into the Scrapworks.  Did he mention that the Blightbogs are full of wolves?  And trolls?  And worse?"
+  },
+  {
+   "id": 2892,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT3PASSIVES/AFTER A3-INTROACT3.DAT | PASSIVE | DIALOG",
+   "en": "The Alchemist went through us like we weren't even here."
+  },
+  {
+   "id": 2893,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT3PASSIVES/AFTER A3-INTROACT3.DAT | PASSIVE | DIALOG",
+   "en": "The worst part is that we're undermanned now ... and there are some things out there in the ruins that're just waitin' to take advantage of us."
+  },
+  {
+   "id": 2894,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT3PASSIVES/AFTER A3-INTROACT3.DAT | PASSIVE | DIALOG",
+   "en": "They say you were at Torchlight.  Is it true the Alchemist killed everyone there?"
+  },
+  {
+   "id": 2895,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT3PASSIVES/AFTER A3-INTROACT3.DAT | PASSIVE | DIALOG",
+   "en": "Unless it's an emergency, this gate has to stay closed.  If any of the ... things on the other side get in here, they'll finish what the Alchemist started."
+  },
+  {
+   "id": 2896,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT3PASSIVES/RACCOONS_FOURTH.DAT | PASSIVE | DIALOG",
+   "en": "Thank you again for saving us!"
+  },
+  {
+   "id": 2897,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT3PASSIVES/RACCOONS_FOURTH.DAT | PASSIVE | DIALOG",
+   "en": "We are forever in your debt!"
+  },
+  {
+   "id": 2898,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT3PASSIVES/RACCOONS_FOURTH.DAT | PASSIVE | DIALOG",
+   "en": "You have rendered us a great service - we won't forget it!"
+  },
+  {
+   "id": 2899,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT3PASSIVES/RACCOONS_SECOND.DAT | PASSIVE | DIALOG",
+   "en": "Thank you again! We won't forget your kindness."
+  },
+  {
+   "id": 2900,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT3PASSIVES/RACCOONS_SECOND.DAT | PASSIVE | DIALOG",
+   "en": "We are indebted to you forever!"
+  },
+  {
+   "id": 2901,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT3PASSIVES/RACCOONS_THIRD.DAT | PASSIVE | DIALOG",
+   "en": "Be careful! We worry for your safety."
+  },
+  {
+   "id": 2902,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT3PASSIVES/RACCOONS_THIRD.DAT | PASSIVE | DIALOG",
+   "en": "Take care! I hope we can return the favor some day."
+  },
+  {
+   "id": 2903,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT4PASSIVES/AFTER A4-DEFEAT_NETHER_REGENT.DAT | PASSIVE | DIALOG",
+   "en": "I've set it up that you can visit the Mapworks from any waygate portal once you step through this portal. Oh, the adventures that await!"
+  },
+  {
+   "id": 2904,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT4PASSIVES/AFTER A4-DEFEAT_NETHER_REGENT.DAT | PASSIVE | DIALOG",
+   "en": "In order to utilize the Mapworks, you must purchase or find map scrolls.  An old buddy of mine has a collection for sale inside."
+  },
+  {
+   "id": 2905,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT4PASSIVES/AFTER A4-DEFEAT_NETHER_REGENT.DAT | PASSIVE | DIALOG",
+   "en": "Professor Stoker says you got into Scrapworks. Are they actually full of wolves? And trolls? And worse?"
+  },
+  {
+   "id": 2906,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT4PASSIVES/AFTER A4-DEFEAT_NETHER_REGENT.DAT | PASSIVE | DIALOG",
+   "en": "Thank you, friend, for putting the Alchemist to rest."
+  },
+  {
+   "id": 2907,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT4PASSIVES/AFTER A4-DEFEAT_NETHER_REGENT.DAT | PASSIVE | DIALOG",
+   "en": "The legendary Mapworks is operational once more! From here, you can navigate to all sorts of wondrous places!"
+  },
+  {
+   "id": 2908,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT4PASSIVES/AFTER A4-DEFEAT_NETHER_REGENT.DAT | PASSIVE | DIALOG",
+   "en": "There's a lot to do even with the Alchemist dead. But at least we're safe now, thanks to you."
+  },
+  {
+   "id": 2909,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT4PASSIVES/AFTER A4-DEFEAT_NETHER_REGENT.DAT | PASSIVE | DIALOG",
+   "en": "Victory is ours!"
+  },
+  {
+   "id": 2910,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT4PASSIVES/AFTER A4-DEFEAT_NETHER_REGENT.DAT | PASSIVE | DIALOG",
+   "en": "We've got the Estherian Steppes handled. Go get some well-deserved rest."
+  },
+  {
+   "id": 2911,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT4PASSIVES/AFTER A4-DEFEAT_NETHER_REGENT.DAT | PASSIVE | DIALOG",
+   "en": "You've defeated the Alchemist? Wonderful!"
+  },
+  {
+   "id": 2912,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT4PASSIVES/AFTER A4-DEFEAT_NETHER_REGENT.DAT | PASSIVE | DIALOG",
+   "en": "You've done so much for all of us. Thank you."
+  },
+  {
+   "id": 2913,
+   "mode": "translate",
+   "ctx": "QUESTS/ACT4PASSIVES/AFTER A4-INTRO_ACT_4.DAT | PASSIVE | DIALOG",
+   "en": "I think I've found an access point to the Mapworks.  Come back later and hopefully I'll have figured out how to safely operate it!"
+  },
+  {
+   "id": 2914,
+   "mode": "translate",
+   "ctx": "QUESTS/BOUNTYBOARD/BOUNTYBOARD-FIND-DEFILEDCRYPT.DAT | DETAILS | DIALOG",
+   "en": "Get a |cFFD1FF7A[ACQUIRE1]|u on floor |cFFD1FF7A[ACQUIRE1DEPTH]|u of the |cFFD1FF7ACorrupted Crypt|u, in the |cFFD1FF7APath of the Honored Dead|u."
+  },
+  {
+   "id": 2915,
+   "mode": "translate",
+   "ctx": "QUESTS/BOUNTYBOARD/BOUNTYBOARD-FIND-DEFILEDCRYPT.DAT | HUDDETAILS | DIALOG",
+   "en": "- Retrieve |cFFD1FF7A[ACQUIRE1]|u from the |cFFD1FF7ACorrupted CryptU"
+  },
+  {
+   "id": 2916,
+   "mode": "translate",
+   "ctx": "QUESTS/BOUNTYBOARD/BOUNTYBOARD-FIND-DEFILEDCRYPT.DAT | INTRO | DIALOG",
+   "en": "Get a |cFFD1FF7A[ACQUIRE1]|u on floor |cFFD1FF7A[ACQUIRE1DEPTH]|u of the Defiled Crypt.  The crypt can be entered via the |cFFD1FF7APath of the Honored Dead|u."
+  },
+  {
+   "id": 2917,
+   "mode": "translate",
+   "ctx": "QUESTS/BOUNTYBOARD/BOUNTYBOARD-FIND-TEMPLESTEPPES.DAT | HUDDETAILS | DIALOG",
+   "en": "- Get a |cFFD1FF7A[ACQUIRE1]|u in the |cFFD1FF7ATemple Steppes|u."
+  },
+  {
+   "id": 2918,
+   "mode": "translate",
+   "ctx": "QUESTS/BOUNTYBOARD/BOUNTYBOARD-FIND-TEMPLESTEPPES.DAT | INTRO | DIALOG",
+   "en": "Get a |cFFD1FF7A[ACQUIRE1]|u in the |cFFD1FF7ATemple Steppes|u."
+  },
+  {
+   "id": 2919,
+   "mode": "translate",
+   "ctx": "QUESTS/BOUNTYBOARD/BOUNTYBOARD-KILL-DEFILEDCRYPT.DAT | DETAILS | DIALOG",
+   "en": "Kill |cFFD1FF7A[DEFEAT1]|u in the |cFFD1FF7ACorrupted Crypt|u.  The crypt can be entered via the |cFFD1FF7APath of the Honored Dead|u."
+  },
+  {
+   "id": 2920,
+   "mode": "translate",
+   "ctx": "QUESTS/BOUNTYBOARD/BOUNTYBOARD-KILL-DEFILEDCRYPT.DAT | HUDDETAILS | DIALOG",
+   "en": "- Kill |cFFD1FF7A[DEFEAT1]|u in the |cFFD1FF7ADefiled Crypt|u."
+  },
+  {
+   "id": 2921,
+   "mode": "translate",
+   "ctx": "QUESTS/BOUNTYBOARD/BOUNTYBOARD-KILL-DEFILEDCRYPT.DAT | INTRO | DIALOG",
+   "en": "Kill |cFFD1FF7A[DEFEAT1]|u in the Defiled Crypt.  The crypt can be entered via the |cFFD1FF7APath of the Honored Dead|u."
+  },
+  {
+   "id": 2922,
+   "mode": "translate",
+   "ctx": "QUESTS/BOUNTYBOARD1.DAT | COMPLETE | DIALOG",
+   "en": "The Empire is grateful, and wishes to reward you for your valuable service!"
+  },
+  {
+   "id": 2923,
+   "mode": "translate",
+   "ctx": "QUESTS/BOUNTYBOARD1.DAT | DETAILS | DIALOG",
+   "en": "Kill 10 |cFFA1D0FCWarbeasts|u in the |cFFA1D0FCTemple Steppes|u, then return to the |cFFA1D0FCBounty Board|u in the |cFFA1D0FCEstherian Enclave|u for your reward."
+  },
+  {
+   "id": 2924,
+   "mode": "translate",
+   "ctx": "QUESTS/BOUNTYBOARD1.DAT | HUDDETAILS | DIALOG",
+   "en": "- Kill [DEFEAT1COUNT]/[DEFEATCOUNT] |cFFA1D0FCWarbeasts|u in the |cFFA1D0FCTemple Steppes|u"
+  },
+  {
+   "id": 2925,
+   "mode": "translate",
+   "ctx": "QUESTS/BOUNTYBOARD1.DAT | INTRO | DIALOG",
+   "en": "BOUNTY!\\n\\nCommander Vale of the Vanquisher Corps is offering a reward to anyone who can help thin out the packs of |cFFA1D0FCWarbeasts|u hampering colonization and defense efforts in Estheria.\\n\\nThis reward shall be paid to anyone who slays 10 or more |cFFA1D0FCWarbeasts|u in the |cFFA1D0FCTemple Steppes|u."
+  },
+  {
+   "id": 2926,
+   "mode": "translate",
+   "ctx": "QUESTS/BOUNTYBOARD1.DAT | RETURN | DIALOG",
+   "en": "Packs of Warbeasts infest certain key areas of the Temple Steppes. The invading Sturmbeorn armies use the Warbeasts as shock troops in their war against the Estherian people, hindering efforts to settle the area. The Empire needs capable adventurers to dispatch these beasts and pave the way for colonization efforts."
+  },
+  {
+   "id": 2927,
+   "mode": "translate",
+   "ctx": "QUESTS/EVENTS/EVENT_WAGONATTACK.DAT | COMPLETE | DIALOG",
+   "en": "Thanks for your help.  Here ... something for your trouble."
+  },
+  {
+   "id": 2928,
+   "mode": "translate",
+   "ctx": "QUESTS/EVENTS/EVENT_WAGONATTACK.DAT | DETAILS | DIALOG",
+   "en": "Defeat the monsters attacking the traveler's wagon."
+  },
+  {
+   "id": 2929,
+   "mode": "translate",
+   "ctx": "QUESTS/EVENTS/EVENT_WAGONATTACK.DAT | INTRO | DIALOG",
+   "en": "Somebody help me!"
+  },
+  {
+   "id": 2930,
+   "mode": "translate",
+   "ctx": "QUESTS/GLOBAL_MAPWORKS.DAT | COMPLETE | DIALOG",
+   "en": "The legendary Mapworks is operational once more! From the Mapworks, you can navigate to all sorts of wondrous places! Many fine adventures surely await you within."
+  },
+  {
+   "id": 2931,
+   "mode": "translate",
+   "ctx": "QUESTS/GLOBAL_NEWGAMEPLUS.DAT | COMPLETE | DIALOG",
+   "en": "You seem weary - perhaps you are in need of a fresh perspective. If you so desire, I can allow you to retrace your steps with all of the knowledge you currently possess. Simply ask, and I can show you the way!"
+  },
+  {
+   "id": 2932,
+   "mode": "translate",
+   "ctx": "QUESTS/GLOBAL_TRILLBOT.DAT | COMPLETE | DIALOG",
+   "en": "What do we have here?  Wow, this is a 4000 model! These are quite old - this one appears to have had a lot of work done to it. Not sure why it's in pieces - why don't we find out! Let me just put these together for you and we'll see what it has to say for itself."
+  },
+  {
+   "id": 2933,
+   "mode": "translate",
+   "ctx": "QUESTS/GLOBAL_TRILLBOT.DAT | DETAILS | DIALOG",
+   "en": "You found a strange piece of metal that appears to be some part of a robot. It has '4000' carved into it.  You wonder just how many more pieces there could be."
+  },
+  {
+   "id": 2934,
+   "mode": "translate",
+   "ctx": "QUESTS/GLOBAL_TRILLBOT.DAT | DETAILS | DIALOG_COMPLETE",
+   "en": "You appear to have enough pieces to put it together. Now all you need is a scientist who can figure out just how it should be done."
+  },
+  {
+   "id": 2935,
+   "mode": "translate",
+   "ctx": "QUESTS/GLOBAL_TRILLBOT.DAT | HUDDETAILS | DIALOG",
+   "en": "- Search for more pieces of the robot."
+  },
+  {
+   "id": 2936,
+   "mode": "translate",
+   "ctx": "QUESTS/GLOBAL_TRILLBOT.DAT | HUDDETAILS | DIALOG_COMPLETE",
+   "en": "- Find a scientist who can piece together the robot."
+  },
+  {
+   "id": 2937,
+   "mode": "translate",
+   "ctx": "QUESTS/GLOBAL_TRILLBOT_PART2.DAT | COMPLETE | DIALOG",
+   "en": "You've slain the vile |cFFFFBA00Sisters|u?  Excellent!  I shall write a new ending to my song.\\n\\nThe wicked three, dark powers found, and ruled a twisted land,\\nbut I could see, one honor bound, and victory was at hand!\\n\\nAh it will be a splendid tale!  Please, accept this token of my undying gratitude."
+  },
+  {
+   "id": 2938,
+   "mode": "translate",
+   "ctx": "QUESTS/GLOBAL_TRILLBOT_PART2.DAT | DETAILS | DIALOG",
+   "en": "The reconsituted Trillbot has presented you with a fragment of verse:\\n\\nThe spiders called, the sisters three, the old trunk yawning wide,\\nThrough ancient halls, dark ancestry, they met their fates inside.\\n\\nPerhaps you should investigate a tree trunk in an area full of spiders."
+  },
+  {
+   "id": 2939,
+   "mode": "translate",
+   "ctx": "QUESTS/GLOBAL_TRILLBOT_PART2.DAT | DETAILS | DIALOG_COMPLETE",
+   "en": "You've slain the three sisters, and you're pretty sure they were evil.  Check back with Trillbot."
+  },
+  {
+   "id": 2940,
+   "mode": "translate",
+   "ctx": "QUESTS/GLOBAL_TRILLBOT_PART2.DAT | HUDDETAILS | DIALOG",
+   "en": "Defeat the |cFFFFBA00Three Sisters|u in the |cFFFFBA00Battlefield|u."
+  },
+  {
+   "id": 2941,
+   "mode": "translate",
+   "ctx": "QUESTS/GLOBAL_TRILLBOT_PART2.DAT | HUDDETAILS | DIALOG_COMPLETE",
+   "en": "Return to |cFFFFBA00Trillbot|u at the |cFFFFBA00Imperial Camp|u"
+  },
+  {
+   "id": 2942,
+   "mode": "translate",
+   "ctx": "QUESTS/GLOBAL_TRILLBOT_PART2.DAT | INTRO | DIALOG",
+   "en": "Greetings!  I am the great bard |cFFFFBA00Trill|u.  You've heard of me of course, my talent is known throughout all of Veras.  From Torchlight to Redhaven they sing of my.. songs.\\n\\nTorchlight... did something happen there?  I feel a bit...  Ah, nevermind.  I recognize this place!\\n\\nThe spiders called, |cFFFFBA00the Sisters three|u, the |cFFFFBA00old trunk yawning wide|u,\\nThrough ancient halls, dark ancestry, they met their fates inside.\\n\\nAn apt verse, you'll agree.  I wrote it myself of course."
+  },
+  {
+   "id": 2943,
+   "mode": "translate",
+   "ctx": "QUESTS/GLOBAL_TRILLBOT_PART2.DAT | RETURN | DIALOG",
+   "en": "The spiders called, |cFFFFBA00the Sisters three|u, the |cFFFFBA00old trunk yawning wide|u,\\nThrough ancient halls, dark ancestry, they met their fates inside.\\n\\nThe rest of the song eludes me... Leniency please!  Of course such a lapse is unforgivable in a great bard such as myself, but I feel a bit.. off.\\n\\nStill, even that bare fragment of verse can lead you to glory.  Go forth, brave warrior, and slay the mighty beasts!  Whatever they may be..."
+  }
+ ]
+}

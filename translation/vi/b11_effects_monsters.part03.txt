@@ -1,0 +1,300 @@
+@@ 4367
++[VALUE]% Mana tiêu hao của kỹ năng
+@@ 4368
++[VALUE]% |c00ff9933Charge|u mất đi mỗi giây do hao hụt
+@@ 4369
++[VALUE]m tầm bắn của Bow, Crossbow, Pistol và Wand
+@@ 4370
+-[VALUE] mọi loại giáp mỗi đòn đánh
+@@ 4371
+-[VALUE] yêu cầu trang bị giáp
+@@ 4372
+-[VALUE] yêu cầu học phép
+@@ 4373
+-[VALUE] mọi yêu cầu chỉ số nhân vật của vật phẩm
+@@ 4374
+-[VALUE] yêu cầu trang bị pháp sư
+@@ 4375
+-[VALUE] yêu cầu trang bị chiến binh
+@@ 4376
+-[VALUE] yêu cầu trang bị tầm xa
+@@ 4377
+-[VALUE]% sát thương [DMGTYPE] nhận vào cho mỗi quái trong phạm vi [VALUE3]m
+@@ 4378
+Thưởng [VALUE] điểm thuộc tính
+@@ 4379
+Tạo cổng dịch chuyển đến điểm dịch chuyển
+@@ 4380
+Thời gian hồi hiện tại của [NAME] tăng [VALUE] giây
+@@ 4381
+Hủy triệu hồi một [NAME]
+@@ 4382
+Giải phù phép vật phẩm thành vàng, hoặc có cơ hội nhận Gem hiếm
+@@ 4383
+Phát nổ khi chết
+@@ 4384
+Làm đơn vị mờ dần
+@@ 4385
+Tạo [VALUE]% |c00ff9933Charge|u
+@@ 4386
+Tăng [VALUE] điểm Charge trên thanh
+@@ 4387
+Tiêu diệt đơn vị ngay lập tức
+@@ 4388
+Học [NAME]
+@@ 4389
+Tay sai gây [VALUE] sát thương [DMGTYPE]
+@@ 4390
+NA
+@@ 4391
+Tăng vĩnh viễn [VALUE] Dexterity
+@@ 4392
+Tăng vĩnh viễn [VALUE] Focus
+@@ 4393
+Tăng vĩnh viễn [VALUE] máu
+@@ 4394
+Tăng vĩnh viễn [VALUE] Mana
+@@ 4395
+Tăng vĩnh viễn [VALUE] Strength
+@@ 4396
+Tăng vĩnh viễn [VALUE] Vitality
+@@ 4397
+Kéo mục tiêu lại gần
+@@ 4398
+Hoàn lại toàn bộ điểm kỹ năng
+@@ 4399
+Đặt thời gian hồi hiện tại của [NAME] thành [VALUE] giây
+@@ 4400
+Làm đơn vị hiện hình
+@@ 4401
+Đổi vị trí với Pet
+@@ 4402
+Đã khóa mục tiêu
+@@ 4403
+Thời gian trước khi |c00ff9933Charge|u hao hụt được kéo dài thêm [VALUE] giây
+@@ 4404
+Biến thành [NAME] trong [VALUE1ASDURATION]
+@@ 4405
+Biến thành [NAME] vĩnh viễn
+@@ 4406
+Thời gian biến hình tăng [VALUE]%
+@@ 4407
+Dịch chuyển đến một hầm ngục xác định
+@@ 4408
+Sát thương [DMGTYPE] nhận vào giảm [VALUE]%
+@@ 4409
+Sát thương [DMGTYPE] nhận vào giảm [VALUE]
+@@ 4410
+Tăng [VALUE1ASDURATION] thời gian triệu hồi
+@@ 4411
+[VALUE1]% tỉ lệ dịch chuyển mục tiêu ra xa [VALUE3]-[VALUE4] yard
+@@ 4412
+[VALUE3]% tỉ lệ làm mù [VALUE]%
+@@ 4413
+[VALUE3]% tỉ lệ sinh ra [VALUE1] đơn vị
+@@ 4414
+[VALUE3]% tỉ lệ sinh ra [VALUE1] đơn vị khi chết
+@@ 4415
+[VALUE5]% tỉ lệ gây +[VALUE] sát thương [DMGTYPE]
+@@ 4416
+[VALUE] sát thương tinh thần
+@@ 4417
+[VALUE] độ tương lai
+@@ 4418
+Hồi [VALUE] máu mỗi giây
+@@ 4419
+Hút [VALUE] máu cho chủ nhân khi đánh trúng
+@@ 4420
+Hút [VALUE] máu khi đánh trúng
+@@ 4421
+Hồi [VALUE] Mana
+@@ 4422
+Hồi [VALUE] Mana mỗi giây
+@@ 4423
+Hút [VALUE] Mana khi đánh trúng
+@@ 4424
+[VALUE] tay mềm như bún
+@@ 4425
+[VALUE] đôi tất
+@@ 4426
+[VALUE] sát thương [DMGTYPE] phản lại
+@@ 4427
+Hấp thụ [VALUE] điểm sát thương [DMGTYPE]
+@@ 4428
+[VALUE]% tỉ lệ chặn [NAME]
+@@ 4429
+Tăng [VALUE]% sát thương khi cầm hai vũ khí
+@@ 4430
+Phản [VALUE]% sát thương lại kẻ tấn công
+@@ 4431
+[VALUE]% hồi máu
+@@ 4432
+[VALUE]% hút máu
+@@ 4433
+[VALUE]% hút máu cho chủ nhân
+@@ 4434
+[VALUE]% kháng bất động
+@@ 4435
+Tăng [VALUE]% tỉ lệ đánh trượt
+@@ 4436
+[VALUE]% tỉ lệ ngắt đòn
+@@ 4437
+[VALUE]% kháng đẩy lùi
+@@ 4438
+[VALUE]% hút Mana
+@@ 4439
+[VALUE]% kháng mê hoặc
+@@ 4440
+[VALUE]% kháng hoảng sợ
+@@ 4441
+[VALUE]% kháng câm lặng
+@@ 4442
+Tăng [VALUE]% tầm nhìn
+@@ 4443
+[VALUE]% kháng làm chậm
+@@ 4444
+[VALUE]% kháng choáng
+@@ 4445
+Tăng [VALUE]% góc nhìn
+@@ 4446
+Tăng [VALUE]% sát thương chí mạng
+@@ 4447
+[VALUE]% tỉ lệ để chủ nhân chuyển mục tiêu sang đơn vị trong phạm vi [VALUE2] mét
+@@ 4448
+[VALUE]% tỉ lệ làm mù
+@@ 4449
+[VALUE]% tỉ lệ [NAME] khi tiêu diệt kẻ địch
+@@ 4450
+[VALUE]% tỉ lệ khiến mục tiêu bỏ chạy trong [DURATION]
+@@ 4451
+[VALUE]% tỉ lệ đỡ đòn
+@@ 4452
+[VALUE]% tỉ lệ thiêu đốt
+@@ 4453
+[VALUE]% tỉ lệ đóng băng
+@@ 4454
+[VALUE]% tỉ lệ gây trúng độc
+@@ 4455
+[VALUE]% tỉ lệ gây sốc điện
+@@ 4456
+[VALUE]% tỉ lệ làm choáng mục tiêu
+@@ 4457
+[VALUE]% tỉ lệ khiêu khích quái cách xa [VALUE2] mét
+@@ 4458
+[VALUE]% tỉ lệ phá khiên của kẻ địch
+@@ 4459
+[VALUE]% tỉ lệ thi triển [NAME]
+@@ 4460
+[VALUE]% tỉ lệ thi triển [NAME]
+@@ 4461
+[VALUE]% tỉ lệ thi triển [NAME] vào mục tiêu
+@@ 4462
+[VALUE]% tỉ lệ thi triển [NAME] từ mục tiêu
+@@ 4463
+[VALUE]% tỉ lệ thi triển [NAME] khi chết
+@@ 4464
+[VALUE]% tỉ lệ thi triển [NAME] khi tiêu diệt kẻ địch
+@@ 4465
+[VALUE]% tỉ lệ thi triển [NAME] khi đánh trúng
+@@ 4466
+[VALUE]% tỉ lệ thi triển [NAME] lên mục tiêu
+@@ 4467
+[VALUE]% tỉ lệ thi triển [NAME] khi bạn bị đánh trúng
+@@ 4468
+[VALUE]% tỉ lệ mê hoặc mục tiêu trong [DURATION]
+@@ 4469
+[VALUE]% tỉ lệ vô hiệu hóa bẫy
+@@ 4470
+[VALUE]% tỉ lệ làm bất động mục tiêu
+@@ 4471
+[VALUE]% tỉ lệ phản đạn với [VALUE3AND4]% DPS vũ khí
+@@ 4472
+Giảm [VALUE]% thời gian Pet đi về thị trấn
+@@ 4473
+Tăng [VALUE]% tốc độ di chuyển
+@@ 4474
+Giá mua bán với thương nhân tốt hơn [VALUE]%
+@@ 4475
+Tăng [VALUE]% may mắn tìm đồ ma thuật
+@@ 4476
+Tăng [VALUE]% lượng kinh nghiệm nhận được
+@@ 4477
+Tăng [VALUE]% lượng Fame nhận được
+@@ 4478
+Tăng [VALUE]% lượng vàng nhặt được
+@@ 4479
+Tăng [VALUE]% may mắn câu cá
+@@ 4480
+Giảm [VALUE]% yêu cầu cấp của vật phẩm
+@@ 4481
+Giảm [VALUE]% tỉ lệ ra đòn hỏng
+@@ 4482
+Giảm [VALUE]% mức phạt sát thương khi ra đòn hỏng
+@@ 4483
+[VALUE]% kháng mù
+@@ 4484
+[VALUE]% kháng dịch chuyển
+@@ 4485
+Tốc độ hao hụt |c00ff9933Charge|u giảm [VALUE]%
+@@ 4486
+Tốc độ tích |c00ff9933Charge|u tăng [VALUE]%
+@@ 4487
+|cFFFF0000VẬT PHẨM GIAN LẬN|u
+@@ 4488
+(đặt HP sẽ ghi đè HP%) Chỉ dùng hiệu ứng này cho khiên!
+@@ 4489
++[VALUE] giáp trong [DURATION]
+@@ 4490
++[VALUE] phòng thủ phép trong [DURATION]
+@@ 4491
++[VALUE] sát thương lên mục tiêu phụ trong [DURATION]
+@@ 4492
++[VALUE] điểm Dexterity trong [DURATION]
+@@ 4493
++[VALUE] giáp Electric trong [DURATION]
+@@ 4494
++[VALUE] giáp Fire trong [DURATION]
+@@ 4495
++[VALUE] điểm Focus trong [DURATION]
+@@ 4496
++[VALUE] máu trong [DURATION]
+@@ 4497
++[VALUE] giáp Ice trong [DURATION]
+@@ 4498
++[VALUE] Mana trong [DURATION]
+@@ 4499
++[VALUE] sát thương vũ khí cận chiến trong [DURATION]
+@@ 4500
++[VALUE] giáp Poison trong [DURATION]
+@@ 4501
++[VALUE] điểm Strength trong [DURATION]
+@@ 4502
++[VALUE] điểm Vitality trong [DURATION]
+@@ 4503
++[VALUE] lượng vàng rơi ra trong [DURATION]
+@@ 4504
++[VALUE] yêu cầu trang bị tầm xa trong [DURATION]
+@@ 4505
++[VALUE] giây thiêu đốt/sốc điện/đóng băng/trúng độc trong [DURATION]
+@@ 4506
++[VALUE] giây thời gian thiêu đốt trong [DURATION]
+@@ 4507
++[VALUE] giây thời gian đóng băng trong [DURATION]
+@@ 4508
++[VALUE] giây thời gian trúng độc trong [DURATION]
+@@ 4509
++[VALUE] giây thời gian sốc điện trong [DURATION]
+@@ 4510
++[VALUE] mọi loại giáp trong [DURATION]
+@@ 4511
++[VALUE] cấp phép tấn công trong [DURATION]
+@@ 4512
++[VALUE] cấp phép bùa chú trong [DURATION]
+@@ 4513
++[VALUE] cấp phép phòng thủ trong [DURATION]
+@@ 4514
++[VALUE] giáp [DMGTYPE] trong [DURATION]
+@@ 4515
++[VALUE]% tốc độ đánh trong [DURATION]
+@@ 4516
++[VALUE]% tốc độ thi triển trong [DURATION]

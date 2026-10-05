@@ -1,0 +1,300 @@
+@@ 4667
+Vũ khí hồn ma - Phép mạnh mẽ - Dịch chuyển tức thời - Gọi dậy Skeleton cổ đại
+@@ 4668
+Đòn chém - Lao tới tấn công - Tấn công bằng hơi thở - Triệu hồi tay sai - Đập bằng tảng đá - Tấn công bằng lửa - Phép Nether
+@@ 4669
+Hình thái bóng tối - Đòn chém - Tấn công bằng hơi thở - Triệu hồi tay sai
+@@ 4670
+Tướng Sturmbeorn - Tấn công bằng chất nổ và động đất\n
+@@ 4671
+Phóng ra tia sốc điện
+@@ 4672
+Ẩn nấp dưới lòng đất
+@@ 4673
+Đẻ ra Dune Burrower
+@@ 4674
+Champion Beast - Đẻ ra Dune Burrower
+@@ 4675
+Người máy phiền phức
+@@ 4676
+Thi triển hào quang và khiên - Phép chậm nhưng uy lực cao - Phát nổ khi chết
+@@ 4677
+Champion Sturmbeorn
+@@ 4678
+Đơn vị thử nghiệm kỹ năng Champion: Loạt đạn
+@@ 4679
+Đơn vị thử nghiệm kỹ năng Champion: Dịch chuyển tức thời khi bị đánh
+@@ 4680
+Thử nghiệm kỹ năng Champion: Cyclone, khiên hào quang cho bản thân
+@@ 4681
+Thi triển phép Fire
+@@ 4682
+Thử nghiệm kỹ năng Champion: hào quang, khiên phản đòn, siêu tia/thiên thạch/loạt đạn
+@@ 4683
+Thi triển phép Ice
+@@ 4684
+Đơn vị thử nghiệm kỹ năng Champion: Dịch chuyển tức thời khi bị đánh, Void Ray
+@@ 4685
+Champion thử nghiệm: Tạo khiên kháng loại sát thương vừa đánh trúng nó
+@@ 4686
+Đơn vị thử nghiệm kỹ năng Champion: Tự tăng tốc, nhưng bị sát thương sẽ phá vỡ hiệu ứng tăng tốc.
+@@ 4687
+Sturmbeorn bị tha hóa
+@@ 4688
+Hồi sinh Undead - Phóng linh hồn tha hóa
+@@ 4689
+Champion Sturmbeorn - Thi triển phép Fire
+@@ 4690
+Đập khiên - Khiên có thể bị phá vỡ
+@@ 4691
+Champion Sturmbeorn - Tấn công liên hoàn
+@@ 4692
+Chém cực mạnh
+@@ 4693
+Thợ rèn Elite - Kiếm phù phép Fire
+@@ 4694
+Thợ rèn Elite - Chùy phù phép sét
+@@ 4695
+Phóng giáo
+@@ 4696
+Bị bóng ma nhập - Vụ nổ linh hồn
+@@ 4697
+Undead
+@@ 4698
+Undead - Ném rìu
+@@ 4699
+Crab - Có thể đỡ đòn - Miễn nhiễm ngắt đòn - Miễn nhiễm đẩy lùi
+@@ 4700
+Crab - Gây sốc điện khi bị đánh
+@@ 4701
+Loài giáp xác phô trương
+@@ 4702
+Sợ bơ nóng
+@@ 4703
+Hssssss.
+@@ 4704
+Hãy bảo vệ viên pha lê này!
+@@ 4705
+Hồi sinh các Nether Thrall đã ngã xuống - Phóng tia dịch bệnh
+@@ 4706
+Quất roi tầm xa
+@@ 4707
+Đòn đập
+@@ 4708
+Champion Netherim - Đòn đập
+@@ 4709
+Tia bóng tối - Gọi sên Netherim từ xác các giáo đồ đã chết
+@@ 4710
+Tia bóng tối - Gọi Netherling Larva từ xác các giáo đồ đã chết
+@@ 4711
+Tia bóng tối - Gọi Netherling Larva từ xác các giáo đồ đã chết\n
+@@ 4712
+Ném những khối mầm bệnh phát nổ
+@@ 4713
+Ấp nở Netherling Larva
+@@ 4714
+Tiến hóa thành Netherling
+@@ 4715
+Thi triển Fireball
+@@ 4716
+Kháng đòn tấn công Elemental
+@@ 4717
+Làm rơi Golden Key
+@@ 4718
+Bổ nhào tấn công
+@@ 4719
+Dịch chuyển tức thời
+@@ 4720
+Độc hại - Bổ nhào tấn công
+@@ 4721
+Bắn đạn Fire - Kháng Fire rất cao
+@@ 4722
+Tấn công Ice - Rất nhanh
+@@ 4723
+Gọi bầy Frost Screecher
+@@ 4724
+Hệ Electric - Gây sốc điện khi bị đánh
+@@ 4725
+Tiếng rít gây tê liệt
+@@ 4726
+Mở Phase Portal khi chết
+@@ 4727
+Xoay tròn làm choáng - Bổ mạnh từ trên xuống - Miễn nhiễm đẩy lùi
+@@ 4728
+Firebombs - Phi tiêu than hồng - Dịch chuyển tức thời
+@@ 4729
+Tấn công bằng súng phun lửa - Bắn Fireball truy đuổi
+@@ 4730
+Đánh nhanh - Kéo bằng xích
+@@ 4731
+Phép Fire mạnh mẽ
+@@ 4732
+Đòn tấn công Ice mạnh mẽ - Nổ đóng băng khi chết
+@@ 4733
+Dịch chuyển tức thời - Phép Electric mạnh mẽ
+@@ 4734
+Phép Poison mạnh mẽ - Triệu hồi Zombie
+@@ 4735
+Triệu hồi Shadewisp - Dịch chuyển tức thời
+@@ 4736
+Phát nổ sau một lúc ngắn
+@@ 4737
+Tung quạt bóng tối - Triệu hồi sinh vật từ hố sâu - Sandstorm
+@@ 4738
+Lộn ngược ra sau đâm dao găm
+@@ 4739
+Rất nhanh
+@@ 4740
+Phát nổ khi chết - Khiên phản đòn
+@@ 4741
+Vuốt tóm tầm xa
+@@ 4742
+Phát nổ khi đến gần
+@@ 4743
+Vùng hút Mana - Đạn truy đuổi
+@@ 4744
+Tung quạt bóng tối - Vùng hút Mana
+@@ 4745
+Rất nhanh - Tạo điểm kỳ dị Mana khi chết
+@@ 4746
+Bắn tia sốc điện
+@@ 4747
+Lao tới bằng khiên - Khiên chặn sát thương
+@@ 4748
+Bắn tầm xa - Ném Shrapnel Crawler
+@@ 4749
+Đánh kép - Lộn ngược tấn công
+@@ 4750
+Tạo Vile Gnasher từ xác chết
+@@ 4751
+Champion Undead - Tạo Vile Gnasher từ xác chết
+@@ 4752
+Đại dịch bắt đầu từ bây giờ...
+@@ 4753
+Tạo Dune Fiend từ xác chết
+@@ 4754
+Tạo Tomb Fiend từ xác chết
+@@ 4755
+Champion Undead - Tạo Tomb Fiend từ xác chết
+@@ 4756
+Tạo Tomb Fiend từ xác chết\n
+@@ 4757
+Nhấn chìm kẻ địch trong biển lửa
+@@ 4758
+Phát tán Fungal Spore
+@@ 4759
+Bùng nổ bào tử - Đòn đập Poison - Đám khí đầm lầy
+@@ 4760
+Tia lửa đầm lầy - Loạt đạn thiêu đốt
+@@ 4761
+Lửa đầm lầy truy đuổi - Loạt đạn thiêu đốt - Rễ cây trói buộc
+@@ 4762
+Đòn đập Poison - Đám khí đầm lầy - Không thể bị ngắt đòn
+@@ 4763
+Tấn công bằng bào tử - Tay sai nấm
+@@ 4764
+Nhanh - Vũng độc
+@@ 4765
+Phát nổ và sinh ra Mycon mới
+@@ 4766
+Nhảy tránh nguy hiểm - Bỏ chạy khi đồng minh ngã xuống
+@@ 4767
+Nhảy tránh nguy hiểm - Bỏ chạy khi đồng minh ngã xuống\n
+@@ 4768
+Phát nổ Electric - Bỏ chạy khi đồng minh ngã xuống
+@@ 4769
+Vòng hút Mana - Triệu hồi Myconite
+@@ 4770
+Ném hạt bào tử về phía người chơi, chúng sẽ lớn lên rồi phát nổ
+@@ 4771
+Phóng tia Poison truy đuổi khi phát nổ
+@@ 4772
+Bào tử phát nổ!
+@@ 4773
+Lao tới tấn công - Nện đất - Không thể bị ngắt đòn - Phản đạn
+@@ 4774
+Hóa đá - Kháng Elemental cao
+@@ 4775
+Lao tới tấn công - Không thể bị ngắt đòn
+@@ 4776
+Tấn công bằng mây axit
+@@ 4777
+Tấn công bằng gai băng - Kháng đòn tấn công Ice rất cao
+@@ 4778
+Tấn công bằng gai băng - Tự hồi máu - Hãy dùng Fire để tiêu diệt!
+@@ 4779
+Ném cục nhầy
+@@ 4780
+Tạo ra Noxious Gel
+@@ 4781
+Tar Slime cỡ siêu lớn
+@@ 4782
+Vua của chất nhờn đen
+@@ 4783
+Viết hoa chữ "T"
+@@ 4784
+Tar Slime quá khổ
+@@ 4785
+Khi chết sinh ra những cục nhầy có thể giẫm bẹp
+@@ 4786
+Tar Slime tốc độ
+@@ 4787
+Mềm nhũn dưới chân bạn
+@@ 4788
+Ném những cục hắc ín dính
+@@ 4789
+Hút máu
+@@ 4790
+Tăng sức tấn công cho Goblin
+@@ 4791
+Mang theo linh kiện kíp nổ
+@@ 4792
+Tấn công bằng mũi tên Ice
+@@ 4793
+Khiến Goblin gần đó nổi điên
+@@ 4794
+Hồi sinh Goblin - Dựng Goblin Totem
+@@ 4795
+Ném khối thuốc nổ
+@@ 4796
+Bỏ chạy khi đồng minh ngã xuống
+@@ 4797
+Đào Skeleton lên
+@@ 4798
+Đào Skeleton lên - Kháng Electric
+@@ 4799
+Bốc cháy khi bị đánh
+@@ 4800
+Nhảy vồ
+@@ 4801
+Cực nhanh - Nhảy vồ
+@@ 4802
+Thi triển phép truy đuổi và phép Poison
+@@ 4803
+Thi triển Meteor và phép Fire
+@@ 4804
+Lao tới tấn công - Gây chảy máu
+@@ 4805
+Đánh nhanh - Không thể bị ngắt đòn
+@@ 4806
+Xé nát kẻ địch
+@@ 4807
+Oanh tạc kẻ địch
+@@ 4808
+Ancient Beast - Quạt cánh - Nện đất
+@@ 4809
+Ancient Beast - Quạt cánh - Mảnh đá văng - Sandstorm
+@@ 4810
+Ancient Beast - Mảnh đá văng - Sandstorm
+@@ 4811
+Thợ rèn Zeraphi
+@@ 4812
+Lo lắng trông chừng đám anh em họ của mình
+@@ 4813
+Anh em họ của Sprocket
+@@ 4814
+Thương nhân đa năng
+@@ 4815
+Thợ rèn
+@@ 4816
+Phù phép Poison cho vật phẩm

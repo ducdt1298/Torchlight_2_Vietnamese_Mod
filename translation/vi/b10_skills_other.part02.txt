@@ -1,0 +1,200 @@
+@@ 3610
+Cột băng tồn tại 16 giây
+@@ 3611
+Cột băng tồn tại 15 giây
+@@ 3612
+Cột băng tồn tại 20 giây
+@@ 3613
+Cột băng tồn tại 19 giây
+@@ 3614
+Cột băng tồn tại 18 giây
+@@ 3615
+Cột băng tồn tại 17 giây
+@@ 3616
+Cột băng tồn tại 22 giây
+@@ 3617
+Cột băng tồn tại 21 giây
+@@ 3618
+Bạn triệu hồi các cột băng quanh mục tiêu, nhốt nó bên trong. Tuy vậy, bạn vẫn có thể đi xuyên qua rào chắn. Các cột băng phản sát thương lại kẻ địch tấn công chúng.
+@@ 3619
+Cột băng gây sát thương khi vỡ tan
+@@ 3620
+Kẻ địch trong ngục băng chịu sát thương theo thời gian
+@@ 3621
+Thời gian hồi giảm còn 2 giây.
+@@ 3622
+Bạn phóng ra một làn sóng mảnh băng, xuyên thủng và đóng băng kẻ địch trên đường đi.
+@@ 3623
+Phóng ra 3 làn sóng băng tỏa rộng
+@@ 3624
+Tốc độ sóng băng tăng lên
+@@ 3625
+Phóng ra 5 làn sóng băng tỏa rộng
+@@ 3626
+Bạn phóng ra hai dải mảnh băng dài, xuyên thủng và đóng băng kẻ địch trên đường đi.
+@@ 3627
+Hiệu ứng có lợi hồi phục Mana của Leyline
+@@ 3628
+Bạn triệu hồi một cây chùy lửa khổng lồ dẫn truyền năng lượng từ vũ khí của bạn, làm choáng kẻ địch trong vòng cung 5 mét và thiêu đốt chúng. Magma Mace không tích |c00ff9933Charge|u.
+@@ 3629
+Magma Mace có 25% cơ hội phá khiên
+@@ 3630
+Đòn đánh làm chậm tốc độ đánh của kẻ địch 33% trong 3 giây
+@@ 3631
+Đòn đánh làm chậm tốc độ đánh của kẻ địch 67% trong 3 giây
+@@ 3632
+Bạn liên tục bắn ra một loạt dung nham, xuyên thủng và thiêu đốt kẻ địch. Tầm bắn là 16 mét.
+@@ 3633
+Tầm bắn tăng lên 24 mét
+@@ 3634
+Thời gian thiêu đốt tăng lên 6 giây
+@@ 3635
+Magma Spear nảy bật
+@@ 3636
+Mỗi khi gây sát thương chí mạng, Arbiter được luồng năng lượng nguyên tố dâng trào tiếp thêm sức lực.
+@@ 3637
+Bạn tạo ra một khối cầu nhiệt cô đặc, đột ngột bùng nổ ra xung quanh thành một vụ nổ hủy diệt rộng 4 mét.
+@@ 3638
+Bán kính vụ nổ tăng lên 5 mét. Tăng đẩy lùi.
+@@ 3639
+Bán kính vụ nổ tăng lên 6 mét. Tăng đẩy lùi.
+@@ 3640
+Bán kính vụ nổ tăng lên 7 mét. Tăng đẩy lùi.
+@@ 3641
+Đòn tấn công bằng Wand có thể gây ra những xáo trộn nguyên tố kỳ quái và ngẫu nhiên. Các hiệu ứng này cũng có thể xảy ra với các kỹ năng Magma Mace, Magma Spear, Icy Blast và Shockbolts.
+@@ 3642
+Yêu cầu Wand
+@@ 3643
+Năng lượng hỗn loạn của bạn dịch chuyển kẻ địch đi nơi khác khi chúng đánh trúng bạn, kèm cơ hội gây hiệu ứng nguyên tố ngẫu nhiên.
+@@ 3644
+Sự thành thạo |c00ff9933Charge|u giúp bạn tích nhanh hơn và giữ được lâu hơn.
+@@ 3645
+Embermage hòa hợp tinh tế với các nguyên tố, gây hiệu ứng nguyên tố lên kẻ địch gần đó và kéo dài thời gian hiệu lực của mọi hiệu ứng nguyên tố.
+@@ 3646
+Khi đánh trúng kẻ địch đang bị thiêu đốt, bạn gây thêm một đợt sát thương Fire.
+@@ 3647
+Khi đánh trúng kẻ địch đang bị đóng băng, bạn gây thêm một đợt sát thương Ice.
+@@ 3648
+Khi đánh trúng kẻ địch đang bị sốc điện, bạn gây thêm một đợt sát thương Electric.
+@@ 3649
+Sự thành thạo Staff giúp bạn giảm kháng Elemental của kẻ địch khi đánh trúng chúng. Các hiệu ứng này cũng áp dụng cho các kỹ năng Magma Mace, Magma Spear, Icy Blast và Shockbolts.
+@@ 3650
+Yêu cầu Staff
+@@ 3651
+Kẻ địch gần đó bị dịch chuyển đi nơi khác theo ý muốn của người thi triển.  Kẻ địch bị ảnh hưởng sẽ kháng các lần dịch chuyển tiếp theo trong một thời gian ngắn.
+@@ 3652
+Bạn tung ra một loạt 5 tia sáng ngũ sắc tự tìm đến kẻ địch gần đó.
+@@ 3653
+Sát thương tăng 10%
+@@ 3654
+Sát thương tăng 20%
+@@ 3655
+Sát thương tăng 30%
+@@ 3656
+Bạn trói buộc sinh khí của mọi kẻ địch trong phạm vi 6 mét quanh mục tiêu. Khi chúng chết, máu và Mana của chúng được hút về bạn hoặc người chơi khác qua 3 tia linh hồn. Lượng máu và Mana hồi phục ghi trên được tính cho mỗi tia linh hồn.
+@@ 3657
+Phóng ra 4 tia linh hồn và kẻ địch bị làm chậm trong 2 giây
+@@ 3658
+Phóng ra 5 tia linh hồn và tốc độ thi triển tăng 50%
+@@ 3659
+Phóng ra 6 tia linh hồn và kẻ địch bị làm choáng trong 1 giây
+@@ 3660
+Những tấm khiên bí thuật tiến về phía trước, đẩy lùi kẻ địch.  Gây thêm sát thương khi đang có hiệu ứng có lợi.
+@@ 3661
+Bạn liên tục tung ra những luồng năng lượng lách tách, gây sốc điện và làm choáng mọi kẻ địch trong phạm vi 8 mét theo góc 75 độ. Luồng năng lượng tiếp tục phóng ra và tiêu hao Mana chừng nào bạn còn giữ nút chuột.
+@@ 3662
+Góc quét mở rộng lên 105 độ
+@@ 3663
+Góc quét mở rộng lên 135 độ
+@@ 3664
+Góc quét mở rộng lên 165 độ
+@@ 3665
+Bạn phóng ra 4 tia tích điện, chạy dọc mặt đất và nảy bật khỏi các vật thể xung quanh
+@@ 3666
+Tia điện có 10% cơ hội làm bất động
+@@ 3667
+Tia điện bay nhanh hơn
+@@ 3668
+Tăng lên 5 tia điện khi phóng
+@@ 3669
+Bạn phóng ra một quả cầu điện di chuyển chậm, phóng điện vào kẻ địch khi bay qua
+@@ 3670
+Phóng ra 3 quả cầu
+@@ 3671
+Quả cầu nảy bật
+@@ 3672
+Tầm phóng điện tăng 50%
+@@ 3673
+Tia sét bay xa tối đa 10m
+@@ 3674
+Tia sét bay xa tối đa 12m
+@@ 3675
+Tia sét bay xa tối đa 11m
+@@ 3676
+Tia sét bay xa tối đa 14m
+@@ 3677
+Tia sét bay xa tối đa 13m
+@@ 3678
+Tia sét bay xa tối đa 16m
+@@ 3679
+Tia sét bay xa tối đa 15m
+@@ 3680
+Tia sét bay xa tối đa 18m
+@@ 3681
+Tia sét bay xa tối đa 17m
+@@ 3682
+Tia sét bay xa tối đa 22m
+@@ 3683
+Tia sét bay xa tối đa 21m
+@@ 3684
+Tia sét bay xa tối đa 20m
+@@ 3685
+Tia sét bay xa tối đa 19m
+@@ 3686
+Tia sét bay xa tối đa 24m
+@@ 3687
+Tia sét bay xa tối đa 23m
+@@ 3688
+Bạn gọi sét từ trời cao giáng xuống, oanh tạc kẻ địch gần đó bằng nhiều tia sét. Trong khi thi triển Lightning Storm, bạn chịu ít sát thương hơn.
+@@ 3689
+Bạn triệu hồi một cơn giông cô đặc tại vị trí chỉ định, oanh tạc kẻ địch trong phạm vi 7 mét suốt thời gian nó tồn tại. Thunder Locus không tích |c00ff9933Charge|u.
+@@ 3690
+Locus có thể oanh tạc hai kẻ địch cùng lúc
+@@ 3691
+Locus có thể oanh tạc ba kẻ địch cùng lúc
+@@ 3692
+Locus có thể oanh tạc bốn kẻ địch cùng lúc
+@@ 3693
+Bạn biến mất khỏi một vị trí và lập tức xuất hiện ở vị trí khác, gây sát thương Ice ở cả hai nơi trong một vụ nổ rộng 2.5 mét.
+@@ 3694
+Bán kính vụ nổ tăng lên 3.75 mét
+@@ 3695
+Bán kính vụ nổ tăng lên 5 mét
+@@ 3696
+Bán kính vụ nổ tăng lên 6.25 mét
+@@ 3697
+Phóng ra một đĩa lửa phát nổ.
+@@ 3698
+Hào quang được thi triển khi đơn vị xuất hiện
+@@ 3699
+Đồng minh sẽ phát nổ khi bị giết
+@@ 3700
+Giúp đồng minh hồi phục máu
+@@ 3701
+Hào quang ngẫu nhiên được thi triển khi đơn vị xuất hiện
+@@ 3702
+Ban cho các đơn vị phe mình khả năng kháng của Champion
+@@ 3703
+Che chắn đồng minh khỏi tổn hại.
+@@ 3704
+Được giảm sát thương phải chịu với mỗi đồng minh trong phạm vi hào quang
+@@ 3705
+Làm chậm tốc độ di chuyển, tốc độ đánh và tốc độ thi triển của kẻ địch
+@@ 3706
+Tăng tốc độ di chuyển, tốc độ đánh và tốc độ thi triển của đồng minh
+@@ 3707
+Một loạt đạn phép truy đuổi kẻ địch
+@@ 3708
+Một cơn lốc dai dẳng cuộn xoáy khắp chiến trường
+@@ 3709
+Tạo ra một vòng lửa chặn đường rút lui

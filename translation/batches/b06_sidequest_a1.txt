@@ -1,0 +1,305 @@
+# b06_sidequest_a1: 152 strings. Format: "@@ id | mode | context" then the English text on the next line.
+@@ 2274 | translate | QUESTS/A1-SIDEQUESTS/A1-ACQUIRETEMPLATE.DAT | COMPLETE | DIALOG
+Quest completion text
+@@ 2275 | translate | QUESTS/A1-SIDEQUESTS/A1-ACQUIRETEMPLATE.DAT | DETAILS | DIALOG
+Obtain the |cFFD1FF7A[item]|u from the |cFFD1FF7A[place]|u, in the |cFFD1FF7A[zone]|u.
+@@ 2276 | translate | QUESTS/A1-SIDEQUESTS/A1-ACQUIRETEMPLATE.DAT | DETAILS | DIALOG_COMPLETE
+Return to the |cFFD1FF7A[questNPC] in the |cFFD1FF7A[zone]|u for your reward.
+@@ 2277 | translate | QUESTS/A1-SIDEQUESTS/A1-ACQUIRETEMPLATE.DAT | HUDDETAILS | DIALOG
+- Obtain |cFFD1FF7A[item]|u in |cFFD1FF7A[zone]|u
+@@ 2278 | translate | QUESTS/A1-SIDEQUESTS/A1-ACQUIRETEMPLATE.DAT | HUDDETAILS | DIALOG_COMPLETE
+- Return |cFFD1FF7AArmor Schematics|u to |cFFD1FF7AVanquisher Scout|u
+@@ 2279 | translate | QUESTS/A1-SIDEQUESTS/A1-ACQUIRETEMPLATE.DAT | INTRO | DIALOG
+Quest introduction text
+@@ 2280 | translate | QUESTS/A1-SIDEQUESTS/A1-ACQUIRETEMPLATE.DAT | RETURN | DIALOG
+Return to Quest NPC text
+@@ 2281 | translate | QUESTS/A1-SIDEQUESTS/A1-ARMORY.DAT | COMPLETE | DIALOG
+Well done! I'm sure Commander Vale would have no objection to me giving you a reward for your service to the Empire. Take this: It's all I've got, but know that you have my gratitude, as well!
+@@ 2282 | translate | QUESTS/A1-SIDEQUESTS/A1-ARMORY.DAT | DETAILS | DIALOG
+Obtain the |cFFD1FF7AArmor Schematics|u from the |cFFD1FF7ABeast Warrens|u, in the |cFFD1FF7ATemple Steppes|u.
+@@ 2283 | translate | QUESTS/A1-SIDEQUESTS/A1-ARMORY.DAT | DETAILS | DIALOG_COMPLETE
+Return to the |cFFD1FF7AVanquisher Scout|u in the |cFFD1FF7AEnclave|u for your reward.
+@@ 2284 | translate | QUESTS/A1-SIDEQUESTS/A1-ARMORY.DAT | HUDDETAILS | DIALOG
+- Obtain |cFFD1FF7AArmor Schematics|u in |cFFD1FF7AThe Temple Steppes|u from Sturmbeorn blacksmiths
+@@ 2285 | translate | QUESTS/A1-SIDEQUESTS/A1-ARMORY.DAT | INTRO | DIALOG
+If you're going out to the |cFFD1FF7ATemple Steppes|u, I could use your help.  The Sturmbeorn have set up a makeshift smithy there, and they have two blacksmiths making suits of armor for wild warbeasts they've captured.\n\nThose Sturmbeorn seem to be working from schematics, but they keep them under lock and key.  Do you think you might be able to get in there and grab the |cFFD1FF7AArmor Schematics|u?
+@@ 2286 | translate | QUESTS/A1-SIDEQUESTS/A1-ARMORY.DAT | RETURN | DIALOG
+The Sturmbeorn have rounded up a bunch of warbeasts to use as shock troops, and now they're bolting plates of armor onto 'em.  They're dangerous at the best of times, but with that armor, they're even harder to kill.  That's why we need to find out how the Sturmbeorn designed the armor; there has to be a weak spot somewhere.
+@@ 2287 | translate | QUESTS/A1-SIDEQUESTS/A1-BAGANDTAG.DAT | COMPLETE | DIALOG
+A fungus infestation, eh? Nasty business!\n\nAt any rate, you've done an admirable job ... and you've earned every last bit of this reward!
+@@ 2288 | translate | QUESTS/A1-SIDEQUESTS/A1-BAGANDTAG.DAT | DETAILS | DIALOG
+Journey to the |cFFD1FF7ABone Defile|u, in the |cFFD1FF7ATemple Steppes|u, and discover what is disturbing the warbeast population.
+@@ 2289 | translate | QUESTS/A1-SIDEQUESTS/A1-BAGANDTAG.DAT | DETAILS | DIALOG_COMPLETE
+Return to the |cFFD1FF7AImperial Trapper|u for your reward.
+@@ 2290 | translate | QUESTS/A1-SIDEQUESTS/A1-BAGANDTAG.DAT | HUDDETAILS | DIALOG
+- Investigate the |cFFD1FF7AWarbeast Lair|u
+@@ 2291 | translate | QUESTS/A1-SIDEQUESTS/A1-BAGANDTAG.DAT | INTRO | DIALOG
+I've been charged with culling the warbeasts here, for the Imperial colonization effort.  I can keep their population down, but something is driving them wild, almost like they're rabid or something.\n\nCan you get into the |cFFD1FF7AWarbeast Den|u, in the |cFFD1FF7ABone Defile|u, and get rid of whatever's making them so vicious?
+@@ 2292 | translate | QUESTS/A1-SIDEQUESTS/A1-BAGANDTAG.DAT | RETURN | DIALOG
+How's it going with the warbeasts?  Any clue yet what's making them so aggressive?
+@@ 2293 | translate | QUESTS/A1-SIDEQUESTS/A1-BAY_HORN.DAT | COMPLETE | DIALOG
+This is it!  The Golden Gear!  I thank you on behalf of all the Zeraphi people.  This might just have tipped the battle in our favor!  I can only offer you this as payment, but if you are ever in Zeryphesh, come find me and I will grant you a proper reward!
+@@ 2294 | translate | QUESTS/A1-SIDEQUESTS/A1-BAY_HORN.DAT | DETAILS | DIALOG
+Locate the |cFFD1FF7AWhispering Cave|u in the |cFFD1FF7AFrosted Hills|u and retrieve the |cFFD1FF7AGolden Gear|u.
+@@ 2295 | translate | QUESTS/A1-SIDEQUESTS/A1-BAY_HORN.DAT | DETAILS | DIALOG_COMPLETE
+Bring the |cFFD1FF7AGolden Gear|u back to |cFFD1FF7AAmbassador Taldimut|u in the |cFFD1FF7AFrosted Hills|u
+@@ 2296 | translate | QUESTS/A1-SIDEQUESTS/A1-BAY_HORN.DAT | HUDDETAILS | DIALOG
+- Retrieve the |cFFD1FF7AGolden Gear|u from the |cFFD1FF7AWhispering Cave|u
+@@ 2297 | translate | QUESTS/A1-SIDEQUESTS/A1-BAY_HORN.DAT | HUDDETAILS | DIALOG_COMPLETE
+- Bring the |cFFD1FF7AGolden Gear|u back to |cFFD1FF7AAmbassador Taldimut|u
+@@ 2298 | translate | QUESTS/A1-SIDEQUESTS/A1-BAY_HORN.DAT | INTRO | DIALOG
+The Estherians apparently secured the |cFFD1FF7AGolden Gear|u in the |cFFD1FF7AWhispering Cave|u, so that we would not be able to find it, let alone recapture it.  They encoded those three crests with the location of the cave, so that they would be able to recover the horn, themselves ... but then lost the crests.\n\nPlease, for the sake of the Zeraphi people:  Go to the |cFFD1FF7AWhispering Cave|u and retrieve the |cFFD1FF7AGolden Gear|u, and bring it back to me.
+@@ 2299 | translate | QUESTS/A1-SIDEQUESTS/A1-BAY_HORN.DAT | RETURN | DIALOG
+I have continued studying the crests, and I am more convinced than ever that the Golden Gear is hidden in the the Whispering Cave.  If you can retrieve it, I can bring it back to Zeryphesh, to aid in the city's defense against the Ezrohir siege.
+@@ 2300 | translate | QUESTS/A1-SIDEQUESTS/A1-BLAIRS_NOTES.DAT | RETURN | DIALOG
+"It was in the ice.  Who knows how long?  But it wasn't dead.  And now it's hiding, here somewhere ... in one of us.  We found it in Bennings, but then Fuchs disappeared.  It's still here, and it's looking for a way out.  If it gets out into the world, it can infect everyone, everywhere.  Three years, at most.  Guardians forgive us for what we've set  loose upon the world."
+@@ 2301 | translate | QUESTS/A1-SIDEQUESTS/A1-BOATGHOST.DAT | COMPLETE | DIALOG
+You have lifted the curse I brought upon myself, and my torment is finally at an end.  I will abide here a while, I think, before I move on to my final reward.  Perhaps, at the very least, I will tell my story to would-be thieves, to save them from a similar fate ...
+@@ 2302 | translate | QUESTS/A1-SIDEQUESTS/A1-BOATGHOST.DAT | DETAILS | DIALOG
+Pass through the |cFFD1FF7ATreasury Portal|u and return the |cFFD1FF7AGlyph of Balthazar|u to its proper place in |cFFD1FF7AWellspring Basin|u.
+@@ 2303 | translate | QUESTS/A1-SIDEQUESTS/A1-BOATGHOST.DAT | HUDDETAILS | DIALOG
+- Enter the |cFFD1FF7AWellspring Treasury|u via the portal in the |cFFD1FF7ATemple Steppes|u
+@@ 2304 | translate | QUESTS/A1-SIDEQUESTS/A1-BOATGHOST.DAT | HUDDETAILS | DIALOG_COMPLETE
+- Return the |cFFD1FF7AGlyph of Balthazar|u to the |cFFD1FF7AWellspring Basin|u
+@@ 2305 | translate | QUESTS/A1-SIDEQUESTS/A1-BOATGHOST.DAT | INTRO | DIALOG
+I am merely spirit, but I mean you no harm.  In life, I was an ambitious thief, and I thought I was invincible.  My greatest achievement was when I stole the |cFFD1FF7AGlyph of Balthazar|u from the |cFFD1FF7AWellspring Treasury|u.  I thought I could master its power over water, but I was very, very wrong.\n\nNow I am trapped here in eternal torment, unable to rectify my mistake.  Will you return the |cFFD1FF7AGlyph of Balthazar|u to the |cFFD1FF7AWellspring Basin|u, and set my spirit free at last?
+@@ 2306 | translate | QUESTS/A1-SIDEQUESTS/A1-BOATGHOST.DAT | RETURN | DIALOG
+I was a criminal, in my time ... a vain and ambitious thief.  I broke into tombs and stole from the dead, just to further my reputation.  But I was too vain.  I stole the Glyph of Balthazar.  The Guardian of Water tried to warn me to return the Glyph, but still I was too vain.\n\nI thought I could control its powers, and, to an extent, I could.  But, when I tried to use it to walk across the river ... it drew power from river, and rebelled against me.  Soon my lungs were filling with water, even on dry land.  Now my spirit drowns for eternity.
+@@ 2307 | translate | QUESTS/A1-SIDEQUESTS/A1-BOATGHOST_ALT.DAT | COMPLETE | DIALOG
+It seems I have not yet earned my eternal rest.  Your part in my story is done, though, and, if my gratitude means anything to you, you have it.
+@@ 2308 | translate | QUESTS/A1-SIDEQUESTS/A1-BOATGHOST_ALT.DAT | DETAILS | DIALOG
+Defeat |cFFD1FF7ACaptain Willy|u in |cFFD1FF7APlunder Cove|u.
+@@ 2309 | translate | QUESTS/A1-SIDEQUESTS/A1-BOATGHOST_ALT.DAT | HUDDETAILS | DIALOG
+- Enter |cFFD1FF7APlunder Cove|u via the portal in the |cFFD1FF7ATemple Steppes|u\n
+@@ 2310 | translate | QUESTS/A1-SIDEQUESTS/A1-BOATGHOST_ALT.DAT | HUDDETAILS | DIALOG_COMPLETE
+- Defeat |cFFD1FF7ACaptain Willy|u
+@@ 2311 | translate | QUESTS/A1-SIDEQUESTS/A1-BOATGHOST_ALT.DAT | INTRO | DIALOG
+I mean you no harm; I am but a lonely soul, trapped in the afterlife.  Betrayed and drowned by villainous companions, I dwell here, reliving my end, waiting in vain for my death to be avenged.\n\nBut it has been over a hundred years since I took my last breath, and nearly that many since my murderers themselves perished, in their hidden retreat in |cFFD1FF7APlunder Cove|u.  Seek their leader, |cFFD1FF7ACaptain Willy|u, through this portal.  Show him that justice has neither forgotten him ... nor forgiven him!
+@@ 2312 | translate | QUESTS/A1-SIDEQUESTS/A1-BOATGHOST_ALT.DAT | RETURN | DIALOG
+I was a villain, in my time.  I broke into tombs and stole from the dead.  But, one day, I realized how much pain I had caused those still living ... and I swore it would stop.\n\nMy comrades ... my accomplices ... felt differently.  They lured me out onto the river in this boat, knowing it would sink.  They laughed as I sank beneath the waters.  I assumed they would be caught, and punished, but instead they were killed while concealing their loot in Plunder Cove ... and so my death has gone  unavenged for all these years.
+@@ 2313 | translate | QUESTS/A1-SIDEQUESTS/A1-BRINGOUTYOURDEAD.DAT | COMPLETE | DIALOG
+You found it?  Fantastic!  Here, let me just pay you for your trouble, and I'll be on my way ...
+@@ 2314 | translate | QUESTS/A1-SIDEQUESTS/A1-BRINGOUTYOURDEAD.DAT | DETAILS | DIALOG
+Convince the Estherian Spirits to let you into the |cFFD1FF7ABone Gallery|u, and retrieve the |cFFD1FF7ARosamortis|u.
+@@ 2315 | translate | QUESTS/A1-SIDEQUESTS/A1-BRINGOUTYOURDEAD.DAT | DETAILS | DIALOG_COMPLETE
+Bring the |cFFD1FF7ARosamortis|u to |cFFD1FF7ASelrenki|u, in |cFFD1FF7ASkull Hollow|u in the |cFFD1FF7ATemple Steppes|u.
+@@ 2316 | translate | QUESTS/A1-SIDEQUESTS/A1-BRINGOUTYOURDEAD.DAT | HUDDETAILS | DIALOG
+- Rouse the Estherian Spirits, and enter the |cFFD1FF7ABone Gallery|u in the |cFFD1FF7ATemple Steppes|u.  Retrieve the |cFFD1FF7ARosamortis|u
+@@ 2317 | translate | QUESTS/A1-SIDEQUESTS/A1-BRINGOUTYOURDEAD.DAT | HUDDETAILS | DIALOG_COMPLETE
+- Bring the |cFFD1FF7ARosamortis|u back to |cFFD1FF7ASelrenki|u in |cFFD1FF7ASkull Hollow|u, in the |cFFD1FF7ATemple Steppes|u
+@@ 2318 | translate | QUESTS/A1-SIDEQUESTS/A1-BRINGOUTYOURDEAD.DAT | INTRO | DIALOG
+I got a proposition for you ... a little "I scratch my back, you scratch yours" kind of thing.  See this crypt over here?  It's called the |cFFD1FF7ABone Gallery|u, and there's a little thing in there called the |cFFD1FF7ARosamortis|u ... which, while pretty valuable, is also guarded by the biggest undead monstrosity I've ever seen!\n\nYou'll have to convince the Estherian spirits to unlock the |cFFD1FF7AGhost Chains|u and give you access, then get the Rosamortis away from that monster ... but I promise to make it worth your while!\n
+@@ 2319 | translate | QUESTS/A1-SIDEQUESTS/A1-BRINGOUTYOURDEAD.DAT | RETURN | DIALOG
+The Rosamortis is apparently a handy little thingamajig that can save the life of someone who's been mortally wounded.  Obviously, this sort of thing would be very valuable to someone whose homeland were being invaded by, for example, bear-people ... But, as much as the Rosamortis is worth, it doesn't do me any good if I can't get inside the Sepulcher of Sorrows to retrieve it!\n\nThe Vanquishers' commander told me about this thing, like I could just stroll out here and pick it up.  But she didn't tell me the gate was locked with chains only a ghost can open!  And, of course, while I wasted precious time trying to find another way in, the Sturmbeorn showed up and cut off my way out.
+@@ 2320 | translate | QUESTS/A1-SIDEQUESTS/A1-ENCHANTER_UNLOCK.DAT | COMPLETE | DIALOG
+Ah, you have them!  Excellent!  I trust the bear-mage didn't haggle too fiercely ...? \n\nWait.  Is that blood on these tools?  Oh.  Well, perhaps it's best I don't ask. \n\nNow, then:  I believe I promised you a free enchantment, as reward ...?
+@@ 2321 | translate | QUESTS/A1-SIDEQUESTS/A1-ENCHANTER_UNLOCK.DAT | DETAILS | DIALOG
+Locate the |cFFD1FF7ASturmbeorn Necromancer|u in the |cFFD1FF7APath of the Honored Dead|u and obtain his |cFFD1FF7AImplements of Enchantment|u.
+@@ 2322 | translate | QUESTS/A1-SIDEQUESTS/A1-ENCHANTER_UNLOCK.DAT | DETAILS | DIALOG_COMPLETE
+Return to the |cFFD1FF7AEnchanter|u in the |cFFD1FF7AEstherian Enclave|u for your reward.
+@@ 2323 | translate | QUESTS/A1-SIDEQUESTS/A1-ENCHANTER_UNLOCK.DAT | HUDDETAILS | DIALOG
+- Search |cFFD1FF7APath of the Honored Dead|u for |cFFD1FF7ASturmbeorn Necromancer|u
+@@ 2324 | translate | QUESTS/A1-SIDEQUESTS/A1-ENCHANTER_UNLOCK.DAT | HUDDETAILS | DIALOG_COMPLETE
+- Bring |cFFD1FF7AImplements of Enchantment|u to |cFFD1FF7AEnchanter|u in |cFFD1FF7AEstherian Enclave|u
+@@ 2325 | translate | QUESTS/A1-SIDEQUESTS/A1-ENCHANTER_UNLOCK.DAT | INTRO | DIALOG
+Welcome!  Welcome, my friend.  I have numerous enchantments available ... weapons, armor, trinkets, and the like.  Or, rather, I would, if I hadn't lost my enchantment kit!\n\nMaybe you can help me.  I've heard there's a Beornen shaman or something out in the |cFFD1FF7APath of the Honored Dead|u, who has the kind of enchanting tools I need.  If you could locate this bear-mage and acquire those tools, I would happily give you your first enchantment, free of charge!
+@@ 2326 | translate | QUESTS/A1-SIDEQUESTS/A1-ENCHANTER_UNLOCK.DAT | RETURN | DIALOG
+Well, well!  Back so soon?  Oh, you don't have the tools yet ... \n\nWell, come back when you do! 
+@@ 2327 | translate | QUESTS/A1-SIDEQUESTS/A1-EVENT-CAPTUREDESTH1.DAT | COMPLETE | DIALOG
+My thanks to you, human.  After the temple fell, and these slavers set upon us refugees, I feared that our fates were sealed.\n\nBut I am not the only prisoner.  The slavers' leader has them caged, in the cavern below the lake here.  A trapdoor outside one of the nearby huts leads to the cavern.\n\nPlease, in the name of the Guardians ... you must free them!
+@@ 2328 | translate | QUESTS/A1-SIDEQUESTS/A1-EVENT-CAPTUREDESTH2.DAT | COMPLETE | DIALOG
+Oh, thank you, my friend!  I had feared I would never see my family again!
+@@ 2329 | translate | QUESTS/A1-SIDEQUESTS/A1-EVENT-CAPTUREDESTH3.DAT | COMPLETE | DIALOG
+I do not know that I will make it out of this cave … but, please:  Save everyone else that you can!
+@@ 2330 | translate | QUESTS/A1-SIDEQUESTS/A1-EVENT-CAPTUREDESTH4.DAT | COMPLETE | DIALOG
+You have saved us!  I had given up all hope that someone would come!
+@@ 2331 | translate | QUESTS/A1-SIDEQUESTS/A1-HOSTAGE_NEGOTIATIONS.DAT | COMPLETE | DIALOG
+You have done the Estherians a great service today.  I know that you are on your way to even greater acts of heroism, so, please, do not let me keep you.  Simply accept this, and my thanks.
+@@ 2332 | translate | QUESTS/A1-SIDEQUESTS/A1-HOSTAGE_NEGOTIATIONS.DAT | DETAILS | DIALOG
+Defeat |cFFD1FF7AKidrik the Mauler|u in the |cFFD1FF7ASlavers' Den|u and rescue the |cFFD1FF7ACaptured Estherians|u
+@@ 2333 | translate | QUESTS/A1-SIDEQUESTS/A1-HOSTAGE_NEGOTIATIONS.DAT | DETAILS | DIALOG_COMPLETE
+Return to |cFFD1FF7AElder Josimon|u in the |cFFD1FF7ASlavers' Camp|u, in the |cFFD1FF7AFrosted Hills|u.
+@@ 2334 | translate | QUESTS/A1-SIDEQUESTS/A1-HOSTAGE_NEGOTIATIONS.DAT | HUDDETAILS | DIALOG
+- Defeat |cFFD1FF7AKidrik the Mauler|u and rescue the |cFFD1FF7ACaptured Estherians|u
+@@ 2335 | translate | QUESTS/A1-SIDEQUESTS/A1-HOSTAGE_NEGOTIATIONS.DAT | HUDDETAILS | DIALOG_COMPLETE
+- Return to |cFFD1FF7AElder Josimon|u
+@@ 2336 | translate | QUESTS/A1-SIDEQUESTS/A1-HOSTAGE_NEGOTIATIONS.DAT | INTRO | DIALOG
+The slavers' leader, |cFFD1FF7AKidrik the Mauler|u, must have slipped away during the attack, and concealed himself in their underground slave den!  And, if the Estherian captives are there, as well, Kidrik must be holding them hostage!\n\nYou must free them, or all that you have done to stop the slavers will have been for naught!
+@@ 2337 | translate | QUESTS/A1-SIDEQUESTS/A1-HOSTAGE_NEGOTIATIONS.DAT | RETURN | DIALOG
+Have you found the hostages yet?  Kidrik the Mauler will almost certainly be keeping them in cages, down in the Slavers' Den.
+@@ 2338 | translate | QUESTS/A1-SIDEQUESTS/A1-ICEDEEP-TAKINGNOTES.DAT | COMPLETE | DIALOG
+These notes are enlightening, to say the least.  Clearly, the Alchemist is suffering from Ember Blight-induced dementia.  Each subsequent note is more delusional than the last.\n\nBut ... hm.  He did wear a suit of armor, and he did wield Ordrak's Heart, and he did attack the Guardian of Water.  What if there is some nugget of truth in his madness?
+@@ 2339 | translate | QUESTS/A1-SIDEQUESTS/A1-ICEDEEP-TAKINGNOTES.DAT | DETAILS | DIALOG
+Enter the |cFFD1FF7AIcedeep Caverns|u, in |cFFD1FF7ACrows' Pass|u, and locate the Alchemist's other three |cFFD1FF7AJournals|u.
+@@ 2340 | translate | QUESTS/A1-SIDEQUESTS/A1-ICEDEEP-TAKINGNOTES.DAT | HUDDETAILS | DIALOG
+- Acquire |cFFD1FF7A[DEFEATCOMPLETECOUNT]/[DEFEATCOUNT] Journals|u in the |cFFD1FF7AIcedeep Caverns|u
+@@ 2341 | translate | QUESTS/A1-SIDEQUESTS/A1-ICEDEEP-TAKINGNOTES.DAT | HUDDETAILS | DIALOG_COMPLETE
+- Return to |cFFD1FF7AJadok|u in the |cFFD1FF7AFrosted Hills|u
+@@ 2342 | translate | QUESTS/A1-SIDEQUESTS/A1-ICEDEEP-TAKINGNOTES.DAT | INTRO | DIALOG
+Your arrival is well-timed.  I believe I have located the Alchemist's lair, here in the |cFFD1FF7AIcedeep Caverns|u.  I found a |cFFD1FF7AJournal|u just inside the entrance; it speaks of entering the mine at Torchlight and retrieving Ordrak's Heart.  I intended to look for more, further inside the Caverns, but the creatures dwelling there now are too much for me.\n\nFinding the rest of the Alchemist's |cFFD1FF7AJournals|u would probably be very helpful in ascertaining how to stop him.  The one I saw was volume four, so there are probably three more in the |cFFD1FF7AIcedeep Caverns|u.
+@@ 2343 | translate | QUESTS/A1-SIDEQUESTS/A1-ICEDEEP-TAKINGNOTES.DAT | RETURN | DIALOG
+"After months of research and experiments, I am forced to conclude that my Ember Blight is incurable ... and I am not alone.  Hundreds die from it every year.  Thousands more must be isolated from Ember, lest even the least exposure trigger a psychotic episode.  The only real solution, it seems, is to remove the source of the infection ... to destroy all Ember, everywhere.  Until now, this has been an unrealistic proposal.  But, with the defeat of Ordrak, I believe a universal cure to Ember Blight is finally within reach ..."
+@@ 2344 | translate | QUESTS/A1-SIDEQUESTS/A1-ICEDEEP-TAKINGNOTES.DAT | RETURN | DIALOG
+"Ordrak's Heart is itself corrupted, and might actually be more dangerous to me than Ember.  I have designed and crafted a tool, in the form of a stave, to control and wield the Heart.  But it is not enough; the foul energies released by the Heart are capable of creating physical and mental deformities, even with only casual exposure.  Accordingly, I must construct a suit of Ember-resistant armor, to shield me from the worst of the effects."
+@@ 2345 | translate | QUESTS/A1-SIDEQUESTS/A1-ICEDEEP-TAKINGNOTES.DAT | RETURN | DIALOG
+"There must be a way to increase the Heart's power ... perhaps by drawing it from the elemental Guardians?  Their power is incomprehensibly vast, and any one of them could 'super-charge' Ordrak's Heart to more than equal the task.  But would draining away that energy kill the Guardian?  Would its associated element then run amok ... or vanish altogether?  I must spread the 'donation' across multiple Guardians.  The Guardians are unlikely to willingly part with that energy; I must take what I need, and pray that there is time for apologies later."
+@@ 2346 | translate | QUESTS/A1-SIDEQUESTS/A1-ICEDEEP-TAKINGNOTES.DAT | RETURN | DIALOG
+These notes seem incomplete.  There are a lot of blanks here that need to be filled in.  Have you had a chance to see if there were any more?
+@@ 2347 | translate | QUESTS/A1-SIDEQUESTS/A1-KILLQUESTTEMPLATE.DAT | DETAILS | DIALOG
+Journey to the |cFFD1FF7A[place]|u, in the |cFFD1FF7A[zone]|u, and defeat [champion].
+@@ 2348 | translate | QUESTS/A1-SIDEQUESTS/A1-KILLQUESTTEMPLATE.DAT | DETAILS | DIALOG_COMPLETE
+Return to the |cFFD1FF7A[quest npc]|u for your reward.
+@@ 2349 | translate | QUESTS/A1-SIDEQUESTS/A1-KILLQUESTTEMPLATE.DAT | HUDDETAILS | DIALOG
+- Step One
+@@ 2350 | translate | QUESTS/A1-SIDEQUESTS/A1-KILLQUESTTEMPLATE.DAT | HUDDETAILS | DIALOG_COMPLETE
+- Step Two
+@@ 2351 | translate | QUESTS/A1-SIDEQUESTS/A1-KILL_ACQUIRE_TEMPLATE.DAT | DETAILS | DIALOG
+Obtain the |cFFD1FF7Athing|u from the |cFFD1FF7Aplace|u, in the |cFFD1FF7Azone|u.
+@@ 2352 | translate | QUESTS/A1-SIDEQUESTS/A1-KILL_ACQUIRE_TEMPLATE.DAT | DETAILS | DIALOG_COMPLETE
+Return to the |cFFD1FF7Aquest NPC|u in the |cFFD1FF7Aplace|u for your reward.
+@@ 2353 | translate | QUESTS/A1-SIDEQUESTS/A1-KILL_ACQUIRE_TEMPLATE.DAT | HUDDETAILS | DIALOG
+- Obtain |cFFD1FF7Athing|u in |cFFD1FF7Azone|u from [champion]
+@@ 2354 | translate | QUESTS/A1-SIDEQUESTS/A1-KILL_ACQUIRE_TEMPLATE.DAT | HUDDETAILS | DIALOG_COMPLETE
+- Return |cFFD1FF7Athing|u to |cFFD1FF7Aquest NPC|u
+@@ 2355 | translate | QUESTS/A1-SIDEQUESTS/A1-KILL_ACQUIRE_TEMPLATE.DAT | INTRO | DIALOG
+Introduction
+@@ 2356 | translate | QUESTS/A1-SIDEQUESTS/A1-KILL_ACQUIRE_TEMPLATE.DAT | RETURN | DIALOG
+Return
+@@ 2357 | translate | QUESTS/A1-SIDEQUESTS/A1-SAVE_ENCHANTER.DAT | COMPLETE | DIALOG
+Oh, thank you so much!  Here I was, afraid I'd never enchant anything ever again!\n\nI'm was on my way to the Estherian Enclave when these brigands ambushed me. Once I gather my wits, I'll head over there.  Come by and see me, if you get a chance!
+@@ 2358 | translate | QUESTS/A1-SIDEQUESTS/A1-SHRINE_GHOST.DAT | COMPLETE | DIALOG
+I have found you ... worthy.
+@@ 2359 | translate | QUESTS/A1-SIDEQUESTS/A1-SHRINE_GHOST.DAT | DETAILS | DIALOG
+Defeat the five |cFFD1FF7ASpectral Champions|u in |cFFD1FF7ACrows' Pass|u.
+@@ 2360 | translate | QUESTS/A1-SIDEQUESTS/A1-SHRINE_GHOST.DAT | DETAILS | DIALOG_COMPLETE
+Return to the |cFFD1FF7AForgotten Hero|u for your reward.
+@@ 2361 | translate | QUESTS/A1-SIDEQUESTS/A1-SHRINE_GHOST.DAT | HUDDETAILS | DIALOG
+- Defeat the |cFFD1FF7ASpectral Champions|u in |cFFD1FF7ACrows' Pass|u
+@@ 2362 | translate | QUESTS/A1-SIDEQUESTS/A1-SHRINE_GHOST.DAT | HUDDETAILS | DIALOG_COMPLETE
+- Return to the |cFFD1FF7AForgotten Hero|u in |cFFD1FF7ACrows' Pass|u
+@@ 2363 | translate | QUESTS/A1-SIDEQUESTS/A1-SHRINE_GHOST.DAT | INTRO | DIALOG
+I have been dead a very long time, and in all those centuries, I have not found one soul worthy of taking up the mantle of hero, as I once did, and seeking adventure.\n\nWill you be that hero?  I offer you five challenges.  Should you master them all, my most prized possession is yours ...
+@@ 2364 | translate | QUESTS/A1-SIDEQUESTS/A1-SPIDERKIDNAPPEDMYHUSBAND.DAT | COMPLETE | DIALOG
+Oh, my babies!  My babies!  Are you hurt?  Are you all right?  Thank the Guardians my precious darlings are safe!  Where's Finnas?  Where's my husband?\n\nAh, I see. We'll wait here for him until he returns.\n\nThank you so much - many don't understand the beauty of these special creatures ... it's obvious that you recognize their gentle natures.  Here, take this as a token of our gratitude!
+@@ 2365 | translate | QUESTS/A1-SIDEQUESTS/A1-SPIDERKIDNAPPEDMYHUSBAND.DAT | DETAILS | DIALOG
+Find Finnas in the |cFFD1FF7AWidow's Veil|u, located in |cFFD1FF7ACrow's Pass|u.
+@@ 2366 | translate | QUESTS/A1-SIDEQUESTS/A1-SPIDERKIDNAPPEDMYHUSBAND.DAT | DETAILS | DIALOG_COMPLETE
+Return to Bellethe in |cFFD1FF7ACrow's Pass|u for your reward.
+@@ 2367 | translate | QUESTS/A1-SIDEQUESTS/A1-SPIDERKIDNAPPEDMYHUSBAND.DAT | HUDDETAILS | DIALOG
+- Locate Bellethe's husband |cFFD1FF7AFinnas|u in the |cFFD1FF7AWidow's Veil|u
+@@ 2368 | translate | QUESTS/A1-SIDEQUESTS/A1-SPIDERKIDNAPPEDMYHUSBAND.DAT | HUDDETAILS | DIALOG_COMPLETE
+- Return to |cFFD1FF7ABellethe|u in |cFFD1FF7ACrows Pass|u
+@@ 2369 | translate | QUESTS/A1-SIDEQUESTS/A1-SPIDERKIDNAPPEDMYHUSBAND.DAT | INTRO | DIALOG
+Please, help me!  Our dear little ones wandered into that cave!  My husband |cFFD1FF7AFinnas|u ventured after them, but it is crawling with nasty creatures, and he hasn't returned! \n\nOh, I'm beside myself with worry!  Please, find |cFFD1FF7AFinnas|u and our precious babies!  You have to help us!
+@@ 2370 | translate | QUESTS/A1-SIDEQUESTS/A1-SPIDERKIDNAPPEDMYHUSBAND.DAT | RETURN | DIALOG
+My husband Finnas and I were on our way to the Estherian Enclave.  We're homesteaders, with a small farm in the Frosted Hills.  The weather is getting harsh, so we were making one last run for supplies before winter.  We only looked away for a moment, and our little darlings wandered into that nasty cave!
+@@ 2371 | translate | QUESTS/A1-SIDEQUESTS/A1-SPIDERKIDNAPPEDMYHUSBANDPT2.DAT | INTRO | DIALOG
+You ... you came to rescue us?  Thank the guardians!\n\nI've managed to keep |cFFD1FF7ASnowbell|u and |cFFD1FF7ASunbeam|u safe up here, but I injured my leg.  I can't make my way out of this cave while carrying them.  If you'll take them to |cFFD1FF7ABellethe|u, I'll follow you out at my own pace.  My thanks to you for your help!
+@@ 2372 | translate | QUESTS/A1-SIDEQUESTS/A1-SPIDERKIDNAPPEDMYHUSBANDPT2.DAT | RETURN | DIALOG
+Please ... I know this is strange, but Snowball and Sunbeam are really quite gentle creatures, unlike the beasts that live here in the Icedeep Caverns.  They can't survive on their own down here.  The other spiders will kill them to get at me.  Please, take them back to my wife, and as soon as I catch my breath, I'll make my way out, as well.
+@@ 2373 | translate | QUESTS/A1-SIDEQUESTS/A1-SUDDEN_OUTBREAKS.DAT | DETAILS | DIALOG
+Locate and break down |cFFD1FF7ABarricaded Doors|u in the |cFFD1FF7AWatchweald Temple|u to rescue |cFFD1FF7ATemple Priests|u.
+@@ 2374 | translate | QUESTS/A1-SIDEQUESTS/A1-SUDDEN_OUTBREAKS.DAT | HUDDETAILS | DIALOG
+- Open |cFFD1FF7ABarricaded Doors|u 0/X to free |cFFD1FF7ATemple Priests|u
+@@ 2375 | translate | QUESTS/A1-SIDEQUESTS/A1-SUDDEN_OUTBREAKS.DAT | HUDDETAILS | DIALOG_COMPLETE
+- Secure the |cFFD1FF7ABronze Head|u from the Sturmbeorn
+@@ 2376 | translate | QUESTS/A1-SIDEQUESTS/A1-SUDDEN_OUTBREAKS.DAT | INTRO | DIALOG
+Thank the Guardians you are here!  A plague is sweeping through the |cFFD1FF7AWatchweald Temple|u, transforming the |cFFD1FF7ATemple Priests|u into Nether-Thralls!  Several uninfected priests are still inside, trapped by the Nether-Thralls.  I can protect them, if I can reach them ... or if they can reach me.\n\nLook for places where the |cFFD1FF7ATemple Priests|u may have hidden from the Nether-Thralls, and send them back here.  Once they are all safe, we can focus on aiding the Guardian of the Wild.
+@@ 2377 | translate | QUESTS/A1-SIDEQUESTS/A1-SUDDEN_OUTBREAKS.DAT | RETURN | DIALOG
+I should have known something was amiss with the Grand Regent.  He seemed ill, when he arrived, but he insisted on seeing the Guardian of the Wild immediately.  But it seemed as though everyone with whom he came into contact also became ill ... and soon transformed.  A few were not initially infected, and some of those were able to find refuge from the Nether-Thralls ... but, if the infection gets to them, it will not matter if they are safe behind the barricades.
+@@ 2378 | translate | QUESTS/A1-SIDEQUESTS/A1-TRILLBOT_HEAD.DAT | COMPLETE | DIALOG
+I am the great bard Trill ... heard of me?\n\nThat's ... really ... astonishing talent.  Word ... among the masses ... I have not yet found ... your heroic deeds.
+@@ 2379 | translate | QUESTS/A1-SIDEQUESTS/A1-TRILLBOT_HEAD.DAT | DETAILS | DIALOG
+Search the |cFFD1FF7AWellspring Temple|u for the |cFFD1FF7ABronze Head|u, and keep it safe from the Sturmbeorn.
+@@ 2380 | translate | QUESTS/A1-SIDEQUESTS/A1-TRILLBOT_HEAD.DAT | HUDDETAILS | DIALOG
+- Locate the |cFFD1FF7ABronze Head|u in the |cFFD1FF7AWellspring Temple|u
+@@ 2381 | translate | QUESTS/A1-SIDEQUESTS/A1-TRILLBOT_HEAD.DAT | INTRO | DIALOG
+Thank the Guardians someone has come to our rescue!  The Sturmbeorn broke their way in here some time ago, and have been ransacking the temple!  Commander Vale and her Vanquisher Corps arrived some time ago to help ... but we haven't heard from her since she left for the Inner Sanctum!\n\nIn our flight from the temple, we had to leave behind a priceless treasure: The |cFFD1FF7ABronze Head|u of Grunnheim!  Can you locate it, and ensure that it is safe from the Sturmbeorn?
+@@ 2382 | translate | QUESTS/A1-SIDEQUESTS/A1-TRILLBOT_HEAD.DAT | RETURN | DIALOG
+We are relatively safe here, but the brutish Sturmbeorn will surely destroy everything that isn't made of gold!  The temple is home to thousands of years of historical artifacts and documents, and it grieves me immeasurably to think of all of those treasures lost!\n\nWe were able to gather up some of the artifacts, as we fled, but the Bronze Head of Grunnheim was left behind!  Please, find it!  Some of its records are the only accounts we have of major historic events!
+@@ 2383 | translate | QUESTS/A1-SIDEQUESTS/A1-UPINSMOKE.DAT | COMPLETE | DIALOG
+That was well done, although I wish it had not been necessary.  Still, without permanent housing, they will find it harder to survive here ... and ply their abominable trade.\n\nBut, wait ... I do not see their leader, among the dead!  Nor do I see any of the Estherians they had taken captive!
+@@ 2384 | translate | QUESTS/A1-SIDEQUESTS/A1-UPINSMOKE.DAT | DETAILS | DIALOG
+Use the |cFFD1FF7AFlammable Lanterns|u to burn down the huts in the |cFFD1FF7ASlavers' Camp|u in the |cFFD1FF7AFrosted Hills|u.
+@@ 2385 | translate | QUESTS/A1-SIDEQUESTS/A1-UPINSMOKE.DAT | DETAILS | DIALOG_COMPLETE
+Return to |cFFFFBA00Josimon|u in the |cFFFFBA00Slavers' Camp|u in the |cFFFFBA00Frosted Hills|u.
+@@ 2386 | translate | QUESTS/A1-SIDEQUESTS/A1-UPINSMOKE.DAT | HUDDETAILS | DIALOG
+- Ignite the |cFFD1FF7AFlammable Lanterns|u in the |cFFD1FF7ASlavers' Camp|u
+@@ 2387 | translate | QUESTS/A1-SIDEQUESTS/A1-UPINSMOKE.DAT | HUDDETAILS | DIALOG_COMPLETE
+- Return to |cFFD1FF7AJosimon|u in the |cFFD1FF7ASlavers' Camp|u
+@@ 2388 | translate | QUESTS/A1-SIDEQUESTS/A1-UPINSMOKE.DAT | INTRO | DIALOG
+Thank you for rescuing me.  I had recovered the |cFFD1FF7APasskey Ember|u from these slavers, but they captured me as I was trying to return to the Enclave.\n\nI know that you are trying to reach the |cFFD1FF7AWatchweald Temple|u, but I could use your help with one small matter before you go.  These slavers have been harrying the Estherians for several weeks now.  You defeated many, but there are many more watching us from the safety of those huts.  Burn them out!  If they are allowed to remain, the Frosted Hills will never be safe.
+@@ 2389 | translate | QUESTS/A1-SIDEQUESTS/A1-UPINSMOKE.DAT | RETURN | DIALOG
+We had thought at first that these slavers would simply pass through the area, but the slavers have been steadily fortifying this camp for weeks now, which tells me that they have no intention of leaving any time soon.\n\nIt would appear that, with the Sturmbeorn invasion, business is too good.  The Estherians are easy targets right now, and will be, until we recover from all of this chaos.  The slavers will only make that recovery more difficult, unless they are persuaded to leave.
+@@ 2390 | translate | QUESTS/A1-SIDEQUESTS/A1_ZERAPHI_ENVOY.DAT | COMPLETE | DIALOG
+Yes, those are the three crests.  Now, allow me a moment to fit them together ... I see ... yes ... yes!  The Estherians hid  the Golden Gear in a small cave, not so far from here!
+@@ 2391 | translate | QUESTS/A1-SIDEQUESTS/A1_ZERAPHI_ENVOY.DAT | DETAILS | DIALOG
+Search the cliffside in the |cFFD1FF7AFrosted Hills|u for the |cFFD1FF7ACrest of Pools|u, the |cFFD1FF7ACrest of Rivers|u, and the |cFFD1FF7ACrest of Tides|u.
+@@ 2392 | translate | QUESTS/A1-SIDEQUESTS/A1_ZERAPHI_ENVOY.DAT | DETAILS | DIALOG_COMPLETE
+Return to |cFFD1FF7AAmbassador Taldimut|u in the |cFFD1FF7AFrosted Hills|u.
+@@ 2393 | translate | QUESTS/A1-SIDEQUESTS/A1_ZERAPHI_ENVOY.DAT | HUDDETAILS | DIALOG
+- Search the |cFFD1FF7AFrosted Hills|u for the |cFFD1FF7ACrest of Pools|u, the |cFFD1FF7ACrest of Rivers|u, and the |cFFD1FF7ACrest of Tides|u
+@@ 2394 | translate | QUESTS/A1-SIDEQUESTS/A1_ZERAPHI_ENVOY.DAT | HUDDETAILS | DIALOG_COMPLETE
+- Bring the |cFFD1FF7ACrests|u to |cFFD1FF7AAmbassador Taldimut|u in the |cFFD1FF7AFrosted Hills|u
+@@ 2395 | translate | QUESTS/A1-SIDEQUESTS/A1_ZERAPHI_ENVOY.DAT | INTRO | DIALOG
+My friend, thank you for coming to our aid.  We are a Zeraphi envoy from Zeryphesh, in the Ossean Wastes, sent to procure the Estherians' aid in our upcoming war with the Ezrohir.  Grand Regent Eldrayn gave us leave to search the Frosted Hills for the Golden Gear, and we had narrowed our search to this area before we were assaulted by these goblins.\n\nNow we are too injured to continue our search.  Can you aid us?  Search the |cFFD1FF7AFrosted Hills|u for three components: the |cFFD1FF7ACrest of Pools|u, the |cFFD1FF7ACrest of Rivers|u, and the |cFFD1FF7ACrest of Tides|u. Bring them to me, and I will reward you, on behalf of the Zeraphi people.
+@@ 2396 | translate | QUESTS/A1-SIDEQUESTS/A1_ZERAPHI_ENVOY.DAT | RETURN | DIALOG
+The Sultan of Zeryphesh sent us here to beg the Estherians' leave to recover the Golden Gear ... an ancient artifact, required to unlock the Celestial Armory, in the Ossean Wastes.  The Estherians captured it from us in our war with them, long ago, but Grand Regent Eldrayn was willing to return it to us, so that we might arm ourselves against the Ezrohir assault.\n\nThe exact location of the Golden Gear is long forgotten, but the Estherians created a map from the three crests I spoke of.  If you can find those, I can interpret the map and find the Gear!
+@@ 2397 | translate | QUESTS/A1-SIDEQUESTS/A2-MANA-VENT.DAT | COMPLETE | DIALOG
+Well, it sounds as though my process works ... but it doesn't sound like the risk is worth the reward.  Still, if my surveys are accurate, I should be able to find another mana rift somewhere else, and with any luck it won't be as full of otherworldly monsters as that one was!\n\nThank you for all you have done on my behalf.  And please, take the Ember you recharged, as payment for your efforts!
+@@ 2398 | translate | QUESTS/A1-SIDEQUESTS/A2-MANA-VENT.DAT | DETAILS | DIALOG
+Enter |cFFD1FF7ATarroch's Rift|u in the |cFFD1FF7AOssean Wastes|u and recharge the |cFFD1FF7ASpent Ember|u.
+@@ 2399 | translate | QUESTS/A1-SIDEQUESTS/A2-MANA-VENT.DAT | DETAILS | DIALOG_COMPLETE
+Return to |cFFFFBA00Nerasis|u in the |cFFFFBA00Ossean Wastes|u and report your results.
+@@ 2400 | translate | QUESTS/A1-SIDEQUESTS/A2-MANA-VENT.DAT | HUDDETAILS | DIALOG
+- Enter |cFFD1FF7ATarroch's Rift|u in the |cFFD1FF7AOssean Wastes|u and recharge the |cFFD1FF7ASpent Ember|u
+@@ 2401 | translate | QUESTS/A1-SIDEQUESTS/A2-MANA-VENT.DAT | HUDDETAILS | DIALOG_COMPLETE
+- Return to |cFFD1FF7ANerasis|u in the |cFFD1FF7AOssean Wastes|u
+@@ 2402 | translate | QUESTS/A1-SIDEQUESTS/A2-MANA-VENT.DAT | INTRO | DIALOG
+Hello there!  I wonder if you have a moment to help me out?  My name is |cFFD1FF7ANerasis|u; I'm an Ember surveyor for the Empire.  I've been working on a theory that used Ember can be recharged, with exposure to a suitably large source of mana.  My research led me to |cFFD1FF7ATarroch's Rift|u, where the mana output ratio is ... well, it's very high.\n\nThe problem is that there are quite a few horrible monsters between me and the mana source.  I would be willing to pay you to take this burned-out |cFFD1FF7ASpent Ember|u into |cFFD1FF7ATarroch's Rift|u and attempt to charge it, then bring it back here so I can see if my theory is correct.
+@@ 2403 | translate | QUESTS/A1-SIDEQUESTS/A2-MANA-VENT.DAT | RETURN | DIALOG
+I'm certain that mana vents can be used to recharge burned-out Ember, which will greatly ease the Empire's energy burden.  But not just any mana vent will do; it has to be one with a direct link to a powerful source of mana.  Tarroch's Rift is the most powerful I've found, bar none.  I'm actually a little concerned that it will destroy the Spent Ember, instead of recharging it.  But we won't know until you get it down there and expose it to the rift.
+@@ 2404 | translate | QUESTS/A1-SIDEQUESTS/A2-UNDERCURRENTS_GATE.DAT | COMPLETE | DIALOG
+You did it?  You destroyed the Ezrohir machines?  \n\nYou've succeed beyond my most fervent hopes!  Thanks to you, Zeryphesh is that much safer!  I thank you ... and I reward you, with this.
+@@ 2405 | translate | QUESTS/A1-SIDEQUESTS/A2-UNDERCURRENTS_GATE.DAT | DETAILS | DIALOG
+Enter the |cFFD1FF7AUndercurrents|u in the |cFFD1FF7AEmpty Quarter|u and destroy the four |cFFD1FF7AManatoxin Pumps|u.
+@@ 2406 | translate | QUESTS/A1-SIDEQUESTS/A2-UNDERCURRENTS_GATE.DAT | DETAILS | DIALOG_COMPLETE
+Return to |cFFD1FF7ADilawar|u in the |cFFD1FF7AEmpty Quarter|u for your reward.
+@@ 2407 | translate | QUESTS/A1-SIDEQUESTS/A2-UNDERCURRENTS_GATE.DAT | HUDDETAILS | DIALOG
+- Enter the |cFFD1FF7AUndercurrents|u in the |cFFD1FF7AEmpty Quarter|u and destroy the four |cFFD1FF7AManatoxin Pumps|u
+@@ 2408 | translate | QUESTS/A1-SIDEQUESTS/A2-UNDERCURRENTS_GATE.DAT | HUDDETAILS | DIALOG_COMPLETE
+- Return to |cFFD1FF7ADilawar|u in the |cFFD1FF7AEmpty Quarter|u
+@@ 2409 | translate | QUESTS/A1-SIDEQUESTS/A2-UNDERCURRENTS_GATE.DAT | INTRO | DIALOG
+My friend, I need your help!  My squad and I had observed a group of Ezrohir moving in and out of the |cFFD1FF7AUndercurrents|u. They have installed machines to pump a virulent poison into the city's water supply.  Their "Manatoxin" is specifically designed to disrupt Zeraphi physiology. Unfortunately, the noxious atmosphere seems to have attracted a horde of poisonous beasts, and I only just escaped with my life.  If you can enter the |cFFD1FF7AUndercurrents|u and destroy those machines for me, I will reward you.  What do you say?
+@@ 2410 | translate | QUESTS/A1-SIDEQUESTS/A2-UNDERCURRENTS_GATE.DAT | RETURN | DIALOG
+The Ezrohir have installed some infernal devices in the Undercurrents, defiling the supply of water entering Zeryphesh. You must destroy those machines, or Zeryphesh cannot stand against the Ezrohir!
+@@ 2411 | translate | QUESTS/A1-SIDEQUESTS/A2-UNDERCURRENTS_GATE.DAT | RETURN | DIALOG
+The Ezrohir were clearly confident that the beasts infesting the Undercurrents would be dangerous enough to keep us out.  Be careful in there.
+@@ 2412 | translate | QUESTS/A1-SIDEQUESTS/A2-UNDERCURRENTS_GATE.DAT | RETURN | DIALOG
+The Undercurrents supply Zeryphesh with water, from wells deep under the sands.  Although Zeraphi do not drink, as such, we still have need of water, and this Manatoxin is specifically designed to take advantage of that.  It is a fiendish concoction, which will kill our spirits but leave our bodies intact.\n\nThe creatures infesting in the Undercurrents are dangerous, and will not be easily overcome.  I won't lie to you:  Destroying those machines won't be simple ... but it's vital, and you're the only one who can do it.
+@@ 2413 | translate | QUESTS/A1-SIDEQUESTS/MERRYWEATHER2.DAT | COMPLETE | DIALOG
+You found some!  Oh, thank the gods. A few moments' work, and … yes, there it is:  a healing poultice.  Now it will just take a little rest, and I'll be good as new.\n\nAs it turns out, you brought back more leaves than I needed.  So, here:  a Healing Poultice for you, as a reward.  Should you be badly injured, it'll set you right in no time!
+@@ 2414 | translate | QUESTS/A1-SIDEQUESTS/MERRYWEATHER2.DAT | DETAILS | DIALOG
+Collect  |cFFD1FF7AMerryweather Leaves|u from a |cFFD1FF7AMerryweather Bush|u, and return to |cFFD1FF7AMedrus|u, in the |cFFD1FF7ATemple Steppes|u.
+@@ 2415 | translate | QUESTS/A1-SIDEQUESTS/MERRYWEATHER2.DAT | HUDDETAILS | DIALOG
+- Gather |cFFD1FF7AMerryweather Leaves|u for Medrus in the |cFFD1FF7ATemple Steppes|u
+@@ 2416 | translate | QUESTS/A1-SIDEQUESTS/MERRYWEATHER2.DAT | HUDDETAILS | DIALOG_COMPLETE
+- Return to |cFFD1FF7AMedrus|u in the |cFFD1FF7ATemple Steppes|u
+@@ 2417 | translate | QUESTS/A1-SIDEQUESTS/MERRYWEATHER2.DAT | INTRO | DIALOG
+Hello!  I thought I heard a human moving around out there.\n\nListen, my name's |cFFD1FF7AMedrus|u.  I got ambushed by some Sturmbeorn, and managed to get clear ... but I got pretty badly injured in the process.  I can treat it, but I need some |cFFD1FF7AMerryweather Leaves|u.  They grow around here, but I'm too weak to look for them.\n\nThink you can find some for me, bring 'em back here? You'll be rewarded, I promise.
+@@ 2418 | translate | QUESTS/A1-SIDEQUESTS/MERRYWEATHER2.DAT | RETURN | DIALOG
+Any luck finding the Merryweather Leaves?  I'm not sure how much longer I can hold on ...
+@@ 2419 | translate | QUESTS/A1-SIDEQUESTS/PRICELESSARTIFACTS.DAT | COMPLETE | DIALOG
+I find myself impressed with your ability, human. I must confess: When I sent you on this quest, I feared you might not return. But it stirs my heart to see that my fears were unfounded.\n\nWhile you were gone, I located an item that might be of some use to you. Please take it, with my blessing ... and the thanks of the Estherians.
+@@ 2420 | translate | QUESTS/A1-SIDEQUESTS/PRICELESSARTIFACTS.DAT | DETAILS | DIALOG
+Retrieve the |cFFD1FF7AScroll of Anom-Irek|u from the |cFFD1FF7ACorrupted Crypt|u in the |cFFD1FF7APath of the Honored Dead|u.
+@@ 2421 | translate | QUESTS/A1-SIDEQUESTS/PRICELESSARTIFACTS.DAT | DETAILS | DIALOG_COMPLETE
+Return the |cFFD1FF7AScroll of Anom-Irek|u to |cFFD1FF7AMiamin|u in the |cFFD1FF7APath of the Honored Dead|u.
+@@ 2422 | translate | QUESTS/A1-SIDEQUESTS/PRICELESSARTIFACTS.DAT | HUDDETAILS | DIALOG
+- Retrieve the |cFFD1FF7AScroll of Anom-Irek|u from the |cFFD1FF7ACorrupted Crypt|u, in the |cFFD1FF7APath of the Honored Dead|u
+@@ 2423 | translate | QUESTS/A1-SIDEQUESTS/PRICELESSARTIFACTS.DAT | HUDDETAILS | DIALOG_COMPLETE
+- Return to |cFFD1FF7AMiamin|u in the |cFFD1FF7APath of the Honored Dead|u
+@@ 2424 | translate | QUESTS/A1-SIDEQUESTS/PRICELESSARTIFACTS.DAT | INTRO | DIALOG
+You must be the human the other Estherians are speaking of.  I am glad to have met you.  I have been sent on a quest by Grand Regent Eldrayn to recover the |cFFD1FF7AScroll of Anom-Irek|u, stored in a vault in the |cFFD1FF7ACorrupted Crypt|u, here.  Unfortunately, the Sturmbeorn have already entered the crypt, and I have been unable to get past them.\n\nCan I ask you to attempt to retrieve the scroll?  I will wait here in the |cFFD1FF7APath of the Honored Dead|u for your return.  Should you succeed, I will see what I can do to provide you with some equipment more fitting a hero of your stature.
+@@ 2425 | translate | QUESTS/A1-SIDEQUESTS/PRICELESSARTIFACTS.DAT | RETURN | DIALOG
+Centuries ago, the sage Anom-Irek devised a method of identifying and even curing Estherians who had become corrupted by the evil spirits known as Netherim. We have not been troubled by their ilk ever since.\n\nThe attack by the Alchemist, however, and the subsequent sickness, reminded me of descriptions of Netherim possession ... so I came here to seek Anom-Irek's cure.  My hope was to steal into the crypt and return before the Sturmbeorn arrived, but, as you can see, I was too late.

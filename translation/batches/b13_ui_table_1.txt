@@ -1,0 +1,1659 @@
+# b13_ui_table_1: 829 strings. Format: "@@ id | mode | context" then the English text on the next line.
+@@ 5780 | decide | UI/exe string (no data context)
+ Help!
+@@ 5781 | decide | UI/exe string (no data context)
+ Inventory slot missing, items will be lost:\n
+@@ 5782 | decide | UI/exe string (no data context)
+ not active. Inventory slot missing, items will be lost:\n
+@@ 5783 | decide | UI/exe string (no data context)
+( only below 100% UI Scale )
+@@ 5784 | decide | UI/exe string (no data context)
+(Set)
+@@ 5785 | decide | UI/exe string (no data context)
+(You may not join a game with a different New Game Plus rank)
+@@ 5786 | decide | UI/exe string (no data context)
+* Improves with Player Level
+@@ 5787 | decide | UI/exe string (no data context)
+*Level Range increments when the owner of the game passes the maximum level.
+@@ 5788 | decide | UI/exe string (no data context)
++<STAT1> meter(s)
+@@ 5789 | decide | UI/exe string (no data context)
++[VALUE] to all item character stat requirements [DURATION]
+@@ 5790 | decide | UI/exe string (no data context)
+- Shield Blocks Damage
+@@ 5791 | decide | UI/exe string (no data context)
+-Firewall Errors Detected-\nPlease Check Your Firewall Settings
+@@ 5792 | decide | UI/exe string (no data context)
+-Strict NAT Detected-\nSome games may not be reachable.
+@@ 5793 | decide | UI/exe string (no data context)
+-[VALUE] to Charm Spell levels
+@@ 5794 | decide | UI/exe string (no data context)
+-[VALUE] to all item character stat requirements [DURATION]
+@@ 5795 | decide | UI/exe string (no data context)
+-[VALUE]% Wand and Staff Damage
+@@ 5796 | decide | UI/exe string (no data context)
+-[VALUE]% chance to reflect [VALUE3AND4]% of Missile Damage\n for [DURATION]
+@@ 5797 | decide | UI/exe string (no data context)
+0GP
+@@ 5798 | decide | UI/exe string (no data context)
+1 or More Mods Missing
+@@ 5799 | decide | UI/exe string (no data context)
+10 Down, 90 to Go!
+@@ 5800 | decide | UI/exe string (no data context)
+20 Down, 80 to Go!
+@@ 5801 | decide | UI/exe string (no data context)
+3 Sisters
+@@ 5802 | decide | UI/exe string (no data context)
+30 Down, 70 to Go!
+@@ 5803 | decide | UI/exe string (no data context)
+3x
+@@ 5804 | decide | UI/exe string (no data context)
+40 Down, 60 to Go!
+@@ 5805 | decide | UI/exe string (no data context)
+50 Down, 50 to Go!
+@@ 5806 | decide | UI/exe string (no data context)
+60 Down, 40 to Go!
+@@ 5807 | decide | UI/exe string (no data context)
+70 Down, 30 to Go!
+@@ 5808 | decide | UI/exe string (no data context)
+80 Down, 20 to Go!
+@@ 5809 | decide | UI/exe string (no data context)
+90 Down, 10 to Go!
+@@ 5810 | decide | UI/exe string (no data context)
+<STAT1> degrees
+@@ 5811 | decide | UI/exe string (no data context)
+<STAT1> meters
+@@ 5812 | decide | UI/exe string (no data context)
+<STAT1> seconds
+@@ 5813 | decide | UI/exe string (no data context)
+<STAT1>%/sec
+@@ 5814 | decide | UI/exe string (no data context)
+<STAT1>/sec
+@@ 5815 | decide | UI/exe string (no data context)
+<STAT1>\nis currently busy.
+@@ 5816 | decide | UI/exe string (no data context)
+<STAT1>\nis requesting a trade
+@@ 5817 | decide | UI/exe string (no data context)
+<STAT1>\sec
+@@ 5818 | decide | UI/exe string (no data context)
+A player in this game has strict NAT. Connection may fail.
+@@ 5819 | decide | UI/exe string (no data context)
+ACT I
+@@ 5820 | decide | UI/exe string (no data context)
+ACT II
+@@ 5821 | decide | UI/exe string (no data context)
+ACT III
+@@ 5822 | decide | UI/exe string (no data context)
+ACT IV
+@@ 5823 | decide | UI/exe string (no data context)
+Abandon
+@@ 5824 | decide | UI/exe string (no data context)
+Abandon Quest
+@@ 5825 | decide | UI/exe string (no data context)
+Abandon Quest (you can get it again)
+@@ 5826 | decide | UI/exe string (no data context)
+Accept Quest
+@@ 5827 | decide | UI/exe string (no data context)
+Accept Reward Later
+@@ 5828 | decide | UI/exe string (no data context)
+Accept Trade Request
+@@ 5829 | decide | UI/exe string (no data context)
+Account:
+@@ 5830 | decide | UI/exe string (no data context)
+Acquired by Tarroch on his travels in the Brackenwild.
+@@ 5831 | decide | UI/exe string (no data context)
+Active Quests
+@@ 5832 | decide | UI/exe string (no data context)
+Add Friend
+@@ 5833 | decide | UI/exe string (no data context)
+Add One
+@@ 5834 | decide | UI/exe string (no data context)
+Add point to Dexterity
+@@ 5835 | decide | UI/exe string (no data context)
+Add point to Focus
+@@ 5836 | decide | UI/exe string (no data context)
+Add point to Strength
+@@ 5837 | decide | UI/exe string (no data context)
+Add point to Vitality
+@@ 5838 | decide | UI/exe string (no data context)
+Additional damage applied to any normal attack \nwhen wielding two similar weapons
+@@ 5839 | decide | UI/exe string (no data context)
+Additional electrical damage added to any successful electrical attack
+@@ 5840 | decide | UI/exe string (no data context)
+Additional fire damage added to any successful fire attack
+@@ 5841 | decide | UI/exe string (no data context)
+Additional ice damage added to any successful ice attack
+@@ 5842 | decide | UI/exe string (no data context)
+Additional physical damage added to any successful physical attack
+@@ 5843 | decide | UI/exe string (no data context)
+Additional poison damage added to any successful poison attack
+@@ 5844 | decide | UI/exe string (no data context)
+Additonal damage applied to target \nwhen hit with a Critical attack
+@@ 5845 | decide | UI/exe string (no data context)
+Additonal range on missile weapons. \nThis applies to bows, crossbows, pistols, rifles and wands.
+@@ 5846 | decide | UI/exe string (no data context)
+Adjusted range of this weapon
+@@ 5847 | decide | UI/exe string (no data context)
+Aegis Skills
+@@ 5848 | decide | UI/exe string (no data context)
+Aereon
+@@ 5849 | decide | UI/exe string (no data context)
+After the Alchemist
+@@ 5850 | decide | UI/exe string (no data context)
+Alchemist Room
+@@ 5851 | decide | UI/exe string (no data context)
+All Games
+@@ 5852 | decide | UI/exe string (no data context)
+All the Colors of the Dark
+@@ 5853 | decide | UI/exe string (no data context)
+Aloe Gel
+@@ 5854 | decide | UI/exe string (no data context)
+Alternate Right Skill([KB:SkillSwap])
+@@ 5855 | decide | UI/exe string (no data context)
+Always Show Item Names([KB:ShowItems])
+@@ 5856 | decide | UI/exe string (no data context)
+Always Show Player Names
+@@ 5857 | decide | UI/exe string (no data context)
+Amulet Slot (Empty)
+@@ 5858 | decide | UI/exe string (no data context)
+An Iridian Focus, just what we need! To those Ratlins, I'm sure this is just another shiny for them to collect. If only they knew what it can do when you send a few thousand jags of ember current through it!\n\nAh, I won't bore you with the details... Here's your reward!
+@@ 5859 | decide | UI/exe string (no data context)
+An error occured in the game. Error message is
+@@ 5860 | decide | UI/exe string (no data context)
+Ancient Spectral Dragon
+@@ 5861 | decide | UI/exe string (no data context)
+Another Realm
+@@ 5862 | decide | UI/exe string (no data context)
+Another player has initiated a Mapworks run in this dungeon, or players are in transition and Mapworks cannot safely initiate a new run.  Please try again shortly!
+@@ 5863 | decide | UI/exe string (no data context)
+Anti-Aliasing *
+@@ 5864 | decide | UI/exe string (no data context)
+Anti-Aliasing improves visual quality.\nDisabling Anti-Aliasing will improve frame rate.
+@@ 5865 | decide | UI/exe string (no data context)
+Antropophagus
+@@ 5866 | decide | UI/exe string (no data context)
+Apply
+@@ 5867 | decide | UI/exe string (no data context)
+Apply Settings and Close
+@@ 5868 | decide | UI/exe string (no data context)
+Apply Settings?
+@@ 5869 | decide | UI/exe string (no data context)
+Arcane Statistics [[KB:Journal]]
+@@ 5870 | decide | UI/exe string (no data context)
+Are you sure you want to abandon this Quest?
+@@ 5871 | decide | UI/exe string (no data context)
+Are you sure you want to delete this character?
+@@ 5872 | decide | UI/exe string (no data context)
+Are you sure you want to proceed to the next |cFFEAAA15New Game Plus|u mode?
+@@ 5873 | decide | UI/exe string (no data context)
+Arming-Sword
+@@ 5874 | decide | UI/exe string (no data context)
+Armor Bonus
+@@ 5875 | decide | UI/exe string (no data context)
+Armor for sale
+@@ 5876 | decide | UI/exe string (no data context)
+Armor is the amount of physical damage subtracted from incoming attacks. \nIf an attack is partially physical and partially elemental, the armor's effective \nreduction is proportionally scaled to the percentage of physical damage.
+@@ 5877 | decide | UI/exe string (no data context)
+Armor/Trinkets
+@@ 5878 | decide | UI/exe string (no data context)
+Armor\n(directly reduces incoming attack damage)
+@@ 5879 | decide | UI/exe string (no data context)
+Army of the Undead
+@@ 5880 | decide | UI/exe string (no data context)
+ArtCoding\n\n|cFFF5DB94Armor Contest Winners|u\nHenrik Langergaard Jepsen\nIan Mayhew
+@@ 5881 | decide | UI/exe string (no data context)
+Aruk The Cruel
+@@ 5882 | decide | UI/exe string (no data context)
+As a token of my gratitude, I would like you to have this!
+@@ 5883 | decide | UI/exe string (no data context)
+Assign |cFFA1D0FCskills and consumables |uto the quick bar by drag and dropping them onto a slot or simply click on the slot to show a list of assignable options.
+@@ 5884 | decide | UI/exe string (no data context)
+Attack Speed
+@@ 5885 | decide | UI/exe string (no data context)
+Attack Speed Bonus
+@@ 5886 | decide | UI/exe string (no data context)
+Attempt to enchant this item
+@@ 5887 | decide | UI/exe string (no data context)
+Audio
+@@ 5888 | decide | UI/exe string (no data context)
+Auto-Equip Items
+@@ 5889 | decide | UI/exe string (no data context)
+Auto-Equip Items will equip items on your character when you pick them up if an empty slot for that item exists.
+@@ 5890 | decide | UI/exe string (no data context)
+Average Damage Dealt
+@@ 5891 | decide | UI/exe string (no data context)
+Average Damage Taken
+@@ 5892 | decide | UI/exe string (no data context)
+Average Level of Players
+@@ 5893 | decide | UI/exe string (no data context)
+Average Time Per Level
+@@ 5894 | decide | UI/exe string (no data context)
+Avg. Equipment Level
+@@ 5895 | decide | UI/exe string (no data context)
+Avoid the Lava
+@@ 5896 | decide | UI/exe string (no data context)
+BANDIT KINGS
+@@ 5897 | decide | UI/exe string (no data context)
+BATCH COUNT: <STAT1>\nBATCH UI COUNT: <STAT2>
+@@ 5898 | decide | UI/exe string (no data context)
+BERSERKER CHARGE BAR
+@@ 5899 | decide | UI/exe string (no data context)
+BIG TEXT
+@@ 5900 | decide | UI/exe string (no data context)
+BOLETUS REX
+@@ 5901 | decide | UI/exe string (no data context)
+BOSSNAME
+@@ 5902 | decide | UI/exe string (no data context)
+Back
+@@ 5903 | decide | UI/exe string (no data context)
+Bandit Chest
+@@ 5904 | decide | UI/exe string (no data context)
+Base Dexterity
+@@ 5905 | decide | UI/exe string (no data context)
+Base Focus
+@@ 5906 | decide | UI/exe string (no data context)
+Base Mana Regeneration
+@@ 5907 | decide | UI/exe string (no data context)
+Base Strength
+@@ 5908 | decide | UI/exe string (no data context)
+Base Vitality
+@@ 5909 | decide | UI/exe string (no data context)
+Base dexterity before bonuses
+@@ 5910 | decide | UI/exe string (no data context)
+Base focus before bonuses
+@@ 5911 | decide | UI/exe string (no data context)
+Base strength before bonuses
+@@ 5912 | decide | UI/exe string (no data context)
+Base vitality before bonuses
+@@ 5913 | decide | UI/exe string (no data context)
+Basic Attack
+@@ 5914 | decide | UI/exe string (no data context)
+Befriend Player
+@@ 5915 | decide | UI/exe string (no data context)
+Belt Slot (Empty)
+@@ 5916 | decide | UI/exe string (no data context)
+Best for first-time players,\n|cFFA1D0FCNormal Mode|u presents a wide range of challenge without requiring in-depth knowledge of the game.
+@@ 5917 | decide | UI/exe string (no data context)
+Beyond the Darkness
+@@ 5918 | decide | UI/exe string (no data context)
+Big Treasure Chest
+@@ 5919 | decide | UI/exe string (no data context)
+Black Heart
+@@ 5920 | decide | UI/exe string (no data context)
+Blade of the Ripper
+@@ 5921 | decide | UI/exe string (no data context)
+Blast fish out of the water with dynamite!
+@@ 5922 | decide | UI/exe string (no data context)
+Bleak Chamber
+@@ 5923 | decide | UI/exe string (no data context)
+Blitz Skills
+@@ 5924 | decide | UI/exe string (no data context)
+Block
+@@ 5925 | decide | UI/exe string (no data context)
+Block List
+@@ 5926 | decide | UI/exe string (no data context)
+Block Player
+@@ 5927 | decide | UI/exe string (no data context)
+Blood and Black Lace
+@@ 5928 | decide | UI/exe string (no data context)
+Bloom
+@@ 5929 | decide | UI/exe string (no data context)
+Bloom adds glow effects to the game.\nDisabling bloom may improve frame rate.
+@@ 5930 | decide | UI/exe string (no data context)
+Bones
+@@ 5931 | decide | UI/exe string (no data context)
+Bonus dexterity from equipment and effects
+@@ 5932 | decide | UI/exe string (no data context)
+Bonus focus from equipment and effects
+@@ 5933 | decide | UI/exe string (no data context)
+Bonus multiplier to base dexterity
+@@ 5934 | decide | UI/exe string (no data context)
+Bonus multiplier to base focus
+@@ 5935 | decide | UI/exe string (no data context)
+Bonus multiplier to base strength
+@@ 5936 | decide | UI/exe string (no data context)
+Bonus multiplier to base vitality
+@@ 5937 | decide | UI/exe string (no data context)
+Bonus strength from equipment and effects
+@@ 5938 | decide | UI/exe string (no data context)
+Bonus vitality from equipment and effects
+@@ 5939 | decide | UI/exe string (no data context)
+Boots Slot (Empty)
+@@ 5940 | decide | UI/exe string (no data context)
+Boss Chest
+@@ 5941 | decide | UI/exe string (no data context)
+Breakables
+@@ 5942 | decide | UI/exe string (no data context)
+Breakables Broken
+@@ 5943 | decide | UI/exe string (no data context)
+Broken Detonator
+@@ 5944 | decide | UI/exe string (no data context)
+Brood Hive
+@@ 5945 | decide | UI/exe string (no data context)
+Browse to Website
+@@ 5946 | decide | UI/exe string (no data context)
+Bruce Miles\nLev Liberman\nLani Minella\nAnna Vocino\nRowell Gormon\nSusanna Burney\nMike Vaughn\nSam Brando\nKate Yeager\nBobby Baldwin\nEric Newsome\nPeta Johnson\nChris Ackerman\n\n|cFFF5DB94Recorded at|u\nPure Audio
+@@ 5947 | decide | UI/exe string (no data context)
+Busy
+@@ 5948 | decide | UI/exe string (no data context)
+Buy Full Version
+@@ 5949 | decide | UI/exe string (no data context)
+Buy items back from the merchant
+@@ 5950 | decide | UI/exe string (no data context)
+By exiting to the |cFFEAAA15Main Menu|u now you will lose any progress you have made since entering the current level!\n
+@@ 5951 | decide | UI/exe string (no data context)
+By perfoming this action, all socketables in the item will be destroyed, leaving the slots empty.
+@@ 5952 | decide | UI/exe string (no data context)
+By perfoming this action, the equipment will be destroyed, returning to you any socketables that it contained.
+@@ 5953 | decide | UI/exe string (no data context)
+Cabin Trunk
+@@ 5954 | decide | UI/exe string (no data context)
+Cancel
+@@ 5955 | decide | UI/exe string (no data context)
+Cancel Connection
+@@ 5956 | decide | UI/exe string (no data context)
+Cancel Trade Request
+@@ 5957 | decide | UI/exe string (no data context)
+Cancel and Discard Changes
+@@ 5958 | decide | UI/exe string (no data context)
+Canceling in
+@@ 5959 | decide | UI/exe string (no data context)
+Caps Lock is on
+@@ 5960 | decide | UI/exe string (no data context)
+Cast Speed Bonus
+@@ 5961 | decide | UI/exe string (no data context)
+Catacombs Boss
+@@ 5962 | decide | UI/exe string (no data context)
+Center UI Globes
+@@ 5963 | decide | UI/exe string (no data context)
+Center UI Globes causes the health and mana globes to be \nplaced next to the hotbar instead of the corners of the screen.
+@@ 5964 | decide | UI/exe string (no data context)
+Champions Killed
+@@ 5965 | decide | UI/exe string (no data context)
+Chance any normal attack or damaging skill \nwill result in a 'Critical', dealing maximum damage \nplus the Critical Damage modifier (below)
+@@ 5966 | decide | UI/exe string (no data context)
+Chance any normal attack will result in a 'Fumble',\nreducing damage by a Penalty amount (right below)
+@@ 5967 | decide | UI/exe string (no data context)
+Chance that any incoming direct attack will be blocked,\nmitigating all damage. \nA character must have a shield equipped to block attacks.
+@@ 5968 | decide | UI/exe string (no data context)
+Chance that any incoming direct attack\nwill be dodged, mitigating all damage
+@@ 5969 | decide | UI/exe string (no data context)
+Chance that any ranged attack will be reflected
+@@ 5970 | decide | UI/exe string (no data context)
+Chance, when wielding two similar weapons,\nthat a normal attack will be upgraded to a \ndouble attack using both weapons
+@@ 5971 | decide | UI/exe string (no data context)
+Change sort order
+@@ 5972 | decide | UI/exe string (no data context)
+Chaos
+@@ 5973 | decide | UI/exe string (no data context)
+Character Mod Details
+@@ 5974 | decide | UI/exe string (no data context)
+Character Panel
+@@ 5975 | decide | UI/exe string (no data context)
+Character Panel [[KB:StatMenu]]
+@@ 5976 | decide | UI/exe string (no data context)
+Character not playable in Demo Mode
+@@ 5977 | decide | UI/exe string (no data context)
+Characters
+@@ 5978 | decide | UI/exe string (no data context)
+Chest Slot (Empty)
+@@ 5979 | decide | UI/exe string (no data context)
+Chest of Kings
+@@ 5980 | decide | UI/exe string (no data context)
+Chest of Queens
+@@ 5981 | decide | UI/exe string (no data context)
+Chest of Wazir
+@@ 5982 | decide | UI/exe string (no data context)
+Choose Map Destination
+@@ 5983 | decide | UI/exe string (no data context)
+Choose a Door
+@@ 5984 | decide | UI/exe string (no data context)
+Choose a spell to permanently unlearn
+@@ 5985 | decide | UI/exe string (no data context)
+Cinematics
+@@ 5986 | decide | UI/exe string (no data context)
+Clear
+@@ 5987 | decide | UI/exe string (no data context)
+Clear Assignment
+@@ 5988 | decide | UI/exe string (no data context)
+Clear trade items and gold
+@@ 5989 | decide | UI/exe string (no data context)
+Click for Best Health Potion ( [KB:BESTPETPOTION] )
+@@ 5990 | decide | UI/exe string (no data context)
+Click for Best Mana Potion ( [KB:BESTPETMANA] )
+@@ 5991 | decide | UI/exe string (no data context)
+Clockwork Core
+@@ 5992 | decide | UI/exe string (no data context)
+Close
+@@ 5993 | decide | UI/exe string (no data context)
+Close Active Portal
+@@ 5994 | decide | UI/exe string (no data context)
+Close Panel
+@@ 5995 | decide | UI/exe string (no data context)
+Collar Slot\n\n |c00ff9933The best way to find\nCollars is to fish in\ndangerous areas!|u
+@@ 5996 | decide | UI/exe string (no data context)
+Combat Log
+@@ 5997 | decide | UI/exe string (no data context)
+ComboText
+@@ 5998 | decide | UI/exe string (no data context)
+Completed Quests
+@@ 5999 | decide | UI/exe string (no data context)
+Confirm
+@@ 6000 | decide | UI/exe string (no data context)
+Confirm Password
+@@ 6001 | decide | UI/exe string (no data context)
+Confirm Reward Selection
+@@ 6002 | decide | UI/exe string (no data context)
+Confirm Trade
+@@ 6003 | decide | UI/exe string (no data context)
+Conflict
+@@ 6004 | decide | UI/exe string (no data context)
+Congratulations
+@@ 6005 | decide | UI/exe string (no data context)
+Connecting
+@@ 6006 | decide | UI/exe string (no data context)
+Connecting to lobby service...
+@@ 6007 | decide | UI/exe string (no data context)
+Construction Skills
+@@ 6008 | decide | UI/exe string (no data context)
+Consumables
+@@ 6009 | decide | UI/exe string (no data context)
+Consumables Inventory
+@@ 6010 | decide | UI/exe string (no data context)
+Consumables Tab
+@@ 6011 | decide | UI/exe string (no data context)
+Continue Anyway
+@@ 6012 | decide | UI/exe string (no data context)
+Continue to the \nRunic Games account management website?
+@@ 6013 | decide | UI/exe string (no data context)
+Control
+@@ 6014 | decide | UI/exe string (no data context)
+Controls
+@@ 6015 | decide | UI/exe string (no data context)
+Conveys
+@@ 6016 | decide | UI/exe string (no data context)
+Could not connect to lobby server
+@@ 6017 | decide | UI/exe string (no data context)
+Crab Nest
+@@ 6018 | decide | UI/exe string (no data context)
+Crafted by the most powerful necromancer alive ... and dead.
+@@ 6019 | decide | UI/exe string (no data context)
+Crafted by the most powerful necromancer alive and dead.
+@@ 6020 | decide | UI/exe string (no data context)
+Create Game
+@@ 6021 | decide | UI/exe string (no data context)
+Create a New Game
+@@ 6022 | decide | UI/exe string (no data context)
+Create a new account, \nmanage an existing account,\nor retrive a lost password.
+@@ 6023 | decide | UI/exe string (no data context)
+Create or manage your account!
+@@ 6024 | decide | UI/exe string (no data context)
+Credits
+@@ 6025 | decide | UI/exe string (no data context)
+Crit and Dodge
+@@ 6026 | decide | UI/exe string (no data context)
+Critical Damage
+@@ 6027 | decide | UI/exe string (no data context)
+Critical Damage Bonus
+@@ 6028 | decide | UI/exe string (no data context)
+Crow's Pass
+@@ 6029 | decide | UI/exe string (no data context)
+Crows' Pass
+@@ 6030 | decide | UI/exe string (no data context)
+Ctr
+@@ 6031 | decide | UI/exe string (no data context)
+Ctrl
+@@ 6032 | decide | UI/exe string (no data context)
+Ctrl-click to Split Stack
+@@ 6033 | decide | UI/exe string (no data context)
+Current Level: 
+@@ 6034 | decide | UI/exe string (no data context)
+Current Location
+@@ 6035 | decide | UI/exe string (no data context)
+DEMO
+@@ 6036 | decide | UI/exe string (no data context)
+Damage Arc
+@@ 6037 | decide | UI/exe string (no data context)
+Damage Dealt
+@@ 6038 | decide | UI/exe string (no data context)
+Damage Per Second
+@@ 6039 | decide | UI/exe string (no data context)
+Damage Taken
+@@ 6040 | decide | UI/exe string (no data context)
+Damage penalty applied to a Fumbled attack
+@@ 6041 | decide | UI/exe string (no data context)
+Daphne Cabral\nEmily and Bunny\nGabbers\nKatie Garner\nZoey Baldree\nEmma June Baldree\nGearbox\nWade Callender\nDavid Eddings\nBen Donges\nFalcor \n
+@@ 6042 | decide | UI/exe string (no data context)
+Dear players:
+@@ 6043 | decide | UI/exe string (no data context)
+Decline Quest
+@@ 6044 | decide | UI/exe string (no data context)
+Decline Trade Request
+@@ 6045 | decide | UI/exe string (no data context)
+Defaults
+@@ 6046 | decide | UI/exe string (no data context)
+Defeat the Troll
+@@ 6047 | decide | UI/exe string (no data context)
+Defeat the Witches
+@@ 6048 | decide | UI/exe string (no data context)
+Delete
+@@ 6049 | decide | UI/exe string (no data context)
+Description
+@@ 6050 | decide | UI/exe string (no data context)
+Description of the game
+@@ 6051 | decide | UI/exe string (no data context)
+Destroy the Gems currently socketed into this item
+@@ 6052 | decide | UI/exe string (no data context)
+Destroy the risen graves
+@@ 6053 | decide | UI/exe string (no data context)
+Destroy this item, in order to recover any socketed Gems
+@@ 6054 | decide | UI/exe string (no data context)
+Details
+@@ 6055 | decide | UI/exe string (no data context)
+Detonator
+@@ 6056 | decide | UI/exe string (no data context)
+Dexterity Bonus
+@@ 6057 | decide | UI/exe string (no data context)
+Dialog Text
+@@ 6058 | decide | UI/exe string (no data context)
+Difficulty of Server
+@@ 6059 | decide | UI/exe string (no data context)
+Difficulty of games to list
+@@ 6060 | decide | UI/exe string (no data context)
+Difficulty of the game
+@@ 6061 | decide | UI/exe string (no data context)
+Dig for Buried Treasure
+@@ 6062 | decide | UI/exe string (no data context)
+Disabling Hardware Skinning can drastically decrease frame rate.\nHardware Skinning enables GFX card acceleration of skinning.\nOnly disable for compatibility reasons.
+@@ 6063 | decide | UI/exe string (no data context)
+Discovered\nEmberscratch Minehead
+@@ 6064 | decide | UI/exe string (no data context)
+Discovered\nEstherian Refuge
+@@ 6065 | decide | UI/exe string (no data context)
+Discovered\nForsaken Gate
+@@ 6066 | decide | UI/exe string (no data context)
+Discovered\nGravedeep
+@@ 6067 | decide | UI/exe string (no data context)
+Discovered\nPrison Caravan
+@@ 6068 | decide | UI/exe string (no data context)
+Discovered\nSadwa Mesa
+@@ 6069 | decide | UI/exe string (no data context)
+Discovered\nSkull Hollow
+@@ 6070 | decide | UI/exe string (no data context)
+Discovered\nSlavers' Camp
+@@ 6071 | decide | UI/exe string (no data context)
+Discovered\nStygian Aerie Approach
+@@ 6072 | decide | UI/exe string (no data context)
+Discovered\nThe Beast Warrens
+@@ 6073 | decide | UI/exe string (no data context)
+Discovered\nThe Bone Clutch
+@@ 6074 | decide | UI/exe string (no data context)
+Discovered\nThe Cairn Pit
+@@ 6075 | decide | UI/exe string (no data context)
+Discovered\nThe Downfalls
+@@ 6076 | decide | UI/exe string (no data context)
+Discovered\nThe Embercraft
+@@ 6077 | decide | UI/exe string (no data context)
+Discovered\nThe Lost Hold
+@@ 6078 | decide | UI/exe string (no data context)
+Discovered\nThe Rot Gardens
+@@ 6079 | decide | UI/exe string (no data context)
+Discovered\nThe Ship Graveyard
+@@ 6080 | decide | UI/exe string (no data context)
+Discovered\nThe Swarmstacks
+@@ 6081 | decide | UI/exe string (no data context)
+Discovered\nTower of the Moon
+@@ 6082 | decide | UI/exe string (no data context)
+Discovered\nWatchweald Approach
+@@ 6083 | decide | UI/exe string (no data context)
+Discovered\nWellspring Approach
+@@ 6084 | decide | UI/exe string (no data context)
+Discovered\nWicker Grove
+@@ 6085 | decide | UI/exe string (no data context)
+Discovered\nWidowmaker Woods
+@@ 6086 | decide | UI/exe string (no data context)
+Disenchant Item Cost
+@@ 6087 | decide | UI/exe string (no data context)
+Display
+@@ 6088 | decide | UI/exe string (no data context)
+Do you wish to Exit?
+@@ 6089 | decide | UI/exe string (no data context)
+Do you wish to continue?
+@@ 6090 | decide | UI/exe string (no data context)
+Do you wish to travel to Cacklespit's Realm?
+@@ 6091 | decide | UI/exe string (no data context)
+Do you wish to travel to The Blightbogs?
+@@ 6092 | decide | UI/exe string (no data context)
+Do you wish to travel to Zeryphesh?
+@@ 6093 | decide | UI/exe string (no data context)
+Do you wish to travel to the Estherian Enclave?
+@@ 6094 | decide | UI/exe string (no data context)
+Do you wish to travel to the Imperial Camp?
+@@ 6095 | decide | UI/exe string (no data context)
+Dodge Chance
+@@ 6096 | decide | UI/exe string (no data context)
+Doing so will start your adventure anew. All of your items, statistics and skills will remain unchanged, but the game will begin at level |cFFA1D0FC<STAT1>|u.\n\nYou will be unable to play with any characters who do not occupy the same New Game Plus tier.
+@@ 6097 | decide | UI/exe string (no data context)
+Door #1
+@@ 6098 | decide | UI/exe string (no data context)
+Door #2
+@@ 6099 | decide | UI/exe string (no data context)
+Door #3
+@@ 6100 | decide | UI/exe string (no data context)
+Dragon Boss
+@@ 6101 | decide | UI/exe string (no data context)
+Drop potion to heal or restore mana
+@@ 6102 | decide | UI/exe string (no data context)
+Dual Wielding Bonus
+@@ 6103 | decide | UI/exe string (no data context)
+Dungeon Properties
+@@ 6104 | decide | UI/exe string (no data context)
+Duration
+@@ 6105 | decide | UI/exe string (no data context)
+EMBERMAGE CHARGE BAR
+@@ 6106 | decide | UI/exe string (no data context)
+ENGINEER CHARGE BAR
+@@ 6107 | decide | UI/exe string (no data context)
+ERROR
+@@ 6108 | decide | UI/exe string (no data context)
+Eggs
+@@ 6109 | decide | UI/exe string (no data context)
+Electric Armor
+@@ 6110 | decide | UI/exe string (no data context)
+Electric Resist
+@@ 6111 | decide | UI/exe string (no data context)
+Electrical jolt when struck - Resists Electricity
+@@ 6112 | decide | UI/exe string (no data context)
+Elemental Armors
+@@ 6113 | decide | UI/exe string (no data context)
+Elemental Damage Bonuses
+@@ 6114 | decide | UI/exe string (no data context)
+Elemental Damage Reductions
+@@ 6115 | decide | UI/exe string (no data context)
+Elemental Damages
+@@ 6116 | decide | UI/exe string (no data context)
+Embercraft Repair
+@@ 6117 | decide | UI/exe string (no data context)
+Emberscratch Minehead
+@@ 6118 | decide | UI/exe string (no data context)
+Emberworks
+@@ 6119 | decide | UI/exe string (no data context)
+Enable/Disable Level Difference Filter
+@@ 6120 | decide | UI/exe string (no data context)
+Enables verbal alerts for low Mana or Health and fleeing pets
+@@ 6121 | decide | UI/exe string (no data context)
+Enabling Always Show Player Names will set all other players \nto have their name visible above their head at all times.\n\nDisabling Always Show Player Names will cause them to be displayed \nonly if the Show Items Toggle is on or the Show Items Modifier button is pressed.
+@@ 6122 | decide | UI/exe string (no data context)
+Enchant Item Cost
+@@ 6123 | decide | UI/exe string (no data context)
+Enchanter
+@@ 6124 | decide | UI/exe string (no data context)
+Enchanters can bestow new properties on your equipment.\n\nNot all Enchanters are the same - some can enchant an item only once, while others may do so 2 or more times.\n\nNot all Enchanters provide the same enchantments - some may even add sockets to your equipment.
+@@ 6125 | decide | UI/exe string (no data context)
+Encrusted Construct
+@@ 6126 | decide | UI/exe string (no data context)
+Enter
+@@ 6127 | decide | UI/exe string (no data context)
+Enter Haunted Quarter
+@@ 6128 | decide | UI/exe string (no data context)
+Enter Ice Labs
+@@ 6129 | decide | UI/exe string (no data context)
+Enter Icedeep Caverns
+@@ 6130 | decide | UI/exe string (no data context)
+Enter Korari Cave
+@@ 6131 | decide | UI/exe string (no data context)
+Enter Luminous Arena
+@@ 6132 | decide | UI/exe string (no data context)
+Enter Norsk Leiren
+@@ 6133 | decide | UI/exe string (no data context)
+Enter Notch's Mine
+@@ 6134 | decide | UI/exe string (no data context)
+Enter The Ancient Vaults of Chaos
+@@ 6135 | decide | UI/exe string (no data context)
+Enter The Bone Gallery
+@@ 6136 | decide | UI/exe string (no data context)
+Enter The Burial Chambers
+@@ 6137 | decide | UI/exe string (no data context)
+Enter The Catacombs
+@@ 6138 | decide | UI/exe string (no data context)
+Enter The Caves
+@@ 6139 | decide | UI/exe string (no data context)
+Enter The Corrupted Crypt
+@@ 6140 | decide | UI/exe string (no data context)
+Enter The Forgotten Halls
+@@ 6141 | decide | UI/exe string (no data context)
+Enter The Foul Cave of Shadows
+@@ 6142 | decide | UI/exe string (no data context)
+Enter The Fungal Caves
+@@ 6143 | decide | UI/exe string (no data context)
+Enter The Howling Cave of Doom
+@@ 6144 | decide | UI/exe string (no data context)
+Enter The Ice Caves
+@@ 6145 | decide | UI/exe string (no data context)
+Enter The Lost Hold
+@@ 6146 | decide | UI/exe string (no data context)
+Enter The Lost Okwari Caves
+@@ 6147 | decide | UI/exe string (no data context)
+Enter The Shadowy Crevasse
+@@ 6148 | decide | UI/exe string (no data context)
+Enter The Warbeast Den
+@@ 6149 | decide | UI/exe string (no data context)
+Enter The Wellspring Temple
+@@ 6150 | decide | UI/exe string (no data context)
+Enter The Whispering Cave
+@@ 6151 | decide | UI/exe string (no data context)
+Enter The Widows Veil
+@@ 6152 | decide | UI/exe string (no data context)
+Enter a berserk state, always critting and dealign bonus crit damage. Each crit consumes some charge until the bar is empty
+@@ 6153 | decide | UI/exe string (no data context)
+Enter the Watchweald Temple
+@@ 6154 | decide | UI/exe string (no data context)
+Entered\nAnother Realm
+@@ 6155 | decide | UI/exe string (no data context)
+Entered\nEmberscratch Minehead
+@@ 6156 | decide | UI/exe string (no data context)
+Entered\nEstherian Refuge
+@@ 6157 | decide | UI/exe string (no data context)
+Entered\nForsaken Gate
+@@ 6158 | decide | UI/exe string (no data context)
+Entered\nGravedeep
+@@ 6159 | decide | UI/exe string (no data context)
+Entered\nPrison Caravan
+@@ 6160 | decide | UI/exe string (no data context)
+Entered\nSadwa Mesa
+@@ 6161 | decide | UI/exe string (no data context)
+Entered\nSkull Hollow
+@@ 6162 | decide | UI/exe string (no data context)
+Entered\nSlavers' Camp
+@@ 6163 | decide | UI/exe string (no data context)
+Entered\nStorm Armory
+@@ 6164 | decide | UI/exe string (no data context)
+Entered\nStygian Aerie Approach
+@@ 6165 | decide | UI/exe string (no data context)
+Entered\nThe Beast Warrens
+@@ 6166 | decide | UI/exe string (no data context)
+Entered\nThe Bone Clutch
+@@ 6167 | decide | UI/exe string (no data context)
+Entered\nThe Cairn Pit
+@@ 6168 | decide | UI/exe string (no data context)
+Entered\nThe Downfalls
+@@ 6169 | decide | UI/exe string (no data context)
+Entered\nThe Embercraft
+@@ 6170 | decide | UI/exe string (no data context)
+Entered\nThe Lost Hold
+@@ 6171 | decide | UI/exe string (no data context)
+Entered\nThe Rot Gardens
+@@ 6172 | decide | UI/exe string (no data context)
+Entered\nThe Ship Graveyard
+@@ 6173 | decide | UI/exe string (no data context)
+Entered\nThe Swarmstacks
+@@ 6174 | decide | UI/exe string (no data context)
+Entered\nWatchweald Approach
+@@ 6175 | decide | UI/exe string (no data context)
+Entered\nWellspring Approach
+@@ 6176 | decide | UI/exe string (no data context)
+Entered\nWicker Grove
+@@ 6177 | decide | UI/exe string (no data context)
+Entered\nWidowmaker Woods
+@@ 6178 | decide | UI/exe string (no data context)
+Equipment
+@@ 6179 | decide | UI/exe string (no data context)
+Equipment Inventory
+@@ 6180 | decide | UI/exe string (no data context)
+Equipment Tab
+@@ 6181 | decide | UI/exe string (no data context)
+Equipped
+@@ 6182 | decide | UI/exe string (no data context)
+Error
+@@ 6183 | decide | UI/exe string (no data context)
+Estherian Refuge
+@@ 6184 | decide | UI/exe string (no data context)
+Estherian Shrine Boss
+@@ 6185 | decide | UI/exe string (no data context)
+Execute Chance
+@@ 6186 | decide | UI/exe string (no data context)
+Exit Luminous Arena
+@@ 6187 | decide | UI/exe string (no data context)
+Exit to Salt Barrens
+@@ 6188 | decide | UI/exe string (no data context)
+Exit to main menu
+@@ 6189 | decide | UI/exe string (no data context)
+Exit?
+@@ 6190 | decide | UI/exe string (no data context)
+Experience
+@@ 6191 | decide | UI/exe string (no data context)
+Experience Reward
+@@ 6192 | decide | UI/exe string (no data context)
+Experience progress to next level
+@@ 6193 | decide | UI/exe string (no data context)
+Extra Fast - Elemental attacks
+@@ 6194 | decide | UI/exe string (no data context)
+Ezrek Kahn
+@@ 6195 | decide | UI/exe string (no data context)
+FAIL
+@@ 6196 | decide | UI/exe string (no data context)
+FPS: <STAT1>
+@@ 6197 | decide | UI/exe string (no data context)
+Faceless King
+@@ 6198 | decide | UI/exe string (no data context)
+Fame Reward
+@@ 6199 | decide | UI/exe string (no data context)
+Fame progress to next level
+@@ 6200 | decide | UI/exe string (no data context)
+Filter By Level Range
+@@ 6201 | decide | UI/exe string (no data context)
+Filter By Lvl Range
+@@ 6202 | decide | UI/exe string (no data context)
+Filter By Name Prefix
+@@ 6203 | decide | UI/exe string (no data context)
+Final Boss Room
+@@ 6204 | decide | UI/exe string (no data context)
+Final Round
+@@ 6205 | decide | UI/exe string (no data context)
+Fire Armor
+@@ 6206 | decide | UI/exe string (no data context)
+Fire Resist
+@@ 6207 | decide | UI/exe string (no data context)
+Firewall Problems Detected!
+@@ 6208 | decide | UI/exe string (no data context)
+First Mate
+@@ 6209 | decide | UI/exe string (no data context)
+Fishing Luck Bonus
+@@ 6210 | decide | UI/exe string (no data context)
+Flammable Lantern
+@@ 6211 | decide | UI/exe string (no data context)
+Floating Damage & Text
+@@ 6212 | decide | UI/exe string (no data context)
+Floating Damage & Text sets the behavior of the floating numbers and \ntext events that appear over player characters and monsters in the game.\n\nVerbose - All events are displayed\nNormal - Block, parry, shield shatter, and damage absorption events are muted\nSparse - Only critical damage, death blows, and quest\system events are displayed\nNone - Only quest\system events are displayed
+@@ 6213 | decide | UI/exe string (no data context)
+Flying Fish School
+@@ 6214 | decide | UI/exe string (no data context)
+Focus Bonus
+@@ 6215 | decide | UI/exe string (no data context)
+Forgot Password
+@@ 6216 | decide | UI/exe string (no data context)
+Forgot your password?
+@@ 6217 | decide | UI/exe string (no data context)
+Forgotten Chamber
+@@ 6218 | decide | UI/exe string (no data context)
+Forsaken Gate
+@@ 6219 | decide | UI/exe string (no data context)
+Friend
+@@ 6220 | decide | UI/exe string (no data context)
+Friends
+@@ 6221 | decide | UI/exe string (no data context)
+Friends List
+@@ 6222 | decide | UI/exe string (no data context)
+Friends Only
+@@ 6223 | decide | UI/exe string (no data context)
+Frost Skills
+@@ 6224 | decide | UI/exe string (no data context)
+Fullscreen
+@@ 6225 | decide | UI/exe string (no data context)
+Fumble Chance
+@@ 6226 | decide | UI/exe string (no data context)
+Fumble Damage Penalty
+@@ 6227 | decide | UI/exe string (no data context)
+Fumble Recovery
+@@ 6228 | decide | UI/exe string (no data context)
+Game Name
+@@ 6229 | decide | UI/exe string (no data context)
+Game Name Exists
+@@ 6230 | decide | UI/exe string (no data context)
+Game Rank
+@@ 6231 | decide | UI/exe string (no data context)
+Game Settings
+@@ 6232 | decide | UI/exe string (no data context)
+Games must be within this many levels of your player level to display
+@@ 6233 | decide | UI/exe string (no data context)
+Games only with friends in them
+@@ 6234 | decide | UI/exe string (no data context)
+Gel
+@@ 6235 | decide | UI/exe string (no data context)
+Gem Rescue Challenge
+@@ 6236 | decide | UI/exe string (no data context)
+Gem Saver
+@@ 6237 | decide | UI/exe string (no data context)
+Gem Smasher
+@@ 6238 | decide | UI/exe string (no data context)
+Gems
+@@ 6239 | decide | UI/exe string (no data context)
+Give Offering
+@@ 6240 | decide | UI/exe string (no data context)
+Gloves Slot (Empty)
+@@ 6241 | decide | UI/exe string (no data context)
+Go to Runic Accounts website
+@@ 6242 | decide | UI/exe string (no data context)
+Gold Chest
+@@ 6243 | decide | UI/exe string (no data context)
+Gold Drop Bonus
+@@ 6244 | decide | UI/exe string (no data context)
+Gold Reward
+@@ 6245 | decide | UI/exe string (no data context)
+Gold from the sale of items.
+@@ 6246 | decide | UI/exe string (no data context)
+Gold from the sale of items. Insufficient funds were available for requested purchases.
+@@ 6247 | decide | UI/exe string (no data context)
+Gold from the sale of items.\n\nYour pet has also returned with some selected items. Insignificant funds for all items requested.
+@@ 6248 | decide | UI/exe string (no data context)
+Gold from the sale of items.\n\nYour pet has also returned with your selected items.
+@@ 6249 | decide | UI/exe string (no data context)
+Grand Illusion
+@@ 6250 | decide | UI/exe string (no data context)
+Grave of a Fallen Warrior
+@@ 6251 | decide | UI/exe string (no data context)
+Gravedeep
+@@ 6252 | decide | UI/exe string (no data context)
+Hail, Traveler!\nA member of our crew had ventured to Zeryphesh to obtain a replacement for our Iridian Focus. Upon returning, a band of fiendish Ratlins attacked him and stole the Focus!\nCould you go to the Mesa just North of here and see if you can win the Iridian Focus back from those treacherous beasts?
+@@ 6253 | decide | UI/exe string (no data context)
+Hardcore Mode means that death is PERMANENT! Only for the Brave.
+@@ 6254 | decide | UI/exe string (no data context)
+Hardware Skinning *
+@@ 6255 | decide | UI/exe string (no data context)
+Heals the player and allies
+@@ 6256 | decide | UI/exe string (no data context)
+Health
+@@ 6257 | decide | UI/exe string (no data context)
+Health Regeneration
+@@ 6258 | decide | UI/exe string (no data context)
+Helmet Slot (Empty)
+@@ 6259 | decide | UI/exe string (no data context)
+Help
+@@ 6260 | decide | UI/exe string (no data context)
+Help us, friend!  There seems to be no end of these goblins!
+@@ 6261 | decide | UI/exe string (no data context)
+Help!
+@@ 6262 | decide | UI/exe string (no data context)
+Help! Please ... help me!
+@@ 6263 | decide | UI/exe string (no data context)
+Help! Please ... help us!
+@@ 6264 | decide | UI/exe string (no data context)
+High
+@@ 6265 | decide | UI/exe string (no data context)
+Highest Damage Dealt
+@@ 6266 | decide | UI/exe string (no data context)
+Highest Damage Taken
+@@ 6267 | decide | UI/exe string (no data context)
+Hood
+@@ 6268 | decide | UI/exe string (no data context)
+Hunter Skills
+@@ 6269 | decide | UI/exe string (no data context)
+I
+@@ 6270 | decide | UI/exe string (no data context)
+I can't thank you enough for helping me!
+@@ 6271 | decide | UI/exe string (no data context)
+I do not know that I will make it out of this cave but, please:  Save everyone else that you can!
+@@ 6272 | decide | UI/exe string (no data context)
+I guess all's well that ends with me not getting eaten by a monster.
+@@ 6273 | decide | UI/exe string (no data context)
+I just need a few minutes to purify the Tranquil Censer ... It has touched the ground, and now is unclean. It is marred by the stain of necromantic ...\n... actually, I think it's just dirt. I can probably just polish it. I'm sure it'll be fine.
+@@ 6274 | decide | UI/exe string (no data context)
+I really should try to be more careful. My father's always saying: "You really should try to be more careful." I guess I should stop talking to strangers, huh?\n\nUm ...\n\nI should go now.
+@@ 6275 | decide | UI/exe string (no data context)
+I would like you to have this, as a token of my gratitude!
+@@ 6276 | decide | UI/exe string (no data context)
+I'm afraid it's too late for most of these soldiers. They will not see Zeryphesh again.
+@@ 6277 | decide | UI/exe string (no data context)
+I'm afraid it's too late for these soldiers.
+@@ 6278 | decide | UI/exe string (no data context)
+I'm sure we'll meet again, someday ... you probably won't remember me, but I'll remember you.
+@@ 6279 | decide | UI/exe string (no data context)
+IDENTIFY?
+@@ 6280 | decide | UI/exe string (no data context)
+II
+@@ 6281 | decide | UI/exe string (no data context)
+III
+@@ 6282 | decide | UI/exe string (no data context)
+IME is not available in Fullscreen mode.\nTo use IME, enable\n|cFFEAAA15Windowed Fullscreen Mode|u\nfrom the Settings menu.
+@@ 6283 | decide | UI/exe string (no data context)
+INVALID LEVEL DELTA
+@@ 6284 | decide | UI/exe string (no data context)
+INVALID SERVER NAME
+@@ 6285 | decide | UI/exe string (no data context)
+ITEMS
+@@ 6286 | decide | UI/exe string (no data context)
+Ice Armor
+@@ 6287 | decide | UI/exe string (no data context)
+Ice Caves
+@@ 6288 | decide | UI/exe string (no data context)
+Ice Caves Boss
+@@ 6289 | decide | UI/exe string (no data context)
+Ice Resist
+@@ 6290 | decide | UI/exe string (no data context)
+If you choose this option, your results will be
+@@ 6291 | decide | UI/exe string (no data context)
+If you die, the chests will disappear.
+@@ 6292 | decide | UI/exe string (no data context)
+If you're angry, count to ten then kill, kill, kill again!
+@@ 6293 | decide | UI/exe string (no data context)
+Ignite Braziers in Order
+@@ 6294 | decide | UI/exe string (no data context)
+In Memoriam\nBen Boos
+@@ 6295 | decide | UI/exe string (no data context)
+Increase in the chance to catch better fish
+@@ 6296 | decide | UI/exe string (no data context)
+Increase in the chance to find higher classes\nof magical loot from monsters and chests
+@@ 6297 | decide | UI/exe string (no data context)
+Increases physical and elemental armor
+@@ 6298 | decide | UI/exe string (no data context)
+Increases the chance to block attacks with a shield
+@@ 6299 | decide | UI/exe string (no data context)
+Increases the chance to evade enemy attacks
+@@ 6300 | decide | UI/exe string (no data context)
+Increases the chance to parry enemy attacks when using melee weapons
+@@ 6301 | decide | UI/exe string (no data context)
+Increases the chance to perform a critical attack\n
+@@ 6302 | decide | UI/exe string (no data context)
+Increases the chance to strike with two similar weapons simultaneously
+@@ 6303 | decide | UI/exe string (no data context)
+Increases the damage done by weapons
+@@ 6304 | decide | UI/exe string (no data context)
+Increases the damage done for critical attacks
+@@ 6305 | decide | UI/exe string (no data context)
+Increases the magic damage done by weapons and skills
+@@ 6306 | decide | UI/exe string (no data context)
+Infected Hive
+@@ 6307 | decide | UI/exe string (no data context)
+Inferno Skills
+@@ 6308 | decide | UI/exe string (no data context)
+Ingredients
+@@ 6309 | decide | UI/exe string (no data context)
+Inspect
+@@ 6310 | decide | UI/exe string (no data context)
+Inspect Player
+@@ 6311 | decide | UI/exe string (no data context)
+Internet
+@@ 6312 | decide | UI/exe string (no data context)
+Invalid Description
+@@ 6313 | decide | UI/exe string (no data context)
+Inventory Panel
+@@ 6314 | decide | UI/exe string (no data context)
+Inventory [[KB:InventoryMenu]]
+@@ 6315 | decide | UI/exe string (no data context)
+It appears you have found my body.  Very good.  This is where my memories are stored including the locations of multiple caches of treasure.  I could share these with you, if you would help me reacquire the rest of my components.\n\nWe should begin with my |cFFD1FF7ACognition Linkage|u.  Without that, I won't be able to do much more than repeat this message.  My sensors tell me it is somewhere nearby.  Find it and reinstall it, and I will direct you to one of those treasure troves.
+@@ 6316 | decide | UI/exe string (no data context)
+It is ... too late for me. I am Undone. I had hoped ... to make it as far as the human inn, but it seems I will ... perish here. Did any of my other kindred make it? Ah ... I see not.\n\nYou may ... be too late. The Estherians are dying. We are being ... dissolved ... by a plague. A magical plague. Some are ... trying to help ... our friend Syl, and the human Alchemist. Nothing ... is working. Our time ... is ending ...
+@@ 6317 | decide | UI/exe string (no data context)
+It is my duty to tend to the Honored Dead.  But they are angry, and have risen from their tombs!\n\nThe Tranquil Censer should calm them once again.  But they attacked me, and, during the struggle, I dropped it. Can you help me get it back?\n
+@@ 6318 | decide | UI/exe string (no data context)
+It's lucky you came along!  Take this, as a token of my gratitude.  Now, if you please, the Ambassador would like a word with you.
+@@ 6319 | decide | UI/exe string (no data context)
+Item Display
+@@ 6320 | decide | UI/exe string (no data context)
+Jackal Bass Hole
+@@ 6321 | decide | UI/exe string (no data context)
+Join
+@@ 6322 | decide | UI/exe string (no data context)
+Join Game
+@@ 6323 | decide | UI/exe string (no data context)
+Join the Selected Game
+@@ 6324 | decide | UI/exe string (no data context)
+Justin Miller\nLeo Miller\nMatt Munroe\nAdam Perin\nWonder Russell\nErich Schaefer\nMax Schaefer\nTim Swope\nJamus Thayn\nMatt Tinari\nMatt Tanwanteng\nJesse Tucker\nColin Turner\nMatt Uelmen\nBrian Ward\nAaron Wardell\nJD Wiker\nMatt Wyatt\nJolene Ziegler\n
+@@ 6325 | decide | UI/exe string (no data context)
+Key
+@@ 6326 | decide | UI/exe string (no data context)
+Keys
+@@ 6327 | decide | UI/exe string (no data context)
+Kick
+@@ 6328 | decide | UI/exe string (no data context)
+King's Mail Cervelliere
+@@ 6329 | decide | UI/exe string (no data context)
+LAN
+@@ 6330 | decide | UI/exe string (no data context)
+LAN Games
+@@ 6331 | decide | UI/exe string (no data context)
+LMB
+@@ 6332 | decide | UI/exe string (no data context)
+LOCKED
+@@ 6333 | decide | UI/exe string (no data context)
+Ladder Up
+@@ 6334 | decide | UI/exe string (no data context)
+Lady Vengeance
+@@ 6335 | decide | UI/exe string (no data context)
+Lan Play
+@@ 6336 | decide | UI/exe string (no data context)
+Language *
+@@ 6337 | decide | UI/exe string (no data context)
+Largemouth Hole
+@@ 6338 | decide | UI/exe string (no data context)
+Leaving\nEmberscratch Minehead
+@@ 6339 | decide | UI/exe string (no data context)
+Leaving\nEstherian Refuge
+@@ 6340 | decide | UI/exe string (no data context)
+Leaving\nForsaken Gate
+@@ 6341 | decide | UI/exe string (no data context)
+Leaving\nGravedeep
+@@ 6342 | decide | UI/exe string (no data context)
+Leaving\nPrison Caravan
+@@ 6343 | decide | UI/exe string (no data context)
+Leaving\nSadwa Mesa
+@@ 6344 | decide | UI/exe string (no data context)
+Leaving\nSkull Hollow
+@@ 6345 | decide | UI/exe string (no data context)
+Leaving\nSlavers' Camp
+@@ 6346 | decide | UI/exe string (no data context)
+Leaving\nStorm Armory
+@@ 6347 | decide | UI/exe string (no data context)
+Leaving\nStygian Aerie Approach
+@@ 6348 | decide | UI/exe string (no data context)
+Leaving\nThe Beast Warrens
+@@ 6349 | decide | UI/exe string (no data context)
+Leaving\nThe Bone Clutch
+@@ 6350 | decide | UI/exe string (no data context)
+Leaving\nThe Cairn Pit
+@@ 6351 | decide | UI/exe string (no data context)
+Leaving\nThe Downfalls
+@@ 6352 | decide | UI/exe string (no data context)
+Leaving\nThe Embercraft
+@@ 6353 | decide | UI/exe string (no data context)
+Leaving\nThe Lost Hold
+@@ 6354 | decide | UI/exe string (no data context)
+Leaving\nThe Rot Gardens
+@@ 6355 | decide | UI/exe string (no data context)
+Leaving\nThe Ship Graveyard
+@@ 6356 | decide | UI/exe string (no data context)
+Leaving\nThe Swarmstacks
+@@ 6357 | decide | UI/exe string (no data context)
+Leaving\nWatchweald Approach
+@@ 6358 | decide | UI/exe string (no data context)
+Leaving\nWellspring Approach
+@@ 6359 | decide | UI/exe string (no data context)
+Leaving\nWicker Grove
+@@ 6360 | decide | UI/exe string (no data context)
+Leaving\nWidowmaker Woods
+@@ 6361 | decide | UI/exe string (no data context)
+Left Hand Weapon Slot (Empty)
+@@ 6362 | decide | UI/exe string (no data context)
+Left Mouse Button Attack
+@@ 6363 | decide | UI/exe string (no data context)
+Legendary 
+@@ 6364 | decide | UI/exe string (no data context)
+Leggings Slot (Empty)
+@@ 6365 | decide | UI/exe string (no data context)
+Let me tell you a little about Ember Truffles.  Lots of plants and even some animals absorb Ember essence, if they're exposed to high enough concentrations of it.  Those plants and animals can be harvested, and the Ember distilled out of them, to make it absorbable by humans.  This work is mainly done by Imperial Alchemists which is probably what happened to the guy you're looking for.\n\nBut sometimes, in the wild, plants and animals absorb Ember and it changes them.  They begin to move by themselves.  Some of them even develop a rudimentary intelligence.  Most of the time, that's not too horrific but, when the plant or animal is big or dangerous enough, well, they can get pretty vicious.  You've probably even faced one or two creatures that have absorbed a little too much Ember.
+@@ 6366 | decide | UI/exe string (no data context)
+Level Range
+@@ 6367 | decide | UI/exe string (no data context)
+Level Range of Server
+@@ 6368 | decide | UI/exe string (no data context)
+Level Range*
+@@ 6369 | decide | UI/exe string (no data context)
+Lich Grave
+@@ 6370 | decide | UI/exe string (no data context)
+Lift Down
+@@ 6371 | decide | UI/exe string (no data context)
+Lift Up
+@@ 6372 | decide | UI/exe string (no data context)
+Lighting Info
+@@ 6373 | decide | UI/exe string (no data context)
+Lighting Only
+@@ 6374 | decide | UI/exe string (no data context)
+Lists games that are password protected or not
+@@ 6375 | decide | UI/exe string (no data context)
+Load
+@@ 6376 | decide | UI/exe string (no data context)
+Lobby Options
+@@ 6377 | decide | UI/exe string (no data context)
+Locked
+@@ 6378 | decide | UI/exe string (no data context)
+Locked Bandit Chest
+@@ 6379 | decide | UI/exe string (no data context)
+Locked Golden Chest
+@@ 6380 | decide | UI/exe string (no data context)
+Locked Kennel Door
+@@ 6381 | decide | UI/exe string (no data context)
+Locked Vyrax's Tower
+@@ 6382 | decide | UI/exe string (no data context)
+Log In
+@@ 6383 | decide | UI/exe string (no data context)
+Log in
+@@ 6384 | decide | UI/exe string (no data context)
+Log out
+@@ 6385 | decide | UI/exe string (no data context)
+Logged In
+@@ 6386 | decide | UI/exe string (no data context)
+Login Failed
+@@ 6387 | decide | UI/exe string (no data context)
+Lootables Looted
+@@ 6388 | decide | UI/exe string (no data context)
+Lore Skills
+@@ 6389 | decide | UI/exe string (no data context)
+Low
+@@ 6390 | decide | UI/exe string (no data context)
+Low Resource Verbal Alerts
+@@ 6391 | decide | UI/exe string (no data context)
+Luck Bonus
+@@ 6392 | decide | UI/exe string (no data context)
+MMB
+@@ 6393 | decide | UI/exe string (no data context)
+MOD NAME
+@@ 6394 | decide | UI/exe string (no data context)
+MWDOWN
+@@ 6395 | decide | UI/exe string (no data context)
+MWUP
+@@ 6396 | decide | UI/exe string (no data context)
+Magic Damage
+@@ 6397 | decide | UI/exe string (no data context)
+Mana Pool
+@@ 6398 | decide | UI/exe string (no data context)
+Mana Regeneration
+@@ 6399 | decide | UI/exe string (no data context)
+Manage Account
+@@ 6400 | decide | UI/exe string (no data context)
+Map Control
+@@ 6401 | decide | UI/exe string (no data context)
+Map Overlay Opacity
+@@ 6402 | decide | UI/exe string (no data context)
+Map Overlay Opacity controls the opacity of the \nmap when displayed over the playing area.
+@@ 6403 | decide | UI/exe string (no data context)
+Mapworks Initiating
+@@ 6404 | decide | UI/exe string (no data context)
+Mapworks Safety
+@@ 6405 | decide | UI/exe string (no data context)
+Mask of Kings
+@@ 6406 | decide | UI/exe string (no data context)
+Mask of Queens
+@@ 6407 | decide | UI/exe string (no data context)
+Mask of Wariz
+@@ 6408 | decide | UI/exe string (no data context)
+Masque of the Red Death
+@@ 6409 | decide | UI/exe string (no data context)
+Max Players
+@@ 6410 | decide | UI/exe string (no data context)
+Maximum Enchantments: <STAT1>
+@@ 6411 | decide | UI/exe string (no data context)
+Maximum Health (HP)
+@@ 6412 | decide | UI/exe string (no data context)
+Maximum Mana (MP)
+@@ 6413 | decide | UI/exe string (no data context)
+Maximum level a player can be to join the game
+@@ 6414 | decide | UI/exe string (no data context)
+Maximum number of players allowed in the game
+@@ 6415 | decide | UI/exe string (no data context)
+Medium
+@@ 6416 | decide | UI/exe string (no data context)
+Memory Using/Max: <STAT1>/<STAT2>
+@@ 6417 | decide | UI/exe string (no data context)
+Merryweather Bush
+@@ 6418 | decide | UI/exe string (no data context)
+Messages Recieved
+@@ 6419 | decide | UI/exe string (no data context)
+Messages Sent
+@@ 6420 | decide | UI/exe string (no data context)
+Minimum level a player can be to join the game
+@@ 6421 | decide | UI/exe string (no data context)
+Miscellaneous items for sale
+@@ 6422 | decide | UI/exe string (no data context)
+Missile Range Bonus
+@@ 6423 | decide | UI/exe string (no data context)
+Missile Reflect Chance
+@@ 6424 | decide | UI/exe string (no data context)
+Missile Reflect DPS
+@@ 6425 | decide | UI/exe string (no data context)
+Missing Latchkey Ember
+@@ 6426 | decide | UI/exe string (no data context)
+Missing Mod
+@@ 6427 | decide | UI/exe string (no data context)
+Missing Mods Detected!
+@@ 6428 | decide | UI/exe string (no data context)
+Missing Passkey Ember
+@@ 6429 | decide | UI/exe string (no data context)
+Mod Collection Details
+@@ 6430 | decide | UI/exe string (no data context)
+Mod Configurations
+@@ 6431 | decide | UI/exe string (no data context)
+Mod Details
+@@ 6432 | decide | UI/exe string (no data context)
+Mod Filter
+@@ 6433 | decide | UI/exe string (no data context)
+Mod History
+@@ 6434 | decide | UI/exe string (no data context)
+Mod Mode Active - Using Mod Save Folder
+@@ 6435 | decide | UI/exe string (no data context)
+Mod Warning
+@@ 6436 | decide | UI/exe string (no data context)
+Modified Damage per Second for this weapon
+@@ 6437 | decide | UI/exe string (no data context)
+Modified electrical damage per attack for this weapon
+@@ 6438 | decide | UI/exe string (no data context)
+Modified fire damage per attack for this weapon
+@@ 6439 | decide | UI/exe string (no data context)
+Modified ice damage per attack for this weapon
+@@ 6440 | decide | UI/exe string (no data context)
+Modified physical damage per attack for this weapon
+@@ 6441 | decide | UI/exe string (no data context)
+Modified poison damage per attack for this weapon
+@@ 6442 | decide | UI/exe string (no data context)
+Modifier
+@@ 6443 | decide | UI/exe string (no data context)
+Mods Active
+@@ 6444 | decide | UI/exe string (no data context)
+Mods Currently Installed
+@@ 6445 | decide | UI/exe string (no data context)
+Mondon's Vestment
+@@ 6446 | decide | UI/exe string (no data context)
+Mondons Vestment
+@@ 6447 | decide | UI/exe string (no data context)
+Monster! Monster!\n\nThere's a monster back there! I was walking along, and these soldiers came by ... I think they were soldiers ... and said there was a monster headed right toward us! They told me to run! So I dropped my pack and ran!\n\nDo you think the soldiers might need help? It's just ... I kind of need to go back. I left my |cFFEAAA15coinpurse|u in my pack ... but I don't want to get eaten by the monster!\n\nYou look trustworthy. Can I pay you to go back and retrieve my coinpurse?
+@@ 6448 | decide | UI/exe string (no data context)
+Monsters Exploded
+@@ 6449 | decide | UI/exe string (no data context)
+Monsters Killed
+@@ 6450 | decide | UI/exe string (no data context)
+Most Recent Mods
+@@ 6451 | decide | UI/exe string (no data context)
+Mountain of the Cannibal God
+@@ 6452 | decide | UI/exe string (no data context)
+Mute Music
+@@ 6453 | decide | UI/exe string (no data context)
+Mute Sound
+@@ 6454 | decide | UI/exe string (no data context)
+Mysterious Socket
+@@ 6455 | decide | UI/exe string (no data context)
+NOTE: You may only reclaim Skill Points while your character is of level 10 or below.
+@@ 6456 | decide | UI/exe string (no data context)
+NOTE: You may only reclaim the last 3 Skill Points you have invested.
+@@ 6457 | decide | UI/exe string (no data context)
+NUM 0
+@@ 6458 | decide | UI/exe string (no data context)
+NUM 1
+@@ 6459 | decide | UI/exe string (no data context)
+NUM 2
+@@ 6460 | decide | UI/exe string (no data context)
+NUM 3
+@@ 6461 | decide | UI/exe string (no data context)
+NUM 4
+@@ 6462 | decide | UI/exe string (no data context)
+NUM 5
+@@ 6463 | decide | UI/exe string (no data context)
+NUM 6
+@@ 6464 | decide | UI/exe string (no data context)
+NUM 7
+@@ 6465 | decide | UI/exe string (no data context)
+NUM 8
+@@ 6466 | decide | UI/exe string (no data context)
+NUM 9
+@@ 6467 | decide | UI/exe string (no data context)
+Name of the game
+@@ 6468 | decide | UI/exe string (no data context)
+Navigate the Maze
+@@ 6469 | decide | UI/exe string (no data context)
+Near My Level
+@@ 6470 | decide | UI/exe string (no data context)
+Needs Bell
+@@ 6471 | decide | UI/exe string (no data context)
+Network bytes/sec out: <STAT1> in: <STAT2>
+@@ 6472 | decide | UI/exe string (no data context)
+New Game
+@@ 6473 | decide | UI/exe string (no data context)
+New Game Plus
+@@ 6474 | decide | UI/exe string (no data context)
+New Game Plus Rank
+@@ 6475 | decide | UI/exe string (no data context)
+Next Appearance
+@@ 6476 | decide | UI/exe string (no data context)
+Next Face
+@@ 6477 | decide | UI/exe string (no data context)
+Next Hair Color
+@@ 6478 | decide | UI/exe string (no data context)
+Next Hair Style
+@@ 6479 | decide | UI/exe string (no data context)
+Next Item
+@@ 6480 | decide | UI/exe string (no data context)
+Next Page
+@@ 6481 | decide | UI/exe string (no data context)
+Next Rank
+@@ 6482 | decide | UI/exe string (no data context)
+No
+@@ 6483 | decide | UI/exe string (no data context)
+No games found
+@@ 6484 | decide | UI/exe string (no data context)
+No skills\nto reset.
+@@ 6485 | decide | UI/exe string (no data context)
+None
+@@ 6486 | decide | UI/exe string (no data context)
+Not Logged In
+@@ 6487 | decide | UI/exe string (no data context)
+Not enough gold
+@@ 6488 | decide | UI/exe string (no data context)
+Not of This Earth
+@@ 6489 | decide | UI/exe string (no data context)
+Note
+@@ 6490 | decide | UI/exe string (no data context)
+Nothing Happens
+@@ 6491 | decide | UI/exe string (no data context)
+Notice
+@@ 6492 | decide | UI/exe string (no data context)
+Number of Players
+@@ 6493 | decide | UI/exe string (no data context)
+OK
+@@ 6494 | decide | UI/exe string (no data context)
+OUTLANDER CHARGE BAR
+@@ 6495 | decide | UI/exe string (no data context)
+Off
+@@ 6496 | decide | UI/exe string (no data context)
+Ogre3d\nCEGUI\nParticle Universe\nFMOD\nBink\n
+@@ 6497 | decide | UI/exe string (no data context)
+Oh, how it burns
+@@ 6498 | decide | UI/exe string (no data context)
+Oh, thank you! Thank you! Thank you!\n\nHere: Take this. I know it's not much, but if I give you any more of a reward, my father will think I spent half our profits on wine!
+@@ 6499 | decide | UI/exe string (no data context)
+One or more mods have been disabled since this character was last played. Continuing may result in loss of data. Check the Mod Details for more information.
+@@ 6500 | decide | UI/exe string (no data context)
+Only people in your friends list can join your game
+@@ 6501 | decide | UI/exe string (no data context)
+Option3
+@@ 6502 | decide | UI/exe string (no data context)
+Organize Inventory
+@@ 6503 | decide | UI/exe string (no data context)
+Other
+@@ 6504 | decide | UI/exe string (no data context)
+Panel Tabs
+@@ 6505 | decide | UI/exe string (no data context)
+Parry Chance
+@@ 6506 | decide | UI/exe string (no data context)
+Particle Detail
+@@ 6507 | decide | UI/exe string (no data context)
+Particle Detail sets the graphical quality of particles.\nLowering the detail improves frame rate.
+@@ 6508 | decide | UI/exe string (no data context)
+Passive Skills
+@@ 6509 | decide | UI/exe string (no data context)
+Password (Optional)
+@@ 6510 | decide | UI/exe string (no data context)
+Password Protected
+@@ 6511 | decide | UI/exe string (no data context)
+Password Required
+@@ 6512 | decide | UI/exe string (no data context)
+Password for the game. Can be blank.
+@@ 6513 | decide | UI/exe string (no data context)
+Pay Tribute\n|cFFEAAA15(2500 Gold)|u
+@@ 6514 | decide | UI/exe string (no data context)
+Percent Dexterity Bonus
+@@ 6515 | decide | UI/exe string (no data context)
+Percent Focus Bonus
+@@ 6516 | decide | UI/exe string (no data context)
+Percent Strength Bonus
+@@ 6517 | decide | UI/exe string (no data context)
+Percent Vitality Bonus
+@@ 6518 | decide | UI/exe string (no data context)
+Percent chance to resist immobilization effects
+@@ 6519 | decide | UI/exe string (no data context)
+Percent of your DPS dealt when reflecting missiles
+@@ 6520 | decide | UI/exe string (no data context)
+Percent reduction to slowing effects
+@@ 6521 | decide | UI/exe string (no data context)
+Percentage increase in the amount of gold\nfound in any loot from monsters or chests
+@@ 6522 | decide | UI/exe string (no data context)
+Percentage of attack damage applied to non-targeted\nenemies within the weapon's damage arc
+@@ 6523 | decide | UI/exe string (no data context)
+Percentage reduction in incoming electrical damage \nafter it has passed through any Elemental Resistance
+@@ 6524 | decide | UI/exe string (no data context)
+Percentage reduction in incoming fire damage \nafter it has passed through any Elemental Resistance
+@@ 6525 | decide | UI/exe string (no data context)
+Percentage reduction in incoming ice damage \nafter it has passed through any Elemental Resistance
+@@ 6526 | decide | UI/exe string (no data context)
+Percentage reduction in incoming physical damage \nafter it has passed through any physical resistance
+@@ 6527 | decide | UI/exe string (no data context)
+Percentage reduction in incoming poison damage \nafter it has passed through any Elemental Resistance
+@@ 6528 | decide | UI/exe string (no data context)
+Pet Armor
+@@ 6529 | decide | UI/exe string (no data context)
+Pet Consumables
+@@ 6530 | decide | UI/exe string (no data context)
+Pet Consumables Inventory
+@@ 6531 | decide | UI/exe string (no data context)
+Pet Electric Armor
+@@ 6532 | decide | UI/exe string (no data context)
+Pet Equipment
+@@ 6533 | decide | UI/exe string (no data context)
+Pet Equipment Inventory
+@@ 6534 | decide | UI/exe string (no data context)
+Pet Fire Armor
+@@ 6535 | decide | UI/exe string (no data context)
+Pet Health
+@@ 6536 | decide | UI/exe string (no data context)
+Pet Health and Mana
+@@ 6537 | decide | UI/exe string (no data context)
+Pet Ice Armor
+@@ 6538 | decide | UI/exe string (no data context)
+Pet Mana Pool
+@@ 6539 | decide | UI/exe string (no data context)
+Pet Panel
+@@ 6540 | decide | UI/exe string (no data context)
+Pet Panel [[KB:PetMenu]]
+@@ 6541 | decide | UI/exe string (no data context)
+Pet Poison Armor
+@@ 6542 | decide | UI/exe string (no data context)
+Pet Spells
+@@ 6543 | decide | UI/exe string (no data context)
+Pet Spells Inventory
+@@ 6544 | decide | UI/exe string (no data context)
+Pet Tag Slot\n\n |c00ff9933The best way to find\nPet Tags is to fish \nin dangerous areas!|u
+@@ 6545 | decide | UI/exe string (no data context)
+Pet will return from town in
+@@ 6546 | decide | UI/exe string (no data context)
+Phase Beast Challenge
+@@ 6547 | decide | UI/exe string (no data context)
+Phase Pillar Challenge
+@@ 6548 | decide | UI/exe string (no data context)
+Phase Room Intro Text
+@@ 6549 | decide | UI/exe string (no data context)
+Physical Armor
+@@ 6550 | decide | UI/exe string (no data context)
+Physical Damage Bonus
+@@ 6551 | decide | UI/exe string (no data context)
+Physical Damage Reduction
+@@ 6552 | decide | UI/exe string (no data context)
+Pin Open
+@@ 6553 | decide | UI/exe string (no data context)
+Ping
+@@ 6554 | decide | UI/exe string (no data context)
+Place Gem
+@@ 6555 | decide | UI/exe string (no data context)
+Place an item here to destroy it, and recover any socketed Gems
+@@ 6556 | decide | UI/exe string (no data context)
+Place an item here to destroy socketed Gems
+@@ 6557 | decide | UI/exe string (no data context)
+Place ingredients here
+@@ 6558 | decide | UI/exe string (no data context)
+Play
+@@ 6559 | decide | UI/exe string (no data context)
+Play a Game on the Internet
+@@ 6560 | decide | UI/exe string (no data context)
+Play a Game on the Internet\n( not available in demo )
+@@ 6561 | decide | UI/exe string (no data context)
+Play a Game on the Local Network
+@@ 6562 | decide | UI/exe string (no data context)
+Play a Game on the Local Network\n( not available in demo )
+@@ 6563 | decide | UI/exe string (no data context)
+Play a Single Player Game
+@@ 6564 | decide | UI/exe string (no data context)
+Player Is Typing
+@@ 6565 | decide | UI/exe string (no data context)
+Player Options
+@@ 6566 | decide | UI/exe string (no data context)
+Players
+@@ 6567 | decide | UI/exe string (no data context)
+Players In Game
+@@ 6568 | decide | UI/exe string (no data context)
+Please enter the account name
+@@ 6569 | decide | UI/exe string (no data context)
+Please wait while Mapworks creates a stable connection.
+@@ 6570 | decide | UI/exe string (no data context)
+Please! Help me! I can't hold these things off by myself!
+@@ 6571 | decide | UI/exe string (no data context)
+Please! I need your help!\n\nSome thugs took all my money! I was coming back along the trading road, and these, these thugs just came out of nowhere! They threatened me with their swords, and then they took my |cFFEAAA15cash box|u! Oh, my father's going to kill me when he finds out!\n\nCan you try to get it back for me? I'll reward you if you do!
+@@ 6572 | decide | UI/exe string (no data context)
+Please, take this, as a token of my gratitude!
+@@ 6573 | decide | UI/exe string (no data context)
+Please, you must go to the mesa to the north and retrieve the Focus!
+@@ 6574 | decide | UI/exe string (no data context)
+Poison Armor
+@@ 6575 | decide | UI/exe string (no data context)
+Poison Resist
+@@ 6576 | decide | UI/exe string (no data context)
+Poison the spider nests.
+@@ 6577 | decide | UI/exe string (no data context)
+Portal to Estherian City
+@@ 6578 | decide | UI/exe string (no data context)
+Power Source
+@@ 6579 | decide | UI/exe string (no data context)
+Prefix of the server name
+@@ 6580 | decide | UI/exe string (no data context)
+Press a key or button
+@@ 6581 | decide | UI/exe string (no data context)
+Press button to exit to the main menu.
+@@ 6582 | decide | UI/exe string (no data context)
+Previous Appearance
+@@ 6583 | decide | UI/exe string (no data context)
+Previous Face
+@@ 6584 | decide | UI/exe string (no data context)
+Previous Hair Color
+@@ 6585 | decide | UI/exe string (no data context)
+Previous Hair Style
+@@ 6586 | decide | UI/exe string (no data context)
+Previous Item
+@@ 6587 | decide | UI/exe string (no data context)
+Previous Page
+@@ 6588 | decide | UI/exe string (no data context)
+Primary Weapon Set
+@@ 6589 | decide | UI/exe string (no data context)
+Prison Caravan
+@@ 6590 | decide | UI/exe string (no data context)
+Protect the Crystals From\nthe Goblin Hordes!
+@@ 6591 | decide | UI/exe string (no data context)
+Purchase Shovel\n|cFFEAAA15(1000 Gold)|u
+@@ 6592 | decide | UI/exe string (no data context)
+Purchase Shovel\n|cFFEAAA15(5 Crab Legs)|u
+@@ 6593 | decide | UI/exe string (no data context)
+Put the lotion in the bucket!
+@@ 6594 | decide | UI/exe string (no data context)
+QUEST ACCEPTED
+@@ 6595 | decide | UI/exe string (no data context)
+QUIT?
+@@ 6596 | decide | UI/exe string (no data context)
+Quatermass and the Pit
+@@ 6597 | decide | UI/exe string (no data context)
+Quest Items Acquired
+@@ 6598 | decide | UI/exe string (no data context)
+Quest Panel
+@@ 6599 | decide | UI/exe string (no data context)
+Quest Reward
+@@ 6600 | decide | UI/exe string (no data context)
+Quests [[KB:QuestMenu]]
+@@ 6601 | decide | UI/exe string (no data context)
+Quit
+@@ 6602 | decide | UI/exe string (no data context)
+Quit Menu
+@@ 6603 | decide | UI/exe string (no data context)
+Quit to Main Menu
+@@ 6604 | decide | UI/exe string (no data context)
+READ SCROLL
+@@ 6605 | decide | UI/exe string (no data context)
+REMOVE
+@@ 6606 | decide | UI/exe string (no data context)
+RMB
+@@ 6607 | decide | UI/exe string (no data context)
+ROOM: <STAT1>
+@@ 6608 | decide | UI/exe string (no data context)
+Raleigh Briggs\nJuniper Brown\nRichard and Sandra Schaefer\nBud and Lulu\nTricia Lapp\nKirk and Maria Trevor\nNathan Rightnour\nLienn Lefler\nKelton Lefler\nMarshall and Barbara Chew\nMichael and Rita Lefler\n

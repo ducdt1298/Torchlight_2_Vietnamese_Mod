@@ -1,0 +1,120 @@
+@@ 2596
+Empire cảm ơn sự phục vụ quý báu của bạn và muốn ban thưởng cho bạn!
+@@ 2597
+Tiêu diệt 10 tên |cFFA1D0FCSturmbeorn|u ở |cFFA1D0FCTemple Steppes|u, sau đó quay về |cFFA1D0FCBounty Board|u ở |cFFA1D0FCEstherian Enclave|u để nhận thưởng.
+@@ 2598
+- Tiêu diệt [DEFEAT1COUNT]/[DEFEATCOUNT] |cFFA1D0FCSturmbeorn|u ở |cFFA1D0FCTemple Steppes|u
+@@ 2599
+- Quay về |cFFA1D0FCBounty Board|u ở |cFFA1D0FCEstherian Enclave|u để nhận thưởng
+@@ 2600
+TREO THƯỞNG!\n\nBọn cướp Sturmbeorn là mối đe dọa đối với người Estherian và những người khai hoang dũng cảm của Empire. Commander Vale được phép trả thưởng cho bất kỳ ai giúp Vanquisher Corps quét sạch lũ man rợ tàn bạo này khỏi |cFFA1D0FCTemple Steppes|u.\n\nTiền thưởng sẽ được trả cho bất kỳ ai tiêu diệt từ 10 tên |cFFA1D0FCSturmbeorn|u trở lên ở |cFFA1D0FCTemple Steppes|u.
+@@ 2601
+Bọn Sturmbeorn đã cướp phá vùng đông bắc Vilderan qua nhiều thế hệ. Tuy nhiên, thủ lĩnh hiện tại của chúng, General Grell, đã tập hợp chúng lại với số lượng chưa từng có. Chừng nào Grell và đám Sturmbeorn của hắn còn tự do hoành hành trong vùng, Temple Steppes sẽ không an toàn cho cả người Estherian lẫn thần dân của Empire đang định cư ở Vilderan.
+@@ 2602
+Bạn chắc là muốn ra ngoài đó chứ? Có lẽ bạn nên nói chuyện với Professor Stoker trước đã.
+@@ 2603
+Đừng lo cho chúng tôi. Zeryphesh giờ đã an toàn, vì bạn đã giải cứu Guardian of Mana khỏi tay Ezrohir. Hãy tìm Alchemist. Ngăn chặn hắn chính là chìa khóa để cứu thế giới.
+@@ 2604
+Cảm ơn bạn đã cất công quay lại tận đây, nhưng chẳng phải bạn nên đuổi theo Alchemist sao?
+@@ 2605
+Thật vậy sao? Ezrohir đã bị đánh bại rồi ư?
+@@ 2606
+Chỉ vì khe nứt mana này không ăn thua, không có nghĩa là trong các bản khảo sát của tôi không còn khe nứt nào khác có thể hiệu quả hơn nhiều, nhiều lắm! Chỉ là sẽ mất một thời gian để xác định khe nứt mana nào đáng đặt cược nhất.
+@@ 2607
+Một lần nữa xin cảm ơn, bạn của tôi. Khi đã hồi phục sau những vết thương, chúng tôi sẽ đi đón các đồng đội ở Undercurrents về rồi quay lại giúp bảo vệ Zeryphesh.
+@@ 2608
+Đó là thi thể cuối cùng ... đã kiểm đủ mọi người rồi. Bạn báo cho Professor Stoker giúp tôi được không?
+@@ 2609
+Alchemist vừa sát hại biết bao người tốt, chẳng vì lý do gì cả! Bạn vẫn chưa nói chuyện với Professor à?
+@@ 2610
+Alchemist đã đánh bọn tôi tan tác ... giết rất nhiều người tốt. Professor có thể kể cho bạn rõ hơn.
+@@ 2611
+Alchemist xuyên qua hàng ngũ bọn tôi như thể bọn tôi không hề tồn tại. Rồi hắn đi qua Great Door. Professor Stoker đang ở đằng kia.
+@@ 2612
+Ezrohir đang tháo chạy, và tin từ Zeryphesh truyền về rằng chính bạn đã đánh bại chúng, và Guardian of Mana đã an toàn. Xuất sắc lắm, con người!
+@@ 2613
+Trừ khi khẩn cấp, tôi phải giữ cánh cổng này đóng. Nếu bất cứ ... thứ gì ở phía bên kia lọt vào đây, chúng sẽ hoàn tất những gì Alchemist đã bắt đầu.
+@@ 2614
+Ở đây nhiều người bị thương lắm ... nhưng lẽ ra còn tệ hơn nhiều. Với sức mạnh khủng khiếp của Alchemist, bọn tôi thật sự đã quá may mắn.
+@@ 2615
+Lạy các Guardian, bạn quay lại đây làm gì thế? Estherian Steppes đã có bọn tôi lo rồi.
+@@ 2616
+Bạn đến trễ một chút rồi; Alchemist vừa mới đi khỏi. Có lẽ bạn nên nói chuyện với Professor Stoker.
+@@ 2617
+Bạn đã cho chúng tôi một cơ hội để chiến đấu, người hùng à. Cảm ơn bạn.
+@@ 2618
+Chúc mừng bạn! Và ... cảm ơn bạn.
+@@ 2619
+Thật ra tôi khá nhẹ nhõm vì chưa bao giờ bị gọi ra trận ...
+@@ 2620
+Ta đã giữ đúng giao kèo! Còn quấy rầy ta nữa là chuốc lấy cơn thịnh nộ của ta!
+@@ 2621
+Quyền năng của ta đã cạn kiệt ... nhưng bản chất của phép thuật là nó sẽ quay về với ta gấp bảy lần.
+@@ 2622
+Không ... không ... không! Mối hàn không giữ được! Thôi nào, cái đống sắt vụn khốn khổ này!
+@@ 2623
+Giờ bạn đã đánh bại tên phù thủy Ezrohir trong tòa tháp, Zeryphesh đã an toàn hơn rất nhiều. Chúng tôi vẫn phải chuẩn bị cho cuộc vây hãm sắp tới ... nhưng bạn đã giúp việc đó dễ dàng hơn nhiều!
+@@ 2624
+Thêm một giờ nữa thôi! Tôi chỉ cần có thế!
+@@ 2625
+Phúc thay ngày bạn đến thành phố của chúng tôi!
+@@ 2626
+Hẳn Alchemist đã bỏ trốn khi thấy Ezrohir không thể giúp hắn đạt được mục đích. Giờ hắn không thể đi trước bạn xa đâu!
+@@ 2627
+Người dân Zeryphesh sẽ mãi ghi nhớ những gì bạn đã làm ở đây hôm nay.
+@@ 2628
+Làm tốt lắm, con người. Làm tốt lắm.
+@@ 2629
+Làm tốt lắm, bạn của tôi. Làm tốt lắm.
+@@ 2630
+Bạn đã giúp người Zeraphi một việc vô cùng to lớn ... và chúng tôi sẽ không bao giờ quên.
+@@ 2631
+Bạn đã làm rất tốt, con người. Người Zeraphi nợ bạn một ân tình to lớn.
+@@ 2632
+Zeryphesh đã được cứu rồi!
+@@ 2633
+Ở Salt Barrens có tiến triển gì không? Đã cứu được Guardian chưa?
+@@ 2634
+Khi ở Salt Barrens, bạn có quấy động lũ Dustwing nào không? Chắc bạn đã đến quá gần Swarmstacks rồi.
+@@ 2635
+Bạn thật sự nghĩ Fazeer Shah sẽ giúp bạn vì lòng tốt ư? Bản chất con quái vật đó đâu phải vậy!
+@@ 2636
+Khi bị Ezrohir nô dịch, Guardian of Mana là một vũ khí cực kỳ lợi hại. Chúng ta phải làm mọi cách để giải thoát Ngài khỏi sự khống chế của chúng.
+@@ 2637
+Fazeer Shah bắt bạn đi trộm thứ gì đó của bọn Tu'tara ư? Chúng thì có thể có thứ gì mà hắn lại muốn chứ?
+@@ 2638
+Lọt vào Riftkeep để giải cứu Guardian of Mana sẽ không dễ đâu. Gần như chắc chắn bạn sẽ phải đi qua Witherways, nghĩa là phải chiến đấu mở đường qua cả một đạo quân chiến binh Ezrohir.
+@@ 2639
+Mọi chuyện với Fazeer Shah thế nào rồi?
+@@ 2640
+Tình hình ở Salt Barrens ra sao? Có dấu hiệu nào cho thấy Ezrohir đang tiến về thành phố không?
+@@ 2641
+Ước gì tôi giúp được, nhưng chiếc Embercraft này là vũ khí thực sự duy nhất của tôi ... mà nó thì sẽ chẳng đi đâu được trong thời gian tới.
+@@ 2642
+Nếu bạn không tìm thấy gì giá trị trong những xác tàu đắm ở Sand Shoals, có thể thứ gì đó khác ngoài kia đã tới đó cướp bóc trước rồi. Có lẽ là Ezrohir?
+@@ 2643
+Nếu bạn đánh bại Ezrohir ở Riftkeep và giải thoát Guardian of Mana, cuộc chiến này coi như kết thúc. Bạn nghĩ mình làm được chứ?
+@@ 2644
+Fazeer Shah có điên như người ta đồn không?
+@@ 2645
+Lúc nào cũng căng thẳng thế này sao? Chờ đợi một trận chiến bắt đầu ấy?
+@@ 2646
+Thật vô lý: Alchemist bắt giữ Guardian of Mana ... rồi giao Ngài cho Ezrohir và cứ thế bỏ đi sao? Sao hắn không tấn công chúng ta?
+@@ 2647
+Giờ Crab King không còn nữa, lũ cua chắc cũng sẽ tản đi. Người Zeraphi sẽ thu hồi số vũ khí mà Crab King gom góp và tiêu hủy chúng an toàn. Ít nhất thì Ezrohir cũng sẽ không dùng được chúng để chống lại Zeryphesh.
+@@ 2648
+Có tin đồn rằng bạn đang hợp tác với djinni Fazeer Shah để tìm cách giải thoát Guardian of Mana.
+@@ 2649
+Alchemist nô dịch Guardian of Mana cho Ezrohir ư? Sao hắn lại làm thế?
+@@ 2650
+Ancient Vaults of Chaos chứa đầy cổ vật ... những thứ mà người Zeraphi chúng tôi đã phong ấn, kẻo chúng rơi vào tay kẻ xấu. Gần như chắc chắn ngay lúc này Ezrohir đang ở đó, cướp phá nơi ấy.
+@@ 2651
+Giờ này chắc chắn Ezrohir đang trên đường tới đây! Cuộc vây hãm có thể bắt đầu bất cứ lúc nào!
+@@ 2652
+Kế hoạch của Ezrohir có thể đã đổ bể vì mất Artificer. Điều này có lẽ giải thích vì sao chúng còn chần chừ ngoài Salt Barrens.
+@@ 2653
+Cuộc vây hãm sắp bắt đầu rồi. Mong là chúng ta đã sẵn sàng.
+@@ 2654
+Bỗng nhiên tường thành không còn là điểm yếu nữa; Guardian of Mana có thể tùy ý bay qua chúng ... hoặc cứ thế xuất hiện ngay tại đây, giữa lòng thành phố.
+@@ 2655
+Chúng ta cần đưa trận chiến ra xa khỏi thành phố ... tấn công Ezrohir khi chúng vẫn còn ở ngoài sa mạc.

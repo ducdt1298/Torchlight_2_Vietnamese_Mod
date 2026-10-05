@@ -1,0 +1,300 @@
+@@ 6759
+Bước vào bóng tối
+@@ 6760
+Bước vào bóng tối ...
+@@ 6761
+Storm Armory
+@@ 6762
+Kỹ năng Storm
+@@ 6763
+Strength cộng thêm
+@@ 6764
+Phát hiện NAT nghiêm ngặt
+@@ 6765
+Stygian Aerie Approach
+@@ 6766
+Thành công!
+@@ 6767
+Tổng tất cả tốc độ đánh cộng thêm
+@@ 6768
+Tổng tất cả tốc độ thi triển cộng thêm
+@@ 6769
+Sống sót trong đấu trường
+@@ 6770
+Sống sót qua đợt tấn công
+@@ 6771
+Đổi bộ vũ khí
+@@ 6772
+Chuyển sang bộ vũ khí chính 'W'
+@@ 6773
+Chuyển sang bộ vũ khí phụ 'W'
+@@ 6774
+Chuyển Pet sang chế độ hung hăng
+@@ 6775
+Chuyển Pet sang chế độ phòng thủ
+@@ 6776
+Chuyển Pet sang chế độ thụ động
+@@ 6777
+Đăng nhập TapTap
+@@ 6778
+Dịch chuyển đến đồng minh hoặc cổng dịch chuyển của họ
+@@ 6779
+Tạ ơn các Guardian! Tôi cứ tưởng mình phải chịu kiếp nô lệ suốt đời rồi ...
+@@ 6780
+Cảm ơn bạn đã chơi bản Beta
+@@ 6781
+Cảm ơn bạn đã giúp đỡ. Những người khác bị thương quá nặng, không thể đi tiếp, nên tôi phải ở lại đây canh giữ họ, và cả Ambassador nữa.
+@@ 6782
+Cảm ơn sự thông cảm và ủng hộ của bạn!
+@@ 6783
+Cảm ơn bạn lần nữa vì đã giúp đỡ!
+@@ 6784
+Tên phòng này đã tồn tại. Vui lòng chọn tên khác cho phòng.
+@@ 6785
+The Alchemist
+@@ 6786
+The Artificer
+@@ 6787
+The Beast Warrens
+@@ 6788
+Berserker tích Charge bằng cách tấn công kẻ địch. Khi đầy Charge, Berserker sẽ vào trạng thái |cFFFFBF61Frenzy|u tăng tốc, khi đó mọi đòn tấn công trực tiếp đều là đòn chí mạng, còn các đòn khác được tăng tỉ lệ chí mạng. Charge sẽ giảm dần sau một khoảng thời gian không hoạt động. \n\nFrenzy kéo dài 6(|cFF03BD17+<STAT1>|u) giây sau đòn đánh đầu tiên.
+@@ 6789
+The BlightBogs
+@@ 6790
+The Bone Clutch
+@@ 6791
+The Cairn Pit
+@@ 6792
+The Clockwork Core
+@@ 6793
+The Downfalls
+@@ 6794
+The Dwarven Labs
+@@ 6795
+The Embercraft
+@@ 6796
+Embermage tích Charge bằng cách gây sát thương lên kẻ địch. Khi thanh Charge đầy, Embermage đạt trạng thái tập trung tuyệt đối trong 12 giây. Trong thời gian này, kỹ năng không tốn mana và sát thương kỹ năng tăng 25%. Charge sẽ giảm dần sau một khoảng thời gian không hoạt động.
+@@ 6797
+The Empty Quarter
+@@ 6798
+Engineer tích Charge bằng cách gây sát thương lên kẻ địch, tối đa năm điểm Charge. Khi có sẵn Charge, một số kỹ năng như Flame Hammer sẽ tiêu hao một điểm Charge để tăng sức mạnh đáng kể. Có kỹ năng tiêu hao toàn bộ Charge hiện có, trong khi số khác giúp tích Charge nhanh hơn. Charge sẽ giảm dần sau một khoảng thời gian không hoạt động.
+@@ 6799
+The Fate of the World
+@@ 6800
+The Forgotten Halls
+@@ 6801
+The Gorgon
+@@ 6802
+The Grand Regent
+@@ 6803
+Grand Regent đã chết rồi sao? Bệnh dịch đã biến ngài ấy thành vật chủ cho một Nether-Beast? Tôi ... tôi ... Chuyện này thật quá sức chịu đựng!
+@@ 6804
+The Haunted Quarter
+@@ 6805
+Các Honored Dead đã làm biết bao điều cho chúng ta khi họ còn sống ... giờ họ đã khuất, chúng ta không được bất kính với họ!\n\nTranquil Censer có thể giúp họ yên nghỉ trở lại ... giá mà tôi không làm rơi nó! Bạn có chắc là không tìm được nó không?
+@@ 6806
+The King In Masks
+@@ 6807
+The Luminous Arena
+@@ 6808
+Outlander tích Charge bằng cách gây sát thương lên kẻ địch. Charge sẽ giảm dần sau một khoảng thời gian không hoạt động. Outlander nhận được các lợi thế chiến đấu dựa trên lượng Charge đang tích được. Ngoài ra, Outlander khi không có Charge sẽ được thưởng "phát bắn đầu tiên", làm choáng kẻ địch kế tiếp bị trúng đòn.
+@@ 6809
+The Rot Gardens
+@@ 6810
+The Rules of the Game
+@@ 6811
+The Shining Censer
+@@ 6812
+The Ship Graveyard
+@@ 6813
+The Siege Guardian
+@@ 6814
+The Slovak National Symphony Orchestra\n|cFFF5DB94Chỉ huy|u\nKirk Trevor
+@@ 6815
+The Swarmstacks
+@@ 6816
+The Temple Steppes\nqua\nThe Path of the Honored Dead
+@@ 6817
+Lượng sát thương Electric được trừ khỏi đòn tấn công nhận vào. \nNếu đòn tấn công gồm một phần Electric và một phần hệ khác, mức giảm \nthực tế của giáp sẽ tỉ lệ theo phần trăm sát thương Electric.
+@@ 6818
+Lượng sát thương Fire được trừ khỏi đòn tấn công nhận vào. \nNếu đòn tấn công gồm một phần Fire và một phần hệ khác, mức giảm \nthực tế của giáp sẽ tỉ lệ theo phần trăm sát thương Fire.
+@@ 6819
+Lượng sát thương Ice được trừ khỏi đòn tấn công nhận vào. \nNếu đòn tấn công gồm một phần Ice và một phần hệ khác, mức giảm \nthực tế của giáp sẽ tỉ lệ theo phần trăm sát thương Ice.
+@@ 6820
+Lượng sát thương Poison được trừ khỏi đòn tấn công nhận vào. \nNếu đòn tấn công gồm một phần Poison và một phần hệ khác, mức giảm \nthực tế của giáp sẽ tỉ lệ theo phần trăm sát thương Poison.
+@@ 6821
+Vùng hình cung phía trước đòn đánh vũ khí, nơi kẻ địch không phải \nmục tiêu cũng chịu sát thương từ hiệu ứng 'lan'
+@@ 6822
+Cấp trung bình của mọi vật phẩm đang trang bị.
+@@ 6823
+Tốc độ di chuyển cơ bản của nhân vật
+@@ 6824
+Mô tả đang trống hoặc chứa ký tự không hợp lệ
+@@ 6825
+Độ khó của phòng chơi
+@@ 6826
+Chênh lệch cấp phải là một số và không được để trống.
+@@ 6827
+Số người chơi tối đa được vào phòng
+@@ 6828
+Tài khoản mới sẽ đặt lại danh sách bạn bè và không ảnh hưởng đến tiến trình đã lưu trên máy.
+@@ 6829
+Các cài đặt đã chọn cần khởi động lại game.\n\nBạn có muốn khởi động lại ngay không?
+@@ 6830
+Tên máy chủ đang trống hoặc chứa ký tự không hợp lệ
+@@ 6831
+Câu chuyện cho đến nay..
+@@ 6832
+Đằng kia còn nhiều Goblin nữa!
+@@ 6833
+Các phòng này dùng phiên bản cũ của một hoặc nhiều mod nên không thể tham gia.
+@@ 6834
+Nhân vật này cần một hoặc nhiều mod hiện chưa được kích hoạt. Bạn có muốn khởi động lại và tự động kích hoạt các mod này không?
+@@ 6835
+Bản demo Torchlight II đến đây là kết thúc! Hy vọng bạn đã chơi vui.\nVì |cFFA1D0FC<STAT1>|u, hãy mua bản đầy đủ để tiếp tục cuộc hành trình!\n\n\n
+@@ 6836
+Bản demo Torchlight đến đây là kết thúc! Hy vọng bạn đã chơi vui.\nHãy mua bản đầy đủ để tiếp tục cuộc hành trình!
+@@ 6837
+Danh sách này hiển thị mọi tổ hợp mod đang được dùng trong các phòng đang hoạt động. Nếu tổ hợp mod hiện tại của bạn khớp, bạn có thể tham gia.\nNếu bạn có các mod cần thiết nhưng chúng chưa được kích hoạt, hãy chọn 'Khởi động lại và cài đặt' để tự động bật chúng.\nNếu bạn chưa có các mod cần thiết, bạn cần tải chúng về trước. Người dùng Steam có thể tự động đăng ký và tải mod bằng nút 'Khởi động lại và cài đặt'.
+@@ 6838
+Hầm ngục này đã tồn tại! Hãy đến chỗ người chơi đó bằng cách dịch chuyển trực tiếp hoặc qua cổng dịch chuyển, hoặc đảm bảo mọi người chơi đã rời khỏi khu vực đó và đóng cổng dịch chuyển của họ rồi thử lại.
+@@ 6839
+Tốc độ một đòn đánh của vũ khí này
+@@ 6840
+Three Sisters
+@@ 6841
+Thưởng bậc I
+@@ 6842
+Thưởng bậc II
+@@ 6843
+Thưởng bậc III
+@@ 6844
+Hết giờ
+@@ 6845
+Thời gian từ tin nhắn cuối
+@@ 6846
+Thời gian từ lần làm mới máy chủ cuối
+@@ 6847
+Mẹo
+@@ 6848
+Đến Crows Pass
+@@ 6849
+Đến Drigung Grotto
+@@ 6850
+Đến Echo Pass
+@@ 6851
+Đến Frosted Hills\nqua\nCrows Pass
+@@ 6852
+Đến Haunted Quarter
+@@ 6853
+Đến Imperial Camp
+@@ 6854
+Đến Jehannum
+@@ 6855
+Đến Mapworks
+@@ 6856
+Đến Middenmine
+@@ 6857
+Đến Ossean Wastes
+@@ 6858
+Đến Path of the Honored Dead
+@@ 6859
+Đến Plunder Cove
+@@ 6860
+Đến Rivenskull Gorge
+@@ 6861
+Đến Salt Barrens
+@@ 6862
+Đến Sundered Battlefield
+@@ 6863
+Đến Swarm Point
+@@ 6864
+Đến Tarroch's Rift
+@@ 6865
+Đến Tarroch's Tomb
+@@ 6866
+Đến The Blightbogs
+@@ 6867
+Đến The Broken Mines
+@@ 6868
+Đến The Broken Mines\nqua\nThe Minehead
+@@ 6869
+Đến The Emberscratch Mines
+@@ 6870
+Đến The Emberworks
+@@ 6871
+Đến The Empty Quarter
+@@ 6872
+Đến The Enclave
+@@ 6873
+Đến The Forsaken Vaults
+@@ 6874
+Đến The Frosted Hills
+@@ 6875
+Đến The Rotting Crypt of Madness
+@@ 6876
+Đến The Salt Barrens\nqua\nThe Empty Quarter
+@@ 6877
+Đến The Stygian Aerie
+@@ 6878
+Đến The Temple Steppes
+@@ 6879
+Đến The Undercurrents
+@@ 6880
+Đến The Witherways
+@@ 6881
+Đến Tower of the Moon
+@@ 6882
+Đến Wellspring Treasury
+@@ 6883
+Để vận hành ổn định và lâu dài, kể từ hôm nay hệ thống tài khoản game được nâng cấp sang đăng nhập bằng TapTap. Bạn cần đăng ký hoặc đăng nhập bằng hệ thống tài khoản mới để tiếp tục chơi chế độ trực tuyến.
+@@ 6884
+Để mua phù phép, hãy đặt vũ khí, giáp hoặc trang sức vào đây.\n\nVật phẩm có thể nhận được phù phép ma thuật,\nhoặc nếu bạn kém may mắn, phù phép có thể thất bại mà chẳng có tác dụng gì.
+@@ 6885
+Bật/tắt hiển thị nhiệm vụ đang làm
+@@ 6886
+Bật/tắt bản đồ
+@@ 6887
+Bật/tắt tên vật phẩm trên mặt đất
+@@ 6888
+Tomb of Ligeia
+@@ 6889
+Tổng sát thương vũ khí này gây ra khi ra đòn chí mạng
+@@ 6890
+Tổng Dexterity
+@@ 6891
+Tổng Focus
+@@ 6892
+Tổng Strength
+@@ 6893
+Tổng Vitality
+@@ 6894
+Tổng Dexterity sau khi tính điểm cộng thêm
+@@ 6895
+Tổng Focus sau khi tính điểm cộng thêm
+@@ 6896
+Tổng Strength sau khi tính điểm cộng thêm
+@@ 6897
+Tổng Vitality sau khi tính điểm cộng thêm
+@@ 6898
+Theo dõi nhiệm vụ
+@@ 6899
+Giao dịch
+@@ 6900
+Đang chờ giao dịch
+@@ 6901
+Yêu cầu giao dịch
+@@ 6902
+Giao dịch với người chơi
+@@ 6903
+Transmuter
+@@ 6904
+Transmuter có thể kết hợp các vật phẩm để tạo ra vật phẩm mới.\n\nĐể chuyển hóa, hãy đặt nguyên liệu vào các ô bên dưới. Nếu nguyên liệu phù hợp với một công thức, nút chuyển hóa sẽ sáng lên và cho phép bạn thực hiện chuyển hóa! Việc này sẽ lấy đi các vật phẩm cần thiết và đặt vật phẩm mới vào túi của bạn.\n\nDanh sách công thức sẽ hiển thị kết quả các lần chuyển hóa bạn đã thực hiện. Không phải công thức chuyển hóa nào cũng được liệt kê, nên ai chịu thử nghiệm có thể tìm ra công thức mới!\n
+@@ 6905
+Lên đường
+@@ 6906
+Đi đến Estheria
+@@ 6907
+Đi đến Zeryphesh
+@@ 6908
+Travis Baldree\nBrian Barhorst\nJason Beck\nPatrick Blank\nGreg Brown\nSirio Brozzi\nKyle Cornelius\nJohn Dunbar\nBen Evans\nMike Fisher\nMike Franchina\nAllen Fong\nPeter Hu\nJeremy Huxley\nBrock Jones\nJason Lamb\nMatt Lefferts\nMarsh Lefler\nJeff Mianowski\n

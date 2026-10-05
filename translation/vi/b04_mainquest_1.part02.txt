@@ -1,0 +1,68 @@
+@@ 1918
+- Quay về |cFFFFBA00Estherian Enclave|u và báo cáo với |cFFFFBA00Commander Vale|u
+@@ 1919
+- Báo cáo với |cFFFFBA00Commander Vale|u ở |cFFFFBA00Estherian Enclave|u
+@@ 1920
+Ta e rằng Alchemist chỉ là con tốt trong tay Netherim. Với Ordrak's Heart và sức mạnh của các Guardian, một cánh cổng dẫn tới Nether Realm có thể bị mở toang, và thế giới sẽ chìm vào một kỷ nguyên đau đớn không bao giờ dứt.\n\nHãy lập tức quay về |cFFFFBA00Enclave|u. |cFFFFBA00Commander Vale|u có thể giúp ngươi thu xếp đường tới |cFFFFBA00Ossean Wastes|u, nơi có hai vị Guardian đồng loại của ta. Hãy chặn Alchemist lại trước khi hắn kịp hút cạn cả họ nữa!
+@@ 1921
+Căn bệnh dịch bí ẩn vốn đang biến người Estherian thành Nether-Thrall lại gây ra tác động tàn khốc hơn nhiều lên Grand Regent Eldrayn. Vị chính khách Estherian từng cao quý ấy đã hoàn toàn bị một trong những Netherim đáng sợ chiếm xác... và thứ đó hẳn đã chiếm luôn cả Guardian of the Wild nếu bạn không ngăn nó lại!\n\nTrong khi đó, Alchemist vẫn đang tấn công các Guardian nhằm hút lấy năng lượng nguyên tố của họ để tiếp sức cho Ordrak's Heart... với mục tiêu tối thượng dường như là phá hủy Clockwork Core huyền thoại và mở toang cánh cổng dẫn tới cõi ác mộng của Netherim!
+@@ 1922
+Netherim, Alchemist và bệnh dịch này đều có liên hệ với nhau. Alchemist đi đến đâu, Ordrak's Heart làm vấy bẩn chính bản chất của ma thuật đến đó. Nó tạo ra một dạng nhiễm trùng... không khác mấy so với Ember Blight. Những ổ nhiễm nhỏ bé ấy lớn dần, và cuối cùng trở thành cầu nối cho Netherim. Nạn nhân trở thành vật chủ của Netherim: một "Nether-Thrall."\n\nĐó là điều đã xảy ra với người Estherian. Và vì lý do nào đó, tác động lên Grand Regent mạnh hơn cả. Có lẽ ông ta đã bị phơi nhiễm trực tiếp hơn khi giao chiến với Alchemist. Dù sao đi nữa, thứ đã chiếm xác Regent, thứ đã định chiếm lấy ta, mạnh hơn những kẻ khác: nó là một Nether-Beast... một trong những Netherim King đã dẫn đầu cuộc xâm lược thế giới của chúng ta từ một kỷ nguyên trước. Ta chắc chắn nó sẽ quay lại để báo thù.
+@@ 1923
+Nói chuyện với |cFFFFBA00Destroyer|u. Anh ấy đang đứng cạnh một Vanquisher Medic, gần tòa nhà quán rượu.
+@@ 1924
+- Nói chuyện với |cFFFFBA00Destroyer|u
+@@ 1925
+Destroyer, một trong những "Heroes of Torchlight" lừng danh, đã nhờ bạn đi cùng anh quay về nơi ghi dấu chiến công vĩ đại nhất của mình: thị trấn mỏ nhỏ bé nơi anh, Vanquisher và Alchemist đã đánh bại con rồng Ordrak. Thế nhưng khi bạn tới nơi, một trận chiến ác liệt đang diễn ra giữa binh lính của Vanquisher Corps do Syl the Seer chỉ huy... và Alchemist!\n\nAlchemist khoác trên mình bộ giáp đã lấy được Ordrak's Heart và đang tàn phá Torchlight. Khi Syl ngã xuống trong trận chiến, Destroyer nhận ra mình không thể ngăn cản Alchemist... nên đã dồn sức vào việc cảnh báo khu định cư gần nhất. Không may là vì con đường quanh co cùng những vết thương của Destroyer, bạn đã mất nhiều ngày mới đi được tới đây... và Destroyer không thể đi tiếp được nữa...\n
+@@ 1926
+Ta rất biết ơn ngươi, hỡi người phàm. Giờ hãy nghe cho kỹ, vì một thế lực tà ác khủng khiếp đang hoành hành nơi đây.\n\nCuộc tìm kiếm phương thuốc chữa Ember Blight của Alchemist đã đẩy hắn tới bờ vực điên loạn. Hắn đã hút năng lượng của ta để khuếch đại sức mạnh của Ordrak's Heart, sau khi đã dùng cạn nó để hủy diệt Torchlight.\n\nVới sức mạnh của các Guardian, Ordrak's Heart có thể hủy diệt toàn bộ Ember ở khắp mọi nơi. Có lẽ hắn tin rằng làm vậy sẽ chữa được căn bệnh của mình.
+@@ 1927
+Nói chuyện với |cFFFFBA00Guardian of Water|u ở |cFFFFBA00Wellspring Temple|u.
+@@ 1928
+- Nói chuyện với |cFFFFBA00Guardian of Water|u
+@@ 1929
+Khi tới Wellspring Temple, bạn thấy nơi này đã bị bọn Sturmbeorn khát máu tràn ngập, còn Guardian of Water và Vanquisher đều đã bị General Grell đáng sợ bắt giữ. Sau một trận chiến ác liệt, bạn đã đánh bại Grell và tự giới thiệu với Vanquisher... để rồi biết được rằng Alchemist cũng chính là kẻ đứng sau vụ tấn công Guardian.\n\nVanquisher, tức Commander Vale, khuyên bạn nói chuyện với Guardian of Water để tìm hiểu vì sao Alchemist không chỉ phá hủy Torchlight mà còn tấn công cả Guardian!
+@@ 1930
+Lẽ ra tôi phải nhận ra Alchemist có gì đó không ổn. Sau khi chúng tôi đánh bại Ordrak, bệnh Ember Blight của chúng tôi đã được chữa khỏi... nhưng Alchemist thì không sao từ bỏ được những thí nghiệm của mình. Destroyer và tôi... chúng tôi cứ vờ như không thấy chúng đang ảnh hưởng tới anh ta thế nào.\n\nChúng tôi đã phạm một sai lầm khủng khiếp. Tôi chỉ mong vẫn chưa quá muộn để sửa chữa nó!
+@@ 1931
+Có vẻ tình hình đã ngày càng tồi tệ trong lúc chúng ta ở Wellspring. Thứ đang khiến người Estherian đổ bệnh, dù là gì đi nữa, đang lây lan, và nó đã lan ra những vùng đất phía bắc nơi này. Đó chính là nơi Grand Regent đang hướng tới. Nếu ngài ấy đã tới Watchweald, hẳn ngài ấy đã niêm phong cổng để đề phòng... nghĩa là ngay lúc này đây, cả ngôi đền có thể đang biến thành một ổ dịch khổng lồ.
+@@ 1932
+Quay về |cFFFFBA00Enclave|u và bàn bạc với |cFFFFBA00Commander Vale|u.
+@@ 1933
+- Quay về |cFFFFBA00Enclave|u và nói chuyện với |cFFFFBA00Vanquisher|u
+@@ 1934
+- Nói chuyện với |cFFFFBA00Vanquisher|u
+@@ 1935
+Phải ngăn Alchemist lại trước khi hắn tấn công thêm bất kỳ Guardian nào nữa! Mỗi lần hắn hút năng lượng của bọn ta, trái tim ấy lại càng mạnh thêm... và hắn lại càng nguy hiểm hơn.\n\nNgươi và Commander Vale nên quay về |cFFFFBA00Estherian Enclave|u và lên kế hoạch cho bước đi tiếp theo.
+@@ 1936
+Guardian of Water đã đề nghị bạn cùng Commander Vale quay về Enclave và bàn bạc cách tốt nhất để đối phó với mối đe dọa từ Alchemist. Dù đang suy yếu nghiêm trọng, Guardian vẫn mở được một cổng dịch chuyển tới Enclave cho bạn.
+@@ 1937
+Bạn sắp sẵn sàng lên đường chưa? Tôi chắc Guardian of Water sẽ ổn thôi, giờ ngài ấy đã có cơ hội hồi phục và không còn phải đối phó với cả một đội quân nhỏ nữa.
+@@ 1938
+Alchemist rất mạnh và vô cùng quyết tâm. Đó luôn là những thế mạnh lớn nhất của hắn, và chúng sẽ khiến hắn trở thành một kẻ thù khó đánh bại. Và nếu hắn đánh cắp được năng lượng của thêm nhiều Guardian nữa, hắn sẽ gần như bất khả chiến bại.
+@@ 1939
+Ngày càng nhiều người Estherian đổ bệnh. Đó không phải là dấu hiệu tốt.
+@@ 1940
+Trên đèo yên ổn cả chứ?
+@@ 1941
+Ở đây cũng tạm yên ổn. Này, bạn làm tốt lắm, đã đưa được Commander ra khỏi Wellspring!
+@@ 1942
+Ở đây mọi thứ yên ổn. Phía trên đèo tình hình thế nào?
+@@ 1943
+Mọi thứ yên ổn. Có vài lữ khách Estherian đi ngang qua đây, chắc là đang tới Watchweald Temple.
+@@ 1944
+Bạn có biết trên đèo còn lại bao nhiêu tên Sturmbeorn không?
+@@ 1945
+Bạn có mang mệnh lệnh mới nào tới cho chúng tôi không? Chúng tôi thôi canh gác cái quán rượu bỏ hoang này được chưa?
+@@ 1946
+Bạn đã lên được Enclave chưa? Đã nói chuyện với Commander Vale chưa?
+@@ 1947
+Bạn làm tốt lắm, đã đưa được Commander ra khỏi đó!
+@@ 1948
+Vậy bạn đã tới Watchweald Temple chưa? Grand Regent có ở đó không? Ngài ấy có quay về không?
+@@ 1949
+Này, nếu bạn quay về Enclave, hỏi giúp Commander được không? Xem cô ấy có cần chúng tôi rút về Enclave không?
+@@ 1950
+Trên Frosted Hills tuyết rơi dữ lắm không?
+@@ 1951
+Tôi thật lòng xin lỗi. Bạn đã vất vả biết bao để thu hồi Scroll of Anom-Irek... vậy mà giờ Grand Regent lại bảo chúng tôi sẽ không cần đến nó nữa!

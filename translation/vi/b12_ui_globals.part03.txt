@@ -1,0 +1,240 @@
+@@ 5305
+Gia bảo
+@@ 5306
+Không có vật phẩm để truyền lại
+@@ 5307
+Số cổng đã dùng
+@@ 5308
+Không có Gem để phá hủy
+@@ 5309
+Cấp bậc hiện tại
+@@ 5310
+Chế độ dùng thử
+@@ 5311
+Khu vực đã khám phá
+@@ 5312
+DPS vũ khí
+@@ 5313
+Quên Spell này
+@@ 5314
+h
+@@ 5315
+Yêu cầu cấp
+@@ 5316
+yêu cầu Magic
+@@ 5317
+Yêu cầu lớp nhân vật
+@@ 5318
+Thời gian chơi
+@@ 5319
+Socket trống
+@@ 5320
+Sát thương vũ khí
+@@ 5321
+Nhiệm vụ mới
+@@ 5322
+Đã nhặt rồi!
+@@ 5323
+Shift + nhấp để chuyển
+@@ 5324
+Trang bị đã được cường hóa!
+@@ 5325
+Vỡ vụn
+@@ 5326
+Luôn bật
+@@ 5327
+Champion đã đánh bại
+@@ 5328
+ không hoạt động. Các vật phẩm sau sẽ bị mất:\n
+@@ 5329
+ không hoạt động. Các quái sau sẽ không được tạo ra:\n
+@@ 5330
+ không hoạt động. Các kỹ năng sau sẽ bị mất: 
+@@ 5331
+Tỉ lệ xóa phù phép:
+@@ 5332
+Shoulder Armor
+@@ 5333
+và thêm phù phép mới
+@@ 5334
+Ctrl + nhấp để tách chồng
+@@ 5335
+Đang chơi
+@@ 5336
+Giá mua
+@@ 5337
+Đăng nhập trùng lặp
+@@ 5338
+MOD KHÔNG XÁC ĐỊNH CÓ GUID:
+@@ 5339
+Cấp mở khóa tiếp theo
+@@ 5340
+Kết bạn thất bại - tên không hợp lệ!
+@@ 5341
+Đang trang bị vật phẩm gian lận
+@@ 5342
+đã kết bạn với bạn.
+@@ 5343
+Enchanter thực hiện nghi thức cổ xưa lên
+@@ 5344
+Không có phù phép
+@@ 5345
+Hấp thụ
+@@ 5346
+Tất cả
+@@ 5347
+Physical & Elemental
+@@ 5348
+Luôn luôn
+@@ 5349
+bất kỳ
+@@ 5350
+Giáp
+@@ 5351
+giáp
+@@ 5352
+Đã cường hóa!
+@@ 5353
+Belt
+@@ 5354
+Đỡ đòn
+@@ 5355
+Boots
+@@ 5356
+Mua
+@@ 5357
+Casual
+@@ 5358
+Phim cắt cảnh
+@@ 5359
+Claw
+@@ 5360
+Collar
+@@ 5361
+HOÀN THÀNH
+@@ 5362
+Hoàn thành
+@@ 5363
+Tiếp tục
+@@ 5364
+Thời gian hồi
+@@ 5365
+Chí mạng
+@@ 5366
+Đòn chí mạng
+@@ 5367
+Sát thương
+@@ 5368
+Đã chết
+@@ 5369
+Bị đánh bại
+@@ 5370
+Phá hủy
+@@ 5371
+Dexterity
+@@ 5372
+Hội thoại
+@@ 5373
+Độ khó
+@@ 5374
+Đã ngắt kết nối
+@@ 5375
+Né tránh
+@@ 5376
+Easy
+@@ 5377
+Electric
+@@ 5378
+Elite
+@@ 5379
+Trống
+@@ 5380
+Phù phép
+@@ 5381
+Đã phù phép
+@@ 5382
+Phù phép
+@@ 5383
+đã trang bị
+@@ 5384
+Thoát
+@@ 5385
+Fame
+@@ 5386
+Fire
+@@ 5387
+Câu cá
+@@ 5388
+Đang bỏ chạy
+@@ 5389
+Tầng
+@@ 5390
+Focus
+@@ 5391
+Đã tìm thấy
+@@ 5392
+Miễn phí
+@@ 5393
+Trò chơi
+@@ 5394
+Gloves
+@@ 5395
+GP
+@@ 5396
+Hard
+@@ 5397
+Hardcore
+@@ 5398
+Helmet
+@@ 5399
+giờ
+@@ 5400
+giờ
+@@ 5401
+giờ
+@@ 5402
+HP
+@@ 5403
+Ice
+@@ 5404
+Gây 
+@@ 5405
+Cấp vật phẩm
+@@ 5406
+giờ
+@@ 5407
+Hoặc
+@@ 5408
+tay trái
+@@ 5409
+Leggings
+@@ 5410
+Cấp
+@@ 5411
+Lên cấp
+@@ 5412
+Magical
+@@ 5413
+Mana
+@@ 5414
+Tiêu hao Mana
+@@ 5415
+phút
+@@ 5416
+phút
+@@ 5417
+phút
+@@ 5418
+Trượt
+@@ 5419
+Mod: 
+@@ 5420
+mon
+@@ 5421
+Màn hình
+@@ 5422
+Quái
+@@ 5423
+Quái:
+@@ 5424
+MP

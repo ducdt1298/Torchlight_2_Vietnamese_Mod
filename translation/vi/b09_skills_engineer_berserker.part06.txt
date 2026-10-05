@@ -1,0 +1,132 @@
+@@ 3444
+Bạn triển khai một robot bất động hóa, làm chậm kẻ địch trong tầm tia của nó. Tối đa 3 mục tiêu có thể bị ảnh hưởng cùng lúc.
+@@ 3445
+Tối đa 5 mục tiêu có thể bị ảnh hưởng cùng lúc
+@@ 3446
+Gây sát thương Electric lên mục tiêu đang bị làm chậm
+@@ 3447
+Mục tiêu bị ngắt đòn theo từng đợt
+@@ 3448
+5% tỉ lệ tạo vụ nổ mìn nâng cấp
+@@ 3449
+15% tỉ lệ tạo vụ nổ mìn nâng cấp
+@@ 3450
+10% tỉ lệ tạo vụ nổ mìn nâng cấp
+@@ 3451
+25% tỉ lệ tạo vụ nổ mìn nâng cấp
+@@ 3452
+20% tỉ lệ tạo vụ nổ mìn nâng cấp
+@@ 3453
+35% tỉ lệ tạo vụ nổ mìn nâng cấp
+@@ 3454
+30% tỉ lệ tạo vụ nổ mìn nâng cấp
+@@ 3455
+45% tỉ lệ tạo vụ nổ mìn nâng cấp
+@@ 3456
+40% tỉ lệ tạo vụ nổ mìn nâng cấp
+@@ 3457
+65% tỉ lệ tạo vụ nổ mìn nâng cấp
+@@ 3458
+60% tỉ lệ tạo vụ nổ mìn nâng cấp
+@@ 3459
+55% tỉ lệ tạo vụ nổ mìn nâng cấp
+@@ 3460
+50% tỉ lệ tạo vụ nổ mìn nâng cấp
+@@ 3461
+75% tỉ lệ tạo vụ nổ mìn nâng cấp
+@@ 3462
+70% tỉ lệ tạo vụ nổ mìn nâng cấp
+@@ 3463
+Bạn triển khai ba robot nhện lao vào kẻ địch gần nhất và phát nổ trong bán kính 3 mét. Mìn nâng cấp gây thêm 20% sát thương với bán kính 5 mét, làm choáng 2 giây và gây sát thương Electric theo thời gian.
+@@ 3464
+Xung hồi máu mỗi 12 giây; bán kính 8 mét
+@@ 3465
+Xung hồi máu mỗi 11 giây; bán kính 9 mét
+@@ 3466
+Xung hồi máu mỗi 11.5 giây; bán kính 8.5 mét
+@@ 3467
+Xung hồi máu mỗi 10 giây; bán kính 10 mét
+@@ 3468
+Xung hồi máu mỗi 10.5 giây; bán kính 9.5 mét
+@@ 3469
+Xung hồi máu mỗi 9 giây; bán kính 11 mét
+@@ 3470
+Xung hồi máu mỗi 9.5 giây; bán kính 10.5 mét
+@@ 3471
+Xung hồi máu mỗi 8 giây; bán kính 12 mét
+@@ 3472
+Xung hồi máu mỗi 8.5 giây; bán kính 11.5 mét
+@@ 3473
+Xung hồi máu mỗi 6 giây; bán kính 14 mét
+@@ 3474
+Xung hồi máu mỗi 6.5 giây; bán kính 13.5 mét
+@@ 3475
+Xung hồi máu mỗi 7 giây; bán kính 13 mét
+@@ 3476
+Xung hồi máu mỗi 7.5 giây; bán kính 12.5 mét
+@@ 3477
+Xung hồi máu mỗi 5 giây; bán kính 15 mét
+@@ 3478
+Xung hồi máu mỗi 5.5 giây; bán kính 14.5 mét
+@@ 3479
+Bạn triển khai một robot nhỏ phát ra các xung năng lượng, hồi máu cho cả bạn lẫn đồng minh.
+@@ 3480
+Xung năng lượng còn hồi phục Mana
+@@ 3481
+Engineer và đồng minh còn được tăng 8% giáp
+@@ 3482
+Engineer và đồng minh còn được tăng 16% giáp
+@@ 3483
+Khi kích hoạt, đòn tấn công gây hiệu ứng bất lợi giảm kháng Elemental.
+@@ 3484
+Phóng năng lượng từ bộ giáp xuống lòng đất tạo ra một sóng xung kích khổng lồ lan rộng, đẩy lùi và làm suy yếu kẻ địch trong phạm vi 24 mét. |cFFFF0000Tremor chỉ gây lượng sát thương được liệt kê khi tiêu hao một|u |c00ff9933Charge|u.
+@@ 3485
+Thêm 20% tỉ lệ khiến kẻ địch bỏ chạy trong 10 giây
+@@ 3486
+Kẻ địch bị suy yếu còn gây ít hơn 20% sát thương Physical
+@@ 3487
+Mọi mục tiêu bị làm choáng trong 2 giây
+@@ 3488
+Bộ giáp của Railman phát ra sóng xung kích trong một khoảng thời gian, giảm tốc độ đánh và tốc độ di chuyển của kẻ địch xung quanh
+@@ 3489
+Bạn tạo ra một giếng trọng lực từ từ hút kẻ địch về phía bạn và bào mòn giáp của chúng bằng những xung nhỏ. Hiệu ứng kéo dài 20 giây.
+@@ 3490
+Kéo kẻ địch về phía bạn
+@@ 3491
+Hút kẻ địch vào trong
+@@ 3492
+Khi bật kỹ năng này, Engineer tạo ra một giếng trọng lực từ từ hút kẻ địch vào, gây các xung sát thương Electric nhẹ.
+@@ 3493
+Thời gian hiệu lực: 30 giây.
+@@ 3494
+Thời gian hiệu lực: 40 giây. Thêm 20% sát thương.
+@@ 3495
+Thời gian hiệu lực: 35 giây. Thêm 10% sát thương.
+@@ 3496
+Thời gian hiệu lực: 50 giây. Thêm 40% sát thương.
+@@ 3497
+Thời gian hiệu lực: 45 giây. Thêm 30% sát thương.
+@@ 3498
+Thời gian hiệu lực: 60 giây. Thêm 60% sát thương.
+@@ 3499
+Thời gian hiệu lực: 55 giây. Thêm 50% sát thương.
+@@ 3500
+Thời gian hiệu lực: 70 giây. Thêm 80% sát thương.
+@@ 3501
+Thời gian hiệu lực: 65 giây. Thêm 70% sát thương.
+@@ 3502
+Thời gian hiệu lực: 90 giây. Thêm 120% sát thương.
+@@ 3503
+Thời gian hiệu lực: 85 giây. Thêm 110% sát thương.
+@@ 3504
+Thời gian hiệu lực: 80 giây. Thêm 100% sát thương.
+@@ 3505
+Thời gian hiệu lực: 75 giây. Thêm 90% sát thương.
+@@ 3506
+Thời gian hiệu lực: 100 giây. Thêm 140% sát thương.
+@@ 3507
+Thời gian hiệu lực: 95 giây. Thêm 130% sát thương.
+@@ 3508
+Bạn truyền năng lượng từ bộ giáp vào vũ khí ... rồi phóng nó vào kẻ địch mà bạn đánh trúng.
+@@ 3509
+Thời gian hiệu lực: 16 giây.

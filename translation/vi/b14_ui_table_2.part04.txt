@@ -1,0 +1,234 @@
+@@ 7059
+gian lận!
+@@ 7060
+del
+@@ 7061
+down arrow
+@@ 7062
+end
+@@ 7063
+forward
+@@ 7064
+home
+@@ 7065
+ins
+@@ 7066
+left arrow
+@@ 7067
+media/ui/pieces/arbiter_charge_bar_tooltip.layout
+@@ 7068
+media/ui/pieces/berserker_charge_bar_tooltip.layout
+@@ 7069
+media/ui/pieces/dexterity_rollover.layout
+@@ 7070
+media/ui/pieces/effect_tooltip.layout
+@@ 7071
+media/ui/pieces/engineer_charge_bar_tooltip.layout
+@@ 7072
+media/ui/pieces/equipment_rollover.layout
+@@ 7073
+media/ui/pieces/mp_tooltip.layout
+@@ 7074
+media/ui/pieces/outlander_charge_bar_tooltip.layout
+@@ 7075
+media/ui/pieces/perk_rollover.layout
+@@ 7076
+media/ui/pieces/recipe_rollover.layout
+@@ 7077
+media/ui/pieces/skill_rollover.layout
+@@ 7078
+media/ui/pieces/skilltier_rollover.layout
+@@ 7079
+media/ui/pieces/unit_data.layout
+@@ 7080
+media/ui/pieces/xpbar_tooltip.layout
+@@ 7081
+pgdn
+@@ 7082
+pgup
+@@ 7083
+right arrow
+@@ 7084
+safgtsdfg
+@@ 7085
+space
+@@ 7086
+up arrow
+@@ 7087
+phiên bản: <STAT1>
+@@ 7088
+|c0097ffa1Vũ khí tay trái|u
+@@ 7089
+|c0097ffa1Vũ khí tay phải|u
+@@ 7090
+|cB4FFFFFF<STAT1>|u
+@@ 7091
+|cFF1596EF<STAT1>|u
+@@ 7092
+|cFF4B4B4B<STAT1>|u
+@@ 7093
+|cFF4B4B4BĐiểm kỹ năng: <STAT1>|u
+@@ 7094
+|cFF4B4B4BĐiểm thuộc tính|u
+@@ 7095
+|cFF917D56Mật khẩu|u
+@@ 7096
+|cFF917D56Tên đăng nhập|u
+@@ 7097
+|cFFA1D0FCChế độ Casual|u rất hợp với người chơi mọi lứa tuổi thích hành động vui vẻ mà không cần thử thách quá khó.
+@@ 7098
+|cFFA1D0FCCurrent Room|u: <STAT1>
+@@ 7099
+|cFFA1D0FCChế độ Elite|u dành cho người chơi lão luyện hoặc gan dạ. Quái mạnh hơn đáng kể và bạn có thể chết thường xuyên. Cuộc phiêu lưu của bạn có lẽ sẽ tốn nhiều thời gian hơn các chế độ khác.
+@@ 7100
+|cFFA1D0FCLevelSeed|u: <STAT1>
+@@ 7101
+|cFFA1D0FCPeer Data|u:\n<STAT1>
+@@ 7102
+|cFFA1D0FCPlayer Pos|u: <STAT1>
+@@ 7103
+|cFFA1D0FCRegion|u: <STAT1>
+@@ 7104
+|cFFA1D0FCRooms|u:\n<STAT1>
+@@ 7105
+|cFFA1D0FCRule Set|u: <STAT1>
+@@ 7106
+|cFFA1D0FCThemes|u:\n<STAT1>
+@@ 7107
+|cFFA1D0FCChế độ Veteran|u dành cho người chơi đã quen với Torchlight. Nếu thử thách trở nên quá khó, bạn có thể cần dành thêm thời gian cải thiện năng lực nhân vật để tiếp tục tiến lên.
+@@ 7108
+|cFFB29560Bạn có chắc muốn thoát không?|u
+@@ 7109
+|cFFD1FF7ATay trái|u
+@@ 7110
+|cFFD1FF7ATay phải|u
+@@ 7111
+|cFFE0E0E0Sát thương: <STAT1>-<STAT2>|u
+@@ 7112
+|cFFEAAA15( * Cần khởi động lại )|u
+@@ 7113
+|cFFEAAA15<STAT1>|u
+@@ 7114
+|cFFEAAA15Minh họa bổ sung|u
+@@ 7115
+|cFFEAAA15Ngoại hình|u
+@@ 7116
+|cFFEAAA15Phát triển bằng|u
+@@ 7117
+|cFFEAAA15Tên nhân vật|u
+@@ 7118
+|cFFEAAA15Dexterity|u tăng tỉ lệ tung |cFFA1D0FCđòn chí mạng|u và |cFFA1D0FCné tránh|u đòn tấn công của kẻ địch. Dexterity còn tăng |cFFA1D0FCkhả năng hồi phục Fumble|u.
+@@ 7119
+|cFFEAAA15Độ khó|u
+@@ 7120
+|cFFEAAA15Khuôn mặt|u
+@@ 7121
+|cFFEAAA15Focus|u tăng |cFFA1D0FCmana|u (MP) và mọi |cFFA1D0FCsát thương Elemental|u. Focus còn tăng tỉ lệ |cFFA1D0FCExecute|u (đánh bằng cả hai tay cùng lúc).
+@@ 7122
+|cFFEAAA15Màu tóc|u
+@@ 7123
+|cFFEAAA15Kiểu tóc|u
+@@ 7124
+|cFFEAAA15Chế độ Hardcore|u
+@@ 7125
+|cFFEAAA15Klei Entertainment|u
+@@ 7126
+|cFFEAAA15Cấp <STAT1>|u
+@@ 7127
+|cFFEAAA15Cấp <STAT1>|u  <STAT2>
+@@ 7128
+|cFFEAAA15Thu âm dàn nhạc|u
+@@ 7129
+|cFFEAAA15Perfect World|u
+@@ 7130
+|cFFEAAA15Tên Pet|u
+@@ 7131
+|cFFEAAA15Runic Games|u
+@@ 7132
+|cFFEAAA15Chọn lớp nhân vật|u
+@@ 7133
+|cFFEAAA15Chọn Pet|u
+@@ 7134
+|cFFEAAA15Điểm kỹ năng: <STAT1>|u
+@@ 7135
+|cFFEAAA15Đặc biệt cảm ơn|u
+@@ 7136
+|cFFEAAA15Điểm thuộc tính|u
+@@ 7137
+|cFFEAAA15Strength|u tăng |cFFA1D0FCmọi sát thương vũ khí |ucũng như lượng sát thương cộng thêm khi tung |cFFA1D0FCđòn chí mạng|u.
+@@ 7138
+|cFFEAAA15Cảm ơn bạn đã chơi!|u
+@@ 7139
+|cFFEAAA15Vitality|u tăng |cFFA1D0FCmáu|u (HP), tổng |cFFA1D0FCgiáp|u và tỉ lệ |cFFA1D0FCđỡ đòn|u bằng Shield.
+@@ 7140
+|cFFEAAA15Lồng tiếng|u
+@@ 7141
+|cFFF2BF4D<STAT1>|u
+@@ 7142
+|cFFF2BF4DCấp vật phẩm TB:|u\n <STAT1>
+@@ 7143
+|cFFF2BF4DThời gian chơi:|u\n <STAT1>
+@@ 7144
+|cFFF5DB94-Bạn tìm thấy-|u 
+@@ 7145
+|cFFF5DB94<STAT1>|u
+@@ 7146
+|cFFF5DB94<STAT1>|u đòi bạn phải chiến đấu tiếp!
+@@ 7147
+|cFFF5DB94<STAT1>|u rất yêu quý bạn.
+@@ 7148
+|cFFF5DB94Hoạt họa|u\nJeff Agala\nAaron Bouthillier\nAllan Cortez\nJordan Krahn\nEugene Trakhtenberg\n\n|cFFF5DB94Phông nền|u\nMeghan Shaw\nVangelis Christou
+@@ 7149
+|cFFF5DB94Ở cấp hiện tại|u
+@@ 7150
+|cFFF5DB94Thống kê tấn công|u
+@@ 7151
+|cFFF5DB94Crest of Pools|u
+@@ 7152
+|cFFF5DB94Crest of Rivers|u
+@@ 7153
+|cFFF5DB94Crest of Tides|u
+@@ 7154
+|cFFF5DB94Thống kê phòng thủ|u
+@@ 7155
+|cFFF5DB94Đạo diễn|u \nJeff Agala\n\n|cFFF5DB94Điều phối sản xuất |u\nSharon Roberts\n\n\n|cFFF5DB94Âm thanh |u\nAlan Wong-Moon\nMatthew Marteinsson
+@@ 7156
+|cFFF5DB94Kỹ thuật âm thanh|u\nHubert Geschwandtner\n\n|cFFF5DB94Nhà sản xuất|u\nEmil Niznansky\n\n|cFFF5DB94Quản lý dàn nhạc|u\nMarian Turner\n\n|cFFF5DB94Chuẩn bị tổng phổ|u\nJason Poss và Danita Ng-Poss
+@@ 7157
+|cFFF5DB94Dữ liệu game|u
+@@ 7158
+|cFFF5DB94Thống kê chung|u
+@@ 7159
+|cFFF5DB94Mask of Kings|u
+@@ 7160
+|cFFF5DB94Mask of Queens|u
+@@ 7161
+|cFFF5DB94Mask of Wariz|u
+@@ 7162
+|cFFF5DB94Thống kê khác|u
+@@ 7163
+|cFFFF0000-<STAT1>%|u
+@@ 7164
+|cFFFF0000Hardcore|u
+@@ 7165
+|cFFFF0000Bạn đã tử trận!|u
+@@ 7166
+|cFFFFBF61Một Socket Gem|u
+@@ 7167
+|cFFFFBF61Cần Firewood|u
+@@ 7168
+|cFFFFBF61Cần Gem|u
+@@ 7169
+|cFFFFBF61Không đủ vàng|u
+@@ 7170
+|cFFFFBF61Đã khóa|u
+@@ 7171
+|cFFFFBF61Cần Gem|u
+@@ 7172
+|cFFFFBF61Cần Plunger|u
+@@ 7173
+|cFFFFBF61Cần linh hồn|u
+@@ 7174
+|cFFFFBF61Không đủ Crab Legs|u
+@@ 7175
+|cFFFFBF61Cần Shovel|u

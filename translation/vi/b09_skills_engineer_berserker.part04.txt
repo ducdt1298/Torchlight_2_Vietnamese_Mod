@@ -1,0 +1,200 @@
+@@ 3244
+Tạo 5 mảnh vụn rực lửa bay xa 8 mét
+@@ 3245
+Tạo 6 mảnh vụn rực lửa bay xa 11 mét
+@@ 3246
+Tạo 7 mảnh vụn rực lửa bay xa 14 mét
+@@ 3247
+Bộ giáp của bạn phóng ra năng lượng Ember, tạo một trường lực quanh bạn và một trường lực nửa sức mạnh quanh đồng minh. Khi trường lực đã hấp thụ đủ lượng sát thương tối đa, nó sẽ tan biến và mọi lợi ích cũng mất theo.\nForcefield dùng mọi |c00ff9933Charge|u hiện có để tăng lượng sát thương hấp thụ thêm 50% mỗi |c00ff9933Charge|u.
+@@ 3248
+Lượng Mana tiêu hao và thời gian thi triển giảm 20%
+@@ 3249
+Đồng minh nhận lá chắn đủ sức mạnh
+@@ 3250
+Lượng Mana tiêu hao và thời gian thi triển giảm 50%
+@@ 3251
+Bạn phóng ra một loạt tên lửa tầm xa tự dẫn đường liên tục từ Cannon. Mỗi đợt 2 tên lửa sẽ tiếp tục được bắn ra chừng nào bạn còn giữ nút chuột.
+@@ 3252
+Mỗi đợt bắn ra 3 tên lửa
+@@ 3253
+Tên lửa phát nổ trong bán kính 3 mét
+@@ 3254
+Mỗi đợt bắn ra 4 tên lửa
+@@ 3255
+Bạn ném một quả lựu đạn naphtha, phủ lửa lên một khu vực rộng trong 5 giây.  Kẻ địch tiếp tục chịu sát thương cho đến khi rời khỏi khu vực.\n\nNếu bạn có từ một |c00ff9933Charge|u trở lên, Fire Grenade sẽ ảnh hưởng khu vực rộng hơn và gây thêm 50% sát thương, tiêu tốn một |c00ff9933Charge|u.
+@@ 3256
+Bạn ném một quả lựu đạn chấn động, phát nổ trên một khu vực rộng.\n\nNếu bạn có từ một |c00ff9933Charge|u trở lên, Force Grenade sẽ thêm +50% sát thương Electric và làm choáng kẻ địch bị ảnh hưởng trong hai giây, tiêu tốn một |c00ff9933Charge|u.
+@@ 3257
+Bạn ném một quả lựu đạn gây sốc điện và làm choáng kẻ địch trong bán kính 4 mét. Tiêu hao một |c00ff9933Charge|u để ném thêm hai quả lựu đạn.
+@@ 3258
+Bán kính sốc điện của lựu đạn tăng lên 5 mét
+@@ 3259
+Thời gian làm choáng của lựu đạn tăng lên 5 giây
+@@ 3260
+Bán kính sốc điện của lựu đạn tăng lên 6 mét và thời gian làm choáng tăng lên 6 giây
+@@ 3261
+Ném một quả bom dính bám vào kẻ địch, phát nổ khi kẻ địch chết.  Sức nặng của quả bom làm giảm nhẹ tốc độ đánh và tốc độ thi triển.\n 1 |c00ff9933Charge|u: tăng 50% sát thương
+@@ 3262
+Ném một quả bom dính bám vào kẻ địch, phát nổ khi kẻ địch chết.  Sức nặng của quả bom làm giảm nhẹ tốc độ đánh và tốc độ thi triển.\n 1 Charge: tăng 50% sát thương
+@@ 3263
+Hiệu ứng mù kéo dài 4 giây
+@@ 3264
+Hiệu ứng mù kéo dài 6 giây
+@@ 3265
+Hiệu ứng mù kéo dài 5 giây
+@@ 3266
+Hiệu ứng mù kéo dài 8 giây
+@@ 3267
+Hiệu ứng mù kéo dài 7 giây
+@@ 3268
+Hiệu ứng mù kéo dài 10 giây
+@@ 3269
+Hiệu ứng mù kéo dài 9 giây
+@@ 3270
+Hiệu ứng mù kéo dài 12 giây
+@@ 3271
+Hiệu ứng mù kéo dài 11 giây
+@@ 3272
+Hiệu ứng mù kéo dài 16 giây
+@@ 3273
+Hiệu ứng mù kéo dài 15 giây
+@@ 3274
+Hiệu ứng mù kéo dài 14 giây
+@@ 3275
+Hiệu ứng mù kéo dài 13 giây
+@@ 3276
+Hiệu ứng mù kéo dài 18 giây
+@@ 3277
+Hiệu ứng mù kéo dài 17 giây
+@@ 3278
+Bạn ném một quả Flash-Bang Grenade, làm mù kẻ địch trên một khu vực rộng.\n\nNếu bạn có từ một |c00ff9933Charge|u trở lên, kẻ địch bị ảnh hưởng sẽ bị mù lâu gấp đôi và chịu thêm sát thương từ mọi đòn tấn công, tiêu tốn một |c00ff9933Charge|u.
+@@ 3279
+Bạn chế tạo một Sledgebot mạnh mẽ để nghiền nát kẻ địch.
+@@ 3280
+Sledgebot có thêm đòn quét
+@@ 3281
+Sledgebot có thêm đòn nện
+@@ 3282
+Sledgebot có thêm đòn tên lửa
+@@ 3283
+Bạn triển khai một robot nhỏ tấn công kẻ địch bằng làn mưa đạn, bắn 5 viên mỗi giây. Mỗi cấp kỹ năng tăng tiềm năng sát thương của robot.
+@@ 3284
+Tầm bắn tăng gấp đôi\nThời gian hồi triệu hồi giảm còn 2.5 phút
+@@ 3285
+Đạn xuyên qua kẻ địch\nThời gian hồi triệu hồi giảm còn 2 phút
+@@ 3286
+Bắn tỏa ba luồng đạn\nThời gian hồi triệu hồi giảm còn 1.5 phút
+@@ 3287
+Bạn chế tạo và triển khai một khẩu pháo di chuyển chậm. Khẩu pháo tồn tại trong 30 giây và bắn mỗi 4 giây, gây sát thương bằng 180% DPS vũ khí của bạn.
+@@ 3288
+Bạn lao về phía trước, nện vũ khí cận chiến xuống đất. Kẻ địch tại điểm va chạm chịu sát thương và bị làm chậm đáng kể. Onslaught chỉ nhận một nửa lượng |c00ff9933Charge|u thông thường.
+@@ 3289
+Yêu cầu vũ khí cận chiến ở ô tay phải
+@@ 3290
+Lượng Mana tiêu hao giảm 20%
+@@ 3291
+Lượng Mana tiêu hao giảm 40%
+@@ 3292
+Lượng Mana tiêu hao giảm 60%
+@@ 3293
+Railman chuyển sang chế độ tăng tốc tối đa, nhận lượng tốc độ cộng thêm lớn trong thời gian ngắn.  Sau đó Railman bị làm chậm trong khi bộ giáp nạp lại năng lượng
+@@ 3294
+Bạn làm quá tải mạch điện của bộ giáp để phóng ra một luồng năng lượng Ember tỏa tròn, giật điện tối đa 5 kẻ địch trong bán kính 6 mét quanh bạn. Overload dùng mọi |c00ff9933Charge|u hiện có để tăng sát thương thêm 50% mỗi |c00ff9933Charge|u.
+@@ 3295
+Giật điện tối đa 7 kẻ địch trong bán kính 8 mét
+@@ 3296
+Giật điện tối đa 9 kẻ địch trong bán kính 10 mét
+@@ 3297
+Giật điện tối đa 11 kẻ địch trong bán kính 12 mét
+@@ 3298
+Khả năng sử dụng vũ khí khổng lồ giúp bạn tấn công nhanh hơn và có thêm tỉ lệ làm choáng kẻ địch.
+@@ 3299
+Yêu cầu Greataxe, Greathammer, Greatsword, Polearm hoặc Cannon
+@@ 3300
+Khi kẻ địch tấn công bạn, bộ giáp có tỉ lệ tạo ra một "bong bóng" phòng thủ quanh bạn để ngăn sát thương tiếp theo. Lượng sát thương lá chắn này có thể hấp thụ bằng 200% giáp của bạn cộng 100. Khi Aegis đang hoạt động, bạn còn nhận 50% kháng đẩy lùi.
+@@ 3301
+Sự thành thạo Cannon giúp bạn nạp đạn và khai hỏa nhanh hơn, đồng thời bắn thủng chỗ hiểm của kẻ địch.
+@@ 3302
+Khi bạn dùng |c00ff9933Charge|u cho kỹ năng, bạn hồi lại một phần máu.
+@@ 3303
+3% tỉ lệ nạp đầy thanh Charge
+@@ 3304
+4% tỉ lệ nạp đầy thanh Charge
+@@ 3305
+3.5% tỉ lệ nạp đầy thanh Charge
+@@ 3306
+5% tỉ lệ nạp đầy thanh Charge
+@@ 3307
+4.5% tỉ lệ nạp đầy thanh Charge
+@@ 3308
+6% tỉ lệ nạp đầy thanh Charge
+@@ 3309
+5.5% tỉ lệ nạp đầy thanh Charge
+@@ 3310
+7% tỉ lệ nạp đầy thanh Charge
+@@ 3311
+6.5% tỉ lệ nạp đầy thanh Charge
+@@ 3312
+9% tỉ lệ nạp đầy thanh Charge
+@@ 3313
+8.5% tỉ lệ nạp đầy thanh Charge
+@@ 3314
+8% tỉ lệ nạp đầy thanh Charge
+@@ 3315
+7.5% tỉ lệ nạp đầy thanh Charge
+@@ 3316
+10% tỉ lệ nạp đầy thanh Charge
+@@ 3317
+9.5% tỉ lệ nạp đầy thanh Charge
+@@ 3318
+Khi hạ gục kẻ địch, bạn có tỉ lệ hấp thụ đủ năng lượng để làm đầy thanh |c00ff9933Charge|u. Khả năng này không thể kích hoạt quá một lần mỗi ba giây.
+@@ 3319
+Sát thương bằng 3 lần Strength của bạn, như hiển thị bên dưới
+@@ 3320
+Sát thương bằng 4 lần Strength của bạn, như hiển thị bên dưới
+@@ 3321
+Sát thương bằng 3.5 lần Strength của bạn, như hiển thị bên dưới
+@@ 3322
+Sát thương bằng 5 lần Strength của bạn, như hiển thị bên dưới
+@@ 3323
+Sát thương bằng 4.5 lần Strength của bạn, như hiển thị bên dưới
+@@ 3324
+Sát thương bằng 6 lần Strength của bạn, như hiển thị bên dưới
+@@ 3325
+Sát thương bằng 5.5 lần Strength của bạn, như hiển thị bên dưới
+@@ 3326
+Sát thương bằng 7 lần Strength của bạn, như hiển thị bên dưới
+@@ 3327
+Sát thương bằng 6.5 lần Strength của bạn, như hiển thị bên dưới
+@@ 3328
+Sát thương bằng 9 lần Strength của bạn, như hiển thị bên dưới
+@@ 3329
+Sát thương bằng 8.5 lần Strength của bạn, như hiển thị bên dưới
+@@ 3330
+Sát thương bằng 8 lần Strength của bạn, như hiển thị bên dưới
+@@ 3331
+Sát thương bằng 7.5 lần Strength của bạn, như hiển thị bên dưới
+@@ 3332
+Sát thương bằng 10 lần Strength của bạn, như hiển thị bên dưới
+@@ 3333
+Sát thương bằng 9.5 lần Strength của bạn, như hiển thị bên dưới
+@@ 3334
+Khi bạn đánh trúng mục tiêu đang bị choáng, một luồng điện sẽ giúp kết liễu kẻ địch. Khả năng này không thể kích hoạt quá một lần mỗi giây.
+@@ 3335
+Sự thành thạo giáp giúp bạn tận dụng tối đa trang bị giáp, tăng hiệu quả của giáp và giảm mọi sát thương lọt qua.
+@@ 3336
+Tia điện để vạn vật vận hành ... và ngọn lửa để vạn vật diệt vong.
+@@ 3337
+Cộng 20% giáp của Shield vào đòn cận chiến
+@@ 3338
+Cộng 30% giáp của Shield vào đòn cận chiến
+@@ 3339
+Cộng 25% giáp của Shield vào đòn cận chiến
+@@ 3340
+Cộng 40% giáp của Shield vào đòn cận chiến
+@@ 3341
+Cộng 35% giáp của Shield vào đòn cận chiến
+@@ 3342
+Cộng 50% giáp của Shield vào đòn cận chiến
+@@ 3343
+Cộng 45% giáp của Shield vào đòn cận chiến

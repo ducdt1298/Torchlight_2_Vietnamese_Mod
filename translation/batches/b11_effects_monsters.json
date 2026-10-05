@@ -1,0 +1,5994 @@
+{
+ "batch": "b11_effects_monsters",
+ "count": 998,
+ "items": [
+  {
+   "id": 4067,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDES",
+   "en": "+[VALUE] Pull"
+  },
+  {
+   "id": 4068,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDES",
+   "en": "+[VALUE] to Armor equipment requirements"
+  },
+  {
+   "id": 4069,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDES",
+   "en": "+[VALUE] to Spell learning requirements"
+  },
+  {
+   "id": 4070,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDES",
+   "en": "+[VALUE] to all item character stat requirements"
+  },
+  {
+   "id": 4071,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDES",
+   "en": "+[VALUE] to mage equipment requirements"
+  },
+  {
+   "id": 4072,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDES",
+   "en": "+[VALUE] to martial equipment requirements"
+  },
+  {
+   "id": 4073,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDES",
+   "en": "+[VALUE] to ranged equipment requirements"
+  },
+  {
+   "id": 4074,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDES",
+   "en": "+[VALUE]% [DMGTYPE] Damage Taken for each monster within [VALUE3]m"
+  },
+  {
+   "id": 4075,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDES",
+   "en": "-[VALUE1ASDURATION] decreased summon duration"
+  },
+  {
+   "id": 4076,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDES",
+   "en": "-[VALUE] Armor"
+  },
+  {
+   "id": 4077,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDES",
+   "en": "-[VALUE] Bonus Magic Defense"
+  },
+  {
+   "id": 4078,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDES",
+   "en": "-[VALUE] Dexterity Attribute penalty"
+  },
+  {
+   "id": 4079,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDES",
+   "en": "-[VALUE] Electric Armor"
+  },
+  {
+   "id": 4080,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDES",
+   "en": "-[VALUE] Fire Armor"
+  },
+  {
+   "id": 4081,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDES",
+   "en": "-[VALUE] Focus Attribute bonus"
+  },
+  {
+   "id": 4082,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDES",
+   "en": "-[VALUE] Health"
+  },
+  {
+   "id": 4083,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDES",
+   "en": "-[VALUE] Health Steal"
+  },
+  {
+   "id": 4084,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDES",
+   "en": "-[VALUE] Health recovery per second"
+  },
+  {
+   "id": 4085,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDES",
+   "en": "-[VALUE] Health steal to master"
+  },
+  {
+   "id": 4086,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDES",
+   "en": "-[VALUE] Health/sec for every monster within [VALUE4] meters"
+  },
+  {
+   "id": 4087,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDES",
+   "en": "-[VALUE] Ice Armor"
+  },
+  {
+   "id": 4088,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDES",
+   "en": "-[VALUE] Jauntiness"
+  },
+  {
+   "id": 4089,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDES",
+   "en": "-[VALUE] Mana"
+  },
+  {
+   "id": 4090,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDES",
+   "en": "-[VALUE] Mana recovery"
+  },
+  {
+   "id": 4091,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDES",
+   "en": "-[VALUE] Mana steal"
+  },
+  {
+   "id": 4092,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDES",
+   "en": "-[VALUE] Mana/sec for every monster within [VALUE4] meters"
+  },
+  {
+   "id": 4093,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDES",
+   "en": "-[VALUE] Melee weapon damage penalty"
+  },
+  {
+   "id": 4094,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDES",
+   "en": "-[VALUE] Poison Armor"
+  },
+  {
+   "id": 4095,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDES",
+   "en": "-[VALUE] Resistance to Logic"
+  },
+  {
+   "id": 4096,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDES",
+   "en": "-[VALUE] Sight Bonus"
+  },
+  {
+   "id": 4097,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDES",
+   "en": "-[VALUE] Socks"
+  },
+  {
+   "id": 4098,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDES",
+   "en": "-[VALUE] Strength Attribute penalty"
+  },
+  {
+   "id": 4099,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDES",
+   "en": "-[VALUE] View Angle Bonus"
+  },
+  {
+   "id": 4100,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDES",
+   "en": "-[VALUE] Vitality Attribute penalty"
+  },
+  {
+   "id": 4101,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDES",
+   "en": "-[VALUE] [DMGTYPE] Damage"
+  },
+  {
+   "id": 4102,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDES",
+   "en": "-[VALUE] [DMGTYPE] Damage Reflected"
+  },
+  {
+   "id": 4103,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDES",
+   "en": "-[VALUE] ranged weapon damage penalty"
+  },
+  {
+   "id": 4104,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDES",
+   "en": "-[VALUE] rank to [NAME] skill"
+  },
+  {
+   "id": 4105,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDES",
+   "en": "-[VALUE] seconds of Burn/Shock/Freeze/Poison"
+  },
+  {
+   "id": 4106,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDES",
+   "en": "-[VALUE] seconds to Burn Duration"
+  },
+  {
+   "id": 4107,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDES",
+   "en": "-[VALUE] seconds to Freeze duration"
+  },
+  {
+   "id": 4108,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDES",
+   "en": "-[VALUE] seconds to Poison duration"
+  },
+  {
+   "id": 4109,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDES",
+   "en": "-[VALUE] seconds to Shock duration"
+  },
+  {
+   "id": 4110,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDES",
+   "en": "-[VALUE] to Attack Spell levels"
+  },
+  {
+   "id": 4111,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDES",
+   "en": "-[VALUE] to Charm Spell levels "
+  },
+  {
+   "id": 4112,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDES",
+   "en": "-[VALUE] to Defense Spell levels"
+  },
+  {
+   "id": 4113,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDES",
+   "en": "-[VALUE]% Damage Reflection"
+  },
+  {
+   "id": 4114,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDES",
+   "en": "-[VALUE]% Damage to secondary targets"
+  },
+  {
+   "id": 4115,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDES",
+   "en": "-[VALUE]% Dexterity penalty"
+  },
+  {
+   "id": 4116,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDES",
+   "en": "-[VALUE]% Dodge chance"
+  },
+  {
+   "id": 4117,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDES",
+   "en": "-[VALUE]% Focus bonus"
+  },
+  {
+   "id": 4118,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDES",
+   "en": "-[VALUE]% Health"
+  },
+  {
+   "id": 4119,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDES",
+   "en": "-[VALUE]% Health recovery"
+  },
+  {
+   "id": 4120,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDES",
+   "en": "-[VALUE]% Health stolen"
+  },
+  {
+   "id": 4121,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDES",
+   "en": "-[VALUE]% Health stolen to master"
+  },
+  {
+   "id": 4122,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDES",
+   "en": "-[VALUE]% Interrupt Resistance"
+  },
+  {
+   "id": 4123,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDES",
+   "en": "-[VALUE]% Interrupt chance"
+  },
+  {
+   "id": 4124,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDES",
+   "en": "-[VALUE]% Knock Back Resistance"
+  },
+  {
+   "id": 4125,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDES",
+   "en": "-[VALUE]% Mana"
+  },
+  {
+   "id": 4126,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDES",
+   "en": "-[VALUE]% Mana stolen"
+  },
+  {
+   "id": 4127,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDES",
+   "en": "-[VALUE]% Melee Weapon Damage"
+  },
+  {
+   "id": 4128,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDES",
+   "en": "-[VALUE]% Melee Weapon Damage penalty"
+  },
+  {
+   "id": 4129,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDES",
+   "en": "-[VALUE]% Potion effectiveness"
+  },
+  {
+   "id": 4130,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDES",
+   "en": "-[VALUE]% Ranged Weapon Damage"
+  },
+  {
+   "id": 4131,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDES",
+   "en": "-[VALUE]% Ranged Weapon Damage penalty"
+  },
+  {
+   "id": 4132,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDES",
+   "en": "-[VALUE]% Strength penalty"
+  },
+  {
+   "id": 4133,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDES",
+   "en": "-[VALUE]% Vitality penalty"
+  },
+  {
+   "id": 4134,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDES",
+   "en": "-[VALUE]% Wand and Staff Damage "
+  },
+  {
+   "id": 4135,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDES",
+   "en": "-[VALUE]% [DMGTYPE] Damage for each monster within [VALUE3]m"
+  },
+  {
+   "id": 4136,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDES",
+   "en": "-[VALUE]% chance to Burn"
+  },
+  {
+   "id": 4137,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDES",
+   "en": "-[VALUE]% chance to Execute"
+  },
+  {
+   "id": 4138,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDES",
+   "en": "-[VALUE]% chance to Freeze"
+  },
+  {
+   "id": 4139,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDES",
+   "en": "-[VALUE]% chance to Poison"
+  },
+  {
+   "id": 4140,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDES",
+   "en": "-[VALUE]% chance to Shock"
+  },
+  {
+   "id": 4141,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDES",
+   "en": "-[VALUE]% chance to Stun target"
+  },
+  {
+   "id": 4142,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDES",
+   "en": "-[VALUE]% chance to charm target for [DURATION]"
+  },
+  {
+   "id": 4143,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDES",
+   "en": "-[VALUE]% chance to reflect [VALUE3AND4]% of Missile Damage"
+  },
+  {
+   "id": 4144,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDES",
+   "en": "-[VALUE]% pet and minion Armor"
+  },
+  {
+   "id": 4145,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDES",
+   "en": "-[VALUE]% pet and minion Damage"
+  },
+  {
+   "id": 4146,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDES",
+   "en": "-[VALUE]% pet and minion Health"
+  },
+  {
+   "id": 4147,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDES",
+   "en": "-[VALUE]% pet and minion Speed"
+  },
+  {
+   "id": 4148,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDES",
+   "en": "-[VALUE]% to [DMGTYPE] Armor"
+  },
+  {
+   "id": 4149,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDES",
+   "en": "-[VALUE]% to skill mana cost"
+  },
+  {
+   "id": 4150,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDES",
+   "en": "-[VALUE]% |c00ff9933Charge|u lost per second due to decay"
+  },
+  {
+   "id": 4151,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDES",
+   "en": "-[VALUE]m to Bow, Crossbow, Pistol and Wand range"
+  },
+  {
+   "id": 4152,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDES",
+   "en": "-[VALUE_OT] [DMGTYPE] Damage"
+  },
+  {
+   "id": 4153,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDES",
+   "en": "All Armor reduced by [VALUE]"
+  },
+  {
+   "id": 4154,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDES",
+   "en": "All Armor reduced by [VALUE] per hit"
+  },
+  {
+   "id": 4155,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDES",
+   "en": "Attack Speed reduced by [VALUE]%"
+  },
+  {
+   "id": 4156,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDES",
+   "en": "Cast Speed reduced by [VALUE]%"
+  },
+  {
+   "id": 4157,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDES",
+   "en": "Consumes [VALUE]% |c00ff9933Charge|u"
+  },
+  {
+   "id": 4158,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDES",
+   "en": "Critical Hit Chance reduced by [VALUE]%"
+  },
+  {
+   "id": 4159,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDES",
+   "en": "Current [NAME] cooldown reduced by [VALUE] seconds"
+  },
+  {
+   "id": 4160,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDES",
+   "en": "Decreases charges in meter by [VALUE]"
+  },
+  {
+   "id": 4161,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDES",
+   "en": "Gold found is decreased by [VALUE]%"
+  },
+  {
+   "id": 4162,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDES",
+   "en": "Minions Deal -[VALUE_OT] [DMGTYPE] Damage"
+  },
+  {
+   "id": 4163,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDES",
+   "en": "Movement Speed reduced by [VALUE]%"
+  },
+  {
+   "id": 4164,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDES",
+   "en": "Only 1 of these can be active, highest priority on unit, then on shield, then default affix"
+  },
+  {
+   "id": 4165,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDES",
+   "en": "Permanently decreases Dexterity by [VALUE]"
+  },
+  {
+   "id": 4166,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDES",
+   "en": "Permanently decreases Focus by [VALUE]"
+  },
+  {
+   "id": 4167,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDES",
+   "en": "Permanently decreases Health by [VALUE]"
+  },
+  {
+   "id": 4168,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDES",
+   "en": "Permanently decreases Mana by [VALUE]"
+  },
+  {
+   "id": 4169,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDES",
+   "en": "Permanently decreases Strength by [VALUE]"
+  },
+  {
+   "id": 4170,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDES",
+   "en": "Permanently decreases Vitality by [VALUE]"
+  },
+  {
+   "id": 4171,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDES",
+   "en": "Removes [VALUE] Stat Point(s)"
+  },
+  {
+   "id": 4172,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDES",
+   "en": "Removes current cooldown on [NAME]"
+  },
+  {
+   "id": 4173,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDES",
+   "en": "Time until |c00ff9933Charge|u decay reduced by [VALUE] seconds"
+  },
+  {
+   "id": 4174,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDES",
+   "en": "Transformation time is decreased by [VALUE]%"
+  },
+  {
+   "id": 4175,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDES",
+   "en": "[DMGTYPE] Armor reduced by [VALUE]"
+  },
+  {
+   "id": 4176,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDES",
+   "en": "[DMGTYPE] Damage Taken increased by [VALUE]"
+  },
+  {
+   "id": 4177,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDES",
+   "en": "[DMGTYPE] Damage Taken is increased by [VALUE]% "
+  },
+  {
+   "id": 4178,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDES",
+   "en": "[DMGTYPE] Damage reduced by [VALUE]%"
+  },
+  {
+   "id": 4179,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDES",
+   "en": "[VALUE5]% chance to inflict -[VALUE] [DMGTYPE] Damage"
+  },
+  {
+   "id": 4180,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDES",
+   "en": "[VALUE] decreased Gold Drop"
+  },
+  {
+   "id": 4181,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDES",
+   "en": "[VALUE]% Damage penalty when dual-wielding"
+  },
+  {
+   "id": 4182,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDES",
+   "en": "[VALUE]% View Angle Reduction"
+  },
+  {
+   "id": 4183,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDES",
+   "en": "[VALUE]% decrease in magic-finding Luck"
+  },
+  {
+   "id": 4184,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDES",
+   "en": "[VALUE]% decrease in the amount of experience gained"
+  },
+  {
+   "id": 4185,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDES",
+   "en": "[VALUE]% decrease in the amount of fame gained"
+  },
+  {
+   "id": 4186,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDES",
+   "en": "[VALUE]% decreased Fishing Luck"
+  },
+  {
+   "id": 4187,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDES",
+   "en": "[VALUE]% increase in Fumble Chance"
+  },
+  {
+   "id": 4188,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDES",
+   "en": "[VALUE]% increase in Fumble Damage Penalty"
+  },
+  {
+   "id": 4189,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDES",
+   "en": "[VALUE]% increased level requirements"
+  },
+  {
+   "id": 4190,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDES",
+   "en": "[VALUE]% increased pet town travel time"
+  },
+  {
+   "id": 4191,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDES",
+   "en": "[VALUE]% penalty to Critical Damage"
+  },
+  {
+   "id": 4192,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDES",
+   "en": "[VALUE]% sight range reduction"
+  },
+  {
+   "id": 4193,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDES",
+   "en": "[VALUE]% |c00ff9933Charge|u rate penalty"
+  },
+  {
+   "id": 4194,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDES",
+   "en": "chance to Block reduced by [VALUE]%"
+  },
+  {
+   "id": 4195,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDES",
+   "en": "|cffff0000[VALUE] Health loss per second!|u"
+  },
+  {
+   "id": 4196,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDES",
+   "en": "|cffff0000[VALUE] Mana loss per second!|u"
+  },
+  {
+   "id": 4197,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDESOT",
+   "en": "+[VALUE] to Armor equipment requirements for [DURATION]"
+  },
+  {
+   "id": 4198,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDESOT",
+   "en": "+[VALUE] to Spell learning requirements for [DURATION]"
+  },
+  {
+   "id": 4199,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDESOT",
+   "en": "+[VALUE] to all item character stat requirements for [DURATION]"
+  },
+  {
+   "id": 4200,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDESOT",
+   "en": "+[VALUE] to mage equipment requirements for [DURATION]"
+  },
+  {
+   "id": 4201,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDESOT",
+   "en": "+[VALUE] to martial equipment requirements for [DURATION]"
+  },
+  {
+   "id": 4202,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDESOT",
+   "en": "+[VALUE] to ranged equipment requirements for [DURATION]"
+  },
+  {
+   "id": 4203,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDESOT",
+   "en": "-[VALUE] Armor for [DURATION]"
+  },
+  {
+   "id": 4204,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDESOT",
+   "en": "-[VALUE] Bonus Magic Defense for [DURATION]"
+  },
+  {
+   "id": 4205,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDESOT",
+   "en": "-[VALUE] Damage to secondary targets for [DURATION]"
+  },
+  {
+   "id": 4206,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDESOT",
+   "en": "-[VALUE] Dexterity Attribute penalty for [DURATION]"
+  },
+  {
+   "id": 4207,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDESOT",
+   "en": "-[VALUE] Electric Armor for [DURATION]"
+  },
+  {
+   "id": 4208,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDESOT",
+   "en": "-[VALUE] Fire Armor for [DURATION]"
+  },
+  {
+   "id": 4209,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDESOT",
+   "en": "-[VALUE] Focus Attribute bonus for [DURATION]"
+  },
+  {
+   "id": 4210,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDESOT",
+   "en": "-[VALUE] Health Steal for [DURATION]"
+  },
+  {
+   "id": 4211,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDESOT",
+   "en": "-[VALUE] Health for [DURATION]"
+  },
+  {
+   "id": 4212,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDESOT",
+   "en": "-[VALUE] Health recovery over [DURATION]"
+  },
+  {
+   "id": 4213,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDESOT",
+   "en": "-[VALUE] Health steal to master for [DURATION]"
+  },
+  {
+   "id": 4214,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDESOT",
+   "en": "-[VALUE] Ice Armor for [DURATION]"
+  },
+  {
+   "id": 4215,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDESOT",
+   "en": "-[VALUE] Mana for [DURATION]"
+  },
+  {
+   "id": 4216,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDESOT",
+   "en": "-[VALUE] Mana recovery over [DURATION]"
+  },
+  {
+   "id": 4217,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDESOT",
+   "en": "-[VALUE] Mana steal for [DURATION]"
+  },
+  {
+   "id": 4218,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDESOT",
+   "en": "-[VALUE] Melee weapon damage penalty for [DURATION]"
+  },
+  {
+   "id": 4219,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDESOT",
+   "en": "-[VALUE] Poison Armor for [DURATION]"
+  },
+  {
+   "id": 4220,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDESOT",
+   "en": "-[VALUE] Strength Attribute penalty for [DURATION]"
+  },
+  {
+   "id": 4221,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDESOT",
+   "en": "-[VALUE] Vitality Attribute penalty for [DURATION]"
+  },
+  {
+   "id": 4222,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDESOT",
+   "en": "-[VALUE] [DMGTYPE] Damage Reflected for [DURATION]"
+  },
+  {
+   "id": 4223,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDESOT",
+   "en": "-[VALUE] ranged weapon damage penalty for [DURATION]"
+  },
+  {
+   "id": 4224,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDESOT",
+   "en": "-[VALUE] seconds of Burn/Shock/Freeze/Poison for [DURATION]"
+  },
+  {
+   "id": 4225,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDESOT",
+   "en": "-[VALUE] seconds to Burn Duration for [DURATION]"
+  },
+  {
+   "id": 4226,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDESOT",
+   "en": "-[VALUE] seconds to Freeze duration for [DURATION]"
+  },
+  {
+   "id": 4227,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDESOT",
+   "en": "-[VALUE] seconds to Poison duration for [DURATION]"
+  },
+  {
+   "id": 4228,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDESOT",
+   "en": "-[VALUE] seconds to Shock duration for [DURATION]"
+  },
+  {
+   "id": 4229,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDESOT",
+   "en": "-[VALUE] to Attack Spell levels for [DURATION]"
+  },
+  {
+   "id": 4230,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDESOT",
+   "en": "-[VALUE] to Charm Spell levels for [DURATION]"
+  },
+  {
+   "id": 4231,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDESOT",
+   "en": "-[VALUE] to Defense Spell levels for [DURATION]"
+  },
+  {
+   "id": 4232,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDESOT",
+   "en": "-[VALUE]% Damage Reflection for [DURATION]"
+  },
+  {
+   "id": 4233,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDESOT",
+   "en": "-[VALUE]% Dexterity penalty for [DURATION]"
+  },
+  {
+   "id": 4234,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDESOT",
+   "en": "-[VALUE]% Dodge chance for [DURATION]"
+  },
+  {
+   "id": 4235,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDESOT",
+   "en": "-[VALUE]% Focus bonus for [DURATION]"
+  },
+  {
+   "id": 4236,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDESOT",
+   "en": "-[VALUE]% Health for [DURATION]"
+  },
+  {
+   "id": 4237,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDESOT",
+   "en": "-[VALUE]% Health recovery over [DURATION]"
+  },
+  {
+   "id": 4238,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDESOT",
+   "en": "-[VALUE]% Health stolen for [DURATION]"
+  },
+  {
+   "id": 4239,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDESOT",
+   "en": "-[VALUE]% Health stolen to master for [DURATION]"
+  },
+  {
+   "id": 4240,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDESOT",
+   "en": "-[VALUE]% Interrupt chance for [DURATION]"
+  },
+  {
+   "id": 4241,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDESOT",
+   "en": "-[VALUE]% Knock Back Resistance for [DURATION]"
+  },
+  {
+   "id": 4242,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDESOT",
+   "en": "-[VALUE]% Mana for [DURATION]"
+  },
+  {
+   "id": 4243,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDESOT",
+   "en": "-[VALUE]% Mana stolen for [DURATION]"
+  },
+  {
+   "id": 4244,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDESOT",
+   "en": "-[VALUE]% Melee Weapon Damage for [DURATION]"
+  },
+  {
+   "id": 4245,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDESOT",
+   "en": "-[VALUE]% Melee Weapon Damage penalty for [DURATION]"
+  },
+  {
+   "id": 4246,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDESOT",
+   "en": "-[VALUE]% Potion effectiveness for [DURATION]"
+  },
+  {
+   "id": 4247,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDESOT",
+   "en": "-[VALUE]% Ranged Weapon Damage for [DURATION]"
+  },
+  {
+   "id": 4248,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDESOT",
+   "en": "-[VALUE]% Ranged Weapon Damage penalty for [DURATION]"
+  },
+  {
+   "id": 4249,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDESOT",
+   "en": "-[VALUE]% Strength penalty for [DURATION]"
+  },
+  {
+   "id": 4250,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDESOT",
+   "en": "-[VALUE]% Vitality penalty for [DURATION]"
+  },
+  {
+   "id": 4251,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDESOT",
+   "en": "-[VALUE]% Wand and Staff Damage for [DURATION]"
+  },
+  {
+   "id": 4252,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDESOT",
+   "en": "-[VALUE]% chance to Burn for [DURATION]"
+  },
+  {
+   "id": 4253,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDESOT",
+   "en": "-[VALUE]% chance to Freeze for [DURATION]"
+  },
+  {
+   "id": 4254,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDESOT",
+   "en": "-[VALUE]% chance to Poison for [DURATION]"
+  },
+  {
+   "id": 4255,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDESOT",
+   "en": "-[VALUE]% chance to Shock for [DURATION]"
+  },
+  {
+   "id": 4256,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDESOT",
+   "en": "-[VALUE]% chance to Stun target for [DURATION]"
+  },
+  {
+   "id": 4257,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDESOT",
+   "en": "-[VALUE]% chance to reflect [VALUE3AND4]% of Missile Damage\\n     for [DURATION]"
+  },
+  {
+   "id": 4258,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDESOT",
+   "en": "-[VALUE]% pet and minion Armor for [DURATION]"
+  },
+  {
+   "id": 4259,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDESOT",
+   "en": "-[VALUE]% pet and minion Damage for [DURATION]"
+  },
+  {
+   "id": 4260,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDESOT",
+   "en": "-[VALUE]% pet and minion Health for [DURATION]"
+  },
+  {
+   "id": 4261,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDESOT",
+   "en": "-[VALUE]% pet and minion Speed for [DURATION]"
+  },
+  {
+   "id": 4262,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDESOT",
+   "en": "-[VALUE]% to [DMGTYPE] Armor for [DURATION]"
+  },
+  {
+   "id": 4263,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDESOT",
+   "en": "-[VALUE]% to skill mana cost for [DURATION]"
+  },
+  {
+   "id": 4264,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDESOT",
+   "en": "-[VALUE]% |c00ff9933Charge|u lost per second due to decay during the next [DURATION]"
+  },
+  {
+   "id": 4265,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDESOT",
+   "en": "-[VALUE]m to Bow, Crossbow, Pistol and Wand range for [DURATION]"
+  },
+  {
+   "id": 4266,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDESOT",
+   "en": "-[VALUE_OT] [DMGTYPE] Damage over [DURATION]"
+  },
+  {
+   "id": 4267,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDESOT",
+   "en": "All Armor reduced by [VALUE] for [DURATION]"
+  },
+  {
+   "id": 4268,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDESOT",
+   "en": "All Armor reduced by [VALUE] per hit for [DURATION]"
+  },
+  {
+   "id": 4269,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDESOT",
+   "en": "Attack Speed reduced by [VALUE]% for [DURATION]"
+  },
+  {
+   "id": 4270,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDESOT",
+   "en": "Cast Speed reduced by [VALUE]% for [DURATION]"
+  },
+  {
+   "id": 4271,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDESOT",
+   "en": "Consumes [VALUE]% |c00ff9933Charge|u per second over [DURATION]"
+  },
+  {
+   "id": 4272,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDESOT",
+   "en": "Critical Hit Chance reduced by [VALUE]% for [DURATION]"
+  },
+  {
+   "id": 4273,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDESOT",
+   "en": "Decreases charges in meter by [VALUE] for [DURATION]"
+  },
+  {
+   "id": 4274,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDESOT",
+   "en": "Default: Converts all Charge Percent to stat"
+  },
+  {
+   "id": 4275,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDESOT",
+   "en": "Default: Converts all charge to stat."
+  },
+  {
+   "id": 4276,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDESOT",
+   "en": "Gold found is decreased by [VALUE]% for [DURATION]"
+  },
+  {
+   "id": 4277,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDESOT",
+   "en": "Learn [NAME] "
+  },
+  {
+   "id": 4278,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDESOT",
+   "en": "Minions Deal -[VALUE_OT] [DMGTYPE] Damage over [DURATION]"
+  },
+  {
+   "id": 4279,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDESOT",
+   "en": "Movement Speed reduced by [VALUE]% for [DURATION]"
+  },
+  {
+   "id": 4280,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDESOT",
+   "en": "Time until |c00ff9933Charge|u decay reduced by [VALUE] seconds for [DURATION]"
+  },
+  {
+   "id": 4281,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDESOT",
+   "en": "Transformation time is decreased by [VALUE]% for [DURATION]."
+  },
+  {
+   "id": 4282,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDESOT",
+   "en": "[DMGTYPE] Armor reduced by [VALUE] for [DURATION]"
+  },
+  {
+   "id": 4283,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDESOT",
+   "en": "[DMGTYPE] Damage Taken increased by [VALUE] for [DURATION]"
+  },
+  {
+   "id": 4284,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDESOT",
+   "en": "[DMGTYPE] Damage Taken is increased by [VALUE]% for [DURATION]"
+  },
+  {
+   "id": 4285,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDESOT",
+   "en": "[DMGTYPE] Damage reduced by [VALUE]% for [DURATION]"
+  },
+  {
+   "id": 4286,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDESOT",
+   "en": "[VALUE5]% chance to inflict -[VALUE_OT] [DMGTYPE] Damage over [DURATION]"
+  },
+  {
+   "id": 4287,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDESOT",
+   "en": "[VALUE] decreased Gold Drop for [DURATION]"
+  },
+  {
+   "id": 4288,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDESOT",
+   "en": "[VALUE]% Sight Reduction for [DURATION]"
+  },
+  {
+   "id": 4289,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDESOT",
+   "en": "[VALUE]% View Angle Reduction for [DURATION]"
+  },
+  {
+   "id": 4290,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDESOT",
+   "en": "[VALUE]% chance to disarm traps for [DURATION]."
+  },
+  {
+   "id": 4291,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDESOT",
+   "en": "[VALUE]% decrease in magic-finding Luck for [DURATION]"
+  },
+  {
+   "id": 4292,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDESOT",
+   "en": "[VALUE]% decrease in the amount of experience gained [DURATION]"
+  },
+  {
+   "id": 4293,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDESOT",
+   "en": "[VALUE]% decrease in the amount of fame gained for [DURATION]"
+  },
+  {
+   "id": 4294,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDESOT",
+   "en": "[VALUE]% decreased Fishing Luck for [DURATION]"
+  },
+  {
+   "id": 4295,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDESOT",
+   "en": "[VALUE]% increase in Fumble Chance for [DURATION]"
+  },
+  {
+   "id": 4296,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDESOT",
+   "en": "[VALUE]% increase in Fumble Damage Penalty for [DURATION]"
+  },
+  {
+   "id": 4297,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDESOT",
+   "en": "[VALUE]% increased level requirements for [DURATION]"
+  },
+  {
+   "id": 4298,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDESOT",
+   "en": "[VALUE]% increased pet town travel time for [DURATION]"
+  },
+  {
+   "id": 4299,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDESOT",
+   "en": "[VALUE]% penalty to Critical Damage for [DURATION]"
+  },
+  {
+   "id": 4300,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDESOT",
+   "en": "[VALUE]% |c00ff9933Charge|u rate penalty for [DURATION]"
+  },
+  {
+   "id": 4301,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDESOT",
+   "en": "chance to Block reduced by [VALUE]% for [DURATION]"
+  },
+  {
+   "id": 4302,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDESOT",
+   "en": "|cffff0000[VALUE] Health loss over [DURATION]|u"
+  },
+  {
+   "id": 4303,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | BADDESOT",
+   "en": "|cffff0000[VALUE] Mana loss over [DURATION]|u"
+  },
+  {
+   "id": 4304,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "% Attack Rating Bonus"
+  },
+  {
+   "id": 4305,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "+[VALUE] Armor"
+  },
+  {
+   "id": 4306,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "+[VALUE] Bonus Magic Defense"
+  },
+  {
+   "id": 4307,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "+[VALUE] Dexterity Attribute bonus"
+  },
+  {
+   "id": 4308,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "+[VALUE] Electric Armor"
+  },
+  {
+   "id": 4309,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "+[VALUE] Fire Armor"
+  },
+  {
+   "id": 4310,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "+[VALUE] Focus Attribute bonus"
+  },
+  {
+   "id": 4311,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "+[VALUE] Health"
+  },
+  {
+   "id": 4312,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "+[VALUE] Health/sec for every monster within [VALUE4] meters"
+  },
+  {
+   "id": 4313,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "+[VALUE] Ice Armor"
+  },
+  {
+   "id": 4314,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "+[VALUE] Jauntiness"
+  },
+  {
+   "id": 4315,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "+[VALUE] Knockback"
+  },
+  {
+   "id": 4316,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "+[VALUE] Mana"
+  },
+  {
+   "id": 4317,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "+[VALUE] Mana/sec for every monster within [VALUE4] meters"
+  },
+  {
+   "id": 4318,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "+[VALUE] Melee weapon damage bonus"
+  },
+  {
+   "id": 4319,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "+[VALUE] Poison Armor"
+  },
+  {
+   "id": 4320,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "+[VALUE] Resistance to Logic"
+  },
+  {
+   "id": 4321,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "+[VALUE] Sight Bonus"
+  },
+  {
+   "id": 4322,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "+[VALUE] Strength Attribute bonus"
+  },
+  {
+   "id": 4323,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "+[VALUE] View Angle Bonus"
+  },
+  {
+   "id": 4324,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "+[VALUE] Vitality Attribute bonus"
+  },
+  {
+   "id": 4325,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "+[VALUE] [DMGTYPE] Damage"
+  },
+  {
+   "id": 4326,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "+[VALUE] increased Gold Drop"
+  },
+  {
+   "id": 4327,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "+[VALUE] ranged weapon damage bonus"
+  },
+  {
+   "id": 4328,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "+[VALUE] rank to [NAME] skill"
+  },
+  {
+   "id": 4329,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "+[VALUE] seconds of Burn/Shock/Freeze/Poison"
+  },
+  {
+   "id": 4330,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "+[VALUE] seconds to Burn Duration"
+  },
+  {
+   "id": 4331,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "+[VALUE] seconds to Freeze duration"
+  },
+  {
+   "id": 4332,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "+[VALUE] seconds to Poison duration"
+  },
+  {
+   "id": 4333,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "+[VALUE] seconds to Shock duration"
+  },
+  {
+   "id": 4334,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "+[VALUE] to All Armor"
+  },
+  {
+   "id": 4335,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "+[VALUE] to Attack Spell levels"
+  },
+  {
+   "id": 4336,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "+[VALUE] to Charm Spell levels"
+  },
+  {
+   "id": 4337,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "+[VALUE] to Defense Spell levels"
+  },
+  {
+   "id": 4338,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "+[VALUE] to [DMGTYPE] Armor"
+  },
+  {
+   "id": 4339,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "+[VALUE]% Attack Speed"
+  },
+  {
+   "id": 4340,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "+[VALUE]% Cast Speed"
+  },
+  {
+   "id": 4341,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "+[VALUE]% Critical Hit Chance"
+  },
+  {
+   "id": 4342,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "+[VALUE]% Damage to secondary targets"
+  },
+  {
+   "id": 4343,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "+[VALUE]% Dexterity bonus"
+  },
+  {
+   "id": 4344,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "+[VALUE]% Dodge chance"
+  },
+  {
+   "id": 4345,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "+[VALUE]% Focus bonus"
+  },
+  {
+   "id": 4346,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "+[VALUE]% Health"
+  },
+  {
+   "id": 4347,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "+[VALUE]% Interrupt Resistance"
+  },
+  {
+   "id": 4348,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "+[VALUE]% Interrupt chance"
+  },
+  {
+   "id": 4349,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "+[VALUE]% Mana"
+  },
+  {
+   "id": 4350,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "+[VALUE]% Melee Weapon Damage"
+  },
+  {
+   "id": 4351,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "+[VALUE]% Melee Weapon Damage bonus"
+  },
+  {
+   "id": 4352,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "+[VALUE]% Potion effectiveness"
+  },
+  {
+   "id": 4353,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "+[VALUE]% Ranged Weapon Damage"
+  },
+  {
+   "id": 4354,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "+[VALUE]% Ranged Weapon Damage bonus"
+  },
+  {
+   "id": 4355,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "+[VALUE]% Strength bonus"
+  },
+  {
+   "id": 4356,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "+[VALUE]% Vitality bonus"
+  },
+  {
+   "id": 4357,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "+[VALUE]% Wand and Staff Damage bonus"
+  },
+  {
+   "id": 4358,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "+[VALUE]% [DMGTYPE] Damage for each monster within [VALUE3]m"
+  },
+  {
+   "id": 4359,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "+[VALUE]% chance to Block"
+  },
+  {
+   "id": 4360,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "+[VALUE]% chance to Execute"
+  },
+  {
+   "id": 4361,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "+[VALUE]% pet and minion Armor"
+  },
+  {
+   "id": 4362,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "+[VALUE]% pet and minion Damage"
+  },
+  {
+   "id": 4363,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "+[VALUE]% pet and minion Health"
+  },
+  {
+   "id": 4364,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "+[VALUE]% pet and minion Speed"
+  },
+  {
+   "id": 4365,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "+[VALUE]% to [DMGTYPE] Armor"
+  },
+  {
+   "id": 4366,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "+[VALUE]% to [DMGTYPE] Damage"
+  },
+  {
+   "id": 4367,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "+[VALUE]% to skill mana cost"
+  },
+  {
+   "id": 4368,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "+[VALUE]% |c00ff9933Charge|u lost per second due to decay"
+  },
+  {
+   "id": 4369,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "+[VALUE]m to Bow, Crossbow, Pistol and Wand range"
+  },
+  {
+   "id": 4370,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "-[VALUE] to All Armor per hit"
+  },
+  {
+   "id": 4371,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "-[VALUE] to Armor equipment requirements"
+  },
+  {
+   "id": 4372,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "-[VALUE] to Spell learning requirements"
+  },
+  {
+   "id": 4373,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "-[VALUE] to all item character stat requirements"
+  },
+  {
+   "id": 4374,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "-[VALUE] to mage equipment requirements"
+  },
+  {
+   "id": 4375,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "-[VALUE] to martial equipment requirements"
+  },
+  {
+   "id": 4376,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "-[VALUE] to ranged equipment requirements"
+  },
+  {
+   "id": 4377,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "-[VALUE]% [DMGTYPE] Damage Taken for each monster within [VALUE3]m"
+  },
+  {
+   "id": 4378,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "Awards [VALUE] Stat Point(s)"
+  },
+  {
+   "id": 4379,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "Create Waypoint Portal"
+  },
+  {
+   "id": 4380,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "Current [NAME] cooldown incerased by [VALUE] seconds"
+  },
+  {
+   "id": 4381,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "Desummon a [NAME]"
+  },
+  {
+   "id": 4382,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "Disenchant items into gold or a chance for a rare gem"
+  },
+  {
+   "id": 4383,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "Explosion On Death"
+  },
+  {
+   "id": 4384,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "Fades Unit Out"
+  },
+  {
+   "id": 4385,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "Generates [VALUE]% |c00ff9933Charge|u"
+  },
+  {
+   "id": 4386,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "Increases charges in meter by [VALUE]"
+  },
+  {
+   "id": 4387,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "Kills unit immediately"
+  },
+  {
+   "id": 4388,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "Learn [NAME]"
+  },
+  {
+   "id": 4389,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "Minions Deal [VALUE] [DMGTYPE] Damage"
+  },
+  {
+   "id": 4390,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "NA"
+  },
+  {
+   "id": 4391,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "Permanently increases Dexterity by [VALUE]"
+  },
+  {
+   "id": 4392,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "Permanently increases Focus by [VALUE]"
+  },
+  {
+   "id": 4393,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "Permanently increases Health by [VALUE]"
+  },
+  {
+   "id": 4394,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "Permanently increases Mana by [VALUE]"
+  },
+  {
+   "id": 4395,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "Permanently increases Strength by [VALUE]"
+  },
+  {
+   "id": 4396,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "Permanently increases Vitality by [VALUE]"
+  },
+  {
+   "id": 4397,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "Pulls target closer"
+  },
+  {
+   "id": 4398,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "Refund all Skill Points"
+  },
+  {
+   "id": 4399,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "Set current [NAME] cooldown to [VALUE] seconds"
+  },
+  {
+   "id": 4400,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "Sets unit visible"
+  },
+  {
+   "id": 4401,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "Swaps pos with pet"
+  },
+  {
+   "id": 4402,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "Target Locked"
+  },
+  {
+   "id": 4403,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "Time until |c00ff9933Charge|u decay increased by [VALUE] seconds"
+  },
+  {
+   "id": 4404,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "Transform into a [NAME] for [VALUE1ASDURATION]"
+  },
+  {
+   "id": 4405,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "Transform into a [NAME] permanently"
+  },
+  {
+   "id": 4406,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "Transformation time is increased by [VALUE]%"
+  },
+  {
+   "id": 4407,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "Warps to a specific dungeon"
+  },
+  {
+   "id": 4408,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "[DMGTYPE] Damage Taken is reduced by [VALUE]% "
+  },
+  {
+   "id": 4409,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "[DMGTYPE] Damage Taken reduced by [VALUE]"
+  },
+  {
+   "id": 4410,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "[VALUE1ASDURATION] summon duration"
+  },
+  {
+   "id": 4411,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "[VALUE1]% chance to teleport target [VALUE3]-[VALUE4] yards away"
+  },
+  {
+   "id": 4412,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "[VALUE3]% chance of [VALUE]% Blindness"
+  },
+  {
+   "id": 4413,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "[VALUE3]% chance to spawn [VALUE1] units"
+  },
+  {
+   "id": 4414,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "[VALUE3]% chance to spawn [VALUE1] units on death"
+  },
+  {
+   "id": 4415,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "[VALUE5]% chance to inflict +[VALUE] [DMGTYPE] Damage"
+  },
+  {
+   "id": 4416,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "[VALUE] Emotional Damage"
+  },
+  {
+   "id": 4417,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "[VALUE] Futuristicness"
+  },
+  {
+   "id": 4418,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "[VALUE] Health recovery per second"
+  },
+  {
+   "id": 4419,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "[VALUE] Health steal to master on Hit"
+  },
+  {
+   "id": 4420,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "[VALUE] Health stolen on hit"
+  },
+  {
+   "id": 4421,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "[VALUE] Mana recovery"
+  },
+  {
+   "id": 4422,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "[VALUE] Mana recovery per second"
+  },
+  {
+   "id": 4423,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "[VALUE] Mana stolen on hit"
+  },
+  {
+   "id": 4424,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "[VALUE] Noodle Arms"
+  },
+  {
+   "id": 4425,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "[VALUE] Socks"
+  },
+  {
+   "id": 4426,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "[VALUE] [DMGTYPE] Damage Reflected"
+  },
+  {
+   "id": 4427,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "[VALUE] points of [DMGTYPE] Damage Absorption"
+  },
+  {
+   "id": 4428,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "[VALUE]% Chance to Stop [NAME]"
+  },
+  {
+   "id": 4429,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "[VALUE]% Damage bonus when dual-wielding"
+  },
+  {
+   "id": 4430,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "[VALUE]% Damage reflected back on attacker"
+  },
+  {
+   "id": 4431,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "[VALUE]% Health recovery"
+  },
+  {
+   "id": 4432,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "[VALUE]% Health stolen"
+  },
+  {
+   "id": 4433,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "[VALUE]% Health stolen to master"
+  },
+  {
+   "id": 4434,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "[VALUE]% Immobilization Resistance"
+  },
+  {
+   "id": 4435,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "[VALUE]% Increased Chance to Miss"
+  },
+  {
+   "id": 4436,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "[VALUE]% Interrupt chance"
+  },
+  {
+   "id": 4437,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "[VALUE]% Knock Back Resistance"
+  },
+  {
+   "id": 4438,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "[VALUE]% Mana stolen"
+  },
+  {
+   "id": 4439,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "[VALUE]% Resistance to Charm"
+  },
+  {
+   "id": 4440,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "[VALUE]% Resistance to Flee"
+  },
+  {
+   "id": 4441,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "[VALUE]% Resistance to Silence"
+  },
+  {
+   "id": 4442,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "[VALUE]% Sight Bonus"
+  },
+  {
+   "id": 4443,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "[VALUE]% Slow Resistance"
+  },
+  {
+   "id": 4444,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "[VALUE]% Stun Resistance"
+  },
+  {
+   "id": 4445,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "[VALUE]% View Angle Bonus"
+  },
+  {
+   "id": 4446,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "[VALUE]% bonus to Critical Damage"
+  },
+  {
+   "id": 4447,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "[VALUE]% chance for owner to retarget unit in [VALUE2] meters"
+  },
+  {
+   "id": 4448,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "[VALUE]% chance of Blindness"
+  },
+  {
+   "id": 4449,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "[VALUE]% chance on kill to [NAME]"
+  },
+  {
+   "id": 4450,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "[VALUE]% chance that target Flees for [DURATION]"
+  },
+  {
+   "id": 4451,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "[VALUE]% chance to Block"
+  },
+  {
+   "id": 4452,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "[VALUE]% chance to Burn"
+  },
+  {
+   "id": 4453,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "[VALUE]% chance to Freeze"
+  },
+  {
+   "id": 4454,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "[VALUE]% chance to Poison"
+  },
+  {
+   "id": 4455,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "[VALUE]% chance to Shock"
+  },
+  {
+   "id": 4456,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "[VALUE]% chance to Stun target"
+  },
+  {
+   "id": 4457,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "[VALUE]% chance to agro monsters [VALUE2] meters away"
+  },
+  {
+   "id": 4458,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "[VALUE]% chance to break enemy shields"
+  },
+  {
+   "id": 4459,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "[VALUE]% chance to cast [NAME]"
+  },
+  {
+   "id": 4460,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "[VALUE]% chance to cast [NAME] "
+  },
+  {
+   "id": 4461,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "[VALUE]% chance to cast [NAME] at target"
+  },
+  {
+   "id": 4462,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "[VALUE]% chance to cast [NAME] from target"
+  },
+  {
+   "id": 4463,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "[VALUE]% chance to cast [NAME] on death"
+  },
+  {
+   "id": 4464,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "[VALUE]% chance to cast [NAME] on kill"
+  },
+  {
+   "id": 4465,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "[VALUE]% chance to cast [NAME] on strike"
+  },
+  {
+   "id": 4466,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "[VALUE]% chance to cast [NAME] on target"
+  },
+  {
+   "id": 4467,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "[VALUE]% chance to cast [NAME] when you get hit"
+  },
+  {
+   "id": 4468,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "[VALUE]% chance to charm target for [DURATION]"
+  },
+  {
+   "id": 4469,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "[VALUE]% chance to disarm traps"
+  },
+  {
+   "id": 4470,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "[VALUE]% chance to immobilize Target"
+  },
+  {
+   "id": 4471,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "[VALUE]% chance to reflect missiles at [VALUE3AND4]% weapon DPS"
+  },
+  {
+   "id": 4472,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "[VALUE]% decreased pet town travel time"
+  },
+  {
+   "id": 4473,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "[VALUE]% faster movement speed"
+  },
+  {
+   "id": 4474,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "[VALUE]% improvement in vendor prices"
+  },
+  {
+   "id": 4475,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "[VALUE]% increase in magic-finding Luck"
+  },
+  {
+   "id": 4476,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "[VALUE]% increase in the amount of experience gained"
+  },
+  {
+   "id": 4477,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "[VALUE]% increase in the amount of fame gained"
+  },
+  {
+   "id": 4478,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "[VALUE]% increase in the amount of gold found"
+  },
+  {
+   "id": 4479,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "[VALUE]% increased Fishing Luck"
+  },
+  {
+   "id": 4480,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "[VALUE]% reduced item level requirements"
+  },
+  {
+   "id": 4481,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "[VALUE]% reduction in Fumble Chance"
+  },
+  {
+   "id": 4482,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "[VALUE]% reduction in Fumble Damage Penalty"
+  },
+  {
+   "id": 4483,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "[VALUE]% resistance to Blindness"
+  },
+  {
+   "id": 4484,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "[VALUE]% resistance to Teleportation"
+  },
+  {
+   "id": 4485,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "|c00ff9933Charge|u decay rate decreased by [VALUE]%"
+  },
+  {
+   "id": 4486,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "|c00ff9933Charge|u rate increased by [VALUE]%"
+  },
+  {
+   "id": 4487,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDES",
+   "en": "|cFFFF0000CHEATED ITEM|u"
+  },
+  {
+   "id": 4488,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDESOT",
+   "en": "(setting HP overrides HP%) Only use this effect on shields!"
+  },
+  {
+   "id": 4489,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDESOT",
+   "en": "+[VALUE] Armor for [DURATION]"
+  },
+  {
+   "id": 4490,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDESOT",
+   "en": "+[VALUE] Bonus Magic Defense for [DURATION]"
+  },
+  {
+   "id": 4491,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDESOT",
+   "en": "+[VALUE] Damage to secondary targets for [DURATION]"
+  },
+  {
+   "id": 4492,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDESOT",
+   "en": "+[VALUE] Dexterity Attribute bonus for [DURATION]"
+  },
+  {
+   "id": 4493,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDESOT",
+   "en": "+[VALUE] Electric Armor for [DURATION]"
+  },
+  {
+   "id": 4494,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDESOT",
+   "en": "+[VALUE] Fire Armor for [DURATION]"
+  },
+  {
+   "id": 4495,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDESOT",
+   "en": "+[VALUE] Focus Attribute bonus for [DURATION]"
+  },
+  {
+   "id": 4496,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDESOT",
+   "en": "+[VALUE] Health for [DURATION]"
+  },
+  {
+   "id": 4497,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDESOT",
+   "en": "+[VALUE] Ice Armor for [DURATION]"
+  },
+  {
+   "id": 4498,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDESOT",
+   "en": "+[VALUE] Mana for [DURATION]"
+  },
+  {
+   "id": 4499,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDESOT",
+   "en": "+[VALUE] Melee weapon damage bonus for [DURATION]"
+  },
+  {
+   "id": 4500,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDESOT",
+   "en": "+[VALUE] Poison Armor for [DURATION]"
+  },
+  {
+   "id": 4501,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDESOT",
+   "en": "+[VALUE] Strength Attribute bonus for [DURATION]"
+  },
+  {
+   "id": 4502,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDESOT",
+   "en": "+[VALUE] Vitality Attribute bonus for [DURATION]"
+  },
+  {
+   "id": 4503,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDESOT",
+   "en": "+[VALUE] increased Gold Drop for [DURATION]"
+  },
+  {
+   "id": 4504,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDESOT",
+   "en": "+[VALUE] ranged equipment requirements for [DURATION]"
+  },
+  {
+   "id": 4505,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDESOT",
+   "en": "+[VALUE] seconds of Burn/Shock/Freeze/Poison for [DURATION]"
+  },
+  {
+   "id": 4506,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDESOT",
+   "en": "+[VALUE] seconds to Burn Duration for [DURATION]"
+  },
+  {
+   "id": 4507,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDESOT",
+   "en": "+[VALUE] seconds to Freeze duration for [DURATION]"
+  },
+  {
+   "id": 4508,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDESOT",
+   "en": "+[VALUE] seconds to Poison duration for [DURATION]"
+  },
+  {
+   "id": 4509,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDESOT",
+   "en": "+[VALUE] seconds to Shock duration for [DURATION]"
+  },
+  {
+   "id": 4510,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDESOT",
+   "en": "+[VALUE] to All Armor for [DURATION]"
+  },
+  {
+   "id": 4511,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDESOT",
+   "en": "+[VALUE] to Attack Spell levels for [DURATION]"
+  },
+  {
+   "id": 4512,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDESOT",
+   "en": "+[VALUE] to Charm Spell levels for [DURATION]"
+  },
+  {
+   "id": 4513,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDESOT",
+   "en": "+[VALUE] to Defense Spell levels for [DURATION]"
+  },
+  {
+   "id": 4514,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDESOT",
+   "en": "+[VALUE] to [DMGTYPE] Armor for [DURATION]"
+  },
+  {
+   "id": 4515,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDESOT",
+   "en": "+[VALUE]% Attack Speed for [DURATION]"
+  },
+  {
+   "id": 4516,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDESOT",
+   "en": "+[VALUE]% Cast Speed for [DURATION]"
+  },
+  {
+   "id": 4517,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDESOT",
+   "en": "+[VALUE]% Critical Hit Chance for [DURATION]"
+  },
+  {
+   "id": 4518,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDESOT",
+   "en": "+[VALUE]% Dexterity bonus for [DURATION]"
+  },
+  {
+   "id": 4519,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDESOT",
+   "en": "+[VALUE]% Dodge chance for [DURATION]"
+  },
+  {
+   "id": 4520,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDESOT",
+   "en": "+[VALUE]% Focus bonus for [DURATION]"
+  },
+  {
+   "id": 4521,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDESOT",
+   "en": "+[VALUE]% Health for [DURATION]"
+  },
+  {
+   "id": 4522,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDESOT",
+   "en": "+[VALUE]% Interrupt chance for [DURATION]"
+  },
+  {
+   "id": 4523,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDESOT",
+   "en": "+[VALUE]% Mana for [DURATION]"
+  },
+  {
+   "id": 4524,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDESOT",
+   "en": "+[VALUE]% Melee Weapon Damage bonus for [DURATION]"
+  },
+  {
+   "id": 4525,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDESOT",
+   "en": "+[VALUE]% Melee Weapon Damage for [DURATION]"
+  },
+  {
+   "id": 4526,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDESOT",
+   "en": "+[VALUE]% Potion effectiveness for [DURATION]"
+  },
+  {
+   "id": 4527,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDESOT",
+   "en": "+[VALUE]% Ranged Weapon Damage bonus for [DURATION]"
+  },
+  {
+   "id": 4528,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDESOT",
+   "en": "+[VALUE]% Ranged Weapon Damage for [DURATION]"
+  },
+  {
+   "id": 4529,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDESOT",
+   "en": "+[VALUE]% Strength bonus for [DURATION]"
+  },
+  {
+   "id": 4530,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDESOT",
+   "en": "+[VALUE]% Vitality bonus for [DURATION]"
+  },
+  {
+   "id": 4531,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDESOT",
+   "en": "+[VALUE]% Wand and Staff Damage for [DURATION]"
+  },
+  {
+   "id": 4532,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDESOT",
+   "en": "+[VALUE]% chance to Block for [DURATION]"
+  },
+  {
+   "id": 4533,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDESOT",
+   "en": "+[VALUE]% pet and minion Armor for [DURATION]"
+  },
+  {
+   "id": 4534,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDESOT",
+   "en": "+[VALUE]% pet and minion Damage for [DURATION]"
+  },
+  {
+   "id": 4535,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDESOT",
+   "en": "+[VALUE]% pet and minion Health for [DURATION]"
+  },
+  {
+   "id": 4536,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDESOT",
+   "en": "+[VALUE]% pet and minion Speed for [DURATION]"
+  },
+  {
+   "id": 4537,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDESOT",
+   "en": "+[VALUE]% to [DMGTYPE] Armor for [DURATION]"
+  },
+  {
+   "id": 4538,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDESOT",
+   "en": "+[VALUE]% to [DMGTYPE] Damage for [DURATION]"
+  },
+  {
+   "id": 4539,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDESOT",
+   "en": "+[VALUE]% to skill mana cost for [DURATION]"
+  },
+  {
+   "id": 4540,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDESOT",
+   "en": "+[VALUE]% |c00ff9933Charge|u lost per second due to decay during the next [DURATION]"
+  },
+  {
+   "id": 4541,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDESOT",
+   "en": "+[VALUE]m to Bow, Crossbow, Pistol and Wand range for [DURATION]"
+  },
+  {
+   "id": 4542,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDESOT",
+   "en": "-[VALUE] to All Armor per hit for [DURATION]"
+  },
+  {
+   "id": 4543,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDESOT",
+   "en": "-[VALUE] to Armor equipment requirements for [DURATION]"
+  },
+  {
+   "id": 4544,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDESOT",
+   "en": "-[VALUE] to Spell learning requirements for [DURATION]"
+  },
+  {
+   "id": 4545,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDESOT",
+   "en": "-[VALUE] to all item character stat requirements for [DURATION]"
+  },
+  {
+   "id": 4546,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDESOT",
+   "en": "-[VALUE] to mage equipment requirements for [DURATION]"
+  },
+  {
+   "id": 4547,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDESOT",
+   "en": "-[VALUE] to martial equipment requirements for [DURATION]"
+  },
+  {
+   "id": 4548,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDESOT",
+   "en": "-[VALUE] to ranged equipment requirements for [DURATION]"
+  },
+  {
+   "id": 4549,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDESOT",
+   "en": "Generates [VALUE]% |c00ff9933Charge|u per second over [DURATION]"
+  },
+  {
+   "id": 4550,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDESOT",
+   "en": "Increases charges in meter by [VALUE] for [DURATION]"
+  },
+  {
+   "id": 4551,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDESOT",
+   "en": "Minions Deal [VALUE_OT] [DMGTYPE] Damage over [DURATION]"
+  },
+  {
+   "id": 4552,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDESOT",
+   "en": "Silence for [DURATION]"
+  },
+  {
+   "id": 4553,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDESOT",
+   "en": "Swaps pos with pet in [VALUE] seconds"
+  },
+  {
+   "id": 4554,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDESOT",
+   "en": "Target Locked for [DURATION] seconds"
+  },
+  {
+   "id": 4555,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDESOT",
+   "en": "Time until |c00ff9933Charge|u decay increased by [VALUE] seconds for [DURATION]"
+  },
+  {
+   "id": 4556,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDESOT",
+   "en": "Transformation time is incresed by [VALUE]% for [DURATION]."
+  },
+  {
+   "id": 4557,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDESOT",
+   "en": "[DMGTYPE] Damage Taken is reduced by [VALUE]% for [DURATION]"
+  },
+  {
+   "id": 4558,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDESOT",
+   "en": "[DMGTYPE] Damage Taken reduced by [VALUE] for [DURATION]"
+  },
+  {
+   "id": 4559,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDESOT",
+   "en": "[VALUE3]% chance of [VALUE]% Blindness for [DURATION]"
+  },
+  {
+   "id": 4560,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDESOT",
+   "en": "[VALUE3]% chance to spawn [VALUE1] units on death over [DURATION]"
+  },
+  {
+   "id": 4561,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDESOT",
+   "en": "[VALUE3]% chance to spawn [VALUE1] units over [DURATION]"
+  },
+  {
+   "id": 4562,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDESOT",
+   "en": "[VALUE5]% chance to inflict [VALUE_OT] [DMGTYPE] Damage over [DURATION]"
+  },
+  {
+   "id": 4563,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDESOT",
+   "en": "[VALUE] Health recovery over [DURATION]"
+  },
+  {
+   "id": 4564,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDESOT",
+   "en": "[VALUE] Health steal to master on Hit for [DURATION]"
+  },
+  {
+   "id": 4565,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDESOT",
+   "en": "[VALUE] Health stolen on hit for [DURATION]"
+  },
+  {
+   "id": 4566,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDESOT",
+   "en": "[VALUE] Mana recovery over [DURATION]"
+  },
+  {
+   "id": 4567,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDESOT",
+   "en": "[VALUE] Mana stolen on hit for [DURATION]"
+  },
+  {
+   "id": 4568,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDESOT",
+   "en": "[VALUE] [DMGTYPE] Damage Reflected for [DURATION]"
+  },
+  {
+   "id": 4569,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDESOT",
+   "en": "[VALUE] points of [DMGTYPE] Damage Absorption for [DURATION]"
+  },
+  {
+   "id": 4570,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDESOT",
+   "en": "[VALUE]% Damage penalty when dual-wielding for [DURATION]"
+  },
+  {
+   "id": 4571,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDESOT",
+   "en": "[VALUE]% Damage reflected back on attacker for [DURATION]"
+  },
+  {
+   "id": 4572,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDESOT",
+   "en": "[VALUE]% Health recovery over [DURATION]"
+  },
+  {
+   "id": 4573,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDESOT",
+   "en": "[VALUE]% Health stolen for [DURATION]"
+  },
+  {
+   "id": 4574,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDESOT",
+   "en": "[VALUE]% Health stolen to master for [DURATION]"
+  },
+  {
+   "id": 4575,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDESOT",
+   "en": "[VALUE]% Immobilization Resistance for [DURATION]"
+  },
+  {
+   "id": 4576,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDESOT",
+   "en": "[VALUE]% Increased Chance to Miss for [DURATION]"
+  },
+  {
+   "id": 4577,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDESOT",
+   "en": "[VALUE]% Knock Back Resistance for [DURATION]"
+  },
+  {
+   "id": 4578,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDESOT",
+   "en": "[VALUE]% Mana stolen for [DURATION]"
+  },
+  {
+   "id": 4579,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDESOT",
+   "en": "[VALUE]% Sight Bonus for [DURATION]"
+  },
+  {
+   "id": 4580,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDESOT",
+   "en": "[VALUE]% Slow Resistance for [DURATION]"
+  },
+  {
+   "id": 4581,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDESOT",
+   "en": "[VALUE]% Stun Resistance for [DURATION]"
+  },
+  {
+   "id": 4582,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDESOT",
+   "en": "[VALUE]% View Angle Bonus for [DURATION]"
+  },
+  {
+   "id": 4583,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDESOT",
+   "en": "[VALUE]% bonus to Critical Damage for [DURATION]"
+  },
+  {
+   "id": 4584,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDESOT",
+   "en": "[VALUE]% chance for owner to retarget unit in [VALUE2] meters for [DURATION] seconds"
+  },
+  {
+   "id": 4585,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDESOT",
+   "en": "[VALUE]% chance of Blindness for [DURATION]"
+  },
+  {
+   "id": 4586,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDESOT",
+   "en": "[VALUE]% chance to Block for [DURATION]"
+  },
+  {
+   "id": 4587,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDESOT",
+   "en": "[VALUE]% chance to Burn for [DURATION]"
+  },
+  {
+   "id": 4588,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDESOT",
+   "en": "[VALUE]% chance to Freeze for [DURATION]"
+  },
+  {
+   "id": 4589,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDESOT",
+   "en": "[VALUE]% chance to Poison for [DURATION]"
+  },
+  {
+   "id": 4590,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDESOT",
+   "en": "[VALUE]% chance to Shock for [DURATION]"
+  },
+  {
+   "id": 4591,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDESOT",
+   "en": "[VALUE]% chance to Stun target for [DURATION]"
+  },
+  {
+   "id": 4592,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDESOT",
+   "en": "[VALUE]% chance to agro monsters [VALUE2] meters away for [DURATION]"
+  },
+  {
+   "id": 4593,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDESOT",
+   "en": "[VALUE]% chance to cast [NAME] at target for [DURATION]"
+  },
+  {
+   "id": 4594,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDESOT",
+   "en": "[VALUE]% chance to cast [NAME] for [DURATION]"
+  },
+  {
+   "id": 4595,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDESOT",
+   "en": "[VALUE]% chance to cast [NAME] from target for [DURATION]"
+  },
+  {
+   "id": 4596,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDESOT",
+   "en": "[VALUE]% chance to cast [NAME] on death for [DURATION]"
+  },
+  {
+   "id": 4597,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDESOT",
+   "en": "[VALUE]% chance to cast [NAME] on kill for [DURATION]"
+  },
+  {
+   "id": 4598,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDESOT",
+   "en": "[VALUE]% chance to cast [NAME] on strike for [DURATION]"
+  },
+  {
+   "id": 4599,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDESOT",
+   "en": "[VALUE]% chance to cast [NAME] on target for [DURATION]"
+  },
+  {
+   "id": 4600,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDESOT",
+   "en": "[VALUE]% chance to cast [NAME] when you get hit for [DURATION]"
+  },
+  {
+   "id": 4601,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDESOT",
+   "en": "[VALUE]% chance to disarm traps for [DURATION]"
+  },
+  {
+   "id": 4602,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDESOT",
+   "en": "[VALUE]% chance to immobilize Target for [DURATION]"
+  },
+  {
+   "id": 4603,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDESOT",
+   "en": "[VALUE]% chance to reflect missiles at [VALUE3AND4]% weapon DPS\\n     for [DURATION]"
+  },
+  {
+   "id": 4604,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDESOT",
+   "en": "[VALUE]% decreased pet town travel time for [DURATION]"
+  },
+  {
+   "id": 4605,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDESOT",
+   "en": "[VALUE]% faster movement speed for [DURATION]"
+  },
+  {
+   "id": 4606,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDESOT",
+   "en": "[VALUE]% improvement in vendor prices for [DURATION]"
+  },
+  {
+   "id": 4607,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDESOT",
+   "en": "[VALUE]% increase in magic-finding Luck for [DURATION]"
+  },
+  {
+   "id": 4608,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDESOT",
+   "en": "[VALUE]% increase in the amount of experience gained for [DURATION]"
+  },
+  {
+   "id": 4609,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDESOT",
+   "en": "[VALUE]% increase in the amount of fame gained for [DURATION]"
+  },
+  {
+   "id": 4610,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDESOT",
+   "en": "[VALUE]% increase in the amount of gold found for [DURATION]"
+  },
+  {
+   "id": 4611,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDESOT",
+   "en": "[VALUE]% increased Fishing Luck for [DURATION]"
+  },
+  {
+   "id": 4612,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDESOT",
+   "en": "[VALUE]% reduced item level requirements for [DURATION]"
+  },
+  {
+   "id": 4613,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDESOT",
+   "en": "[VALUE]% reduction in Fumble Chance for [DURATION]"
+  },
+  {
+   "id": 4614,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDESOT",
+   "en": "[VALUE]% reduction in Fumble Damage Penalty for [DURATION]"
+  },
+  {
+   "id": 4615,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDESOT",
+   "en": "[VALUE]% resistance to Blindness for [DURATION]"
+  },
+  {
+   "id": 4616,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDESOT",
+   "en": "[VALUE]% resistance to Teleportation for [DURATION]"
+  },
+  {
+   "id": 4617,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDESOT",
+   "en": "[VALUE_OT] [DMGTYPE] Damage over [DURATION]"
+  },
+  {
+   "id": 4618,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDESOT",
+   "en": "|c00ff9933Charge|u decay rate decreased by [VALUE]% for [DURATION]"
+  },
+  {
+   "id": 4619,
+   "mode": "translate",
+   "ctx": "EFFECTSLIST.DAT | EFFECT | GOODDESOT",
+   "en": "|c00ff9933Charge|u rate increased by [VALUE]% for [DURATION]"
+  },
+  {
+   "id": 4620,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/ARMADAX/ARMADAX.DAT | UNIT | DESCRIPTION",
+   "en": "Blocks Attacks until Plates are Destroyed"
+  },
+  {
+   "id": 4621,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/ARMADAX/ARMADAXCHAMP.DAT | UNIT | DESCRIPTION",
+   "en": "Champion Beast - Blocks Attacks until Plates are Destroyed"
+  },
+  {
+   "id": 4622,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/AUTOMATONS/AUTOMATON_GEN2.DAT | UNIT | DESCRIPTION",
+   "en": "Armored - Blocks Until Armor Is Destroyed"
+  },
+  {
+   "id": 4623,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/BANDITS/BANDIT_ASSASSIN.DAT | UNIT | DESCRIPTION",
+   "en": "Shadow Dash"
+  },
+  {
+   "id": 4624,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/BANDITS/BANDIT_CAMPBOSS.DAT | UNIT | DESCRIPTION",
+   "en": "Bandit Leader - Hurls Explosive Kegs"
+  },
+  {
+   "id": 4625,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/BANDITS/BANDIT_CAMPBOSS02.DAT | UNIT | DESCRIPTION",
+   "en": "Bandit Leader - Tosses Flame Flasks"
+  },
+  {
+   "id": 4626,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/BANDITS/BANDIT_MELEE.DAT | UNIT | DESCRIPTION",
+   "en": "Shield Blocks Damage"
+  },
+  {
+   "id": 4627,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/BANDITS/BANDIT_MELEE_GHOST.DAT | UNIT | DESCRIPTION",
+   "en": "Knockback Immune - Cannot Be Interrupted"
+  },
+  {
+   "id": 4628,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/BANDITS/GRAND_REGENT_ELDRAYN.DAT | UNIT | DESCRIPTION",
+   "en": "Estherian Leader"
+  },
+  {
+   "id": 4629,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/BANDITS/HEADLESSAXEMAN.DAT | UNIT | DESCRIPTION",
+   "en": "Hurls Woodaxes - Cannot Be Interrupted"
+  },
+  {
+   "id": 4630,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/BANDITS/SPECTRALHUNTSMAN.DAT | UNIT | DESCRIPTION",
+   "en": "Corpsefire Arrows - Knockback Immune - Cannot Be Interrupted"
+  },
+  {
+   "id": 4631,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/BASILISK/BASILISK.DAT | UNIT | DESCRIPTION",
+   "en": "Petrifying Gaze"
+  },
+  {
+   "id": 4632,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/BASILISK/BASILISK_CHAMP.DAT | UNIT | DESCRIPTION",
+   "en": "Champion Basilisk"
+  },
+  {
+   "id": 4633,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/BASILISK/BASILISK_CHAMP.DAT | UNIT | DESCRIPTION",
+   "en": "Champion Beast - Petrifying Gaze"
+  },
+  {
+   "id": 4634,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/BASILISK/SALAMANDER.DAT | UNIT | DESCRIPTION",
+   "en": "Breathes Pools of Flame - Fire Resistant"
+  },
+  {
+   "id": 4635,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/BLIGHTSLUG/BLIGHTMAGGOT.DAT | UNIT | DESCRIPTION",
+   "en": "Spits Noxious Saliva"
+  },
+  {
+   "id": 4636,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/BLIGHTSLUG/BLIGHTSLUG_SPAWNER.DAT | UNIT | DESCRIPTION",
+   "en": "Blight Slug Spawner"
+  },
+  {
+   "id": 4637,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/BLIGHTSLUG/BLIGHTSLUG_SWAMP.DAT | UNIT | DESCRIPTION",
+   "en": "Tongue Snare"
+  },
+  {
+   "id": 4638,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/BLIGHTSLUG/ROACHSPAWNER.DAT | UNIT | DESCRIPTION",
+   "en": "Spawns Roachlings"
+  },
+  {
+   "id": 4639,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/BLIGHTSLUG/SANDRATSPAWNER.DAT | UNIT | DESCRIPTION",
+   "en": "Spawns Sandrats"
+  },
+  {
+   "id": 4640,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/BONE_GOLEM/BONE_GOLEM.DAT | UNIT | DESCRIPTION",
+   "en": "Bone Cloud Summon"
+  },
+  {
+   "id": 4641,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/BONE_GOLEM/BONE_GOLEM_DRAGON.DAT | UNIT | DESCRIPTION",
+   "en": "Energy Blade"
+  },
+  {
+   "id": 4642,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/BONE_GOLEM/BONE_GOLEM_LUMINOUSARENA.DAT | UNIT | DESCRIPTION",
+   "en": "Mana Bolts - Sword Split"
+  },
+  {
+   "id": 4643,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/BOSSES/BOSS_ARTIFICER.DAT | UNIT | DESCRIPTION",
+   "en": "Ezrohir Architect - Claw Grab - Beam Attack - Seeking Bolts - Shock Attacks"
+  },
+  {
+   "id": 4644,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/BOSSES/BOSS_BLOATFANG.DAT | UNIT | DESCRIPTION",
+   "en": "Rush Attack - Vomit Attack - Leap Smash - Boulder Toss - Consumes Corpses"
+  },
+  {
+   "id": 4645,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/BOSSES/BOSS_DARK_ALCH.DAT | UNIT | DESCRIPTION",
+   "en": "Powerful Alchemical Magic - Teleportation - Crystal Sentry - Nether Imp Summon - Stasis Beam - Heartblast"
+  },
+  {
+   "id": 4646,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/BOSSES/BOSS_DARK_ALCHPHASE1.DAT | UNIT | DESCRIPTION",
+   "en": "Powerful Alchemical Magic - Teleportation - Crystal Sentry"
+  },
+  {
+   "id": 4647,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/BOSSES/BOSS_DARK_ALCHPHASE2.DAT | UNIT | DESCRIPTION",
+   "en": "Powerful Alchemical Magic - Teleportation - Crystal Sentry - Nether Imp Summon - Stasis Beam"
+  },
+  {
+   "id": 4648,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/BOSSES/BOSS_DJINN.DAT | UNIT | DESCRIPTION",
+   "en": "Casts Powerful Spells - Teleportation - Summons Mirror Images"
+  },
+  {
+   "id": 4649,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/BOSSES/BOSS_DJINN_BIG.DAT | UNIT | DESCRIPTION",
+   "en": "\\n"
+  },
+  {
+   "id": 4650,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/BOSSES/BOSS_DJINN_PHASE1.DAT | UNIT | DESCRIPTION",
+   "en": "Casts Powerful Spells - Teleportation"
+  },
+  {
+   "id": 4651,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/BOSSES/BOSS_DJINN_SMALLER.DAT | UNIT | DESCRIPTION",
+   "en": "Casts Powerful Spells"
+  },
+  {
+   "id": 4652,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/BOSSES/BOSS_DRAGON.DAT | UNIT | DESCRIPTION",
+   "en": "Flame Jets - Leap Attack - Tail Swipe - Dive Smash - Wing Attack"
+  },
+  {
+   "id": 4653,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/BOSSES/BOSS_DRAGON_SPIRIT.DAT | UNIT | DESCRIPTION",
+   "en": "Acid Breath - Bone Cage - Bone Spikes - Smash Attacks"
+  },
+  {
+   "id": 4654,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/BOSSES/BOSS_FACELESS_KING.DAT | UNIT | DESCRIPTION",
+   "en": "Combined Mask Abilities - Stasis Beams - Teleportation"
+  },
+  {
+   "id": 4655,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/BOSSES/BOSS_FURY.DAT | UNIT | DESCRIPTION",
+   "en": "Teleports - Attacks With Claws - Sunders Ground"
+  },
+  {
+   "id": 4656,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/BOSSES/BOSS_FURY2.DAT | UNIT | DESCRIPTION",
+   "en": "Teleports - Heals Sisters - Summons Spiders"
+  },
+  {
+   "id": 4657,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/BOSSES/BOSS_FURY3.DAT | UNIT | DESCRIPTION",
+   "en": "Teleports - Casts Fire Spells"
+  },
+  {
+   "id": 4658,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/BOSSES/BOSS_FURY_WEAK.DAT | UNIT | DESCRIPTION",
+   "en": "Sister of Corruption"
+  },
+  {
+   "id": 4659,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/BOSSES/BOSS_FURY_WEAK2.DAT | UNIT | DESCRIPTION",
+   "en": "Sister of Venom"
+  },
+  {
+   "id": 4660,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/BOSSES/BOSS_FURY_WEAK3.DAT | UNIT | DESCRIPTION",
+   "en": "Sister of Embers"
+  },
+  {
+   "id": 4661,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/BOSSES/BOSS_GUARDIAN_SIEGE.DAT | UNIT | DESCRIPTION",
+   "en": "Enslaved Mana Guardian - Rocket Attack - Dash Attack - Magic Attacks"
+  },
+  {
+   "id": 4662,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/BOSSES/BOSS_GUARDIAN_WOOD.DAT | UNIT | DESCRIPTION",
+   "en": "Corrupted Guardian"
+  },
+  {
+   "id": 4663,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/BOSSES/BOSS_MAP_MASKED_COURT.DAT | UNIT | DESCRIPTION",
+   "en": "Only one Jester is vulnerable at a time"
+  },
+  {
+   "id": 4664,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/BOSSES/BOSS_MAP_ROBOT.DAT | UNIT | DESCRIPTION",
+   "en": "Ground Smash - Jet Dash - Rocket Barrage - Cannon Blast"
+  },
+  {
+   "id": 4665,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/BOSSES/BOSS_MAP_STURM.DAT | UNIT | DESCRIPTION",
+   "en": "Sturmbeorn General - Unleashes a Barrage of Explosive Ordinance\\n"
+  },
+  {
+   "id": 4666,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/BOSSES/BOSS_MAP_TUTARA.DAT | UNIT | DESCRIPTION",
+   "en": "Leap Attack - Fire And Ice Axes - Axe Throw - Enrages Minions\\n"
+  },
+  {
+   "id": 4667,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/BOSSES/BOSS_MAP_WRAITHLORD.DAT | UNIT | DESCRIPTION",
+   "en": "Spectral Weapon - Powerful Spells - Teleportation - Raises Ancient Skeletons"
+  },
+  {
+   "id": 4668,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/BOSSES/BOSS_NETHERIM.DAT | UNIT | DESCRIPTION",
+   "en": "Slash Attacks - Dash Attack - Breath Attacks - Summons Minions - Boulder Smash - Flame Attack - Nether Magic"
+  },
+  {
+   "id": 4669,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/BOSSES/BOSS_NETHERIM_SHADOW.DAT | UNIT | DESCRIPTION",
+   "en": "Shadow Form - Slash Attacks - Breath Attacks - Summons Minions"
+  },
+  {
+   "id": 4670,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/BOSSES/BOSS_STURM.DAT | UNIT | DESCRIPTION",
+   "en": "Sturmbeorn General - Explosive and Quake Attacks\\n"
+  },
+  {
+   "id": 4671,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/BURROWER/BURROWER.DAT | UNIT | DESCRIPTION",
+   "en": "Releases Shocking Bolts"
+  },
+  {
+   "id": 4672,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/BURROWER/BURROWER_DESERT.DAT | UNIT | DESCRIPTION",
+   "en": "Lurks Belowground"
+  },
+  {
+   "id": 4673,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/BURROWER/BURROWER_DESERT_MOTHER.DAT | UNIT | DESCRIPTION",
+   "en": "Births Dune Burrowers"
+  },
+  {
+   "id": 4674,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/BURROWER/BURROWER_DESERT_MOTHERCHAMP.DAT | UNIT | DESCRIPTION",
+   "en": "Champion Beast - Births Dune Burrowers"
+  },
+  {
+   "id": 4675,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/CLAPTRAP/A3-CTRAP.DAT | UNIT | DESCRIPTION",
+   "en": "Annoying Automaton"
+  },
+  {
+   "id": 4676,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/CORRUPTED_STURMBEORN/CHAMP.DAT | UNIT | DESCRIPTION",
+   "en": "Casts Auras and Shields - Slow, High-Power Spells - Explodes On Death"
+  },
+  {
+   "id": 4677,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/CORRUPTED_STURMBEORN/CHAMP.DAT | UNIT | DESCRIPTION",
+   "en": "Champion Sturmbeorn"
+  },
+  {
+   "id": 4678,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/CORRUPTED_STURMBEORN/CHAMPBARRAGE.DAT | UNIT | DESCRIPTION",
+   "en": "Test Unit for Champion Skills: Missile Barrage"
+  },
+  {
+   "id": 4679,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/CORRUPTED_STURMBEORN/CHAMPBEAM.DAT | UNIT | DESCRIPTION",
+   "en": "Test Unit for Champion Skills: Teleports when hit"
+  },
+  {
+   "id": 4680,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/CORRUPTED_STURMBEORN/CHAMPCYCLONE.DAT | UNIT | DESCRIPTION",
+   "en": "Test Champion Skills: Cyclone, Aura Shield Slef"
+  },
+  {
+   "id": 4681,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/CORRUPTED_STURMBEORN/CHAMPFIRE.DAT | UNIT | DESCRIPTION",
+   "en": "Casts Fire Spells"
+  },
+  {
+   "id": 4682,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/CORRUPTED_STURMBEORN/CHAMPFLARE.DAT | UNIT | DESCRIPTION",
+   "en": "Test Champion Skills: Aura, reflective shield buffer, hyperbeam/meteor/barrage"
+  },
+  {
+   "id": 4683,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/CORRUPTED_STURMBEORN/CHAMPICE.DAT | UNIT | DESCRIPTION",
+   "en": "Casts Ice Spells"
+  },
+  {
+   "id": 4684,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/CORRUPTED_STURMBEORN/CHAMPRAY.DAT | UNIT | DESCRIPTION",
+   "en": "Test Unit for Champion Skills: Teleports when hit, Void Ray"
+  },
+  {
+   "id": 4685,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/CORRUPTED_STURMBEORN/CHAMPSHIELD.DAT | UNIT | DESCRIPTION",
+   "en": "Test Champion: Casts a damage shield resistant to what it has been hit by"
+  },
+  {
+   "id": 4686,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/CORRUPTED_STURMBEORN/CHAMPSPEEDY.DAT | UNIT | DESCRIPTION",
+   "en": "Test Unit for Champion Skills: Casts haste on itself, but damage will break the haste buff."
+  },
+  {
+   "id": 4687,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/CORRUPTED_STURMBEORN/C_STURM_CASTER.DAT | UNIT | DESCRIPTION",
+   "en": "Corrupted Sturmbeorn"
+  },
+  {
+   "id": 4688,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/CORRUPTED_STURMBEORN/C_STURM_CASTER.DAT | UNIT | DESCRIPTION",
+   "en": "Raises Undead - Casts Corrupted Souls"
+  },
+  {
+   "id": 4689,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/CORRUPTED_STURMBEORN/C_STURM_CASTER_CHAMPFIRE.DAT | UNIT | DESCRIPTION",
+   "en": "Champion Sturmbeorn - Casts Fire Spells"
+  },
+  {
+   "id": 4690,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/CORRUPTED_STURMBEORN/C_STURM_MELEE.DAT | UNIT | DESCRIPTION",
+   "en": "Shield Bash Attack - Shield Can Be Shattered"
+  },
+  {
+   "id": 4691,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/CORRUPTED_STURMBEORN/C_STURM_MELEECHAMPELEC.DAT | UNIT | DESCRIPTION",
+   "en": "Champion Sturmbeorn - Flurry Attack"
+  },
+  {
+   "id": 4692,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/CORRUPTED_STURMBEORN/C_STURM_MELEESWORD.DAT | UNIT | DESCRIPTION",
+   "en": "Power Slash Attack"
+  },
+  {
+   "id": 4693,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/CORRUPTED_STURMBEORN/C_STURM_MELEE_GUNNBREN_CHAMP.DAT | UNIT | DESCRIPTION",
+   "en": "Elite Smith - Enchanted Fire Sword"
+  },
+  {
+   "id": 4694,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/CORRUPTED_STURMBEORN/C_STURM_MELEE_STENNBRUM_CHAMP.DAT | UNIT | DESCRIPTION",
+   "en": "Elite Smith - Enchanted Lightning Mace"
+  },
+  {
+   "id": 4695,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/CORRUPTED_STURMBEORN/C_STURM_RANGED.DAT | UNIT | DESCRIPTION",
+   "en": "Hurls Spears"
+  },
+  {
+   "id": 4696,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/CORRUPTED_STURMBEORN/STURM_POSSESSED.DAT | UNIT | DESCRIPTION",
+   "en": "Possessed By Shade - Spirit Blast"
+  },
+  {
+   "id": 4697,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/CORRUPTED_STURMBEORN/STURM_UNDEAD01.DAT | UNIT | DESCRIPTION",
+   "en": "Undead"
+  },
+  {
+   "id": 4698,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/CORRUPTED_STURMBEORN/STURM_UNDEAD_AXE.DAT | UNIT | DESCRIPTION",
+   "en": "Undead - Hurls Axes"
+  },
+  {
+   "id": 4699,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/CRAB/CRAB.DAT | UNIT | DESCRIPTION",
+   "en": "Crab - Can Block Attacks - Interrupt Immune - Knockback Immune"
+  },
+  {
+   "id": 4700,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/CRAB/CRABELECTRIC.DAT | UNIT | DESCRIPTION",
+   "en": "Crab - Shock When Struck"
+  },
+  {
+   "id": 4701,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/CRAB/CRAB_GOLD.DAT | UNIT | DESCRIPTION",
+   "en": "Ostentatious Crustacean"
+  },
+  {
+   "id": 4702,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/CRAB/CRAB_KING.DAT | UNIT | DESCRIPTION",
+   "en": "Fears Hot Butter"
+  },
+  {
+   "id": 4703,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/CREEPER/MINECRAFT_CREEPER.DAT | UNIT | DESCRIPTION",
+   "en": "Hssssss."
+  },
+  {
+   "id": 4704,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/CRYSTALSMASHABLE/PHASE_CRYSTAL_01.DAT | UNIT | DESCRIPTION",
+   "en": "Protect This Crystal!"
+  },
+  {
+   "id": 4705,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/CULTISTS/A1QUEST_CURSEDMESSENGER.DAT | UNIT | DESCRIPTION",
+   "en": "Revives Fallen Nether Thralls - Casts Plague Bolts"
+  },
+  {
+   "id": 4706,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/CULTISTS/CULTIST_ASSASSIN.DAT | UNIT | DESCRIPTION",
+   "en": "Long-Range Lash Attack"
+  },
+  {
+   "id": 4707,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/CULTISTS/CULTIST_BRUTE.DAT | UNIT | DESCRIPTION",
+   "en": "Smash Attack"
+  },
+  {
+   "id": 4708,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/CULTISTS/CULTIST_BRUTE_CHAMPION.DAT | UNIT | DESCRIPTION",
+   "en": "Champion Netherim - Smash Attack"
+  },
+  {
+   "id": 4709,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/CULTISTS/CULTIST_CASTER.DAT | UNIT | DESCRIPTION",
+   "en": "Shadow Bolt - Calls Netherim Slugs From Fallen Cultists"
+  },
+  {
+   "id": 4710,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/CULTISTS/CULTIST_CASTER_CHAMP.DAT | UNIT | DESCRIPTION",
+   "en": "Shadow Bolt - Calls Netherling Larva From Fallen Cultists"
+  },
+  {
+   "id": 4711,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/CULTISTS/CULTIST_CASTER_THING.DAT | UNIT | DESCRIPTION",
+   "en": "Shadow Bolt - Calls Netherling Larva From Fallen Cultists\\n"
+  },
+  {
+   "id": 4712,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/CULTISTS/CULTIST_PLAGUEBEARER.DAT | UNIT | DESCRIPTION",
+   "en": "Hurls Exploding Disease Nodes"
+  },
+  {
+   "id": 4713,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/CULTISTS/CULTIST_PUSTULE.DAT | UNIT | DESCRIPTION",
+   "en": "Hatches Netherling Larva"
+  },
+  {
+   "id": 4714,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/CULTISTS/CULTIST_SLUG.DAT | UNIT | DESCRIPTION",
+   "en": "Evolves into Netherling"
+  },
+  {
+   "id": 4715,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/CURSEDSWORD/DJINNFIRESWORD.DAT | UNIT | DESCRIPTION",
+   "en": "Casts Fireballs"
+  },
+  {
+   "id": 4716,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/CURSEDSWORD/FLAME_SWORD_PET.DAT | UNIT | DESCRIPTION",
+   "en": "Resists Elemental Attacks"
+  },
+  {
+   "id": 4717,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/DARK_FAIRY/DARK_FAIRY.DAT | UNIT | DESCRIPTION",
+   "en": "Drops Golden Key"
+  },
+  {
+   "id": 4718,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/DESERT_FLYER/CAVE_FLYER.DAT | UNIT | DESCRIPTION",
+   "en": "Dive Attack"
+  },
+  {
+   "id": 4719,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/DESERT_FLYER/CORPSEWING.DAT | UNIT | DESCRIPTION",
+   "en": "Teleports"
+  },
+  {
+   "id": 4720,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/DESERT_FLYER/DESERT_FLYER_BLIGHTED.DAT | UNIT | DESCRIPTION",
+   "en": "Noxious - Dive Attack"
+  },
+  {
+   "id": 4721,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/DESERT_FLYER/DRAGON_ELEMENTAL.DAT | UNIT | DESCRIPTION",
+   "en": "Fire Shots - Highly Resistant to Fire"
+  },
+  {
+   "id": 4722,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/DESERT_FLYER/FLYER_ICE.DAT | UNIT | DESCRIPTION",
+   "en": "Ice Attacks - Very Fast"
+  },
+  {
+   "id": 4723,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/DESERT_FLYER/FLYER_ICE_SPAWNER.DAT | UNIT | DESCRIPTION",
+   "en": "Calls Frost Screecher Swarms"
+  },
+  {
+   "id": 4724,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/DESERT_FLYER/ICECAVE_FLYER.DAT | UNIT | DESCRIPTION",
+   "en": "Electrical - Shocks When Struck"
+  },
+  {
+   "id": 4725,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/DESERT_FLYER/SWAMP_FLYER.DAT | UNIT | DESCRIPTION",
+   "en": "Paralyzing Screech"
+  },
+  {
+   "id": 4726,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/DJINN/DJINN.DAT | UNIT | DESCRIPTION",
+   "en": "Opens Phase-Portal On Death"
+  },
+  {
+   "id": 4727,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/DWARVES/DWARF_BRUTE.DAT | UNIT | DESCRIPTION",
+   "en": "Stunning Spin Attack - Overhand Smash - Knockback Immune"
+  },
+  {
+   "id": 4728,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/DWARVES/DWARF_CINDERMAGE.DAT | UNIT | DESCRIPTION",
+   "en": "Firebombs - Cinder Darts - Teleports"
+  },
+  {
+   "id": 4729,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/DWARVES/DWARF_FLAMKEGGER.DAT | UNIT | DESCRIPTION",
+   "en": "Flamethrower Attack - Seeking Fireball Shots"
+  },
+  {
+   "id": 4730,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/DWARVES/DWARF_IRONGUARD.DAT | UNIT | DESCRIPTION",
+   "en": "Fast Attack - Chain Pull"
+  },
+  {
+   "id": 4731,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/ELEMENTALS/ELEMENTAL_FIRE.DAT | UNIT | DESCRIPTION",
+   "en": "Powerful Fire Spells"
+  },
+  {
+   "id": 4732,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/ELEMENTALS/ELEMENTAL_ICE_CHAMP.DAT | UNIT | DESCRIPTION",
+   "en": "Powerful Ice Attacks - Freezing Blast on Death"
+  },
+  {
+   "id": 4733,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/ELEMENTALS/ELEMENTAL_LIT.DAT | UNIT | DESCRIPTION",
+   "en": "Teleports - Powerful Electrical Spells"
+  },
+  {
+   "id": 4734,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/ELEMENTALS/ELEMENTAL_POISON.DAT | UNIT | DESCRIPTION",
+   "en": "Powerful Poison Spells - Summons Zombies"
+  },
+  {
+   "id": 4735,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/ESTHERIANSHADE/ESTHERIANSHADE.DAT | UNIT | DESCRIPTION",
+   "en": "Summons Shadewisps - Teleports"
+  },
+  {
+   "id": 4736,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/EXPLODINGCRYSTAL/EXPLODINGCRYSTALS.DAT | UNIT | DESCRIPTION",
+   "en": "Detonates After Short Delay"
+  },
+  {
+   "id": 4737,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/EZROHIR/BOSS_EZRO_ELITE.DAT | UNIT | DESCRIPTION",
+   "en": "Casts Shadow Fan - Summons Creatures From Pit - Sandstorm"
+  },
+  {
+   "id": 4738,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/EZROHIR/EZRO_ASSASSIN.DAT | UNIT | DESCRIPTION",
+   "en": "Backflip Dagger Attack"
+  },
+  {
+   "id": 4739,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/EZROHIR/EZRO_BEDOUIN.DAT | UNIT | DESCRIPTION",
+   "en": "Very Fast"
+  },
+  {
+   "id": 4740,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/EZROHIR/EZRO_BRUTE.DAT | UNIT | DESCRIPTION",
+   "en": "Explodes on Death - Reflective Shield"
+  },
+  {
+   "id": 4741,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/EZROHIR/EZRO_CHAMP.DAT | UNIT | DESCRIPTION",
+   "en": "Ranged Claw Grab"
+  },
+  {
+   "id": 4742,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/EZROHIR/EZRO_CRAWLER_EXPLODE.DAT | UNIT | DESCRIPTION",
+   "en": "Explodes On Approach"
+  },
+  {
+   "id": 4743,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/EZROHIR/EZRO_ELITE.DAT | UNIT | DESCRIPTION",
+   "en": "Mana Drain Field - Seeking Bolts"
+  },
+  {
+   "id": 4744,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/EZROHIR/EZRO_ELITE_ARENA.DAT | UNIT | DESCRIPTION",
+   "en": "Casts Shadow Fan - Mana Drain Field"
+  },
+  {
+   "id": 4745,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/EZROHIR/EZRO_INFANTRY_MANA.DAT | UNIT | DESCRIPTION",
+   "en": "Very Fast - Mana Singularity On Death"
+  },
+  {
+   "id": 4746,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/EZROHIR/EZRO_INFANTRY_POLEARM.DAT | UNIT | DESCRIPTION",
+   "en": "Fires Shock Bolts"
+  },
+  {
+   "id": 4747,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/EZROHIR/EZRO_INFANTRY_SHIELD.DAT | UNIT | DESCRIPTION",
+   "en": "Shield Dash - Shield Blocks Damage"
+  },
+  {
+   "id": 4748,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/EZROHIR/EZRO_RANGED.DAT | UNIT | DESCRIPTION",
+   "en": "Long-Range Shots - Tosses Shrapnel Crawlers"
+  },
+  {
+   "id": 4749,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/EZROHIR/EZRO_RANGED_PISTOL.DAT | UNIT | DESCRIPTION",
+   "en": "Double-Attack - Backflip Attack"
+  },
+  {
+   "id": 4750,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/FIEND/FIEND.DAT | UNIT | DESCRIPTION",
+   "en": "Creates Vile Gnashers From Corpses"
+  },
+  {
+   "id": 4751,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/FIEND/FIENDCHAMP.DAT | UNIT | DESCRIPTION",
+   "en": "Champion Undead - Creates Vile Gnashers From Corpses"
+  },
+  {
+   "id": 4752,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/FIEND/FIEND_BLOODMONKEY.DAT | UNIT | DESCRIPTION",
+   "en": "The Plague starts now..."
+  },
+  {
+   "id": 4753,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/FIEND/SANDFIEND.DAT | UNIT | DESCRIPTION",
+   "en": "Creates Dune Fiends From Corpses"
+  },
+  {
+   "id": 4754,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/FIEND/TOMBFIEND.DAT | UNIT | DESCRIPTION",
+   "en": "Creates Tomb Fiends From Corpses"
+  },
+  {
+   "id": 4755,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/FIEND/TOMBFIENDCHAMP.DAT | UNIT | DESCRIPTION",
+   "en": "Champion Undead - Creates Tomb Fiends From Corpses"
+  },
+  {
+   "id": 4756,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/FIEND/TOMBFIENDSUMMONED.DAT | UNIT | DESCRIPTION",
+   "en": "Creates Tomb Fiends From Corpses\\n"
+  },
+  {
+   "id": 4757,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/FLAME_GUN_BOT/FLAME_GUN_BOT.DAT | UNIT | DESCRIPTION",
+   "en": "Engulfs Foes In Flames"
+  },
+  {
+   "id": 4758,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/FOREST_SPORE_LAUNCHER_01/BOSS_FUNGUS_SPORE_LAUNCHER.DAT | UNIT | DESCRIPTION",
+   "en": "Emits Fungal Spores"
+  },
+  {
+   "id": 4759,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/FUNGUS/BOSS_FUNGUS.DAT | UNIT | DESCRIPTION",
+   "en": "Spore Burst - Poison Smash Attack - Marsh Gas Cloud"
+  },
+  {
+   "id": 4760,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/FUNGUS/FUNGUS_CASTER.DAT | UNIT | DESCRIPTION",
+   "en": "Swampfire Bolts - Burning Barrage"
+  },
+  {
+   "id": 4761,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/FUNGUS/FUNGUS_CASTER_CHAMPION.DAT | UNIT | DESCRIPTION",
+   "en": "Seeking Swampfire - Burning Barrage - Root Tangle"
+  },
+  {
+   "id": 4762,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/FUNGUS/FUNGUS_MELEE.DAT | UNIT | DESCRIPTION",
+   "en": "Poison Smash Attack - Marsh Gas Cloud  - Cannot Be Interrupted"
+  },
+  {
+   "id": 4763,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/FUNGUS/FUNGUS_MELEE_BOSS.DAT | UNIT | DESCRIPTION",
+   "en": "Spore Attacks - Fungal Minions"
+  },
+  {
+   "id": 4764,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/FUNGUS/FUNGUS_MELEE_SMALL.DAT | UNIT | DESCRIPTION",
+   "en": "Fast - Poison Pool"
+  },
+  {
+   "id": 4765,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/FUNGUS/FUNGUS_SMALL1.DAT | UNIT | DESCRIPTION",
+   "en": "Detonates and Spawns New Mycons"
+  },
+  {
+   "id": 4766,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/FUNGUS/FUNGUS_SMALL2.DAT | UNIT | DESCRIPTION",
+   "en": "Leaps Out Of Danger - Flees When Allies Perish"
+  },
+  {
+   "id": 4767,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/FUNGUS/FUNGUS_SMALL2_PLANTED.DAT | UNIT | DESCRIPTION",
+   "en": "Leaps Out Of Danger - Flees When Allies Perish\\n"
+  },
+  {
+   "id": 4768,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/FUNGUS/FUNGUS_SMALL3.DAT | UNIT | DESCRIPTION",
+   "en": "Electric Explode - Flees When Allies Perish"
+  },
+  {
+   "id": 4769,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/FUNGUS/FUNGUS_SMALL4.DAT | UNIT | DESCRIPTION",
+   "en": "Mana Drain Ring - Summons Myconites"
+  },
+  {
+   "id": 4770,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/FUNGUS/FUNGUS_SMALL5.DAT | UNIT | DESCRIPTION",
+   "en": "Flings Spour Seeds at the Player that Grow and Explode"
+  },
+  {
+   "id": 4771,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/FUNGUS/FUNGUS_SPORE.DAT | UNIT | DESCRIPTION",
+   "en": "Seeking Poison Bolts On Explosion"
+  },
+  {
+   "id": 4772,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/FUNGUS/FUNGUS_SPORE_PET.DAT | UNIT | DESCRIPTION",
+   "en": "Exploding Spore!"
+  },
+  {
+   "id": 4773,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/GARGOYLE/GARGOYLE.DAT | UNIT | DESCRIPTION",
+   "en": "Dash Attack - Ground Slam - Cannot Be Interrupted - Missile Reflection"
+  },
+  {
+   "id": 4774,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/GARGOYLE/GARGOYLE_CHAMP.DAT | UNIT | DESCRIPTION",
+   "en": "Petrification - High Elemental Resistances"
+  },
+  {
+   "id": 4775,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/GARGOYLE/GARGOYLE_LAVA.DAT | UNIT | DESCRIPTION",
+   "en": "Dash Attack - Cannot Be Interrupted"
+  },
+  {
+   "id": 4776,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/GEL/GEL_ACID.DAT | UNIT | DESCRIPTION",
+   "en": "Acidic Cloud Attack"
+  },
+  {
+   "id": 4777,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/GEL/ICEGEL.DAT | UNIT | DESCRIPTION",
+   "en": "Ice Spike Attack - Very Resistant to Ice Attacks"
+  },
+  {
+   "id": 4778,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/GEL/KINGICEGEL.DAT | UNIT | DESCRIPTION",
+   "en": "Ice Spike Attack - Heals Self - Kill with Fire!"
+  },
+  {
+   "id": 4779,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/GEL/NETHACKACIDBLOB.DAT | UNIT | DESCRIPTION",
+   "en": "Hurls Slime Balls"
+  },
+  {
+   "id": 4780,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/GEL/NOXIOUSGELKING.DAT | UNIT | DESCRIPTION",
+   "en": "Generates Noxious Gels"
+  },
+  {
+   "id": 4781,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/GEL/PHASETARGELBIG.DAT | UNIT | DESCRIPTION",
+   "en": "Extra Large Tar Slime"
+  },
+  {
+   "id": 4782,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/GEL/PHASETARGELKING.DAT | UNIT | DESCRIPTION",
+   "en": "The King of Black Goo"
+  },
+  {
+   "id": 4783,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/GEL/PHASETARGELKING2.DAT | UNIT | DESCRIPTION",
+   "en": "With a Capital \"T\""
+  },
+  {
+   "id": 4784,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/GEL/PHASETARGELMED.DAT | UNIT | DESCRIPTION",
+   "en": "Oversized Tar Slime"
+  },
+  {
+   "id": 4785,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/GEL/PHASETARGELSMALL.DAT | UNIT | DESCRIPTION",
+   "en": "Spawns Squishable Slimes on Death"
+  },
+  {
+   "id": 4786,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/GEL/PHASETARGELSMALL_NOXIOUS.DAT | UNIT | DESCRIPTION",
+   "en": "Speedy Tar Slime"
+  },
+  {
+   "id": 4787,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/GEL/PHASETARGELTINY.DAT | UNIT | DESCRIPTION",
+   "en": "Squishy Under Your Feet"
+  },
+  {
+   "id": 4788,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/GEL/TARGEL.DAT | UNIT | DESCRIPTION",
+   "en": "Hurls Sticky Tar Globules"
+  },
+  {
+   "id": 4789,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/GHOST/GHOST.DAT | UNIT | DESCRIPTION",
+   "en": "Lifesteal"
+  },
+  {
+   "id": 4790,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/GOBLINS/GOBLIN_BUFF_AOE.DAT | UNIT | DESCRIPTION",
+   "en": "Boosts Goblin Attacks"
+  },
+  {
+   "id": 4791,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/GOBLINS/GOBLIN_CHAMP_DEMOLITION_EXPERT.DAT | UNIT | DESCRIPTION",
+   "en": "Carries Detonator Components"
+  },
+  {
+   "id": 4792,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/GOBLINS/GOBLIN_RANGED_SWAP_WEAPON.DAT | UNIT | DESCRIPTION",
+   "en": "Ice Arrow Attacks"
+  },
+  {
+   "id": 4793,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/GOBLINS/GOBLIN_RES_STAFF.DAT | UNIT | DESCRIPTION",
+   "en": "Enrages Nearby Goblins"
+  },
+  {
+   "id": 4794,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/GOBLINS/GOBLIN_WINTER_CASTER01.DAT | UNIT | DESCRIPTION",
+   "en": "Resurrects Goblins - Casts Goblin Totems"
+  },
+  {
+   "id": 4795,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/GOBLINS/GOBLIN_WINTER_DEMOLITION_EXPERT.DAT | UNIT | DESCRIPTION",
+   "en": "Hurls Explosive Charges"
+  },
+  {
+   "id": 4796,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/GOBLINS/GOBLIN_WINTER_MELEE01.DAT | UNIT | DESCRIPTION",
+   "en": "Flees When Allies Perish"
+  },
+  {
+   "id": 4797,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/GRAVEROBBER/GRAVEDIGGER.DAT | UNIT | DESCRIPTION",
+   "en": "Unearths Skeletons"
+  },
+  {
+   "id": 4798,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/GRAVEROBBER/GRAVEROBBER.DAT | UNIT | DESCRIPTION",
+   "en": "Unearths Skeletons - Resists Electricity"
+  },
+  {
+   "id": 4799,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/HIDDENSKILLUNITS/BARREL_TNT.DAT | UNIT | DESCRIPTION",
+   "en": "Ignites When Struck"
+  },
+  {
+   "id": 4800,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/JACKALBEAST/JACKALBEAST.DAT | UNIT | DESCRIPTION",
+   "en": "Leap Attack"
+  },
+  {
+   "id": 4801,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/JACKALBEAST/JACKALBEAST_MANA.DAT | UNIT | DESCRIPTION",
+   "en": "Extra Fast - Leap Attack"
+  },
+  {
+   "id": 4802,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/LIZARDMAN/LIZARDMANMAGE.DAT | UNIT | DESCRIPTION",
+   "en": "Casts Seeking and Poison Spells"
+  },
+  {
+   "id": 4803,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/LIZARDMAN/LIZARDMANMAGE_FIRE.DAT | UNIT | DESCRIPTION",
+   "en": "Casts Meteor and Fire Spells"
+  },
+  {
+   "id": 4804,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/LIZARDMAN/LIZARDMANPOLEARM.DAT | UNIT | DESCRIPTION",
+   "en": "Dash Attack - Inflicts Bleed"
+  },
+  {
+   "id": 4805,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/LIZARDMAN/LIZARDMANWARRIOR.DAT | UNIT | DESCRIPTION",
+   "en": "Fast Attack - Cannot Be Interrupted"
+  },
+  {
+   "id": 4806,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/MACHINE_GUN_BOT/MACHINE_GUN_BOT.DAT | UNIT | DESCRIPTION",
+   "en": "Shreds Foes"
+  },
+  {
+   "id": 4807,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/MACHINE_GUN_BOT/MORTAR_BOT.DAT | UNIT | DESCRIPTION",
+   "en": "Bombards Foes"
+  },
+  {
+   "id": 4808,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/MANTICORE/BOSS_MANTICORE.DAT | UNIT | DESCRIPTION",
+   "en": "Ancient Beast - Wing Buffet - Ground Slam"
+  },
+  {
+   "id": 4809,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/MANTICORE/BOSS_MANTICORE2.DAT | UNIT | DESCRIPTION",
+   "en": "Ancient Beast - Wing Buffet -  Rock Shards - Sandstorm"
+  },
+  {
+   "id": 4810,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/MANTICORE/BOSS_MAP_MANTICORE2.DAT | UNIT | DESCRIPTION",
+   "en": "Ancient Beast - Rock Shards - Sandstorm"
+  },
+  {
+   "id": 4811,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/MERCHANT/A2-BLACKSMITH.DAT | UNIT | DESCRIPTION",
+   "en": "Zeraphi Blacksmith"
+  },
+  {
+   "id": 4812,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/MERCHANT/A3-RACCOON_NPC_01.DAT | UNIT | DESCRIPTION",
+   "en": "Anxiously watches over his cousins"
+  },
+  {
+   "id": 4813,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/MERCHANT/A3-RACCOON_NPC_02.DAT | UNIT | DESCRIPTION",
+   "en": "Sprocket's Cousin"
+  },
+  {
+   "id": 4814,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/MERCHANT/BLACKSMITH_MAPROOM.DAT | UNIT | DESCRIPTION",
+   "en": "Multi-Purpose Merchant"
+  },
+  {
+   "id": 4815,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/MERCHANT/BLACKSMITH_SETONLY.DAT | UNIT | DESCRIPTION",
+   "en": "Blacksmith"
+  },
+  {
+   "id": 4816,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/MERCHANT/DESERTENCHANTER.DAT | UNIT | DESCRIPTION",
+   "en": "Enchants Items With Poison"
+  },
+  {
+   "id": 4817,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/MERCHANT/ENCHANTER_ACT1.DAT | UNIT | DESCRIPTION",
+   "en": "Enchants Items"
+  },
+  {
+   "id": 4818,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/MERCHANT/ENCHANTER_ACT3_OASIS.DAT | UNIT | DESCRIPTION",
+   "en": "Enchants with unique abilities"
+  },
+  {
+   "id": 4819,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/MERCHANT/ENCHANTER_DISENCHANTER.DAT | UNIT | DESCRIPTION",
+   "en": "Disenchants Items"
+  },
+  {
+   "id": 4820,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/MERCHANT/ENCHANTER_ELECTRICITY.DAT | UNIT | DESCRIPTION",
+   "en": "Enchants Items With Electricity"
+  },
+  {
+   "id": 4821,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/MERCHANT/ENCHANTER_FIRE.DAT | UNIT | DESCRIPTION",
+   "en": "Enchants Items With Fire"
+  },
+  {
+   "id": 4822,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/MERCHANT/ENCHANTER_GRANDMASTER.DAT | UNIT | DESCRIPTION",
+   "en": "Grandmaster Enchanter"
+  },
+  {
+   "id": 4823,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/MERCHANT/ENCHANTER_ICE.DAT | UNIT | DESCRIPTION",
+   "en": "Enchants Items With Ice"
+  },
+  {
+   "id": 4824,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/MERCHANT/ENCHANTER_LUCK.DAT | UNIT | DESCRIPTION",
+   "en": "Enchants Items With Luck"
+  },
+  {
+   "id": 4825,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/MERCHANT/ENCHANTER_MASTER.DAT | UNIT | DESCRIPTION",
+   "en": "Master Enchanter"
+  },
+  {
+   "id": 4826,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/MERCHANT/ENCHANTER_SOCKETER.DAT | UNIT | DESCRIPTION",
+   "en": "Adds Sockets To Items"
+  },
+  {
+   "id": 4827,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/MERCHANT/ENCHANTER_STATS.DAT | UNIT | DESCRIPTION",
+   "en": "Enchants Items With Attribute Boosts"
+  },
+  {
+   "id": 4828,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/MERCHANT/GAMBLER_MAPROOM.DAT | UNIT | DESCRIPTION",
+   "en": "Seller of Unidentified Items"
+  },
+  {
+   "id": 4829,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/MERCHANT/GAMBLER_SECRETROOM.DAT | UNIT | DESCRIPTION",
+   "en": "Half-Price Mysterious Goods"
+  },
+  {
+   "id": 4830,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/MERCHANT/GEMDESTROYER_MAPROOM.DAT | UNIT | DESCRIPTION",
+   "en": "Destroys gems in socketed items"
+  },
+  {
+   "id": 4831,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/MERCHANT/GEMSELLERACT3.DAT | UNIT | DESCRIPTION",
+   "en": "Collector of Fine Things"
+  },
+  {
+   "id": 4832,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/MERCHANT/GOODSMERCHANTACT3.DAT | UNIT | DESCRIPTION",
+   "en": "General Goods Vendor"
+  },
+  {
+   "id": 4833,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/MERCHANT/MERCHANT.DAT | UNIT | DESCRIPTION",
+   "en": "Traveling Merchant"
+  },
+  {
+   "id": 4834,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/MERCHANT/MERCHANT_COMBINER.DAT | UNIT | DESCRIPTION",
+   "en": "Combines treasure to create new items"
+  },
+  {
+   "id": 4835,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/MERCHANT/MERCHANT_GEMRECOVER.DAT | UNIT | DESCRIPTION",
+   "en": "Destroys items, recovering gems inside"
+  },
+  {
+   "id": 4836,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/MERCHANT/MERCHANT_GEMSACT2.DAT | UNIT | DESCRIPTION",
+   "en": "Magical Goods Vendor"
+  },
+  {
+   "id": 4837,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/MERCHANT/MERCHANT_MAP.DAT | UNIT | DESCRIPTION",
+   "en": "Maps to exotic dungeons!"
+  },
+  {
+   "id": 4838,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/MERCHANT/SARSA THE WOLF.DAT | UNIT | DESCRIPTION",
+   "en": "Unsavory Character"
+  },
+  {
+   "id": 4839,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/MERCHANT/SETMERCHANT.DAT | UNIT | DESCRIPTION",
+   "en": "Seller of Armor Sets"
+  },
+  {
+   "id": 4840,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/MIMIC/MIMIC.DAT | UNIT | DESCRIPTION",
+   "en": "Lies In Wait - Resists Elemental Attacks"
+  },
+  {
+   "id": 4841,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/MINE_TRAP_01/MINE_TRAP_01.DAT | UNIT | DESCRIPTION",
+   "en": "Explodes"
+  },
+  {
+   "id": 4842,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/MIRKA/MIRKA01.DAT | UNIT | DESCRIPTION",
+   "en": "Frost Breath Attack"
+  },
+  {
+   "id": 4843,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/MIRKA/MIRKA02.DAT | UNIT | DESCRIPTION",
+   "en": "Extra Tough - Charging Attack Reflects Missiles"
+  },
+  {
+   "id": 4844,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/MIRKA/MIRKA_CASTER01.DAT | UNIT | DESCRIPTION",
+   "en": "Ice Magic Attacks"
+  },
+  {
+   "id": 4845,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/NETHERIM/NETHERIM_BRUTE.DAT | UNIT | DESCRIPTION",
+   "en": "Knockback Kick - Ground Smash - Teleportation"
+  },
+  {
+   "id": 4846,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/NETHERIM/NETHERIM_CASTER.DAT | UNIT | DESCRIPTION",
+   "en": "Fire Breath - Summons Netherlings - Teleports"
+  },
+  {
+   "id": 4847,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/NETHERIM/NETHERIM_FLYER.DAT | UNIT | DESCRIPTION",
+   "en": "Scream Attack"
+  },
+  {
+   "id": 4848,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/NETHERIM/NETHERIM_GLAIVE.DAT | UNIT | DESCRIPTION",
+   "en": "Slash Attack - Hurls Glaives"
+  },
+  {
+   "id": 4849,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/NETHERIM/NETHERIM_GLAIVE_ARMOR.DAT | UNIT | DESCRIPTION",
+   "en": "Leaps Back - Hurls Glaives"
+  },
+  {
+   "id": 4850,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/NETHERIM/NETHERIM_GLAIVE_CHAMPION.DAT | UNIT | DESCRIPTION",
+   "en": "Slash Attack - Slash Attack - Hurls Glaives"
+  },
+  {
+   "id": 4851,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/NETHERIM/NETHERIM_GLAIVE_JEHANNUM.DAT | UNIT | DESCRIPTION",
+   "en": "Slash Attack - Hurls Glaives - Leaps Back"
+  },
+  {
+   "id": 4852,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/NETHERIM/NETHERIM_GLAIVE_MELEEONLY.DAT | UNIT | DESCRIPTION",
+   "en": "Fast Attacks - Flees When Allies Perish - Leaps Back"
+  },
+  {
+   "id": 4853,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/NETHERIM/NETHERIM_GLAIVE_SPAWNER_RED.DAT | UNIT | DESCRIPTION",
+   "en": "Hurls Glaives - Sacrifices Life for Eldrayn"
+  },
+  {
+   "id": 4854,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/NETHERIM/NETHERIM_HAMMER.DAT | UNIT | DESCRIPTION",
+   "en": "Ground Smash - Hammer Swipe - Cannot Be Interrupted"
+  },
+  {
+   "id": 4855,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/NETHERIM/NETHERIM_HAMMER_CHAMP.DAT | UNIT | DESCRIPTION",
+   "en": "Elite Netherim - Ground Smash - Tentacle Summon"
+  },
+  {
+   "id": 4856,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/NETHERIM/NETHERIM_LESSER02_NORMAL.DAT | UNIT | DESCRIPTION",
+   "en": "Drains Mana"
+  },
+  {
+   "id": 4857,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/NETHERIM/NETHERIM_LESSER02_NORMAL_BOSS.DAT | UNIT | DESCRIPTION",
+   "en": "Drains Mana - Explodes"
+  },
+  {
+   "id": 4858,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/NETHERIM/NETHERIM_MELEE.DAT | UNIT | DESCRIPTION",
+   "en": "Dash Attack - Knockback Slash"
+  },
+  {
+   "id": 4859,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/NETHERIM/NETHERIM_MELEE_SHADOW.DAT | UNIT | DESCRIPTION",
+   "en": "Knockback Slash"
+  },
+  {
+   "id": 4860,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/NPC/A1-MONSTERHUNTER.DAT | UNIT | DESCRIPTION",
+   "en": "Catelogs monsters."
+  },
+  {
+   "id": 4861,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/NPC/ABRAHAMSQUEST.DAT | UNIT | DESCRIPTION",
+   "en": "Ember Scholar"
+  },
+  {
+   "id": 4862,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/NPC/BARD.DAT | UNIT | DESCRIPTION",
+   "en": "Aspiring Bard and One-Man Band"
+  },
+  {
+   "id": 4863,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/NPC/VANQUISHERNPC.DAT | UNIT | DESCRIPTION",
+   "en": "The Vanquisher"
+  },
+  {
+   "id": 4864,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/NPC/WAYGATE.DAT | UNIT | DESCRIPTION",
+   "en": "Retires characters and improves Heirlooms"
+  },
+  {
+   "id": 4865,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/PETS/PET_CHAKAWARY.DAT | UNIT | DESCRIPTION",
+   "en": "Lizard Dog Bird Dog..."
+  },
+  {
+   "id": 4866,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/PHASEBEAST/PHASEBEAST.DAT | UNIT | DESCRIPTION",
+   "en": "Opens Phase Portal When Killed"
+  },
+  {
+   "id": 4867,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/PUNCHBAG/TARGET_DUMMY.DAT | UNIT | DESCRIPTION",
+   "en": "Levels With Player"
+  },
+  {
+   "id": 4868,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/QUESTUNITS/A2-SPHINX.DAT | UNIT | DESCRIPTION",
+   "en": "Guardian of the Forsaken Vault"
+  },
+  {
+   "id": 4869,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/QUESTUNITS/A3-IMPERIAL_MAGE.DAT | UNIT | DESCRIPTION",
+   "en": "Senior Archaeologist"
+  },
+  {
+   "id": 4870,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/QUESTUNITS/A3-ROBOTEYE.DAT | UNIT | DESCRIPTION",
+   "en": "It appears to be controlled by something behind the door."
+  },
+  {
+   "id": 4871,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/QUESTUNITS/A3_CART_DRIVER.DAT | UNIT | DESCRIPTION",
+   "en": "Spectral Ferryman"
+  },
+  {
+   "id": 4872,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/QUESTUNITS/A3_DAUGHTEROFDEADFATHER.DAT | UNIT | DESCRIPTION",
+   "en": "An Estherian Traveler"
+  },
+  {
+   "id": 4873,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/QUESTUNITS/A3_DEADFATHER.DAT | UNIT | DESCRIPTION",
+   "en": "The Spectre of Jessa's Father"
+  },
+  {
+   "id": 4874,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/QUESTUNITS/ACT 2 ZERYPHESH/A2-AMBASSADOR_TALDIMUT.DAT | UNIT | DESCRIPTION",
+   "en": "Zeraphi Ambassador"
+  },
+  {
+   "id": 4875,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/QUESTUNITS/ACT 2 ZERYPHESH/IMPERIALRESPEC.DAT | UNIT | DESCRIPTION",
+   "en": "Skill Respec"
+  },
+  {
+   "id": 4876,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/QUESTUNITS/ACT 2/A2-BOAT_GHOST.DAT | UNIT | DESCRIPTION",
+   "en": "Drowned Soul"
+  },
+  {
+   "id": 4877,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/QUESTUNITS/ACT 2/A2-ZERAPHI_GHOST.DAT | UNIT | DESCRIPTION",
+   "en": "Dying Zeraphi"
+  },
+  {
+   "id": 4878,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/QUESTUNITS/BOTANIST.DAT | UNIT | DESCRIPTION",
+   "en": "Imperial Botanist"
+  },
+  {
+   "id": 4879,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/QUESTUNITS/ESTHERIANS/A1-BOAT_GHOST.DAT | UNIT | DESCRIPTION",
+   "en": "Everdrowning Spirit"
+  },
+  {
+   "id": 4880,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/QUESTUNITS/ESTHERIANS/A1-BOAT_GHOST_ALT.DAT | UNIT | DESCRIPTION",
+   "en": "Tormented Spirit"
+  },
+  {
+   "id": 4881,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/QUESTUNITS/ESTHERIANS/A1-CAPTUREDENCHANTER.DAT | UNIT | DESCRIPTION",
+   "en": "Apprentice Enchanter"
+  },
+  {
+   "id": 4882,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/QUESTUNITS/ESTHERIANS/A1-CEMETERY_GHOST1.DAT | UNIT | DESCRIPTION",
+   "en": "Lost Soul"
+  },
+  {
+   "id": 4883,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/QUESTUNITS/ESTHERIANS/A1-ELDERTUANA.DAT | UNIT | DESCRIPTION",
+   "en": "Estherian Elder"
+  },
+  {
+   "id": 4884,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/QUESTUNITS/ESTHERIANS/A1-ENVOY.DAT | UNIT | DESCRIPTION",
+   "en": "Gatekeeper of the Wellspring Temple"
+  },
+  {
+   "id": 4885,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/QUESTUNITS/ESTHERIANS/A1-ESTHERIAN-PASS2.DAT | UNIT | DESCRIPTION",
+   "en": "Estherian"
+  },
+  {
+   "id": 4886,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/QUESTUNITS/ESTHERIANS/A1-GATEKEEPER2.DAT | UNIT | DESCRIPTION",
+   "en": "Estherian Envoy"
+  },
+  {
+   "id": 4887,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/QUESTUNITS/ESTHERIANS/A1-JADOK-ICEDEEP-TAKINGNOTES.DAT | UNIT | DESCRIPTION",
+   "en": "Way-Warden"
+  },
+  {
+   "id": 4888,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/QUESTUNITS/ESTHERIANS/A1-MALECROWSPASS.DAT | UNIT | DESCRIPTION",
+   "en": "Bellethe's Husband"
+  },
+  {
+   "id": 4889,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/QUESTUNITS/ESTHERIANS/A1-RAILMANNPC_TOZERYPHESH-NOSPEAK.DAT | UNIT | DESCRIPTION",
+   "en": "Embercraft Foreman:\\nTakes you to Zeryphesh."
+  },
+  {
+   "id": 4890,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/QUESTUNITS/ESTHERIANS/A1-RAILMANNPC_TOZERYPHESH.DAT | UNIT | DESCRIPTION",
+   "en": "Embercraft Foreman:\\nTakes you to Zeryphesh.\\n"
+  },
+  {
+   "id": 4891,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/QUESTUNITS/ESTHERIANS/A1-SHRINE_SPIRIT.DAT | UNIT | DESCRIPTION",
+   "en": "Spirit of a Long-Dead Explorer"
+  },
+  {
+   "id": 4892,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/QUESTUNITS/ESTHERIANS/A1-SPIDERNPC1.DAT | UNIT | DESCRIPTION",
+   "en": "Bellethe's....pet?"
+  },
+  {
+   "id": 4893,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/QUESTUNITS/ESTHERIANS/A2-DILAWAR.DAT | UNIT | DESCRIPTION",
+   "en": "Brave Zeraphi Commando"
+  },
+  {
+   "id": 4894,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/QUESTUNITS/ESTHERIANS/A2-DJINNI.DAT | UNIT | DESCRIPTION",
+   "en": "Djinni"
+  },
+  {
+   "id": 4895,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/QUESTUNITS/ESTHERIANS/A2-MALIKVOSH.DAT | UNIT | DESCRIPTION",
+   "en": "Zeraphi Noble"
+  },
+  {
+   "id": 4896,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/QUESTUNITS/ESTHERIANS/A2-RAILMANNPC_TOACT1.DAT | UNIT | DESCRIPTION",
+   "en": "Embercraft Foreman\\nTravel To The Estherian Enclave\\n"
+  },
+  {
+   "id": 4897,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/QUESTUNITS/ESTHERIANS/A2-RAILMANNPC_TOACT3.DAT | UNIT | DESCRIPTION",
+   "en": "Embercraft Foreman\\nTravel To Imperial Camp\\n"
+  },
+  {
+   "id": 4898,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/QUESTUNITS/ESTHERIANS/A2-ZERAPHI-COMMANDO-DUNGEON.DAT | UNIT | DESCRIPTION",
+   "en": "Zeraphi Commando"
+  },
+  {
+   "id": 4899,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/QUESTUNITS/ESTHERIANS/A2-ZERAPHI-SCOUT.DAT | UNIT | DESCRIPTION",
+   "en": "Zeraphi Scout"
+  },
+  {
+   "id": 4900,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/QUESTUNITS/ESTHERIANS/A3-RAILMANNPC_TOACT2.DAT | UNIT | DESCRIPTION",
+   "en": "Embercraft Foreman\\nTravel To Zeryphesh\\n"
+  },
+  {
+   "id": 4901,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/QUESTUNITS/ESTHERIANS/ESTHERIAN-PASS1.DAT | UNIT | DESCRIPTION",
+   "en": "Dying Estherian"
+  },
+  {
+   "id": 4902,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/QUESTUNITS/ESTHERIANS/ESTHERIANCARTATTACK.DAT | UNIT | DESCRIPTION",
+   "en": "Estherian Traveler"
+  },
+  {
+   "id": 4903,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/QUESTUNITS/ESTHERIANS/GRANDREGENT.DAT | UNIT | DESCRIPTION",
+   "en": "Grand Regent"
+  },
+  {
+   "id": 4904,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/QUESTUNITS/HONORED DEAD/NECROSTURM.DAT | UNIT | DESCRIPTION",
+   "en": "Bartender"
+  },
+  {
+   "id": 4905,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/QUESTUNITS/INNNPCS/EVENTROBBEDGUY.DAT | UNIT | DESCRIPTION",
+   "en": "Traveler"
+  },
+  {
+   "id": 4906,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/QUESTUNITS/INNNPCS/EVENTROBBEDGUY5.DAT | UNIT | DESCRIPTION",
+   "en": "Opportunist"
+  },
+  {
+   "id": 4907,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/QUESTUNITS/INNNPCS/PATRON1.DAT | UNIT | DESCRIPTION",
+   "en": "Drunk"
+  },
+  {
+   "id": 4908,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/QUESTUNITS/SURVEYOR.DAT | UNIT | DESCRIPTION",
+   "en": "Ember Surveyor"
+  },
+  {
+   "id": 4909,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/QUESTUNITS/TOWNSFOLK/FEMALE1.DAT | UNIT | DESCRIPTION",
+   "en": "Torchlight Resident"
+  },
+  {
+   "id": 4910,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/QUESTUNITS/TOWNSFOLK/FEMALE3.DAT | UNIT | DESCRIPTION",
+   "en": "It's a lady!"
+  },
+  {
+   "id": 4911,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/QUESTUNITS/ZONE1/GENERICVANQUISHER.DAT | UNIT | DESCRIPTION",
+   "en": "Novice Imperial Vanquisher"
+  },
+  {
+   "id": 4912,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/QUESTUNITS/ZONE1/PASSGUARD.DAT | UNIT | DESCRIPTION",
+   "en": "Imperial Vanquisher"
+  },
+  {
+   "id": 4913,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/QUESTUNITS/ZONE2/A2-MUZAFFAR.DAT | UNIT | DESCRIPTION",
+   "en": "Zeraphi Commander"
+  },
+  {
+   "id": 4914,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/RATMAN/RATLINBOMBER.DAT | UNIT | DESCRIPTION",
+   "en": "Hurls Burning Flasks - Retreating Leap"
+  },
+  {
+   "id": 4915,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/RATMAN/RATLINCHAMP_CRASHSITE1.DAT | UNIT | DESCRIPTION",
+   "en": "Champion Ratlin"
+  },
+  {
+   "id": 4916,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/RATMAN/RATLINDESERTARCHER.DAT | UNIT | DESCRIPTION",
+   "en": "Fires Fire Arrow Spread"
+  },
+  {
+   "id": 4917,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/RATMAN/RATMAN_ARCHER.DAT | UNIT | DESCRIPTION",
+   "en": "Fires Flaming Arrows"
+  },
+  {
+   "id": 4918,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/REPAIR_BOT/REPAIR_BOT.DAT | UNIT | DESCRIPTION",
+   "en": "Heals Nearby Allies"
+  },
+  {
+   "id": 4919,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/REPULSIONSENTRY/MASKSENTRYKING.DAT | UNIT | DESCRIPTION",
+   "en": "Fire Magic"
+  },
+  {
+   "id": 4920,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/REPULSIONSENTRY/MASKSENTRYQUEEN.DAT | UNIT | DESCRIPTION",
+   "en": "Electrical Magic"
+  },
+  {
+   "id": 4921,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/REPULSIONSENTRY/MASKSENTRYWARIZ.DAT | UNIT | DESCRIPTION",
+   "en": "Poison Magic"
+  },
+  {
+   "id": 4922,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/ROACHES/ROACH_KNIGHT.DAT | UNIT | DESCRIPTION",
+   "en": "Hovering Spit Attack - Untargetable While Hovering"
+  },
+  {
+   "id": 4923,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/ROACHES/ROACH_MAGE.DAT | UNIT | DESCRIPTION",
+   "en": "Resurrects Multiple Roach Myrmidons"
+  },
+  {
+   "id": 4924,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/ROACHES/ROACH_MINION.DAT | UNIT | DESCRIPTION",
+   "en": "Resistant to Elements, except for Fire"
+  },
+  {
+   "id": 4925,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/SANDRAT/SANDRAT.DAT | UNIT | DESCRIPTION",
+   "en": "Retreating Leap - Flees When Sandrats Perish"
+  },
+  {
+   "id": 4926,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/SAND_CONSTRUCT/PHASEBEAST_SAND_CONSTRUCT.DAT | UNIT | DESCRIPTION",
+   "en": "Smash Attack - Stone Prison"
+  },
+  {
+   "id": 4927,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/SAND_CONSTRUCT/SAND_CONSTRUCT_BOSS.DAT | UNIT | DESCRIPTION",
+   "en": "Ranged Smash Attack - Spawns Blighted Skara - Stone Prison"
+  },
+  {
+   "id": 4928,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/SAND_CONSTRUCT/SAND_CONSTRUCT_CHAMP.DAT | UNIT | DESCRIPTION",
+   "en": "Ranged Smash Attack - Stone Prison"
+  },
+  {
+   "id": 4929,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/SKELETONWARRIOR/BOSS_HONOREDDEAD.DAT | UNIT | DESCRIPTION",
+   "en": "Elite Undead - Casts Spectral Blades"
+  },
+  {
+   "id": 4930,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/SKELETONWARRIOR/BOSS_PIRATE_QUEST.DAT | UNIT | DESCRIPTION",
+   "en": "Elite Undead - Summons Crewmen\\nConverts Dead to Hungry Souls"
+  },
+  {
+   "id": 4931,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/SKELETONWARRIOR/DESERTZOMBIE_HALF.DAT | UNIT | DESCRIPTION",
+   "en": "Undead - Fast"
+  },
+  {
+   "id": 4932,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/SKELETONWARRIOR/ENSLAVED.DAT | UNIT | DESCRIPTION",
+   "en": "Extra Fast - Elemental attacks "
+  },
+  {
+   "id": 4933,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/SKELETONWARRIOR/PHASEBEAST_SKELETAL PIRATE DESERT.DAT | UNIT | DESCRIPTION",
+   "en": "Keeps a treasure map under his hat."
+  },
+  {
+   "id": 4934,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/SKELETONWARRIOR/PHASEBEAST_SKELETAL PIRATE RANGED DESERT.DAT | UNIT | DESCRIPTION",
+   "en": "First Mate."
+  },
+  {
+   "id": 4935,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/SKELETONWARRIOR/SKELETAL ARCHER DESERT.DAT | UNIT | DESCRIPTION",
+   "en": "Undead - Poison Arrow Hail"
+  },
+  {
+   "id": 4936,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/SKELETONWARRIOR/SKELETAL PIRATE DESERT CHAMPION.DAT | UNIT | DESCRIPTION",
+   "en": "Champion Undead"
+  },
+  {
+   "id": 4937,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/SKELETONWARRIOR/SKELETAL PIRATE DESERT.DAT | UNIT | DESCRIPTION",
+   "en": "Undead - Fast Attack"
+  },
+  {
+   "id": 4938,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/SKELETONWARRIOR/SKELETAL PIRATE RANGED DESERT.DAT | UNIT | DESCRIPTION",
+   "en": "Undead - Pistolier"
+  },
+  {
+   "id": 4939,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/SKELETONWARRIOR/SKELETAL WARRIOR DESERT.DAT | UNIT | DESCRIPTION",
+   "en": "Undead - Shield Blocks Damage - Poison"
+  },
+  {
+   "id": 4940,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/SKELETONWARRIOR/SKELETALANCIENT.DAT | UNIT | DESCRIPTION",
+   "en": "Blade Aura"
+  },
+  {
+   "id": 4941,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/SKELETONWARRIOR/SKELETALANCIENTSHIELD.DAT | UNIT | DESCRIPTION",
+   "en": "Missile Reflection Aura"
+  },
+  {
+   "id": 4942,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/SKELETONWARRIOR/SKELETALANCIENT_ARCHER_ELECTRIC.DAT | UNIT | DESCRIPTION",
+   "en": "Electrical Arrows Emit Charged Bolts"
+  },
+  {
+   "id": 4943,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/SKELETONWARRIOR/SKELETALANCIENT_ARENA.DAT | UNIT | DESCRIPTION",
+   "en": "Powerful Magical Attacks"
+  },
+  {
+   "id": 4944,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/SKELETONWARRIOR/SKELETALANCIENT_CHAMPION.DAT | UNIT | DESCRIPTION",
+   "en": "Rises Ancient Skeletons"
+  },
+  {
+   "id": 4945,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/SKELETONWARRIOR/SKELETALANCIENT_LIGHT.DAT | UNIT | DESCRIPTION",
+   "en": "Undead - Shield Blocks Damage"
+  },
+  {
+   "id": 4946,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/SKELETONWARRIOR/SKELETALANCIENT_MAGE.DAT | UNIT | DESCRIPTION",
+   "en": "Phantasmal Beams - Skull Missiles"
+  },
+  {
+   "id": 4947,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/SKELETONWARRIOR/SKELETALANCIENT_MAGECHAMPION.DAT | UNIT | DESCRIPTION",
+   "en": "Phantasmal Beams - Skull Spiral - Summons Skeletons - Skull Missiles"
+  },
+  {
+   "id": 4948,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/SKELETONWARRIOR/SKELETALANCIENT_SIMPLE.DAT | UNIT | DESCRIPTION",
+   "en": " - Shield Blocks Damage"
+  },
+  {
+   "id": 4949,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/SKELETONWARRIOR/SKELETONBURNING.DAT | UNIT | DESCRIPTION",
+   "en": "Burning Undead - Very Fast - Fire Damage"
+  },
+  {
+   "id": 4950,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/SKELETONWARRIOR/SKELETONFOOTSOLDIER.DAT | UNIT | DESCRIPTION",
+   "en": "Undead - Shield Blocks Damage\\nFast Attack"
+  },
+  {
+   "id": 4951,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/SKELETONWARRIOR/SKELETONHEADLESS.DAT | UNIT | DESCRIPTION",
+   "en": "Undead - Hurls Phantasmal Skull"
+  },
+  {
+   "id": 4952,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/SKELETONWARRIOR/SKELETONHEADLESSSWAMP.DAT | UNIT | DESCRIPTION",
+   "en": "Undead - Hurls Seeking Phantasmal Skulls"
+  },
+  {
+   "id": 4953,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/SKELETONWARRIOR/SKELETONMAGE.DAT | UNIT | DESCRIPTION",
+   "en": "Undead - Casts Lightning Spells"
+  },
+  {
+   "id": 4954,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/SKELETONWARRIOR/SKELETONMAGEFIRE.DAT | UNIT | DESCRIPTION",
+   "en": "Undead - Casts Fire Spells"
+  },
+  {
+   "id": 4955,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/SKELETONWARRIOR/SKELETONMAGE_CHAMP.DAT | UNIT | DESCRIPTION",
+   "en": "Champion Undead - Casts Lightning Spells"
+  },
+  {
+   "id": 4956,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/SKELETONWARRIOR/SKELETONSHAMBLER.DAT | UNIT | DESCRIPTION",
+   "en": "Undead - Hard To Kill"
+  },
+  {
+   "id": 4957,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/SKELETONWARRIOR/SKELETONWARRIOR_PASS2_CHAMP.DAT | UNIT | DESCRIPTION",
+   "en": "Undead - Extra Tough"
+  },
+  {
+   "id": 4958,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/SKELETONWARRIOR/SKELETON_SPLIT1.DAT | UNIT | DESCRIPTION",
+   "en": "Splits on Death"
+  },
+  {
+   "id": 4959,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/SKELETONWARRIOR/SKELETON_SPLIT3.DAT | UNIT | DESCRIPTION",
+   "en": "Last remaining Pieces of Splitting Skeleton"
+  },
+  {
+   "id": 4960,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/SKELETONWARRIOR/SKEL_HEAD.DAT | UNIT | DESCRIPTION",
+   "en": "The angry head of Jasper"
+  },
+  {
+   "id": 4961,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/SOULSHACKLE/SOULSHACKLE.DAT | UNIT | DESCRIPTION",
+   "en": "While Alive, Binds Target's Ability To Inflict Damage"
+  },
+  {
+   "id": 4962,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/SPIDER/BLACK_WIDOW.DAT | UNIT | DESCRIPTION",
+   "en": "Poison Bite - Ranged Attack\\n"
+  },
+  {
+   "id": 4963,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/SPIDER/BOSS_SPIDER_CAVE.DAT | UNIT | DESCRIPTION",
+   "en": "Acid Spray - Smash Attack - Hatches Spiderlings"
+  },
+  {
+   "id": 4964,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/SPIDER/BROWN_RECLUSE.DAT | UNIT | DESCRIPTION",
+   "en": "Feeds and Grows\\n"
+  },
+  {
+   "id": 4965,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/SPIDER/PHASEBEAST_SPIDER_HOLE.DAT | UNIT | DESCRIPTION",
+   "en": "Fast Leap Attack"
+  },
+  {
+   "id": 4966,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/SPIDER/PHASEBEAST_TARANTULA.DAT | UNIT | DESCRIPTION",
+   "en": "Sprays Venom"
+  },
+  {
+   "id": 4967,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/SPIDER/SNOW_SPIDER.DAT | UNIT | DESCRIPTION",
+   "en": "Ice Shard Attacks"
+  },
+  {
+   "id": 4968,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/SPIDER/SPIDER_JUMPING_SPITS.DAT | UNIT | DESCRIPTION",
+   "en": "Fast Leap Attack - Spits Poison"
+  },
+  {
+   "id": 4969,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/SPIDER/SPIDER_VAMPIRIC.DAT | UNIT | DESCRIPTION",
+   "en": "Devours Other Spiders For Strength and Longevity\\n"
+  },
+  {
+   "id": 4970,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/SPIDER/SPIDER_VENOM.DAT | UNIT | DESCRIPTION",
+   "en": "Poison Spit"
+  },
+  {
+   "id": 4971,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/SPIDER/SPIDER_WHITE.DAT | UNIT | DESCRIPTION",
+   "en": "Spits Immobilizing Webs"
+  },
+  {
+   "id": 4972,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/SPIDER/TARANTULA_CHAMP.DAT | UNIT | DESCRIPTION",
+   "en": "Spits Immobilizing Webs - Acid Spray"
+  },
+  {
+   "id": 4973,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/SPIDER/TARANTULA_DESERT.DAT | UNIT | DESCRIPTION",
+   "en": "Spits Immobilizing Webs - Spits Venom"
+  },
+  {
+   "id": 4974,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/SPIDER/TARANTULA_ICE.DAT | UNIT | DESCRIPTION",
+   "en": "Slam Attack - Spits Immobilizing Webs"
+  },
+  {
+   "id": 4975,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/SPIDERWEB/SPIDERWEB.DAT | UNIT | DESCRIPTION",
+   "en": "A tangle of webbing blocks your path."
+  },
+  {
+   "id": 4976,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/SPIDER_MINE/SPIDER_MINE.DAT | UNIT | DESCRIPTION",
+   "en": "Robot - Explodes"
+  },
+  {
+   "id": 4977,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/SPIRIT/MANASPECTRE.DAT | UNIT | DESCRIPTION",
+   "en": "Summons Mana Wisps - Mana Storm"
+  },
+  {
+   "id": 4978,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/SPIRIT/SANDSPECTRE.DAT | UNIT | DESCRIPTION",
+   "en": "Casts Sandstorms and Insect Plagues"
+  },
+  {
+   "id": 4979,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/SPIRIT/SANDSPECTRESMALL.DAT | UNIT | DESCRIPTION",
+   "en": "Casts Insect Plagues"
+  },
+  {
+   "id": 4980,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/SPIRIT/SANDSPECTRE_SCRIPTEDCHAMP.DAT | UNIT | DESCRIPTION",
+   "en": "Maskbearer - Electrical Magic"
+  },
+  {
+   "id": 4981,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/SPIRIT/SANDSPECTRE_SCRIPTEDCHAMP2.DAT | UNIT | DESCRIPTION",
+   "en": "Maskbearer - Fire Magic"
+  },
+  {
+   "id": 4982,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/SPIRIT/SANDSPECTRE_SCRIPTEDCHAMP3.DAT | UNIT | DESCRIPTION",
+   "en": "Maskbearer - Poison Magic"
+  },
+  {
+   "id": 4983,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/SPIRIT/SPIRIT.DAT | UNIT | DESCRIPTION",
+   "en": "Slows Foes - Lifesteal"
+  },
+  {
+   "id": 4984,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/SPIRIT/SPIRITCHAMP.DAT | UNIT | DESCRIPTION",
+   "en": "Champion Undead - Summons Shroudwings"
+  },
+  {
+   "id": 4985,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/SUPPORT_BOT/EMBERMAGE_ICE_ELEMENTAL.DAT | UNIT | DESCRIPTION",
+   "en": "Human Capital Optimization Unit"
+  },
+  {
+   "id": 4986,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/TNTBOMB/TNTBOMB.DAT | UNIT | DESCRIPTION",
+   "en": "Large Explosion"
+  },
+  {
+   "id": 4987,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/TROGLODYTES/CATACOMBSTROG.DAT | UNIT | DESCRIPTION",
+   "en": "Hard To Kill"
+  },
+  {
+   "id": 4988,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/TROGLODYTES/TROG_BRUTE_BOSS_DEAD.DAT | UNIT | DESCRIPTION",
+   "en": "Consumes Troglodytes"
+  },
+  {
+   "id": 4989,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/TROGLODYTES/TROG_BRUTE_POLEARM.DAT | UNIT | DESCRIPTION",
+   "en": "Long Reach - Spear Throw"
+  },
+  {
+   "id": 4990,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/TROGLODYTES/TROG_LEADER.DAT | UNIT | DESCRIPTION",
+   "en": "Resurrects Trogs - Enrages Trogs"
+  },
+  {
+   "id": 4991,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/TROGLODYTES/TROG_LESSER.DAT | UNIT | DESCRIPTION",
+   "en": "Vomit Attack - Flees When Allies Perish"
+  },
+  {
+   "id": 4992,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/TROLL/BOSS_GOBLIN_MINES.DAT | UNIT | DESCRIPTION",
+   "en": "Mine Foreman - Ice Wave Attack - Smash Attack"
+  },
+  {
+   "id": 4993,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/TROLL/BOSS_MAP_TROLL.DAT | UNIT | DESCRIPTION",
+   "en": "Boulder Smash - Axe Pull - Leap Attack - Walls Victims"
+  },
+  {
+   "id": 4994,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/TROLL/SWAMP_TROLL.DAT | UNIT | DESCRIPTION",
+   "en": "Boulder Smash - Axe Pull - Leap Attack - Cannot Be Interrupted"
+  },
+  {
+   "id": 4995,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/TURRETS/DWARF_TURRET_HEALER.DAT | UNIT | DESCRIPTION",
+   "en": "Protects Steam Titan"
+  },
+  {
+   "id": 4996,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/TURRETS/DWARF_TURRET_MOBILE.DAT | UNIT | DESCRIPTION",
+   "en": "Machinegun Attack"
+  },
+  {
+   "id": 4997,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/TURRETS/DWARF_TURRET_MOBILEMUDDY.DAT | UNIT | DESCRIPTION",
+   "en": "Fires Seeking Rockets"
+  },
+  {
+   "id": 4998,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/TURRETS/DWARF_TURRET_MOBILE_BOMB.DAT | UNIT | DESCRIPTION",
+   "en": "Explodes at Close Proximity"
+  },
+  {
+   "id": 4999,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/TURRETS/SIEGETURRETMOBILE.DAT | UNIT | DESCRIPTION",
+   "en": "Invulnerable To Attack"
+  },
+  {
+   "id": 5000,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/TURRETS/VAULTLIGHTNINGTURRET_ARTIFICER.DAT | UNIT | DESCRIPTION",
+   "en": "Lightning Attacks"
+  },
+  {
+   "id": 5001,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/TURRETS/VAULTTURRETMOBILESPAWNER.DAT | UNIT | DESCRIPTION",
+   "en": "Generates Shock Copters"
+  },
+  {
+   "id": 5002,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/TUTARA/PHASEBEAST_TUTARA_BRUTE_CHAMP_NOMINIONS.DAT | UNIT | DESCRIPTION",
+   "en": "Dash Attack - Bolsters Nearby Tutara - Cannot be Interrupted"
+  },
+  {
+   "id": 5003,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/TUTARA/SPECTRALDRAGONKINBRUTE.DAT | UNIT | DESCRIPTION",
+   "en": "Dash Attack - Cannot be Interrupted"
+  },
+  {
+   "id": 5004,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/TUTARA/SPECTRALDRAGONKINMAGE.DAT | UNIT | DESCRIPTION",
+   "en": "Bone Spikes - Spiny Blast"
+  },
+  {
+   "id": 5005,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/TUTARA/TUTARA_CASTER.DAT | UNIT | DESCRIPTION",
+   "en": "Summons Tornados - Resurrects Tutara"
+  },
+  {
+   "id": 5006,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/TUTARA/TUTARA_CASTER_BOSS.DAT | UNIT | DESCRIPTION",
+   "en": "Fire Bolts - Fire Nova"
+  },
+  {
+   "id": 5007,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/TUTARA/TUTARA_CASTER_BOSS2.DAT | UNIT | DESCRIPTION",
+   "en": "Electric Wand - Prismatic Spray- Resurrects Tutara"
+  },
+  {
+   "id": 5008,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/TUTARA/TUTARA_MELEE.DAT | UNIT | DESCRIPTION",
+   "en": "Leap Attack - Double Slash"
+  },
+  {
+   "id": 5009,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/TUTARA/TUTARA_MELEE_HEAVY.DAT | UNIT | DESCRIPTION",
+   "en": "Knockback"
+  },
+  {
+   "id": 5010,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/TUTARA/TUTARA_MELEE_SHIELD.DAT | UNIT | DESCRIPTION",
+   "en": "Leap Attack - Shield Blocks Damage"
+  },
+  {
+   "id": 5011,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/TUTARA/TUTARA_RANGED.DAT | UNIT | DESCRIPTION",
+   "en": "Hurls Bolas"
+  },
+  {
+   "id": 5012,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/VARKOLYN/VARKOLYN_BRUTE_CHAMP.DAT | UNIT | DESCRIPTION",
+   "en": "Electric Claw Attack - Leaps Back - Charged Bolt Smash"
+  },
+  {
+   "id": 5013,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/VARKOLYN/VARKOLYN_BRUTE_SPAWNER.DAT | UNIT | DESCRIPTION",
+   "en": "Leaps Back"
+  },
+  {
+   "id": 5014,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/VARKOLYN/VARKOLYN_CASTER.DAT | UNIT | DESCRIPTION",
+   "en": "Shadow Bolts - Shadow Burst - Resurrects Varkolyn - Teleports - Slow Beam"
+  },
+  {
+   "id": 5015,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/VARKOLYN/VARKOLYN_MELEE.DAT | UNIT | DESCRIPTION",
+   "en": "Leaping Stab Attack - Leaps Back"
+  },
+  {
+   "id": 5016,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/VARKOLYN/VARKOLYN_MELEE_CHAMP.DAT | UNIT | DESCRIPTION",
+   "en": "Leaping Stab Attack"
+  },
+  {
+   "id": 5017,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/VARKOLYN/VARKOLYN_POPCORN_BOMBERS.DAT | UNIT | DESCRIPTION",
+   "en": "Flees When Allies Perish - Hurls Explosives - Leaps Back"
+  },
+  {
+   "id": 5018,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/VARKOLYN/VARKOLYN_POPCORN_SPAWNER.DAT | UNIT | DESCRIPTION",
+   "en": "Flees When Allies Perish - Leaps Back"
+  },
+  {
+   "id": 5019,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/VARKOLYN/VARK_BRUTE.DAT | UNIT | DESCRIPTION",
+   "en": "Knockback - Leaps Back"
+  },
+  {
+   "id": 5020,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/WARBEAST/WARBEAST_CHAMP.DAT | UNIT | DESCRIPTION",
+   "en": "Bite inflicts bleeding wounds"
+  },
+  {
+   "id": 5021,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/WARBEAST/WARBEAST_CHAMP.DAT | UNIT | DESCRIPTION",
+   "en": "Champion Beast - Inflicts Bleeding"
+  },
+  {
+   "id": 5022,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/WEREWOLF/BOSS_MAP_WEREWOLF.DAT | UNIT | DESCRIPTION",
+   "en": "Slash Flurry - Consumes Dead To Heal - Leap Attack - Leaps Back"
+  },
+  {
+   "id": 5023,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/WEREWOLF/WEREWOLF.DAT | UNIT | DESCRIPTION",
+   "en": "Leap Attack - Leaps Back - Knockback Slash"
+  },
+  {
+   "id": 5024,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/WEREWOLF/WEREWOLF2.DAT | UNIT | DESCRIPTION",
+   "en": "Leap Attack - Slash Flurry - Leaps Back - Hurls Boulders"
+  },
+  {
+   "id": 5025,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/WEREWOLF/WEREWOLF3.DAT | UNIT | DESCRIPTION",
+   "en": "Rock Throw - Leap Attack - Leaps Back - Slash Flurry"
+  },
+  {
+   "id": 5026,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/WEREWOLF/WEREWOLF_CELLAR_CHAMPION.DAT | UNIT | DESCRIPTION",
+   "en": "Leap Attack - Leaps Back - Knockback Slash - Hurls Boulders"
+  },
+  {
+   "id": 5027,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/WEREWOLF/WEREWOLF_SPAWNER.DAT | UNIT | DESCRIPTION",
+   "en": "Leap Attack - Slash Flurry"
+  },
+  {
+   "id": 5028,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/WISP/ALCHEMISTSENTRY.DAT | UNIT | DESCRIPTION",
+   "en": "Fires Bolts of Pure Energy"
+  },
+  {
+   "id": 5029,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/WISP/ENG_COPTERBOT.DAT | UNIT | DESCRIPTION",
+   "en": "Slows nearby enemies"
+  },
+  {
+   "id": 5030,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/WISP/EZROCOPTER.DAT | UNIT | DESCRIPTION",
+   "en": "Fires Bolts of Electricity"
+  },
+  {
+   "id": 5031,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/WISP/GOLD_WISP.DAT | UNIT | DESCRIPTION",
+   "en": "Turns to gold when touched."
+  },
+  {
+   "id": 5032,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/WISP/MANAWISP.DAT | UNIT | DESCRIPTION",
+   "en": "Fires Seeking Energy Projectiles"
+  },
+  {
+   "id": 5033,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/WISP/WISP.DAT | UNIT | DESCRIPTION",
+   "en": "Fires Rebounding Energy Projectiles"
+  },
+  {
+   "id": 5034,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/WITCH/WITCH.DAT | UNIT | DESCRIPTION",
+   "en": "Summons Fetishes - Bat Swarm Attack - Teleports"
+  },
+  {
+   "id": 5035,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/WITCH/WITCH_CACKLESPIT.DAT | UNIT | DESCRIPTION",
+   "en": "Summons Fetishes - Bat Swarm Attack - Teleports - Resurrects Golem"
+  },
+  {
+   "id": 5036,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/WITCHGOLEM/BOSS_WITCHGOLEM.DAT | UNIT | DESCRIPTION",
+   "en": "Cacklespit Is Protected While Animated - Smash Attacks"
+  },
+  {
+   "id": 5037,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/WOLF/ICEWOLF.DAT | UNIT | DESCRIPTION",
+   "en": "Bite Inflicts Bleeding Wounds"
+  },
+  {
+   "id": 5038,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/WOLF/WOLFCORPSEFIRE.DAT | UNIT | DESCRIPTION",
+   "en": "Corpsefire Phase - Fast Attack"
+  },
+  {
+   "id": 5039,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/WOLF/WOLF_SICK.DAT | UNIT | DESCRIPTION",
+   "en": "Poisonous Bite"
+  },
+  {
+   "id": 5040,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/WOLF/WOLF_WEREWOLF.DAT | UNIT | DESCRIPTION",
+   "en": "Transforms Into Corpsefire Werewolf"
+  },
+  {
+   "id": 5041,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/WOOD_WRAITH/WOOD_WRAITH.DAT | UNIT | DESCRIPTION",
+   "en": "Thorn Spray"
+  },
+  {
+   "id": 5042,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/WOOD_WRAITH/WOOD_WRAITH_LARGE.DAT | UNIT | DESCRIPTION",
+   "en": "Root Attack - Grows Wood Wraiths"
+  },
+  {
+   "id": 5043,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/YAKOTAUR/BOSS_YAKOTAUR.DAT | UNIT | DESCRIPTION",
+   "en": "Elite Beast - Dash Attack - Stomp Attack - Ice Shards"
+  },
+  {
+   "id": 5044,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/YAKOTAUR/YAKOTAUR.DAT | UNIT | DESCRIPTION",
+   "en": "Dash Attack - Stomp Attack"
+  },
+  {
+   "id": 5045,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/YAKOTAUR/YAKOTAURCHAMP.DAT | UNIT | DESCRIPTION",
+   "en": "Champion Beast - Dash Attack - Stomp Attack"
+  },
+  {
+   "id": 5046,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/ZOMBIE/BOSS_MAP_ANCIENT_ZOMBIE.DAT | UNIT | DESCRIPTION",
+   "en": "Ground Rip - Smash Attacks - Stomp Knockback"
+  },
+  {
+   "id": 5047,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/ZOMBIE/DESERTZOMBIE.DAT | UNIT | DESCRIPTION",
+   "en": "Undead - Cannot Be Interrupted"
+  },
+  {
+   "id": 5048,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/ZOMBIE/EZRO_ZOMBIE.DAT | UNIT | DESCRIPTION",
+   "en": "Resists Interrupts"
+  },
+  {
+   "id": 5049,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/ZOMBIE/EZRO_ZOMBIE_HEADLESS.DAT | UNIT | DESCRIPTION",
+   "en": "Immobilizing Breath"
+  },
+  {
+   "id": 5050,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/ZOMBIE/EZRO_ZOMBIE_LASHER.DAT | UNIT | DESCRIPTION",
+   "en": "Lash Attack"
+  },
+  {
+   "id": 5051,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/ZOMBIE/EZRO_ZOMBIE_MANA.DAT | UNIT | DESCRIPTION",
+   "en": "Mana Vortex"
+  },
+  {
+   "id": 5052,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/ZOMBIE/GASZOMBIE.DAT | UNIT | DESCRIPTION",
+   "en": "Releases Poison Gas When Killed"
+  },
+  {
+   "id": 5053,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/ZOMBIE/ZOMBIECHAMPEASY.DAT | UNIT | DESCRIPTION",
+   "en": "Champion Undead - Resists Poison"
+  },
+  {
+   "id": 5054,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/ZOMBIE/ZOMBIECHAMPION2.DAT | UNIT | DESCRIPTION",
+   "en": "Ice Attacks - Ice Resistance"
+  },
+  {
+   "id": 5055,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/ZOMBIE/ZOMBIEPALE2.DAT | UNIT | DESCRIPTION",
+   "en": "Steals Mana - Cannot Be Interrupted"
+  },
+  {
+   "id": 5056,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/ZOMBIE/ZOMBIE_A1QUEST.DAT | UNIT | DESCRIPTION",
+   "en": "Loves His Stuffy"
+  },
+  {
+   "id": 5057,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/ZOMBIE/ZOMBIE_ANCIENT.DAT | UNIT | DESCRIPTION",
+   "en": "Smash Attacks - Stomp Knockback"
+  },
+  {
+   "id": 5058,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/ZOMBIE/ZOMBIE_BLOODSPAWNER.DAT | UNIT | DESCRIPTION",
+   "en": "Undead - Speed Increases When Flesh Is Shed"
+  },
+  {
+   "id": 5059,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/ZOMBIE/ZOMBIE_FLESHEATER_SINGLE.DAT | UNIT | DESCRIPTION",
+   "en": "Undead - Resists Poison"
+  },
+  {
+   "id": 5060,
+   "mode": "translate",
+   "ctx": "UNITS/MONSTERS/ZOMBIE/ZOMBIE_SWAMP_EXPLODE.DAT | UNIT | DESCRIPTION",
+   "en": "Explodes When Near"
+  },
+  {
+   "id": 5061,
+   "mode": "translate",
+   "ctx": "UNITS/PLAYERS/ARBITER/HUM_F.DAT | UNIT | DESCRIPTION",
+   "en": "Trained in the arcane arts, Embermages employ a variety of elemental spells to deadly effect."
+  },
+  {
+   "id": 5062,
+   "mode": "translate",
+   "ctx": "UNITS/PLAYERS/BERSERKER/HUM_F.DAT | UNIT | DESCRIPTION",
+   "en": "Brutal and swift, Berserkers call upon powerful beast magic to augment their deadly combat skills."
+  },
+  {
+   "id": 5063,
+   "mode": "translate",
+   "ctx": "UNITS/PLAYERS/ENGINEER/HUM_F.DAT | UNIT | DESCRIPTION",
+   "en": "Equipped with Ember-powered weapons and armor, Engineers keep the frontier in working order."
+  },
+  {
+   "id": 5064,
+   "mode": "translate",
+   "ctx": "UNITS/PLAYERS/WANDERER/HUM_F.DAT | UNIT | DESCRIPTION",
+   "en": "Versed in arcane arts and ancient pacts, Outlanders wield guns and magic with equal skill."
+  }
+ ]
+}

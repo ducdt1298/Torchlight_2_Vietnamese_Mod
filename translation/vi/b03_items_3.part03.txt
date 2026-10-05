@@ -1,0 +1,240 @@
+@@ 1519
+Rèn luyện giúp giảm yêu cầu của giáp và tăng khả năng hấp thụ của giáp.  Chỉ có thể trang bị một bậc Armor Expertise tại một thời điểm.
+@@ 1520
+Kiến thức giúp giảm giá mua ở thương nhân, Enchanter và Gambler, đồng thời tăng giá bán hàng hóa của bạn.  Chỉ có thể trang bị một bậc Barter tại một thời điểm.
+@@ 1521
+Rèn luyện giúp tăng tỉ lệ đỡ đòn bằng Shield.  Chỉ có thể trang bị một bậc Blocking tại một thời điểm.
+@@ 1522
+Rèn luyện giúp tăng tỉ lệ tung ra đòn chí mạng, đồng thời tăng sát thương cộng thêm của đòn chí mạng.  Chỉ có thể trang bị một bậc Critical Strikes tại một thời điểm.
+@@ 1523
+Rèn luyện giúp tăng sát thương của mọi vũ khí khi cầm hai vũ khí cùng lúc.
+@@ 1524
+Một Spell bị động giúp tăng sát thương của mọi vũ khí khi cầm hai vũ khí cùng lúc.  Chỉ có thể trang bị một Spell Dual Wielding tại một thời điểm.\n\nNhấp chuột phải để học Spell.
+@@ 1525
+Người thi triển được tăng cường sức mạnh sát thương Elemental.
+@@ 1526
+Bắn ra ba viên đạn băng giá, đóng băng mọi kẻ địch trong bán kính vụ nổ.
+@@ 1527
+Tốc độ di chuyển của người thi triển tăng 8% và tốc độ đánh tăng 2% trong 12 giây.
+@@ 1528
+Tốc độ di chuyển của người thi triển tăng 12% và tốc độ đánh tăng 3% trong 12 giây.
+@@ 1529
+Tốc độ di chuyển của người thi triển tăng 16% và tốc độ đánh tăng 4% trong 12 giây.
+@@ 1530
+Tốc độ di chuyển của người thi triển tăng 20% và tốc độ đánh tăng 5% trong 12 giây.
+@@ 1531
+Tốc độ di chuyển của người thi triển tăng 24% và tốc độ đánh tăng 6% trong 12 giây.
+@@ 1532
+Tốc độ di chuyển của người thi triển tăng 28% và tốc độ đánh tăng 7% trong 12 giây.
+@@ 1533
+Hồi máu cho người thi triển.
+@@ 1534
+Hồi máu cho người thi triển và mọi đồng minh.
+@@ 1535
+Hiển thị các thuộc tính của một vật phẩm chưa giám định.
+@@ 1536
+Người thi triển hút máu từ mọi kẻ địch bị đánh trúng trong thời gian hiệu lực của Spell.
+@@ 1537
+Kiến thức giúp tăng sát thương của Wand và Staff, đồng thời giảm yêu cầu của Ring và Amulet.  Chỉ có thể trang bị một bậc Arcane Tools tại một thời điểm.
+@@ 1538
+Rèn luyện giúp tăng sát thương và giảm yêu cầu của Claw, Sword, Axe, Mace và Polearm.  Chỉ có thể trang bị một bậc Weapons Expertise tại một thời điểm.
+@@ 1539
+Rèn luyện giúp tăng sức mạnh cho Pet và tay sai của bạn, đồng thời giảm thời gian Pet đi về thị trấn.  Chỉ có thể trang bị một bậc Animal Handling tại một thời điểm.
+@@ 1540
+Phun ra một đám mây khí độc nồng nặc quanh người thi triển.
+@@ 1541
+Rèn luyện giúp tăng sát thương và giảm yêu cầu của Bow, Pistol, Crossbow và Rifle.  Chỉ có thể trang bị một bậc Marksmanship tại một thời điểm.
+@@ 1542
+Kẻ địch ở gần bị một luồng gió mạnh thổi bạt ra xa.
+@@ 1543
+Người thi triển được tăng cường giáp Elemental.
+@@ 1544
+Người thi triển bị một linh hồn báo thù nhập vào, tự động phản đòn mọi kẻ tấn công ở gần.
+@@ 1545
+Phóng ra một bánh xe lửa lăn nhanh.
+@@ 1546
+Phóng ra một bánh xe lửa lăn tròn.
+@@ 1547
+Một làn sóng năng lượng lan tỏa ra xung quanh, làm vỡ tan những vật mỏng manh và đôi khi phá hủy cả lá chắn.
+@@ 1548
+Làm câm lặng kẻ địch trong phạm vi 10 mét, khiến chúng không thể dùng phần lớn kỹ năng.
+@@ 1549
+Làm câm lặng kẻ địch trong phạm vi 11 mét, khiến chúng không thể dùng phần lớn kỹ năng.
+@@ 1550
+Triệu hồi một Blood Zombie đáng sợ.
+@@ 1551
+Triệu hồi một Nether Imp tấn công kẻ địch của bạn.
+@@ 1552
+Triệu hồi một Nether Imp tấn công kẻ địch của bạn.  Mạnh hơn Nether Imp I và có tỉ lệ làm câm lặng kẻ địch.
+@@ 1553
+Triệu hồi một Nether Imp tấn công kẻ địch của bạn.  Mạnh hơn Nether Imp II và có tỉ lệ làm câm lặng kẻ địch cao hơn.
+@@ 1554
+Triệu hồi một Nether Imp tấn công kẻ địch của bạn.  Mạnh hơn Nether Imp III và có tỉ lệ làm câm lặng kẻ địch cao hơn.
+@@ 1555
+Triệu hồi một Nether Imp tấn công kẻ địch của bạn.  Mạnh hơn Nether Imp IV và có tỉ lệ làm câm lặng từng nhóm nhỏ kẻ địch.
+@@ 1556
+Triệu hồi một Gel chữa trị, hồi máu cho người thi triển và mọi đồng minh.
+@@ 1557
+Triệu hồi một nhóm 3 Skeletal Archer đứng yên tại chỗ để tấn công kẻ địch của bạn.
+@@ 1558
+Triệu hồi một nhóm 4 Skeletal Archer đứng yên tại chỗ để tấn công kẻ địch của bạn.
+@@ 1559
+Triệu hồi một nhóm 5 Skeletal Archer đứng yên tại chỗ để tấn công kẻ địch của bạn.
+@@ 1560
+Triệu hồi một nhóm 6 Skeletal Archer đứng yên tại chỗ để tấn công kẻ địch của bạn.
+@@ 1561
+Triệu hồi một nhóm 7 Skeletal Archer đứng yên tại chỗ để tấn công kẻ địch của bạn.
+@@ 1562
+Triệu hồi một nhóm 8 Skeletal Archer đứng yên tại chỗ để tấn công kẻ địch của bạn.
+@@ 1563
+Triệu hồi một Blood Skeleton tấn công kẻ địch của bạn.
+@@ 1564
+Triệu hồi một Skeletal Warrior tấn công kẻ địch của bạn.
+@@ 1565
+Triệu hồi một Flaming Sword được yểm phép để tấn công kẻ địch của bạn.
+@@ 1566
+Triệu hồi một bầy Zombie cảm tử để đầu độc kẻ địch của bạn.
+@@ 1567
+Triệu hồi một bầy Zombie cảm tử để đầu độc kẻ địch của bạn
+@@ 1568
+Kiến thức giúp tăng tỉ lệ tìm thấy vật phẩm ma thuật và vàng.  Chỉ có thể trang bị một bậc Treasure Hunter tại một thời điểm.
+@@ 1569
+Phóng ra những quả cầu đào xuyên lòng đất rồi phát nổ.
+@@ 1570
+Bắn ra một viên đạn tơ nhện dính, khiến mục tiêu không thể di chuyển.
+@@ 1571
+Phóng ra một chiếc đĩa lửa phát nổ.
+@@ 1572
+Rèn luyện giúp kháng lại các hiệu ứng làm chậm và bất động. Chỉ có thể trang bị một bậc Willpower tại một thời điểm.
+@@ 1573
+Bộ sưu tập Staff Legendary\nMón thứ nhất trong năm món
+@@ 1574
+Bộ sưu tập Staff Legendary\nMón thứ hai trong năm món
+@@ 1575
+Bộ sưu tập Staff Legendary\nMón thứ ba trong năm món
+@@ 1576
+Bộ sưu tập Staff Legendary\nMón thứ tư trong năm món
+@@ 1577
+Bộ sưu tập Staff Legendary\nMón thứ năm trong năm món
+@@ 1578
+Hãy cho kẻ địch biết thế nào mới thực sự là nỗi sợ hãi.
+@@ 1579
+Một di vật của Nine-Kings Provinces. Nó ban lời khuyên cho những ai chịu lắng nghe.
+@@ 1580
+Người ta từng thấy lũ goblin đầu hàng chỉ vì vừa trông thấy nó.
+@@ 1581
+Các nhà nghiên cứu của Industrium mô tả Shard là tinh thể "tiền Ember".
+@@ 1582
+"Kẻ nào chạm vào Wyrd sẽ cảm nhận được nhịp đập của thế giới."
+@@ 1583
+Madmorrow đã mang thứ này về từ "tận cùng thế giới."
+@@ 1584
+Tương truyền các bộ phận của nó được lấy từ một con chim máy lên dây cót.
+@@ 1585
+Có người tin rằng ban đầu nó là một công cụ của người lùn dùng để tháo rời người máy.
+@@ 1586
+Tương truyền cây trượng này rơi từ trên trời xuống, hai ngày sau khi một vì sao biến mất.
+@@ 1587
+Nó dõi nhìn thế gian bằng chính đôi mắt của Tử Thần ...
+@@ 1588
+Khi thời cơ chín muồi, nó sẽ đánh chén no nê.
+@@ 1589
+Đến từ những nơi không ai hay biết.
+@@ 1590
+Tộc Varkolyn đã chế tạo thứ này để chống lại người lùn.
+@@ 1591
+Được chính Professor Oswald Finneus Herkon chế tạo và sử dụng!
+@@ 1592
+Chặt đầu, hoặc phá nát bộ não. Đó là cách duy nhất.
+@@ 1593
+Khi vùng Provinces còn do sáu vị vua trị vì, đây là biểu tượng đoàn kết của họ.
+@@ 1594
+Hãy gia nhập Legion. Legion chào đón tất cả.
+@@ 1595
+Từng được dùng để khuất phục những pháp sư phản loạn mang tên Blackstaffs.
+@@ 1596
+Nó xơi người máy thay bữa tối.
+@@ 1597
+Được tạc từ xương sống lưng của một Great Dragon.
+@@ 1598
+Nó xơi Champion thay bữa sáng.
+@@ 1599
+Được tìm thấy giữa những đụn cát ở Salt Barrens, từ hơn một nghìn năm trước.
+@@ 1600
+Bộ sưu tập Sword Legendary\nMón thứ nhất trong bốn món
+@@ 1601
+Bộ sưu tập Sword Legendary\nMón thứ hai trong bốn món
+@@ 1602
+Bộ sưu tập Sword Legendary\nMón thứ ba trong bốn món
+@@ 1603
+Bộ sưu tập Sword Legendary\nMón thứ tư trong bốn món
+@@ 1604
+Người ta nói không kẻ tỉnh táo nào có thể cầm nó được lâu.
+@@ 1605
+Còn cách nào ngấm vào da thịt bạn hiệu quả hơn chứ?
+@@ 1606
+Eight-Legged Lord đã giết chết người anh hùng từng cầm nó.
+@@ 1607
+Thuốc chữa còn tệ hơn cả bệnh.
+@@ 1608
+Được sống thật tuyệt!
+@@ 1609
+Không cảm giác nào tuyệt hơn một chiến thắng vẻ vang.
+@@ 1610
+Nếu một cỗ máy trở chứng, có lẽ bạn cần cưỡng chế tắt máy.
+@@ 1611
+Răng càng dài, vết cắn càng sâu.
+@@ 1612
+Vuốt càng dài, vết cào càng sâu.
+@@ 1613
+Nanh càng dài, vết cắn càng chí mạng.
+@@ 1614
+Một chiếc nanh ấn tượng, đúc bằng thép.
+@@ 1615
+Nỗi sợ phàm trần mãi phủ vây, \nTất cả bởi họa người lùn gây.
+@@ 1616
+Chiếc nanh rồng, đúc bằng thép của người lùn.
+@@ 1617
+Được tạc từ răng rồng, và nhúng trong máu.
+@@ 1618
+Được tạc từ vuốt rồng, và nhúng trong máu.
+@@ 1619
+Được tạc từ nanh rồng, và nhúng trong máu.
+@@ 1620
+Nó có thể gọi bạn là "chủ nhân," nhưng bạn sẽ thấy mình như nô lệ của nó.
+@@ 1621
+Người chết đang ở đây ... cùng chúng ta.
+@@ 1622
+Bóng tối của hư không đang vẫy gọi...
+@@ 1623
+Càng to xác, càng lắm máu để đổ.
+@@ 1624
+Được rút ra từ khoảng không giữa các thế giới.
+@@ 1625
+Nó uống máu người sống ... và nó lúc nào cũng khát ...
+@@ 1626
+Hãy lắng nghe tiếng than khóc của những người đàn bà.
+@@ 1627
+Sứt mẻ
+@@ 1628
+Kèm Sharpness V
+@@ 1629
+Chẳng hơn gì Gỗ?
+@@ 1630
+Gây sát thương ba trái tim.
+@@ 1631
+Hai tấm ván và một que gỗ.
+@@ 1632
+[should not spawn naturally - tell Erich]
+@@ 1633
+Chỉ Pet mới có thể đeo Collar
+@@ 1634
+Chỉ Pet mới có thể đeo Pet Tag
+@@ 1635
+Nó rất có sức thuyết phục, khi được sử dụng đúng cách.
+@@ 1636
+Một khi bạn đã cài nó vào, không ai khác có thể tháo ra được.
+@@ 1637
+Ban đầu được làm riêng cho một con Pet tên là "Sparky."
+@@ 1638
+Flammenbund được làm từ da kỳ giông.

@@ -1,0 +1,200 @@
+@@ 3044
+Thời gian hiệu lực của Frenzy tăng lên 10 giây
+@@ 3045
+Thời gian hiệu lực của Frenzy tăng lên 12.5 giây
+@@ 3046
+Thời gian hiệu lực của Frenzy tăng lên 12 giây
+@@ 3047
+Thời gian hiệu lực của Frenzy tăng lên 11.5 giây
+@@ 3048
+Thời gian hiệu lực của Frenzy tăng lên 11 giây
+@@ 3049
+Thời gian hiệu lực của Frenzy tăng lên 13.5 giây
+@@ 3050
+Thời gian hiệu lực của Frenzy tăng lên 13 giây
+@@ 3051
+Bản năng hoang dã của bạn ngày càng mạnh mẽ và khó kìm nén, kéo dài thời gian hiệu lực của trạng thái Frenzy (có được khi làm đầy thanh |c00ff9933Charge|u).
+@@ 3052
+Sự hung tợn trong bạn xé nát giáp của kẻ địch, khiến chúng dễ tổn thương hơn sau mỗi đòn, đồng thời cướp một phần giáp của chúng về cho bạn.
+@@ 3053
+Chỉ áp dụng cho đòn cận chiến
+@@ 3054
+Thứ duy nhất cứng hơn thép là thép lạnh.
+@@ 3055
+Sự hung hãn trong chiến đấu giúp bạn đánh cùng lúc bằng hai vũ khí thường xuyên hơn. Mỗi khi tung đòn kép thành công, bạn tích |c00ff9933Charge|u nhanh hơn trong một thời gian ngắn.
+@@ 3056
+Chỉ có hiệu lực khi cầm hai vũ khí cùng loại
+@@ 3057
+5% tỉ lệ kích hoạt Rampage sau khi hạ một kẻ địch
+@@ 3058
+9% tỉ lệ kích hoạt Rampage sau khi hạ một kẻ địch
+@@ 3059
+7% tỉ lệ kích hoạt Rampage sau khi hạ một kẻ địch
+@@ 3060
+13% tỉ lệ kích hoạt Rampage sau khi hạ một kẻ địch
+@@ 3061
+11% tỉ lệ kích hoạt Rampage sau khi hạ một kẻ địch
+@@ 3062
+17% tỉ lệ kích hoạt Rampage sau khi hạ một kẻ địch
+@@ 3063
+15% tỉ lệ kích hoạt Rampage sau khi hạ một kẻ địch
+@@ 3064
+21% tỉ lệ kích hoạt Rampage sau khi hạ một kẻ địch
+@@ 3065
+19% tỉ lệ kích hoạt Rampage sau khi hạ một kẻ địch
+@@ 3066
+29% tỉ lệ kích hoạt Rampage sau khi hạ một kẻ địch
+@@ 3067
+27% tỉ lệ kích hoạt Rampage sau khi hạ một kẻ địch
+@@ 3068
+25% tỉ lệ kích hoạt Rampage sau khi hạ một kẻ địch
+@@ 3069
+23% tỉ lệ kích hoạt Rampage sau khi hạ một kẻ địch
+@@ 3070
+33% tỉ lệ kích hoạt Rampage sau khi hạ một kẻ địch
+@@ 3071
+31% tỉ lệ kích hoạt Rampage sau khi hạ một kẻ địch
+@@ 3072
+Mỗi kẻ địch bạn hạ bằng vũ khí cận chiến có tỉ lệ đẩy bạn vào cơn Rampage sục sôi adrenaline.\n   |cFF4AC4F7Tăng 25% tốc độ đánh trong 5 giây\n   Tăng 25% tốc độ thi triển trong 5 giây\n   Tăng 12% tốc độ di chuyển trong 5 giây|u
+@@ 3073
+Mỗi khi bạn tung đòn chí mạng, tối đa hai kẻ địch ở gần có thể bị hiện thân của cơn khát máu trong bạn cắn xé.
+@@ 3074
+Cái lạnh thấu xương của phương bắc lan tỏa ra từ bạn, từ từ rút cạn sinh mệnh của mọi kẻ địch trong phạm vi 16 mét.
+@@ 3075
+Thêm 25% tỉ lệ đóng băng kẻ địch trong 6 giây
+@@ 3076
+Thêm 25% tỉ lệ làm bất động hoàn toàn kẻ địch trong 6 giây
+@@ 3077
+Tỉ lệ làm bất động kẻ địch tăng lên 50%
+@@ 3078
+Bạn xiên mọi kẻ địch trong phạm vi 6 mét và kéo nhanh chúng vào tầm cận chiến.
+@@ 3079
+Thời gian làm choáng tăng lên 2 giây
+@@ 3080
+Phạm vi tăng lên 9 mét
+@@ 3081
+Phá vỡ khiên
+@@ 3082
+Một đòn phản công nhanh vào kẻ tấn công
+@@ 3083
+Thời gian tối thiểu giữa các đòn: 2 giây
+@@ 3084
+Thời gian tối thiểu giữa các đòn: 1.6 giây
+@@ 3085
+Thời gian tối thiểu giữa các đòn: 1.8 giây
+@@ 3086
+Thời gian tối thiểu giữa các đòn: 1.2 giây
+@@ 3087
+Thời gian tối thiểu giữa các đòn: 1.4 giây
+@@ 3088
+Thời gian tối thiểu giữa các đòn: .8 giây
+@@ 3089
+Thời gian tối thiểu giữa các đòn: 1 giây
+@@ 3090
+Thời gian tối thiểu giữa các đòn: .4 giây
+@@ 3091
+Thời gian tối thiểu giữa các đòn: .6 giây
+@@ 3092
+Sát thương tăng lên 140% DPS của vũ khí. Không có độ trễ giữa các đòn.
+@@ 3093
+Sát thương tăng lên 130% DPS của vũ khí. Không có độ trễ giữa các đòn.
+@@ 3094
+Không có độ trễ giữa các đòn.
+@@ 3095
+Thời gian tối thiểu giữa các đòn: .2 giây
+@@ 3096
+Sát thương tăng lên 160% DPS của vũ khí. Không có độ trễ giữa các đòn.
+@@ 3097
+Sát thương tăng lên 150% DPS của vũ khí. Không có độ trễ giữa các đòn.
+@@ 3098
+Khi bạn bị kẻ địch ở gần đánh trúng, cơn thịnh nộ bên trong bạn hiện hình và phản đòn kẻ địch đó. Sát thương bằng 120% DPS của vũ khí. Mỗi mục tiêu chỉ có thể bị đánh trúng tối đa một lần mỗi giây.
+@@ 3099
+Truyền 15% sát thương gây ra trong 8 giây
+@@ 3100
+Yêu cầu vũ khí cận chiến để kích hoạt.
+@@ 3101
+Truyền 19% sát thương gây ra trong 9 giây
+@@ 3102
+Truyền 17% sát thương gây ra trong 8.5 giây
+@@ 3103
+Truyền 23% sát thương gây ra trong 10 giây
+@@ 3104
+Truyền 21% sát thương gây ra trong 9.5 giây
+@@ 3105
+Truyền 27% sát thương gây ra trong 11 giây
+@@ 3106
+Truyền 25% sát thương gây ra trong 10.5 giây
+@@ 3107
+Truyền 31% sát thương gây ra trong 12 giây
+@@ 3108
+Truyền 29% sát thương gây ra trong 11.5 giây
+@@ 3109
+Truyền 39% sát thương gây ra trong 14 giây
+@@ 3110
+Truyền 37% sát thương gây ra trong 13.5 giây
+@@ 3111
+Truyền 35% sát thương gây ra trong 13 giây
+@@ 3112
+Truyền 33% sát thương gây ra trong 12.5 giây
+@@ 3113
+Truyền 43% sát thương gây ra trong 15 giây
+@@ 3114
+Truyền 41% sát thương gây ra trong 14.5 giây
+@@ 3115
+Bạn trói buộc một nhóm kẻ địch trong bán kính 5 mét quanh vị trí mục tiêu. Mọi đòn cận chiến sau đó của bạn sẽ truyền một phần trăm sát thương sang tất cả mục tiêu bị Shadowbind.
+@@ 3116
+Bán kính hiệu ứng tăng lên 7 mét
+@@ 3117
+Bán kính hiệu ứng tăng lên 9 mét
+@@ 3118
+Bán kính hiệu ứng tăng lên 11 mét
+@@ 3119
+Mỗi mục tiêu trúng đòn hồi 5% máu cho bạn, tối đa 2 mục tiêu
+@@ 3120
+Mỗi mục tiêu trúng đòn hồi 6% máu cho bạn, tối đa 2 mục tiêu
+@@ 3121
+Mỗi mục tiêu trúng đòn hồi 5.5% máu cho bạn, tối đa 2 mục tiêu
+@@ 3122
+Mỗi mục tiêu trúng đòn hồi 7% máu cho bạn, tối đa 3 mục tiêu
+@@ 3123
+Mỗi mục tiêu trúng đòn hồi 6.5% máu cho bạn, tối đa 2 mục tiêu
+@@ 3124
+Mỗi mục tiêu trúng đòn hồi 8% máu cho bạn, tối đa 3 mục tiêu
+@@ 3125
+Mỗi mục tiêu trúng đòn hồi 7.5% máu cho bạn, tối đa 3 mục tiêu
+@@ 3126
+Mỗi mục tiêu trúng đòn hồi 9% máu cho bạn, tối đa 3 mục tiêu
+@@ 3127
+Mỗi mục tiêu trúng đòn hồi 8.5% máu cho bạn, tối đa 3 mục tiêu
+@@ 3128
+Mỗi mục tiêu trúng đòn hồi 11% máu cho bạn, tối đa 4 mục tiêu
+@@ 3129
+Mỗi mục tiêu trúng đòn hồi 10.5% máu cho bạn, tối đa 4 mục tiêu
+@@ 3130
+Mỗi mục tiêu trúng đòn hồi 10% máu cho bạn, tối đa 4 mục tiêu
+@@ 3131
+Mỗi mục tiêu trúng đòn hồi 9.5% máu cho bạn, tối đa 4 mục tiêu
+@@ 3132
+Mỗi mục tiêu trúng đòn hồi 12% máu cho bạn, tối đa 5 mục tiêu
+@@ 3133
+Mỗi mục tiêu trúng đòn hồi 11.5% máu cho bạn, tối đa 4 mục tiêu
+@@ 3134
+Bạn hóa thành một con sói ma và lao xuyên qua kẻ địch, vừa gây sát thương cho chúng vừa hồi máu cho bản thân. Lượng hồi máu chỉ tính tối đa 2 mục tiêu mỗi lần Burst.
+@@ 3135
+Có thể hồi máu từ 3 mục tiêu mỗi lần Burst. Tỉ lệ phá khiên tăng lên 50%.
+@@ 3136
+Có thể hồi máu từ 4 mục tiêu mỗi lần Burst. Tỉ lệ phá khiên tăng lên 75%.
+@@ 3137
+Có thể hồi máu từ 5 mục tiêu mỗi lần Burst. Tỉ lệ phá khiên tăng lên 100%.
+@@ 3138
+ Khi bạn hạ gục kẻ địch đang bị đóng băng, bạn thổi tung kẻ địch xung quanh bằng một vòng băng giá 4 mét, khiến chúng dễ chịu thêm sát thương từ các đòn tấn công Ice.
+@@ 3139
+Berserker bộc phát cơn thịnh nộ khát máu, tấn công bừa bãi mọi thứ xung quanh
+@@ 3140
+Bạn truyền năng lượng điện vào vũ khí. Nguồn năng lượng này có thể phóng ra một tia sét lan sang các mục tiêu xung quanh khi bạn đánh trúng kẻ địch. Tia sét có thể nảy chuyền tối đa 2 lần.
+@@ 3141
+Yêu cầu đòn đánh thường bằng vũ khí cận chiến để kích hoạt.
+@@ 3142
+Tia sét có thể nảy chuyền tối đa 3 lần
+@@ 3143
+Tia sét có thể nảy chuyền tối đa 4 lần

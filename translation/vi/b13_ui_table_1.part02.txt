@@ -1,0 +1,280 @@
+@@ 5920
+Blade of the Ripper
+@@ 5921
+Dùng thuốc nổ thổi bay cá khỏi mặt nước!
+@@ 5922
+Bleak Chamber
+@@ 5923
+Kỹ năng Blitz
+@@ 5924
+Chặn
+@@ 5925
+Danh sách chặn
+@@ 5926
+Chặn người chơi
+@@ 5927
+Blood and Black Lace
+@@ 5928
+Bloom
+@@ 5929
+Bloom thêm hiệu ứng phát sáng vào game.\nTắt Bloom có thể tăng tốc độ khung hình.
+@@ 5930
+Bones
+@@ 5931
+Dexterity cộng thêm từ trang bị và hiệu ứng
+@@ 5932
+Focus cộng thêm từ trang bị và hiệu ứng
+@@ 5933
+Hệ số nhân thêm cho Dexterity gốc
+@@ 5934
+Hệ số nhân thêm cho Focus gốc
+@@ 5935
+Hệ số nhân thêm cho Strength gốc
+@@ 5936
+Hệ số nhân thêm cho Vitality gốc
+@@ 5937
+Strength cộng thêm từ trang bị và hiệu ứng
+@@ 5938
+Vitality cộng thêm từ trang bị và hiệu ứng
+@@ 5939
+Ô Boots (Trống)
+@@ 5940
+Boss Chest
+@@ 5941
+Đồ vật phá được
+@@ 5942
+Đồ vật đã phá
+@@ 5943
+Broken Detonator
+@@ 5944
+Brood Hive
+@@ 5945
+Mở trang web
+@@ 5946
+Bruce Miles\nLev Liberman\nLani Minella\nAnna Vocino\nRowell Gormon\nSusanna Burney\nMike Vaughn\nSam Brando\nKate Yeager\nBobby Baldwin\nEric Newsome\nPeta Johnson\nChris Ackerman\n\n|cFFF5DB94Thu âm tại|u\nPure Audio
+@@ 5947
+Bận
+@@ 5948
+Mua bản đầy đủ
+@@ 5949
+Mua lại vật phẩm từ thương nhân
+@@ 5950
+Nếu thoát ra |cFFEAAA15menu chính|u lúc này, bạn sẽ mất mọi tiến trình kể từ khi vào khu vực hiện tại!\n
+@@ 5951
+Thực hiện thao tác này sẽ phá hủy mọi vật phẩm đã khảm trong món đồ, để trống các ô Socket.
+@@ 5952
+Thực hiện thao tác này sẽ phá hủy trang bị và trả lại cho bạn mọi vật phẩm đã khảm trong đó.
+@@ 5953
+Cabin Trunk
+@@ 5954
+Hủy
+@@ 5955
+Hủy kết nối
+@@ 5956
+Hủy yêu cầu giao dịch
+@@ 5957
+Hủy và bỏ các thay đổi
+@@ 5958
+Hủy sau
+@@ 5959
+Caps Lock đang bật
+@@ 5960
+Tốc độ thi triển cộng thêm
+@@ 5961
+Catacombs Boss
+@@ 5962
+Căn giữa quả cầu UI
+@@ 5963
+Căn giữa quả cầu UI sẽ đặt quả cầu máu và Mana \nngay cạnh thanh phím tắt thay vì ở các góc màn hình.
+@@ 5964
+Champion đã hạ
+@@ 5965
+Tỉ lệ đòn đánh thường hoặc kỹ năng gây sát thương \ntrở thành 'Chí mạng', gây sát thương tối đa \ncộng thêm hệ số Sát thương chí mạng (bên dưới)
+@@ 5966
+Tỉ lệ đòn đánh thường bị 'Fumble',\nlàm giảm sát thương theo mức phạt (ngay bên dưới)
+@@ 5967
+Tỉ lệ đỡ được đòn đánh trực tiếp nhận vào,\nchặn toàn bộ sát thương. \nNhân vật phải trang bị Shield mới có thể đỡ đòn.
+@@ 5968
+Tỉ lệ né được đòn đánh trực tiếp nhận vào,\ntránh toàn bộ sát thương
+@@ 5969
+Tỉ lệ phản lại đòn đánh tầm xa
+@@ 5970
+Tỉ lệ, khi cầm hai vũ khí cùng loại,\nđể đòn đánh thường được nâng thành \nđòn đánh kép bằng cả hai vũ khí
+@@ 5971
+Đổi thứ tự sắp xếp
+@@ 5972
+Chaos
+@@ 5973
+Chi tiết mod của nhân vật
+@@ 5974
+Bảng nhân vật
+@@ 5975
+Bảng nhân vật [[KB:StatMenu]]
+@@ 5976
+Không thể chơi nhân vật này ở chế độ Demo
+@@ 5977
+Nhân vật
+@@ 5978
+Ô Chest Armor (Trống)
+@@ 5979
+Chest of Kings
+@@ 5980
+Chest of Queens
+@@ 5981
+Chest of Wazir
+@@ 5982
+Chọn điểm đến trên bản đồ
+@@ 5983
+Hãy chọn một cánh cửa
+@@ 5984
+Chọn một Spell để xóa bỏ vĩnh viễn
+@@ 5985
+Đoạn phim
+@@ 5986
+Xóa
+@@ 5987
+Bỏ gán
+@@ 5988
+Xóa vật phẩm và vàng trong giao dịch
+@@ 5989
+Nhấp để dùng Health Potion tốt nhất ( [KB:BESTPETPOTION] )
+@@ 5990
+Nhấp để dùng Mana Potion tốt nhất ( [KB:BESTPETMANA] )
+@@ 5991
+Clockwork Core
+@@ 5992
+Đóng
+@@ 5993
+Đóng cổng dịch chuyển đang mở
+@@ 5994
+Đóng bảng
+@@ 5995
+Ô Collar\n\n |c00ff9933Cách tốt nhất để tìm\nCollar là câu cá ở\nnhững vùng nguy hiểm!|u
+@@ 5996
+Nhật ký chiến đấu
+@@ 5997
+ComboText
+@@ 5998
+Nhiệm vụ đã hoàn thành
+@@ 5999
+Xác nhận
+@@ 6000
+Xác nhận mật khẩu
+@@ 6001
+Xác nhận phần thưởng đã chọn
+@@ 6002
+Xác nhận giao dịch
+@@ 6003
+Xung đột
+@@ 6004
+Chúc mừng
+@@ 6005
+Đang kết nối
+@@ 6006
+Đang kết nối tới dịch vụ sảnh chờ...
+@@ 6007
+Kỹ năng Construction
+@@ 6008
+Đồ tiêu hao
+@@ 6009
+Hành trang đồ tiêu hao
+@@ 6010
+Thẻ đồ tiêu hao
+@@ 6011
+Vẫn tiếp tục
+@@ 6012
+Tiếp tục tới trang web \nquản lý tài khoản Runic Games?
+@@ 6013
+Điều khiển
+@@ 6014
+Điều khiển
+@@ 6015
+Ban cho
+@@ 6016
+Không thể kết nối tới máy chủ sảnh chờ
+@@ 6017
+Crab Nest
+@@ 6018
+Được chế tác bởi tử linh sư hùng mạnh nhất cõi sống ... và cõi chết.
+@@ 6019
+Được chế tác bởi tử linh sư hùng mạnh nhất cõi sống và cõi chết.
+@@ 6020
+Tạo phòng
+@@ 6021
+Tạo phòng mới
+@@ 6022
+Tạo tài khoản mới, \nquản lý tài khoản hiện có,\nhoặc lấy lại mật khẩu đã quên.
+@@ 6023
+Tạo hoặc quản lý tài khoản của bạn!
+@@ 6024
+Đội ngũ thực hiện
+@@ 6025
+Chí mạng và né tránh
+@@ 6026
+Sát thương chí mạng
+@@ 6027
+Sát thương chí mạng cộng thêm
+@@ 6028
+Crow's Pass
+@@ 6029
+Crows' Pass
+@@ 6030
+Ctr
+@@ 6031
+Ctrl
+@@ 6032
+Ctrl-click để tách chồng
+@@ 6033
+Cấp hiện tại:
+@@ 6034
+Vị trí hiện tại
+@@ 6035
+DEMO
+@@ 6036
+Góc sát thương
+@@ 6037
+Sát thương gây ra
+@@ 6038
+Sát thương mỗi giây
+@@ 6039
+Sát thương nhận vào
+@@ 6040
+Mức phạt sát thương khi đòn đánh bị Fumble
+@@ 6041
+Daphne Cabral\nEmily and Bunny\nGabbers\nKatie Garner\nZoey Baldree\nEmma June Baldree\nGearbox\nWade Callender\nDavid Eddings\nBen Donges\nFalcor \n
+@@ 6042
+Thân gửi người chơi:
+@@ 6043
+Từ chối nhiệm vụ
+@@ 6044
+Từ chối yêu cầu giao dịch
+@@ 6045
+Mặc định
+@@ 6046
+Đánh bại Troll
+@@ 6047
+Đánh bại các phù thủy
+@@ 6048
+Xóa
+@@ 6049
+Mô tả
+@@ 6050
+Mô tả của phòng
+@@ 6051
+Phá hủy các Gem đang khảm trên vật phẩm này
+@@ 6052
+Phá hủy những ngôi mộ trồi lên
+@@ 6053
+Phá hủy vật phẩm này để thu hồi các Gem đã khảm
+@@ 6054
+Chi tiết
+@@ 6055
+Detonator
+@@ 6056
+Dexterity cộng thêm
+@@ 6057
+Dialog Text
+@@ 6058
+Độ khó của máy chủ
+@@ 6059
+Độ khó của các phòng được liệt kê

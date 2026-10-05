@@ -1,0 +1,200 @@
+@@ 3810
+Triệu hồi một nhóm 7 Skeletal Archer đứng yên tấn công kẻ địch. Thời gian hồi pet: 60 giây.
+@@ 3811
+Triệu hồi một nhóm 8 Skeletal Archer đứng yên tấn công kẻ địch. Thời gian hồi pet: 60 giây.
+@@ 3812
+Triệu hồi một Flaming Sword được phù phép tấn công kẻ địch. Thời gian hồi pet: 120 giây.
+@@ 3813
+Triệu hồi một Flaming Sword cường hóa tấn công kẻ địch. Thời gian hồi pet: 120 giây.
+@@ 3814
+Triệu hồi một Nether Imp tấn công kẻ địch trong 30 giây
+@@ 3815
+Triệu hồi một Nether Imp tấn công kẻ địch trong 30 giây.  Mạnh hơn Nether Imp I và có cơ hội gây câm lặng khi tấn công.
+@@ 3816
+Triệu hồi một Nether Imp tấn công kẻ địch trong 30 giây.  Mạnh hơn Nether Imp II và có cơ hội gây câm lặng cao hơn khi tấn công.
+@@ 3817
+Triệu hồi một Nether Imp tấn công kẻ địch trong 30 giây.  Mạnh hơn Nether Imp III và có cơ hội gây câm lặng cao hơn khi tấn công.
+@@ 3818
+Triệu hồi một Nether Imp tấn công kẻ địch trong 30 giây.  Mạnh hơn Nether Imp IV và khi tấn công có cơ hội làm câm lặng mọi kẻ địch gần đó.
+@@ 3819
+Triệu hồi một Skeletal Warrior tấn công kẻ địch. Thời gian hồi pet: 60 giây.
+@@ 3820
+Triệu hồi một Skeletal Warrior cường hóa tấn công kẻ địch. Thời gian hồi pet: 60 giây.
+@@ 3821
+Triệu hồi một Blood Skeleton tấn công kẻ địch. Thời gian hồi pet: 30 giây.
+@@ 3822
+Triệu hồi một Blood Zombie đáng sợ. Thời gian hồi pet: 120 giây.
+@@ 3823
+Triệu hồi một bầy Zombie cảm tử làm trúng độc kẻ địch. Thời gian hồi pet: 120 giây.
+@@ 3824
+Triệu hồi một bầy Zombie cảm tử làm trúng độc kẻ địch. Zombie phiên bản II có đòn độc hiểm ác hơn. Thời gian hồi pet: 120 giây.
+@@ 3825
+Triệu hồi một bầy Zombie cảm tử làm trúng độc kẻ địch. Zombie phiên bản III có đòn độc còn hiểm ác hơn nữa. Thời gian hồi pet: 120 giây.
+@@ 3826
+Triệu hồi một bầy Zombie cảm tử làm trúng độc kẻ địch. Zombie phiên bản IV có đòn độc lại càng hiểm ác hơn. Thời gian hồi pet: 120 giây.
+@@ 3827
+Triệu hồi một bầy Zombie cảm tử làm trúng độc kẻ địch. Zombie phiên bản V nâng cấp đòn độc lên mức cao hơn bao giờ hết. Thời gian hồi pet: 120 giây.
+@@ 3828
+Triệu hồi một bầy Zombie cảm tử làm trúng độc kẻ địch. Zombie phiên bản VI có đòn độc hiểm ác nhất! Thời gian hồi pet: 120 giây.
+@@ 3829
+Tạo một cổng dịch chuyển ma thuật hai chiều về thị trấn.
+@@ 3830
+Những quả đạn pháo phát nổ không biết yêu thương là gì
+@@ 3831
+Bắn ra một viên đạn mạng nhện dính, khiến mục tiêu không thể di chuyển
+@@ 3832
+Dragon Shrine đã ban cho bạn một hiệu ứng có lợi ma thuật.
+@@ 3833
+Ba quả cầu lửa bắn ra từ người chơi.
+@@ 3834
+Một nhát chém vút cực mạnh
+@@ 3835
+Thử nghiệm vòng lặp vào hoạt ảnh
+@@ 3836
+Giải phóng một sức mạnh thiên nhiên bùng nổ dữ dội trước mặt người chơi.
+@@ 3837
+Tạo ra một hàng bộ xương
+@@ 3838
+Dậm chân, đẩy lùi kẻ địch
+@@ 3839
+Ném một thiết bị rút giáp của mọi kẻ địch gần đó. Rút 34% giáp kẻ địch và có 12% cơ hội làm choáng trong 3 giây.
+@@ 3840
+Ném một thiết bị rút giáp của mọi kẻ địch gần đó. Rút 32% giáp kẻ địch và có 11% cơ hội làm choáng trong 3 giây.
+@@ 3841
+Ném một thiết bị rút giáp của mọi kẻ địch gần đó. Rút 38% giáp kẻ địch và có 14% cơ hội làm choáng trong 3 giây.
+@@ 3842
+Ném một thiết bị rút giáp của mọi kẻ địch gần đó. Rút 36% giáp kẻ địch và có 13% cơ hội làm choáng trong 3 giây.
+@@ 3843
+Ném một thiết bị rút giáp của mọi kẻ địch gần đó. Rút 42% giáp kẻ địch và có 16% cơ hội làm choáng trong 3 giây.
+@@ 3844
+Ném một thiết bị rút giáp của mọi kẻ địch gần đó. Rút 40% giáp kẻ địch và có 15% cơ hội làm choáng trong 3 giây.
+@@ 3845
+Ném một thiết bị rút giáp của mọi kẻ địch gần đó. Rút 46% giáp kẻ địch và có 18% cơ hội làm choáng trong 3 giây.
+@@ 3846
+Ném một thiết bị rút giáp của mọi kẻ địch gần đó. Rút 44% giáp kẻ địch và có 17% cơ hội làm choáng trong 3 giây.
+@@ 3847
+Ném một thiết bị rút giáp của mọi kẻ địch gần đó. Rút 52% giáp kẻ địch và có 21% cơ hội làm choáng trong 3 giây.
+@@ 3848
+Ném một thiết bị rút giáp của mọi kẻ địch gần đó. Rút 50% giáp kẻ địch và có 20% cơ hội làm choáng trong 3 giây.
+@@ 3849
+Ném một thiết bị rút giáp của mọi kẻ địch gần đó. Rút 48% giáp kẻ địch và có 19% cơ hội làm choáng trong 3 giây.
+@@ 3850
+Ném một thiết bị rút giáp của mọi kẻ địch gần đó. Rút 30% giáp kẻ địch và có 10% cơ hội làm choáng trong 3 giây.
+@@ 3851
+Gọi xuống một trận mưa tên xuyên thủng kẻ địch
+@@ 3852
+Bắn một viên đạn từ bất kỳ vũ khí tầm xa nào đang trang bị, phát nổ khi va chạm, gây sát thương cho kẻ địch trong phạm vi 4.5 mét
+@@ 3853
+Ném một thiết bị phun lửa thiêu đốt kẻ địch gần đó, tàn phá nặng nề những kẻ địch có kháng thấp.
+@@ 3854
+Một cú lướt nhanh chém kẻ địch bằng cặp dao găm, cản trở di chuyển và gây chảy máu.
+@@ 3855
+Bắn một viên đạn Ice xuyên thấu từ vũ khí tầm xa
+@@ 3856
+Phóng ra một vòng cung 5 phi tiêu xuyên thủng kẻ địch
+@@ 3857
+Phóng ra một vòng cung 7 phi tiêu xuyên thủng kẻ địch
+@@ 3858
+Phóng ra một vòng cung 3 phi tiêu xuyên thủng kẻ địch
+@@ 3859
+Bắn một viên đạn nảy bật từ vũ khí tầm xa đang dùng
+@@ 3860
+Bắn ra 3 viên đạn tự tìm đến kẻ địch gần đó
+@@ 3861
+Ném một thiết bị phóng tia sét gây sốc điện kẻ địch gần đó
+@@ 3862
+Ném một thiết bị bắn ra hàng loạt mũi tiêu nhọn xuyên thấu vào kẻ địch
+@@ 3863
+Một đòn đâm tàn bạo về phía trước bằng hai dao găm
+@@ 3864
+Đẩy lùi kẻ địch gần đó bằng một sức mạnh chính nghĩa lạnh buốt.
+@@ 3865
+Ném một quả bom tách thành các tia điện khi va chạm
+@@ 3866
+Phóng ra một bộ dao găm tẩm độc được phù phép, chậm rãi tìm đến và xuyên thủng kẻ địch
+@@ 3867
+Bạn bắn ra ba viên đạn hỗn loạn nảy bật.
+@@ 3868
+Yêu cầu Bow, Crossbow, Shotgonne hoặc Pistol
+@@ 3869
+Tốc độ đạn tăng 50%
+@@ 3870
+Đạn có 30% cơ hội làm mục tiêu trúng độc
+@@ 3871
+Thêm 2 viên đạn mỗi loạt
+@@ 3872
+Bạn phóng 9 con dao găm xuyên thấu theo một vòng cung rộng, làm trúng độc và làm suy yếu nhiều kẻ địch cùng lúc, giảm sát thương chúng gây ra.
+@@ 3873
+Số dao găm tăng lên 11. Bạn được tăng .5% tốc độ di chuyển cho mỗi kẻ địch trúng đòn, trong 4 giây.
+@@ 3874
+Số dao găm tăng lên 13. Bạn được tăng .5% tỉ lệ chí mạng cho mỗi kẻ địch trúng đòn, trong 4 giây.
+@@ 3875
+Số dao găm tăng lên 15. Bạn được tăng .5% sát thương cho mỗi kẻ địch trúng đòn, trong 4 giây.
+@@ 3876
+Bạn thực hiện một cú nhảy xoay tròn rực lửa, lao về phía trước tối đa 7 mét. Kẻ địch trúng đòn trên đường đi bị đẩy lùi và bị thiêu đốt.
+@@ 3877
+Thi triển nhanh hơn 10% và tầm nhảy tăng lên 9 mét
+@@ 3878
+Thi triển nhanh hơn 20% và tầm nhảy tăng lên 11 mét
+@@ 3879
+Thi triển nhanh hơn 30% và tầm nhảy tăng lên 13 mét
+@@ 3880
+Bắn ra một vòng xoắn mũi tên chết chóc đánh trúng kẻ địch xung quanh bạn
+@@ 3881
+Bạn ném một chiếc Glaive vỡ tan khi va chạm, gây sát thương và làm chậm mọi kẻ địch trong phạm vi 4.5 mét.
+@@ 3882
+Thêm 25% cơ hội khiến mục tiêu hoảng sợ bỏ chạy trong 3 giây
+@@ 3883
+Phạm vi nổ tăng lên 6 mét
+@@ 3884
+Các vệt lửa tỏa ra từ điểm nổ
+@@ 3885
+Bạn quét Glaive theo vòng cung 360 độ, đẩy lùi và làm choáng kẻ địch trong phạm vi 4 mét, đồng thời tạo thêm |c00ff9933Charge|u với mỗi kẻ địch trúng đòn.
+@@ 3886
+Mục tiêu bị chảy máu
+@@ 3887
+Phạm vi tăng lên 5.5 mét
+@@ 3888
+Tỉ lệ làm choáng tăng lên 95%
+@@ 3889
+Bạn ném một chiếc Glaive chém xuyên qua mục tiêu, nảy bật một lần để đánh trúng thêm kẻ địch khác và tạo thêm |c00ff9933Charge|u.
+@@ 3890
+Glaive nảy bật 2 lần
+@@ 3891
+Glaive nảy bật 3 lần
+@@ 3892
+Glaive nảy bật 4 lần
+@@ 3893
+Nảy thêm 1 lần
+@@ 3894
+Nó quay về kìa!
+@@ 3895
+Sự tập trung cao độ giúp bạn làm chủ Charge, lập tức chuyển hóa nó thành máu và Mana, đồng thời tăng thêm kháng Elemental. Lượng tăng tỉ lệ thuận với lượng Charge tiêu hao.
+@@ 3896
+Nguyền rủa một kẻ địch, gây sát thương theo thời gian và khiến kẻ địch hoảng sợ bỏ chạy khi nó chết.
+@@ 3897
+Khiến kẻ địch trong phạm vi hoảng sợ tột độ mà bỏ chạy
+@@ 3898
+Bạn ném hai chiếc Glaive rực lửa bay vòng ra ngoài theo các vòng tròn đồng tâm, chém mọi kẻ địch trong phạm vi và thiêu đốt chúng.
+@@ 3899
+Kích thước Glaive tăng lên, giúp đánh trúng chính xác hơn
+@@ 3900
+Kẻ địch trúng đòn dễ tổn thương hơn 30% trước sát thương Fire và Poison
+@@ 3901
+Kẻ địch trúng đòn dễ tổn thương hơn 45% trước sát thương Fire và Poison
+@@ 3902
+Bạn triệu gọi một lời nguyền cổ xưa bảo vệ bạn và đồng minh khỏi sát thương Physical và Elemental, đồng thời phản một phần sát thương lại kẻ tấn công. Stone Pact kéo dài hai mươi giây, và mọi đồng minh đi qua khu vực khế ước đều được hưởng hiệu ứng trong thời gian hiệu lực đã ghi.
+@@ 3903
+Khế ước phản lại 25% sát thương cho quái tấn công
+@@ 3904
+Khế ước phản lại 50% sát thương cho quái tấn công
+@@ 3905
+Khế ước phản lại 75% sát thương cho quái tấn công
+@@ 3906
+Một đợt hồi máu bùng nổ.
+@@ 3907
+Nghiên cứu tuyến thượng thận!
+@@ 3908
+Bạn triệu gọi một lời nguyền cổ xưa làm chậm kẻ địch và làm suy yếu phòng thủ của chúng. Blade Pact kéo dài bảy giây, và mọi kẻ địch đi qua khu vực khế ước đều chịu hiệu ứng trong thời gian hiệu lực đã ghi.
+@@ 3909
+Khế ước kéo dài 9 giây
